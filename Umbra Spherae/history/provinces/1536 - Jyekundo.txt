@@ -1,0 +1,22 @@
+# 1271 - Jyekundo
+
+# County Title
+title = c_jyekundo
+# Settlements
+max_settlements = 4
+b_xangda = castle
+b_jyekundo = city
+#b_zadoi = city
+#b_chindu = temple
+#b_zhidoi = castle
+#b_doendrub = temple
+b_dangla = castle
+
+# Misc
+culture = sumpa
+religion = bon
+
+# History
+
+900.1.1 = { religion = vajrayana }
+1000.1.1 = { culture = bodpa }

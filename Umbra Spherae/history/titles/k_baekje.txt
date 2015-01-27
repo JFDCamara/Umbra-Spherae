@@ -1,0 +1,10 @@
+#Gyeon Dynasty
+900.1.1={
+	holder=1000202742 #Hwon
+}
+935.1.1={
+	holder=1000202743 #Singeom
+}
+936.1.1={
+	holder=0
+}

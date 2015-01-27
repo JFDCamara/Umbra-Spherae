@@ -1,0 +1,21 @@
+# 1070 - Lavodayapura
+
+# County Title
+title = c_lavodayapura
+
+# Settlements
+max_settlements = 5
+b_thanon_yai = castle
+b_lavodayapura = city
+b_pho_kao_ton = temple
+b_tha_wung = castle
+#b_ban_mi =
+#b_khok_samrong =
+#b_sa_bot =
+#b_phatthana_nikhon =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

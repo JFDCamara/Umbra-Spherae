@@ -1,0 +1,21 @@
+# 1124 - Ngoenyang
+
+# County Title
+title = c_ngoenyang
+
+# Settlements
+max_settlements = 5
+b_ban_saeo = castle
+b_ngoenyang = city
+b_chiang_saen = temple
+b_mae_chan = castle
+#b_wiang_chiang_rung =
+#b_chiang_khong =
+#b_sathan =
+#b_si_don_chai =
+
+# Misc
+culture = thai
+religion = buddhist
+
+# History

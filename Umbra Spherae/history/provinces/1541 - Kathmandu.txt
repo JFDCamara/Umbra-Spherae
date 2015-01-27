@@ -1,0 +1,18 @@
+# 1020 - Kathmandu
+
+# County Title
+title = c_kathmandu
+
+# Settlements
+max_settlements = 5
+b_lalitpur = castle
+b_kathmandu_k = city
+b_patan_kathmandu = city
+b_kirtipur = castle
+b_pashupatinath = temple
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

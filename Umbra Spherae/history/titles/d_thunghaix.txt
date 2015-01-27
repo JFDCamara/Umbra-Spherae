@@ -1,0 +1,53 @@
+#Thanasukolwit Dynasty (placeholders)
+750.1.1={
+	liege="k_dali"
+}
+750.1.1={
+	holder=1000203868 #Lao-Kap
+}
+780.1.1={
+	holder=1000203869 #Chom-Pha-Rueang
+}
+810.1.1={
+	holder=1000203870 #Lao-Sin
+}
+840.1.1={
+	holder=1000202247 #Kham-Rue
+}
+870.1.1={
+	holder=1000202248 #Khun-Kruea
+}
+900.1.1={
+	holder=1000202249 #Thau-Nam-Tuam
+}
+930.1.1={
+	holder=1000202250 #Chaisongkram
+}
+960.1.1={
+	holder=1000202251 #Lao-Som
+}
+990.1.1={
+	holder=1000202252 #Lao-Khim
+}
+1020.1.1={
+	holder=1000202253 #Pa-Yu
+}
+1050.1.1={
+	holder=1000202254 #Tsao-Puwak
+}
+1080.1.1={
+	holder=1000202255 #Saen-Phu
+}
+1110.1.1={
+	holder=1000202256 #Kue-Na
+}
+1140.1.1={
+	holder=1000202257 #Ai-Pung
+}
+1170.1.1={
+	holder=1000202258 #Cao-Ai
+}
+1180.1.1={
+	holder=0
+	liege=0
+}

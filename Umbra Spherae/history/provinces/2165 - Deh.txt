@@ -1,0 +1,23 @@
+# 1655 - Deh
+
+# County Title
+title = c_deh
+
+# Settlements
+max_settlements = 5
+b_jemhchiih = castle
+b_jangsinh = city
+b_sjanggha = city
+b_khuangha = city
+#b_khimpiung =
+#b_yengxliih =
+#b_cjiikruk =
+#b_dehkyoinjin =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

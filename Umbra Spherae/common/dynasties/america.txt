@@ -1,0 +1,17 @@
+1000028345 = {
+	name="Sermersooq"
+	culture = tuniq
+}
+1000028346 = {
+	name="Kujalleq"
+	culture = tuniq
+}
+
+1000078070 = {
+	name="Vestribyggð"
+	culture = norwegian
+}
+1000078071 = {
+	name="Eystribyggð"
+	culture = norwegian
+}

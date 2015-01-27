@@ -1,0 +1,135 @@
+#Zhuye Dynasty (Shatuo)
+867.1.1 = {
+	liege="d_ejinai"
+}
+867.1.1 = {
+	holder=1000202647 #Chixin
+}
+887.1.1 = {
+	holder=1000202648 #Keyong
+}
+908.2.23 = {
+	holder=1000202649 #Cunxu
+}
+
+#Yaghlaqar Dynasty
+923.5.13 = {
+	liege="k_gansu"
+}
+923.5.13 = {
+	holder=1000202443 #Renmei
+}
+924.1.1 = {
+	holder=1000202444 #Diyin
+}
+959.1.1 = {
+	holder=1000202445 #Jingqiong
+}
+977.1.1 = {
+	holder=1000202446 #Milie
+}
+
+#Li Dynasty
+982.1.1 = {
+	liege="k_minyag"
+}
+982.1.1 = {
+	holder=1000202482 #Taizu
+}
+1004.1.1 = {
+	holder=1000202483 #Taizong
+}
+1032.1.1 = {
+	holder=1000202484 #Jingzong
+}
+1048.1.1 = {
+	holder=1000076441 #Yizong
+}
+1067.1.1 = {
+	holder=1000202485 #Huizong
+}
+1086.1.1 = {
+	holder=1000202486 #Chongzong
+}
+
+#Kara-Khitai
+1123.11.1 = {
+	liege="k_khitans"
+}
+1123.11.1 = {
+	holder=1000202528 #Dashi
+}
+
+#Li Dynasty
+1125.3.16 = {
+	liege="k_minyag"
+}
+1125.3.16 = {
+	holder=1000202486 #Chongzong
+}
+1139.1.1 = {
+	holder=1000202487 #Renzong
+}
+1193.1.1 = {
+	holder=1000202488 #Huanzong
+}
+1206.1.1 = {
+	holder=1000202490 #Xiangzong
+}
+1211.1.1 = {
+	holder=1000202492 #Shenzong
+}
+1223.1.1 = {
+	holder=1000202493 #Xianzong
+}
+1226.1.1 = {
+	holder=1000202495 #Mowang
+}
+
+#Mongol Empire
+1227.12.1 = {
+	liege="e_mongol_empire"
+}
+1227.12.1={
+	holder=125501 #Genghis
+}
+1227.12.2={
+	holder=125520 #Tolui
+}
+1229.9.13={
+	holder=172005 #Ogodei
+}
+1241.12.11={
+	holder=172007 #Guyug
+}
+1248.1.1={
+	holder=1000202465 #Möngke
+}
+1259.8.11={
+	holder=1000202466 #Kublai
+}
+
+#Yuan Dynasty
+1279.3.19 = {
+	liege="e_china"
+}
+1294.2.18={
+	holder=1000202470 #Öljeytü-Temür
+}
+
+#Kara-Khoja Dynasty
+1300.1.1 = {
+	liege="k_gansu"
+}
+1300.1.1 = {
+	holder=1000202435 #Neguril
+}
+1318.1.1 = {
+	holder=1000202436 #Tamir-Buqa
+}
+1330.1.1 = {
+	holder=1000202437 #Senggi
+}
+1332.1.1 = {
+	holder=1000202438 #Taipindu
+}

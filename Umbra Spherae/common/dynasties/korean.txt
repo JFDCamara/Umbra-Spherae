@@ -1,0 +1,100 @@
+1000027100 = {
+	name="Wang"
+	culture = korean
+}
+1000078000 = {
+	name="Gim"
+	culture = korean
+}
+1000078001 = {
+	name="Bak"
+	culture = korean
+}
+1000078002 = {
+	name="Dae"
+	culture = korean
+}
+1000078003 = {
+	name="Gyeon"
+	culture = korean
+}
+1000078004 = {
+	name="Gung"
+	culture = korean
+}
+
+1000027101 = {
+	name="Yi"
+	culture = korean
+}
+1000027800 = {
+	name="Gangnam"#Gwang
+	culture = korean
+}
+1000027801 = {
+	name="il-Sung"#Won
+	culture = korean
+}
+1000027802 = {
+	name="jong-Il"#Na
+	culture = korean
+}
+1000027803 = {
+	name="jong-Un"#Hwang
+	culture = korean
+}
+1000027804 = {
+	name="Hae"#Hae
+	culture = korean
+}
+1000027805 = {
+	name="Bugge"#Bukgye
+	culture = korean
+}
+1000027806 = {
+	name="Dongye"#Donggye
+	culture = korean
+}
+1000027807 = {
+	name="Go"#Gyo
+	culture = korean
+}
+1000027808 = {
+	name="Ch'ong"#Cheong
+	culture = korean
+}
+1000027809 = {
+	name="Chi"#Gong
+	culture = korean
+}
+1000027810 = {
+	name="San"#Sang
+	culture = korean
+}
+1000027811 = {
+	name="J'on"#Jeon
+	culture = korean
+}
+1000027812 = {
+	name="Sung"#Seung
+	culture = korean
+}
+1000027813 = {
+	name="Clang"#Gang
+	culture = korean
+}
+1000027814 = {
+	name="Yan"#Yang
+	culture = korean
+}
+1000027815 = {
+	name="Jeju"#Jeju
+	culture = korean
+}
+
+
+
+1000078079 = { #it's the same as the main Gim, time reasons
+	name="Gim"
+	culture = korean
+}

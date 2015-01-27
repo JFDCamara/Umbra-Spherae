@@ -1,0 +1,21 @@
+# 1217 - Makassar
+
+# County Title
+title = c_makassar
+
+# Settlements
+max_settlements = 5
+b_galesong_selatan = castle
+b_makassar = city
+#b_bangkala =
+#b_mangarabombang =
+#b_binamu =
+#b_bungaya =
+#b_bontobahari =
+#b_gangking =
+
+# Misc
+culture = bugi
+religion = sulawesi_religion
+
+# History

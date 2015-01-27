@@ -1,0 +1,16 @@
+# 1915 - Solbin
+
+# County Title
+title = c_solbin
+
+# Settlements
+max_settlements = 3
+b_hwaju = castle
+b_ikju = castle
+#b_geonju =
+
+# Misc
+culture = jurchen
+religion = jurchen_pagan
+
+# History

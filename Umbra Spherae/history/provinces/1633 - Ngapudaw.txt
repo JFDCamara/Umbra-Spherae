@@ -1,0 +1,21 @@
+# 1119 - Ngapudaw
+
+# County Title
+title = c_ngapudaw
+
+# Settlements
+max_settlements = 4
+b_okkan = castle
+b_ngapudaw = city
+b_thingangyi = temple
+#b_kongyi =
+#b_saluzeik =
+#b_bidutgale =
+#b_kyagan =
+#b_hlainbon =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

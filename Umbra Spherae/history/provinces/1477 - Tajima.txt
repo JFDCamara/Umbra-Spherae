@@ -1,0 +1,22 @@
+# 1931 - Tajima
+
+# County Title
+title = c_tajima
+
+# Settlements
+max_settlements = 4
+b_keta = castle
+b_homi = castle
+b_tottori = castle
+
+#b_yafu = castle
+#b_takakusa = castle
+#b_izushi = castle
+#b_asago = castle
+#b_futakata = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

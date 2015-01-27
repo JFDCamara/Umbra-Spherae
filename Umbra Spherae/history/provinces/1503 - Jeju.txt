@@ -1,0 +1,20 @@
+# 1824 - Jeju
+
+# County Title
+title = c_jeju
+
+# Settlements
+max_settlements = 3
+b_jeju = castle
+b_seogwipo = castle
+#b_halla =
+#b_marado =
+
+
+# Misc
+culture = korean
+religion = mahayana
+
+# History
+
+

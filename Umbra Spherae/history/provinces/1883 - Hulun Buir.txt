@@ -1,0 +1,17 @@
+# 1879 - Hulun Buir
+
+# County Title
+title = c_hulun_buir
+
+# Settlements
+max_settlements = 4
+b_hulun_buir = tribal
+b_manzhouli = tribal
+#b_wulan_engeer =
+#b_keer_lungacha =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

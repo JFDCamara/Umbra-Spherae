@@ -1,0 +1,22 @@
+# 1334 - Amami
+
+# County Title
+title = c_amami
+
+# Settlements
+max_settlements = 4
+b_amami = castle
+b_kikai = castle
+
+#b_tokunoshima = castle
+#b_yoro = castle
+#b_uke = castle
+#b_okinoerabu = castle
+#b_kakeroma = castle
+#b_eniya = castle
+
+# Misc
+culture = ryukyuan
+religion = ryukyu_shinto
+
+# History

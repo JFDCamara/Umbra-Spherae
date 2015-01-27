@@ -1,0 +1,15 @@
+# 1797 - Henx
+
+# County Title
+title = c_henx
+
+# Settlements
+max_settlements = 2
+b_henxkuangxneng = castle
+b_myanghbjen = castle
+
+# Misc
+culture = jurchen
+religion = mahayana
+
+# History

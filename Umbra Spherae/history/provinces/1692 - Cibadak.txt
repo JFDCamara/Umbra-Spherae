@@ -1,0 +1,21 @@
+# 1178 - Cibadak
+
+# County Title
+title = c_cibadak
+
+# Settlements
+max_settlements = 6
+b_cicatih = castle
+b_cibadak = city
+b_cidahu = temple
+b_cikidang = city
+#b_warungkiara =
+#b_cikembar =
+#b_ciemas =
+#b_sukabumi =
+
+# Misc
+culture = sundanese
+religion = java_religion
+
+# History

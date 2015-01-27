@@ -1,0 +1,82 @@
+#Gim Dynasty (ID splitted for time reasons)
+702.1.1={
+	holder=1000203833 #Heunggwang
+}
+737.1.1={
+	holder=1000203832 #Seunggyeom
+}
+742.1.1={
+	holder=1000203831 #Heonyeong
+}
+765.1.1={
+	holder=1000203830 #Geonun
+}
+780.1.1={
+	holder=1000203834 #Yangsang
+}
+
+#Gim Dynasty
+785.1.1={
+	holder=1000202688 #Gyeongsin
+}
+798.1.1={
+	holder=1000202690 #Junong
+}
+800.1.1={
+	holder=1000202691 #Cheongmyoeng
+}
+809.1.1={
+	holder=1000202692 #Eonseung
+}
+826.1.1={
+	holder=1000202693 #Gyeonghwi
+}
+836.1.1={
+	holder=1000202697 #Jeong
+}
+838.1.1={
+	holder=1000202699 #Myeong
+}
+839.1.1={
+	holder=1000202702 #Ujing
+}
+839.6.1={
+	holder=1000202703 #Gyeongeung
+}
+857.1.1={
+	holder=1000202718 #Uijeong
+}
+861.1.1={
+	holder=1000202705 #Eungryeom
+}
+875.1.1={
+	holder=1000202707 #Jeong
+}
+886.1.1={
+	holder=1000202708 #Hwang
+}
+887.1.1={
+	holder=1000202709 #Man
+}
+897.1.1={
+	holder=1000202710 #Yo
+}
+
+#Bak Dynasty
+912.1.1={
+	holder=1000202715 #Gyeonghwi
+}
+917.1.1={
+	holder=1000202716 #Seungyeong
+}
+924.1.1={
+	holder=1000202717 #Wieung
+}
+
+#Gim Dynasty (restored)
+927.1.1={
+	holder=1000202713 #Bu
+}
+935.1.1={
+	holder=0
+}

@@ -1,0 +1,311 @@
+#Yenisei Dynasty (kirghiz placeholders)
+
+1000205212 = {
+	name="Kozel"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205213 = {
+	name="Blush"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000205212
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205214 = {
+	name="Bonyak"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000205213
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202390 = {
+	name="Almazbek"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000205214
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202391 = {
+	name="Abai"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202390
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202392 = {
+	name="Kasym"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202391
+	867.1.1={
+		birth="867.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202393 = {
+	name="Feliks"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202392
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202394 = {
+	name="Nasirdin"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202393
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202395 = {
+	name="Orzubek"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202394
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202396 = {
+	name="Rysbek"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202395
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076213 = {
+	name="Semetei"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202396
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1050.1.1={
+		add_spouse=1000076216
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076216 = {
+	name="Beishekan"
+	female = yes
+	religion="tengri_pagan"
+	culture="kirghiz"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202397 = {
+	name="Seitek"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000076213
+	mother=1000076216
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202398 = {
+	name="Askar"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202397
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202399 = {
+	name="Zhakyp"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202398
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202400 = {
+	name="Jusup"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202399
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202401 = {
+	name="Temir"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202400
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202402 = {
+	name="Sayaqbay"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202401
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202403 = {
+	name="Almas"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202402
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000202404 = {
+	name="Salamat"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202403
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202405 = {
+	name="Mirtemir"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202404
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000202406 = {
+	name="Omurbek"
+	dynasty=1000028318 #Yenisei
+	religion="tengri_pagan"
+	culture="kirghiz"
+	father=1000202405
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}

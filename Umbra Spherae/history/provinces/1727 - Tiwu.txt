@@ -1,0 +1,21 @@
+# 1213 - Tiwu
+
+# County Title
+title = c_tiwu
+
+# Settlements
+max_settlements = 4
+b_kupano = castle
+b_dili = city
+#b_baucau =
+#b_suai =
+#b_baa =
+#b_tuluala =
+#b_soe =
+#b_besikama =
+
+# Misc
+culture = tenggaran
+religion = flores_religion
+
+# History

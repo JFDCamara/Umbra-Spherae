@@ -1,0 +1,21 @@
+# 1181 - Cimanuk
+
+# County Title
+title = c_cimanuk
+
+# Settlements
+max_settlements = 6
+b_cemara = castle
+b_cimanuk = city
+b_losarang = temple
+#b_kandanghaur =
+#b_gabuswetan =
+#b_sindang =
+#b_indramayu =
+#b_pabean_udik =
+
+# Misc
+culture = sundanese
+religion = java_religion
+
+# History

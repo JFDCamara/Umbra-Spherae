@@ -1,0 +1,21 @@
+# 1102 - Xiangkhouang
+
+# County Title
+title = c_xiangkhouang
+
+# Settlements
+max_settlements = 4
+b_phonsavan = castle
+b_xiangkhouang = city
+b_na_nu = temple
+#b_thuang =
+#b_lat_sen =
+#b_nak_ho =
+#b_ban_pho =
+#b_na_lin =
+
+# Misc
+culture = lao
+religion = buddhist
+
+# History

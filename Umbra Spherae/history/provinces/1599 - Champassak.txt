@@ -1,0 +1,22 @@
+# 1085 - Champassak
+
+# County Title
+title = c_champassak
+
+# Settlements
+max_settlements = 4
+b_pakxe = castle
+b_champassak = city
+b_houay_lusy = temple
+#b_lao_ya =
+#b_pak_tuay =
+#b_wat_muang_kao =
+#b_patumphon =
+#b_ban_done_mak_giang =
+
+# Misc
+culture = lao
+religion = buddhist
+
+# History
+

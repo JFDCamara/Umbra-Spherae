@@ -1,0 +1,18 @@
+# 1790 - Prah
+
+# County Title
+title = c_enprah
+
+# Settlements
+max_settlements = 5
+b_hingtriang = castle
+b_zjenghkjit = city
+b_ghuongcjengh = city
+#b_prahantok =
+#b_khaingieh =
+
+# Misc
+culture = han
+religion = confucian
+
+# History

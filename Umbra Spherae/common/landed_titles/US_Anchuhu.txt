@@ -1,0 +1,833 @@
+e_anchuhu = {
+
+    	color = { 253 204 32 }
+    	color2 = { 255 255 255  }
+
+	capital = 1507 # Yongcheon
+
+	k_balhae = {
+
+    		color = { 141 109 167 }
+    		color2 = { 255 255 255  }
+
+		capital = 1507 # Yongcheon
+
+    		d_sanggyeong = {
+
+    			color = { 102 109 174 }
+    			color2 = { 255 255 255  }
+
+			capital = 1507 # Yongcheon
+
+			c_yongcheon = {
+		
+				color = { 112 109 174 }
+				color2 = { 255 255 255  }
+
+				b_yongju = {
+				}
+				b_hoju = {
+				}
+				b_balju = {
+				}
+			}
+			c_dongpyeong = {
+		
+				color = { 102 119 174 }
+				color2 = { 255 255 255  }
+
+				b_ilju = {
+				}
+				b_mongju = {
+				}
+				b_taju = {
+				}
+				b_heukju = {
+				}
+				b_biju = {
+				}
+			}
+			c_yeongju = {
+		
+				color = { 102 119 184 }
+				color2 = { 255 255 255  }
+
+				b_yeongju_yeongju = {
+				}
+			}
+			c_cheoli = {
+		
+				color = { 92 119 174 }
+				color2 = { 255 255 255  }
+
+				b_gwangju = {
+				}
+				b_bunju = {
+				}
+				b_poju = {
+				}
+				b_haeju = {
+				}
+				b_uiju = {
+				}
+				b_guiju = {
+				}
+			}
+			c_hoewon = {
+		
+				color = { 102 99 174 }
+				color2 = { 255 255 255  }
+
+				b_dalju = {
+				}
+				b_wolju = {
+				}
+				b_hoeju = {
+				}
+				b_giju = {
+				}
+				b_buju_hoewon = {
+				}
+				b_miju_hoewon = {
+				}
+				b_bokju = {
+				}
+				b_saju = {
+				}
+			}
+			c_dongju = {
+		
+				color = { 102 109 164 }
+				color2 = { 255 255 255  }
+
+				b_yeongju_dongju = {
+				}
+			}
+		}
+		d_buyeo = {
+
+			capital = 1512 # Buyeo
+
+    			color = { 168 119 187 }
+    			color2 = { 255 255 255  }
+
+			c_buyeo = {
+		
+				color = { 178 119 187 }
+				color2 = { 255 255 255  }
+
+				b_buju = {
+				}
+				b_seonju = {
+				}
+			}
+			c_makhil = {
+		
+				color = { 168 129 187 }
+				color2 = { 255 255 255  }
+
+				b_makju = {
+				}
+				b_goju = {
+				}
+			}
+			c_sokju = {
+		
+				color = { 168 119 197 }
+				color2 = { 255 255 255  }
+
+				b_mokjeoju = {
+				}
+				b_hyeondoju = {
+				}
+				b_yakholju = {
+				}
+			}
+		}
+		d_donggyeong = {
+
+			capital = 1487 # Anwon
+
+    			color = { 155 140 166 }
+    			color2 = { 255 255 255  }
+
+			c_anwon = {
+
+				color={ 165 140 166 }
+				color2={ 255 255 255 }
+
+				b_yeongju = {
+				}
+				b_miju = {
+				}
+				b_moju = {
+				}
+				b_sangju = {
+				}
+			}
+			c_jeongri = {
+		
+				color = { 155 150 166 }
+				color2 = { 255 255 255  }
+
+				b_jeongju_jeongri = {
+				}
+				b_banju = {
+				}
+			}
+			c_anbyeon = {
+		
+				color = { 155 140 176 }
+				color2 = { 255 255 255  }
+
+				b_anju = {
+				}
+				b_gyeongju_anbyeon = {
+				}
+			}
+			c_solbin = {
+		
+				color = { 145 140 166 }
+				color2 = { 255 255 255  }
+
+				b_hwaju = {
+				}
+				b_ikju = {
+				}
+				b_geonju = {
+				}
+			}
+		}
+		d_jungnyeong = {
+
+			capital = 1511 # Jangnyeong
+
+    			color = { 209 172 210 }
+    			color2 = { 255 255 255  }
+
+			c_jangnyeong = {
+		
+				color = { 219 172 210 }
+				color2 = { 255 255 255  }
+
+				b_haju_jangnyeong = {
+				}
+				b_haju_jangnyeong2 = {
+				}
+			}
+			c_hyeongdeok = {
+		
+				color = { 119 182 210 }
+				color2 = { 255 255 255  }
+
+				b_hyeonju = {
+				}
+				b_noju = {
+				}
+				b_cheolju = {
+				}
+				b_tangju = {
+				}
+				b_yeongju_heyongdeok = {
+				}
+				b_heungju = {
+				}
+			}
+		}
+		d_yemaek = {
+
+    			color = { 172 168 215 }
+    			color2 = { 255 255 255  }
+
+			capital = 1510 # Amnok
+
+			c_amnok = {
+
+				color = { 182 168 215 }
+				color2 = { 255 255 255  }
+
+				b_sinju = {
+				}
+				b_hwanju = {
+				}
+				b_pungju = {
+					holy_site = jurchen_pagan
+					holy_site = jurchen_pagan_reformed
+				}
+				b_jeongju_amnok = {
+				}
+			}
+			c_manju = {
+
+				color={ 172 178 215 }
+				color2={ 10 10 10 }
+
+				b_khaiyanx = {
+				}
+				b_laiyanx = {
+				}
+				b_ghuongmyon = {
+				}
+				b_yalu = {
+				}
+			}
+		}
+		d_okjeo = {
+
+    			color = { 120 78 146 }
+    			color2 = { 255 255 255  }
+
+			capital = 1509 # Namhae
+
+			c_namhae = {
+		
+				color = { 130 78 146 }
+				color2 = { 255 255 255  }
+
+				b_okju = {
+				}
+				b_jeongju = {
+				}
+				b_choju = {
+				}
+			}
+			c_yongwon = {
+
+				color={ 120 88 146 }
+				color2={ 255 255 255 }
+
+				b_gyeongju = {
+				}
+				b_yeomju = {
+				}
+				b_mokju = {
+				}
+				b_haju = {
+				}
+			}
+		}
+	}
+	k_jurchens = {
+
+		capital = 1524 # Ghuad-neng
+
+		color={ 147 147 147 }
+		color2={ 255 255 255 }
+
+		d_girin_ula = {
+
+			capital = 1524 # Ghuad-neng
+
+			color={ 114 114 114 }
+			color2={ 255 255 255 }
+
+			c_ghuadneng = {
+
+				color={ 124 114 114 }
+				color2={ 255 255 255 }
+
+				b_ghuadneng = {
+				}
+				b_jurchenkhyukkrung = {
+				}
+				b_jurchenngiechjyn = {
+				}
+			}
+			c_jurchendrieux = {
+
+				color={ 114 124 114 }
+				color2={ 255 255 255 }
+
+				b_sjixhing_jurchendrieux = {
+				}
+				b_driungchjyn = {
+				}
+				b_liihzjep = {
+				}
+				b_drieuxmyoxchjang = {
+				}
+			}
+		}
+		d_sahaliyan_ula = {
+
+			capital = 1488 # Hurha
+
+			color={ 78 78 78 }
+			color2={ 255 255 255 }
+
+			c_hurha = {
+
+				color={ 88 78 78 }
+				color2={ 255 255 255 }
+
+				b_hurha = {
+				}
+				b_odoli = {
+					holy_site = jurchen_pagan
+					holy_site = jurchen_pagan_reformed
+				}
+			}
+			c_bojo = {
+
+				color={ 78 88 78 }
+				color2={ 255 255 255 }
+
+				b_bojo = {
+				}
+				b_tuun = {
+				}
+			}
+		}
+	}
+	k_goryeo = {
+
+    		color = { 26 53 177 }
+    		color2 = { 255 255 255  }
+
+		capital = 1493 # Gyeonggi
+
+    		d_seohae = {
+
+    			color = { 26 53 207 }
+    			color2 = { 255 255 255  }
+
+			capital = 1493 # Gyeonggi
+
+			c_gyeonggi = {
+		
+				color = { 36 53 207 }
+				color2 = { 255 255 255  }
+		
+				b_manwoldae = {
+				}
+				b_kaesong = {
+				}
+				b_gyeonggi = {
+				}
+				b_songrim = {
+				}
+				b_sari_gyeonggi = {
+				}
+				b_pongsan = {
+				}
+				b_songak = {
+				}
+				b_gaesong = {
+				}
+			}
+			c_hwang = {
+		
+				color = { 26 63 207 }
+				color2 = { 255 255 255  }
+			
+				b_hwang = {
+				}
+				b_phyongsan = {
+				}
+				b_sohung = {
+				}
+				b_yonsan = {
+				}
+				b_kaephung = {
+				}
+				b_kangnam = {
+				}
+				b_thosan = {
+				}
+				b_yonthan = {
+				}
+			}
+			c_hae = {
+		
+				color = { 26 53 217 }
+				color2 = { 255 255 255  }
+			
+				b_paechon = {
+				}
+				b_yonanhae = {
+				}
+				b_jaeryong = {
+				}
+				b_sinchon = {
+				}
+				b_kangryong = {
+				}
+				b_ryongyon = {
+				}
+				b_anak = {
+				}
+			}
+			c_bukgye = {
+		
+				color = { 16 53 207 }
+				color2 = { 255 255 255  }
+			
+				b_pyongyang = {
+				}
+				b_an = {
+				}
+				b_ui = {
+				}
+				b_jong = {
+				}
+				b_kusong = {
+				}
+				b_kaechon = {
+				}
+				b_sunchon = {
+				}
+				b_tokchon = {
+				}
+			}
+		}
+		d_gyoju = {
+
+    			color = { 56 53 177 }
+    			color2 = { 255 255 255  }
+
+			capital = 1494 # Gyo
+		
+	   		c_gyogyo = {
+		
+				color = { 66 53 177 }
+				color2 = { 255 255 255  }
+		
+				b_chun = {
+				}
+				b_hwacheon = {
+				}
+				b_cheorwon = {
+				}
+				b_yanggu = {
+				}
+				b_inje = {
+				}
+				b_hongcheon = {
+				}
+				b_sak = {
+				}
+				b_gyogyo = {
+				}
+			}
+			c_donggye = {
+
+				color = { 56 63 177 }
+				color2 = { 255 255 255  }
+			
+				b_gangneung = {
+				}
+				b_cheok = {
+				}
+				b_wonsan = {
+				}
+				b_yangyang = {
+				}
+				b_munchon = {
+				}
+				b_donggye = {
+				}
+				b_koseong = {
+				}
+				b_Kimhwa = {
+				}
+			}
+		}
+	}
+	k_baekje = {
+
+		color = { 66 140 176 }
+		color2 = { 255 255 255  }
+
+		capital = 1496 # Gwang
+
+		d_yanggwang = {
+	
+    			color = { 63 180 168 }
+    			color2 = { 255 255 255  }
+
+			capital = 1496 # Gwang
+
+			c_gwang = {
+		
+				color = { 73 180 168 }
+				color2 = { 255 255 255  }
+		
+				b_hanyang = {
+				}
+				b_gwang = {
+				}
+				b_ganghwa = {
+				}
+				b_sugwang = {
+				}
+				b_yanggwang = {
+				}
+				b_yeo = {
+				}
+				b_anseong = {
+				}
+				b_hanam = {
+				}
+			}
+			c_cheong = {
+		
+				color = { 63 190 168 }
+				color2 = { 255 255 255  }
+			
+				b_chungcheong = {
+				}
+				b_cheong = {
+				}
+				b_jecheon = {
+				}
+				b_goesan = {
+				}
+				b_okcheon = {
+				}
+				b_enmseong = {
+				}
+				b_cheongwon = {
+				}
+				b_danyang = {
+				}
+			}
+			c_gong = {
+		
+				color = { 63 180 178 }
+				color2 = { 255 255 255  }
+			
+				b_gong = {
+				}
+				b_asan = {
+				}
+				b_hongseong = {
+				}
+				b_taean = {
+				}
+				b_buyeo = {
+				}
+				b_cheongyang = {
+				}
+				b_yesan = {
+				}
+				b_seocheon = {
+				}
+			}
+			c_won = {
+		
+				color = { 53 180 168 }
+				color2 = { 255 255 255  }
+			
+				b_won = {
+				}
+				b_hoengseong = {
+				}
+				b_yeongwol = {
+				}
+				b_pyeongchan = {
+				}
+				b_jeongseon = {
+				}
+			}
+		}
+		d_jeolla = {
+	
+    			color = { 86 121 156 }
+    			color2 = { 255 255 255  }
+
+			capital = 1500 # Jeon
+		
+			c_jeon = {
+		
+				color = { 96 121 156 }
+				color2 = { 255 255 255  }
+		
+				b_jeon = {
+				}
+				b_gangnam = {
+				}
+				b_wan = {
+				}
+				b_iksan = {
+				}
+				b_namwon = {
+				}
+				b_gunsan = {
+				}
+				b_jeongeup = {
+				}
+				b_gimje = {
+				}
+			}
+			c_na = {
+		
+				color = { 86 131 156 }
+				color2 = { 255 255 255  }
+			
+				b_na = {
+				}
+				b_mokpo = {
+				}
+				b_gwangna = {
+				}
+				b_haenam = {
+				}
+				b_sinan_na = {
+				}
+				b_yeongam = {
+				}
+				b_wando = {
+				}
+				b_muan = {
+				}
+			}
+			c_seung = {
+
+				color = { 86 121 166 }
+				color2 = { 255 255 255  }
+			
+				b_seung = {
+				}
+				b_suncheon = {
+				}
+				b_gwangyang = {
+				}
+				b_yeosu = {
+				}
+				b_gokseong = {
+				}
+				b_gurye = {
+				}
+				b_boseong = {
+				}
+				b_hwasun = {
+				}
+			}
+			c_jeju = {
+		
+				color = { 76 121 156 }
+				color2 = { 255 255 255  }
+			
+				b_jeju = {
+				}
+				b_seogwipo = {
+				}
+				b_halla = {
+				}
+				b_marado = {
+				}
+			}
+		}
+	}
+	k_silla = {
+
+    		color = { 92 150 94 }
+    		color2 = { 255 255 255 }
+
+		capital = 1504 # Sang
+
+		d_gyeongsang = {
+	
+    			color = { 95 148 126 }
+    			color2 = { 255 255 255 }
+
+			capital = 1504 # Sang
+
+			c_sang = {
+		
+				color = { 105 148 126 }
+				color2 = { 255 255 255  }
+		
+				b_sang = {
+				}
+				b_yeong = {
+				}
+				b_daegu = {
+				}
+				b_andong = {
+				}
+				b_gimcheon = {
+				}
+				b_gumi = {
+				}
+				b_yeon = {
+				}
+				b_bonghwa = {
+				}
+			}
+			c_yang = {
+		
+				color = { 95 158 126 }
+				color2 = { 255 255 255  }
+
+				b_gyeong = {
+				}
+				b_pohang = {
+				}
+				b_yang = {
+				}
+				b_ulsan = {
+				}
+				b_busan = {
+				}
+				b_yangsan = {
+				}
+				b_gimhae = {
+				}
+				b_miryang = {
+				}
+			}
+		}
+		d_gaya = {
+
+			capital = 1505 # Gang
+
+    			color = { 164 219 213 }
+    			color2 = { 255 255 255 }
+
+			c_gang = {
+		
+				color = { 174 219 213 }
+				color2 = { 255 255 255  }
+
+				b_gang = {
+				}
+				b_sacheon = {
+				}
+				b_namhae = {
+				}
+				b_geochang = {
+					holy_site = jurchen_pagan
+					holy_site = jurchen_pagan_reformed
+				}
+				b_jin = {
+				}
+				b_tongyeong = {
+				}
+				b_geoje = {
+				}
+				b_uiryeong = {
+				}
+			}
+            		c_tsushima = {
+
+				color={ 164 229 213 }
+				color2={ 255 255 255 }
+
+                		b_kaneda = {
+                		}
+            		}
+		}
+	}
+}
+
+k_dan_gur = {
+
+	color = { 131 119 199 }
+	color2 = { 255 255 255  }
+
+	capital = 1507 # Yongcheon
+
+	culture = khitan
+
+}

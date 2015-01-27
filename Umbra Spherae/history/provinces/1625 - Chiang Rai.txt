@@ -1,0 +1,21 @@
+# 1111 - Chiang Rai
+
+# County Title
+title = c_chiang_rai
+
+# Settlements
+max_settlements = 4
+b_phan = castle
+b_chiang_rai = city
+b_mae_lao = temple
+#b_mae_suai =
+#b_wiang_pa_pao =
+#b_phaya_mengrai =
+#b_pa_daet =
+#b_mae_chedi_mai =
+
+# Misc
+culture = shan
+religion = buddhist
+
+# History

@@ -1,0 +1,64 @@
+#Latumahina Dynasty (placeholders)
+750.1.1={
+	holder=1000205086 #Mingkid
+}
+780.1.1={
+	holder=1000205087 #Poluakan
+}
+810.1.1={
+	holder=1000205088 #Pungus
+}
+840.1.1={
+	holder=1000201627 #Kawulusan
+}
+870.1.1={
+	holder=1000201628 #Tampemawa
+}
+900.1.1={
+	holder=1000201629 #Palit
+}
+930.1.1={
+	holder=1000201630 #Manimporok
+}
+960.1.1={
+	holder=1000201631 #Makaoron
+}
+990.1.1={
+	holder=1000201632 #Leong
+}
+1020.1.1={
+	holder=1000201633 #Kalonta
+}
+1050.1.1={
+	holder=1000076145 #Tikonowu
+}
+1080.1.1={
+	holder=1000201634 #Saleh
+}
+1110.1.1={
+	holder=1000201635 #Assegaf
+}
+1140.1.1={
+	holder=1000201636 #Rembet
+}
+1170.1.1={
+	holder=1000201637 #Supit
+}
+1200.1.1={
+	holder=1000201638 #Tikoalu
+}
+1230.1.1={
+	holder=1000201639 #Rorimpandey
+}
+1260.1.1={
+	holder=1000201640 #Posumah
+}
+1290.1.1={
+	holder=1000201641 #Nayoan
+}
+1320.1.1={
+	holder=1000201642 #Naray
+}
+1350.1.1={
+	holder=1000201643 #Mapaliey
+}

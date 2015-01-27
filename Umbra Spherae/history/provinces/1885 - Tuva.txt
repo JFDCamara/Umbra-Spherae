@@ -1,0 +1,18 @@
+# 1881 - Tuva
+
+# County Title
+title = c_tuva
+
+# Settlements
+max_settlements = 4
+b_kyzyl = tribal
+b_kaa_khem = tribal
+#b_sukpak =
+#b_erbek =
+#b_tselinnoye =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

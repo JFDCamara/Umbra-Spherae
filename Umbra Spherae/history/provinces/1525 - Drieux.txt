@@ -1,0 +1,17 @@
+# 1806 - Drieux
+
+# County Title
+title = c_jurchendrieux
+
+# Settlements
+max_settlements = 4
+b_sjixhing_jurchendrieux = tribal
+b_driungchjyn = tribal
+b_liihzjep = tribal
+b_drieuxmyoxchjang = tribal
+
+# Misc
+culture = jurchen
+religion = jurchen_pagan
+
+# History

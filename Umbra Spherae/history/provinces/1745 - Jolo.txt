@@ -1,0 +1,21 @@
+# 1231 - Jolo
+
+# County Title
+title = c_jolo
+
+# Settlements
+max_settlements = 4
+b_indanan = castle
+b_jolo = city
+b_patikul = temple
+#b_seit_jolo =
+#b_panglima_estino =
+#b_luuk =
+#b_omar =
+#b_maimbung =
+
+# Misc
+culture = cebuan
+religion = hindu
+
+# History

@@ -1,0 +1,17 @@
+# 1859 - Ubs
+
+# County Title
+title = c_ubs
+
+# Settlements
+max_settlements = 4
+b_tsahildagiin_ortoo = tribal
+b_davst = tribal
+#b_ulaangom =
+#b_tarialan =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

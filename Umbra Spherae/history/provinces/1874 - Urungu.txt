@@ -1,0 +1,17 @@
+# 1870 - Urungu
+
+# County Title
+title = c_urungu
+
+# Settlements
+max_settlements = 4
+b_keketuohaizhen = tribal
+b_shuonieke = tribal
+#b_kuwei =
+#b_hushi_tuogesi =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

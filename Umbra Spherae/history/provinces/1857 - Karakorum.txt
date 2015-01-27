@@ -1,0 +1,21 @@
+# 1853 - Karakorum
+
+# County Title
+title = c_karakorum
+
+# Settlements
+max_settlements = 6
+#b_karakorum =
+b_ugiinuur = tribal
+b_burd = tribal
+#b_hashaat =
+#b_bayanundur =
+#b_hujirt =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History
+
+1220.1.1 = { b_karakorum = city }

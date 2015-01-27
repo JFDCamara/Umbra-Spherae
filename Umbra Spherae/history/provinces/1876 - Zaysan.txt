@@ -1,0 +1,18 @@
+# 1872 - Zaysan
+
+# County Title
+title = c_zaysan
+
+# Settlements
+max_settlements = 4
+b_barkhot = tribal
+b_monokoy = tribal
+#b_kukuryum =
+#b_sarybulak =
+#b_tugyl =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 1920 - Dongju
+
+# County Title
+title = c_dongju
+
+# Settlements
+max_settlements = 1
+b_yeongju_dongju = castle
+
+# Misc
+culture = jurchen
+religion = jurchen_pagan
+
+# History

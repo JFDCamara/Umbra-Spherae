@@ -1,0 +1,24 @@
+# 1489 - Zyen
+
+# County Title
+title = c_zyen
+
+# Settlements
+max_settlements = 5
+b_cinhkrung = castle
+b_noman = city
+b_chauxom = temple
+#b_dungan =
+#b_ghuehan =
+#b_zyenchiengkhe =
+#b_yengxchjyn =
+#b_zyentokhruah =
+
+
+# Misc
+culture = han
+religion = manichean
+
+# History
+
+

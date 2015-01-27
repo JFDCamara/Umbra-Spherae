@@ -1,0 +1,24 @@
+# 1635 - Pjeng
+
+# County Title
+title = c_pjeng
+
+# Settlements
+max_settlements = 6
+b_jangkhyuk = castle
+b_jyuchiih = city
+b_bjendengh = city
+b_krauzjeng = city
+b_myonsjyix = city
+#b_thadkuk =
+#b_gjii =
+#b_yo =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

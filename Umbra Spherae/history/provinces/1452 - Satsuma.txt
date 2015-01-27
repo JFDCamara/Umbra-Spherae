@@ -1,0 +1,22 @@
+# 950 - Satsuma
+
+# County Title
+title = c_satsuma
+
+# Settlements
+max_settlements = 5
+b_satsuma = castle
+b_kuwabara = castle
+b_bonotsu = city
+
+#b_kagoshima = castle
+#b_ei = castle
+#b_kimotsuki = castle
+#b_tanegashima = castle
+#b_ata = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

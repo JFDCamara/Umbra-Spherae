@@ -1,0 +1,24 @@
+# 1666 - Trinh
+
+# County Title
+title = c_trinh
+
+# Settlements
+max_settlements = 5
+b_cjindengh = castle
+b_luanzjeng = city
+b_kauxzjeng = city
+b_ghruekluk = city
+#b_ngyanzjex =
+#b_bjensren =
+#b_ciengxgheng =
+#b_ghrangdang =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

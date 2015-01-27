@@ -1,0 +1,21 @@
+# 1246 - Sibolga
+
+# County Title
+title = c_sibolga
+
+# Settlements
+max_settlements = 3
+b_kolang = castle
+b_sibolga = city
+#b_tapian_nauli =
+#b_sibabangun =
+#b_batang_toru =
+#b_sipirok =
+#b_muara_batang_gadis =
+#b_batang_natal =
+
+# Misc
+culture = batak
+religion = sumatran_religion
+
+# History

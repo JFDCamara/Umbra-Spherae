@@ -1,0 +1,21 @@
+# 1894 - Dege
+
+# County Title
+title = c_dege
+# Settlements
+max_settlements = 5
+b_dege = castle
+#b_jianshe = castle
+#b_zhaggo = castle
+b_dzongsar = temple
+#b_palpung = temple
+b_kandze = city
+#b_serxu = temple
+
+# Misc
+culture = bodpa
+religion = vajrayana
+
+# History
+
+1100.1.1 = { b_palpung = temple }

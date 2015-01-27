@@ -1,0 +1,140 @@
+#Yuchi Dynasty (Kingdom of Khotan)
+
+1000202380 = {
+	name="Vijaya-Vikrama"
+	dynasty=1000027693 #Yuchi
+	religion="mahayana"
+	culture="tocharian"
+	737.1.1={
+		birth="737.1.1"
+	}
+	829.1.1={
+		death="829.1.1"
+	}
+}
+
+1000202381 = {
+	name="Vijaya-Nakhan"
+	dynasty=1000027693 #Yuchi
+	religion="mahayana"
+	culture="tocharian"
+	father=1000202380
+	767.1.1={
+		birth="767.1.1"
+	}
+	844.1.1={
+		death="844.1.1"
+	}
+}
+
+1000202382 = {
+	name="Vijaya-Kirti"
+	dynasty=1000027693 #Yuchi
+	religion="mahayana"
+	culture="tocharian"
+	father=1000202381
+	810.1.1={
+		birth="810.1.1"
+	}
+	859.1.1={
+		death="859.1.1"
+	}
+}
+
+1000202383 = {
+	name="Vijaya-Vikrama"
+	dynasty=1000027693 #Yuchi
+	religion="mahayana"
+	culture="tocharian"
+	father=1000202382
+	830.1.1={
+		birth="830.1.1"
+	}
+	888.1.1={
+		death="888.1.1"
+	}
+}
+
+1000202384 = {
+	name="Vijaya-Samgrama"
+	dynasty=1000027693 #Yuchi
+	religion="mahayana"
+	culture="tocharian"
+	father=1000202383
+	850.1.1={
+		birth="850.1.1"
+	}
+	912.1.1={
+		death="912.1.1"
+	}
+}
+
+1000202385 = {
+	name="Vijaya-Sambhava"
+	dynasty=1000027693 #Yuchi
+	religion="mahayana"
+	culture="tocharian"
+	father=1000202384
+	880.1.1={
+		birth="880.1.1"
+	}
+	967.1.1={
+		death="967.1.1"
+	}
+}
+
+1000202386 = {
+	name="Vijaya-Sura"
+	dynasty=1000027693 #Yuchi
+	religion="mahayana"
+	culture="tocharian"
+	father=1000202385
+	910.1.1={
+		birth="910.1.1"
+	}
+	978.1.1={
+		death="978.1.1"
+	}
+}
+
+1000202387 = {
+	name="Vijaya-Dharma"
+	dynasty=1000027693 #Yuchi
+	religion="mahayana"
+	culture="tocharian"
+	father=1000202386
+	930.1.1={
+		birth="930.1.1"
+	}
+	982.1.1={
+		death="982.1.1"
+	}
+}
+
+1000202388 = {
+	name="Vijaya-Samgrama"
+	dynasty=1000027693 #Yuchi
+	religion="mahayana"
+	culture="tocharian"
+	father=1000202387
+	950.1.1={
+		birth="950.1.1"
+	}
+	1006.1.1={
+		death="1006.1.1"
+	}
+}
+
+1000202389 = {
+	name="Vijaya-Bala"
+	dynasty=1000027693 #Yuchi
+	religion="mahayana"
+	culture="tocharian"
+	father=1000202388
+	980.1.1={
+		birth="980.1.1"
+	}
+	1006.1.1={
+		death="1006.1.1"
+	}
+}

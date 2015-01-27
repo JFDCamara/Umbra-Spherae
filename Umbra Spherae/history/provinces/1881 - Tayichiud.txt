@@ -1,0 +1,17 @@
+# 1877 - Tayichiud
+
+# County Title
+title = c_tayichiud
+
+# Settlements
+max_settlements = 4
+b_khukh_uul = tribal
+b_khuramkhan = tribal
+#b_bayan_uul =
+#b_khukh_nuur =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

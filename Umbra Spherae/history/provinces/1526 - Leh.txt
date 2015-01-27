@@ -1,0 +1,21 @@
+# 989 - Leh
+
+# County Title
+title = c_leh
+
+# Settlements
+max_settlements = 5
+b_udaipur_leh = castle
+b_leh = city
+b_keylong = temple
+#b_gya =
+#b_shakti =
+#b_thiksey =
+#b_chuchot_yakma =
+#b_chumathang =
+
+# Misc
+culture = bodpa
+religion = vajrayana
+
+# History

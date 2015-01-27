@@ -1,0 +1,1756 @@
+e_mongol_empire = {
+
+	color = { 255 255 255 }
+	color2 = { 0 0 0 }
+
+	capital = 1857 #Karakorum
+
+	#allow = {
+	#	always = no
+	#}
+
+	# Cannot be held as a secondary title
+	#primary = yes
+
+	culture = mongol
+
+	tribe = yes
+	short_name = yes
+
+	k_mongolia = {
+
+		color= { 108 153 65  }
+		color2= { 99 137 153  }
+
+		capital = 1857 #Karakorum
+
+		d_tuv = {
+
+			color= { 79 111 47 }
+			color2= { 99 137 153  }
+
+			capital = 1857 #Karakorum
+
+			c_karakorum = {
+
+				color= { 89 111 47 }
+				color2= { 99 137 153  }
+
+				b_karakorum = {
+				}
+				b_ugiinuur = {
+				}
+				b_burd = {
+				}
+				b_hashaat = {
+				}
+				b_bayanundur = {
+				}
+				b_hujirt = {
+				}
+			}
+			c_tuul = {
+
+				color= { 79 121 47 }
+				color2= { 99 137 153  }
+
+				b_buren_tuul = {
+				}
+				b_altan_ulgii = {
+				}
+				b_bayantsagaan = {
+				}
+				b_hulstai = {
+				}
+				b_bayarjargalant = {
+				}
+			}
+			c_arkhangai = {
+
+				color= { 79 111 57 }
+				color2= { 99 137 153  }
+
+				b_terh = {
+				}
+				b_erdenemandal = {
+				}
+				b_chuluut = {
+				}
+				b_jargalant = {
+				}
+				b_undur_ulaan = {
+				}
+			}
+			c_uvurkhangai = {
+
+				color= { 69 111 47 }
+				color2= { 99 137 153  }
+
+				b_baidrag = {
+				}
+				b_bat_tsagaan = {
+				}
+				b_bayan_ovoo = {
+				}
+				b_bumbugur = {
+				}
+				b_erhet_khairkhan = {
+				}
+			}
+		}
+		d_huvsgul = {
+
+			color= { 108 112 46 }
+			color2= { 99 137 153  }
+
+			capital = 1858 #Dalai Eej
+
+			c_dalai_eej = {
+
+				color= { 118 112 46 }
+				color2= { 99 137 153  }
+
+				b_alag_erdene = {
+				}
+				b_khatgal = {
+				}
+				b_ikh_uul = {
+				}
+				b_murun = {
+				}
+				b_arbulag = {
+				}
+			}
+			c_selenge = {
+
+				color= { 108 122 46 }
+				color2= { 99 137 153  }
+
+				b_yeruu = {
+				}
+				b_khuder = {
+				}
+				b_orkhon = {
+				}
+				b_zuunburen = {
+				}
+				b_tushig = {
+				}
+			}
+			c_chukhe = {
+
+				color= { 108 112 56 }
+				color2= { 99 137 153  }
+
+				b_bugat = {
+				}
+				b_bayan_agt = {
+				}
+				b_bulgan = {
+				}
+				b_teshig = {
+				}
+				b_khangal = {
+				}
+			}
+		}
+		d_gurban_gol = {
+
+			color= { 147 145 70  }
+			color2= { 99 137 153  }
+
+			capital = 1854 #Khan Khentii
+
+			c_khan_khentii = {
+
+				color= { 157 145 70  }
+				color2= { 99 137 153  }
+
+				b_aurug = {
+				}
+				b_undurkhaan = {
+				}
+				b_burkhan_khaldun = {
+				}
+				b_delgerkhan = {
+				}
+				b_bayan_avarga = {
+				}
+			}
+			c_tayichiud = {
+
+				color= { 147 155 70  }
+				color2= { 99 137 153  }
+
+				b_khukh_uul = {
+				}
+				b_khuramkhan = {
+				}
+				b_bayan_uul = {
+				}
+				b_khukh_nuur = {
+				}
+			}
+			c_onon = {
+
+				color= { 147 145 80  }
+				color2= { 99 137 153  }
+
+				b_bukachacha = {
+				}
+				b_bukhta = {
+				}
+				b_kumakanda = {
+				}
+				b_anamzhak = {
+				}
+			}
+			c_ergun = {
+
+				color= { 137 145 70  }
+				color2= { 99 137 153  }
+
+				b_erguna = {
+				}
+				b_sanhezhen = {
+				}
+				b_genhe = {
+				}
+				b_jinhezhen = {
+				}
+			}
+		}
+		d_dorno_tal = {
+
+			color= { 133 157 60  }
+			color2= { 99 137 153  }
+
+			capital = 1853 #Kerlen
+
+			c_kerlen = {
+
+				color= { 143 157 60  }
+				color2= { 99 137 153  }
+
+				b_matad = {
+				}
+				b_khalkh_gol = {
+				}
+				b_soyolj_uul = {
+				}
+				b_modtoi_hamar = {
+				}
+			}
+			c_hulun_buir = {
+
+				color= { 133 167 60  }
+				color2= { 99 137 153  }
+
+				b_hulun_buir = {
+				}
+				b_manzhouli = {
+				}
+				b_wulan_engeer = {
+				}
+				b_keer_lungacha = {
+				}
+			}
+			c_tsagaan = {
+
+				color= { 133 157 70  }
+				color2= { 99 137 153  }
+
+				b_mandu_hubaola_gesumu = {
+				}
+				b_taosennao_ergacha = {
+				}
+				b_aer_shanbaola_gegacha = {
+				}
+				b_erengao_bisumu = {
+				}
+			}
+			c_saihan_tal = {
+
+				color= { 123 157 60  }
+				color2= { 99 137 153  }
+
+				b_erenhot = {
+				}
+				b_zamyn_uud = {
+				}
+				b_sonid_youqi = {
+				}
+				b_sonid_zuoqi = {
+				}
+			}
+		}
+		d_gobi = {
+
+			color= { 124 188 61  }
+			color2= { 99 137 153  }
+
+			capital = 1867 #Umnugobi
+
+			c_umnugobi = {
+
+				color= { 134 188 61  }
+				color2= { 99 137 153  }
+
+				b_dalanzadgad = {
+				}
+				b_mani_hiid = {
+				}
+			}
+			c_dornogobi = {
+
+				color= { 124 198 61  }
+				color2= { 99 137 153  }
+
+				b_shabi_hural = {
+				}
+				b_khatanbulag = {
+				}
+			}
+			c_khara_narin_ula = {
+
+				color= { 124 188 71  }
+				color2= { 99 137 153  }
+
+				b_bayan_nur = {
+				}
+				b_toudaqiaoxiang = {
+				}
+				b_chengxi = {
+				}
+			}
+		}
+		d_ubs = {
+
+			color= { 75 102 55  }
+			color2= { 99 137 153  }
+
+			capital = 1863 #Ubs
+
+			c_ubs = {
+
+				color= { 85 102 55  }
+				color2= { 99 137 153  }
+
+				b_tsahildagiin_ortoo = {
+				}
+				b_davst = {
+				}
+				b_ulaangom = {
+				}
+				b_tarialan = {
+				}
+			}
+			c_hyargas = {
+
+				color= { 75 112 55  }
+				color2= { 99 137 153  }
+
+				b_khyargas = {
+				}
+				b_malchin_hyargas = {
+				}
+				b_zuungovi = {
+				}
+				b_gederegiin_ortoo = {
+				}
+			}
+			c_telmen = {
+
+				color= { 75 102 65  }
+				color2= { 99 137 153  }
+
+				b_telmen = {
+				}
+				b_nomrog = {
+				}
+				b_tudevtei = {
+				}
+				b_songino = {
+				}
+			}
+		}
+		d_zavhan = {
+
+			color= { 112 125 68  }
+			color2= { 99 137 153  }
+
+			capital = 1865 #Zavhan
+
+			c_zavhan = {
+
+				color= { 122 125 68  }
+				color2= { 99 137 153  }
+
+				b_santmargats = {
+					holy_site = jurchen_pagan
+					holy_site = jurchen_pagan_reformed
+				}
+				b_songino = {
+				}
+				b_tes = {
+				}
+				b_tosontsengel = {
+				}
+				b_shiluustei = {
+				}
+			}
+			c_uliastai = {
+
+				color= { 112 135 68  }
+				color2= { 99 137 153  }
+
+				b_otgon = {
+				}
+				b_asgat = {
+				}
+				b_aldarkhan = {
+				}
+				b_turgen = {
+				}
+				b_yaruu = {
+				}
+			}
+			c_eej_khairhan = {
+
+				color= { 112 125 78  }
+				color2= { 99 137 153  }
+
+				b_taishir = {
+				}
+				b_biger = {
+				}
+				b_tsogt = {
+				}
+				b_yesunbulag = {
+				}
+				b_khukh_morit = {
+				}
+			}
+		}
+		d_hovd = {
+
+			color= { 92 118 75  }
+			color2= { 99 137 153  }
+
+			capital = 1872 #Hovd
+
+			c_hovd = {
+
+				color= { 102 118 75  }
+				color2= { 99 137 153  }
+
+				b_erdeneburen = {
+				}
+				b_darvi = {
+				}
+				b_durgun = {
+				}
+				b_chandmani = {
+				}
+				b_uench = {
+				}
+			}
+			c_ulgii = {
+
+				color= { 92 128 75  }
+				color2= { 99 137 153  }
+
+				b_tolbo = {
+				}
+				b_sagsai = {
+				}
+				b_ulaanhus = {
+				}
+				b_deluun = {
+				}
+			}
+			c_erchis = {
+
+				color= { 92 118 85  }
+				color2= { 99 137 153  }
+
+				b_tsengel = {
+				}
+				b_karaul_tarkhaty = {
+				}
+				b_arkaty = {
+				}
+				b_berel = {
+				}
+			}
+			c_urungu = {
+
+				color= { 82 118 75  }
+				color2= { 99 137 153  }
+
+				b_keketuohaizhen = {
+				}
+				b_shuonieke = {
+				}
+				b_kuwei = {
+				}
+				b_hushi_tuogesi = {
+				}
+			}
+		}
+		d_baigal_nuur = {
+
+			color= { 83 180 69  }
+			color2= { 99 137 153  }
+
+			capital = 1879 #Bargu
+
+			c_bargu = {
+
+				color= { 73 180 69  }
+				color2= { 99 137 153  }
+
+				b_ulan_ude = {
+				}
+				b_nyuki = {
+				}
+				b_kargino = {
+				}
+				b_zakaltus = {
+				}
+				b_istok = {
+				}
+			}
+			c_erkhuu = {
+
+				color= { 93 180 69  }
+				color2= { 99 137 153  }
+
+				b_nugan = {
+				}
+				b_kyren = {
+				}
+				b_shimki = {
+				}
+				b_turan = {
+				}
+				b_kharbyaty = {
+				}
+			}
+			c_angara = {
+
+				color= { 83 190 69  }
+				color2= { 99 137 153  }
+
+				b_buret = {
+				}
+				b_bakhan = {
+				}
+				b_beket = {
+				}
+				b_balukhar = {
+				}
+				b_baltuy = {
+				}
+			}
+			c_elyu_ene = {
+
+				color= { 83 180 79  }
+				color2= { 99 137 153  }
+
+				b_tashkay = {
+				}
+				b_shida_elyu_ene = {
+				}
+				b_sakhyurta = {
+				}
+				b_elga = {
+				}
+				b_khaday = {
+				}
+			}
+		}
+	}
+
+		#d_kimek = {
+
+	   	#	color= { 69 131 143 }
+    	#		color2= { 0 0 0 }
+
+		#	capital = 1994 #Imakia
+
+		#	c_balkhash = { #vanilla
+
+   		#		color= { 69 141 143 }
+    	#			color2= { 0 0 0 }
+
+		#		b_balkhash = {
+		#		}
+		#		b_kashakanteniz = {
+		#		}
+		#		b_saryashagan = {
+		#		}
+		#		b_rybalka_tas_aral = {
+		#		}
+		#		b_targyz = {
+		#		}
+		#		b_shashubay = {
+		#		}
+		#		b_ozernyy = {
+		#		}
+		#		b_gulshat = {
+		#		}
+		#	}
+		#}
+		#d_tyumen = { #vanilla
+		#	color={ 210 185 15 }
+		#	color2={ 255 255 255 }
+			
+		#	capital = 891 # Tyumen
+		
+		#	c_tyumen = { #vanilla
+		#		color={ 219 166 23 }
+		#		color2={ 255 255 255 }
+			
+		#		b_tyumen = {
+		#		}
+		#		b_qashliq = {
+		#		}
+		#		b_tobolsk = {
+		#		}
+		#		b_tugulym = {
+		#		}
+		#		b_novtap = {
+		#		}
+		#		b_sumkino = {
+		#		}
+		#		b_nizhtavda = {
+		#		}
+		#		b_borovskiy = {
+		#		}
+		#	}
+		#	c_mansia = { #vanilla
+		#		color={ 223 170 27 }
+		#		color2={ 255 255 255 }
+			
+		#		b_mansiysk = {
+		#		}
+		#		b_yabin = {
+		#		}
+		#		b_yalbak = {
+		#		}
+		#		b_pytyakh = {
+		#		}
+		#		b_nefteyugansk = {
+		#		}
+		#		b_mamontovo = {
+		#		}
+		#		b_poykovskiy = {
+		#		}
+		#		b_samza = {
+		#		}
+		#	}
+		#	c_chelyabi = { #vanilla
+		#		color={ 246 220 149 }
+		#		color2={ 255 255 255 }
+			
+		#		b_chelyabinsk = {
+		#		}
+		#		b_ustkatav = {
+		#		}
+		#		b_asha = {
+		#		}
+		#		b_chebarkul = {
+		#		}
+		#		b_kaslinsky = {
+		#		}
+		#		b_kyshtym = {
+		#		}
+		#		b_miass = {
+		#		}
+		#		b_satka = {
+		#		}
+		#	}
+		#	c_surgut = { #vanilla
+		#		color={ 227 174 31 }
+		#		color2={ 255 255 255 }
+			
+		#		b_surgut = {
+		#		}
+		#		b_belyyyar = {
+		#		}
+		#		b_iberbolgar = {
+		#		}
+		#		b_baduk = {
+		#		}
+		#		b_kaik = {
+		#		}
+		#		b_langepas = {
+		#		}
+		#		b_pokachi = {
+		#		}
+		#		b_vysokiy = {
+		#		}
+		#	}
+		#}
+	k_taklamakan = {
+
+    		color= { 255 104 10 }
+    		color2= { 10 10 10 }
+
+		capital = 1944 # Kashgar
+
+		d_kashgar = {
+
+    			color= { 255 134 53 }
+    			color2= { 10 10 10 }
+
+			capital = 1944 # Kashgar
+
+			c_kashgar = {
+
+    				color= { 245 134 53 }
+    				color2= { 10 10 10 }
+
+				b_kashgar = {
+				}
+				b_kizilsu = {
+				}
+				b_akto = {
+				}
+				b_shule = {
+				}
+				b_payzawat = {
+				}
+				b_shufu = {
+				}
+				b_yengisar = {
+				}
+				b_yopurga = {
+				}
+			}
+			c_yarkand = {
+
+    				color= { 255 144 53 }
+    				color2= { 10 10 10 }
+
+				b_yarkand = {
+				}
+				b_makit = {
+				}
+				b_xiyitidunxiang = {
+				}
+				b_meiqi_teduncun = {
+				}
+				b_kuona_bage_airike = {
+				}
+				b_bageawatixiang = {
+				}
+				b_maimaixi = {
+				}
+				b_qing_gree_kecun = {
+				}
+			}
+			c_karghalik = {
+
+    				color= { 255 134 63 }
+    				color2= { 10 10 10 }
+
+				b_karghalik = {
+				}
+				b_poskam = {
+				}
+				b_huore_ziqiaka = {
+				}
+				b_bashiye_yikecun = {
+				}
+				b_jieyinai_keboyi = {
+				}
+				b_kangkai_qikecun = {
+				}
+				b_yingai_rikecun = {
+				}
+				b_hotan_mailicun = {
+				}
+			}
+			c_tumxuk = {
+
+    				color= { 255 124 53 }
+    				color2= { 10 10 10 }
+
+				b_tumxuk = {
+				}
+				b_baozi = {
+				}
+				b_paisiwu_sitangcun = {
+				}
+				b_dunmaili = {
+				}
+				b_ahonga_jimaili = {
+				}
+				b_dunmailicun = {
+				}
+				b_mazhaa_ledicun = {
+				}
+				b_shileda_niangmazha = {
+				}
+			}
+		}
+		d_hotan = {
+
+    			color= { 252 171 20 }
+    			color2= { 10 10 10 }
+
+			capital = 1946 # Hotan
+
+			c_hotan = {
+
+    				color= { 242 171 20 }
+    				color2= { 10 10 10 }
+
+				b_hotan = {
+				}
+				b_lop = {
+				}
+				b_karakax = {
+				}
+				b_atiqu = {
+				}
+				b_jia_wakuqia = {
+				}
+				b_kuozi_yibage = {
+				}
+				b_kumua_zimacun = {
+				}
+				b_kuo_hayawa = {
+				}
+			}
+			c_keriya = {
+
+    				color= { 252 181 20 }
+    				color2= { 10 10 10 }
+
+				b_keriya = {
+				}
+				b_kongka_mazhacun = {
+				}
+				b_ku_mubage = {
+				}
+				b_bashi_sewage = {
+				}
+				b_kuti_makeyi = {
+				}
+				b_yige_zisayi = {
+				}
+				b_a_wafucun = {
+				}
+				b_buyata_muqila = {
+				}
+			}
+			c_niya = {
+
+    				color= { 252 171 30 }
+    				color2= { 10 10 10 }
+
+				b_niya = {
+				}
+				b_tukamu = {
+				}
+				b_te_kaiduncun = {
+				}
+				b_a_qimacun = {
+				}
+				b_ye_yinake = {
+				}
+				b_ba_geqicun = {
+				}
+				b_ake_jigedai = {
+				}
+				b_yingda_liya = {
+				}
+			}
+		}
+		d_aksu = {
+
+    			color= { 249 73 43 }
+    			color2= { 10 10 10 }
+
+			capital = 1970 # Aksu
+
+			c_aksu = {
+
+    				color= { 239 73 43 }
+    				color2= { 10 10 10 }
+
+				b_aksu_aksu = {
+				}
+				b_uqturpan = {
+				}
+				b_awat = {
+				}
+				b_aral_aksu = {
+				}
+				b_wensu = {
+				}
+				b_tuowanke_bali_dangcun = {
+				}
+				b_tuowanyu_teqicun = {
+				}
+				b_xiaka_lecun_wuzu = {
+				}
+			}
+			c_kucha = {
+
+    				color= { 249 83 43 }
+    				color2= { 10 10 10 }
+
+				b_kucha = {
+				}
+				b_xinhe = {
+				}
+				b_baicheng = {
+				}
+				b_xayar = {
+				}
+				b_duolai_tiba_gecun = {
+				}
+				b_e_lantamu = {
+				}
+				b_wuzun_yicun = {
+				}
+				b_muchangcun = {
+				}
+			}
+			c_karasahr = {
+
+    				color= { 249 73 53 }
+    				color2= { 10 10 10 }
+
+				b_karasahr = {
+				}
+				b_bayingol = {
+				}
+				b_hejing = {
+				}
+				b_hoxud = {
+				}
+				b_chaganbu_yancaikan = {
+				}
+				b_hei_gedacun = {
+				}
+				b_sanjiao_di = {
+				}
+				b_kunkai_buhu = {
+				}
+			}
+		}
+		d_loulan = {
+
+    			color= { 251 134 113 }
+    			color2= { 10 10 10 }
+
+			capital = 1953 # Loulan
+
+			c_loulan = {
+
+    				color= { 241 134 113 }
+    				color2= { 10 10 10 }
+
+				b_loulan = {
+				}
+				b_xiaohe = {
+				}
+				b_shanguo = {
+				}
+			}
+			c_miran = {
+
+    				color= { 251 144 113 }
+    				color2= { 10 10 10 }
+
+				b_miran = {
+				}
+				b_bashi_kuergan = {
+				}
+				b_shihuiyao = {
+				}
+				b_longkou = {
+				}
+			}
+			c_charklik = {
+
+    				color= { 251 134 123 }
+    				color2= { 10 10 10 }
+
+				b_charklik = {
+				}
+				b_hujia = {
+				}
+				b_tu_gemaili = {
+				}
+				b_dongta_tirang = {
+				}
+				b_qiong_bulake = {
+				}
+				b_xita_tirangcun = {
+				}
+				b_ying_awat = {
+				}
+				b_xiapu_tuleke = {
+				}
+			}
+			c_qarqan = {
+
+    				color= { 251 124 113 }
+    				color2= { 10 10 10 }
+
+				b_qarqan = {
+				}
+				b_keya_keleke = {
+				}
+				b_ketai_meiai_rikecun = {
+				}
+				b_tarimu = {
+				}
+				b_yingwu_sitangcun = {
+				}
+				b_a_qimacun = {
+				}
+				b_qinghala_tuokayi = {
+				}
+				b_aketi_kandun = {
+				}
+			}
+		}
+	}
+
+	k_dzungaria = {
+
+   		color= { 193 45 198 }
+    		color2= { 0 0 0 }
+
+		capital = 1980 #Kara Khoja
+
+		d_kara_khoja = {
+
+   			color= { 218 106 221 }
+    			color2= { 0 0 0 }
+
+			capital = 1980 #Kara Khoja
+
+			c_kara_khoja = {
+
+   				color= { 228 106 221 }
+    				color2= { 0 0 0 }
+
+				b_kara_khoja = {
+				}
+				b_laiger_kanerzi = {
+				}
+				b_keqike_kanerzi = {
+				}
+				b_parang_kanerzi = {
+				}
+				b_malong_kanerzi = {
+				}
+			}
+			c_chinchi_talas = {
+
+   				color= { 218 116 221 }
+    				color2= { 0 0 0 }
+
+				b_chinchi_talas = {
+				}
+				b_shuonieke_chinchi_talas = {
+				}
+				b_ke_ketale = {
+				}
+				b_keketuohaizhen_chinchi_talas = {
+				}
+				b_kalaba_kayicun = {
+				}
+			}
+			c_turpan = {
+
+   				color= { 218 106 231 }
+    				color2= { 0 0 0 }
+
+				b_turpan = {
+				}
+				b_kendeke = {
+				}
+				b_keyi_xikanerzi = {
+				}
+				b_kushi_kanerzi = {
+				}
+				b_maimaiti_kanerzi = {
+				}
+			}
+			c_barkul = {
+
+   				color= { 208 106 221 }
+    				color2= { 0 0 0 }
+
+				b_barkul = {
+				}
+				b_shanghucun = {
+				}
+				b_jiuhu_dongcun = {
+				}
+				b_dongtouqu = {
+				}
+				b_lijiawan = {
+				}
+			}
+			c_kumul = {
+
+   				color= { 218 96 221 }
+    				color2= { 0 0 0 }
+
+				b_kumul = {
+				}
+				b_xigebi = {
+				}
+				b_wu_erdacun = {
+				}
+				b_xia_longquan = {
+				}
+				b_yezhuangzi = {
+				}
+			}
+		}
+		d_urumqi = {
+
+   			color= { 145 101 226 }
+    			color2= { 0 0 0 }
+
+			capital = 1950 #Urumqi
+
+			c_urumqi = {
+
+   				color= { 155 101 226 }
+    				color2= { 0 0 0 }
+
+				b_urumqi = {
+				}
+				b_xinshi = {
+				}
+				b_bahu_di = {
+				}
+				b_fengtiancun = {
+				}
+				b_toutunhe = {
+				}
+			}
+			c_chuguchak = {
+
+   				color= { 145 111 226 }
+    				color2= { 0 0 0 }
+
+				b_chuguchak = {
+				}
+				b_qoqek = {
+				}
+				b_bakhty = {
+				}
+				b_akchokka = {
+				}
+				b_zharbulak = {
+				}
+			}
+			c_almalik = {
+
+   				color= { 145 101 236 }
+    				color2= { 0 0 0 }
+
+				b_almalik = {
+				}
+				b_itokkuztara = {
+				}
+				b_gulja = {
+				}
+				b_kazanqi = {
+				}
+				b_gukure = {
+				}
+			}
+			c_kuldja = {
+
+   				color= { 135 101 226 }
+    				color2= { 0 0 0 }
+
+				b_kuldja = {
+				}
+				b_ili = {
+				}
+				b_apaer = {
+				}
+				b_djideli = {
+				}
+				b_dikankairat = {
+				}
+			}
+		}
+		d_issyk_kul = {
+
+   			color= { 221 66 113 }
+    			color2= { 0 0 0 }
+
+			capital = 1977 #Almatu
+
+			c_almatu = {
+
+   				color= { 221 66 123 }
+    				color2= { 0 0 0 }
+
+				b_almatu_a = {
+				}
+				b_kaskelen = {
+				}
+				b_almalybaq = {
+				}
+				b_boralday = {
+				}
+				b_chemolgan = {
+				}
+			}
+			c_barskhan = {
+
+   				color= { 231 66 113 }
+    				color2= { 0 0 0 }
+
+				b_barskhan = {
+				}
+				b_tamga = {
+				}
+				b_chon_jargylchak = {
+				}
+				b_akterek = {
+				}
+				b_chychkan = {
+				}
+			}
+			c_talkhiz = {
+
+   				color= { 221 76 113 }
+    				color2= { 0 0 0 }
+
+				b_talkhiz = {
+				}
+				b_chilik = {
+				}
+				b_oyzhaylau = {
+				}
+				b_aul_nartpay = {
+				}
+				b_kurchilik = {
+				}
+			}
+			c_navikat = {
+
+   				color= { 211 66 113 }
+    				color2= { 0 0 0 }
+
+				b_navikat = {
+				}
+				b_birlik_navikat = {
+				}
+				b_karaoy = {
+				}
+				b_akzhar = {
+				}
+				b_ushzharma = {
+				}
+			}
+			c_karamergen = {
+
+   				color= { 221 56 113 }
+    				color2= { 0 0 0 }
+
+				b_karamergen = {
+				}
+				b_kopbirlik = {
+				}
+				b_ashchisu = {
+				}
+				b_ushmola = {
+				}
+				b_krushdalasy = {
+				}
+			}
+		}
+	}
+	k_khitans = {
+
+		capital = 1940 # Sjingh
+
+		color={ 234 94 10 }
+		color2={ 255 255 255 }
+
+		d_thentok = {
+
+			capital = 1940 # Sjingh
+
+			color={ 255 133 51 }
+			color2={ 255 255 255 }
+
+			c_sjingh = {
+
+				color={ 245 133 51 }
+				color2={ 255 255 255 }
+
+				b_sjingjyolim = {
+				}
+				b_ghapjin = {
+				}
+				b_sjingghachieng = {
+				}
+				b_kimsiuk = {
+				}
+			}
+			c_phiung = {
+
+				color={ 255 143 51 }
+				color2={ 255 255 255 }
+
+				b_piuhmjin = {
+				}
+				b_cjinhmyox = {
+				}
+				b_njubiuk = {
+				}
+			}
+			c_ghuan = {
+
+				color={ 255 133 61 }
+				color2={ 255 255 255 }
+
+				b_kiengxmieng = {
+				}
+				b_myanghyon = {
+				}
+			}
+			c_thentok = {
+
+				color={ 255 123 51 }
+				color2={ 255 255 255 }
+
+				b_thentok = {
+				}
+			}
+		}
+		d_limghuang = {
+
+			capital = 1943 # Lim-ghuang
+
+			color={ 214 150 10 }
+			color2={ 255 255 255 }
+
+			c_limghuang = {
+
+				color={ 224 150 10 }
+				color2={ 255 255 255 }
+
+				b_limghuang = {
+				}
+				b_driangprah = {
+				}
+				b_driangthad_limghuang = {
+				}
+				b_nengsaih_limghuang = {
+				}
+				b_kimsren = {
+				}
+				b_thadcju = {
+				}
+				b_anmjin = {
+				}
+				b_driangneng = {
+				}
+			}
+		}
+	}
+
+	k_kirgiz = {
+		color = { 191 191 255 }
+		capital = 1886 # Yenisei
+	
+		tribe = yes
+		allow = {
+			always = no
+		}
+	
+		culture = kirghiz
+
+		d_tuva = {
+
+			color= { 85 166 83  }
+			color2= { 99 137 153  }
+
+			capital = 1885 #Tuva
+
+			c_tuva = {
+
+				color= { 95 166 83  }
+				color2= { 99 137 153  }
+
+				b_kyzyl = {
+				}
+				b_kaa_khem = {
+				}
+				b_sukpak = {
+				}
+				b_erbek = {
+				}
+				b_tselinnoye = {
+				}
+			}
+			c_kan = {
+
+				color= { 85 176 83  }
+				color2= { 99 137 153  }
+
+				b_zaozyorny = {
+				}
+				b_borodino = {
+				}
+				b_uyar = {
+				}
+				b_zykovo = {
+				}
+				b_boguchany = {
+				}
+			}
+			c_yenisei = {
+
+				color= { 85 166 93  }
+				color2= { 99 137 153  }
+
+				b_bazandaikha = {
+				}
+				b_uvaly = {
+				}
+				b_ust_erba = {
+				}
+				b_kobyakovo = {
+				}
+				b_belyy_lyus = {
+				}
+			}
+			c_zaysan = {
+
+				color= { 75 166 83  }
+				color2= { 99 137 153  }
+
+				b_barkhot = {
+				}
+				b_monokoy = {
+				}
+				b_kukuryum = {
+				}
+				b_sarybulak = {
+				}
+				b_tugyl = {
+				}
+			}
+		}
+		d_khakas = {
+
+   			color= { 67 146 130 }
+    			color2= { 0 0 0 }
+
+			capital = 1884 #Irtysh
+
+			c_irtysh = {
+
+   				color= { 77 146 130 }
+    				color2= { 0 0 0 }
+
+				b_vampugol = {
+				}
+				b_bylino = {
+				}
+				b_pasol = {
+				}
+				b_ambary = {
+				}
+			}
+			c_katun = {
+
+   				color= { 67 156 130 }
+    				color2= { 0 0 0 }
+
+				b_oskemen = {
+				}
+				b_ridder = {
+				}
+				b_tarhanka = {
+				}
+				b_ulba = {
+				}
+			}
+			c_biya = {
+
+   				color= { 67 146 140 }
+    				color2= { 0 0 0 }
+
+				b_borok = {
+				}
+				b_pospelikha = {
+				}
+				b_rodino = {
+				}
+				b_chayachiy = {
+				}
+			}
+			c_chulym = {
+
+   				color= { 57 146 130 }
+    				color2= { 0 0 0 }
+
+				b_eushta = {
+				}
+				b_boriki = {
+				}
+				b_nadezhda = {
+				}
+				b_gubino = {
+				}
+			}
+		}
+
+	}
+
+}
+
+e_kitai = {
+
+	capital = 1940 # Sjingh
+
+	culture = khitan
+
+	color={ 253 137 81 }
+	color2={ 255 255 255 }
+
+}
+
+k_chagatai = {
+	color = { 150 150 150 }
+	culture = mongol
+}
+
+e_chagatai = {
+	color = { 150 150 150 }
+	culture = mongol
+}
+
+k_kimek = {
+
+   	color= { 46 86 95 }
+    	color2= { 0 0 0 }
+
+	capital = 1994 #Imakia
+}
+
+k_kara_khoja = {
+
+	capital = 1980 #Kara Khoja
+
+   	color= { 210 110 10 }
+    	color2= { 0 0 0  }
+}
+
+e_kirgiz = {
+	color = {191 191 255 }
+	capital = 1886 #Yenisei
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = kirghiz
+}
+
+e_uyghur = {
+	color = { 255 249 117 }
+
+	capital = 1857 #Karakorum
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = uyghur
+}
+
+k_khotan = {
+	color = { 181 249 208 }
+	capital = 1946 #Hotan
+
+	culture = tocharian
+}
+
+#Titular titles for Mongolia
+
+k_khamag_mongol = {
+	color = { 0 191 255 }
+	capital = 1854 # Khan Khentii
+	
+	allow = {
+		always = no
+	}
+	
+	culture = mongol
+}
+
+k_tataar =  {
+	color = { 218 165 32 }
+	capital = 1853 #Kerlen
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+}
+
+k_kereid = {
+	color = { 178 34 34 }
+	capital = 1855 #Tuul
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+}
+
+k_naiman = {
+	color = { 255 105 180 }
+	capital = 1865 #Zavhan
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+}
+
+d_bargu = {
+	color = { 152 251 152 }
+	capital = 1879 #Bargu
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+}
+
+d_ongud = {
+	color = { 255 150 0 }
+	capital = 1869 #Khara Narin Ula
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+}
+
+d_khori_tumed = { 
+	color = { 46 139 87 }
+	capital = 1889 #Elyu Ene
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+}
+
+d_mergid = {
+	color = { 0 100 0 }
+	capital = 1880 #Chukhe
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+}
+
+d_bayad = {
+	color = { 127 255 212 }
+	capital = 1858 #Dalai eej
+	
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+}
+
+d_mongol = {
+	color = { 99 166 204 }
+	capital = 1854 # Khan Khentii
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+	
+	culture = mongol
+}
+
+d_zubu = {
+	color = { 178 34 34 }
+	capital = 1855 #Tuul
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+	short_name = yes
+}
+
+k_golden_horde = {
+	color = { 243 180 17 }
+	
+	capital = 622
+	
+	# Always exists
+	landless = yes
+	
+	tribe = yes
+	
+	culture = mongol
+	religion = tengri_pagan
+}
+
+k_il-khanate = {
+	color = { 120 180 20 }
+	
+	capital = 622
+	
+	# Always exists
+	landless = yes
+	
+	tribe = yes
+	
+	culture = mongol
+	religion = tengri_pagan
+}
+

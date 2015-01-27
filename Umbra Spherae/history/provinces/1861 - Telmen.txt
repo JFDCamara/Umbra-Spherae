@@ -1,0 +1,17 @@
+# 1857 - Telmen
+
+# County Title
+title = c_telmen
+
+# Settlements
+max_settlements = 4
+b_telmen = tribal
+b_nomrog = tribal
+#b_tudevtei =
+#b_songino =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

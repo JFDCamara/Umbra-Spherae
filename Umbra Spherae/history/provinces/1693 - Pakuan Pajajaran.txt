@@ -1,0 +1,21 @@
+# 1179 - Pakuan Pajajaran
+
+# County Title
+title = c_pakuan_pajajaran
+
+# Settlements
+max_settlements = 7
+b_batutulis = castle
+b_pakuan_pajajaran = city
+b_ciaruteun = temple
+b_kebon_kopi = city
+b_pangguyangan = castle
+b_ciampea = city
+b_cibungbulang = city
+#b_leuwiliang =
+
+# Misc
+culture = sundanese
+religion = hindu
+
+# History

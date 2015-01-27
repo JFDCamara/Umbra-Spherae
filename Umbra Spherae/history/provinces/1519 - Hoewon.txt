@@ -1,0 +1,21 @@
+# 1918 - Hoewon
+
+# County Title
+title = c_hoewon
+
+# Settlements
+max_settlements = 7
+b_dalju = castle
+b_wolju = castle
+#b_hoeju =
+#b_giju =
+#b_buju_hoewon =
+#b_miju_hoewon =
+#b_bokju =
+#b_saju =
+
+# Misc
+culture = jurchen
+religion = jurchen_pagan
+
+# History

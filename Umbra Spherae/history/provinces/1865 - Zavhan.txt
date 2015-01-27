@@ -1,0 +1,18 @@
+# 1861 - Zavhan
+
+# County Title
+title = c_zavhan
+
+# Settlements
+max_settlements = 4
+b_santmargats = tribal
+b_songino = tribal
+#b_tes =
+#b_tosontsengel =
+#b_shiluustei =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

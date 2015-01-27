@@ -1,0 +1,21 @@
+# 1199 - Terengganu
+
+# County Title
+title = c_terengganu
+
+# Settlements
+max_settlements = 3
+b_marang = castle
+b_terengganu = city
+#b_kampung_wakaf_tengah =
+#b_kampung_bukit_nenas =
+#b_kuala_berang =
+#b_kampung_felcra_bukit_kapah =
+#b_permaisuri =
+#b_kampung_laloh =
+
+# Misc
+culture = malay
+religion = hindu
+
+# History

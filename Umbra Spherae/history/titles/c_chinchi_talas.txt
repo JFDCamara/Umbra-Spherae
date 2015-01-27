@@ -1,0 +1,153 @@
+#Kara-Khoja Dynasty
+864.1.1 = {
+	liege="k_kara_khoja"
+}
+864.1.1 = {
+	holder=1000202420 #Bilga-Tsun
+}
+874.1.1 = {
+	holder=1000202421 #Tengri-Ilig
+}
+910.1.1 = {
+	holder=1000202422 #Il-Bilga
+}
+960.1.1 = {
+	holder=1000202423 #Sungulug
+}
+996.1.1 = {
+	holder=1000202424 #Bugu
+}
+1007.1.1 = {
+	holder=1000202425 #Quttugh-Kul
+}
+1024.1.1 = {
+	holder=1000076209 #Kul
+}
+1068.1.1 = {
+	holder=1000076210 #Bugu-Il
+}
+1110.1.1 = {
+	holder=1000202426 #Bilga
+}
+
+#Kara-Khitai
+1123.11.1 = {
+	liege="k_khitans"
+}
+1123.11.1 = {
+	holder=1000202528 #Dashi
+}
+1125.3.16 = {
+	liege="e_kitai"
+}
+1143.1.1 = {
+	holder=1000202529 #Yilie
+}
+1160.1.1 = {
+	holder=1000202531 #Zhilugu
+}
+
+#Naiman Dynasty
+1213.1.1 = {
+	holder=1000202584 #Kuchlug
+}
+
+#Mongol Empire
+1218.1.1={
+	liege="e_mongol_empire"
+}
+1218.1.1={
+	holder=125501 #Genghis
+}
+
+#Chagatai
+1227.12.2={
+	liege="k_chagatai"
+}
+1227.12.2={
+	holder = 93062
+}
+1242.1.1=
+{
+	holder = 93064
+}
+1246.1.1=
+{
+	holder = 93065
+}
+1252.1.1=
+{
+	holder = 93064
+}
+1253.1.1=
+{
+	holder = 93066
+}
+1260.1.1=
+{
+	holder = 93068
+}
+1266.1.1=
+{
+	holder = 93066
+}
+1266.9.1=
+{
+	holder = 93070
+}
+1271.1.1=
+{
+	holder = 93072
+}
+1271.12.18=
+{
+	liege="e_chagatai"
+}
+1272.1.1=
+{
+	holder = 93074
+}
+1282.1.1=
+{
+	holder = 93075
+}
+1307.1.1=
+{
+	holder = 93076
+}
+1308.1.1=
+{
+	holder = 93078
+}
+1309.1.1=
+{
+	holder = 93079
+}
+1310.1.1=
+{
+	holder = 93080
+}
+1318.1.1=
+{
+	holder = 93079
+}
+1326.1.1=
+{
+	holder = 93081
+}
+1329.1.1=
+{
+	holder = 93082
+}
+1330.1.1=
+{
+	holder = 93083
+}
+1334.1.1=
+{
+	holder = 93084
+}
+1335.1.1=
+{
+	holder = 93086
+}

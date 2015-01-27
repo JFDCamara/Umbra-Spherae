@@ -1,0 +1,18 @@
+# 1858 - Uliastai
+
+# County Title
+title = c_uliastai
+
+# Settlements
+max_settlements = 4
+b_otgon = tribal
+b_asgat = tribal
+#b_aldarkhan =
+#b_turgen =
+#b_yaruu =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

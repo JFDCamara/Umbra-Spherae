@@ -1,0 +1,21 @@
+# 1071 - U Thong
+
+# County Title
+title = c_u_thong
+
+# Settlements
+max_settlements = 4
+b_lao_khwan = castle
+b_u_thong = city
+b_huai_krachao = temple
+#b_nong_pradu =
+#b_nong_prue =
+#b_don_salaep =
+#b_bo_phloi =
+#b_si_sawat =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

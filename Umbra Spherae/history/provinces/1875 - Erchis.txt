@@ -1,0 +1,17 @@
+# 1871 - Erchis
+
+# County Title
+title = c_erchis
+
+# Settlements
+max_settlements = 4
+b_tsengel = tribal
+b_karaul_tarkhaty = tribal
+#b_arkaty =
+#b_berel =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

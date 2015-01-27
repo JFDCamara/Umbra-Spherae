@@ -1,0 +1,67 @@
+#Ruak Dynasty (placeholders)
+750.1.1={
+	holder=1000205038 #Mitra
+}
+780.1.1={
+	holder=1000205039 #Luwes
+}
+810.1.1={
+	holder=1000205040 #Pradapa
+}
+840.1.1={
+	holder=1000201576 #Sapari
+}
+870.1.1={
+	holder=1000201577 #Jumari
+}
+900.1.1={
+	holder=1000201578 #Hardana
+}
+930.1.1={
+	holder=1000201579 #Curiga
+}
+960.1.1={
+	holder=1000201580 #Cingkrak
+}
+990.1.1={
+	holder=1000201581 #Cepak
+}
+1020.1.1={
+	holder=1000201582 #Sutikna
+}
+1050.1.1={
+	holder=1000076129 #Wakiman
+}
+1080.1.1={
+	holder=1000201583 #Saliman
+}
+1110.1.1={
+	holder=1000201584 #Punjul
+}
+1140.1.1={
+	holder=1000201585 #Padma
+}
+1170.1.1={
+	holder=1000201586 #Nardi
+}
+1200.1.1={
+	holder=1000201587 #Kunthara
+}
+1230.1.1={
+	holder=1000201588 #Kusuma
+}
+1260.1.1={
+	holder=1000201589 #Kacung
+}
+1290.1.1={
+	holder=1000201590 #Prabawa
+}
+1293.1.1={
+	liege="e_java"
+}
+1320.1.1={
+	holder=1000201591 #Digdaya
+}
+1350.1.1={
+	holder=1000201592 #Made
+}

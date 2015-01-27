@@ -1,0 +1,18 @@
+# 1281 - Turpan
+
+# County Title
+title = c_turpan
+
+# Settlements
+max_settlements = 5
+b_kendeke = tribal
+b_turpan = city
+b_keyi_xikanerzi = temple
+b_kushi_kanerzi = city
+#b_maimaiti_kanerzi =
+
+# Misc
+culture = uyghur
+religion = buddhist
+
+# History

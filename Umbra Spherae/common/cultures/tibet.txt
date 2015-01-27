@@ -1,0 +1,221 @@
+tibetan = {
+	bodpa = {
+		graphical_culture = mongolgfx
+		
+		color = { 0.9 0.9 0.0 }
+		
+		male_names = {
+			Akar Anil Assam Boshay Ceba Cepla Cetan Champo Chodrak Choejor Chogyal Chophel Cimba Dache Dachen Daivika Dampa Dawa Dechen Dedan Denpa Denpo
+			Dhargey Dorje Dorjee Garkan Gephel Goba Gyaltsen Gyaltso Gyalwa Jalus Jampa Jampo Jangbu Jetsan Jigme Jinpa Jungney Kaba Kalden Kalsang Kamala
+			Karma Kasa Ketu Khadroma Khalama Khandro Kipu Kitsi Kona Kunchen Kundun Lha-mo Lhak-pa Lhundup Lobsang Michewa Mida Mingma Nam-kha Nawang Ngawang
+			Ngodup Nima Norbu Nuba Nyima Pabu Palden Pasang Pemba Phuntsok Popo Poso Rabten Rinchen Rinzen Samdhup Sangye Sashi Seba Senge Skamar Somba Sonam
+			Tashi Temba Tenzin Tenzing Thekchen Thokmay Thubten Torma Tsering Tseten Tsewang Wangchuk Wangdak Wangdue Yeshe Yongten Yonten Zapa Zenji Zigsa
+			Zonpa Zopa 
+		}
+		female_names = {
+			Akar Amala Amrita Assam Bhasundara Boshay Brag-srin-mo Ceba Cepla Chesa Chewa Chime Choden Chodrak Chodren Choejor Chomden Chomo-Lung-Ma Chophel
+			Cimba Dawa Dechen Dhargey Diki Dohna Dolkar Dolma Dorjne-Naljorma Ekadzati Garkan Gawa Gewa Gokarmo Gu-Lang Gyaltsen Gyalwa Hariti Indira Jalus
+			Jampa Jampo Jamyang Jangmu Je-tsun Jinpa Jungney Kaba Kalsang Kamala Karma Kasa Ketu Keyuri Khadroma Khalama Khandro Khon-Ma Kipu Kitsi Kona Kunchen
+			Kurukulla Lasya Lha-mi Lha-mo Lhak-pa Lhamu Lhundup Michewa Mida Nam-kha Nele Ngawang Ngodup Nguntre Nima Ninguerre Nuba Nyima Opame Pabu Palden
+			Pasang Pema Pemala Penden Phuntsok Popo Poso Prajnaparamita Rabten Rinchen Rinzen Samdhup Sangmu Sangs-rygas-mkhá Sangye Sashi Seba Sengdroma
+			Sengemo Sgeg-mo-ma Shenden Skamar Somba Sonam Tara Tashi Temba Tenzin Tenzing Thekchen Tho-og Thokmay Thubten Torma Tsering Tseten Tsewang "Ui Tango"
+			Wangchuk Wangdak Wangdue Yangchen Yongten Yum-chen-mo Zapa Zas-ster-ma-dmar-mo Zenji Zigsa Zonpa Zopa 
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	xangxung = {
+		graphical_culture = mongolgfx
+		
+		color = { 0.1 0.5 0.3 }
+		
+		male_names = {
+			Akar Anil Assam Boshay Ceba Cepla Cetan Champo Chodrak Choejor Chogyal Chophel Cimba Dache Dachen Daivika Dampa Dawa Dechen Dedan Denpa Denpo
+			Dhargey Dorje Dorjee Garkan Gephel Goba Gyaltsen Gyaltso Gyalwa Jalus Jampa Jampo Jangbu Jetsan Jigme Jinpa Jungney Kaba Kalden Kalsang Kamala
+			Karma Kasa Ketu Khadroma Khalama Khandro Kipu Kitsi Kona Kunchen Kundun Lha-mo Lhak-pa Lhundup Lobsang Michewa Mida Mingma Nam-kha Nawang Ngawang
+			Ngodup Nima Norbu Nuba Nyima Pabu Palden Pasang Pemba Phuntsok Popo Poso Rabten Rinchen Rinzen Samdhup Sangye Sashi Seba Senge Skamar Somba Sonam
+			Tashi Temba Tenzin Tenzing Thekchen Thokmay Thubten Torma Tsering Tseten Tsewang Wangchuk Wangdak Wangdue Yeshe Yongten Yonten Zapa Zenji Zigsa
+			Zonpa Zopa 
+		}
+		female_names = {
+			Akar Amala Amrita Assam Bhasundara Boshay Brag-srin-mo Ceba Cepla Chesa Chewa Chime Choden Chodrak Chodren Choejor Chomden Chomo-Lung-Ma Chophel
+			Cimba Dawa Dechen Dhargey Diki Dohna Dolkar Dolma Dorjne-Naljorma Ekadzati Garkan Gawa Gewa Gokarmo Gu-Lang Gyaltsen Gyalwa Hariti Indira Jalus
+			Jampa Jampo Jamyang Jangmu Je-tsun Jinpa Jungney Kaba Kalsang Kamala Karma Kasa Ketu Keyuri Khadroma Khalama Khandro Khon-Ma Kipu Kitsi Kona Kunchen
+			Kurukulla Lasya Lha-mi Lha-mo Lhak-pa Lhamu Lhundup Michewa Mida Nam-kha Nele Ngawang Ngodup Nguntre Nima Ninguerre Nuba Nyima Opame Pabu Palden
+			Pasang Pema Pemala Penden Phuntsok Popo Poso Prajnaparamita Rabten Rinchen Rinzen Samdhup Sangmu Sangs-rygas-mkhá Sangye Sashi Seba Sengdroma
+			Sengemo Sgeg-mo-ma Shenden Skamar Somba Sonam Tara Tashi Temba Tenzin Tenzing Thekchen Tho-og Thokmay Thubten Torma Tsering Tseten Tsewang "Ui Tango"
+			Wangchuk Wangdak Wangdue Yangchen Yongten Yum-chen-mo Zapa Zas-ster-ma-dmar-mo Zenji Zigsa Zonpa Zopa 
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	monpa = {
+		graphical_culture = mongolgfx
+		
+		color = { 0.9 0.6 0.0 }
+		
+		male_names = {
+			Akar Anil Assam Boshay Ceba Cepla Cetan Champo Chodrak Choejor Chogyal Chophel Cimba Dache Dachen Daivika Dampa Dawa Dechen Dedan Denpa Denpo
+			Dhargey Dorje Dorjee Garkan Gephel Goba Gyaltsen Gyaltso Gyalwa Jalus Jampa Jampo Jangbu Jetsan Jigme Jinpa Jungney Kaba Kalden Kalsang Kamala
+			Karma Kasa Ketu Khadroma Khalama Khandro Kipu Kitsi Kona Kunchen Kundun Lha-mo Lhak-pa Lhundup Lobsang Michewa Mida Mingma Nam-kha Nawang Ngawang
+			Ngodup Nima Norbu Nuba Nyima Pabu Palden Pasang Pemba Phuntsok Popo Poso Rabten Rinchen Rinzen Samdhup Sangye Sashi Seba Senge Skamar Somba Sonam
+			Tashi Temba Tenzin Tenzing Thekchen Thokmay Thubten Torma Tsering Tseten Tsewang Wangchuk Wangdak Wangdue Yeshe Yongten Yonten Zapa Zenji Zigsa
+			Zonpa Zopa 
+		}
+		female_names = {
+			Akar Amala Amrita Assam Bhasundara Boshay Brag-srin-mo Ceba Cepla Chesa Chewa Chime Choden Chodrak Chodren Choejor Chomden Chomo-Lung-Ma Chophel
+			Cimba Dawa Dechen Dhargey Diki Dohna Dolkar Dolma Dorjne-Naljorma Ekadzati Garkan Gawa Gewa Gokarmo Gu-Lang Gyaltsen Gyalwa Hariti Indira Jalus
+			Jampa Jampo Jamyang Jangmu Je-tsun Jinpa Jungney Kaba Kalsang Kamala Karma Kasa Ketu Keyuri Khadroma Khalama Khandro Khon-Ma Kipu Kitsi Kona Kunchen
+			Kurukulla Lasya Lha-mi Lha-mo Lhak-pa Lhamu Lhundup Michewa Mida Nam-kha Nele Ngawang Ngodup Nguntre Nima Ninguerre Nuba Nyima Opame Pabu Palden
+			Pasang Pema Pemala Penden Phuntsok Popo Poso Prajnaparamita Rabten Rinchen Rinzen Samdhup Sangmu Sangs-rygas-mkhá Sangye Sashi Seba Sengdroma
+			Sengemo Sgeg-mo-ma Shenden Skamar Somba Sonam Tara Tashi Temba Tenzin Tenzing Thekchen Tho-og Thokmay Thubten Torma Tsering Tseten Tsewang "Ui Tango"
+			Wangchuk Wangdak Wangdue Yangchen Yongten Yum-chen-mo Zapa Zas-ster-ma-dmar-mo Zenji Zigsa Zonpa Zopa 
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	lepcha = {
+		graphical_culture = mongolgfx
+		
+		color = { 0.5 0.3 0.0 }
+		
+		male_names = {
+			Akar Anil Assam Boshay Ceba Cepla Cetan Champo Chodrak Choejor Chogyal Chophel Cimba Dache Dachen Daivika Dampa Dawa Dechen Dedan Denpa Denpo
+			Dhargey Dorje Dorjee Garkan Gephel Goba Gyaltsen Gyaltso Gyalwa Jalus Jampa Jampo Jangbu Jetsan Jigme Jinpa Jungney Kaba Kalden Kalsang Kamala
+			Karma Kasa Ketu Khadroma Khalama Khandro Kipu Kitsi Kona Kunchen Kundun Lha-mo Lhak-pa Lhundup Lobsang Michewa Mida Mingma Nam-kha Nawang Ngawang
+			Ngodup Nima Norbu Nuba Nyima Pabu Palden Pasang Pemba Phuntsok Popo Poso Rabten Rinchen Rinzen Samdhup Sangye Sashi Seba Senge Skamar Somba Sonam
+			Tashi Temba Tenzin Tenzing Thekchen Thokmay Thubten Torma Tsering Tseten Tsewang Wangchuk Wangdak Wangdue Yeshe Yongten Yonten Zapa Zenji Zigsa
+			Zonpa Zopa 
+		}
+		female_names = {
+			Akar Amala Amrita Assam Bhasundara Boshay Brag-srin-mo Ceba Cepla Chesa Chewa Chime Choden Chodrak Chodren Choejor Chomden Chomo-Lung-Ma Chophel
+			Cimba Dawa Dechen Dhargey Diki Dohna Dolkar Dolma Dorjne-Naljorma Ekadzati Garkan Gawa Gewa Gokarmo Gu-Lang Gyaltsen Gyalwa Hariti Indira Jalus
+			Jampa Jampo Jamyang Jangmu Je-tsun Jinpa Jungney Kaba Kalsang Kamala Karma Kasa Ketu Keyuri Khadroma Khalama Khandro Khon-Ma Kipu Kitsi Kona Kunchen
+			Kurukulla Lasya Lha-mi Lha-mo Lhak-pa Lhamu Lhundup Michewa Mida Nam-kha Nele Ngawang Ngodup Nguntre Nima Ninguerre Nuba Nyima Opame Pabu Palden
+			Pasang Pema Pemala Penden Phuntsok Popo Poso Prajnaparamita Rabten Rinchen Rinzen Samdhup Sangmu Sangs-rygas-mkhá Sangye Sashi Seba Sengdroma
+			Sengemo Sgeg-mo-ma Shenden Skamar Somba Sonam Tara Tashi Temba Tenzin Tenzing Thekchen Tho-og Thokmay Thubten Torma Tsering Tseten Tsewang "Ui Tango"
+			Wangchuk Wangdak Wangdue Yangchen Yongten Yum-chen-mo Zapa Zas-ster-ma-dmar-mo Zenji Zigsa Zonpa Zopa 
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+}
+
+di = {
+	qiang = {
+		graphical_culture = mongolgfx
+		
+		color = { 0.7 0.9 0.0 }
+		
+		male_names = {
+			Akar Anil Assam Boshay Ceba Cepla Cetan Champo Chodrak Choejor Chogyal Chophel Cimba Dache Dachen Daivika Dampa Dawa Dechen Dedan Denpa Denpo
+			Dhargey Dorje Dorjee Garkan Gephel Goba Gyaltsen Gyaltso Gyalwa Jalus Jampa Jampo Jangbu Jetsan Jigme Jinpa Jungney Kaba Kalden Kalsang Kamala
+			Karma Kasa Ketu Khadroma Khalama Khandro Kipu Kitsi Kona Kunchen Kundun Lha-mo Lhak-pa Lhundup Lobsang Michewa Mida Mingma Nam-kha Nawang Ngawang
+			Ngodup Nima Norbu Nuba Nyima Pabu Palden Pasang Pemba Phuntsok Popo Poso Rabten Rinchen Rinzen Samdhup Sangye Sashi Seba Senge Skamar Somba Sonam
+			Tashi Temba Tenzin Tenzing Thekchen Thokmay Thubten Torma Tsering Tseten Tsewang Wangchuk Wangdak Wangdue Yeshe Yongten Yonten Zapa Zenji Zigsa
+			Zonpa Zopa 
+		}
+		female_names = {
+			Akar Amala Amrita Assam Bhasundara Boshay Brag-srin-mo Ceba Cepla Chesa Chewa Chime Choden Chodrak Chodren Choejor Chomden Chomo-Lung-Ma Chophel
+			Cimba Dawa Dechen Dhargey Diki Dohna Dolkar Dolma Dorjne-Naljorma Ekadzati Garkan Gawa Gewa Gokarmo Gu-Lang Gyaltsen Gyalwa Hariti Indira Jalus
+			Jampa Jampo Jamyang Jangmu Je-tsun Jinpa Jungney Kaba Kalsang Kamala Karma Kasa Ketu Keyuri Khadroma Khalama Khandro Khon-Ma Kipu Kitsi Kona Kunchen
+			Kurukulla Lasya Lha-mi Lha-mo Lhak-pa Lhamu Lhundup Michewa Mida Nam-kha Nele Ngawang Ngodup Nguntre Nima Ninguerre Nuba Nyima Opame Pabu Palden
+			Pasang Pema Pemala Penden Phuntsok Popo Poso Prajnaparamita Rabten Rinchen Rinzen Samdhup Sangmu Sangs-rygas-mkhá Sangye Sashi Seba Sengdroma
+			Sengemo Sgeg-mo-ma Shenden Skamar Somba Sonam Tara Tashi Temba Tenzin Tenzing Thekchen Tho-og Thokmay Thubten Torma Tsering Tseten Tsewang "Ui Tango"
+			Wangchuk Wangdak Wangdue Yangchen Yongten Yum-chen-mo Zapa Zas-ster-ma-dmar-mo Zenji Zigsa Zonpa Zopa 
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	tangut = {
+		graphical_culture = mongolgfx
+		
+		color = { 0.3 0.5 0.3 }
+		
+		male_names = {
+			Akar Anil Assam Boshay Ceba Cepla Cetan Champo Chodrak Choejor Chogyal Chophel Cimba Dache Dachen Daivika Dampa Dawa Dechen Dedan Denpa Denpo
+			Dhargey Dorje Dorjee Garkan Gephel Goba Gyaltsen Gyaltso Gyalwa Jalus Jampa Jampo Jangbu Jetsan Jigme Jinpa Jungney Kaba Kalden Kalsang Kamala
+			Karma Kasa Ketu Khadroma Khalama Khandro Kipu Kitsi Kona Kunchen Kundun Lha-mo Lhak-pa Lhundup Lobsang Michewa Mida Mingma Nam-kha Nawang Ngawang
+			Ngodup Nima Norbu Nuba Nyima Pabu Palden Pasang Pemba Phuntsok Popo Poso Rabten Rinchen Rinzen Samdhup Sangye Sashi Seba Senge Skamar Somba Sonam
+			Tashi Temba Tenzin Tenzing Thekchen Thokmay Thubten Torma Tsering Tseten Tsewang Wangchuk Wangdak Wangdue Yeshe Yongten Yonten Zapa Zenji Zigsa
+			Zonpa Zopa 
+		}
+		female_names = {
+			Akar Amala Amrita Assam Bhasundara Boshay Brag-srin-mo Ceba Cepla Chesa Chewa Chime Choden Chodrak Chodren Choejor Chomden Chomo-Lung-Ma Chophel
+			Cimba Dawa Dechen Dhargey Diki Dohna Dolkar Dolma Dorjne-Naljorma Ekadzati Garkan Gawa Gewa Gokarmo Gu-Lang Gyaltsen Gyalwa Hariti Indira Jalus
+			Jampa Jampo Jamyang Jangmu Je-tsun Jinpa Jungney Kaba Kalsang Kamala Karma Kasa Ketu Keyuri Khadroma Khalama Khandro Khon-Ma Kipu Kitsi Kona Kunchen
+			Kurukulla Lasya Lha-mi Lha-mo Lhak-pa Lhamu Lhundup Michewa Mida Nam-kha Nele Ngawang Ngodup Nguntre Nima Ninguerre Nuba Nyima Opame Pabu Palden
+			Pasang Pema Pemala Penden Phuntsok Popo Poso Prajnaparamita Rabten Rinchen Rinzen Samdhup Sangmu Sangs-rygas-mkhá Sangye Sashi Seba Sengdroma
+			Sengemo Sgeg-mo-ma Shenden Skamar Somba Sonam Tara Tashi Temba Tenzin Tenzing Thekchen Tho-og Thokmay Thubten Torma Tsering Tseten Tsewang "Ui Tango"
+			Wangchuk Wangdak Wangdue Yangchen Yongten Yum-chen-mo Zapa Zas-ster-ma-dmar-mo Zenji Zigsa Zonpa Zopa 
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	baima = {
+		graphical_culture = mongolgfx
+		
+		color = { 0.7 0.6 0.0 }
+		
+		male_names = {
+			Akar Anil Assam Boshay Ceba Cepla Cetan Champo Chodrak Choejor Chogyal Chophel Cimba Dache Dachen Daivika Dampa Dawa Dechen Dedan Denpa Denpo
+			Dhargey Dorje Dorjee Garkan Gephel Goba Gyaltsen Gyaltso Gyalwa Jalus Jampa Jampo Jangbu Jetsan Jigme Jinpa Jungney Kaba Kalden Kalsang Kamala
+			Karma Kasa Ketu Khadroma Khalama Khandro Kipu Kitsi Kona Kunchen Kundun Lha-mo Lhak-pa Lhundup Lobsang Michewa Mida Mingma Nam-kha Nawang Ngawang
+			Ngodup Nima Norbu Nuba Nyima Pabu Palden Pasang Pemba Phuntsok Popo Poso Rabten Rinchen Rinzen Samdhup Sangye Sashi Seba Senge Skamar Somba Sonam
+			Tashi Temba Tenzin Tenzing Thekchen Thokmay Thubten Torma Tsering Tseten Tsewang Wangchuk Wangdak Wangdue Yeshe Yongten Yonten Zapa Zenji Zigsa
+			Zonpa Zopa 
+		}
+		female_names = {
+			Akar Amala Amrita Assam Bhasundara Boshay Brag-srin-mo Ceba Cepla Chesa Chewa Chime Choden Chodrak Chodren Choejor Chomden Chomo-Lung-Ma Chophel
+			Cimba Dawa Dechen Dhargey Diki Dohna Dolkar Dolma Dorjne-Naljorma Ekadzati Garkan Gawa Gewa Gokarmo Gu-Lang Gyaltsen Gyalwa Hariti Indira Jalus
+			Jampa Jampo Jamyang Jangmu Je-tsun Jinpa Jungney Kaba Kalsang Kamala Karma Kasa Ketu Keyuri Khadroma Khalama Khandro Khon-Ma Kipu Kitsi Kona Kunchen
+			Kurukulla Lasya Lha-mi Lha-mo Lhak-pa Lhamu Lhundup Michewa Mida Nam-kha Nele Ngawang Ngodup Nguntre Nima Ninguerre Nuba Nyima Opame Pabu Palden
+			Pasang Pema Pemala Penden Phuntsok Popo Poso Prajnaparamita Rabten Rinchen Rinzen Samdhup Sangmu Sangs-rygas-mkhá Sangye Sashi Seba Sengdroma
+			Sengemo Sgeg-mo-ma Shenden Skamar Somba Sonam Tara Tashi Temba Tenzin Tenzing Thekchen Tho-og Thokmay Thubten Torma Tsering Tseten Tsewang "Ui Tango"
+			Wangchuk Wangdak Wangdue Yangchen Yongten Yum-chen-mo Zapa Zas-ster-ma-dmar-mo Zenji Zigsa Zonpa Zopa 
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	sumpa = {
+		graphical_culture = mongolgfx
+		
+		color = { 0.3 0.5 0.1 }
+		
+		male_names = {
+			Akar Anil Assam Boshay Ceba Cepla Cetan Champo Chodrak Choejor Chogyal Chophel Cimba Dache Dachen Daivika Dampa Dawa Dechen Dedan Denpa Denpo
+			Dhargey Dorje Dorjee Garkan Gephel Goba Gyaltsen Gyaltso Gyalwa Jalus Jampa Jampo Jangbu Jetsan Jigme Jinpa Jungney Kaba Kalden Kalsang Kamala
+			Karma Kasa Ketu Khadroma Khalama Khandro Kipu Kitsi Kona Kunchen Kundun Lha-mo Lhak-pa Lhundup Lobsang Michewa Mida Mingma Nam-kha Nawang Ngawang
+			Ngodup Nima Norbu Nuba Nyima Pabu Palden Pasang Pemba Phuntsok Popo Poso Rabten Rinchen Rinzen Samdhup Sangye Sashi Seba Senge Skamar Somba Sonam
+			Tashi Temba Tenzin Tenzing Thekchen Thokmay Thubten Torma Tsering Tseten Tsewang Wangchuk Wangdak Wangdue Yeshe Yongten Yonten Zapa Zenji Zigsa
+			Zonpa Zopa 
+		}
+		female_names = {
+			Akar Amala Amrita Assam Bhasundara Boshay Brag-srin-mo Ceba Cepla Chesa Chewa Chime Choden Chodrak Chodren Choejor Chomden Chomo-Lung-Ma Chophel
+			Cimba Dawa Dechen Dhargey Diki Dohna Dolkar Dolma Dorjne-Naljorma Ekadzati Garkan Gawa Gewa Gokarmo Gu-Lang Gyaltsen Gyalwa Hariti Indira Jalus
+			Jampa Jampo Jamyang Jangmu Je-tsun Jinpa Jungney Kaba Kalsang Kamala Karma Kasa Ketu Keyuri Khadroma Khalama Khandro Khon-Ma Kipu Kitsi Kona Kunchen
+			Kurukulla Lasya Lha-mi Lha-mo Lhak-pa Lhamu Lhundup Michewa Mida Nam-kha Nele Ngawang Ngodup Nguntre Nima Ninguerre Nuba Nyima Opame Pabu Palden
+			Pasang Pema Pemala Penden Phuntsok Popo Poso Prajnaparamita Rabten Rinchen Rinzen Samdhup Sangmu Sangs-rygas-mkhá Sangye Sashi Seba Sengdroma
+			Sengemo Sgeg-mo-ma Shenden Skamar Somba Sonam Tara Tashi Temba Tenzin Tenzing Thekchen Tho-og Thokmay Thubten Torma Tsering Tseten Tsewang "Ui Tango"
+			Wangchuk Wangdak Wangdue Yangchen Yongten Yum-chen-mo Zapa Zas-ster-ma-dmar-mo Zenji Zigsa Zonpa Zopa 
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+}

@@ -1,0 +1,16 @@
+#This is what was changed in 00_cultures.txt
+
+#added aragonese to iberian
+
+#added uyghur to altaic
+#added khitan to altaic
+#added jurchen to altaic
+#added xianbei to altaic
+
+#added coptic to east african
+#added beja to east african
+#added omotic to east african
+#added afar to east african
+#added oromo to east african
+
+#added khaskura, nepali, garhwali and kashmiri to indo_aryan

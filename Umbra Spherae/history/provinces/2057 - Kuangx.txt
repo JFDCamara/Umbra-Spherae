@@ -1,0 +1,23 @@
+# 1491 - Kuangx
+
+# County Title
+title = c_kuangx
+
+# Settlements
+max_settlements = 6
+b_phuanngyo = castle
+b_nomhaix = city
+b_tungghruanx = city
+b_singhuad = city
+b_congzjeng = city
+#b_chiengyanx =
+#b_ghruaizip =
+#b_sinhan =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

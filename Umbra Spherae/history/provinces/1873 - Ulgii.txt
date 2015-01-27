@@ -1,0 +1,17 @@
+# 1869 - Ulgii
+
+# County Title
+title = c_ulgii
+
+# Settlements
+max_settlements = 4
+b_tolbo = tribal
+b_sagsai = tribal
+#b_ulaanhus =
+#b_deluun =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,21 @@
+# 1165 - Pekan
+
+# County Title
+title = c_pekan
+
+# Settlements
+max_settlements = 4
+b_kuantan = castle
+b_pekan = city
+#b_balok =
+#b_sungai_lembing =
+#b_chukai =
+#b_gambang =
+#b_kampung_batu_sebelas =
+#b_kuala_rompin =
+
+# Misc
+culture = malay
+religion = hindu
+
+# History

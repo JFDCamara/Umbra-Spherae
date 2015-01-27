@@ -1,0 +1,21 @@
+# 1172 - Karang Berahi
+
+# County Title
+title = c_karang_berahi
+
+# Settlements
+max_settlements = 3
+b_muara_siau = castle
+b_karang_berahi = city
+#b_jangkat =
+#b_limun =
+#b_bangko =
+#b_pamenang =
+#b_sumay =
+#b_tebo_tengah =
+
+# Misc
+culture = malay
+religion = sumatran_religion
+
+# History

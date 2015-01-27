@@ -1,0 +1,21 @@
+# 1136 - Tuy Hoa
+
+# County Title
+title = c_tuy_hoa
+
+# Settlements
+max_settlements = 4
+b_hoa_xuan_dong = castle
+b_tuy_hoa = city
+b_hoa_xuan_nam = temple
+#b_canh_tinh =
+#b_hoa_my_tay =
+#b_lac_my =
+#b_hoa_dinh_tay =
+#b_hoa_dinh_dong =
+
+# Misc
+culture = cham
+religion = hindu
+
+# History

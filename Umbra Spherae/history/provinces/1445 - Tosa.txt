@@ -1,0 +1,22 @@
+# 943 - Tosa
+
+# County Title
+title = c_tosa
+
+# Settlements
+max_settlements = 4
+b_nagaoka = castle
+b_tosa = castle
+b_takaoka = castle
+
+#b_hata = castle
+#b_kami = castle
+#b_agawa = castle
+#b_okou = castle
+#b_nakamura = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

@@ -1,0 +1,21 @@
+# 1114 - Bassein
+
+# County Title
+title = c_bassein
+
+# Settlements
+max_settlements = 4
+b_shwemyindin = castle
+b_bassein_b = city
+b_zibyugwin = temple
+#b_thabaung =
+#b_tagarat =
+#b_kangyi_daunt =
+#b_gonnyindan =
+#b_htanbin =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

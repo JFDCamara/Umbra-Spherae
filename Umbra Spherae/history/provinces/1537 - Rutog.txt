@@ -1,0 +1,21 @@
+# 1272 - Rutog
+
+# County Title
+title = c_rutog
+# Settlements
+max_settlements = 4
+b_zhabsang = castle
+b_rutog = city
+#b_jiaweichao = temple
+#b_de_jiao = castle
+#b_rituzhen = castle
+#b_rawang_rutog = temple
+#b_yageide = castle
+
+# Misc
+culture = xangxung
+religion = bon
+
+# History
+900.1.1 = { religion = vajrayana }
+1100.1.1 = { culture = bodpa }

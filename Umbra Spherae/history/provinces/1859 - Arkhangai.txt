@@ -1,0 +1,18 @@
+# 1855 - Arkhangai
+
+# County Title
+title = c_arkhangai
+
+# Settlements
+max_settlements = 4
+b_terh = tribal
+b_erdenemandal = tribal
+#b_chuluut =
+#b_jargalant =
+#b_undur_ulaan =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

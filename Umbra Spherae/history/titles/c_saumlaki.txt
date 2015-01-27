@@ -1,0 +1,64 @@
+#Pongrambu Dynasty (placeholders)
+750.1.1={
+	holder=1000205099 #Mongula
+}
+780.1.1={
+	holder=1000205099 #Nelwan
+}
+810.1.1={
+	holder=1000205100 #Oroh
+}
+840.1.1={
+	holder=1000201695 #Tool
+}
+870.1.1={
+	holder=1000201696 #Rompis
+}
+900.1.1={
+	holder=1000201697 #Angels
+}
+930.1.1={
+	holder=1000201698 #Pinantik
+}
+960.1.1={
+	holder=1000201699 #Manebu
+}
+990.1.1={
+	holder=1000201700 #Tungka
+}
+1020.1.1={
+	holder=1000201701 #Rambitan
+}
+1050.1.1={
+	holder=1000076149 #Aldama
+}
+1080.1.1={
+	holder=1000201702 #Pola
+}
+1110.1.1={
+	holder=1000201703 #Rogi
+}
+1140.1.1={
+	holder=1000201704 #Nender
+}
+1170.1.1={
+	holder=1000201705 #Makatuuk
+}
+1200.1.1={
+	holder=1000201706 #Oroh
+}
+1230.1.1={
+	holder=1000201707 #Ratag
+}
+1260.1.1={
+	holder=1000201708 #Lowai
+}
+1290.1.1={
+	holder=1000201709 #Mamuntu
+}
+1320.1.1={
+	holder=1000201710 #Makarawung
+}
+1350.1.1={
+	holder=1000201711 #Alfanay
+}

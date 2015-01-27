@@ -1,0 +1,23 @@
+# 1412 - Ze
+
+# County Title
+title = c_ze
+
+# Settlements
+max_settlements = 5
+b_lekzjeng = castle
+b_driangcheng = city
+b_cjangkhiu = city
+#b_limip =
+#b_yoxzjeng =
+#b_liughrueng =
+#b_suonkrengx =
+#b_jueziang =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,13 @@
+#Maingmaw Dynasty (Pyu City State)
+750.1.1 = {
+	holder=1000203918 #Einda
+}
+780.1.1 = {
+	holder=1000203919 #Thamuti
+}
+810.1.1 = {
+	holder=1000203920 #Maheindra
+}
+846.1.1 = {
+	holder=0
+}

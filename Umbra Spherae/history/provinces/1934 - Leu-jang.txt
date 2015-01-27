@@ -1,0 +1,17 @@
+# 1795 - Leujang
+
+# County Title
+title = c_leujang
+
+# Settlements
+max_settlements = 4
+b_ngramuen = castle
+b_leujang = city
+b_kyoihtok = city
+b_kuangxiuhzsih = temple
+
+# Misc
+culture = jurchen
+religion = mahayana
+
+# History

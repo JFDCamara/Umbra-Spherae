@@ -1,0 +1,92 @@
+#Yuchi Dynasty
+757.1.1={
+	liege="k_khotan"
+}
+757.1.1={
+	holder=1000202380 #Vijaya-Vikrama
+}
+829.1.1={
+	holder=1000202381 #Vijaya-Nakhan
+}
+844.1.1={
+	holder=1000202382 #Vijaya-Kirti
+}
+859.1.1={
+	holder=1000202383 #Vijaya-Vikrama
+}
+888.1.1={
+	holder=1000202384 #Vijaya-Samgrama
+}
+912.1.1={
+	holder=1000202385 #Vijaya-Sambhava
+}
+967.1.1={
+	holder=1000202386 #Vijaya-Sura
+}
+978.1.1={
+	holder=1000202387 #Vijaya-Dharma
+}
+982.1.1={
+	holder=1000202388 #Vijaya-Samgrama
+}
+
+#Kara-Khoja Dynasty
+1006.1.1 = {
+	liege="k_kara_khoja"
+}
+1006.1.1 = {
+	holder=1000202424 #Bugu
+}
+1007.1.1 = {
+	holder=1000202425 #Quttugh-Kul
+}
+1024.1.1 = {
+	holder=1000076209 #Kul
+}
+1068.1.1 = {
+	holder=1000076210 #Bugu-Il
+}
+1110.1.1 = {
+	holder=1000202426 #Bilga
+}
+1150.1.1 = {
+	holder=1000202427 #Bilga-Ul
+}
+1190.1.1 = {
+	holder=1000202428 #Ul-Timur
+}
+1229.1.1 = {
+	holder=1000202429 #Barchuq
+}
+1241.1.1 = {
+	holder=1000202430 #Kesmez
+}
+1246.1.1 = {
+	holder=1000202431 #Salindi
+}
+1253.1.1 = {
+	holder=1000202432 #Ogrunch
+}
+1257.1.1 = {
+	holder=1000202433 #Mumuraq
+}
+1266.1.1 = {
+	holder=1000202434 #Qosqar
+}
+1280.1.1 = {
+	holder=1000202435 #Neguril
+}
+
+#Kirasiz Dynasty
+1300.1.1 = {
+	holder=1000202439 #Kirasiz
+}
+1309.1.1 = {
+	holder=1000202440 #Koncok
+}
+1326.1.1 = {
+	holder=1000202441 #Timur
+}
+1340.1.1 = {
+	holder=1000202442 #Ching-Timur
+}

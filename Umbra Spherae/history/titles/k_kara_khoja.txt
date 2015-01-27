@@ -1,0 +1,78 @@
+#Kara-Khoja Dynasty
+864.1.1 = {
+	holder=1000202420 #Bilga-Tsun
+}
+874.1.1 = {
+	holder=1000202421 #Tengri-Ilig
+}
+910.1.1 = {
+	holder=1000202422 #Il-Bilga
+}
+960.1.1 = {
+	holder=1000202423 #Sungulug
+}
+996.1.1 = {
+	holder=1000202424 #Bugu
+}
+1007.1.1 = {
+	holder=1000202425 #Quttugh-Kul
+}
+1024.1.1 = {
+	holder=1000076209 #Kul
+}
+1068.1.1 = {
+	holder=1000076210 #Bugu-Il
+}
+1110.1.1 = {
+	holder=1000202426 #Bilga
+}
+1150.1.1 = {
+	holder=1000202427 #Bilga-Ul
+}
+1190.1.1 = {
+	holder=1000202428 #Ul-Timur
+}
+1229.1.1 = {
+	liege="e_mongol_empire"
+}
+1229.1.1 = {
+	holder=1000202429 #Barchuq
+}
+1241.1.1 = {
+	holder=1000202430 #Kesmez
+}
+1246.1.1 = {
+	holder=1000202431 #Salindi
+}
+1253.1.1 = {
+	holder=1000202432 #Ogrunch
+}
+1257.1.1 = {
+	holder=1000202433 #Mumuraq
+}
+1266.1.1 = {
+	holder=1000202434 #Qosqar
+}
+1279.3.19 = {
+	liege="e_china"
+}
+1280.1.1 = {
+	holder=1000202435 #Neguril
+}
+
+#Kirasiz Dynasty
+1300.1.1 = {
+	liege="e_chagatai"
+}
+1300.1.1 = {
+	holder=1000202439 #Kirasiz
+}
+1309.1.1 = {
+	holder=1000202440 #Koncok
+}
+1326.1.1 = {
+	holder=1000202441 #Timur
+}
+1340.1.1 = {
+	holder=1000202442 #Ching-Timur
+}

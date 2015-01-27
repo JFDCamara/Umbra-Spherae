@@ -1,0 +1,15 @@
+# 2182 - Pokhara
+
+# County Title
+title = c_pokhara
+
+# Settlements
+max_settlements = 2
+b_chitwan = castle
+b_pokhara = city
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

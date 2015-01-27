@@ -1,0 +1,21 @@
+# 1187 - Gianyar
+
+# County Title
+title = c_gianyar
+
+# Settlements
+max_settlements = 7
+b_buleleng = castle
+b_gianyar = city
+b_blanjong = temple
+b_goa_gajak = city
+b_kutri = castle
+b_pupuan = temple
+b_selemadeg = castle
+#b_mendoyo =
+
+# Misc
+culture = javanese
+religion = hindu
+
+# History

@@ -1,0 +1,43 @@
+#Kimek Dynasty (placeholders)
+840.1.1={
+	holder=1000202407 #Sirçan
+}
+870.1.1={
+	holder=1000202408 #Bonyak
+}
+900.1.1={
+	holder=1000202409 #Atrak
+}
+930.1.1={
+	holder=1000202410 #Itlar
+}
+960.1.1={
+	holder=1000202411 #Kopti
+}
+990.1.1={
+	holder=1000202412 #Uzluk
+}
+1020.1.1={
+	holder=1000202413 #Gzi
+}
+1050.1.1={
+	holder=1000076214 #Könçek
+}
+1080.1.1={
+	holder=1000202414 #Etrek
+}
+1110.1.1={
+	holder=1000202415 #Togli
+}
+1140.1.1={
+	holder=1000202416 #Eldeçyuk
+}
+1170.1.1={
+	holder=1000202417 #Borç
+}
+1200.1.1={
+	holder=1000202418 #Bachman
+}
+1220.1.1={
+	holder=0
+}

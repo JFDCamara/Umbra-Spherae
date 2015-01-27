@@ -1,0 +1,17 @@
+# 1874 - Biya
+
+# County Title
+title = c_biya
+
+# Settlements
+max_settlements = 3
+b_borok = tribal
+b_pospelikha = tribal
+#b_rodino =
+#b_chayachiy =
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

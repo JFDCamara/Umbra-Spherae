@@ -1,0 +1,18 @@
+# 1885 - Elyu Ene
+
+# County Title
+title = c_elyu_ene
+
+# Settlements
+max_settlements = 4
+b_tashkay = tribal
+b_shida_elyu_ene = tribal
+#b_sakhyurta =
+#b_elga =
+#b_khaday =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,21 @@
+# 1350 - Gaung
+
+# County Title
+title = c_gaung
+
+# Settlements
+max_settlements = 3
+b_kuala_indragiri = castle
+b_gaung = city
+b_mandah = temple
+#b_kateman =
+#b_tanah_merah =
+#b_enok =
+#b_tempuling =
+#b_batang_tuaka =
+
+# Misc
+culture = malay
+religion = sumatran_religion
+
+# History

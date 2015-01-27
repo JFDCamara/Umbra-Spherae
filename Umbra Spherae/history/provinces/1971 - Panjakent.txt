@@ -1,0 +1,23 @@
+# 1312 - Panjakent
+
+# County Title
+title = c_panjakent
+
+# Settlements
+max_settlements = 4
+b_sudzhina = castle
+b_panjakent = city
+b_gusar = temple
+#b_dashti_kazy =
+#b_urmetan =
+#b_negnot =
+#b_gizhdarva =
+#b_ak_kutal =
+
+# Misc
+culture = turkish
+religion = sunni
+
+# History
+
+1230.1.1 = { culture = mongol } 

@@ -1,0 +1,24 @@
+# 1816 - Donggye
+
+# County Title
+title = c_donggye
+
+# Settlements
+max_settlements = 3
+b_gangneung = castle
+b_cheok = castle
+#b_wonsan =
+#b_yangyang =
+#b_munchon =
+#b_donggye =
+#b_koseong =
+#b_Kimhwa =
+
+
+# Misc
+culture = korean
+religion = mahayana
+
+# History
+
+

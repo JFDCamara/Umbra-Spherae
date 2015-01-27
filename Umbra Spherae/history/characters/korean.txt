@@ -1,0 +1,1656 @@
+#Goryeo Dynasty
+
+1000075500 = {
+	name="Ryung"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	825.1.1={
+		birth="825.1.1"
+	}
+	897.1.1={
+		death="897.1.1"
+	}
+}
+
+1000075501 = {
+	name="Geon"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075500
+	877.1.31={
+		birth="877.1.31"
+	}
+	943.7.4={
+		death="943.7.4"
+	}
+}
+
+1000075502 = {
+	name="Mu"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075501
+	912.1.1={
+		birth="912.1.1"
+	}
+	945.9.15={
+		death="945.9.15"
+	}
+}
+
+1000075503 = {
+	name="Yo"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075501
+	923.1.1={
+		birth="923.1.1"
+	}
+	949.3.1={
+		death="949.3.1"
+	}
+}
+
+1000075504 = {
+	name="So"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075501
+	925.1.1={
+		birth="925.1.1"
+	}
+	975.5.23={
+		death="975.5.23"
+	}
+}
+
+1000075505 = {
+	name="Ju"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075504
+	955.9.1={
+		birth="955.9.1"
+	}
+	981.7.11={
+		death="981.7.11"
+	}
+}
+
+1000075506 = {
+	name="Uk"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075501
+	930.1.1={
+		birth="930.1.1"
+	}
+	969.11.1={
+		death="969.11.1"
+	}
+}
+
+1000075507 = {
+	name="Chi"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075506
+	961.1.15={
+		birth="961.1.15"
+	}
+	997.11.29={
+		death="997.11.29"
+	}
+}
+
+1000075508 = {
+	name="Song"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075505
+	980.7.5={
+		birth="980.7.5"
+	}
+	1009.3.2={
+		death="1009.3.2"
+	}
+}
+
+1000075509 = {
+	name="Uk"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075501
+	934.1.1={
+		birth="934.1.1"
+	}
+	996.1.1={
+		death="996.1.1"
+	}
+}
+
+1000075510 = {
+	name="Sun"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075509
+	992.7.1={
+		birth="992.7.1"
+	}
+	1031.5.25={
+		death="1031.5.25"
+	}
+}
+
+1000075511 = {
+	name="Heum"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075510
+	1016.6.9={
+		birth="1016.6.9"
+	}
+	1034.10.31={
+		death="1034.10.31"
+	}
+}
+
+1000075512 = {
+	name="Hyeong"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075510
+	1018.7.14={
+		birth="1018.7.14"
+	}
+	1046.6.24={
+		death="1046.6.24"
+	}
+}
+
+1000075513 = {
+	name="Hwi"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075510
+	1019.12.29={
+		birth="1019.12.29"
+	}
+	1043.1.1={
+		add_spouse=1000075550
+	}
+	1083.9.2={
+		death="1083.9.2"
+	}
+}
+
+1000075514 = {
+	name="Hun"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075513
+	mother=1000075550
+	1047.12.28={
+		birth="1047.12.28"
+	}
+	1083.12.5={
+		death="1083.12.5"
+	}
+}
+
+1000075515 = {
+	name="Un"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075513
+	mother=1000075550
+	1049.10.9={
+		birth="1049.10.9"
+	}
+	1094.6.17={
+		death="1094.6.17"
+	}
+}
+
+1000075516 = {
+	name="Uk"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075515
+	1084.8.1={
+		birth="1084.8.1"
+	}
+	1097.11.6={
+		death="1097.11.6"
+	}
+}
+
+1000075517 = {
+	name="Hui"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075513
+	mother=1000075550
+	1054.9.2={
+		birth="1054.9.2"
+	}
+	1094.1.1={
+		name="Ong"
+	}
+	1105.11.10={
+		death="1105.11.10"
+	}
+}
+
+1000202747 = {
+	name="U"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000075517
+	1079.2.11={
+		birth="1079.2.11"
+	}
+	1122.5.15={
+		death="1122.5.15"
+	}
+}
+
+1000202748 = {
+	name="Hae"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000202747
+	1109.10.29={
+		birth="1109.10.29"
+	}
+	1146.4.10={
+		death="1146.4.10"
+	}
+}
+
+1000202749 = {
+	name="Hyeon"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000202748
+	1127.5.23={
+		birth="1127.5.23"
+	}
+	1173.11.7={
+		death="1173.11.7"
+	}
+}
+
+1000202750 = {
+	name="Ho"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000202748
+	1131.11.8={
+		birth="1131.11.8"
+	}
+	1202.12.3={
+		death="1202.12.3"
+	}
+}
+
+1000202751 = {
+	name="Tak"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000202748
+	1144.8.11={
+		birth="1144.8.11"
+	}
+	1204.2.15={
+		death="1204.2.15"
+	}
+}
+
+1000202752 = {
+	name="Yeong"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000202751
+	1181.6.21={
+		birth="1181.6.21"
+	}
+	1237.8.31={
+		death="1237.8.31"
+	}
+}
+
+1000202753 = {
+	name="O"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000202750
+	1152.5.10={
+		birth="1152.5.10"
+	}
+	1213.8.26={
+		death="1213.8.26"
+	}
+}
+
+1000202754 = {
+	name="Cheol"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000202753
+	1192.2.3={
+		birth="1192.2.3"
+	}
+	1216.1.1={
+		add_spouse=1000202755
+	}
+	1259.7.21={
+		death="1259.7.21"
+	}
+}
+
+1000202755 = {
+	name="Anhyetaehu"
+	female=yes
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000202752
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1259.7.21={
+		death="1259.7.21"
+	}
+}
+
+1000202756 = {
+	name="Sik"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000202754
+	mother=1000202755
+	1219.4.5={
+		birth="1219.4.5"
+	}
+	1274.7.23={
+		death="1274.7.23"
+	}
+}
+
+1000202757 = {
+	name="Geo"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000202756
+	1236.4.3={
+		birth="1236.4.3"
+	}
+	1308.7.30={
+		death="1308.7.30"
+	}
+}
+
+1000202758 = {
+	name="Jang"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000202757
+	1275.10.20={
+		birth="1275.10.20"
+	}
+	1325.6.23={
+		death="1325.6.23"
+	}
+}
+
+1000202759 = {
+	name="Man"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000202758
+	1294.7.30={
+		birth="1294.7.30"
+	}
+	1339.5.3={
+		death="1339.5.3"
+	}
+}
+
+1000202760 = {
+	name="Jeong"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000202759
+	1315.2.22={
+		birth="1315.2.22"
+	}
+	1344.1.30={
+		death="1344.1.30"
+	}
+}
+
+1000202761 = {
+	name="Jeon"
+	dynasty=1000027100 #Wang
+	religion="mahayana"
+	culture="korean"
+	father=1000202759
+	1330.5.23={
+		birth="1330.5.23"
+	}
+	1374.10.27={
+		death="1374.10.27"
+	}
+}
+
+#Placeholders
+
+1000075550 = {
+	name="Hyun-Ae"
+	dynasty=1000027101 #Yi
+	female=yes
+	religion="mahayana"
+	culture="korean"
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084000 = {
+	name="PSY"
+	dynasty=1000027800 #Gangnam
+	religion="mahayana"
+	culture="korean"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084001 = {
+	name="Kim"
+	dynasty=1000027801 #il-Sung
+	religion="mahayana"
+	culture="korean"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084002 = {
+	name="Kim"
+	dynasty=1000027802 #jong-Il
+	religion="mahayana"
+	culture="korean"
+	father=100084001
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084003 = {
+	name="Kim"
+	dynasty=1000027803 #jong-Un
+	religion="mahayana"
+	culture="korean"
+	father=100084002
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084004 = {
+	name="Dong"
+	dynasty=1000027804 #Hae
+	religion="mahayana"
+	culture="korean"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084006 = {
+	name="Yeshe"
+	dynasty=1000027806 #Donggye
+	religion="mahayana"
+	culture="korean"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084005 = {
+	name="Mugge"
+	dynasty=1000027805 #Bugge
+	religion="mahayana"
+	culture="korean"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084007 = {
+	name="Sto Po"
+	dynasty=1000027807 #Go
+	religion="mahayana"
+	culture="korean"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084008 = {
+	name="Aung"
+	dynasty=1000027808 #Ch'ong
+	religion="mahayana"
+	culture="korean"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084009 = {
+	name="Gong"
+	dynasty=1000027809 #Chi
+	religion="mahayana"
+	culture="korean"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084010 = {
+	name="Won"
+	dynasty=1000027810 #San
+	religion="mahayana"
+	culture="korean"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084011 = {
+	name="J'on"
+	dynasty=1000027811 #J'on
+	religion="mahayana"
+	culture="korean"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084012 = {
+	name="Wei"
+	dynasty=1000027812 #Sung
+	religion="mahayana"
+	culture="korean"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084013 = {
+	name="Bang"
+	dynasty=1000027813 #Clang
+	religion="mahayana"
+	culture="korean"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084014 = {
+	name="Sui"
+	dynasty=1000027814 #Yan
+	religion="mahayana"
+	culture="korean"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+100084015 = {
+	name="Ae-Ju"
+	dynasty=1000027815 #Jeju
+	religion="mahayana"
+	culture="korean"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+#Gim Dynasty
+
+1000202687 = {
+	name="Hyoyang"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202688 = {
+	name="Gyeongsin"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202687
+	740.1.1={
+		birth="740.1.1"
+	}
+	798.1.1={
+		death="798.1.1"
+	}
+}
+
+1000202689 = {
+	name="Ingyeom"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202688
+	756.1.1={
+		birth="756.1.1"
+	}
+	798.1.1={
+		death="798.1.1"
+	}
+}
+
+1000202690 = {
+	name="Junong"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202689
+	772.1.1={
+		birth="772.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+
+1000202691 = {
+	name="Cheongmyeong"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202690
+	788.1.1={
+		birth="788.1.1"
+	}
+	809.1.1={
+		death="809.1.1"
+	}
+}
+
+1000202692 = {
+	name="Eonseung"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202689
+	773.1.1={
+		birth="773.1.1"
+	}
+	826.1.1={
+		death="826.1.1"
+	}
+}
+
+1000202693 = {
+	name="Gyeonghwi"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202689
+	777.1.1={
+		birth="777.1.1"
+	}
+	805.1.1={
+		add_spouse=1000202694
+	}
+	836.1.1={
+		death="836.1.1"
+	}
+}
+
+1000202694 = {
+	name="Jeongmok"
+	female=yes
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202690
+	789.1.1={
+		birth="789.1.1"
+	}
+	836.1.1={
+		death="836.1.1"
+	}
+}
+
+1000202695 = {
+	name="Yeyong"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202688
+	757.1.1={
+		birth="757.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+
+1000202696 = {
+	name="Heonjeong"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202695
+	777.1.1={
+		birth="777.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+
+1000202697 = {
+	name="Jeong"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202696
+	797.1.1={
+		birth="797.1.1"
+	}
+	838.1.1={
+		death="838.1.1"
+	}
+}
+
+1000202698 = {
+	name="Chunggong"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202689
+	778.1.1={
+		birth="778.1.1"
+	}
+	836.1.1={
+		death="836.1.1"
+	}
+}
+
+1000202699 = {
+	name="Myeong"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202698
+	817.1.1={
+		birth="817.1.1"
+	}
+	839.1.1={
+		death="839.1.1"
+	}
+}
+
+1000202700 = {
+	name="Yeyeong"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202688
+	758.1.1={
+		birth="758.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202701 = {
+	name="Gyunjeong"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202700
+	778.1.1={
+		birth="778.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+
+1000202702 = {
+	name="Ujing"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202701
+	798.1.1={
+		birth="798.1.1"
+	}
+	839.6.1={
+		death="839.6.1"
+	}
+}
+
+1000202703 = {
+	name="Gyeongeung"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202702
+	818.1.1={
+		birth="818.1.1"
+	}
+	857.1.1={
+		death="857.1.1"
+	}
+}
+
+1000202718 = {
+	name="Uijeong"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202701
+	799.1.1={
+		birth="799.1.1"
+	}
+	861.1.1={
+		death="861.1.1"
+	}
+}
+
+1000202704 = {
+	name="Gyemyeong"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202697
+	817.1.1={
+		birth="817.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+1000202705 = {
+	name="Eungryeom"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202704
+	846.1.1={
+		birth="846.1.1"
+	}
+	862.1.1={
+		add_spouse=1000202706
+	}
+	875.1.1={
+		death="875.1.1"
+	}
+}
+
+1000202706 = {
+	name="Munui"
+	female=yes
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202718
+	845.1.1={
+		birth="845.1.1"
+	}
+	875.1.1={
+		death="875.1.1"
+	}
+}
+
+1000202707 = {
+	name="Jeong"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202705
+	mother=1000202706
+	861.1.1={
+		birth="861.1.1"
+	}
+	886.1.1={
+		death="886.1.1"
+	}
+}
+
+1000202708 = {
+	name="Hwang"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202705
+	mother=1000202706
+	862.1.1={
+		birth="862.1.1"
+	}
+	887.1.1={
+		death="887.1.1"
+	}
+}
+
+1000202709 = {
+	name="Man"
+	female=yes
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202705
+	mother=1000202706
+	863.1.1={
+		birth="863.1.1"
+	}
+	897.1.1={
+		death="897.1.1"
+	}
+}
+
+1000202710 = {
+	name="Yo"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202707
+	add_trait="bastard"
+	883.1.1={
+		birth="883.1.1"
+	}
+	912.1.1={
+		death="912.1.1"
+	}
+}
+
+1000202711 = {
+	name="Uiseong"
+	female=yes
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202707
+	884.1.1={
+		birth="884.1.1"
+	}
+	917.1.1={
+		death="917.1.1"
+	}
+}
+
+1000202712 = {
+	name="Gyea"
+	female=yes
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000202707
+	885.1.1={
+		birth="885.1.1"
+	}
+	917.1.1={
+		death="917.1.1"
+	}
+}
+
+1000202713 = {
+	name="Bu"
+	dynasty=1000078000 #Gim
+	religion="mahayana"
+	culture="korean"
+	mother=1000202712
+	897.1.1={
+		birth="897.1.1"
+	}
+	978.5.13={
+		death="978.5.13"
+	}
+}
+
+#Bak Dynasty
+
+1000202714 = {
+	name="Yegyeom"
+	dynasty=1000078001 #Bak
+	religion="mahayana"
+	culture="korean"
+	850.1.1={
+		birth="850.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202715 = {
+	name="Gyeonghwi"
+	dynasty=1000078001 #Bak
+	religion="mahayana"
+	culture="korean"
+	father=1000202714
+	870.1.1={
+		birth="870.1.1"
+	}
+	900.1.1={
+		add_spouse=1000202711
+	}
+	917.1.1={
+		death="917.1.1"
+	}
+}
+
+1000202716 = {
+	name="Seungyeong"
+	dynasty=1000078001 #Bak
+	religion="mahayana"
+	culture="korean"
+	father=1000202715
+	mother=1000202711
+	890.1.1={
+		birth="890.1.1"
+	}
+	924.1.1={
+		death="924.1.1"
+	}
+}
+
+1000202717 = {
+	name="Wieung"
+	dynasty=1000078001 #Bak
+	religion="mahayana"
+	culture="korean"
+	father=1000202715
+	mother=1000202711
+	891.1.1={
+		birth="891.1.1"
+	}
+	927.1.1={
+		death="927.1.1"
+	}
+}
+
+#Dae Dynasty
+
+1000202719 = {
+	name="Jungsang"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	625.1.1={
+		birth="625.1.1"
+	}
+	698.1.1={
+		death="698.1.1"
+	}
+}
+
+1000202720 = {
+	name="Joyeong"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202719
+	650.1.1={
+		birth="650.1.1"
+	}
+	719.1.1={
+		death="719.1.1"
+	}
+}
+
+1000202721 = {
+	name="Muye"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202720
+	670.1.1={
+		birth="670.1.1"
+	}
+	737.1.1={
+		death="737.1.1"
+	}
+}
+
+1000202722 = {
+	name="Heummu"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202721
+	700.1.1={
+		birth="700.1.1"
+	}
+	793.1.1={
+		death="793.1.1"
+	}
+}
+
+1000202723 = {
+	name="Wonui"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202721
+	720.1.1={
+		birth="720.1.1"
+	}
+	794.1.1={
+		death="794.1.1"
+	}
+}
+
+1000202724 = {
+	name="Goengrim"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202721
+	721.1.1={
+		birth="721.1.1"
+	}
+	794.1.1={
+		death="794.1.1"
+	}
+}
+
+1000202725 = {
+	name="Hwayeo"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202724
+	750.1.1={
+		birth="750.1.1"
+	}
+	794.6.1={
+		death="794.6.1"
+	}
+}
+
+1000202726 = {
+	name="Sungrin"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202721
+	750.1.1={
+		birth="750.1.1"
+	}
+	809.1.1={
+		death="809.1.1"
+	}
+}
+
+1000202727 = {
+	name="Wonyu"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202726
+	770.1.1={
+		birth="770.1.1"
+	}
+	812.1.1={
+		death="812.1.1"
+	}
+}
+
+1000202728 = {
+	name="Eonui"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202726
+	771.1.1={
+		birth="771.1.1"
+	}
+	817.1.1={
+		death="817.1.1"
+	}
+}
+
+1000202729 = {
+	name="Myeungchung"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202726
+	772.1.1={
+		birth="772.1.1"
+	}
+	818.1.1={
+		death="818.1.1"
+	}
+}
+
+1000202730 = {
+	name="Yabal"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202719
+	651.1.1={
+		birth="651.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+
+1000202731 = {
+	name="Jungsang"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202730
+	670.1.1={
+		birth="670.1.1"
+	}
+	720.1.1={
+		death="720.1.1"
+	}
+}
+
+1000202732 = {
+	name="Jungsang"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202731
+	690.1.1={
+		birth="690.1.1"
+	}
+	740.1.1={
+		death="740.1.1"
+	}
+}
+
+1000202733 = {
+	name="Jungsang"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202732
+	720.1.1={
+		birth="720.1.1"
+	}
+	770.1.1={
+		death="770.1.1"
+	}
+}
+
+1000202734 = {
+	name="Insu"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202733
+	750.1.1={
+		birth="750.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+
+1000202735 = {
+	name="Sindeok"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202734
+	770.1.1={
+		birth="770.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+
+1000202736 = {
+	name="Ijin"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202735
+	800.1.1={
+		birth="800.1.1"
+	}
+	857.1.1={
+		death="857.1.1"
+	}
+}
+
+1000202737 = {
+	name="Geonhwang"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202735
+	801.1.1={
+		birth="801.1.1"
+	}
+	871.1.1={
+		death="871.1.1"
+	}
+}
+
+1000202738 = {
+	name="Hyeonseok"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202737
+	830.1.1={
+		birth="830.1.1"
+	}
+	893.1.1={
+		death="893.1.1"
+	}
+}
+
+1000202739 = {
+	name="Wihae"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202738
+	850.1.1={
+		birth="850.1.1"
+	}
+	906.1.1={
+		death="906.1.1"
+	}
+}
+
+1000202740 = {
+	name="Inseon"
+	dynasty=1000078002 #Dae
+	religion="mahayana"
+	culture="korean"
+	father=1000202739
+	880.1.1={
+		birth="880.1.1"
+	}
+	926.1.1={
+		death="926.1.1"
+	}
+}
+
+#Gyeon Dynasty
+
+1000202741 = {
+	name="Ajagae"
+	dynasty=1000078003 #Gyeon
+	religion="mahayana"
+	culture="korean"
+	827.1.1={
+		birth="827.1.1"
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+1000202742 = {
+	name="Hwon"
+	dynasty=1000078003 #Gyeon
+	religion="mahayana"
+	culture="korean"
+	father=1000202741
+	867.1.1={
+		birth="867.1.1"
+	}
+	936.9.9={
+		death="936.9.9"
+	}
+}
+
+1000202743 = {
+	name="Singeom"
+	dynasty=1000078003 #Gyeon
+	religion="mahayana"
+	culture="korean"
+	father=1000202742
+	887.1.1={
+		birth="887.1.1"
+	}
+	936.1.1={
+		death="936.1.1"
+	}
+}
+
+1000202744 = {
+	name="Yanggeom"
+	dynasty=1000078003 #Gyeon
+	religion="mahayana"
+	culture="korean"
+	father=1000202742
+	888.1.1={
+		birth="888.1.1"
+	}
+	936.1.1={
+		death="936.1.1"
+	}
+}
+
+1000202745 = {
+	name="Yonggeom"
+	dynasty=1000078003 #Gyeon
+	religion="mahayana"
+	culture="korean"
+	father=1000202742
+	889.1.1={
+		birth="889.1.1"
+	}
+	936.1.1={
+		death="936.1.1"
+	}
+}
+
+#Gung Dynasty
+
+1000202746 = {
+	name="Ye"
+	dynasty=1000078004 #Gung
+	religion="mahayana"
+	culture="korean"
+	father=1000202705
+	864.1.1={
+		birth="864.1.1"
+	}
+	918.6.15={
+		death="918.6.15"
+	}
+}
+
+
+####Gim Dynasty continued (splitted for time reasons, to be unified with main generation)
+
+
+1000203833 = {
+	name="Heunggwang"
+	dynasty=1000078079 #Gim
+	religion="mahayana"
+	culture="korean"
+	680.1.1={
+		birth="680.1.1"
+	}
+	737.1.1={
+		death="737.1.1"
+	}
+}
+
+1000203829 = {
+	name="Saso"
+	female=yes
+	dynasty=1000078079 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000203833
+	720.1.1={
+		birth="720.1.1"
+	}
+	798.1.1={
+		death="798.1.1"
+	}
+}
+
+1000203832 = {
+	name="Seunggyeom"
+	dynasty=1000078079 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000203833
+	700.1.1={
+		birth="700.1.1"
+	}
+	742.1.1={
+		death="742.1.1"
+	}
+}
+
+1000203831 = {
+	name="Heonyeong"
+	dynasty=1000078079 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000203833
+	701.1.1={
+		birth="701.1.1"
+	}
+	765.1.1={
+		death="765.1.1"
+	}
+}
+
+1000203830 = {
+	name="Geonun"
+	dynasty=1000078079 #Gim
+	religion="mahayana"
+	culture="korean"
+	father=1000203831
+	730.1.1={
+		birth="730.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203834 = {
+	name="Yangsang"
+	dynasty=1000078079 #Gim
+	religion="mahayana"
+	culture="korean"
+	mother=1000203829
+	740.1.1={
+		birth="740.1.1"
+	}
+	785.1.1={
+		death="785.1.1"
+	}
+}

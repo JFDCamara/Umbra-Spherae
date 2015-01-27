@@ -1,0 +1,23 @@
+# 1432 - Chriox
+
+# County Title
+title = c_chriox
+
+# Settlements
+max_settlements = 5
+b_srenjang = castle
+b_pauxingh = city
+b_ghruaiim = city
+b_jemzjeng = city
+#b_hyoji =
+#b_cjeusinx =
+#b_limghruai =
+#b_ghungdrak =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

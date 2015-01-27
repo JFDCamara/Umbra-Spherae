@@ -1,0 +1,21 @@
+# 1893 - Xining
+
+# County Title
+title = c_xining
+# Settlements
+max_settlements = 6
+b_haiyan = castle
+b_xining = city
+#b_lusar = temple
+#b_menyuan = castle
+b_dagcer = castle
+b_chuankou = castle
+#b_pingan = city
+
+# Misc
+culture = tangut
+religion = mahayana
+
+# History
+
+1104.1.1 = { culture = han } # Recovered by the Song Dynasty

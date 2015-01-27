@@ -1,0 +1,21 @@
+# 1088 - Wat Nokor
+
+# County Title
+title = c_wat_nokor
+
+# Settlements
+max_settlements = 4
+b_kampong_cham = castle
+b_wat_nokor = temple
+b_kaoh_pan = city
+#b_sre_seam =
+#b_phumi_kriel_thmei =
+#b_peam_chileang =
+#b_kaoh_treng =
+#b_khum_tuol_snuol =
+
+# Misc
+culture = khmer
+religion = hindu
+
+# History

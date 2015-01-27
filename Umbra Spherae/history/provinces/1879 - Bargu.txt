@@ -1,0 +1,18 @@
+# 1875 - Bargu
+
+# County Title
+title = c_bargu
+
+# Settlements
+max_settlements = 4
+b_ulan_ude = tribal
+b_nyuki = tribal
+#b_kargino =
+#b_zakaltus =
+#b_istok =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

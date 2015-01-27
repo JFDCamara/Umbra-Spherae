@@ -1,0 +1,73 @@
+east_iranian = {
+	graphical_culture = muslimgfx
+
+	pashtun = {
+		graphical_culture = persiangfx
+
+		color = { 0.5 0.75 0.05 }
+
+		male_names = {
+			Abasin Aimal Alamzeb Amail Amu Andam Angar Armaghan Arman Arsal Aryan Asfand Atal Atsak Aurang Awalmir Azlan Azmaray
+			Babak Babrak Bacha Badam Bahram Bahramand Bahrawar Bakht Bakht-Rawan Bakhtawar Balach Balay Barlas Baryal Baseer Batoor
+			Baz Bazgar Bazir Behroz Beltoon Beroj Chargul Chinar Dagar Darab Darman Darwesh Darya Daryab Daulat Dawar Diar Dilawar Droon
+			Elam Farhang Faridun Gahez Gedi Ghairat Ghakhtalay Ghalji Ghamay Gharsanay Ghatool Ghazan Ghorzang Ghuncha-Gul Ghurghusht
+			Gogal Gorbat Gran Gul Gul-Baz Gul-Jan Gul-Mast Gul-Rang Gul-Yar Gul-Zaman Gulab Gulzar Hask Helmand Hewad Hukam Izat
+			Janan Janat-Gul Jandol Kakay Karlan Karmal Karwan Khaghalay Khaista Khak Khalo Khandawar Khialay Khog Khushal Khushdil
+			Khwazun Khyber Kochai Kushan Lajbar Lakhkar Lal Lawang Lawangin Liwal Lmar Mairanay Maiwand Malang Malook Malyar Manan
+			Mangal Marghoz Marjan Marwand Mashal Mateen Mehtar Minatbar Mir-Wais Mirzal Mohambar Nang Nangial Noomyalay Nufail
+			Olasyar Paiman Pamir Pashtoon Pason Pasoon Patang Patman Patwal Patyal Paywastun Pelabo Perzo Pohand Pordal Powenda
+			Psarlay Qajeer-Gul Qalandar Raham-Dil Rangeen Reday Reshteen Rokhan Rustam Sabawoon Sadin Sahar Sahar-Gul Sahim
+			Saifur Salar Samandar Samoon Samsor Sangar Sangin Sangrez Sanobar Sarban Sarbaz Sartor Sayel Selab Selani Shah-Sawar
+			Shahzar Shamal Shamshad Sher-Dil Sherin Shin-Gul Shindi-Gul Shino Shpol Shpoon Shuja Sifat Sohrab Sparlay Spetselay
+			Spin Spin-Gul Spinzar Storay Sur-Gul Suweil Syal Taban Tanim Taroon Tawas Teri Tofan Tolwak Tor-Gul Toryal Toti
+			Turan Turialai Wadaan Wais Wakdar Wakman Wali Yama Yaqut Yoon Zafran Zalaan Zaland Zalanda Zalmay Zapran Zar-Gul
+			Zar-Wali Zarak Zaram Zarang Zarbat Zardab Zardad Zargar Zarghun Zarhawar Zarhgay Zarin Zarkanay Zarlesh Zarmast
+			Zarnosh Zaryab Zawaar Zawar Zgard Ziar Ziarmal Zigar Zmarak Zmaray Zorak Zorawar Zwak Zwandun
+		}
+		female_names = {
+			Afia Aghala Ambrin Angeza Apana Ariana Badrai Bakhtawara Bala-Nashta Balbala Banafsha Barsala Bazira Benazira
+			Bibi Bibi-Rokhana Brekhna Diwa Durkhanai Farishta Gabina Galai Ghatola Ghorashka Ghotai Ghuncha Gorgora Grana
+			Gul-Bano Gul-Ghutai Gul-Lakhta Gul-Makai Gul-Mina Gul-Panrha Gul-Sanga Gul-Warin Gulalai Gulchin Gulnar Hala
+			Helai Hila Hina Husay Kashmala Khaista Khaperai Kharo Khatol Khkulay Khush-Bakhta Khwaga Kochai Kontara Laila
+			Lailuma Lakhta Lalma Lalzari Lamba Lawanga Lema Mahjabin Mahnur Mahzala Malala Malghalara Mina Mukai Munawara
+			Murchakai Muska Naghma Nangialai Narenja Natkai Nawyata Nazanina Nazdana Nazo Niazmina Orbakhta Orbala Orzala
+			Palwasha Panra Parghunda Pariwarsh Parkha Pashmina Patasa Peghra Perkha Pokhla Ranrha Rayan Rekhmina Reshtina
+			Roshina Saba Salgay Sandara Sanga Sangina Senzela Shaghalay Shahay Shahlalai Shamla Shandana Shanzai Shaperai
+			Shastai Shazmina Sherin Shinkai Shinogai Shughla Silai Spalmay Sparghai Spezala Spogmai Storai Taban Talwasa
+			Tanima Tor-Pikai Ugay Wadaana Wagma Wahida Wajia Warda Wawrina Wranga Wreshmin Wrashmin Zaimba Zaituna Zakia
+			Zala Zalanda Zaloba Zamda Zar-Bibi Zar-Masta Zar-Mina Zar-Wareen Zarbaha Zareena Zareesh Zarghuna Zarka Zarlakhta
+			Zarmina Zarsanga Zarshala Zartaj Zhala Zhalai Zohal Zufash
+		}
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		prefix = no
+		
+		modifier = default_culture_modifier
+	}
+	tocharian = {
+		graphical_culture = persiangfx
+
+		color = { 0.8 0.2 0.35 }
+
+		male_names = { #excluding the first two lines it is copied from gujarati
+			Sa-Nu Vijaya-Bala Vijaya-Dharma Vijaya-Jaya Vijaya-Kirti Vijaya-Sambhava Vijaya-Samgrama Vijaya-Sastra Vijaya-Simha
+			Vijaya-Sura Vijaya-Vahana Vijaya-Vikrama Vijaya-Virya Yehu-La
+			Abhayapala Acharya Ahila Ajairaja_Jayaraja Ajayapala Ajay-Singh Alhana Allat Amarangeya Ambra-Prasad Amritapala Anahilla Ari-Singh Arjunavarman Arnoraja Asaraja Asvapala Balaprasada Baliraja Bhatarka Bhert-Patt Bhima_Bhima Bhimadeva_Bhima Bhim-Singh Bhuvan-Singh Bhoja Bhoo-Chand Chachiga Chamundaraja Chandanaraja Chandraraja Chaud-Singh Dadda Dambarisimha Deopali-Deo Devapala Dharapatta Dharasena Dharmapala Dhruvasena Dinakarn Dronasinha 
+			Dungar-Singh Durlabharaja Gajasimha Gopala Gopendraka_Gopendraraja Gopendraraja_Gopendraraja Govinda_Govindaraja Govindapala_Govindaraja Govindaraja_Govindaraja Guhasena Guvaka_Govindaraja Hammira Hammir-Singh Hanspal Hariraja Harischandra Hemachandra Jagadeva Jaitrasimha_Jaitrasimha Jaitra-Singh_Jaitrasimha Jaitugideva Jasapala Jaskarn Jayapala Jayaraja_Jayaraja Jayasimha_Jayasimha Jay-Singh_Jayasimha Jay-Singh-Deo Jayat-Singh_Jayasimha Jayavarman Jayshikari Jendraraja Jojalla
+			Kalbhoj Kanhadadeva Karandeva_Karnadeva Karan-Singh Karnadeva_Karnadeva Katudeva Katukaraja Keerti-Verma_Kirtivarman Kelhana Kharagraha Khuman Kirtipala Kirtivarman_Kirtivarman Kumarapala Kshemraja_Xemraja Kshem-Singh Kshetra-Singh Kumar-Singh Lakhanapala Lakhshaman-Singh Lakshmana_Lakshmanadeva Lakshmanadeva_Lakshmanadeva Lakshmivarman Lavanyakarna Lunavarman Luntiga
+			Madanapala Mahap Mahayak Mahendra_Mahendrapala Mahendrapala_Mahendra Mahipala Mahlakadeva Maladeva Manavasimha Mathan-Singh Mattat Mihira Mulraja Nagabhata Nagarjuna Nagraja Naradeva Narapati Naravarman_Naravarman Naravarmandeva_Naravarman Narayanapala Nar-Verma_Naravarman Narwahan Nayapala Padam-Singh Prahladana Pratapa Prithvipal_Prithviraja Prithivipala_Prithviraja Prithviraja_Prithviraja Purnpala Rahap Rajapala Rajyapala Ramabhadra Ramapala Ratan-Singh Ratnapala Rayapala Rudrapala
+			Sahajapala Sahanapala Samanta_Samanta Samant-Singh_Samanta Samantasimha_Samanta Samarasimha_Samarasimha Samar-Singh_Samarasimha Shakti-Kumar Shaliwahan Shuchi-Verma Shurapala Siladitya Sindhuraja Singhraja Sinha Sinhad-Deo Siyaka Sohiya Someshwara Subhatavarman Suratrana Tejasimha_Tejasimha Tej-Singh_Tejasimha Trailokyavarman Tribhuvanapala Trilochanpala Udayaditya Udayasimha Udayavarman Upendra Vagbhata Vahadiasimha Vairisimha_Vairisimha Vairsingh_Vairisimha Vajradeva Vakapati_Vakpati Vakpati_Vakpati Vakpatiraja_Vakpati Valhana_Valhanadeva Valhanadeva_Valhanadeva Vallabharaja
+			Vanraja Vapyata Vasudeva Vatsaraja Vigrahapala Vigraharaja_Vigraharaja Vigrharaja_Vigraharaja Vijada-Dasasyandana Vijai-Singh Vikramaditya Vinaykpala Vindhyavarman Virama Viradeva Viranarayana Virsinh-Deo Viryarama Xemraja_Xemraja Yasovarman Yograj
+		}
+		female_names = {
+			Annaladevi Bauladevi Bhuyikadevi Candrabhattarikadevi Chachinidevi Dehanagadevi Delhanadevi Desaladevi Hariyadevi Laxmidevi Madhavi Mahalakshmi Mahidevi Manaladevi Mayanalladevi Namalladevi Padmaladevi Padmini Prasadhanadevi Pratha Rasaladevi Rudaladevi Rudrani Rupadevi Samyukta Sidhawa Somalladevi Suhava Sundaridevi Tihunaka Udayamati
+		}
+		
+		from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+	}
+}

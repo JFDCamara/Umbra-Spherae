@@ -1,0 +1,19 @@
+# 1798 - Biuk
+
+# County Title
+title = c_biuk_en
+
+# Settlements
+max_settlements = 6
+b_biuksinan = castle
+b_yengxnengbiuk = city
+b_laiso = city
+b_toksjingh = city
+#b_biukkianhan =
+#b_lainom =
+
+# Misc
+culture = jurchen
+religion = mahayana
+
+# History

@@ -1,0 +1,21 @@
+# 1073 - Phetchaburi
+
+# County Title
+title = c_phetchaburi
+
+# Settlements
+max_settlements = 4
+b_ban_laem = castle
+b_phetchaburi = city
+b_tha_yang = temple
+#b_cha_am =
+#b_kaeng_krachan =
+#b_nong_ya_plong =
+#b_khao_yoi =
+#b_ban_lat =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

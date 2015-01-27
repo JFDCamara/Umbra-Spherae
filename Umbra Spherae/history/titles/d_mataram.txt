@@ -1,0 +1,19 @@
+#Sailendra Dynasty
+752.1.1={
+	holder=1000080464 #Bhanu
+}
+775.1.1={
+	holder=1000080465 #Wisnu
+}
+782.1.1={
+	holder=1000080467 #Dharanindra
+}
+800.1.1={
+	holder=1000080468 #Samaragrawira
+}
+812.1.1={
+	holder=1000080469 #Samaratungga
+}
+833.1.1={
+	holder=0
+}

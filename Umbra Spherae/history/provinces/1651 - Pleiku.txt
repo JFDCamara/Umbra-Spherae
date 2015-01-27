@@ -1,0 +1,21 @@
+# 1137 - Pleiku
+
+# County Title
+title = c_pleiku
+
+# Settlements
+max_settlements = 4
+b_ia_kring = castle
+b_pleiku = city
+b_thong_nhat = temple
+#b_tra_da =
+#b_chu_a =
+#b_dak_doa =
+#b_ia_kenh =
+#b_ia_bang =
+
+# Misc
+culture = cham
+religion = hindu
+
+# History

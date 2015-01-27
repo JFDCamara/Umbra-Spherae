@@ -1,0 +1,21 @@
+# 1186 - Dieng
+
+# County Title
+title = c_dieng
+
+# Settlements
+max_settlements = 6
+b_pekalongan = castle
+b_dieng = city
+b_talun = temple
+b_wonotunggal = city
+#b_blado =
+#b_tulis =
+#b_limpung =
+#b_subah =
+
+# Misc
+culture = javanese
+religion = java_religion
+
+# History

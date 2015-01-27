@@ -1,0 +1,24 @@
+# 1653 - Paiwan
+
+# County Title
+title = c_paiwan
+
+# Settlements
+max_settlements = 3
+b_jabauli = castle
+#b_a-kau = 
+#b_takau = 
+#b_katauw = 
+#b_laiyi = 
+#b_goran = 
+#b_irala = 
+#b_makazayazaya = 
+
+# Misc
+culture = kilai
+religion = taiwanese_religion
+terrain = mountain
+
+# History
+
+

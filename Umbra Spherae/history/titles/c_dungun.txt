@@ -1,0 +1,70 @@
+#Sinhawangsa Dynasty (placeholders)
+750.1.1={
+	liege="e_srivijaya"
+}
+750.1.1={
+	holder=1000203945 #Dollah
+}
+780.1.1={
+	holder=1000203946 #Noh
+}
+810.1.1={
+	holder=1000203947 #Luncai
+}
+840.1.1={
+	holder=1000080902 #Khamis
+}
+870.1.1={
+	holder=1000080903 #Daud
+}
+900.1.1={
+	holder=1000080904 #Johan
+}
+930.1.1={
+	holder=1000080905 #Deraman
+}
+960.1.1={
+	holder=1000080906 #Budi
+}
+990.1.1={
+	holder=1000080907 #Bachok
+}
+1020.1.1={
+	holder=1000080908 #Bongsu
+}
+1050.1.1={
+	holder=1000080909 #Osman
+}
+1080.1.1={
+	holder=1000080910 #Merdeka
+}
+1110.1.1={
+	holder=1000080911 #Muda
+}
+1140.1.1={
+	holder=1000080912 #Kesuma
+}
+1170.1.1={
+	holder=1000080913 #Kechik
+}
+1200.1.1={
+	holder=1000080914 #Kefli
+}
+1230.1.1={
+	holder=1000080915 #Jusoh
+}
+1260.1.1={
+	holder=1000080916 #Indera
+}
+1286.1.1={
+	liege=0
+}
+1290.1.1={
+	holder=1000080917 #Deris
+}
+1320.1.1={
+	holder=1000080918 #Basuki
+}
+1350.1.1={
+	holder=1000080919 #Jebat
+}

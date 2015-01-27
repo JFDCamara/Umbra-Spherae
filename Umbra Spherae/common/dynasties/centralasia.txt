@@ -1,0 +1,64 @@
+1000028317 = {
+    name="Kara Khoja"
+    culture = uyghur
+}
+1000027694 = {
+    name="Kirasiz"
+    culture = uyghur
+}
+1000027695 = {
+    name="Yaghlaqar"
+    culture = uyghur
+}
+1000027698 = {
+    name="Zhuye"
+    culture = uyghur
+}
+
+1000078076 = {
+    name="Karabalghasun"
+    culture = uyghur
+}
+
+1000078077 = {
+    name="Guduolu"
+    culture = uyghur
+}
+
+1000078078 = {
+    name="Jueluowu"
+    culture = uyghur
+}
+
+
+1000027693 = {
+    name="Yuchi"
+    culture = tocharian
+}
+
+1000028318 = {
+    name="Yenisei"
+    culture = kirghiz
+}
+
+1000028319 = {
+    name="Kimek"
+    culture = cuman
+}
+
+1000028320 = {
+    name="Kayani"
+    culture = turkish
+}
+1000028321 = {
+    name="Trakhan"
+    culture = turkish
+}
+1000028322 = {
+    name="Barel"
+    culture = turkish
+}
+1000028323 = {
+    name="Raisiyya"
+    culture = turkish
+}

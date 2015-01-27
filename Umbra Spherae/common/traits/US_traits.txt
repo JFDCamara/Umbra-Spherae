@@ -1,0 +1,136 @@
+## Sengoku Inspired
+
+ruthless = {
+	personality = yes
+	opposites =  {
+		chivalrous
+		bushi
+	}
+	
+	intrigue = 2
+	
+	opposite_opinion = -10
+	
+	ai_rationality = 10
+	ai_honor = -20
+	ai_ambition = 25
+	
+}
+
+chivalrous = {
+	personality = yes
+	potential = {
+		NOT = { culture = japanese }
+	}
+	opposites =  {
+		ruthless
+	}
+	
+	martial = 2
+	
+	opposite_opinion = -10
+	
+	ai_honor = 10
+	ai_rationality = -20
+	ai_ambition = -25
+}
+
+bushi = {
+	personality = yes
+	potential = {
+		culture = japanese
+	}
+	opposites =  {
+		ruthless
+	}
+	
+	martial = 2
+	
+	opposite_opinion = -10
+	
+	ai_honor = 10
+	ai_rationality = -20
+	ai_ambition = -25
+}
+
+tea_master = {
+	lifestyle = yes
+	potential = {
+		culture_group = japanese
+		culture_group = chinese
+		culture_group = korean_group
+		culture_group = di
+		culture_group = tibetan
+		culture_group = vietic
+	}
+	
+	intrigue = 1
+	
+	same_opinion = 20
+}
+
+painter = {
+	lifestyle = yes
+	
+	diplomacy = 1
+	
+	same_opinion = 20
+}
+
+musician = {
+	lifestyle = yes
+	
+	intrigue = 1
+	
+	same_opinion = 20
+}
+
+calligraphist = {
+	lifestyle = yes
+	
+	diplomacy = 1
+	
+	same_opinion = 20
+}
+
+go_player = {
+	lifestyle = yes
+	potential = {
+		culture_group = japanese
+		culture_group = chinese
+		culture_group = korean_group
+		culture_group = di
+		culture_group = vietic
+	}
+	
+	martial = 1
+	
+	same_opinion = 20
+}
+
+
+## Silla Sacred Bone
+#seonggol = {
+#	agnatic = yes # Always inherited from fathers
+#	potential = {
+#		mother = { has_trait = seonggol }
+#	}
+	
+#	opposites =  {
+#		jingol
+#	}
+	
+#	same_opinion = 15
+#	vassal_opinion = 10
+#}
+
+#jingol = {
+#	cognatic = yes # Always inherited from parents
+	
+#	opposites =  {
+#		seonggol
+#	}
+	
+#	same_opinion = 10
+#	vassal_opinion = 5
+#}

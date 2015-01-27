@@ -1,0 +1,21 @@
+# 1779 - 'y
+
+# County Title
+title = c_y
+
+# Settlements
+max_settlements = 5
+b_gjekukruan = castle
+b_sekcin = city
+b_yanxbjen = city
+b_byamxjang = city
+b_loh = city
+#b_chjangbjen =
+#b_lianghiang =
+#b_ngyukgha =
+
+# Misc
+culture = han
+religion = confucian
+
+# History

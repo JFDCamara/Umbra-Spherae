@@ -1,0 +1,17 @@
+# 1799 - Manju
+
+# County Title
+title = c_manju
+
+# Settlements
+max_settlements = 4
+b_khaiyanx = castle
+b_laiyanx = castle
+b_ghuongmyon = castle
+b_yalu = temple
+
+# Misc
+culture = jurchen
+religion = jurchen_pagan
+
+# History

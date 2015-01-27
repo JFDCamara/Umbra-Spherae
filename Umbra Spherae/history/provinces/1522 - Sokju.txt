@@ -1,0 +1,16 @@
+# 1921 - Sokju
+
+# County Title
+title = c_sokju
+
+# Settlements
+max_settlements = 3
+b_mokjeoju = castle
+b_hyeondoju = castle
+#b_yakholju =
+
+# Misc
+culture = jurchen
+religion = jurchen_pagan
+
+# History

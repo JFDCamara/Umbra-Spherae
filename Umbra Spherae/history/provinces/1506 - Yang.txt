@@ -1,0 +1,24 @@
+# 1827 - Yang
+
+# County Title
+title = c_yang
+
+# Settlements
+max_settlements = 5
+b_gyeong = castle
+b_yang = castle
+b_ulsan = city
+#b_pohang =
+#b_busan =
+#b_yangsan =
+#b_gimhae =
+#b_miryang =
+
+
+# Misc
+culture = korean
+religion = mahayana
+
+# History
+
+

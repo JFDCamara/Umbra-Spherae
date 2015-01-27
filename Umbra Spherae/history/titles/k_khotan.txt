@@ -1,0 +1,31 @@
+#Yuchi Dynasty (many rulers before these)
+757.1.1={
+	holder=1000202380 #Vijaya-Vikrama
+}
+829.1.1={
+	holder=1000202381 #Vijaya-Nakhan
+}
+844.1.1={
+	holder=1000202382 #Vijaya-Kirti
+}
+859.1.1={
+	holder=1000202383 #Vijaya-Vikrama
+}
+888.1.1={
+	holder=1000202384 #Vijaya-Samgrama
+}
+912.1.1={
+	holder=1000202385 #Vijaya-Sambhava
+}
+967.1.1={
+	holder=1000202386 #Vijaya-Sura
+}
+978.1.1={
+	holder=1000202387 #Vijaya-Dharma
+}
+982.1.1={
+	holder=1000202388 #Vijaya-Samgrama
+}
+1006.1.1={
+	holder=0
+}

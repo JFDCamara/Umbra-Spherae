@@ -1,0 +1,15 @@
+# 1914 - Anbyeon
+
+# County Title
+title = c_anbyeon
+
+# Settlements
+max_settlements = 2
+b_anju = castle
+b_gyeongju_anbyeon = castle
+
+# Misc
+culture = jurchen
+religion = jurchen_pagan
+
+# History

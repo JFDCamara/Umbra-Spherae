@@ -1,0 +1,22 @@
+# 1842 - Mino
+
+# County Title
+title = c_mino
+
+# Settlements
+max_settlements = 5
+b_fuwa_japan = castle
+b_kagami = castle
+b_hida = castle
+
+#b_kani = castle
+#b_ahachi = castle
+#b_ishizu = castle
+#b_ikeda = castle
+#b_ena = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

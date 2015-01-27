@@ -1,0 +1,18 @@
+# 1354 - Kara Khoja
+
+# County Title
+title = c_kara_khoja
+
+# Settlements
+max_settlements = 5
+b_keqike_kanerzi = tribal
+b_kara_khoja = city
+b_laiger_kanerzi = tribal
+b_parang_kanerzi = temple
+#b_malong_kanerzi =
+
+# Misc
+culture = uyghur
+religion = buddhist
+
+# History

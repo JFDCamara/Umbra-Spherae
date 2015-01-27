@@ -1,0 +1,24 @@
+# 1825 - Sang
+
+# County Title
+title = c_sang
+
+# Settlements
+max_settlements = 4
+b_sang = castle
+b_yeong = castle
+b_daegu = city
+#b_andong =
+#b_gimcheon =
+#b_gumi =
+#b_yeon =
+#b_bonghwa =
+
+
+# Misc
+culture = korean
+religion = mahayana
+
+# History
+
+

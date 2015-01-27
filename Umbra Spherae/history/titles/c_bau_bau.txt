@@ -1,0 +1,67 @@
+#Mallarangeng Dynasty (placeholders)
+750.1.1={
+	holder=1000205056 #Manurip
+}
+780.1.1={
+	holder=1000205057 #Pandi
+}
+810.1.1={
+	holder=1000205058 #Pele
+}
+840.1.1={
+	holder=1000201389 #Mussu
+}
+870.1.1={
+	holder=1000201390 #Mongula
+}
+900.1.1={
+	holder=1000201391 #Lolombulan
+}
+930.1.1={
+	holder=1000201392 #Lintang
+}
+960.1.1={
+	holder=1000201393 #Mailoor
+}
+990.1.1={
+	holder=1000201394 #Kenap
+}
+1020.1.1={
+	holder=1000201395 #Kawung
+}
+1050.1.1={
+	holder=1000076135 #Aso
+}
+1080.1.1={
+	holder=1000201396 #Kulit
+}
+1110.1.1={
+	holder=1000201397 #Kalonta
+}
+1140.1.1={
+	holder=1000201398 #Lepar
+}
+1170.1.1={
+	holder=1000201399 #Ato
+}
+1200.1.1={
+	holder=1000201400 #Boyoh
+}
+1230.1.1={
+	holder=1000201401 #Dapu
+}
+1260.1.1={
+	holder=1000201402 #Pakasi
+}
+1290.1.1={
+	holder=1000201403 #Sembung
+}
+1293.1.1={
+	liege="e_java"
+}
+1320.1.1={
+	holder=1000201404 #Sumakud
+}
+1350.1.1={
+	holder=1000201405 #Tairas
+}

@@ -1,0 +1,17 @@
+# 1867 - Tsagaan
+
+# County Title
+title = c_tsagaan
+
+# Settlements
+max_settlements = 4
+b_mandu_hubaola_gesumu = tribal
+b_taosennao_ergacha = tribal
+#b_aer_shanbaola_gegacha =
+#b_erengao_bisumu =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

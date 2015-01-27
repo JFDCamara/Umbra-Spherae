@@ -1,0 +1,24 @@
+# 1826 - Gang
+
+# County Title
+title = c_gang
+
+# Settlements
+max_settlements = 5
+b_gang = castle
+b_sacheon = castle
+b_namhae = city
+b_geochang = temple
+#b_jin =
+#b_tongyeong =
+#b_geoje =
+#b_uiryeong =
+
+
+# Misc
+culture = korean
+religion = mahayana
+
+# History
+
+

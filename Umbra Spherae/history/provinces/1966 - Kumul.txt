@@ -1,0 +1,18 @@
+# 1307 - Kumul
+
+# County Title
+title = c_kumul
+
+# Settlements
+max_settlements = 4
+b_xigebi = tribal
+b_kumul = city
+#b_wu_erdacun =
+#b_xia_longquan =
+#b_yezhuangzi =
+
+# Misc
+culture = uyghur
+religion = buddhist
+
+# History

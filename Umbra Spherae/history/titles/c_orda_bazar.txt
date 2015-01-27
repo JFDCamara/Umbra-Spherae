@@ -1,0 +1,97 @@
+#Kimek Dynasty (placeholders)
+840.1.1={
+	liege="k_kimek"
+}
+840.1.1={
+	holder=1000202407 #Sirçan
+}
+870.1.1={
+	holder=1000202408 #Bonyak
+}
+900.1.1={
+	holder=1000202409 #Atrak
+}
+930.1.1={
+	holder=1000202410 #Itlar
+}
+960.1.1={
+	holder=1000202411 #Kopti
+}
+990.1.1={
+	holder=1000202412 #Uzluk
+}
+1020.1.1={
+	holder=1000202413 #Gzi
+}
+1050.1.1={
+	holder=1000076214 #Könçek
+}
+1080.1.1={
+	holder=1000202414 #Etrek
+}
+1110.1.1={
+	holder=1000202415 #Togli
+}
+1140.1.1={
+	holder=1000202416 #Eldeçyuk
+}
+1170.1.1={
+	holder=1000202417 #Borç
+}
+1200.1.1={
+	holder=1000202418 #Bachman
+}
+
+#Mongol Empire
+1220.1.1={
+	liege="e_mongol_empire"
+}
+1220.1.1={
+	holder=125501 #Genghis
+}
+
+#Golden Horde
+1227.12.2={
+	liege="k_golden_horde"
+}
+1227.12.2=
+{
+holder=125503
+active = yes
+}
+1255.1.2=
+{
+holder=125505
+}
+1256.1.2=
+{
+holder=125506
+}
+1257.1.2=
+{
+holder=125504
+}
+1266.1.2=
+{
+holder=125508
+}
+1271.12.18=
+{
+	liege="e_golden_horde"
+}
+1280.1.2=
+{
+holder=125509
+}
+1287.1.2=
+{
+holder=125511
+}
+1291.1.2=
+{
+holder=125512
+}
+1312.1.2=
+{
+holder=480000
+}

@@ -1,0 +1,21 @@
+# 1180 - Tugu
+
+# County Title
+title = c_tugu
+
+# Settlements
+max_settlements = 6
+b_sunda_kalapa = castle
+b_tugu = city
+b_batujaya = temple
+b_tanjungbarat = city
+#b_cibuaya =
+#b_jonggol =
+#b_cariu =
+#b_rengasdengklok =
+
+# Misc
+culture = sundanese
+religion = java_religion
+
+# History

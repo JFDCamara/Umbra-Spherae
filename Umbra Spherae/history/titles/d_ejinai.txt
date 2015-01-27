@@ -1,0 +1,13 @@
+#Zhuye Dynasty (Shatuo)
+867.1.1 = {
+	holder=1000202647 #Chixin
+}
+887.1.1 = {
+	holder=1000202648 #Keyong
+}
+908.2.23 = {
+	holder=1000202649 #Cunxu
+}
+923.5.13 = {
+	holder=0
+}

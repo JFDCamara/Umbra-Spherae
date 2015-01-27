@@ -1,0 +1,18 @@
+# 1887 - Angara
+
+# County Title
+title = c_angara
+
+# Settlements
+max_settlements = 4
+b_buret = tribal
+b_bakhan = tribal
+#b_beket =
+#b_balukhar =
+#b_baltuy =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

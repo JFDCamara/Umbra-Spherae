@@ -1,0 +1,14 @@
+# 1322 - Krua
+
+# County Title
+title = c_krua
+
+# Settlements
+max_settlements = 3
+b_zjanglak = castle
+b_cinhchjang = city
+b_ngyukmuonkruan = castle
+
+# Misc
+culture = tangut
+religion = vajrayana

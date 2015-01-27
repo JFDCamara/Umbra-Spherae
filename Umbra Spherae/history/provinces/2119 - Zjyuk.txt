@@ -1,0 +1,23 @@
+# 1590 - Zjyuk
+
+# County Title
+title = c_zjyuk
+
+# Settlements
+max_settlements = 6
+b_cinhngyan = castle
+b_krungngyan = city
+b_sincin = city
+b_yengxkhang = city
+b_myanhzip = city
+#b_kimmrax =
+#b_sinchjyen =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

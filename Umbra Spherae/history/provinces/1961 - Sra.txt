@@ -1,0 +1,15 @@
+# 1293 - Sra
+
+# County Title
+title = c_sra
+
+# Settlements
+max_settlements = 4
+b_zjuhchjang = castle
+b_thuonghuang = city
+b_jangkruan = castle
+b_makkaukhuot = temple
+
+# Misc
+culture = tangut
+religion = vajrayana

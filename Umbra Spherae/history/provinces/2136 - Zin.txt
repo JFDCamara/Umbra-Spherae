@@ -1,0 +1,24 @@
+# 1617 - Zin
+
+# County Title
+title = c_zin
+
+# Settlements
+max_settlements = 6
+b_kiungmuon = castle
+b_zjengkix = city
+b_lyungzjeng = city
+b_thatliung = castle
+b_biukhiezsi = temple
+#b_zinchiengsjyix = city
+#b_thensjyix =
+#b_mrekcieksren =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

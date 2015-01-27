@@ -1,0 +1,18 @@
+# 1862 - Eej Khairhan
+
+# County Title
+title = c_eej_khairhan
+
+# Settlements
+max_settlements = 4
+b_taishir = tribal
+b_biger = tribal
+#b_tsogt =
+#b_yesunbulag =
+#b_khukh_morit =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

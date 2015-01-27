@@ -1,0 +1,21 @@
+# 1193 - Palah
+
+# County Title
+title = c_palah
+
+# Settlements
+max_settlements = 6
+b_sanan_kulon = castle
+b_palah = city
+b_kademangan = temple
+b_kanigoro = castle
+#b_garum =
+#b_binangun =
+#b_jimbe =
+#b_tlogo =
+
+# Misc
+culture = javanese
+religion = java_religion
+
+# History

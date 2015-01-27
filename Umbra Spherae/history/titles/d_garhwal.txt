@@ -1,0 +1,115 @@
+#Parmar Dynasty
+718.1.1={
+	holder=1000076406 #Kanak-Pal
+}
+729.1.1={
+	holder=1000076407 #Shyam-Pal
+}
+745.1.1={
+	holder=1000076408 #Padu-Pal
+}
+756.1.1={
+	holder=1000076409 #Abigat-Pal
+}
+781.1.1={
+	holder=1000076410 #Sigal-Pal
+}
+797.1.1={
+	holder=1000076411 #Ratna-Pal
+}
+850.1.1={
+	liege="k_uttarakhand"
+}
+852.1.1={
+	holder=1000076412 #Sali-Pal
+}
+858.1.1={
+	holder=1000076413 #Bidhi-Pal
+}
+878.1.1={
+	holder=1000076414 #Madan-Pal I
+}
+895.1.1={
+	holder=1000076415 #Bhagti-Pal
+}
+920.1.1={
+	holder=1000076416 #Jai-Chand-Pal
+}
+943.1.1={
+	holder=1000076417 #Prithi-Pal
+}
+973.1.1={
+	holder=1000076418 #Madan-Pal II
+}
+995.1.1={
+	holder=1000076419 #Agasti-Pal
+}
+1015.1.1={
+	holder=1000076420 #Surati-Pal
+}
+1037.1.1={
+	holder=1000076164 #Jayant-Singh-Pal
+}
+1065.1.1={
+	liege=0
+}
+1073.1.1={
+	holder=1000076421 #Anant-Pal I
+}
+1082.1.1={
+	holder=1000076422 #Anand-Pal I
+}
+1084.1.1={
+	holder=1000076423 #Vibhag-Pal
+}
+1102.1.1={
+	holder=1000076424 #Subhajan-Pal
+}
+1116.1.1={
+	holder=1000076425 #Vikram-Pal
+}
+1131.1.1={
+	holder=1000076426 #Vichitra-Pal
+}
+1141.1.1={
+	holder=1000076427 #Hansa-Pal
+}
+1152.1.1={
+	holder=1000076428 #Som-Pal
+}
+1159.1.1={
+	holder=1000076429 #Kadil-Pal
+}
+1164.1.1={
+	holder=1000076430 #Kam-Deo-Pal
+}
+1179.1.1={
+	holder=1000076431 #Salakhan-Deo
+}
+1197.1.1={
+	holder=1000076432 #Lakhan-Pal
+}
+1220.1.1={
+	holder=1000076433 #Anant-Pal II
+}
+1241.1.1={
+	holder=1000076434 #Purab-Deo
+}
+1260.1.1={
+	holder=1000076435 #Abhaya-Deo
+}
+1271.1.1={
+	holder=1000076436 #Jairam-Deo
+}
+1290.1.1={
+	holder=1000076437 #Asal-Deo
+}
+1299.1.1={
+	holder=1000076438 #Jagat-Pal
+}
+1311.1.1={
+	holder=1000076439 #Jit-Pal
+}
+1330.1.1={
+	holder=1000076440 #Anand-Pal II
+}

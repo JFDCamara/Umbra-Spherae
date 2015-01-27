@@ -1,0 +1,16 @@
+# 1908 - Namhae
+
+# County Title
+title = c_namhae
+
+# Settlements
+max_settlements = 3
+b_okju = castle
+b_jeongju = castle
+#b_choju =
+
+# Misc
+culture = jurchen
+religion = jurchen_pagan
+
+# History

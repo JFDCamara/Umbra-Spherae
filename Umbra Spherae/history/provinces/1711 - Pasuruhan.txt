@@ -1,0 +1,21 @@
+# 1197 - Pasuruhan
+
+# County Title
+title = c_pasuruhan
+
+# Settlements
+max_settlements = 7
+b_probolinggo = castle
+b_pasuruhan = city
+b_kraton = temple
+b_rejoso = city
+b_kejayan = castle
+b_lekok = city
+#b_grati =
+#b_nguling =
+
+# Misc
+culture = javanese
+religion = hindu
+
+# History

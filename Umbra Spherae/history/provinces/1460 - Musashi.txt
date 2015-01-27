@@ -1,0 +1,22 @@
+# 1836 - Musashi
+
+# County Title
+title = c_musashi
+
+# Settlements
+max_settlements = 5
+b_tama = castle
+b_kawagoe = castle
+b_adachi = castle
+b_saitama = castle
+
+#b_chichibu = castle
+#b_toshima = castle
+#b_kodama = castle
+#b_hiki = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

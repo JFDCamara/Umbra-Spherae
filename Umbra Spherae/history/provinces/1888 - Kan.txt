@@ -1,0 +1,18 @@
+# 1884 - Kan
+
+# County Title
+title = c_kan
+
+# Settlements
+max_settlements = 4
+b_zaozyorny = tribal
+b_borodino = tribal
+#b_uyar =
+#b_zykovo =
+#b_boguchany =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

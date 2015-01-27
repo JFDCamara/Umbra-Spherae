@@ -1,0 +1,21 @@
+# 1184 - Cangkuang
+
+# County Title
+title = c_cangkuang
+
+# Settlements
+max_settlements = 6
+b_leles = castle
+b_cangkuang = city
+b_kadungora = temple
+b_tarogong = temple
+#b_kotawetan =
+#b_cibalong =
+#b_cisompet =
+#b_samarang =
+
+# Misc
+culture = sundanese
+religion = java_religion
+
+# History

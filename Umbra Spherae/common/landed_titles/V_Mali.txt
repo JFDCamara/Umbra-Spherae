@@ -1,0 +1,244 @@
+
+e_mali = {
+	color={ 138 148 55 }
+	color2={ 255 255 255 }
+	
+	capital = 911 # Timbuktu
+	
+	culture = manden
+	
+	west_african_pagan_reformed = 500
+	
+	k_mali = {
+		color={ 158 188 61 }
+		color2={ 255 255 255 }
+		
+		capital = 911 # Timbuktu
+		
+		culture = manden
+	
+		d_timbuktu = {
+			color={ 130 180 61 }
+			color2={ 255 255 255 }
+	
+			capital = 911 # Timbuktu			
+		
+			c_timbuktu = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+			
+				b_timbuktu = {}
+				b_alafia = {}
+				b_salam = {
+					holy_site = west_african_pagan
+					holy_site = west_african_pagan_reformed			
+				}
+				b_lafia = {}
+				b_ber = {}
+				b_boureminaly = {}
+				b_toya = {}
+				b_aglal = {}
+			}
+			c_oualata = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+			
+				b_oualata = {}
+				b_tiguiguil = {}
+				b_neiguiat = {}
+				b_konou = {}
+				b_birnsara = {}
+				b_tizert = {}
+				b_tarhalet = {}
+				b_fassekra = {}
+			}
+			c_araouane = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+			
+				b_araouane = {}
+				b_tessalit = {}
+				b_aguelhok = {}
+				b_abalessa = {}
+				b_tinzaouten = {}
+				b_guezzam = {}
+				b_tamanrasset = {}
+				b_tazrouk = {}
+			}
+			c_taghaza = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+			
+				b_taghaza = {}
+				b_kerzaz = {}
+				b_metarta = {}
+				b_reggane = {}
+				b_adrar = {}
+				b_aougrout = {}
+				b_charouine = {}
+				b_alouarta = {}
+			}
+		}
+		
+		d_ghana = {
+			color={ 90 130 30 }
+			color2={ 255 255 255 }
+	
+			capital = 913 # Ghana
+		
+			c_ghana = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+				
+				b_el_ghaba = {}
+				b_koumbi_saleh = {}
+				b_silla = {
+					holy_site = pagan
+				}
+				b_singhanah = {}
+				b_samakanda = {}
+				b_ras_elma = {}
+				b_tirka = {}
+				b_kughah = {}
+			}
+			c_aoudaghost = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+			
+				b_aoudaghost = {}
+				b_tichitt  = {}
+				b_moudjeria  = {}
+				b_ksarelbarka = {}
+				
+			}
+			c_ouadane = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+			
+				b_ouadane = {}
+				b_wadan = {}
+				b_azuggi = {}
+				b_ksaralkiali = {}
+			}
+			c_idjil = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+			
+				b_idjil = {}
+				b_zouerat = {}
+				b_tazadit = {}
+				b_rouessa = {}
+				b_fderick = {}
+			}
+		}
+		
+		d_mali = {
+			color={ 80 120 70 }
+			color2={ 255 255 255 }
+	
+			capital = 925 # Mali
+		
+			c_mali = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+				
+				b_boure = {}
+				b_niani = {}
+				b_bamako = {
+					holy_site = west_african_pagan
+					holy_site = west_african_pagan_reformed
+				}
+				b_safo = {}
+				b_baguineda = {}
+				b_dialakoro = {}
+				b_bougouni = {}
+				b_soussa = {}
+			}
+			c_bambuk = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+			
+				b_bambuk = {}
+				b_kiffa = {}
+				b_kankossa = {}
+				b_boumdeid = {}
+				b_guerou = {}
+				b_aftout = {}
+			}
+			c_djenne = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+			
+				b_djenne = {}
+				b_macina = {}
+				b_fakala = {}
+				b_kewa = {}
+				b_ouroali = {}
+				b_pondori = {}
+				b_femaye = {}
+				b_derary = {}
+			}
+			c_gurma = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+				
+				b_gurma = {}
+				b_zorgho = {}
+				b_hounde = {}
+			}
+		}
+		d_songhay = {
+			color={ 80 120 70 }
+			color2={ 255 255 255 }
+	
+			capital = 914 # Gao
+		
+			c_gao = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+				
+				b_gao = {}
+				b_sarnah = {}
+				b_gaosaney = {}
+				b_bourem = {}
+				b_ansongo = {}
+				b_menaka = {}
+				b_gabero = {}
+				b_anchawadi = {}
+			}
+			c_tadmekka = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+			
+				b_tadmekka = {}
+				b_agades = {}
+				b_takedda = {}
+				b_essako = {}
+				b_kidal = {}
+			}
+			c_zarma = {
+				color={ 130 180 61 }
+				color2={ 255 255 255 }
+				b_bura = {}
+				b_ouallam = {}
+				b_tera = {}
+			}
+		}
+	}
+	
+	allow = {
+		hidden_tooltip = {
+			OR = {
+				ai = no
+				culture_group = west_african
+			}
+		}
+		has_landed_title=k_mauretania
+		has_landed_title=k_mali
+		any_demesne_title = {
+			tier = king
+			NOT = { title = k_mali }
+			NOT = { title = k_mauretania }
+		}
+	}
+}

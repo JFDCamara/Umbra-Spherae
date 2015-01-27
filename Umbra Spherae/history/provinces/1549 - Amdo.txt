@@ -1,0 +1,21 @@
+# 1300 - Amdo
+
+# County Title
+title = c_amdo
+# Settlements
+max_settlements = 4
+b_zhasa = castle
+b_amdo = city
+#b_rolagang = temple
+#b_gangnyi = castle
+#b_maqingcun = castle
+#b_muleyang_dimacun = temple
+#b_tangrongcun = temple
+
+# Misc
+culture = sumpa
+religion = bon
+
+# History
+
+1100.1.1 = { culture = bodpa }

@@ -1,0 +1,21 @@
+# 1891 - Gerze
+
+# County Title
+title = c_gerze
+# Settlements
+max_settlements = 4
+b_lumaringbo = castle
+b_gerze = city
+#b_oma = city
+#b_dongco = temple
+#b_naqen = castle
+#b_marme = temple
+#b_kangtog = castle
+
+# Misc
+culture = xangxung
+religion = bon
+
+# History
+
+1100.1.1 = { culture = bodpa }

@@ -1,0 +1,18 @@
+# 1791 - Kimx
+
+# County Title
+title = c_kimx
+
+# Settlements
+max_settlements = 5
+b_yengxlak = castle
+b_anchjang = city
+b_kimxyengxghua = city
+#b_hingzjeng =
+#b_zsjinsjyix =
+
+# Misc
+culture = han
+religion = confucian
+
+# History

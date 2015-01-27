@@ -1,0 +1,17 @@
+# 1849 - Kerlen
+
+# County Title
+title = c_kerlen
+
+# Settlements
+max_settlements = 4
+b_matad = tribal
+b_khalkh_gol = tribal
+#b_soyolj_uul =
+#b_modtoi_hamar =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

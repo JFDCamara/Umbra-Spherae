@@ -1,0 +1,18 @@
+# 1854 - Dalai Eej
+
+# County Title
+title = c_dalai_eej
+
+# Settlements
+max_settlements = 4
+b_alag_erdene = tribal
+b_khatgal = tribal
+#b_ikh_uul =
+#b_murun =
+#b_arbulag =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History
