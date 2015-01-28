@@ -1,3 +1,20 @@
+#Norbu Dynasty (placeholders)
+750.1.1={
+	liege="d_ghase"
+}
+750.1.1={
+	holder=1000205215 #Norbu
+}
+780.1.1={
+	holder=1000205216 #Ketu
+}
+810.1.1={
+	holder=1000205217 #Zopa
+}
+842.1.1={
+	liege=0
+}
+
 #Zhuye Dynasty (Shatuo)
 867.1.1 = {
 	liege="d_ejinai"

@@ -36,6 +36,11 @@
     culture = tocharian
 }
 
+1000078088 = {
+	name="Karnadeva"
+	culture = tocharian
+}
+
 1000028318 = {
     name="Yenisei"
     culture = kirghiz

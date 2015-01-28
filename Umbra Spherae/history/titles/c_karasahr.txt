@@ -1,3 +1,21 @@
+#Karnadeva Dynasty (placeholders)
+750.1.1={
+	liege="d_kara_khoja"
+}
+750.1.1={
+	holder=1000205218 #Karnadeva
+}
+780.1.1={
+	holder=1000205219 #Acharya
+}
+810.1.1={
+	holder=1000205220 #Samanta
+}
+842.1.1={
+	liege=0
+}
+
+
 #Kara-Khoja Dynasty
 864.1.1 = {
 	liege="k_kara_khoja"

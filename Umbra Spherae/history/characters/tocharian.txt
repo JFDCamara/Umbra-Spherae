@@ -138,3 +138,46 @@
 		death="1006.1.1"
 	}
 }
+
+#Karnadeva Dynasty (placeholders for Duchy of Kara Khoja, vassal of Tibet)
+
+1000205218 = {
+	name="Karnadeva"
+	dynasty=1000078088 #Karnadeva
+	religion="mahayana"
+	culture="tocharian"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205219 = {
+	name="Acharya"
+	dynasty=1000078088 #Karnadeva
+	religion="mahayana"
+	culture="tocharian"
+	father=1000205215
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205220 = {
+	name="Samanta"
+	dynasty=1000078088 #Karnadeva
+	religion="mahayana"
+	culture="tocharian"
+	father=1000205216
+	780.1.1={
+		birth="780.1.1"
+	}
+	842.1.1={
+		death="842.1.1"
+	}
+}

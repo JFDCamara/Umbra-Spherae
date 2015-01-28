@@ -1,0 +1,17 @@
+#Karnadeva Dynasty (placeholders)
+750.1.1={
+	liege="e_tibetan_empire"
+}
+750.1.1={
+	holder=1000205218 #Karnadeva
+}
+780.1.1={
+	holder=1000205219 #Acharya
+}
+810.1.1={
+	holder=1000205220 #Samanta
+}
+842.1.1={
+	holder=0
+	liege=0
+}

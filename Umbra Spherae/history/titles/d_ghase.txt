@@ -1,0 +1,17 @@
+#Norbu Dynasty (placeholders)
+750.1.1={
+	liege="e_tibetan_empire"
+}
+750.1.1={
+	holder=1000205215 #Norbu
+}
+780.1.1={
+	holder=1000205216 #Ketu
+}
+810.1.1={
+	holder=1000205217 #Zopa
+}
+842.1.1={
+	holder=0
+	liege=0
+}

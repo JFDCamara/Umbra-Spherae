@@ -2,7 +2,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_trait_ruthless"
-		texturefile = "gfx/traits/ruthless.dds"
+		texturefile = "gfx/traits/ruthless.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -16,7 +16,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_trait_bushi"
-		texturefile = "gfx/traits/bushi.dds"
+		texturefile = "gfx/traits/bushi.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"

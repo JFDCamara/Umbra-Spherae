@@ -1,9 +1,15 @@
 #Yuchi Dynasty (many rulers before these)
+750.1.1={
+	liege="e_tibetan_empire"
+}
 757.1.1={
 	holder=1000202380 #Vijaya-Vikrama
 }
 829.1.1={
 	holder=1000202381 #Vijaya-Nakhan
+}
+842.1.1={
+	liege=0
 }
 844.1.1={
 	holder=1000202382 #Vijaya-Kirti

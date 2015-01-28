@@ -85,7 +85,7 @@
 
 1000027360 = {
 	name="Licchavi"
-	culture = maithili
+	culture = nepali
 }
 
 1000027361 = {
@@ -235,3 +235,9 @@
 	name="Li"
 	culture = tangut
 }
+
+1000078087 = {
+	name="Norbu"
+	culture = tangut
+}
+

@@ -1,3 +1,64 @@
+#Karabalghasun Dynasty
+744.1.1={
+	liege="e_uyghur"
+}
+744.1.1={
+	holder=1000203813 #Gulipeiluo
+}
+747.1.1={
+	holder=1000203814 #Moyanchuo
+}
+759.1.1={
+	holder=1000203815 #Yidijian
+}
+779.1.1={
+	holder=1000203816 #Dunmohedagan
+}
+789.1.1={
+	holder=1000203817 #Duoluositejin
+}
+790.1.1={
+	holder=1000203818 #Jueluowu
+}
+790.6.1={
+	holder=1000203819 #Achuo
+}
+
+#Guduolu Dynasty (usurpers)
+795.1.1={
+	holder=1000203820 #Guduolu
+}
+808.1.1={
+	holder=1000203821 #Baoyikehan
+}
+821.1.1={
+	holder=1000203822 #Chongdekehan
+}
+824.1.1={
+	holder=1000203823 #Hesatejin
+}
+832.1.1={
+	holder=1000203824 #Hutejin
+}
+
+#Jueluowu Dynasty (usurper)
+839.1.1={
+	holder=1000203825 #Jueluowu
+}
+
+#Guduolu Dynasty (restored)
+840.1.1={
+	holder=1000203826 #Wuxitele
+}
+846.1.1={
+	holder=1000203827 #Enietele
+}
+847.1.1={
+	holder=1000203828 #Pangtele
+}
+
+#hole here
+
 #Zhuye Dynasty (Shatuo)
 867.1.1 = {
 	liege="d_ejinai"
