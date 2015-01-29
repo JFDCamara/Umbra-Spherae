@@ -1,4 +1,13 @@
 #Kimek Dynasty (placeholders)
+750.1.1={
+	holder=1000205221 #Etrek
+}
+780.1.1={
+	holder=1000205222 #Gzi
+}
+810.1.1={
+	holder=1000205223 #Sirçan
+}
 840.1.1={
 	holder=1000202407 #Sirçan
 }
