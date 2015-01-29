@@ -1778,3 +1778,10 @@ k_il-khanate = {
 	religion = tengri_pagan
 }
 
+d_kimek = {
+
+	color= { 69 131 143 }
+	color2= { 0 0 0 }
+
+	capital = 1994 #Imakia
+}

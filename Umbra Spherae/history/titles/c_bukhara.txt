@@ -1,12 +1,17 @@
-864.1.1={
-	liege="d_khiva"
+710.1.1={
+	liege=d_khiva
 }
+
+769.1.1={
+	holder=188603
+}
+
 864.1.1={
 	holder = 163157
 }
-1066.1.1=
-{
-	liege="d_bukhara"
+
+1066.1.1={
+	liege="d_merv"
 }
 1066.1.1=
 {

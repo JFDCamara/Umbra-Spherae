@@ -1,8 +1,13 @@
-854.1.1=
-{
-	liege=d_merv
+762.1.1={
+	liege=d_turkestan
+	holder=188825
+}
+
+854.1.1={
+	liege=d_dihistan
 	holder=74030
 }
+
 1066.1.1=
 {
 	holder=93087

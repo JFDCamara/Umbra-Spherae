@@ -1,9 +1,13 @@
+755.1.1={
+	liege = d_tabriz
+	holder = 160290 # Surkhab Bavand II
+}
+
 867.1.1={
 	liege="d_mazandaran"
-}
-867.1.1={
 	holder = 45105 # Rostam II
 }
+
 1066.1.1=
 {
 holder=20704
@@ -22,7 +26,7 @@ holder=93163
 }
 1118.1.1=
 {
-liege="d_merv"
+liege="d_dihistan"
 }
 1118.1.1=
 {

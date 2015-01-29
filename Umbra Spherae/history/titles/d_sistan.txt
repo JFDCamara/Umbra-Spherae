@@ -1,3 +1,13 @@
+661.2.28={
+	liege=e_arabia
+}
+
+764.1.1={
+	holder=188604 # Ma'n bin Za'idah al-Shaybani
+}
+769.6.1={
+	holder=0
+}
 1066.1.1=
 {
 	liege="k_persia"

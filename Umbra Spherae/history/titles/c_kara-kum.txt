@@ -1,18 +1,22 @@
+710.1.1={
+	liege=d_khiva
+}
+
+769.1.1={
+	holder=188680 # fictitious assignment
+}
+
 867.1.1={
-	liege="d_merv"
+	liege="d_dihistan"
 	holder=45106 # Faraz
 }
-1066.1.1=
-{
+
+1066.1.1={
 	liege="d_turkestan"
-}
-1066.1.1=
-{
 	holder=20713
 }
-1077.1.1=
-{
-	liege="d_merv"
+1077.1.1={
+	liege="d_dihistan"
 	holder=20713
 }
 1096.1.1=
@@ -37,7 +41,7 @@
 }
 1207.1.1=
 {
-	liege="d_bukhara"
+	liege="d_merv"
 	holder=93053
 }
 1221.1.1=

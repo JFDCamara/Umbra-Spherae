@@ -1,9 +1,11 @@
-#Kimek Dynasty (placeholders)
-750.1.1={
-	liege="k_kimek"
+762.1.1={
+	liege=d_kipchak
+	holder=188812
 }
-750.1.1={
-	holder=1000205221 #Etrek
+
+#Kimek Dynasty (placeholders)
+780.1.1={
+	liege="k_kimek"
 }
 780.1.1={
 	holder=1000205222 #Gzi

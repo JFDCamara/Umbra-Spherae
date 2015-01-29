@@ -1,15 +1,13 @@
-850.1.1=
-{
+762.1.1={
+	liege=d_turkestan
+	holder=188824
+}
 
+850.1.1={
+	liege=d_syr_darya
 	holder=74029
-
-	liege=d_turkmens
-
 }
-1066.1.1=
-{
-liege="d_turkmens"
-}
+
 1066.1.1=
 {
 holder=93089

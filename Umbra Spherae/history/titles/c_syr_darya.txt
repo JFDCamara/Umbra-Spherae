@@ -1,8 +1,13 @@
-850.1.1=
-{
-	liege="d_turkmens"
+762.1.1={
+	liege=d_turkestan
+	holder=188767
+}
+
+850.1.1={
+	liege=d_syr_darya
 	holder=74029
 }
+
 #Kara-Khanids overthrow Samanids
 1005.1.1={
 	liege="k_khiva"

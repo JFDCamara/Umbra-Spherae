@@ -1,13 +1,21 @@
-762.1.1={
-	liege=d_turkestan
-	holder=188829
+710.1.1={
+	liege=d_khiva
+}
+
+769.1.1={
+	holder = 188682 # Sa'id al-Harashi (fictitious holding assignment)
 }
 
 864.1.1={
-	liege="d_khiva"
+	holder = 163157
 }
-864.1.1={
-	holder = 163099
+
+1041.1.1={
+	liege="k_khiva"
+}
+1041.1.1=
+{
+	holder = 3012
 }
 1052.1.1=
 {

@@ -1,81 +1,86 @@
-# c_herat
+650.1.1={
+	liege=d_khorasan
+}
+
+760.1.1={
+	holder = 188688 # Ruzaiq Tahirid
+}
+782.1.1={
+	holder = 188687 # Husayn
+}
+806.1.1={
+	holder = 188686 # Tahir
+}
+819.1.1={
+	holder = 163155 # Ilyas Samanid
+}
+856.1.1={
+	holder = 163156 # Ibrahim Samanid
+}
 864.1.1={
 	liege="d_khiva"
 }
-856.1.1={
-	holder = 163156
+
+1066.1.1 = {
+	liege="d_zabulistan"
+	holder=93137
+}
+1080.1.1=
+{
+	holder=93138
+}
+1100.1.1=
+{
+	liege="d_khorasan"
+	holder=93139
+}
+1140.1.1=
+{
+	holder=93140
+}
+1149.1.1=
+{
+	holder=93150
+}
+1157.5.8=
+{
+	liege="d_zabulistan"
+}
+1180.1.1=
+{
+	holder=93151
 }
 
-#Ghurids
-950.1.1={
-	liege="d_afghans"
-}
-950.1.1={
-	holder=93132 #Shansabani
-}
-982.1.1={
-	holder=93135 #Shith
-}
-1029.1.1={
-	holder=93136 #Abbas
-}
-1059.1.1={
-	holder=93138 #Hasan
-}
-1100.1.1={
-	holder=93139 #Husayn I
-}
-1146.1.1={
-	holder=93140 #Suri
-}
-1149.1.1={
-	holder=93141 #Sam I
-}
-1149.6.1={
-	holder=93143 #Husayn II
-}
-1161.1.1={
-	holder=1000083663 #Muhammad I
-}
-1186.1.1={
-	holder=144141 #Muhammad II
-}
-1203.1.1={
-	holder=144142 #Muhammad III
-}
-1206.1.1={
-	holder=144143 #Mahmud
-}
-1212.1.1={
-	holder=1000083664 #Sam II
-}
-1213.1.1={
-	holder=93145 #Atsiz
-}
-1214.1.1={
-	holder=1000083665 #Muhammad IV
-}
-
-#Kartids
-1215.1.1={
-	liege="d_birjand"
+1210.1.1=
+{
 	holder = 93153
 }
-1245.1.1={
+1245.1.1=
+
+{
 	holder = 93154
 }
-1277.1.1={
+1277.1.1=
+{
 	holder = 93155
 }
-1295.1.1={
+1295.1.1=
+{
 	holder = 93156
 }
-1308.1.1={
+1308.1.1=
+{
 	holder = 93157
 }
-1330.1.1={
+1330.1.1=
+{
 	holder = 93158
 }
-1332.1.1={
+1332.1.1=
+{
+	liege=0
 	holder = 93159
 }
+
+
+

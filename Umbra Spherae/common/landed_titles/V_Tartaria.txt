@@ -1749,3 +1749,29 @@ e_tartaria = {
 		}
 	}
 }
+
+d_kipchak = {
+	color={ 131 84 50 }
+	color2={ 255 255 255 }
+			
+	capital = 1991 # Orda Bazar
+			
+	pecheneg = "Pecheneg"
+}
+
+d_kirghiz  = {
+	color={ 155 140 78 }
+	color2={ 255 255 255 }
+			
+	capital = 1886 # Yenisei
+
+}
+
+d_zhetysu = {
+	color= { 175 165 60 }
+	color2={ 255 255 255 }
+			
+	capital = 1960 # Talas
+			
+	culture = turkish
+}

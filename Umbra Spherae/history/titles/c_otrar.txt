@@ -1,8 +1,11 @@
-864.1.1={
-	liege="d_khiva"
+762.1.1={
+	liege=d_kipchak
+	holder=188812
 }
-864.1.1={
-	holder = 163099
+
+850.1.1={
+	liege=d_syr_darya
+	holder=74029
 }
 #Kara-Khanids overthrow Samanids
 1005.1.1={

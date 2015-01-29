@@ -1,6 +1,8 @@
-865.1.2={
-	liege="d_bulgar"
+760.1.1={
+	liege=d_bulgar
+	holder=159132
 }
+
 865.1.2={
 	holder=159128
 }

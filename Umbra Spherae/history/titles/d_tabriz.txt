@@ -1,5 +1,6 @@
-866.1.1={
-	liege = "e_arabia"
+755.1.1={
+	liege = e_arabia
+	holder = 160290 # Surkhab Bavand II
 }
 866.1.1={
 	holder = 163131
