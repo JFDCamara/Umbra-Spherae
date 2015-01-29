@@ -67,3 +67,13 @@
     name="Raisiyya"
     culture = turkish
 }
+
+1000078089 = {
+	name="Karluk"
+	culture = karluk
+}
+1000078090 = {
+	name="Basmyl"
+	culture = karluk
+}
+

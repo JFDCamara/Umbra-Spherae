@@ -1,3 +1,17 @@
+#Karluk Dynasty (placeholders)
+750.1.1={
+	liege="k_karluk"
+}
+750.1.1={
+	holder=1000205224 #Sevenç
+}
+780.1.1={
+	holder=1000205225 #Sokal
+}
+810.1.1={
+	holder=1000205226 #Sugr
+}
+
 #United Kara-Khanid Khanate
 840.1.1={
 	liege="k_qarakhnid"

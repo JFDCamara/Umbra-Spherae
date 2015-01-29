@@ -1552,6 +1552,30 @@ k_kimek = {
 	capital = 1994 #Imakia
 }
 
+k_kimek = {
+
+   	color= { 46 86 95 }
+    	color2= { 0 0 0 }
+
+	capital = 1994 #Imakia
+}
+
+k_karluk = {
+
+   	color= { 180 86 95 }
+    	color2= { 0 0 0 }
+
+	capital = 1959 #Balasagun
+}
+
+d_basmyl = {
+
+   	color= { 120 86 160 }
+    	color2= { 0 0 0 }
+
+	capital = 1950 #Urumqi
+}
+
 k_kara_khoja = {
 
 	capital = 1980 #Kara Khoja

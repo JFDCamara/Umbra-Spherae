@@ -1,0 +1,13 @@
+#Basmyl Dynasty (placeholders)
+750.1.1={
+	holder=1000205227 #Begluk
+}
+780.1.1={
+	holder=1000205228 #Eldeçyuk
+}
+810.1.1={
+	holder=1000205229 #Saru
+}
+840.1.1={
+	holder=0
+}
