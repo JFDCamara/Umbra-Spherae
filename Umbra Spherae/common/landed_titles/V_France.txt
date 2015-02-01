@@ -1377,6 +1377,7 @@ e_france = {
 					breton = "Sant-Maloù"
 				}
 				b_dol = {
+					holy_site = celide
 				}
 				b_dinan = {
 				}

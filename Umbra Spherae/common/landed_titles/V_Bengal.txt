@@ -945,6 +945,10 @@ e_bengal = {
 				}
 				b_sarnath = {
 					holy_site = buddhist
+					holy_site = mahayana
+					holy_site = kamakura_buddhism
+					holy_site = japanese_buddhism
+
 				}
 				b_bhadohi = {
 				}
@@ -1095,6 +1099,9 @@ e_bengal = {
 				
 				b_gaya = {
 					holy_site = buddhist
+					holy_site = mahayana
+					holy_site = kamakura_buddhism
+					holy_site = japanese_buddhism
 				}
 				b_bodh_gaya = {
 				}
