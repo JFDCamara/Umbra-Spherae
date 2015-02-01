@@ -1,6 +1,9 @@
 762.1.1={
 	liege=d_kipchak
-	holder=188812
+	holder=188814
+}
+762.1.1={
+	holder=188762
 }
 
 #Kimek Dynasty (placeholders)
