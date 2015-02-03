@@ -6,14 +6,14 @@ e_china = {
 	color={ 162 32 65 }
 	color2={ 255 255 255 }
 
-	k_liang = {
+	k_liang = { #Liang
 
 		capital = 2019 # Bienh
 
 		color={ 44 169 225 }
 		color2={ 255 255 255 }		
 
-		d_syenmyox = {
+		d_syenmyox = { #Xuanwu
 
 			color={ 12 135 201 }
 			color2={ 255 255 255 }
@@ -59,7 +59,7 @@ e_china = {
 				}
 			}
 		}
-		d_kyoitok = {
+		d_kyoitok = { #Guide
 
 			color={ 131 205 237 }
 			color2={ 255 255 255 }
@@ -131,7 +131,7 @@ e_china = {
 				}
 			}
 		}
-		d_eghruainom = {
+		d_eghruainom = { #Eastern Huainan
 
 			color={ 128 240 179 }
 			color2={ 255 255 255 }
@@ -271,7 +271,7 @@ e_china = {
 				}
 			}
 		}
-		d_wghruainom = {
+		d_wghruainom = { #Western Huainan
 
 			color={ 51 232 133 }
 			color2={ 255 255 255 }
@@ -387,7 +387,7 @@ e_china = {
 				}
 			}
 		}
-		d_iuhkuok = {
+		d_iuhkuok = { #Youguo
 
 
 			color={ 111 138 247 }
@@ -462,7 +462,7 @@ e_china = {
 				}
 			}
 		}
-		d_triungmyox = {
+		d_triungmyox = { #Zhongwu
 
 			color={ 152 171 250 }
 			color2={ 255 255 255 }
@@ -559,14 +559,14 @@ e_china = {
 			}
 		}
 	}
-	k_ze = {
+	k_ze = { #Qi
 
 		color={ 189 233 56 }
 		color2={ 255 255 255 }
 
 		capital = 1995 # Ze
 
-		d_cricheng = {
+		d_cricheng = { #Ziqing
 
 			color={ 138 180 14 }
 			color2={ 255 255 255 }
@@ -640,7 +640,7 @@ e_china = {
 				}
 			}
 		}
-		d_kraulai = {
+		d_kraulai = { #Jiaolai
 
 			color={ 224 238 51 }
 			color2={ 255 255 255 }
@@ -714,7 +714,7 @@ e_china = {
 				}
 			}
 		}
-		d_thenbjen = {
+		d_thenbjen = { #Tianping
 
 			color={ 166 148 17 }
 			color2={ 255 255 255 }
@@ -787,14 +787,14 @@ e_china = {
 			}
 		}
 	}
-	k_ngo = {
+	k_ngo = { #Wu
 	
 		color={ 166 200 178 }
 		color2={ 255 255 255 }
 
 		capital = 2027 # Sjing
 
-		d_kianhkhang = {
+		d_kianhkhang = { #Jiankang
 
 			color={ 119 150 112 }
 			color2={ 255 255 255 }
@@ -846,7 +846,7 @@ e_china = {
 				}
 			}
 		}
-		d_wliangxcjet = {
+		d_wliangxcjet = { #Western Liangzhe
 
 			color={ 100 159 121 }
 			color2={ 255 255 255 }
@@ -984,7 +984,7 @@ e_china = {
 				}
 			}
 		}
-		d_eliangcjet = {
+		d_eliangcjet = { #Eastern Liangzhe
 
 			color={ 174 182 133 }
 			color2={ 255 255 255 }
@@ -1098,7 +1098,7 @@ e_china = {
 				}
 			}
 		}
-		d_ekrungnom = {
+		d_ekrungnom = { #Eastern Jiangnan
 
 			color={ 113 121 72 }
 			color2={ 255 255 255 }
@@ -1233,14 +1233,14 @@ e_china = {
 			}
 		}
 	}
-	k_min = {
+	k_min = { #Min
 
 		color={ 164 43 21 }
 		color2={ 255 255 255 }
 
 		capital = 2051 # Piuk
 
-		d_piukkianh = {
+		d_piukkianh = { #Fujian
 
 			color={ 203 53 27 }
 			color2={ 255 255 255 }
@@ -1314,7 +1314,7 @@ e_china = {
 				}
 			}
 		}
-		d_wmin = {
+		d_wmin = { #Western Min
 
 			color={ 182 98 22 }
 			color2={ 255 255 255 }
@@ -1338,7 +1338,7 @@ e_china = {
 				}
 			}
 		}
-		d_smin = {
+		d_smin = { #Southern Min
 
 			color={ 223 139 26 }
 			color2={ 255 255 255 }
@@ -1387,14 +1387,14 @@ e_china = {
 			}
 		}
 	}
-	k_nomyat = {
+	k_nomyat = { #Nanyue
 
 		color={ 234 85 6 }
 		color2={ 255 255 255 }
 
 		capital = 2057 # Kuangx
 
-		d_ekuangxnom = {
+		d_ekuangxnom = { #Eastern Guangnan
 
 			color={ 244 145 96 }
 			color2={ 255 255 255 }
@@ -1472,7 +1472,7 @@ e_china = {
 				}
 			}
 		}
-		d_liengxtung = {
+		d_liengxtung = { #Lingdong
 
 			color={ 253 187 87 }
 			color2={ 255 255 255 }
@@ -1506,7 +1506,7 @@ e_china = {
 				}
 			}
 		}
-		d_drieux-khiengh = {
+		d_drieux-khiengh = { #Zhaoqing
 
 			color={ 248 56 35 }
 			color2={ 255 255 255 }
@@ -1544,7 +1544,7 @@ e_china = {
 				}
 			}
 		}
-		d_ziengxhaix = {
+		d_ziengxhaix = { #Jinghai
 
 			color={ 250 111 95 }
 			color2={ 255 255 255 }
@@ -1606,7 +1606,7 @@ e_china = {
 				}
 			}
 		}
-		d_wkuangxnom = {
+		d_wkuangxnom = { #Western Guangnan
 
 			color={ 238 175 119 }
 			color2={ 255 255 255 }
@@ -1702,7 +1702,7 @@ e_china = {
 				}
 			}
 		}
-		d_ziengxkrung = {
+		d_ziengxkrung = { #Jingjiang
 
 			color={ 231 140 58 }
 			color2={ 255 255 255 }
@@ -1775,14 +1775,14 @@ e_china = {
 			}
 		}
 	}
-	k_chriox = {
+	k_chriox = { #Chu
 
 		color={ 252 200 10 }
 		color2={ 255 255 255 }
 
 		capital = 2046 # Hing-kuok
 
-		d_wkrungnom = {
+		d_wkrungnom = { #Western Jiangnan
 
 			color={ 253 224 123 }
 			color2={ 255 255 255 }
@@ -1898,7 +1898,7 @@ e_china = {
 				}
 			}
 		}
-		d_skienggho = {
+		d_skienggho = { #Southern Jinghu
 
 			color={ 185 167 142 }
 			color2={ 255 255 255 }
@@ -2038,7 +2038,7 @@ e_china = {
 				}
 			}
 		}
-		d_nkienggho = {
+		d_nkienggho = { #Northern Jinghu
 
 			color={ 226 211 150 }
 			color2={ 255 255 255 }
@@ -2234,7 +2234,7 @@ e_china = {
 				}
 			}
 		}
-		d_siangjang = {
+		d_siangjang = { #Xiangyang
 
 			color={ 248 219 158 }
 			color2={ 255 255 255 }
@@ -2353,14 +2353,14 @@ e_china = {
 			}
 		}
 	}
-	k_zjyuk = {
+	k_zjyuk = { #Shu
 
 		color={ 245 182 205 }
 		color2={ 255 255 255 }
 
 		capital = 2095 # Gyi
 
-		d_gyicju = {
+		d_gyicju = { #Kuizhou
 
 			color={ 240 185 245 }
 			color2={ 255 255 255 }
@@ -2492,7 +2492,7 @@ e_china = {
 				}
 			}
 		}
-		d_liihcju = {
+		d_liihcju = { #Lizhou
 
 			color={ 205 180 242 }
 			color2={ 255 255 255 }
@@ -2610,7 +2610,7 @@ e_china = {
 				}
 			}
 		}
-		d_dungchjyen = {
+		d_dungchjyen = { #Tongchuan
 
 			color={ 181 142 241 }
 			color2={ 255 255 255 }
@@ -2792,7 +2792,7 @@ e_china = {
 				}
 			}
 		}
-		d_zjengto = {
+		d_zjengto = { #Chengdu
 
 			color={ 245 133 245 }
 			color2={ 255 255 255 }
@@ -2969,14 +2969,14 @@ e_china = {
 			}
 		}
 	}
-	k_zin = {
+	k_zin = { #Qin
 
 		color={ 195 195 195 }
 		color2={ 255 255 255 }
 
 		capital = 2122 # 'yung
 
-		d_kiengdrieux = {
+		d_kiengdrieux = { #Jingzhao
 
 			color={ 219 219 219 }
 			color2={ 255 255 255 }
@@ -3110,7 +3110,7 @@ e_china = {
 				}
 			}
 		}
-		d_phyojen = {
+		d_phyojen = { #Fuyan
 
 			color={ 116 116 116 }
 			color2={ 255 255 255 }
@@ -3190,7 +3190,7 @@ e_china = {
 				}
 			}
 		}
-		d_ghruankhiengh = {
+		d_ghruankhiengh = { #Huanqing
 
 			color={ 159 154 180 }
 			color2={ 255 255 255 }
@@ -3244,7 +3244,7 @@ e_china = {
 				}
 			}
 		}
-		d_zinbiungh = {
+		d_zinbiungh = { #Qinfeng
 
 			color={ 147 172 187 }
 			color2={ 255 255 255 }
@@ -3403,7 +3403,7 @@ e_china = {
 				}
 			}
 		}
-		d_dungkhiengh = {
+		d_dungkhiengh = { #Tongqing
 
 			color={ 147 187 168 }
 			color2={ 255 255 255 }
@@ -3460,14 +3460,14 @@ e_china = {
 			}
 		}
 	}
-	k_cinh = {
+	k_cinh = { #Jin
 
 		capital = 2147 # Pjeng
 
 		color={ 97 68 50 }
 		color2={ 10 10 10 }
 
-		d_ghatung = {
+		d_ghatung = { #Hedong
 
 			capital = 2147 # Pjeng
 
@@ -3557,7 +3557,7 @@ e_china = {
 				}
 			}
 		}
-		d_liungtok = {
+		d_liungtok = { #Longde
 
 			capital = 2154 # Cinh
 
@@ -3653,7 +3653,7 @@ e_china = {
 				}
 			}
 		}
-		d_lomzjek = {
+		d_lomzjek = { #Landan
 
 			capital = 2155 # Zsip
 
@@ -3727,7 +3727,7 @@ e_china = {
 				}
 			}
 		}
-		d_linpyox = {
+		d_linpyox = { #Linfu
 
 			capital = 2158 # Lin
 
@@ -3779,7 +3779,7 @@ e_china = {
 				}
 			}
 		}
-		d_daddung = {
+		d_daddung = { #Datong
 
 			capital = 1924 # Yon
 
@@ -3862,14 +3862,14 @@ e_china = {
 			}
 		}
 	}
-	k_drieux = {
+	k_drieux = { #Zhao
 
 		color={ 35 17 255 }
 		color2={ 255 255 255 }
 
 		capital = 2160 # Ngyoih
 
-		d_dadmjeng = {
+		d_dadmjeng = { #Daming
 
 			color={ 64 68 244 }
 			color2={ 255 255 255 }
@@ -4009,7 +4009,7 @@ e_china = {
 				}
 			}
 		}
-		d_kaujang = {
+		d_kaujang = { #Gaoyang
 
 			color={ 102 89 245 }
 			color2={ 255 255 255 }
@@ -4095,7 +4095,7 @@ e_china = {
 				}
 			}
 		}
-		d_cjindengh = {
+		d_cjindengh = { #Zhending
 
 			color={ 160 94 241 }
 			color2={ 255 255 255 }
@@ -4189,7 +4189,7 @@ e_china = {
 				}
 			}
 		}
-		d_triungsren = {
+		d_triungsren = { #Zhongshan
 
 			color={ 105 16 238 }
 			color2={ 255 255 255 }
@@ -4256,14 +4256,14 @@ e_china = {
 			}
 		}
 	}
-	k_en = {
+	k_en = { #Yan
 
 		capital = 1918 # 'y
 
 		color={ 46 86 44 }
 		color2={ 10 10 10 }
 
-		d_byamxjang = {
+		d_byamxjang = { #Fanyang
 
 			capital = 1918 # 'y
 
@@ -4391,7 +4391,7 @@ e_china = {
 				}
 			}
 		}
-		d_daddengh = {
+		d_daddengh = { #Dading
 
 			capital = 1928 # Dad-dengh
 
@@ -4467,7 +4467,7 @@ e_china = {
 				}
 			}
 		}
-		d_ghrembjen = {
+		d_ghrembjen = { #Xianping
 
 			capital = 1932 # Ghrem
 
@@ -4505,7 +4505,7 @@ e_china = {
 				}
 			}
 		}
-		d_leujang = {
+		d_leujang = { #Liaoyang
 
 			capital = 1934 # Leu-jang
 
@@ -4566,14 +4566,14 @@ e_china = {
 			}
 		}
 	}
-	k_ghrax = {
+	k_ghrax = { #Xia
 
 		capital = 1906 # Leng
 
 		color={ 189 108 109 }
 		color2={ 255 255 255 }
 
-		d_hingkhieng = {
+		d_hingkhieng = { #Xingqing
 
 			capital = 1906 # Leng
 
@@ -4611,7 +4611,7 @@ e_china = {
 				}
 			}
 		}
-		d_bjenghrax = {
+		d_bjenghrax = { #Pingxia
 
 			capital = 1908 # Ghrax
 
@@ -4661,7 +4661,7 @@ e_china = {
 				}
 			}
 		}
-		d_ghase = {
+		d_ghase = { #Hexi
 
 			capital = 1912 # Liang
 
@@ -4731,7 +4731,7 @@ e_china = {
 				}
 			}
 		}
-		d_ejinai = {
+		d_ejinai = { #Heishui
 
 			capital = 1914 # Eji Nai
 
