@@ -46,6 +46,9 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1444;1475;sea;2183;-1;-1;-1;-1;Awa-Settsu
 1453;1480;sea;2186;-1;-1;-1;-1;Mutsu-Oshima
 2065;2066;sea;2183;-1;-1;-1;-1;Luai-Gjyeng
+1735;1792;sea;2222;-1;-1;-1;-1;Temasek-Gaung
+1735;1683;sea;2222;-1;-1;-1;-1;Temasek-Lingga
+1791;1684;sea;2223;-1;-1;-1;-1;Cengal-KotaKapur
 259;261;major_river;1046;-1;-1;-1;-1;Celle-Hamburg
 258;261;major_river;1046;-1;-1;-1;-1;Lüneburg-Hamburg
 309;258;major_river;1046;-1;-1;-1;-1;Altmark-Luneberg
