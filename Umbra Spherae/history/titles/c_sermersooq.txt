@@ -1,4 +1,13 @@
 #Sermersooq Dynasty (placeholders)
+750.1.1={
+	holder=1000205233 #Sinaaq
+}
+780.1.1={
+	holder=1000205234 #Tikivik
+}
+810.1.1={
+	holder=1000205235 #Tonrar
+}
 840.1.1={
 	holder=1000083264 #Maniitok
 }

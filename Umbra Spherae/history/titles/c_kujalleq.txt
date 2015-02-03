@@ -1,4 +1,13 @@
 #Kujalleq Dynasty (placeholders)
+750.1.1={
+	holder=1000205230 #Nilak
+}
+780.1.1={
+	holder=1000205231 #Nauja
+}
+810.1.1={
+	holder=1000205232 #Sura
+}
 840.1.1={
 	holder=1000083266 #Kukuq
 }
