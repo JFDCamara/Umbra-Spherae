@@ -1,11 +1,11 @@
 chinese_religion = { #Now combined all Far Eastern religions
-	has_coa_on_barony_only = yes
+	has_coa_on_barony_only = no
 	graphical_culture = indiangfx
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
 
 	ai_convert_same_group = 1 # try to convert if ai_zeal is high
-	ai_convert_other_group = 0	# never try to convert
+	ai_convert_other_group = 2	# never try to convert
 
 	# Names given only to Buddhist characters (base names)
 	male_names = {
@@ -40,6 +40,42 @@ chinese_religion = { #Now combined all Far Eastern religions
 		can_grant_divorce = yes
 		priests_can_inherit = no
 		priests_can_marry=yes
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+	thangiao = { #Vietnamese folk religion
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 110
+
+		color = { 0.7 0.9 0.4 }
+		
+		high_god_name = GOD_CAO_DAI
+		god_names = {
+			GOD_THAN GOD_CAO_DAI GOD_KINH_DUONG_VUONG GOD_LAC_LONG_QUAN GOD_AU_CO GOD_THE_FOUR_IMMORTALS GOD_THE_FOUR_PALACES_GODDESSES
+			GOD_SON_TINH GOD_THUY_TINH GOD_BA_CHUA_KHO GOD_BA_CHUA_XU GOD_NGOC_HOANG GOD_THANH_MAU_LIEU_HANH
+		}
+		evil_god_names = {
+			DIEM_VUONG
+		}
+
+		scripture_name = THE_THAN_TRUYEN
+		priest_title = SU
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		female_temple_holders = yes
 		max_consorts = 3
 
@@ -280,6 +316,8 @@ chinese_religion = { #Now combined all Far Eastern religions
 		religious_clothing_head = 6
 		religious_clothing_priest = 4
 
+		intermarry = buddhism_group
+
 	}
 	quanzhen = { #All True Tao
 		graphical_culture = buddhistgfx
@@ -305,6 +343,8 @@ chinese_religion = { #Now combined all Far Eastern religions
 
 		religious_clothing_head = 6
 		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
 
 
 	}
@@ -333,6 +373,8 @@ chinese_religion = { #Now combined all Far Eastern religions
 		religious_clothing_head = 6
 		religious_clothing_priest = 4
 
+		intermarry = buddhism_group
+
 	}
 
 #Scholastic Philosophies (Confucian, Legalism and Mohism)
@@ -346,10 +388,14 @@ chinese_religion = { #Now combined all Far Eastern religions
 		
 		high_god_name = GOD_SHANGDI
 		god_names = {
-			GOD_KONG_FUZI GOD_THE_FOUR_CORRELATES GOD_THE_TWELVE_PHILOSOPHERS
+			GOD_KONG_FUZI  GOD_MENG_ZI GOD_THE_FOUR_CORRELATES GOD_THE_TWELVE_PHILOSOPHERS
 		}
 		evil_god_names = {
 			YAN_WANG
+		}
+
+		character_modifier = {
+			learning = 5
 		}
 
 		scripture_name =THE_SHISAN_JING
@@ -367,6 +413,84 @@ chinese_religion = { #Now combined all Far Eastern religions
 		religious_clothing_head = 6
 		religious_clothing_priest = 4
 
-	}
+		intermarry = buddhism_group
 
+	}
+	legalist = {
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 114
+
+		color = { 0.8 0.7 0.3 }
+		
+		high_god_name = GOD_SHANGDI
+		god_names = {
+			GOD_SHANG_YANG GOD_QIN_SHI_HUANGDI GOD_HAN_FEI GOD_SHEN_DAO GOD_SHEN_BUHAI
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		character_modifier = {
+			learning = 5
+		}
+
+		scripture_name =THE_SHANG_JUN_SHU
+		priest_title = RU
+		piety_name = XIAO
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+	mohist = {
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 114
+
+		color = { 0.8 0.5 0.1 }
+		
+		high_god_name = GOD_SHANGDI
+		god_names = {
+			GOD_MOZI 
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		character_modifier = {
+			learning = 5
+			diplomacy = 4
+		}
+
+		scripture_name =THE_MOZI_SHU
+		priest_title = MO
+		piety_name = JIAN_AI
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
 }
