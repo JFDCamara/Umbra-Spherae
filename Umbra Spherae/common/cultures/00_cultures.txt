@@ -1858,7 +1858,9 @@ altaic = {
 		modifier = default_culture_modifier
 	}
 	khitan = {
-		graphical_culture = mongolgfx
+		graphical_culture = khitangfx
+		second_graphical_culture = mongolgfx # Fallback type
+		secondary_event_pictures = bedouin_arabic
 		horde = yes
 		
 		color = { 0.775 1.5 1.15 }
@@ -1903,7 +1905,9 @@ altaic = {
 		modifier = default_culture_modifier
 	}
 	xianbei = {
-		graphical_culture = mongolgfx
+		graphical_culture = tangutgfx
+		second_graphical_culture = mongolgfx # Fallback type
+		secondary_event_pictures = bedouin_arabic
 		horde = yes
 		
 		color = { 0.45 0.10 0.26 }
@@ -3346,8 +3350,8 @@ israelite = {
 		modifier = default_culture_modifier
 	}
 	zhuhui = { #Chinese-Jews
-		graphical_culture = mongolgfx
-		second_graphical_culture = muslimgfx
+		graphical_culture = chinesegfx
+		second_graphical_culture = mongolgfx # Fallback type
 		secondary_event_pictures = bedouin_arabic
 
 		color = { 0.5 0.8 0.5 }
@@ -3395,7 +3399,7 @@ israelite = {
 		}
 		female_names = {
 			Achadina Adorina Akhita Anochina Aramina Arbella Arieil Ashourina Atourina Aur Aurhai Aurya Awijil Awita Baila Baileet Beerta Beteil Biblina Bratbail Brateil Bratyoum Damrina Domarina Eilbrat Eilina Emmita Haniata Hano Ishtar_Esther
-			Khannah Larsa Lawita Lolita Lwita Marbita Mardina Marina Marjanita Marnita Martha Milta Nahrina Naramsina Nardina Nashiram Nasibin Nineveh Ninsina Paldina Panna Ramina Ramsina Rashomta Rdita Sahdina Sawrina Shamiram Shamreta
+			Khannah Larsa Lawita Lolita Lwita Marbita Mardina Marina Marjanita Marnita Martha_Martha Milta Nahrina Naramsina Nardina Nashiram Nasibin Nineveh Ninsina Paldina Panna Ramina Ramsina Rashomta Rdita Sahdina Sawrina Shamiram Shamreta
 			Shamrina Shamura Sharokina Shimta Shirat Simta Sorme Walita Wardina Wardiya Yaeeta Yata Yayota
 			Adva Alya Anena Anina Bustan_Bustan Chanina Chasina Chayuta_Chayuta China_Hina Chiyuta_Chayuta Dikla_Dikla Diklah_Dikla Diklit_Dikla Duvsha Hanina_Chanin Hasna Hayuta_Chayuta Hina_Hina Ketina Kitra Lilith_Lilith
 			Magdala Mahalia_Mahalia Mahalie_Mahalia Marfa_Martha Mariam_Maria Marta_Martha Marte_Martha Martha_Martha Marthe_Martha Marti_Martha Martita_Martha Mehalia_Mahalia Meiriona_Meirona Meirona_Meirona Morta_Martha

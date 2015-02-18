@@ -1,4 +1,7 @@
 tibetan = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
+		
 	bodpa = {
 		graphical_culture = mongolgfx
 		
@@ -110,8 +113,13 @@ tibetan = {
 }
 
 di = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
+		
 	qiang = {
-		graphical_culture = mongolgfx
+		graphical_culture = tangutgfx
+		second_graphical_culture = muslimgfx # Fallback type
+		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.7 0.9 0.0 }
 		
@@ -138,7 +146,9 @@ di = {
 		modifier = default_culture_modifier
 	}
 	tangut = {
-		graphical_culture = mongolgfx
+		graphical_culture = tangutgfx
+		second_graphical_culture = muslimgfx # Fallback type
+		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.3 0.5 0.3 }
 		
@@ -165,7 +175,9 @@ di = {
 		modifier = default_culture_modifier
 	}
 	baima = {
-		graphical_culture = mongolgfx
+		graphical_culture = tangutgfx
+		second_graphical_culture = muslimgfx # Fallback type
+		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.7 0.6 0.0 }
 		

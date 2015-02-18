@@ -1,8 +1,11 @@
 far_east = {
-	graphical_culture = muslimgfx
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
 
 	japanese = {
-		graphical_culture = mongolgfx
+		graphical_culture = chinesegfx
+		second_graphical_culture = mongolgfx # Fallback type
+		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.3 0.2 0.1 }
 		
@@ -185,7 +188,9 @@ far_east = {
 	}	
 
 	ryukyuan = {
-		graphical_culture = mongolgfx
+		graphical_culture = chinesegfx
+		second_graphical_culture = mongolgfx # Fallback type
+		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.3 0.2 0.2 }
 		
