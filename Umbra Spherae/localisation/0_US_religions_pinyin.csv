@@ -52,7 +52,9 @@ korean_religion;Korean Pagan;Corée Païen;Koreanische Heidnisch;;Pagano Coreano;;
 shingyo;Shingyo;Shingyo;Schingyo;;Singyo;;;;;;;;;x
 japanese_religion;Japanese Pagan;Japonaise Païen;Japanische Heidnisch;;Pagano Japonesa;;;;;;;;;x
 nihon_shinto;Shinto;Shinto;Schinto;;Sinto;;;;;;;;;x
-ainu_pantheism;Katunkamuy;Katunkamuï;Katunkamui;;Katunkamuí;;;;;;;;;x
+nihon_shinto_DESC;Shinto means the way of the gods. Shintoism is an Ancient religion of Japan. It started at least as long ago as 1000 B.C.E. but is still practiced today by at least five million people. The followers of Shintoism believe that spiritual powers exist in the natural world.;;;;;;;;;;;;x
+ainu_pantheism;Old Katunkamuy;Old Katunkamuï;Old Katunkamui;;Old Katunkamuí;;;;;;;;;x
+ainu_pantheism_reformed;Katunkamuy;Katunkamuï;Katunkamui;;Katunkamuí;;;;;;;;;x
 japanese_buddhism;Heian;Heian;Heian;;Heian;;;;;;;;;x
 ryukyu_shinto;Koshinto;Koshinto;Koschinto;;Kosinto;;;;;;;;;x
 kamakura_buddhism;Kamakura;Kamakura;Kamakura;;Kamakura;;;;;;;;;x
@@ -73,6 +75,9 @@ haredi;Haredi;Haredi;Haredi;;Haredi;;;;;;;;;x
 shomroni;Shomroni;Shomroni;Shomroni;;Shomroni;;;;;;;;;x
 qabbalah;Qabbalah;Qabbalah;Qabbalah;;Qabbalah;;;;;;;;;x
 CHEREM;Cherem;Cherem;Cherem;;Cherem;;;;;;;;;x
+GOD_AMENOMINAKANUSHI;Amenominakanushi;Amenominakanushi;;Amenominakanushi;;;;;;;;;x
+ENMA;Enma;Enma;Enma;;;;;;;;;x
+KANNUSHI;kannushi;kannushi;kannushi;;;;;;;;;x
 GOD_YHWH;Yahweh;Yahvé;Jahwe;;Yahweh;;;;;;;;;x
 GOD_ELOHIM;Elohim;Elohim;Elohim;;Elohim;;;;;;;;;x
 GOD_ACHAMAN;Achamán;Achamán;Achamán;;Achamán;;;;;;;;;x

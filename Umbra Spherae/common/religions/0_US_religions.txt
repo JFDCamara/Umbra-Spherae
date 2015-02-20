@@ -1,5 +1,5 @@
 chinese_religion = { #Now combined all Far Eastern religions
-	has_coa_on_barony_only = no
+	has_coa_on_barony_only = yes
 	graphical_culture = indiangfx
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
@@ -140,13 +140,13 @@ chinese_religion = { #Now combined all Far Eastern religions
 			ENMA
 		}
 
-		scripture_name =THE_KOJIKI
+		scripture_name = THE_KOJIKI
 		priest_title = KANNUSHI
 
 		has_heir_designation = yes
 		can_grant_divorce = yes
 		priests_can_inherit = no
-		priests_can_marry=yes
+		priests_can_marry= yes
 		female_temple_holders = yes
 		max_consorts = 3
 

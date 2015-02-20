@@ -1,2 +1,2 @@
-name = "Tangut Portraits"
+name = "US Tangut Portraits"
 path = "mod/TangutPortraits"
