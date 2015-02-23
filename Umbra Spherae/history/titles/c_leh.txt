@@ -51,7 +51,7 @@
 }
 
 842.1.1={
-	liege="k_sumpa"
+	liege="k_guge"
 }
 842.1.1={
 	holder = 1000077189
@@ -67,7 +67,7 @@
 }
 920.1.1=
 {
-	liege="k_maryul"
+	liege="d_ladakh"
 	holder=1000077015
 }
 930.1.1=

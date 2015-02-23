@@ -4,6 +4,8 @@ e_tibetan_empire = {
     	color2= { 194 140 86  }
 
 	capital = 1534 # Lhasa
+	
+	xangxung = "Xang Xung"
 
 	k_tibet = {
 
@@ -110,22 +112,14 @@ e_tibetan_empire = {
 				}
 			}
 		}
-	}
-	k_sumpa = {
-
-    		color= { 110 130 205  }
-    		color2= { 194 140 86  }
-
-		capital = 1549 # Amdo
-
-		culture = sumpa
-
 		d_amdo = {
 
     			color= { 92 126 190  }
     			color2= { 194 140 86  }
 
 			capital = 1550 # Nyima
+			
+			sumpa = Sumparu
 
 			c_amdo = {
 
@@ -209,23 +203,93 @@ e_tibetan_empire = {
 			}
 		}
 	}
-	k_xangxung = {
+	k_guge = {
 
-    		color= { 224 226 175  }
+    		color= { 222 207 180  }
     		color2= { 194 140 86  }
 
-		capital = 1230 # Kyunglung
+		capital = 1531 # Tsaparang
+		
+		xangxung = "Xang Xung"
 
-		religion = bon
+		d_guge = {
 
-		culture = xangxung
+    			color= { 192 165 114  }
+    			color2= { 194 140 86  }
 
+			capital = 1273 # Gar
+
+			c_tsaparang = {
+
+    				color= { 202 165 114  }
+    				color2= { 194 140 86  }
+
+				b_tsaparang = {
+				}
+				b_tholing = { #temple
+				}
+				b_mangga = {
+				}
+				b_dongqiu = {
+				}
+				b_mangnang = { #temple
+				}
+				b_gurugem = { #temple
+				}
+				b_qusum = {
+				}
+				b_gartok = {
+				}
+			}
+			c_gar = {
+
+    				color= { 192 175 114  }
+    				color2= { 194 140 86  }
+
+				b_gar = {
+				}
+				b_gegyai = {
+				}
+				b_bugongcun = {
+				}
+				b_bijia = { #temple
+				}
+				b_gaerka = { #temple
+				}
+				b_gunsa = {
+				}
+				b_suwenbu = {
+				}
+			}
+			c_rutog = {
+
+    				color= { 192 165 124  }
+    				color2= { 194 140 86  }
+
+				b_rutog = {
+				}
+				b_jiaweichao = {
+				}
+				b_de_jiao = {
+				}
+				b_rituzhen = {
+				}
+				b_rawang_rutog = { #temple
+				}
+				b_zhabsang = {
+				}
+				b_yageide = {
+				}
+			}
+		}
 		d_tsang = {
 
     			color= { 197 201 107  }
     			color2= { 194 140 86  }
 
-			capital = 1547 # Sakya
+		capital = 1230 # Kyunglung
+		
+		xangxung = "Xang Xung"
 
 			c_kyunglung = {
 
@@ -336,81 +400,57 @@ e_tibetan_empire = {
 				}
 			}
 		}
-	}
-	k_guge = {
+		d_ladakh = {
 
-    		color= { 222 207 180  }
-    		color2= { 194 140 86  }
+    			color= { 26 155 116  }
+    			color2= { 101 102 163  }
 
-		capital = 1531 # Tsaparang
+			capital = 1526 # Leh
+			
+			bodpa = "Maryul"
 
-		d_guge = {
+			c_leh = {
 
-    			color= { 192 165 114  }
-    			color2= { 194 140 86  }
+    				color= { 36 155 116  }
+    				color2= { 101 102 163  }
 
-			capital = 1273 # Gar
-
-			c_tsaparang = {
-
-    				color= { 202 165 114  }
-    				color2= { 194 140 86  }
-
-				b_tsaparang = {
+				b_leh = {
 				}
-				b_tholing = { #temple
+				b_udaipur_leh = {
 				}
-				b_mangga = {
+				b_keylong = {
 				}
-				b_dongqiu = {
+				b_gya = {
 				}
-				b_mangnang = { #temple
+				b_shakti = {
 				}
-				b_gurugem = { #temple
+				b_thiksey = {
 				}
-				b_qusum = {
+				b_chuchot_yakma = {
 				}
-				b_gartok = {
+				b_chumathang = {
 				}
 			}
-			c_gar = {
+			c_diskit = {
 
-    				color= { 192 175 114  }
-    				color2= { 194 140 86  }
+    				color= { 26 165 116  }
+    				color2= { 101 102 163  }
 
-				b_gar = {
+				b_diskit = {
 				}
-				b_gegyai = {
+				b_thirit = {
 				}
-				b_bugongcun = {
+				b_hundar = {
 				}
-				b_bijia = { #temple
+				b_thoise = {
 				}
-				b_gaerka = { #temple
+				b_charassa = {
 				}
-				b_gunsa = {
+				b_panamik = {
 				}
-				b_suwenbu = {
+				b_unmaru = {
 				}
-			}
-			c_rutog = {
-
-    				color= { 192 165 124  }
-    				color2= { 194 140 86  }
-
-				b_rutog = {
-				}
-				b_jiaweichao = {
-				}
-				b_de_jiao = {
-				}
-				b_rituzhen = {
-				}
-				b_rawang_rutog = { #temple
-				}
-				b_zhabsang = {
-				}
-				b_yageide = {
+				b_kimi = {
 				}
 			}
 		}
@@ -428,6 +468,9 @@ e_tibetan_empire = {
     			color2= { 194 140 86  }
 
 			capital = 1535 # Qamdo
+			
+			qiang = "Azha"
+			tangut = "Azha"
 
 			c_dege = {
 
@@ -530,16 +573,6 @@ e_tibetan_empire = {
 				}
 			}
 		}
-	}
-	k_azha = {
-
-    		color= { 192 35 139  }
-    		color2= { 194 140 86  }
-
-		capital = 1565 # Ngawa
-
-		#culture_group = di
-
 		d_erma = {
 
     			color= { 158 53 106  }
@@ -659,6 +692,10 @@ e_tibetan_empire = {
 		capital = 1544 # Fuqi
 
 		culture = tangut
+		
+		bodpa = "Amdo"
+		tangut = "Tuyuhun"
+		qiang = "Tuyuhun"
 
 		d_qinghai = {
 
@@ -776,8 +813,6 @@ e_tibetan_empire = {
 
 		capital = 1533 # Bumthang
 
-		culture = monpa
-
 		d_bhutan = {
 
     			color= { 236 133 70  }
@@ -835,6 +870,9 @@ e_tibetan_empire = {
     			color2= { 194 140 86  }
 
 			capital = 1566 # Denzong
+			
+			bodpa = "Denzong"
+			
 			c_denzong = {
 
     				color= { 261 166 97  }
@@ -853,65 +891,6 @@ e_tibetan_empire = {
 				b_ralang = {
 				}
 				b_rangpo = {
-				}
-			}
-		}
-	}
-	k_maryul = {
-
-		color={ 79 100 192 }
-		culture = bodpa
-		capital = 1526 # Leh
-
-		d_ladakh = {
-
-    			color= { 26 155 116  }
-    			color2= { 101 102 163  }
-
-			capital = 1526 # Leh
-
-			c_leh = {
-
-    				color= { 36 155 116  }
-    				color2= { 101 102 163  }
-
-				b_leh = {
-				}
-				b_udaipur_leh = {
-				}
-				b_keylong = {
-				}
-				b_gya = {
-				}
-				b_shakti = {
-				}
-				b_thiksey = {
-				}
-				b_chuchot_yakma = {
-				}
-				b_chumathang = {
-				}
-			}
-			c_diskit = {
-
-    				color= { 26 165 116  }
-    				color2= { 101 102 163  }
-
-				b_diskit = {
-				}
-				b_thirit = {
-				}
-				b_hundar = {
-				}
-				b_thoise = {
-				}
-				b_charassa = {
-				}
-				b_panamik = {
-				}
-				b_unmaru = {
-				}
-				b_kimi = {
 				}
 			}
 		}

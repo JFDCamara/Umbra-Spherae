@@ -51,7 +51,7 @@
 }
 
 842.1.1={
-	liege="k_sumpa"
+	liege="k_guge"
 	holder = 1000077189
 }
 905.1.1={
