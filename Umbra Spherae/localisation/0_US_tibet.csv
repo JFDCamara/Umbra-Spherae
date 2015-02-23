@@ -2,8 +2,6 @@ e_tibetan_empire;Bod;Bod;Bod;;Bod;;;;;;;;;x
 e_tibetan_empire_adj;Bodpa;Bodpa;Bodpa;;Bodpa;;;;;;;;;x
 k_tibet;Yarlung;Yarlung;Yarlung;;Yarlung;;;;;;;;;x
 k_tibet_adj;Yarlung;Yarlung;Yarlung;;Yarlung;;;;;;;;;x
-k_xangxung;Xang Xung;Xang Xung;Xang Xung;;Xang Xung;;;;;;;;;x
-k_xangxung_adj;Xang Xung;Xang Xung;Xang Xung;;Xang Xung;;;;;;;;;x
 k_guge;Guge;Guge;Guge;;Guge;;;;;;;;;x
 k_guge_adj;Guge;Guge;Guge;;Guge;;;;;;;;;x
 k_dege;Dêgê;Dêgê;Dêgê;;Dêgê;;;;;;;;;x
@@ -12,14 +10,8 @@ k_tuyuhun;Tuyuhun;Tuyuhun;Tuyuhun;;Tuyuhun;;;;;;;;;x
 k_tuyuhun_adj;Tuyuhun;Tuyuhun;Tuyuhun;;Tuyuhun;;;;;;;;;x
 k_lhomon;Lhomon;Lhomon;Lhomon;;Lhomon;;;;;;;;;x
 k_lhomon_adj;Lhomon;Lhomon;Lhomon;;Lhomon;;;;;;;;;x
-k_maryul;Mar-yul;Mar-yul;Mar-yul;;Mar-yul;;;;;;;;;x
-k_maryul_adj;Mar-yul;Mar-yul;Mar-yul;;Mar-yul;;;;;;;;;x
 k_lo;Lo;Lo;Lo;;Lo;;;;;;;;;x
 k_lo_adj;Lo;Lo;Lo;;Lo;;;;;;;;;x
-k_sumpa;Sumpa-ru;Sumpa-ru;Sumpa-ru;;Sumpa-ru;;;;;;;;;x
-k_sumpa_adj;Sumpa-ru;Sumpa-ru;Sumpa-ru;;Sumpa-ru;;;;;;;;;x
-k_azha;'A-zha;'A-zha;'A-zha;;'A-zha;;;;;;;;;x
-k_azha_adj;'A-zha;'A-zha;'A-zha;;'A-zha;;;;;;;;;x
 k_yartse;Yartse;Yartse;Yartse;;Yartse;;;;;;;;;x
 k_yartse_adj;Yartse;Yartse;Yartse;;Yartse;;;;;;;;;x
 d_u;Ü;Ü;Ü;;Ü;;;;;;;;;x
@@ -28,12 +20,14 @@ d_tsang;Tsang;Tsang;Tsang;;Tsang;;;;;;;;;x
 d_tsang_adj;Tsang;Tsang;Tsang;;Tsang;;;;;;;;;x
 d_guge;Ngari;Ngari;Ngari;;Ngari;;;;;;;;;x
 d_guge_adj;Ngari;Ngari;Ngari;;Ngari;;;;;;;;;x
-d_amdo;Samtho;Samtho;Samtho;;Samtho;;;;;;;;;x
-d_amdo_adj;Samtho;Samtho;Samtho;;Samtho;;;;;;;;;x
+d_samtho;Samtho;Samtho;Samtho;;Samtho;;;;;;;;;x
+d_samtho_adj;Samtho;Samtho;Samtho;;Samtho;;;;;;;;;x
+d_amdo;Amdo;Amdo;Amdo;;Amdo;;;;;;;;;x
+d_amdo_adj;Amdo;Amdo;Amdo;;Amdo;;;;;;;;;x
 d_kham;Kham;Kham;Kham;;Kham;;;;;;;;;x
 d_kham_adj;Kham;Kham;Kham;;Kham;;;;;;;;;x
-d_qinghai;Amdo;Amdo;Amdo;;Amdo;;;;;;;;;x
-d_qinghai_adj;Amdo;Amdo;Amdo;;Amdo;;;;;;;;;x
+d_qinghai;Qinghai;Qinghai;Qinghai;;Qinghai;;;;;;;;;x
+d_qinghai_adj;Qinghai;Qinghai;Qinghai;;Qinghai;;;;;;;;;x
 d_bhutan;Bhutan;Bhutan;Bhutan;;Bhutan;;;;;;;;;x
 d_bhutan_adj;Bhutan;Bhutan;Bhutan;;Bhutan;;;;;;;;;x
 d_erma;Erma;Erma;Erma;;Erma;;;;;;;;;x

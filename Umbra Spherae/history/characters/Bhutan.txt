@@ -23,7 +23,7 @@
 	name="Tala Mebar"
 	dynasty=1000027347 #Chakhar
 	religion="bon"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077044
 	728.1.1={
 		birth="728.1.1"
@@ -38,7 +38,7 @@
 	female=yes
 	dynasty=1000027347 #Chakhar
 	religion="bon"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077044
 	730.1.1={
 		birth="730.1.1"
@@ -55,7 +55,7 @@
 	name="Pemba Goba"
 	dynasty=1000027347 #Chakhar
 	religion="bon"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077045
 	745.1.1={
 		birth="745.1.1"
@@ -72,7 +72,7 @@
 	name="Thubten Zonpa"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077047
 	770.1.1={
 		birth="770.1.1"
@@ -86,7 +86,7 @@
 	name="Nima Assam"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077048
 	802.1.1={
 		birth="802.1.1"
@@ -100,7 +100,7 @@
 	name="Tenzin Gyaltso"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077049
 	831.1.1={
 		birth="831.1.1"
@@ -114,7 +114,7 @@
 	name="Lobsang Tsewang"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077050
 	859.1.1={
 		birth="859.1.1"
@@ -128,7 +128,7 @@
 	name="Yongten Nam-kha"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077051
 	888.1.1={
 		birth="888.1.1"
@@ -142,7 +142,7 @@
 	name="Sangye Wangdak"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077052
 	913.1.1={
 		birth="913.1.1"
@@ -156,7 +156,7 @@
 	name="Yeshe Lhak-pa"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077053
 	936.1.1={
 		birth="936.1.1"
@@ -170,7 +170,7 @@
 	name="Dechan Zapa"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077054
 	963.1.1={
 		birth="963.1.1"
@@ -184,7 +184,7 @@
 	name="Jinpa Skamar"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077055
 	996.1.1={
 		birth="996.1.1"
@@ -198,7 +198,7 @@
 	name="Zenji Jigme"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077056
 	1024.1.1={
 		birth="1024.1.1"
@@ -212,7 +212,7 @@
 	name="Ngawang Rinchen"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077057
 	1055.1.1={
 		birth="1055.1.1"
@@ -226,7 +226,7 @@
 	name="Kalsang Zapa"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077058
 	1077.1.1={
 		birth="1077.1.1"
@@ -240,7 +240,7 @@
 	name="Wangdue Thokmay"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077059
 	1099.1.1={
 		birth="1099.1.1"
@@ -254,7 +254,7 @@
 	name="Seba Yeshe"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077060
 	1125.1.1={
 		birth="1125.1.1"
@@ -268,7 +268,7 @@
 	name="Michewa Torma"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077061
 	1148.1.1={
 		birth="1148.1.1"
@@ -282,7 +282,7 @@
 	name="Pasang Daivika"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077062
 	1180.1.1={
 		birth="1180.1.1"
@@ -296,7 +296,7 @@
 	name="Lha-mo Karma"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077063
 	1209.1.1={
 		birth="1209.1.1"
@@ -310,7 +310,7 @@
 	name="Khandro Tashi"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077064
 	1246.1.1={
 		birth="1246.1.1"
@@ -324,7 +324,7 @@
 	name="Jampo Akar"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077065
 	1275.1.1={
 		birth="1275.1.1"
@@ -338,7 +338,7 @@
 	name="Chophel Ketu"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077066
 	1304.1.1={
 		birth="1304.1.1"
@@ -352,7 +352,7 @@
 	name="Mida Sonam"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077067
 	1327.1.1={
 		birth="1327.1.1"
@@ -366,7 +366,7 @@
 	name="Wangchuk Kalsang"
 	dynasty=1000027347 #Chakhar
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077068
 	1350.1.1={
 		birth="1350.1.1"
@@ -382,7 +382,7 @@
 	name="Tsenang"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	815.1.1={
 		birth="815.1.1"
 	}
@@ -395,7 +395,7 @@
 	name="Kundun"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077070
 	843.1.1={
 		birth="843.1.1"
@@ -409,7 +409,7 @@
 	name="Popo"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077071
 	869.1.1={
 		birth="869.1.1"
@@ -423,7 +423,7 @@
 	name="Champo"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077072
 	891.1.1={
 		birth="891.1.1"
@@ -437,7 +437,7 @@
 	name="Dache"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077073
 	929.1.1={
 		birth="929.1.1"
@@ -451,7 +451,7 @@
 	name="Sonam"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077074
 	956.1.1={
 		birth="956.1.1"
@@ -465,7 +465,7 @@
 	name="Jinpa"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077075
 	990.1.1={
 		birth="990.1.1"
@@ -479,7 +479,7 @@
 	name="Zigsa"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077076
 	1016.1.1={
 		birth="1016.1.1"
@@ -493,7 +493,7 @@
 	name="Rinzen"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077077
 	1037.1.1={
 		birth="1037.1.1"
@@ -507,7 +507,7 @@
 	name="Norbu"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077078
 	1061.1.1={
 		birth="1061.1.1"
@@ -521,7 +521,7 @@
 	name="Gyaltsen"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077079
 	1086.1.1={
 		birth="1086.1.1"
@@ -535,7 +535,7 @@
 	name="Palden"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077080
 	1104.1.1={
 		birth="1104.1.1"
@@ -549,7 +549,7 @@
 	name="Anil"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077081
 	1128.1.1={
 		birth="1128.1.1"
@@ -563,7 +563,7 @@
 	name="Dhargey"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077082
 	1155.1.1={
 		birth="1155.1.1"
@@ -577,7 +577,7 @@
 	name="Goba"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077083
 	1184.1.1={
 		birth="1184.1.1"
@@ -591,7 +591,7 @@
 	name="Tseten"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077084
 	1205.1.1={
 		birth="1205.1.1"
@@ -605,7 +605,7 @@
 	name="Lhundup"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077085
 	1249.1.1={
 		birth="1249.1.1"
@@ -619,7 +619,7 @@
 	name="Jigme"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077086
 	1277.1.1={
 		birth="1277.1.1"
@@ -634,7 +634,7 @@
 	female=yes
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077087
 	1295.1.1={
 		birth="1295.1.1"
@@ -648,7 +648,7 @@
 	name="Kamala"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	mother=1000077088
 	1317.1.1={
 		birth="1317.1.1"
@@ -662,7 +662,7 @@
 	name="Skamar"
 	dynasty=1000027349 #Monyul
 	religion="vajrayana"
-	culture="monpa"
+	culture="bodpa"
 	father=1000077089
 	1350.1.1={
 		birth="1350.1.1"

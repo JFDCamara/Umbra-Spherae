@@ -112,7 +112,7 @@ e_tibetan_empire = {
 				}
 			}
 		}
-		d_amdo = {
+		d_samtho = {
 
     			color= { 92 126 190  }
     			color2= { 194 140 86  }
@@ -704,6 +704,26 @@ e_tibetan_empire = {
 
 			capital = 1561 # Xinging
 
+			c_xining = {
+
+    				color= { 92 215 109  }
+    				color2= { 194 140 86  }
+
+				b_xining = {
+				}
+				b_lusar = { #temple
+				}
+				b_haiyan = {
+				}
+				b_menyuan = {
+				}
+				b_dagcer = {
+				}
+				b_chuankou = {
+				}
+				b_pingan = {
+				}
+			}
 			c_fuqi = {
 
     				color= { 82 215 109  }
@@ -724,6 +744,14 @@ e_tibetan_empire = {
 				b_xuji = {
 				}
 			}
+		}	
+		d_amdo = {
+
+    			color= { 82 200 109  }
+    			color2= { 185 150 97  }
+
+			capital = 1560 # Nagormo
+
 			c_jyekundo = {
 
     				color= { 92 205 109  }
@@ -782,26 +810,6 @@ e_tibetan_empire = {
 				b_qingshui = {
 				}
 				b_xinle = {
-				}
-			}
-			c_xining = {
-
-    				color= { 92 215 109  }
-    				color2= { 194 140 86  }
-
-				b_xining = {
-				}
-				b_lusar = { #temple
-				}
-				b_haiyan = {
-				}
-				b_menyuan = {
-				}
-				b_dagcer = {
-				}
-				b_chuankou = {
-				}
-				b_pingan = {
 				}
 			}
 		}

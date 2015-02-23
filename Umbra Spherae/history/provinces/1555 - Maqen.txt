@@ -14,7 +14,7 @@ b_markuthang = city
 #b_ziketan = city
 
 # Misc
-culture = baima
+culture = tangut
 religion = bon
 
 # History

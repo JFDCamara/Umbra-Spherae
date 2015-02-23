@@ -13,7 +13,7 @@ b_gangdoz = castle
 b_rangpo = city
 
 # Misc
-culture = lepcha
+culture = bodpa
 religion = bon
 
 # History
