@@ -10,7 +10,6 @@ gregorian;Gregorian;Grégorien;Gregorianisch;;Gregoriano;;;;;;;;;x
 hussite;Hussite;Hussite;Hussitischen;;Husita;;;;;;;;;x
 sufi;Sufi;Sufi;Sufi;;Sufi;;;;;;;;;x
 ismaili;Isma'ili;Isma'ili;Isma'ili;;Isma'ili;;;;;;;;;x
-khariji;Khariji;Khariji;Khariji;;Khariji;;;;;;;;;x
 druidic_pagan;Druidic;Druidisme;Druidismus;;Druidísmo;;;;;;;;;x
 slavic_pagan;Slavianstvo;Slavianstvo;Slavianstvo;;Slavianstvo;;;;;;;;;x
 germanic_pagan;Wodanaz;Wodanaz;Wodanaz;;Wodanaz;;;;;;;;;x
@@ -42,25 +41,21 @@ mahayana;Mahayana;Mahayana;Mahayana;;Mahayana;;;;;;;;;x
 vajrayana;Vajrayana;Vajrayana;Vajrayana;;Vajrayana;;;;;;;;;x
 steppe_pagan;Steppes Pagan;Païen des Steppes;Steppen Heidnisch;;Pagano de las Estepas;;;;;;;;;x
 mesoamerican_pagan;Mesoamerican Pagan;Mésoaméricain Païenne;Mesoamerikanischen Heidnisch;;Mesoamericana Pagano;;;;;;;;;x
-chinese_religion;Chinese Pagan;Chinoise Païen;Chinesische Heidnisch;;Pagano Chino;;;;;;;;;x
+chinese_religion;Oriental Religions;Chinoise Païen;Chinesische Heidnisch;;Pagano Chino;;;;;;;;;x
 shenjiao;Shénjiào;Shénjiào;Schénjiào;;Sénjiào;;;;;;;;;x
 tao;Zheng Yi Dào (Orthodox Unity Taoist);Zheng Yi Dào (Unité Orthodoxe Taoïste);Zheng Yi Dào (Orthodoxen Einheit der Taoistischen);;Zheng Yi Dào (Unidad Ortodoxa Taoísta);;;;;;;;;x
 quanzhen;Quanzhen Dào (All True Taoist);Quanzhen Dào (Tout Taoïste Vrai);Quanzhen Dào (Alle Wahren Taoistischen);;Quanzhen Dào (Todos Taoísta Verdadero);;;;;;;;;x
 shangqing;Shangqing Dào (Supreme Clarity Taoist);Shangqing Dào (Taoïste Clarté Suprême);Shangqing Dào (Obersten Klarheit Taoistischen);;Shangqing Dào (Claridad Suprema Taoísta);;;;;;;;;x
 confucian;Rújiä (Confucian);Rújiä (Confucéenne);Rújiä (Konfuzianer);;Rújiä (Confuciano);;;;;;;;;x
-korean_religion;Korean Pagan;Corée Païen;Koreanische Heidnisch;;Pagano Coreano;;;;;;;;;x
 shingyo;Shingyo;Shingyo;Schingyo;;Singyo;;;;;;;;;x
-japanese_religion;Japanese Pagan;Japonaise Païen;Japanische Heidnisch;;Pagano Japonesa;;;;;;;;;x
 nihon_shinto;Shinto;Shinto;Schinto;;Sinto;;;;;;;;;x
 nihon_shinto_DESC;Shinto means the way of the gods. Shintoism is an Ancient religion of Japan. It started at least as long ago as 1000 B.C.E. but is still practiced today by at least five million people. The followers of Shintoism believe that spiritual powers exist in the natural world.;;;;;;;;;;;;x
 ainu_pantheism;Old Katunkamuy;Old Katunkamuï;Old Katunkamui;;Old Katunkamuí;;;;;;;;;x
 ainu_pantheism_reformed;Katunkamuy;Katunkamuï;Katunkamui;;Katunkamuí;;;;;;;;;x
 japanese_buddhism;Heian;Heian;Heian;;Heian;;;;;;;;;x
 ryukyu_shinto;Koshinto;Koshinto;Koschinto;;Kosinto;;;;;;;;;x
-kamakura_buddhism;Kamakura;Kamakura;Kamakura;;Kamakura;;;;;;;;;x
-indochinese_religion;Indochinese Pagan;Indochinoise Païen;Indochinesische Heidnisch;;Pagano Indochino;;;;;;;;;x
+kamakura_buddhism;Kamakura;Kamakura;Kamakura;;Kamakura;;;;;;;;;x;;x
 bon;Bön;Bön;Bön;;Bön;;;;;;;;;x
-austronesian_religion;Austronesian Pagan;Austronesian Païen;Austronesian Heidnisch;;Pagano Austronesian;;;;;;;;;x
 melanesian_religion;Imunu;Imunu;Imunu;;Imunu;;;;;;;;;x
 taiwanese_religion;Inibs;Inibs;Inibs;;Inibs;;;;;;;;;x
 philippine_religion;Anito;Anito;Anito;;Anito;;;;;;;;;x
@@ -70,9 +65,6 @@ flores_religion;Marapu;Marapu;Marapu;;Marapu;;;;;;;;;x
 java_religion;Kejawen;Kejawen;Kejawen;;Kejawen;;;;;;;;;x
 sumatran_religion;Malim;Malim;Malim;;Malim;;;;;;;;;x
 malagasy_religion;Andrianerinerinan;Andrianerinerinan;Andrianerinerinan;;Andrianerinerinan;;;;;;;;;x
-judaic;Judaic;Judaïque;Judaisch;;Judaico;;;;;;;;;x
-haredi;Haredi;Haredi;Haredi;;Haredi;;;;;;;;;x
-shomroni;Shomroni;Shomroni;Shomroni;;Shomroni;;;;;;;;;x
 qabbalah;Qabbalah;Qabbalah;Qabbalah;;Qabbalah;;;;;;;;;x
 CHEREM;Cherem;Cherem;Cherem;;Cherem;;;;;;;;;x
 GOD_AMENOMINAKANUSHI;Amenominakanushi;Amenominakanushi;;Amenominakanushi;;;;;;;;;x

@@ -1,5 +1,9 @@
 korean_group;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;x
 korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;Korean;x
+silla;Silla;Silla;Silla;;Silla;;;;;;;;;x
+guryeo;Guryeo;Guryeo;Guryeo;;Guryeo;;;;;;;;;x
+baekje;Baekje;Baekje;Baekje;;Baekje;;;;;;;;;x
+gaya;Gaya;Gaya;Gaya;;Gaya;;;;;;;;;x
 emperor_korean;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;x
 emperor__female_korean;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;x
 king_korean;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;x
@@ -13,7 +17,7 @@ county_of_korean;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;
 baron_korean;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;x
 baron_female_korean;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;x
 barony_of_korean;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;x
-k_goryeo;Goryeo;Goryeo;Goryeo;Goryeo;Goryeo;Goryeo;Goryeo;Goryeo;Goryeo;Goryeo;Goryeo;Goryeo;Goryeo;x
+k_goryeo;Korea;Korea;Korea;Korea;Korea;Korea;Korea;Korea;Korea;Korea;Korea;Korea;Korea;x
 d_seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;x
 c_gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;x
 b_manwoldae;Manwoldae;Manwoldae;Manwoldae;Manwoldae;Manwoldae;Manwoldae;Manwoldae;Manwoldae;Manwoldae;Manwoldae;Manwoldae;Manwoldae;Manwoldae;x
@@ -283,5 +287,11 @@ k_silla;Silla;Silla;Silla;Silla;Silla;Silla;Silla;Silla;Silla;Silla;Silla;Silla;
 k_silla_adj;Silla;Silla;Silla;Silla;Silla;Silla;Silla;Silla;Silla;Silla;Silla;Silla;Silla;x
 d_gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;x
 d_gaya_adj;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;Gaya;x
+k_goguryeo;Goguryeo;Goguryeo;Goguryeo;;Goguryeo;;;;;;;;;x
+k_goguryeo_adj;Goguryeo;Goguryeo;Goguryeo;;Goguryeo;;;;;;;;;x
+d_tamna;Tamna;Tamna;Tamna;;Tamna;;;;;;;;;x
+d_tamna_adj;Tamna;Tamna;Tamna;;Tamna;;;;;;;;;x
 k_dan_gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;x
 k_dan_gur_adj;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;x
+EVTDESC_US_1;With foreign rulers come foreign influences. The local culture in the province of [Root.GetName] has evolved over time into something new, and the people living there are no longer referred to as Picts.;Avec les dirigeants étrangers viennent les influences étrangères. La culture locale de la province de [Root.GetName] a changé et s'est transformée avec le temps. Ses habitants ne sont plus nommés les Pictes.;Die Herrscher aus der Fremde bringen fremde Einflüsse mit sich. Die Kultur der Provinz [Root.GetName] hat sich zu etwas Neuem entwickelt und das Volk, das dort lebt, wird nun nicht mehr als die Pikten bezeichnet.;;Con gobernantes extranjeros llegan influencias extranjeras. A lo largo del tiempo la cultura local de la provincia de [Root.GetName] ha evolucionado en algo nuevo, y a la gente de la zona ya no se le conoce como pictos.;;;;;;;;;x;;
+EVTOPTA_US_1;They are Scottish now!;Ils sont maintenant Écossais !;Es sind nun echte Schotten!;;¡Ahora son escoceses!;;;;;;;;;x;;

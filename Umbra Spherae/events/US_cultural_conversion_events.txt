@@ -1,0 +1,36 @@
+###########################################
+#                                         #
+# US culture conversion events  		  #
+#                                         #
+# ID US.1-US.499                          #
+#                                         #
+###########################################
+
+namespace = US
+
+###########################################
+# Province conversions                    #
+###########################################
+
+#Silla to Korean
+province_event = {
+	id = US.1
+	desc = EVTDESC_US_1
+	picture = GFX_evt_india_temple
+
+	trigger = {
+		culture = silla
+		owner = {
+			NOT = {	culture = silla }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+	}
+
+	option = {
+		name = EVTOPTA_US_1
+		culture = korean
+	}
+}

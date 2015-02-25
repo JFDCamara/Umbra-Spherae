@@ -4,14 +4,14 @@
 title = c_yang
 
 # Settlements
-max_settlements = 5
+max_settlements = 7
 b_gyeong = castle
 b_yang = castle
 b_ulsan = city
 #b_pohang =
 #b_busan =
+#b_gimhae = city
 #b_yangsan =
-#b_gimhae =
 #b_miryang =
 
 

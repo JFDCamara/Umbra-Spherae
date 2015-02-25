@@ -4,20 +4,62 @@ e_anchuhu = {
     	color2 = { 255 255 255  }
 
 	capital = 1507 # Yongcheon
+	
+k_silla = {
+
+    color = { 92 150 94 }
+    color2 = { 255 255 255 }
+
+	capital = 1504 # Sang
+	
+	culture = silla
+	
+	d_gaya = {
+
+		capital = 1505 # Gang
+	
+		culture = gaya
+
+		color = { 164 219 213 }
+		color2 = { 255 255 255 }
+	}
+}
+
+k_baekje = {
+
+	color = { 66 140 176 }
+	color2 = { 255 255 255  }
+
+	capital = 1496 # Gwang
+	
+	culture = baekje
+}
+
+k_goguryeo = {
+
+	color = { 100 198 195 }
+	color2 = { 255 255 255  }
+
+	capital = 1490 # Bukgye
+	
+	culture = guryeo
+}
 
 	k_balhae = {
 
     		color = { 141 109 167 }
     		color2 = { 255 255 255  }
 
-		capital = 1507 # Yongcheon
+			capital = 1507 # Yongcheon
+			
+			culture = guryeo
 
     		d_sanggyeong = {
 
     			color = { 102 109 174 }
     			color2 = { 255 255 255  }
 
-			capital = 1507 # Yongcheon
+				capital = 1507 # Yongcheon
 
 			c_yongcheon = {
 		
@@ -313,6 +355,8 @@ e_anchuhu = {
 
 		color={ 147 147 147 }
 		color2={ 255 255 255 }
+		
+		culture = jurchen
 
 		d_girin_ula = {
 
@@ -385,11 +429,19 @@ e_anchuhu = {
     		color2 = { 255 255 255  }
 
 		capital = 1493 # Gyeonggi
+		
+		silla = "Silla"
+		guryeo = "Guryeo"
+		gaya = "Gaya"
+		baekje = "Baekje"
+		korean = "Goryeo"
 
-    		d_seohae = {
+    	d_seohae = {
 
     			color = { 26 53 207 }
     			color2 = { 255 255 255  }
+				
+			silla = "Hanju"
 
 			capital = 1493 # Gyeonggi
 
@@ -486,6 +538,8 @@ e_anchuhu = {
     			color2 = { 255 255 255  }
 
 			capital = 1494 # Gyo
+			
+			silla = "Sakju"
 		
 	   		c_gyogyo = {
 		
@@ -510,6 +564,8 @@ e_anchuhu = {
 				}
 			}
 			c_donggye = {
+			
+				silla = "Myeongju"
 
 				color = { 56 63 177 }
 				color2 = { 255 255 255  }
@@ -532,20 +588,14 @@ e_anchuhu = {
 				}
 			}
 		}
-	}
-	k_baekje = {
-
-		color = { 66 140 176 }
-		color2 = { 255 255 255  }
-
-		capital = 1496 # Gwang
-
 		d_yanggwang = {
 	
     			color = { 63 180 168 }
     			color2 = { 255 255 255  }
 
 			capital = 1496 # Gwang
+			
+			silla = "Ungju"
 
 			c_gwang = {
 		
@@ -636,9 +686,13 @@ e_anchuhu = {
     			color2 = { 255 255 255  }
 
 			capital = 1500 # Jeon
+			
+			silla = "Muju"
 		
 			c_jeon = {
 		
+				silla = "Jeonju"
+				
 				color = { 96 121 156 }
 				color2 = { 255 255 255  }
 		
@@ -703,6 +757,14 @@ e_anchuhu = {
 				b_hwasun = {
 				}
 			}
+		}
+		d_tamna = {
+		
+			color = { 80 128 145 }
+			color2 = { 255 255 255  }
+				
+			capital = 1503 # Jeon
+			
 			c_jeju = {
 		
 				color = { 76 121 156 }
@@ -718,22 +780,19 @@ e_anchuhu = {
 				}
 			}
 		}
-	}
-	k_silla = {
-
-    		color = { 92 150 94 }
-    		color2 = { 255 255 255 }
-
-		capital = 1504 # Sang
-
 		d_gyeongsang = {
 	
     			color = { 95 148 126 }
     			color2 = { 255 255 255 }
 
 			capital = 1504 # Sang
+			
+			silla = "Saro"
 
 			c_sang = {
+			
+				silla = "Sangju"
+				korean = "Yeongnam"
 		
 				color = { 105 148 126 }
 				color2 = { 255 255 255  }
@@ -756,6 +815,9 @@ e_anchuhu = {
 				}
 			}
 			c_yang = {
+			
+				silla = "Yangju"
+				korean = "Yeongdong"
 		
 				color = { 95 158 126 }
 				color2 = { 255 255 255  }
@@ -777,46 +839,39 @@ e_anchuhu = {
 				b_miryang = {
 				}
 			}
-		}
-		d_gaya = {
-
-			capital = 1505 # Gang
-
-    			color = { 164 219 213 }
-    			color2 = { 255 255 255 }
-
 			c_gang = {
+			
+				korean = "Sannam"
+				silla = "Gangju"
+				gaya = "Gaya"
 		
 				color = { 174 219 213 }
 				color2 = { 255 255 255  }
 
 				b_gang = {
+					gaya = "Goryeong Gaya"
 				}
 				b_sacheon = {
+					gaya = "Geumgwan Gaya"
 				}
 				b_namhae = {
 				}
 				b_geochang = {
-					holy_site = jurchen_pagan
-					holy_site = jurchen_pagan_reformed
+					gaya = "Dae Gaya"
 				}
 				b_jin = {
+					gaya = "Ara Gaya"
 				}
 				b_tongyeong = {
+					gaya = "So Gaya"
 				}
 				b_geoje = {
+					gaya = "Ara Gaya"
 				}
 				b_uiryeong = {
+					gaya = "Bihwa Gaya"
 				}
 			}
-            		c_tsushima = {
-
-				color={ 164 229 213 }
-				color2={ 255 255 255 }
-
-                		b_kaneda = {
-                		}
-            		}
 		}
 	}
 }
