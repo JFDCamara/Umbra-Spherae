@@ -11,7 +11,10 @@ b_mokju = castle
 #b_haju =
 
 # Misc
-culture = jurchen
-religion = jurchen_pagan
+culture = guryeo
+religion = shingyo
 
 # History
+
+940.1.1 = { culture = korean }
+1050.1.1 = { culture = jurchen religion = jurchen_pagan }

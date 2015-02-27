@@ -9,7 +9,9 @@ b_lakkrau_chjimx = castle
 b_leupjin = castle
 
 # Misc
-culture = jurchen
-religion = mahayana
+culture = mohe
+religion = jurchen_pagan
 
 # History
+
+1050.1.1 = { culture = jurchen }

@@ -12,8 +12,8 @@ b_seogwipo = castle
 
 
 # Misc
-culture = korean
-religion = mahayana
+culture = tamna
+religion = shingyo
 
 # History
 

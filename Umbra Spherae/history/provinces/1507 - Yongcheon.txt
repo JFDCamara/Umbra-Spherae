@@ -10,7 +10,9 @@ b_hoju = castle
 #b_balju =
 
 # Misc
-culture = jurchen
+culture = mohe
 religion = jurchen_pagan
 
 # History
+
+1050.1.1 = { culture = jurchen }

@@ -52,7 +52,8 @@ k_goguryeo = {
 
 			capital = 1507 # Yongcheon
 			
-			culture = guryeo
+			culture = buyeo
+			buyeo = "Buyeo"
 
     		d_sanggyeong = {
 
@@ -435,6 +436,7 @@ k_goguryeo = {
 		gaya = "Gaya"
 		baekje = "Baekje"
 		korean = "Goryeo"
+		tamna = "Tamna"
 
     	d_seohae = {
 
@@ -764,6 +766,8 @@ k_goguryeo = {
 			color2 = { 255 255 255  }
 				
 			capital = 1503 # Jeon
+			
+			culture = tamna
 			
 			c_jeju = {
 		

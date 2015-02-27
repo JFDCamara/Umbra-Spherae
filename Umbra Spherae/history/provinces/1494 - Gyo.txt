@@ -16,9 +16,10 @@ b_cheorwon = city
 
 
 # Misc
-culture = korean
-religion = mahayana
+culture = guryeo
+religion = shingyo
 
 # History
 
-
+700.1.1 = { culture = silla }
+940.1.1 = { culture = korean}

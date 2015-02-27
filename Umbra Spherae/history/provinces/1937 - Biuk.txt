@@ -13,7 +13,9 @@ b_toksjingh = city
 #b_lainom =
 
 # Misc
-culture = jurchen
-religion = mahayana
+culture = mohe
+religion = jurchen_pagan
 
 # History
+
+1050.1.1 = { culture = jurchen }

@@ -11,7 +11,9 @@ b_pungju = temple
 #b_jeongju_amnok =
 
 # Misc
-culture = jurchen
-religion = jurchen_pagan
+culture = guryeo
+religion = shingyo
 
 # History
+
+940.1.1 = { culture = korean }

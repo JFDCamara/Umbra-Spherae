@@ -16,9 +16,9 @@ b_daegu = city
 
 
 # Misc
-culture = korean
-religion = mahayana
+culture = silla
+religion = shingyo
 
 # History
 
-
+940.1.1 = { culture = korean}

@@ -9,7 +9,9 @@ b_haju_jangnyeong = castle
 b_haju_jangnyeong2 = castle
 
 # Misc
-culture = jurchen
+culture = mohe
 religion = jurchen_pagan
 
 # History
+
+1050.1.1 = { culture = jurchen }

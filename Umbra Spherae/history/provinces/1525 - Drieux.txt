@@ -11,7 +11,9 @@ b_liihzjep = tribal
 b_drieuxmyoxchjang = tribal
 
 # Misc
-culture = jurchen
+culture = mohe
 religion = jurchen_pagan
 
 # History
+
+1050.1.1 = { culture = jurchen }

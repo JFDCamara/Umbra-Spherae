@@ -1,42 +1,65 @@
-## Sengoku Inspired
+#Credits to Korbah and the Elder Kings team for the ruthless icon.
+#Credits to cybrxkhan and the VIET mod team for use of several icons.
+#Credits to Lonhaldar and the Middle-earth Project team for several icons borrowed.
+
+## Chivalry traits
 
 ruthless = {
-	personality = yes
+	lifestyle = yes
 	opposites =  {
+		honorable
+		kind
 		chivalrous
-		bushi
+		mononofu
+		furusiyya
+		dharma
+		youxia
+		saesok_ogye
 	}
 	
 	intrigue = 2
 	
 	opposite_opinion = -10
 	
+	command_modifier = {
+		morale_offence = 0.1
+	}
+	
 	ai_rationality = 10
 	ai_honor = -20
 	ai_ambition = 25
 	
 }
-
 chivalrous = {
-	personality = yes
+	lifestyle = yes
 	potential = {
-		NOT = { culture = japanese }
+		NOT = { 
+			culture = japanese
+			religion_group = muslim
+			religion_group = indian
+			culture_group = chinese
+			culture_group = korean_group
+		}
 	}
 	opposites =  {
 		ruthless
 	}
 	
 	martial = 2
+	monthly_character_piety = 0.1
+	monthly_character_prestige = 0.5
 	
+	general_opinion = 10
+	same_opinion = 10
+	liege_opinion = 20
 	opposite_opinion = -10
 	
-	ai_honor = 10
+	ai_honor = 20
 	ai_rationality = -20
 	ai_ambition = -25
 }
-
-bushi = {
-	personality = yes
+mononofu = {
+	lifestyle = yes
 	potential = {
 		culture = japanese
 	}
@@ -45,30 +68,126 @@ bushi = {
 	}
 	
 	martial = 2
+	monthly_character_piety = 0.1
+	monthly_character_prestige = 0.5
 	
+	general_opinion = 10
+	same_opinion = 10
+	liege_opinion = 20
 	opposite_opinion = -10
 	
-	ai_honor = 10
+	ai_honor = 20
+	ai_rationality = -20
+	ai_ambition = -25
+}
+furusiyya = {
+	lifestyle = yes
+	potential = {
+		religion_group = muslim
+	}
+	opposites =  {
+		ruthless
+	}
+	
+	martial = 2
+	monthly_character_piety = 0.1
+	monthly_character_prestige = 0.5
+	
+	general_opinion = 10
+	same_opinion = 10
+	liege_opinion = 20
+	opposite_opinion = -10
+	
+	ai_honor = 20
+	ai_rationality = -20
+	ai_ambition = -25
+}
+dharma = {
+	lifestyle = yes
+	potential = {
+		religion_group = indian
+	}
+	opposites =  {
+		ruthless
+	}
+	
+	martial = 2
+	monthly_character_piety = 0.1
+	monthly_character_prestige = 0.5
+	
+	general_opinion = 10
+	same_opinion = 10
+	liege_opinion = 20
+	opposite_opinion = -10
+	
+	ai_honor = 20
+	ai_rationality = -20
+	ai_ambition = -25
+}
+youxia = {
+	lifestyle = yes
+	potential = {
+		culture_group = chinese
+	}
+	opposites =  {
+		ruthless
+	}
+	
+	martial = 2
+	monthly_character_piety = 0.1
+	monthly_character_prestige = 0.5
+	
+	general_opinion = 10
+	same_opinion = 10
+	liege_opinion = 20
+	opposite_opinion = -10
+	
+	ai_honor = 20
+	ai_rationality = -20
+	ai_ambition = -25
+}
+saesok_ogye = {
+	lifestyle = yes
+	potential = {
+		culture_group = korean_group
+	}
+	opposites =  {
+		ruthless
+	}
+	
+	martial = 2
+	monthly_character_piety = 0.1
+	monthly_character_prestige = 0.5
+	
+	general_opinion = 10
+	same_opinion = 10
+	liege_opinion = 20
+	opposite_opinion = -10
+	
+	ai_honor = 20
 	ai_rationality = -20
 	ai_ambition = -25
 }
 
+## Sengoku Inspired
+
 tea_master = {
 	lifestyle = yes
+	
 	potential = {
 		culture_group = japanese
 		culture_group = chinese
 		culture_group = korean_group
 		culture_group = di
-		culture_group = tibetan
 		culture_group = vietic
 	}
 	
 	intrigue = 1
+	diplomacy = 1
+	health = 0.5
 	
 	same_opinion = 20
 }
-
 painter = {
 	lifestyle = yes
 	
@@ -76,7 +195,6 @@ painter = {
 	
 	same_opinion = 20
 }
-
 musician = {
 	lifestyle = yes
 	
@@ -84,17 +202,17 @@ musician = {
 	
 	same_opinion = 20
 }
-
 calligraphist = {
 	lifestyle = yes
 	
+	stewardship = 1
 	diplomacy = 1
 	
 	same_opinion = 20
 }
-
 go_player = {
 	lifestyle = yes
+	
 	potential = {
 		culture_group = japanese
 		culture_group = chinese
@@ -103,34 +221,202 @@ go_player = {
 		culture_group = vietic
 	}
 	
-	martial = 1
+	opposites =  {
+		gamer
+	}
+	
+	diplomacy = 1
+	martial = 2
 	
 	same_opinion = 20
 }
+martial_artist = {
+	lifestyle = yes
+	
+	stewardship = 1
+	martial = 4
+	
+	monthly_character_prestige = 1
+	
+	sex_appeal_opinion = 5
+	general_opinion = 10
+	same_opinion = 20
+	vassal_opinion = 10
+	liege_opinion = 5
+	
+	ai_honor = 20
+}
 
+# VIET Traits
+tall = {
+	birth = 150
+	inherit_chance = 35
+	
+	opposites =  {
+		dwarf
+	}
+	
+	diplomacy = 1
+	martial = 1
+	
+	health = 0.2
+	
+	sex_appeal_opinion = 5
+	vassal_opinion = 5
+
+}
+deaf = {
+	birth = 50
+	inherit_chance = 25
+
+	same_opinion = 5
+
+	diplomacy = -1		
+	martial = -1
+	intrigue = -2
+	health = -1
+	
+	customizer = no
+	
+	combat_rating = -10
+
+}
+fertile = {
+	birth = 100
+	inherit_chance = 25
+	
+	intrigue = 1
+
+	sex_appeal_opinion = 5
+	spouse_opinion = 10
+
+	fertility = 0.1
+
+	monthly_character_prestige = 0.01
+}
+fashionable = {
+
+	lifestyle = yes
+	
+	diplomacy = 1
+	intrigue = 2
+
+	sex_appeal_opinion = 10
+	same_opinion = 10
+	spouse_opinion = 5
+	
+	monthly_character_prestige = 0.01
+}
+rude = {					
+	personality = yes
+	opposites = {
+		kind
+		humble
+	}
+	
+	diplomacy = -2
+	learning = -2
+	
+	same_opinion = -5
+	vassal_opinion = -5
+	church_opinion = -5
+	
+	ai_honor = -10
+}
+stubborn = {				
+	personality = yes
+	
+	intrigue = -1
+	learning = -1
+	
+	same_opinion = -5
+	
+	ai_honor = -10
+	ai_zeal = 20
+}
+honorable = {
+	personality = yes
+	
+	opposites = {
+		deceitful
+		ruthless
+	}
+	
+	intrigue = -2
+	monthly_character_piety = 1
+	
+	general_opinion = 10
+	same_opinion = 10
+	liege_opinion = 20
+	vassal_opinion = 10
+	opposite_opinion = -10
+	
+	ai_honor = 25
+}
+selfish = {					
+	personality = yes
+	opposites =  {
+		charitable
+		humble
+	}
+
+	stewardship = 1
+	
+	church_opinion = -5
+	vassal_opinion = -5
+	
+	ai_greed = 10
+}
 
 ## Silla Sacred Bone
-#seonggol = {
-#	agnatic = yes # Always inherited from fathers
-#	potential = {
-#		mother = { has_trait = seonggol }
-#	}
+seonggol = {
+	agnatic = yes # Always inherited from fathers
+	potential = {
+		culture = silla
+		mother = { has_trait = seonggol }
+	}
 	
-#	opposites =  {
-#		jingol
-#	}
+	opposites =  {
+		jingol
+	}
 	
-#	same_opinion = 15
-#	vassal_opinion = 10
-#}
-
-#jingol = {
-#	cognatic = yes # Always inherited from parents
+	caste_tier = 3
+	random = no
 	
-#	opposites =  {
-#		seonggol
-#	}
+	same_opinion = 15
+	vassal_opinion = 15
+	monthly_character_prestige = 0.5
+	monthly_character_piety = 0.1
+}
+jingol = {
+	agnatic = yes # Always inherited from fathers
+	potential = {
+		culture = silla
+	}
 	
-#	same_opinion = 10
-#	vassal_opinion = 5
-#}
+	opposites =  {
+		seonggol
+	}
+	
+	caste_tier = 2
+	random = no
+	
+	same_opinion = 15
+	vassal_opinion = 10
+	monthly_character_prestige = 0.5
+}
+dupum = {
+	potential = {
+		culture = silla
+	}
+	
+	opposites =  {
+		seonggol
+	}
+	
+	caste_tier = 1
+	random = no
+	
+	vassal_opinion = -10
+	monthly_character_wealth = 0.03
+}

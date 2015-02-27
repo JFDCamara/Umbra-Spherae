@@ -9,7 +9,9 @@ b_buju = castle
 b_seonju = castle
 
 # Misc
-culture = jurchen
-religion = jurchen_pagan
+culture = buyeo
+religion = shingyo
 
 # History
+
+1050.1.1 = { culture = jurchen religion = jurchen_pagan }
