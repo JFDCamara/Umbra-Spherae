@@ -21,5 +21,4 @@ religion = shingyo
 
 # History
 
-700.1.1 = { culture = silla }
-940.1.1 = { culture = korean}
+936.1.1 = { culture = korean}

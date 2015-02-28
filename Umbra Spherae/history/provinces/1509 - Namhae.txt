@@ -15,4 +15,4 @@ religion = shingyo
 
 # History
 
-940.1.1 = { culture = korean }
+936.1.1 = { culture = korean }

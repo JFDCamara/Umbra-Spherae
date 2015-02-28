@@ -3,8 +3,8 @@
 1000075500 = {
 	name="Ryung"
 	dynasty=1000027100 #Wang
-	religion="mahayana"
-	culture="korean"
+	religion="shingyo"
+	culture="guryeo"
 	825.1.1={
 		birth="825.1.1"
 	}
@@ -17,10 +17,13 @@
 	name="Geon"
 	dynasty=1000027100 #Wang
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000075500
 	877.1.31={
 		birth="877.1.31"
+	}
+	918.1.1={
+		culture = korean
 	}
 	943.7.4={
 		death="943.7.4"
@@ -31,10 +34,13 @@
 	name="Mu"
 	dynasty=1000027100 #Wang
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000075501
 	912.1.1={
 		birth="912.1.1"
+	}
+	918.1.1={
+		culture = korean
 	}
 	945.9.15={
 		death="945.9.15"
@@ -707,7 +713,7 @@
 	name="Hyoyang"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	720.1.1={
 		birth="720.1.1"
 	}
@@ -720,7 +726,7 @@
 	name="Gyeongsin"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202687
 	740.1.1={
 		birth="740.1.1"
@@ -734,7 +740,7 @@
 	name="Ingyeom"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202688
 	756.1.1={
 		birth="756.1.1"
@@ -748,7 +754,7 @@
 	name="Junong"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202689
 	772.1.1={
 		birth="772.1.1"
@@ -762,7 +768,7 @@
 	name="Cheongmyeong"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202690
 	788.1.1={
 		birth="788.1.1"
@@ -776,7 +782,7 @@
 	name="Eonseung"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202689
 	773.1.1={
 		birth="773.1.1"
@@ -790,7 +796,7 @@
 	name="Gyeonghwi"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202689
 	777.1.1={
 		birth="777.1.1"
@@ -808,7 +814,7 @@
 	female=yes
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202690
 	789.1.1={
 		birth="789.1.1"
@@ -822,7 +828,7 @@
 	name="Yeyong"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202688
 	757.1.1={
 		birth="757.1.1"
@@ -836,7 +842,7 @@
 	name="Heonjeong"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202695
 	777.1.1={
 		birth="777.1.1"
@@ -850,7 +856,7 @@
 	name="Jeong"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202696
 	797.1.1={
 		birth="797.1.1"
@@ -864,7 +870,7 @@
 	name="Chunggong"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202689
 	778.1.1={
 		birth="778.1.1"
@@ -878,7 +884,7 @@
 	name="Myeong"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202698
 	817.1.1={
 		birth="817.1.1"
@@ -892,7 +898,7 @@
 	name="Yeyeong"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202688
 	758.1.1={
 		birth="758.1.1"
@@ -906,7 +912,7 @@
 	name="Gyunjeong"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202700
 	778.1.1={
 		birth="778.1.1"
@@ -920,7 +926,7 @@
 	name="Ujing"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202701
 	798.1.1={
 		birth="798.1.1"
@@ -934,7 +940,7 @@
 	name="Gyeongeung"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202702
 	818.1.1={
 		birth="818.1.1"
@@ -948,7 +954,7 @@
 	name="Uijeong"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202701
 	799.1.1={
 		birth="799.1.1"
@@ -962,7 +968,7 @@
 	name="Gyemyeong"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202697
 	817.1.1={
 		birth="817.1.1"
@@ -976,7 +982,7 @@
 	name="Eungryeom"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202704
 	846.1.1={
 		birth="846.1.1"
@@ -994,7 +1000,7 @@
 	female=yes
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202718
 	845.1.1={
 		birth="845.1.1"
@@ -1008,7 +1014,7 @@
 	name="Jeong"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202705
 	mother=1000202706
 	861.1.1={
@@ -1023,7 +1029,7 @@
 	name="Hwang"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202705
 	mother=1000202706
 	862.1.1={
@@ -1039,7 +1045,7 @@
 	female=yes
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202705
 	mother=1000202706
 	863.1.1={
@@ -1054,7 +1060,7 @@
 	name="Yo"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202707
 	add_trait="bastard"
 	883.1.1={
@@ -1070,7 +1076,7 @@
 	female=yes
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202707
 	884.1.1={
 		birth="884.1.1"
@@ -1085,7 +1091,7 @@
 	female=yes
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202707
 	885.1.1={
 		birth="885.1.1"
@@ -1099,7 +1105,7 @@
 	name="Bu"
 	dynasty=1000078000 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	mother=1000202712
 	897.1.1={
 		birth="897.1.1"
@@ -1115,7 +1121,7 @@
 	name="Yegyeom"
 	dynasty=1000078001 #Bak
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	850.1.1={
 		birth="850.1.1"
 	}
@@ -1128,7 +1134,7 @@
 	name="Gyeonghwi"
 	dynasty=1000078001 #Bak
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202714
 	870.1.1={
 		birth="870.1.1"
@@ -1145,7 +1151,7 @@
 	name="Seungyeong"
 	dynasty=1000078001 #Bak
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202715
 	mother=1000202711
 	890.1.1={
@@ -1160,7 +1166,7 @@
 	name="Wieung"
 	dynasty=1000078001 #Bak
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000202715
 	mother=1000202711
 	891.1.1={
@@ -1177,7 +1183,7 @@
 	name="Jungsang"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	625.1.1={
 		birth="625.1.1"
 	}
@@ -1190,7 +1196,7 @@
 	name="Joyeong"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202719
 	650.1.1={
 		birth="650.1.1"
@@ -1204,7 +1210,7 @@
 	name="Muye"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202720
 	670.1.1={
 		birth="670.1.1"
@@ -1218,7 +1224,7 @@
 	name="Heummu"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202721
 	700.1.1={
 		birth="700.1.1"
@@ -1232,7 +1238,7 @@
 	name="Wonui"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202721
 	720.1.1={
 		birth="720.1.1"
@@ -1246,7 +1252,7 @@
 	name="Goengrim"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202721
 	721.1.1={
 		birth="721.1.1"
@@ -1260,7 +1266,7 @@
 	name="Hwayeo"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202724
 	750.1.1={
 		birth="750.1.1"
@@ -1274,7 +1280,7 @@
 	name="Sungrin"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202721
 	750.1.1={
 		birth="750.1.1"
@@ -1288,7 +1294,7 @@
 	name="Wonyu"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202726
 	770.1.1={
 		birth="770.1.1"
@@ -1302,7 +1308,7 @@
 	name="Eonui"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202726
 	771.1.1={
 		birth="771.1.1"
@@ -1316,7 +1322,7 @@
 	name="Myeungchung"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202726
 	772.1.1={
 		birth="772.1.1"
@@ -1330,7 +1336,7 @@
 	name="Yabal"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202719
 	651.1.1={
 		birth="651.1.1"
@@ -1344,7 +1350,7 @@
 	name="Jungsang"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202730
 	670.1.1={
 		birth="670.1.1"
@@ -1358,7 +1364,7 @@
 	name="Jungsang"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202731
 	690.1.1={
 		birth="690.1.1"
@@ -1372,7 +1378,7 @@
 	name="Jungsang"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202732
 	720.1.1={
 		birth="720.1.1"
@@ -1386,7 +1392,7 @@
 	name="Insu"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202733
 	750.1.1={
 		birth="750.1.1"
@@ -1400,7 +1406,7 @@
 	name="Sindeok"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202734
 	770.1.1={
 		birth="770.1.1"
@@ -1414,7 +1420,7 @@
 	name="Ijin"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202735
 	800.1.1={
 		birth="800.1.1"
@@ -1428,7 +1434,7 @@
 	name="Geonhwang"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202735
 	801.1.1={
 		birth="801.1.1"
@@ -1442,7 +1448,7 @@
 	name="Hyeonseok"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202737
 	830.1.1={
 		birth="830.1.1"
@@ -1456,7 +1462,7 @@
 	name="Wihae"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202738
 	850.1.1={
 		birth="850.1.1"
@@ -1470,7 +1476,7 @@
 	name="Inseon"
 	dynasty=1000078002 #Dae
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202739
 	880.1.1={
 		birth="880.1.1"
@@ -1486,7 +1492,7 @@
 	name="Ajagae"
 	dynasty=1000078003 #Gyeon
 	religion="mahayana"
-	culture="korean"
+	culture="baekje"
 	827.1.1={
 		birth="827.1.1"
 	}
@@ -1499,7 +1505,7 @@
 	name="Hwon"
 	dynasty=1000078003 #Gyeon
 	religion="mahayana"
-	culture="korean"
+	culture="baekje"
 	father=1000202741
 	867.1.1={
 		birth="867.1.1"
@@ -1513,7 +1519,7 @@
 	name="Singeom"
 	dynasty=1000078003 #Gyeon
 	religion="mahayana"
-	culture="korean"
+	culture="baekje"
 	father=1000202742
 	887.1.1={
 		birth="887.1.1"
@@ -1527,7 +1533,7 @@
 	name="Yanggeom"
 	dynasty=1000078003 #Gyeon
 	religion="mahayana"
-	culture="korean"
+	culture="baekje"
 	father=1000202742
 	888.1.1={
 		birth="888.1.1"
@@ -1541,7 +1547,7 @@
 	name="Yonggeom"
 	dynasty=1000078003 #Gyeon
 	religion="mahayana"
-	culture="korean"
+	culture="baekje"
 	father=1000202742
 	889.1.1={
 		birth="889.1.1"
@@ -1557,7 +1563,7 @@
 	name="Ye"
 	dynasty=1000078004 #Gung
 	religion="mahayana"
-	culture="korean"
+	culture="guryeo"
 	father=1000202705
 	864.1.1={
 		birth="864.1.1"
@@ -1575,7 +1581,7 @@
 	name="Heunggwang"
 	dynasty=1000078079 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	680.1.1={
 		birth="680.1.1"
 	}
@@ -1589,7 +1595,7 @@
 	female=yes
 	dynasty=1000078079 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000203833
 	720.1.1={
 		birth="720.1.1"
@@ -1603,7 +1609,7 @@
 	name="Seunggyeom"
 	dynasty=1000078079 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000203833
 	700.1.1={
 		birth="700.1.1"
@@ -1617,7 +1623,7 @@
 	name="Heonyeong"
 	dynasty=1000078079 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000203833
 	701.1.1={
 		birth="701.1.1"
@@ -1631,7 +1637,7 @@
 	name="Geonun"
 	dynasty=1000078079 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	father=1000203831
 	730.1.1={
 		birth="730.1.1"
@@ -1645,7 +1651,7 @@
 	name="Yangsang"
 	dynasty=1000078079 #Gim
 	religion="mahayana"
-	culture="korean"
+	culture="silla"
 	mother=1000203829
 	740.1.1={
 		birth="740.1.1"
