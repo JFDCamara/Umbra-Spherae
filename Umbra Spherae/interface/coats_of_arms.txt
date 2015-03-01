@@ -368,6 +368,8 @@ culture = {
 	religion = {
 		"tengri_pagan_reformed"
 		"tengri_pagan"
+		"jurchen_pagan_reformed"
+		"jurchen_pagan"
 	}
 	
 	templates = { 
@@ -604,7 +606,24 @@ culture =
 }
 
 culture = {
-	religion_group = "indian_group"
+	religion = {
+		"zun_pagan"
+		"zun_pagan_reformed"
+		"hindu"
+		"jain"
+		"buddhist"
+		"mahayana"
+		"vajrayana"
+		"bon"
+		"bon_reformed"
+		"shenjiao"
+		"thangiao"
+		"shingyo"
+		"tao"
+		"confucian"
+		"legalist"
+		"mohist"
+	}
 	
 	templates = { 
 		"coa_plain_indian:1"
@@ -679,14 +698,15 @@ culture = {
 }
 
 culture ={
-    religion_group = "chinese_religion"
+	religion = {
+		"nihon_shinto"
+		"ryukyu_shinto"
+		"ainu_pantheism_reformed"
+		"ainu_pantheism"
+	}
 
     templates = { 
         "coa_plain_muslim:1"
-        #"coa_party_per_fess:2"
-        #"coa_party_per_pale:2"
-        #"coa_party_per_cross:4"
-        #"coa_party_triangle:3"
     }
 
     color = {
@@ -732,5 +752,19 @@ culture ={
             emblem = no
             color = 2
         }
-    }
+        texture = {
+            file = "gfx\\coats_of_arms\\pattern2_japanese.tga"
+            size = { x = 10 y = 2 }
+            noOfFrames = 5
+            emblem = no
+            color = 2
+        }
+		texture = {
+			file = "gfx\\coats_of_arms\\dynasties4_indian.tga"
+			size = { x = 2 y = 1 }
+			noOfFrames = 2
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+	}
 }

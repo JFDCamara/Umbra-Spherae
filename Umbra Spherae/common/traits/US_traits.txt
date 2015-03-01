@@ -372,16 +372,18 @@ selfish = {
 seonggol = {
 	agnatic = yes # Always inherited from fathers
 	potential = {
-		culture = silla
-		mother = { has_trait = seonggol }
+			culture = silla
+			mother = { has_trait = seonggol }
 	}
 	
 	opposites =  {
 		jingol
+		dupum
 	}
 	
 	caste_tier = 3
 	random = no
+	customizer = no
 	
 	same_opinion = 15
 	vassal_opinion = 15
@@ -391,15 +393,17 @@ seonggol = {
 jingol = {
 	agnatic = yes # Always inherited from fathers
 	potential = {
-		culture = silla
+			culture = silla
 	}
 	
 	opposites =  {
 		seonggol
+		dupum
 	}
 	
 	caste_tier = 2
 	random = no
+	customizer = no
 	
 	same_opinion = 15
 	vassal_opinion = 10
@@ -407,15 +411,17 @@ jingol = {
 }
 dupum = {
 	potential = {
-		culture = silla
+			culture = silla
 	}
 	
 	opposites =  {
 		seonggol
+		jingol
 	}
 	
 	caste_tier = 1
 	random = no
+	customizer = no
 	
 	vassal_opinion = -10
 	monthly_character_wealth = 0.03
