@@ -4,23 +4,23 @@
 }
 1000078000 = {
 	name="Gim"
-	culture = korean
+	culture = silla
 }
 1000078001 = {
 	name="Bak"
-	culture = korean
+	culture = silla
 }
 1000078002 = {
 	name="Dae"
-	culture = korean
+	culture = guryeo
 }
 1000078003 = {
 	name="Gyeon"
-	culture = korean
+	culture = baekje
 }
 1000078004 = {
 	name="Gung"
-	culture = korean
+	culture = guryeo
 }
 
 1000027101 = {
@@ -96,5 +96,5 @@
 
 1000078079 = { #it's the same as the main Gim, time reasons
 	name="Gim"
-	culture = korean
+	culture = silla
 }

@@ -295,6 +295,8 @@ culture = {
 	religion = {
 		"west_african_pagan_reformed"
 		"west_african_pagan"
+		"melanesian_religion_reformed"
+		"melanesian_religion"
 	}
 	
 	templates = { 
@@ -623,6 +625,22 @@ culture = {
 		"confucian"
 		"legalist"
 		"mohist"
+		"philippine_religion_reformed"
+		"philippine_religion"
+		"bornean_religion_reformed"
+		"bornean_religion"
+		"sulawesi_religion_reformed"
+		"sulawesi_religion"
+		"flores_religion_reformed"
+		"flores_religion"
+		"java_religion_reformed"
+		"java_religion"
+		"sumatran_religion_reformed"
+		"sumatran_religion"
+		"malagasy_religion_reformed"
+		"malagasy_religion"
+		"taiwanese_religion_reformed"
+		"taiwanese_religion"
 	}
 	
 	templates = { 
