@@ -5,6 +5,8 @@ e_anchuhu = {
 
 	capital = 1507 # Yongcheon
 	
+	jurchen = "Jin"
+	
 k_silla = {
 
     color = { 92 150 94 }

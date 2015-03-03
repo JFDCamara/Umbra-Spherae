@@ -1,7 +1,5 @@
 #Kingdom of Tamna
-100.1.1={
-	liege="d_tamna"
-}
+
 300.1.1={
 	holder=1000449061 #Eulla
 }
@@ -26,6 +24,9 @@
 457.1.1={
 	holder=1000449054 #Haengcheon
 }
+476.1.1={
+	liege="k_baekje"
+} # Vassal of Baekje
 487.1.1={
 	holder=1000449053 #Hwan
 }
@@ -47,6 +48,12 @@
 606.1.1={
 	holder=1000449047 #Hu
 }
+660.1.1={
+	liege=""
+}
+662.1.1={
+	liege="k_silla"
+} # Vassal of Silla
 665.1.1={
 	holder=1000449046 #Dumyeong
 }
@@ -123,6 +130,7 @@
 	holder=1000449022 #Cheonwon
 }
 925.1.1={
+	liege=""
 	holder=1000449021 #Hogong
 }
 928.1.1={
@@ -137,6 +145,9 @@
 934.1.1={
 	holder=1000449017 #Jagyeon
 }
+938.1.1={
+	liege="k_goryeo"
+} # Vassal of Goryeo
 955.1.1={
 	holder=1000449016 #Malo
 }
@@ -153,44 +164,6 @@
 	holder=1000449012 #Jeok
 }
 1105.1.1={
-	liege="k_goryeo"
+	liege=""
+	holder=0
 } #Annexed by Goryeo
-1118.1.1={
-	holder=1000449011 #Yeorim
-}
-1152.1.1={
-	holder=1000449010 #Jeongan
-}
-1195.1.1={
-	holder=1000449009 #Soon
-}
-1222.1.1={
-	holder=1000449008 #Boksu
-}
-1234.1.1={
-	holder=1000449007 #Indan
-}
-1252.1.1={
-	holder=1000449006 #Sujwa
-}
-1271.1.1={
-	holder=1000449005 #Seok
-}
-1308.1.1={
-	holder=1000449004 #Soonryang
-}
-1355.1.1={
-	holder=1000449003 #Soonwon
-}
-1362.1.1={
-	holder=1000449002 #Myeongeol
-}
-1377.1.1={
-	holder=1000449001 #Singeol
-}
-1377.1.1={
-	holder=1000449001 #Singeol
-}
-1397.1.1={
-	holder=1000449000 #Bongye
-}

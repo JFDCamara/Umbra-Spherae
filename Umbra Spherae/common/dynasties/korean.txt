@@ -1,3 +1,5 @@
+#########New Korean Dynasty id Range 1.000.155.000 - 1.000.155.999 ######
+
 1000027100 = {
 	name="Wang"
 	culture = korean
@@ -98,3 +100,19 @@
 	name="Gim"
 	culture = silla
 }
+# New id ranges
+
+#Kingdom of Tamna
+1000155000 = {
+	name="Go" #Kingdom of Tamna, Jejudo
+	culture = tamna
+}
+1000155001 = {
+	name="Yang" #Kingdom of Tamna, Jejudo
+	culture = tamna
+}
+1000155002 = {
+	name="Bu" #Kingdom of Tamna, Jejudo
+	culture = tamna
+}
+
