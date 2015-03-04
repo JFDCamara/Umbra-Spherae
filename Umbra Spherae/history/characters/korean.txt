@@ -1,4 +1,4 @@
-#######New Korean range: 1.000.449.000 - 1.000.449.999######
+#######New Korean range: 1.000.450.000 - 1.000.450.999######
 
 #Goryeo Dynasty
 
@@ -1665,12 +1665,12 @@
 
 # Starting New Range #
 
-1000449000 = {
+1000450000 = {
 	name="Bongye"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449001
+	father=1000450001
 	1357.1.1={
 		birth=yes
 	}
@@ -1679,12 +1679,12 @@
 	}
 }
 
-1000449001 = {
+1000450001 = {
 	name="Singeol"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449002
+	father=1000450002
 	1339.1.1={
 		birth=yes
 	}
@@ -1693,12 +1693,12 @@
 	}
 }
 
-1000449002 = {
+1000450002 = {
 	name="Myeongeol"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449003
+	father=1000450003
 	1317.1.1={
 		birth=yes
 	}
@@ -1707,12 +1707,12 @@
 	}
 }
 
-1000449003 = {
+1000450003 = {
 	name="Soonwon"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449004
+	father=1000450004
 	1309.1.1={
 		birth=yes
 	}
@@ -1721,12 +1721,12 @@
 	}
 }
 
-1000449004 = {
+1000450004 = {
 	name="Soonryang"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449005
+	father=1000450005
 	1286.1.1={
 		birth=yes
 	}
@@ -1735,12 +1735,12 @@
 	}
 }
 
-1000449005 = {
+1000450005 = {
 	name="Seok"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449006
+	father=1000450006
 	1258.1.1={
 		birth=yes
 	}
@@ -1749,12 +1749,12 @@
 	}
 }
 
-1000449006 = {
+1000450006 = {
 	name="Sujwa"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449007
+	father=1000450007
 	1232.1.1={
 		birth=yes
 	}
@@ -1763,12 +1763,12 @@
 	}
 }
 
-1000449007 = {
+1000450007 = {
 	name="Indan"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449008
+	father=1000450008
 	1217.1.1={
 		birth=yes
 	}
@@ -1777,12 +1777,12 @@
 	}
 }
 
-1000449008 = {
+1000450008 = {
 	name="Boksu"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449009
+	father=1000450009
 	1175.1.1={
 		birth=yes
 	}
@@ -1791,12 +1791,12 @@
 	}
 }
 
-1000449009 = {
+1000450009 = {
 	name="Soon"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449010
+	father=1000450010
 	1148.1.1={
 		birth=yes
 	}
@@ -1805,12 +1805,12 @@
 	}
 }
 
-1000449010 = {
+1000450010 = {
 	name="Jeongan"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449011
+	father=1000450011
 	1130.1.1={
 		birth=yes
 	}
@@ -1819,12 +1819,12 @@
 	}
 }
 
-1000449011 = {
+1000450011 = {
 	name="Yeorim"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449012
+	father=1000450012
 	1093.1.1={
 		birth=yes
 	}
@@ -1833,12 +1833,12 @@
 	}
 }
 
-1000449012 = {
+1000450012 = {
 	name="Jeok"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449013
+	father=1000450013
 	1048.1.1={
 		birth=yes
 	}
@@ -1847,12 +1847,12 @@
 	}
 }
 
-1000449013 = {
+1000450013 = {
 	name="Jeongik"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449014
+	father=1000450014
 	1003.1.1={
 		birth=yes
 	}
@@ -1861,12 +1861,12 @@
 	}
 }
 
-1000449014 = {
+1000450014 = {
 	name="Jogi"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449015
+	father=1000450015
 	975.1.1={
 		birth=yes
 	}
@@ -1875,12 +1875,12 @@
 	}
 }
 
-1000449015 = {
+1000450015 = {
 	name="Yu"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449016
+	father=1000450016
 	956.1.1={
 		birth=yes
 	}
@@ -1889,12 +1889,12 @@
 	}
 }
 
-1000449016 = {
+1000450016 = {
 	name="Malo"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449017
+	father=1000450017
 	940.1.1={
 		birth=yes
 	}
@@ -1903,12 +1903,12 @@
 	}
 }
 
-1000449017 = {
+1000450017 = {
 	name="Jagyeon"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449018
+	father=1000450018
 	912.1.1={
 		birth=yes
 	}
@@ -1917,12 +1917,12 @@
 	}
 }
 
-1000449018 = {
+1000450018 = {
 	name="Min"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449020
+	father=1000450020
 	896.1.1={
 		birth=yes
 	}
@@ -1931,12 +1931,12 @@
 	}
 }
 
-1000449019 = {
+1000450019 = {
 	name="Gyeongjik"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449023
+	father=1000450023
 	882.1.1={
 		birth=yes
 	}
@@ -1945,12 +1945,12 @@
 	}
 }
 
-1000449020 = {
+1000450020 = {
 	name="So"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449023
+	father=1000450023
 	880.1.1={
 		birth=yes
 	}
@@ -1959,12 +1959,12 @@
 	}
 }
 
-1000449021 = {
+1000450021 = {
 	name="Hogong"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449024
+	father=1000450024
 	867.1.1={
 		birth=yes
 	}
@@ -1973,12 +1973,12 @@
 	}
 }
 
-1000449022 = {
+1000450022 = {
 	name="Cheonwon"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449024
+	father=1000450024
 	865.1.1={
 		birth=yes
 	}
@@ -1987,12 +1987,12 @@
 	}
 }
 
-1000449023 = {
+1000450023 = {
 	name="Uk"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449024
+	father=1000450024
 	864.1.1={
 		birth=yes
 	}
@@ -2001,12 +2001,12 @@
 	}
 }
 
-1000449024 = {
+1000450024 = {
 	name="Chido"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449026
+	father=1000450026
 	848.1.1={
 		birth=yes
 	}
@@ -2015,12 +2015,12 @@
 	}
 }
 
-1000449025 = {
+1000450025 = {
 	name="Hyeong"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449027
+	father=1000450027
 	835.1.1={
 		birth=yes
 	}
@@ -2029,12 +2029,12 @@
 	}
 }
 
-1000449026 = {
+1000450026 = {
 	name="Pyoryun"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449027
+	father=1000450027
 	832.1.1={
 		birth=yes
 	}
@@ -2043,12 +2043,12 @@
 	}
 }
 
-1000449027 = {
+1000450027 = {
 	name="Won"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449032
+	father=1000450032
 	816.1.1={
 		birth=yes
 	}
@@ -2057,12 +2057,12 @@
 	}
 }
 
-1000449028 = {
+1000450028 = {
 	name="Cheoryang"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449033
+	father=1000450033
 	810.1.1={
 		birth=yes
 	}
@@ -2071,12 +2071,12 @@
 	}
 }
 
-1000449029 = {
+1000450029 = {
 	name="Hong"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449033
+	father=1000450033
 	807.1.1={
 		birth=yes
 	}
@@ -2085,12 +2085,12 @@
 	}
 }
 
-1000449030 = {
+1000450030 = {
 	name="Seongjin"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449033
+	father=1000450033
 	805.1.1={
 		birth=yes
 	}
@@ -2099,12 +2099,12 @@
 	}
 }
 
-1000449031 = {
+1000450031 = {
 	name="Cheseam"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449033
+	father=1000450033
 	803.1.1={
 		birth=yes
 	}
@@ -2113,12 +2113,12 @@
 	}
 }
 
-1000449032 = {
+1000450032 = {
 	name="Dam"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449033
+	father=1000450033
 	800.1.1={
 		birth=yes
 	}
@@ -2127,12 +2127,12 @@
 	}
 }
 
-1000449033 = {
+1000450033 = {
 	name="Damyeong"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449034
+	father=1000450034
 	784.1.1={
 		birth=yes
 	}
@@ -2141,12 +2141,12 @@
 	}
 }
 
-1000449034 = {
+1000450034 = {
 	name="Seo"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449035
+	father=1000450035
 	768.1.1={
 		birth=yes
 	}
@@ -2155,12 +2155,12 @@
 	}
 }
 
-1000449035 = {
+1000450035 = {
 	name="Jiun"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449036
+	father=1000450036
 	752.1.1={
 		birth=yes
 	}
@@ -2169,12 +2169,12 @@
 	}
 }
 
-1000449036 = {
+1000450036 = {
 	name="Dam"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449038
+	father=1000450038
 	736.1.1={
 		birth=yes
 	}
@@ -2183,12 +2183,12 @@
 	}
 }
 
-1000449037 = {
+1000450037 = {
 	name="Gi"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449038
+	father=1000450038
 	720.1.1={
 		birth=yes
 	}
@@ -2197,12 +2197,12 @@
 	}
 }
 
-1000449038 = {
+1000450038 = {
 	name="Hyeonbang"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449039
+	father=1000450039
 	704.1.1={
 		birth=yes
 	}
@@ -2211,12 +2211,12 @@
 	}
 }
 
-1000449039 = {
+1000450039 = {
 	name="Suk"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449040
+	father=1000450040
 	688.1.1={
 		birth=yes
 	}
@@ -2225,12 +2225,12 @@
 	}
 }
 
-1000449040 = {
+1000450040 = {
 	name="Jihyo"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449042
+	father=1000450042
 	672.1.1={
 		birth=yes
 	}
@@ -2239,12 +2239,12 @@
 	}
 }
 
-1000449041 = {
+1000450041 = {
 	name="Ik"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449043
+	father=1000450043
 	656.1.1={
 		birth=yes
 	}
@@ -2253,12 +2253,12 @@
 	}
 }
 
-1000449042 = {
+1000450042 = {
 	name="Munseong"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449043
+	father=1000450043
 	640.1.1={
 		birth=yes
 	}
@@ -2267,12 +2267,12 @@
 	}
 }
 
-1000449043 = {
+1000450043 = {
 	name="Seongbang"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449044
+	father=1000450044
 	624.1.1={
 		birth=yes
 	}
@@ -2281,12 +2281,12 @@
 	}
 }
 
-1000449044 = {
+1000450044 = {
 	name="Jinam"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449045
+	father=1000450045
 	608.1.1={
 		birth=yes
 	}
@@ -2295,12 +2295,12 @@
 	}
 }
 
-1000449045 = {
+1000450045 = {
 	name="Seonju"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449046
+	father=1000450046
 	592.1.1={
 		birth=yes
 	}
@@ -2309,12 +2309,12 @@
 	}
 }
 
-1000449046 = {
+1000450046 = {
 	name="Dumyeong"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449047
+	father=1000450047
 	576.1.1={
 		birth=yes
 	}
@@ -2323,12 +2323,12 @@
 	}
 }
 
-1000449047 = {
+1000450047 = {
 	name="Hu"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449048
+	father=1000450048
 	560.1.1={
 		birth=yes
 	}
@@ -2337,12 +2337,12 @@
 	}
 }
 
-1000449048 = {
+1000450048 = {
 	name="Yeong"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449049
+	father=1000450049
 	540.1.1={
 		birth=yes
 	}
@@ -2351,12 +2351,12 @@
 	}
 }
 
-1000449049 = {
+1000450049 = {
 	name="Wi"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449050
+	father=1000450050
 	520.1.1={
 		birth=yes
 	}
@@ -2365,12 +2365,12 @@
 	}
 }
 
-1000449050 = {
+1000450050 = {
 	name="Hwang"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449051
+	father=1000450051
 	495.1.1={
 		birth=yes
 	}
@@ -2379,12 +2379,12 @@
 	}
 }
 
-1000449051 = {
+1000450051 = {
 	name="Uk"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449052
+	father=1000450052
 	479.1.1={
 		birth=yes
 	}
@@ -2393,12 +2393,12 @@
 	}
 }
 
-1000449052 = {
+1000450052 = {
 	name="Sik"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449053
+	father=1000450053
 	461.1.1={
 		birth=yes
 	}
@@ -2407,12 +2407,12 @@
 	}
 }
 
-1000449053 = {
+1000450053 = {
 	name="Hwan"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449054
+	father=1000450054
 	439.1.1={
 		birth=yes
 	}
@@ -2421,12 +2421,12 @@
 	}
 }
 
-1000449054 = {
+1000450054 = {
 	name="Haengcheon"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449055
+	father=1000450055
 	418.1.1={
 		birth=yes
 	}
@@ -2435,12 +2435,12 @@
 	}
 }
 
-1000449055 = {
+1000450055 = {
 	name="Bomyeong"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449056
+	father=1000450056
 	397.1.1={
 		birth=yes
 	}
@@ -2449,12 +2449,12 @@
 	}
 }
 
-1000449056 = {
+1000450056 = {
 	name="Eongyeong"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449057
+	father=1000450057
 	375.1.1={
 		birth=yes
 	}
@@ -2463,12 +2463,12 @@
 	}
 }
 
-1000449057 = {
+1000450057 = {
 	name="Doje"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449058
+	father=1000450058
 	359.1.1={
 		birth=yes
 	}
@@ -2477,12 +2477,12 @@
 	}
 }
 
-1000449058 = {
+1000450058 = {
 	name="Ilmang"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449059
+	father=1000450059
 	340.1.1={
 		birth=yes
 	}
@@ -2491,12 +2491,12 @@
 	}
 }
 
-1000449059 = {
+1000450059 = {
 	name="Samgye"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449060
+	father=1000450060
 	322.1.1={
 		birth=yes
 	}
@@ -2505,12 +2505,12 @@
 	}
 }
 
-1000449060 = {
+1000450060 = {
 	name="Geon"
 	dynasty=1000155000 #Go
 	religion="shingyo"
 	culture="tamna"
-	father=1000449061
+	father=1000450061
 	305.1.1={
 		birth=yes
 	}
@@ -2519,7 +2519,7 @@
 	}
 }
 
-1000449061 = {
+1000450061 = {
 	name="Eulla"
 	dynasty=1000155000 #Go
 	religion="shingyo"
