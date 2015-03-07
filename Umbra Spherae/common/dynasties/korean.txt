@@ -5,11 +5,11 @@
 	culture = korean
 }
 1000078000 = {
-	name="Gim"
+	name="Gim" #Gyeongju Gim
 	culture = silla
 }
 1000078001 = {
-	name="Bak"
+	name="Bak" #Juksan Bak
 	culture = silla
 }
 1000078002 = {
@@ -96,8 +96,8 @@
 
 
 
-1000078079 = { #it's the same as the main Gim, time reasons
-	name="Gim"
+1000078079 = {
+	name="Gim" #Gwangsan
 	culture = silla
 }
 # New id ranges
@@ -115,4 +115,36 @@
 	name="Bu" #Kingdom of Tamna, Jejudo
 	culture = tamna
 }
-
+#Silla
+1000155003 = {
+	name="Bak" #Pyeongsan Bak
+	culture = silla
+}
+1000155004 = {
+	name="Suk" #Gyeongju Suk
+	culture = silla
+}
+1000155005 = {
+	name="Bae" #Bae clan of Silla
+	culture = silla
+}
+1000155006 = {
+	name="Sul" #Sul clan of Silla
+	culture = silla
+}
+1000155007 = {
+	name="Yi" #Gyeongju Yi (Lee) clan of Silla
+	culture = silla
+}
+1000155008 = {
+	name="Choi" #Gyeongju Choi clan of Silla
+	culture = silla
+}
+1000155009 = {
+	name="Son" #Son clan of Silla
+	culture = silla
+}
+1000155010 = {
+	name="Jeong" #Jeong clan of Silla
+	culture = silla
+}
