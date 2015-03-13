@@ -17,12 +17,12 @@
 	culture = guryeo
 }
 1000078003 = {
-	name="Gyeon"
-	culture = baekje
+	name="Gyeon" #Hwanggan Gyeon
+	culture = korean
 }
 1000078004 = {
 	name="Gung"
-	culture = guryeo
+	culture = korean
 }
 
 1000027101 = {
@@ -93,11 +93,8 @@
 	name="Jeju"#Jeju
 	culture = korean
 }
-
-
-
 1000078079 = {
-	name="Gim" #Gwangsan
+	name="Gim" #Nagan Gim
 	culture = silla
 }
 # New id ranges
@@ -147,4 +144,33 @@
 1000155010 = {
 	name="Jeong" #Jeong clan of Silla
 	culture = silla
+}
+#Gaya
+1000155011 = {
+	name="Gim" #Gimhae Gim
+	culture = gaya
+}
+1000155012 = {
+	name="Yi" #Daegaya Yi
+	culture = gaya
+}
+1000155013 = {
+	name="Heo" #Gimhae Heo
+	culture = gaya
+}
+1000155014 = {
+	name="Shin" #Goryeong Shin
+	culture = gaya
+}
+1000155015 = {
+	name="Yeom" #Namhae Yeom
+	culture = gaya
+}
+1000155016 = {
+	name="Jung" #Namhae Jung
+	culture = gaya
+}
+1000155017 = {
+	name="Na" #Goryeong Na
+	culture = gaya
 }
