@@ -866,7 +866,6 @@ k_goguryeo = {
 					gaya = "Dae Gaya"
 				}
 				b_jin = {
-					gaya = "Ara Gaya"
 				}
 				b_tongyeong = {
 					gaya = "So Gaya"

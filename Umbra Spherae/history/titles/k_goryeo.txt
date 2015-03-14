@@ -1,8 +1,3 @@
-#Gung Dynasty
-901.1.1={
-	holder=1000202746 #Ye
-}
-
 #Wang Dynasty
 918.6.15={
 	holder=1000075501 #Geon

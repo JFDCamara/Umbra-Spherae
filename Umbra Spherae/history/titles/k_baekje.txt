@@ -1,4 +1,10 @@
 #Gyeon Dynasty
+822.1.1={
+	holder=1000450357 #Gim Gyeongun
+}
+822.9.1={
+	holder=0
+}
 900.1.1={
 	holder=1000202742 #Hwon
 }

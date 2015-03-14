@@ -1,71 +1,82 @@
-#Gim Dynasty (ID splitted for time reasons)
-702.1.1={
+#Silla
+663.8.1={
 	liege="k_silla"
+	holder=1000450284 #Munmu
 }
-702.1.1={
-	holder=1000203833 #Heunggwang
+681.1.1={
+	holder=1000450297 #Sinmun
 }
-737.1.1={
-	holder=1000203832 #Seunggyeom
+692.1.1={
+	holder=1000450301 #Hyoso
+}
+702.10.1={
+	holder=1000450302 #Seongdeok
+}
+736.1.1={
+	holder=1000450308 #Hyoseong
 }
 742.1.1={
-	holder=1000203831 #Heonyeong
+	holder=1000450309 #Gyeongdeok
 }
 765.1.1={
-	holder=1000203830 #Geonun
+	holder=1000450310 #Hyegong
 }
-780.1.1={
-	holder=1000203834 #Yangsang
+780.4.1={
+	holder=1000450325 #Seondeok
 }
-
-
-#Gim Dynasty
 785.1.1={
-	holder=1000202688 #Gyeongsin
+	holder=1000450335 #Wonseong
 }
 798.1.1={
-	holder=1000202690 #Junong
+	holder=1000450340 #Soseong
 }
 800.1.1={
-	holder=1000202691 #Cheongmyoeng
+	holder=1000450348 #Aejang
 }
 809.1.1={
-	holder=1000202692 #Eonseung
+	holder=1000450354 #Heondeok
+}
+822.1.1={
+	liege="k_baekje"
+	holder=1000450357 #Gim Gyeongun
+}
+822.9.1={
+	liege="k_silla"
+	holder=1000450354 #Heondeok
 }
 826.1.1={
-	holder=1000202693 #Gyeonghwi
+	holder=1000450360 #Heungdeok
 }
 836.1.1={
-	holder=1000202697 #Jeong
+	holder=1000450363 #Huigang
 }
 838.1.1={
-	holder=1000202699 #Myeong
+	holder=1000450367 #Minae
 }
-839.1.1={
-	holder=1000202702 #Ujing
+839.5.1={
+	holder=1000450370 #Sinmu
 }
-839.6.1={
-	holder=1000202703 #Gyeongeung
+839.8.1={
+	holder=1000450372 #Munseong
 }
 857.1.1={
-	holder=1000202718 #Uijeong
+	holder=1000450373 #Heonan
 }
 861.1.1={
-	holder=1000202705 #Eungryeom
+	holder=1000450376 #Gyeongmun
 }
 875.1.1={
-	holder=1000202707 #Jeong
+	holder=1000450378 #Heongang
 }
 886.1.1={
-	holder=1000202708 #Hwang
+	holder=1000450379 #Jeonggang
 }
 887.1.1={
-	holder=1000202709 #Man
+	holder=1000450380 #Queen Jeonggang
 }
-897.1.1={
-	holder=1000202710 #Yo
+897.7.4={
+	holder=1000450383 #Hyogong
 }
-
 #Gyeon Dynasty
 900.1.1={
 	liege="k_baekje"

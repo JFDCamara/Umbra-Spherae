@@ -2005,23 +2005,36 @@
 
 #Early Royal Family of Silla
 
+1000450243 = {
+	name="Hyeokgeose"
+	dynasty=1000155003 #Pyeongsan Bak
+	religion="shingyo"
+	culture="silla"
+	add_trait="seonggol"
+	-69.1.1={
+		birth=yes
+	}
+	4.1.1={
+		death=yes
+	}
+}
 1000450062 = {
 	name="Namhae"
 	dynasty=1000155003 #Pyeongsan Bak
 	religion="shingyo"
 	culture="silla"
 	add_trait="seonggol"
-	3.1.1={
+	father=1000450243
+	-38.1.1={
 		birth=yes
 	}
-	18.1.1={
+	4.1.1={
 		add_spouse=1000450063
 	}
 	24.1.1={
 		death=yes
 	}
 }
-
 1000450063 = {
 	name="Unje"
 	dynasty=1000155005 #Bae
@@ -2029,7 +2042,7 @@
 	religion="shingyo"
 	culture="silla"
 	add_trait="seonggol"
-	3.1.1={
+	-15.1.1={
 		birth=yes
 	}
 	42.1.1={
@@ -2092,7 +2105,7 @@
 	religion="shingyo"
 	culture="silla"
 	add_trait="seonggol"
-	8.1.1={
+	3.1.1={
 		birth=yes
 	}
 	38.1.1={
@@ -2769,7 +2782,7 @@
 	}
 }
 1000450111 = {
-	name="Yunsoo"
+	name="Yunsu"
 	female=yes
 	dynasty=1000078000 #Gyeongju Gim
 	religion="shingyo"
@@ -3416,7 +3429,7 @@
 	}
 }
 1000450151 = {
-	name="Jinjoo"
+	name="Jinju"
 	dynasty=1000155003 #Gyeongju Suk
 	religion="shingyo"
 	culture="silla"
@@ -4863,25 +4876,12 @@
 		death=yes
 	}
 }
-1000450243 = {
-	name="Geodeung"
-	dynasty=1000155011 #Gimhae Gim
-	religion="shingyo"
-	culture="gaya"
-	father=1000450242
-	167.1.1={
-		birth=yes
-	}
-	259.1.1={
-		death=yes
-	}
-}
 1000450244 = {
 	name="Geodeung"
 	dynasty=1000155011 #Gimhae Gim
 	religion="shingyo"
 	culture="gaya"
-	father=1000450243
+	father=1000450242
 	167.1.1={
 		birth=yes
 	}
@@ -4967,7 +4967,7 @@
 	}
 }
 1000450250 = {
-	name="Geojilmi"
+	name="Ipum"
 	dynasty=1000155011 #Gimhae Gim
 	religion="shingyo"
 	culture="gaya"

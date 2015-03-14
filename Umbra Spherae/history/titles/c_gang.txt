@@ -1,85 +1,55 @@
-#Gim Dynasty (ID splitted for time reasons)
-702.1.1={
-	liege="k_silla"
+#Gaya Confederacy
+42.1.1={
+	liege="d_gaya"
+	holder=1000450209 #Gim Suro
 }
-702.1.1={
-	holder=1000203833 #Heunggwang
+115.1.1={
+	holder=1000450231 #Gim Suru
 }
-737.1.1={
-	holder=1000203832 #Seunggyeom
+143.1.1={
+	holder=1000450242 #Gim Surong
 }
-742.1.1={
-	holder=1000203831 #Heonyeong
+199.1.1={
+	holder=1000450244 #Gim Geodeung
 }
-765.1.1={
-	holder=1000203830 #Geonun
+259.1.1={
+	holder=1000450246 #Gim Mapum
 }
-780.1.1={
-	holder=1000203834 #Yangsang
+291.1.1={
+	holder=1000450248 #Gim Geojilmi
 }
-
-
-#Gim Dynasty
-785.1.1={
-	holder=1000202688 #Gyeongsin
+346.1.1={
+	holder=1000450250 #Gim Ipum
 }
-798.1.1={
-	holder=1000202690 #Junong
+407.1.1={
+	holder=1000450252 #Gim Jwaji
 }
-800.1.1={
-	holder=1000202691 #Cheongmyoeng
+421.1.1={
+	holder=1000450254 #Gim Chwihui
 }
-809.1.1={
-	holder=1000202692 #Eonseung
+451.1.1={
+	holder=1000450256 #Gim Jilji
 }
-826.1.1={
-	holder=1000202693 #Gyeonghwi
+492.1.1={
+	holder=1000450258 #Gim Gyeomji
 }
-836.1.1={
-	holder=1000202697 #Jeong
+521.1.1={
+	holder=1000450260 #Gim Guhyeong
 }
-838.1.1={
-	holder=1000202699 #Myeong
+556.1.1={
+	holder=1000450264 #Gim Muryeok
 }
-839.1.1={
-	holder=1000202702 #Ujing
+587.1.1={
+	holder=1000450265 #Gim Gangwon
 }
-839.6.1={
-	holder=1000202703 #Gyeongeung
+602.1.1={
+	holder=1000450266 #Gim Seohyeon
 }
-857.1.1={
-	holder=1000202718 #Uijeong
+629.1.1={
+	holder=1000450269 #Gim Yushin
 }
-861.1.1={
-	holder=1000202705 #Eungryeom
-}
-875.1.1={
-	holder=1000202707 #Jeong
-}
-886.1.1={
-	holder=1000202708 #Hwang
-}
-887.1.1={
-	holder=1000202709 #Man
-}
-897.1.1={
-	holder=1000202710 #Yo
-}
-
-#Bak Dynasty
-912.1.1={
-	holder=1000202715 #Gyeonghwi
-}
-917.1.1={
-	holder=1000202716 #Seungyeong
-}
-924.1.1={
-	holder=1000202717 #Wieung
-}
-
-#Gim Dynasty (restored)
-927.1.1={
-	holder=1000202713 #Bu
+673.8.18={
+	holder=1000450277 #Gim Yujin
 }
 
 #Wang Dynasty
