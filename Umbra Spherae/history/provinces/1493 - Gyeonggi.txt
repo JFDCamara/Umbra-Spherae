@@ -4,7 +4,7 @@
 title = c_gyeonggi
 
 # Settlements
-max_settlements = 6
+max_settlements = 7
 b_manwoldae = castle
 b_kaesong = city
 b_songrim = castle

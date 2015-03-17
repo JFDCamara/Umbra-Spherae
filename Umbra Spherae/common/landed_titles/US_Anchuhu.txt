@@ -70,6 +70,8 @@ k_goguryeo = {
 				color2 = { 255 255 255  }
 
 				b_yongju = {
+					holy_site = jurchen_pagan
+					holy_site = jurchen_pagan_reformed
 				}
 				b_hoju = {
 				}
@@ -298,6 +300,7 @@ k_goguryeo = {
 				b_pungju = {
 					holy_site = jurchen_pagan
 					holy_site = jurchen_pagan_reformed
+					holy_site = shingyo
 				}
 				b_jeongju_amnok = {
 				}
@@ -359,7 +362,9 @@ k_goguryeo = {
 		color={ 147 147 147 }
 		color2={ 255 255 255 }
 		
-		culture = jurchen
+		culture_group = tungusic
+		
+		mohe = "Mohe"
 
 		d_girin_ula = {
 
@@ -376,6 +381,8 @@ k_goguryeo = {
 				b_ghuadneng = {
 				}
 				b_jurchenkhyukkrung = {
+					holy_site = jurchen_pagan
+					holy_site = jurchen_pagan_reformed
 				}
 				b_jurchenngiechjyn = {
 				}
@@ -519,6 +526,7 @@ k_goguryeo = {
 				color2 = { 255 255 255  }
 			
 				b_pyongyang = {
+					holy_site = shingyo
 				}
 				b_an = {
 				}
@@ -607,6 +615,7 @@ k_goguryeo = {
 				color2 = { 255 255 255  }
 		
 				b_hanyang = {
+					holy_site = shingyo
 				}
 				b_gwang = {
 				}
@@ -781,6 +790,7 @@ k_goguryeo = {
 				b_seogwipo = {
 				}
 				b_halla = {
+					holy_site = shingyo
 				}
 				b_marado = {
 				}
@@ -804,6 +814,7 @@ k_goguryeo = {
 				color2 = { 255 255 255  }
 		
 				b_sang = {
+					holy_site = shingyo
 				}
 				b_yeong = {
 				}
