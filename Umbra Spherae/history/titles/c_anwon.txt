@@ -1,53 +1,55 @@
-#Dae Dynasty
+#Balhae
+668.1.1={
+	holder=1000450572 #Geolsa Biu
+}
 698.1.1={
 	liege="k_balhae"
 }
 698.1.1={
-	holder=1000202720 #Joyeong
+	holder=1000450575 #Go
 }
 719.1.1={
-	holder=1000202721 #Muye
+	holder=1000450577 #Mu
 }
 737.1.1={
-	holder=1000202722 #Heummu
+	holder=1000450586 #Mun
 }
 793.1.1={
-	holder=1000202723 #Wonui
+	holder=1000450587 #Wonui
 }
 794.1.1={
-	holder=1000202725 #Hwayeo
+	holder=1000450593 #Seong
 }
 794.6.1={
-	holder=1000202726 #Sungrin
+	holder=1000450594 #Gang
 }
 809.1.1={
-	holder=1000202727 #Wonyu
+	holder=1000450595 #Jeong
 }
 812.1.1={
-	holder=1000202728 #Eonui
+	holder=1000450596 #Hui
 }
 817.1.1={
-	holder=1000202729 #Myeungchung
+	holder=1000450597 #Gan
 }
 818.1.1={
-	holder=1000202734 #Insu
+	holder=1000450601 #Seon
 }
 830.1.1={
-	holder=1000202736 #Ijin
+	holder=1000450604 #Ijin
 }
 857.1.1={
-	holder=1000202737 #Geonhwang
+	holder=1000450606 #Geonhwang
 }
 871.1.1={
-	holder=1000202738 #Hyeonseok
+	holder=1000450607 #Hyeonseok
 }
-893.1.1={
-	holder=1000202739 #Wihae
+885.1.1={
+	holder=1000450608 #Winhae
 }
 906.1.1={
-	holder=1000202740 #Inseon
+	holder=1000450609 #Inseon
 }
-
 #Yelu Dynasty
 926.1.1 = {
 	liege="k_dan_gur"

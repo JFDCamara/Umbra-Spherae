@@ -17,4 +17,3 @@ religion = shingyo
 # History
 
 936.1.1 = { culture = korean }
-1050.1.1 = { culture = jurchen religion = jurchen_pagan }

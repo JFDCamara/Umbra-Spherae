@@ -53,3 +53,30 @@
 673.8.18={
 	holder=1000450277 #Gim Yujin
 }
+697.1.1={
+	holder=1000450399 #Gim Soyul
+}
+717.1.1={
+	holder=1000450400 #Gim Jobang
+}
+753.1.1={
+	holder=1000450401 #Gim Gaejin
+}
+789.1.1={
+	holder=1000450402 #Gim Inman
+}
+828.1.1={
+	holder=1000450403 #Gim Sujin
+}
+867.1.1={
+	holder=1000450404 #Gim Gwangmo
+}
+899.1.1={
+	holder=1000450405 #Gim Yugyeong
+}
+922.1.1={
+	holder=1000450406 #Gim Taeung
+}
+935.1.1={
+	holder=0
+}

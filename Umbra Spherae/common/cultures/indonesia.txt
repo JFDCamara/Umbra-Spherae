@@ -533,7 +533,7 @@ bornean = {
 		modifier = default_culture_modifier
 	}
 	malagasy = { 
-		graphical_culture = africangfx
+		graphical_culture = mongolgfx
 		
 		color = { 0.4 0.2 0.1 }
 

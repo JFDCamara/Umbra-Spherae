@@ -16,6 +16,6 @@ b_manjery = castle
 
 # Misc
 culture = andamanese
-religion = malagasy_religion
+religion = melanesian_religion
 
 # History
