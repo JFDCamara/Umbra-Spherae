@@ -302,7 +302,6 @@ sickly = {
 	
 	health = -2.5
 	
-	customizer = no
 	random = no
 	customizer = no
 }
@@ -701,12 +700,14 @@ mahayana_buddhist = {
 	vassal_opinion = 5
 
 	potential = { 
+	OR = {
 		religion = shenjiao
 		religion = thangiao
 		religion = shingyo
 		religion = nihon_shinto
 		religion = ryukyu_shinto
 		religion = tao
+		}
 	}
 	religious_branch = mahayana
 	random = no
@@ -725,12 +726,14 @@ vajrayana_buddhist = {
 	health = 1
 
 	potential = { 
+	OR = {
 		religion = shenjiao
 		religion = thangiao
 		religion = shingyo
 		religion = nihon_shinto
 		religion = ryukyu_shinto
 		religion = tao
+		}
 	}
 	religious_branch = vajrayana
 	random = no
@@ -749,12 +752,14 @@ theravada_buddhist = {
 	learning = 1
 
 	potential = { 
+	OR = {
 		religion = shenjiao
 		religion = thangiao
 		religion = shingyo
 		religion = nihon_shinto
 		religion = ryukyu_shinto
 		religion = tao
+		}
 	}
 	religious_branch = buddhist
 	random = no

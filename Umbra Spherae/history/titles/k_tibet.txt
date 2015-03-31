@@ -90,7 +90,7 @@
 	holder = 0
 }
 842.1.1={
-	liege=""
+	liege=0
 	capital = 1269 # Lhasa
 	holder = 1000077187
 }#Regent

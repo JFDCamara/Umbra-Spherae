@@ -20,17 +20,17 @@
 
 1000027347 = {
 	name="Chakhar"
-	culture = monpa
+	culture = bodpa
 }
 
 1000027348 = {
 	name="Lhomon"
-	culture = monpa
+	culture = bodpa
 }
 
 1000027349 = {
 	name="Monyul"
-	culture = monpa
+	culture = bodpa
 }
 
 1000027350 = {
@@ -212,7 +212,7 @@
 }
 1000028339 = {
 	name="Baima"
-	culture = baima
+	culture = qiang
 }
 1000028340 = {
 	name="Xining"

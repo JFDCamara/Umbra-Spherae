@@ -5,11 +5,11 @@
 	dynasty=1000027300 #Yarlung
 	religion="bon"
 	culture="bodpa"
-	-158.1.1={
-		birth="-158.1.1"
-	}
 	3.1.1={
-		death="3.1.1"
+		birth=yes
+	}#-158
+	3.1.1={
+		death=yes
 	}#-89
 }
 
@@ -19,11 +19,11 @@
 	religion="bon"
 	culture="bodpa"
 	father=1000077095
-	-124.1.1={
-		birth="-124.1.1"
-	}
 	3.1.1={
-		death="3.1.1"
+		birth=yes
+	}#-124
+	3.1.1={
+		death=yes
 	}#-76
 }
 
@@ -33,11 +33,11 @@
 	religion="bon"
 	culture="bodpa"
 	father=1000077096
-	-101.1.1={
-		birth="-101.1.1"
-	}
 	3.1.1={
-		death="3.1.1"
+		birth=yes
+	}#-101
+	3.1.1={
+		death=yes
 	}#-42
 }
 
@@ -47,11 +47,11 @@
 	religion="bon"
 	culture="bodpa"
 	father=1000077097
-	-79.1.1={
-		birth="-79.1.1"
-	}
 	3.1.1={
-		death="3.1.1"
+		birth=yes
+	}#-79
+	3.1.1={
+		death=yes
 	}#-29
 }
 
@@ -61,11 +61,11 @@
 	religion="bon"
 	culture="bodpa"
 	father=1000077098
-	-65.1.1={
-		birth="-65.1.1"
-	}
 	3.1.1={
-		death="3.1.1"
+		birth=yes
+	}#-65
+	3.1.1={
+		death=yes
 	}#-15
 }
 
@@ -75,11 +75,11 @@
 	religion="bon"
 	culture="bodpa"
 	father=1000077099
-	-44.1.1={
-		birth="-44.1.1"
-	}
 	3.1.1={
-		death="3.1.1"
+		birth=yes
+	}#-44
+	3.1.1={
+		death=yes
 	}
 }
 
@@ -89,11 +89,11 @@
 	religion="bon"
 	culture="bodpa"
 	father=1000077100
-	-30.1.1={
-		birth="-30.1.1"
-	}
+	3.1.1={
+		birth=yes
+	}#-30
 	22.1.1={
-		death="22.1.1"
+		death=yes
 	}
 }
 
@@ -103,11 +103,11 @@
 	religion="bon"
 	culture="bodpa"
 	father=1000077101
-	-11.1.1={
-		birth="-11.1.1"
-	}
+	3.1.1={
+		birth=yes
+	}#-11
 	38.1.1={
-		death="38.1.1"
+		death=yes
 	}
 }
 
@@ -562,7 +562,7 @@
 	female=yes
 	dynasty=1000027360 #Licchavi
 	religion="vajrayana"
-	culture="maithili"
+	culture="nepali"
 	608.1.1={
 		birth="608.1.1"
 	}
@@ -1109,7 +1109,7 @@
 	female=yes
 	dynasty=1000027360 #Licchavi
 	religion="vajrayana"
-	culture="maithili"
+	culture="nepali"
 	740.1.1={
 		birth="740.1.1"
 	}
@@ -3770,7 +3770,7 @@
 	dynasty=1000027359 #Gar
 	religion="vajrayana"
 	culture="bodpa"
-	father=1000077354
+	father=1000083263
 	1237.1.1={
 		birth="1237.1.1"
 	}
@@ -3784,7 +3784,7 @@
 	dynasty=1000027359 #Gar
 	religion="vajrayana"
 	culture="bodpa"
-	father=1000077354
+	father=1000083263
 	1240.1.1={
 		birth="1240.1.1"
 	}

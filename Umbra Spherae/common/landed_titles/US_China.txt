@@ -4276,8 +4276,6 @@ e_china = {
 				color2={ 10 10 10 }
 
 				b_sekcin = {
-					holy_site = jurchen_pagan
-					holy_site = jurchen_pagan_reformed
 				}
 				b_yanxbjen = {
 				}

@@ -387,8 +387,6 @@ e_mongol_empire = {
 				color2= { 99 137 153  }
 
 				b_santmargats = {
-					holy_site = jurchen_pagan
-					holy_site = jurchen_pagan_reformed
 				}
 				b_songino = {
 				}

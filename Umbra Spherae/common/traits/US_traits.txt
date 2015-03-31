@@ -36,9 +36,9 @@ chivalrous = {
 		NOT = { 
 			culture = japanese
 			religion_group = muslim
-			religion_group = indian
-			culture_group = chinese
-			culture_group = korean_group
+			religion_group = indian_group
+			religion_group = chinese_religion
+			religion_group = buddhism_group
 		}
 	}
 	opposites =  {
@@ -105,7 +105,8 @@ furusiyya = {
 dharma = {
 	lifestyle = yes
 	potential = {
-		religion_group = indian
+		religion_group = indian_group
+		religion_group = buddhism_group
 	}
 	opposites =  {
 		ruthless
@@ -175,11 +176,13 @@ tea_master = {
 	lifestyle = yes
 	
 	potential = {
-		culture_group = japanese
+	OR = {
+		culture_group = far_east
 		culture_group = chinese
 		culture_group = korean_group
 		culture_group = di
 		culture_group = vietic
+		}
 	}
 	
 	intrigue = 1
@@ -214,11 +217,13 @@ go_player = {
 	lifestyle = yes
 	
 	potential = {
-		culture_group = japanese
+	OR = {
+		culture_group = far_east
 		culture_group = chinese
 		culture_group = korean_group
 		culture_group = di
 		culture_group = vietic
+		}
 	}
 	
 	opposites =  {
@@ -373,7 +378,6 @@ seonggol = {
 	agnatic = yes # Always inherited from fathers
 	potential = {
 			culture = silla
-			mother = { has_trait = seonggol }
 	}
 	
 	opposites =  {
@@ -410,6 +414,7 @@ jingol = {
 	monthly_character_prestige = 0.5
 }
 dupum = {
+	agnatic = yes # Always inherited from fathers
 	potential = {
 			culture = silla
 	}
