@@ -372,6 +372,8 @@ culture = {
 		"tengri_pagan"
 		"jurchen_pagan_reformed"
 		"jurchen_pagan"
+		"ainu_pantheism_reformed"
+		"ainu_pantheism"
 	}
 	
 	templates = { 
@@ -719,8 +721,6 @@ culture ={
 	religion = {
 		"nihon_shinto"
 		"ryukyu_shinto"
-		"ainu_pantheism_reformed"
-		"ainu_pantheism"
 	}
 
     templates = { 

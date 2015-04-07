@@ -119,6 +119,9 @@
 
 #Wang Dynasty
 918.6.15={
+	liege="k_goryeo"
+}
+918.6.15={
 	holder=1000075501 #Geon
 }
 943.7.4={

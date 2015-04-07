@@ -1052,3 +1052,23 @@
 	name="Heung" #Heung
 	culture = korean
 }
+1000155236 = {
+	name="Shin" #Pyeongsan Shin
+	culture = korean
+}
+1000155237 = {
+	name="Seo" #Icheon Seo
+	culture = korean
+}
+1000155238 = {
+	name="Choe" #Gyeongju Choe
+	culture = korean
+}
+1000155239 = {
+	name="Choe" #Haeju Choe
+	culture = korean
+}
+1000155240 = {
+	name="Choe" #Ubong Choe
+	culture = korean
+}
