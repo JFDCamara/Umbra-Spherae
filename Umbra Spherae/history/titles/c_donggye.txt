@@ -73,65 +73,63 @@
 809.1.1={
 	holder=1000450354 #Heondeok
 }
-826.1.1={
-	holder=1000450360 #Heungdeok
+#Balhae
+820.1.1={
+	liege="k_balhae"
 }
-836.1.1={
-	holder=1000450363 #Huigang
+820.1.1={
+	holder=1000450601 #Seon
 }
-838.1.1={
-	holder=1000450367 #Minae
-}
-839.5.1={
-	holder=1000450370 #Sinmu
-}
-839.8.1={
-	holder=1000450372 #Munseong
+830.1.1={
+	holder=1000450604 #Ijin
 }
 857.1.1={
-	holder=1000450373 #Heonan
+	holder=1000450606 #Geonhwang
 }
-861.1.1={
-	holder=1000450376 #Gyeongmun
+871.1.1={
+	holder=1000450607 #Hyeonseok
 }
-875.1.1={
-	holder=1000450378 #Heongang
+885.1.1={
+	holder=1000450608 #Winhae
 }
-886.1.1={
-	holder=1000450379 #Jeonggang
+906.1.1={
+	holder=1000450609 #Inseon
 }
-887.1.1={
-	holder=1000450380 #Queen Jeonggang
+#Yelu Dynasty
+926.1.1 = {
+	liege="k_dan_gur"
 }
-897.7.4={
-	holder=1000450383 #Hyogong
+926.1.1 = {
+	holder=1000202509 #Bei
 }
-#Gung Dynasty
-901.1.1={
-	liege="k_goguryeo"
-	holder=1000202746 #Ye
+930.1.1 = {
+	holder=1000202510 #Ruan
 }
 
-#Wang Dynasty
-918.6.15={
+#Wanyan Dynasty
+936.1.1 = {
+	liege="k_jurchens"
+}
+936.1.1 = {
+	holder=1000202534 #Oboi
+}
+941.1.1 = {
+	holder=1000202536 #Hanpu
+}
+960.1.1 = {
+	holder=1000202538 #Wulu
+}
+962.1.1 = {
+	holder=1000202541 #Bahai
+}
+983.1.1 = {
+	holder=1000202543 #Seiku
+}
+#Goryeo
+993.1.1={
 	liege="k_goryeo"
 }
-918.6.15={
-	holder=1000075501 #Geon
-}
-943.7.4={
-	holder=1000075502 #Mu
-}
-945.9.15={
-	holder=1000075503 #Yo
-}
-949.3.1={
-	holder=1000075504 #So
-}
-975.5.23={
-	holder=1000075505 #Ju
-}
-981.7.11={
+993.1.1={
 	holder=1000075507 #Chi
 }
 997.11.29={

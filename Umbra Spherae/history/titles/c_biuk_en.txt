@@ -82,34 +82,28 @@
 805.8.31={
 	holder=1000202676 #Chun
 }
-820.2.14={
-	holder=1000202678 #Heng
+#Balhae
+820.1.1={
+	liege="k_balhae"
 }
-824.2.25={
-	holder=1000202680 #Zhan
+820.1.1={
+	holder=1000450601 #Seon
 }
-827.1.9={
-	holder=1000202681 #Ang
+830.1.1={
+	holder=1000450604 #Ijin
 }
-840.2.10={
-	holder=1000202682 #Yan
+857.1.1={
+	holder=1000450606 #Geonhwang
 }
-846.4.22={
-	holder=1000202679 #Chen
+871.1.1={
+	holder=1000450607 #Hyeonseok
 }
-859.9.7={
-	holder=1000202683 #Cui
+885.1.1={
+	holder=1000450608 #Winhae
 }
-873.8.15={
-	holder=1000202684 #Xuan
+906.1.1={
+	holder=1000450609 #Inseon
 }
-888.4.20={
-	holder=1000202685 #Ye
-}
-904.9.22={
-	holder=1000202686 #Zhu
-}
-
 #Yelu Dynasty
 907.2.27 = {
 	liege="e_kitai"
