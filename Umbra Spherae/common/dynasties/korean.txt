@@ -26,7 +26,7 @@
 }
 
 1000027101 = {
-	name="Yi"
+	name="Yi" #Gyeongwon Yi
 	culture = korean
 }
 1000027800 = {
@@ -134,7 +134,7 @@
 	culture = silla
 }
 1000155008 = {
-	name="Choi" #Gyeongju Choi clan of Silla
+	name="Choe" #Gyeongju Choe clan of Silla
 	culture = silla
 }
 1000155009 = {
@@ -159,7 +159,7 @@
 	culture = gaya
 }
 1000155014 = {
-	name="Shin" #Goryeong Shin
+	name="Sin" #Goryeong Sin
 	culture = gaya
 }
 1000155015 = {
@@ -1053,7 +1053,7 @@
 	culture = korean
 }
 1000155236 = {
-	name="Shin" #Pyeongsan Shin
+	name="Sin" #Pyeongsan Sin
 	culture = korean
 }
 1000155237 = {
@@ -1070,5 +1070,29 @@
 }
 1000155240 = {
 	name="Choe" #Ubong Choe
+	culture = korean
+}
+1000155241 = {
+	name="Gim" #Eonyang Gim
+	culture = korean
+}
+1000155242 = {
+	name="Yi" #Jeonju Yi
+	culture = korean
+}
+1000155243 = {
+	name="Bojo" #Bojo
+	culture = korean
+}
+1000155244 = {
+	name="Jeong" #Yeongil Jeong
+	culture = korean
+}
+1000155245 = {
+	name="Yi" #Hansan Yi
+	culture = korean
+}
+1000155246 = {
+	name="Yi" #Yi Uimin's clan
 	culture = korean
 }

@@ -105,8 +105,10 @@ furusiyya = {
 dharma = {
 	lifestyle = yes
 	potential = {
-		religion_group = indian_group
-		religion_group = buddhism_group
+		OR={
+			religion_group = indian_group
+			religion_group = buddhism_group
+		}
 	}
 	opposites =  {
 		ruthless

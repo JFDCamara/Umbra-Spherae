@@ -1051,6 +1051,46 @@
 	}
 }
 
+1000450908 = {
+	name="Toghon-Temür"
+	dynasty=11100
+	religion="confucian"
+	culture="mongol"
+	father=1000202476
+	1320.5.25={
+		birth=yes
+	}
+	1370.5.23={
+		death=yes
+	}
+}
+1000450921 = {
+	name="Amüge"
+	dynasty=11100
+	religion="confucian"
+	culture="mongol"
+	father=1000202469
+	1279.1.1={
+		birth=yes
+	}
+	1324.1.1={
+		death=yes
+	}
+}
+1000450922 = {
+	name="Bayr-Temür"
+	dynasty=11100
+	religion="confucian"
+	culture="mongol"
+	father=1000450921
+	1295.1.1={
+		birth=yes
+	}
+	1351.1.1={
+		death=yes
+	}
+}
+
 #Jalair
 1000081052 = {
 	name="Ikh-Bukh"#Imaginary/placeholder

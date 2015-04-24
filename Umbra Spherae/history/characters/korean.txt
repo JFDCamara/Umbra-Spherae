@@ -284,6 +284,9 @@
 	1047.12.28={
 		birth=yes
 	}
+	1083.9.2={
+		name="Sunjong"
+	}
 	1083.12.5={
 		death=yes
 	}
@@ -298,6 +301,16 @@
 	1049.10.9={
 		birth=yes
 	}
+	1065.1.1={
+		add_spouse=1000450800
+	}
+	1083.12.5={
+		name="Seongjong"
+		effect = { add_consort=1000450801 }
+	}
+	1092.1.1={
+		add_spouse=1000450801
+	}
 	1094.6.17={
 		death=yes
 	}
@@ -308,8 +321,12 @@
 	religion="shingyo"
 	culture="korean"
 	father=1000075515
+	mother=1000450801
 	1084.8.1={
 		birth=yes
+	}
+	1094.6.17={
+		name="Heonjong"
 	}
 	1097.11.6={
 		death=yes
@@ -325,84 +342,125 @@
 	1054.9.2={
 		birth=yes
 	}
+	1071.1.1={
+		add_spouse=1000450807
+	}
 	1094.1.1={
 		name="Ong"
+	}
+	1095.1.1={
+		name="Sukjong"
 	}
 	1105.11.10={
 		death=yes
 	}
 }
-
 1000202747 = {
 	name="U"
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
 	father=1000075517
+	mother=1000450807
 	1079.2.11={
 		birth=yes
+	}
+	1095.1.1={
+		add_spouse=1000450803
+	}
+	1105.11.10={
+		name="Yejong"
+	}
+	1108.1.1={
+		add_spouse=1000450809
 	}
 	1122.5.15={
 		death=yes
 	}
 }
-
 1000202748 = {
 	name="Hae"
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
 	father=1000202747
+	mother=1000450809
 	1109.10.29={
 		birth=yes
+	}
+	1122.5.15={
+		name="Injong"
+	}
+	1126.1.1={
+		add_spouse=1000450841
 	}
 	1146.4.10={
 		death=yes
 	}
 }
-
 1000202749 = {
 	name="Hyeon"
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
 	father=1000202748
+	mother=1000450841
 	1127.5.23={
 		birth=yes
+	}
+	1144.1.1={
+		add_spouse=1000450843
+	}
+	1146.4.10={
+		name="Uijong"
+	}
+	1163.1.1={
+		add_spouse=1000450845
 	}
 	1173.11.7={
 		death=yes
 	}
 }
-
 1000202750 = {
 	name="Ho"
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
 	father=1000202748
+	mother=1000450841
 	1131.11.8={
 		birth=yes
+	}
+	1151.1.1={
+		add_spouse=1000450899
+	}
+	1170.10.1={
+		name="Myeongjong"
 	}
 	1202.12.3={
 		death=yes
 	}
 }
-
 1000202751 = {
 	name="Tak"
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
 	father=1000202748
+	mother=1000450841
+	add_trait="genius"
+	add_trait="kind"
+	add_trait="just"
 	1144.8.11={
 		birth=yes
+	}
+	1197.1.1={
+		name="Sinjong"
 	}
 	1204.2.15={
 		death=yes
 	}
 }
-
 1000202752 = {
 	name="Yeong"
 	dynasty=1000027100 #Wang
@@ -412,31 +470,40 @@
 	1181.6.21={
 		birth=yes
 	}
+	1204.2.15={
+		name="Huijong"
+	}
 	1237.8.31={
 		death=yes
 	}
 }
-
 1000202753 = {
 	name="O"
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
 	father=1000202750
+	mother=1000450899
 	1152.5.10={
 		birth=yes
+	}
+	1170.1.1={
+		add_spouse=1000450900
+	}
+	1211.1.1={
+		name="Gangjong"
 	}
 	1213.8.26={
 		death=yes
 	}
 }
-
 1000202754 = {
 	name="Cheol"
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
 	father=1000202753
+	mother=1000450900
 	1192.2.3={
 		birth=yes
 	}
@@ -447,9 +514,8 @@
 		death=yes
 	}
 }
-
 1000202755 = {
-	name="Anhyetaehu"
+	name="Anhye"
 	female=yes
 	dynasty=1000027100 #Wang
 	religion="shingyo"
@@ -458,11 +524,10 @@
 	1200.1.1={
 		birth=yes
 	}
-	1259.7.21={
+	1248.1.1={
 		death=yes
 	}
 }
-
 1000202756 = {
 	name="Sik"
 	dynasty=1000027100 #Wang
@@ -473,13 +538,15 @@
 	1219.4.5={
 		birth=yes
 	}
+	1259.7.21={
+		name="Wonjong"
+	}
 	1274.7.23={
 		death=yes
 	}
 }
-
 1000202757 = {
-	name="Geo"
+	name="Sim"
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
@@ -487,73 +554,119 @@
 	1236.4.3={
 		birth=yes
 	}
+	1270.1.1={
+		add_spouse=1000450901
+	}
+	1274.7.23={
+		name="Chungnyeol"
+	}
 	1308.7.30={
 		death=yes
 	}
 }
-
 1000202758 = {
 	name="Jang"
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
 	father=1000202757
+	mother=1000450901
 	1275.10.20={
 		birth=yes
+	}
+	1296.1.1={
+		add_spouse=1000450902
+	}
+	1308.7.30={
+		name="Chungseon"
+	}
+	1316.1.1={
+		effect={add_consort=1000450920}
 	}
 	1325.6.23={
 		death=yes
 	}
 }
-
 1000202759 = {
 	name="Man"
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
 	father=1000202758
+	mother=1000450902
 	1294.7.30={
 		birth=yes
+	}
+	1310.1.1={
+		add_spouse=1000450903
+	}
+	1313.1.1={
+		name="Chungsuk"
+	}
+	1329.1.1={
+		add_spouse=1000450905
 	}
 	1339.5.3={
 		death=yes
 	}
 }
-
 1000202760 = {
 	name="Jeong"
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
+	add_trait="cruel"
+	add_trait="lustful"
+	add_trait="hedonist"
 	father=1000202759
+	mother=1000450903
 	1315.2.22={
 		birth=yes
+	}
+	1330.1.1={
+		name="Chunghye"
+	}
+	1335.1.1={
+		add_spouse=1000450904
 	}
 	1344.1.30={
 		death=yes
 	}
 }
-
 1000202761 = {
-	name="Jeon"
+	name="Gi"
 	dynasty=1000027100 #Wang
 	religion="shingyo"
 	culture="korean"
 	father=1000202759
+	mother=1000450905
 	1330.5.23={
 		birth=yes
+	}
+	1341.1.1={
+		name="Jeon"
+	}
+	1349.1.1={
+		add_spouse=1000450909
+	}
+	1351.1.1={
+		name="Gongmin"
+		effect={ add_lover=1000450909 }
+	}
+	1359.4.24={
+		effect={add_consort=1000450923}
+		effect={add_consort=1000450924}
+		effect={add_consort=1000450928}
+		effect={add_consort=1000450929}
 	}
 	1374.10.27={
 		death=yes
 	}
 }
-
 #Placeholders
-
 1000075550 = {
 	name="Hyunae"
 	dynasty=1000027101 #Yi
-	female=yes
 	religion="shingyo"
 	culture="korean"
 	1021.1.1={
@@ -563,7 +676,6 @@
 		death=yes
 	}
 }
-
 100084000 = {
 	name="Jaesang" #PSY
 	dynasty=1000027800 #Gangnam
@@ -851,7 +963,7 @@
 		death=yes
 	}
 }
-1000202747 = {
+1000450955 = {
 	name="Geumgang"
 	dynasty=1000078003 #Hwanggan Gyeon
 	religion="shingyo"
@@ -1751,7 +1863,7 @@
 	}
 }
 1000450065 = {
-	name="Ahni"
+	name="Ani"
 	female=yes
 	dynasty=1000155003 #Pyeongsan Bak
 	religion="shingyo"
@@ -2799,7 +2911,7 @@
 	culture="silla"
 	add_trait="seonggol"
 	father=1000450128
-	mother=1000450129
+	mother=1000450136
 	477.1.1={
 		birth=yes
 	}
@@ -3003,7 +3115,7 @@
 	475.1.1={
 		birth=yes
 	}
-	400.1.1={
+	500.1.1={
 		add_spouse=1000450166
 	}
 	532.1.1={
@@ -3232,6 +3344,7 @@
 }
 1000450159 = {
 	name="Samyeop"
+	female=yes
 	dynasty=1000078000 #Gyeongju Gim
 	religion="shingyo"
 	culture="silla"
@@ -4815,7 +4928,7 @@
 		death=yes
 	}
 }
-1000450259 = {
+1000450261 = {
 	name="Gyehwa"
 	female=yes
 	dynasty=1000155013 #Gimhae Heo
@@ -4908,7 +5021,7 @@
 		death=yes
 	}
 }
-#Family of Kim Yushin
+#Family of Kim Yusin
 1000450267 = {
 	name="Sukheuljong"
 	dynasty=1000078000 #Gyeongju Gim
@@ -4940,7 +5053,7 @@
 	}
 }
 1000450269 = {
-	name="Yushin"
+	name="Yusin"
 	dynasty=1000155011 #Gimhae Gim
 	religion="shingyo"
 	culture="gaya"
@@ -5170,7 +5283,7 @@
 	}
 }
 1000450283 = {
-	name="Jungah"
+	name="Junga"
 	female=yes
 	dynasty=1000155011 #Gimhae Gim
 	religion="shingyo"
@@ -5213,7 +5326,6 @@
 	religion="shingyo"
 	culture="silla"
 	add_trait="jingol"
-	add_trait="twin"
 	father=1000450205
 	mother=1000450271
 	629.1.1={
@@ -5229,10 +5341,9 @@
 	religion="shingyo"
 	culture="silla"
 	add_trait="jingol"
-	add_trait="twin"
 	father=1000450205
 	mother=1000450271
-	629.1.1={
+	625.1.1={
 		birth=yes
 	}
 	665.1.1={
@@ -5842,7 +5953,7 @@
 		death=yes
 	}
 }
-1000450325 = {
+1000450942 = {
 	name="Daeseong"
 	dynasty=1000078000 #Gyeongju Gim
 	religion="shingyo"
@@ -5891,7 +6002,7 @@
 		birth=yes
 	}
 	730.1.1={
-		add_spouse=1000450333
+		add_spouse=1000450334
 	}
 	775.1.1={
 		death=yes
@@ -6205,7 +6316,7 @@
 	name="Gyehwa"
 	female=yes
 	dynasty=1000078000 #Gyeongju Gim
-	religion="jingol"
+	religion="shingyo"
 	culture="silla"
 	add_trait="jingol"
 	father=1000450346
@@ -6394,7 +6505,7 @@
 	add_trait="jingol"
 	father=1000450340
 	mother=1000450347
-	790.1.1={
+	791.1.1={
 		birth=yes
 	}
 	844.1.1={
@@ -7044,7 +7155,7 @@
 		birth=yes
 	}
 	936.1.1={
-		dynasty=1000078060 #Uiseong Gim
+		dynasty=1000155060 #Uiseong Gim
 	}#Founder of the Uiseong Gim
 	980.1.1={
 		death=yes
@@ -7065,7 +7176,7 @@
 		death=yes
 	}
 }
-#Bringing Kim Yushin's descendants forward to the end of Silla period
+#Bringing Kim Yusin's descendants forward to the end of Silla period
 1000450399 = {
 	name="Soyul"
 	dynasty=1000155011 #Gimhae Gim
@@ -8640,7 +8751,7 @@
 		death=yes
 	}
 }
-1000450526 = {
+1000450943 = {
 	name="Paso"
 	dynasty=1000155034 #Jwamul Eul
 	religion="shingyo"
@@ -8908,7 +9019,7 @@
 		death=yes
 	}
 }
-1000450524 = {
+1000450944 = {
 	name="Eumu"
 	dynasty=1000155026 #Biryu Song
 	religion="shingyo"
@@ -8920,12 +9031,12 @@
 		death=yes
 	}
 }
-1000450525 = {
+1000450945 = {
 	name="Sangnu"
 	dynasty=1000155026 #Biryu Song
 	religion="shingyo"
 	culture="guryeo"
-	father=1000450524
+	father=1000450944
 	234.1.1={
 		birth=yes
 	}
@@ -8933,7 +9044,7 @@
 		death=yes
 	}
 }
-1000450527 = {
+1000450946 = {
 	name="Jimang"
 	dynasty=1000155023 #Gyeru Go
 	religion="shingyo"
@@ -8947,12 +9058,12 @@
 		death=yes
 	}
 }
-1000450528 = {
+1000450947 = {
 	name="Noja"
 	dynasty=1000155023 #Gyeru Go
 	religion="shingyo"
 	culture="guryeo"
-	father=1000450527
+	father=1000450946
 	243.1.1={
 		birth=yes
 	}
@@ -8968,7 +9079,7 @@
 	359.1.1={
 		birth=yes
 	}
-	328.1.1={
+	428.1.1={
 		death=yes
 	}
 }
@@ -9949,7 +10060,7 @@
 		death=yes
 	}
 }
-1000450592 = {
+1000450948 = {
 	name="Mayeon"
 	female=yes
 	dynasty=1000078002 #Balhae Dae
@@ -10642,7 +10753,7 @@
 	religion="shingyo"
 	culture="baekje"
 	father=1000450626
-	mother=1000450627
+	mother=1000450643
 	207.1.1={
 		birth=yes
 	}
@@ -11436,7 +11547,7 @@
 		death=yes
 	}
 }
-1000450694 = {
+1000450949 = {
 	name="Munwon"
 	dynasty=1000027100 #Wang
 	religion="shingyo"
@@ -12175,7 +12286,7 @@
 	add_trait="jingol"
 	father=1000450387
 	mother=1000450384
-	904.1.1={
+	906.1.1={
 		birth=yes
 	}
 	935.1.1={
@@ -12488,7 +12599,7 @@
 }
 1000450761 = {
 	name="Chiyang"
-	dynasty=1000078060 #Uiseong Gim
+	dynasty=1000155060 #Uiseong Gim
 	religion="shingyo"
 	culture="korean"
 	father=1000450397
@@ -12519,7 +12630,7 @@
 }
 1000450763 = {
 	name="Jihwang"
-	dynasty=1000078060 #Uiseong Gim
+	dynasty=1000155060 #Uiseong Gim
 	religion="shingyo"
 	culture="korean"
 	father=1000450761
@@ -12582,7 +12693,7 @@
 	895.1.1={
 		birth=yes
 	}
-	836.1.1={
+	936.1.1={
 		culture="korean"
 	}
 	970.1.1={
@@ -12765,7 +12876,7 @@
 	1230.1.1={
 		death=yes
 	}
-}#Mother of Gim Chong of Gimhae clan
+}#Mother of Gim Cheong of Gimhae clan
 1000450781 = {
 	name="Hang"
 	dynasty=1000155240 #Ubong Choe
@@ -12798,6 +12909,7 @@
 	religion="shingyo"
 	culture="korean"
 	father=1000450781
+	add_trait="gluttonous"
 	1228.1.1={
 		birth=yes
 	}
@@ -12831,7 +12943,7 @@
 		birth=yes
 	}
 	1019.12.29={
-		birth=yes
+		death=yes
 	}
 }
 1000450785 = {
@@ -13036,3 +13148,1994 @@
 		death=yes
 	}
 }
+#Family of Seonjong
+1000450800 = {
+	name="Jungsinhyun"
+	female=yes
+	dynasty=1000155065 #Gang
+	religion="shingyo"
+	culture="korean"
+	father=1000450791
+	1050.1.1={
+		birth=yes
+	}
+	1092.1.1={
+		death=yes
+	}
+}
+1000450801 = {
+	name="Sasuk"
+	female=yes
+	dynasty=1000155155 #Yang
+	religion="shingyo"
+	culture="korean"
+	father=1000450802
+	1064.1.1={
+		birth=yes
+	}
+	1101.1.1={
+		death=yes
+	}
+}
+1000450802 = {
+	name="Gyu"
+	dynasty=1000155155 #Yang
+	religion="shingyo"
+	culture="korean"
+	1004.1.1={
+		birth=yes
+	}
+	1093.1.1={
+		death=yes
+	}
+}
+1000450803 = {
+	name="Gyeonghwa"
+	female=yes
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000075515
+	mother=1000450800
+	1080.1.1={
+		birth=yes
+	}
+	1107.1.1={
+		death=yes
+	}
+}
+1000450804 = {
+	name="Suntaekju"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000075515
+	mother=1000450801
+	1086.1.1={
+		birth=yes
+	}
+	1118.1.1={
+		death=yes
+	}
+}
+1000450805 = {
+	name="Wonsin"
+	female=yes
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000075515
+	mother=1000450801
+	1088.1.1={
+		birth=yes
+	}
+	1138.1.1={
+		death=yes
+	}
+}
+#Family of Sukjong
+1000450806 = {
+	name="Hong"
+	dynasty=1000155175 #Yu
+	religion="shingyo"
+	culture="korean"
+	1019.1.1={
+		birth=yes
+	}
+	1081.1.1={
+		death=yes
+	}
+}
+1000450807 = {
+	name="Myeongui"
+	female=yes
+	dynasty=1000155175 #Yu
+	religion="shingyo"
+	culture="korean"
+	father=1000450806
+	1055.1.1={
+		birth=yes
+	}
+	1117.1.1={
+		death=yes
+	}
+}
+#Generals of Yejong
+1000450808 = {
+	name="Yeonchong"
+	dynasty=1000155165 #O
+	religion="shingyo"
+	culture="korean"
+	1055.1.1={
+		birth=yes
+	}
+	1116.1.1={
+		death=yes
+	}
+}
+1000450809 = {
+	name="Sundeok"
+	female=yes
+	dynasty=1000155165 #O
+	religion="shingyo"
+	culture="korean"
+	father=1000450808
+	1092.1.1={
+		birth=yes
+	}
+	1129.1.1={
+		death=yes
+	}
+}
+1000450810 = {
+	name="Gwan"
+	dynasty=1000155177 #Yun
+	religion="shingyo"
+	culture="korean"
+	1040.7.12={
+		birth=yes
+	}
+	1111.6.15={
+		death=yes
+	}
+}
+#Gyeongwon Yi
+1000450811 = {
+	name="Jagyeom"
+	dynasty=1000027101 #Gyeongwon Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000075550
+	1054.1.1={
+		birth=yes
+	}
+	1135.1.1={
+		death=yes
+	}
+}
+1000450812 = {
+	name="Go"
+	dynasty=1000027101 #Gyeongwon Yi
+	female=yes
+	religion="shingyo"
+	culture="korean"
+	father=1000450811
+	1109.1.1={
+		birth=yes
+	}
+	1171.1.1={
+		death=yes
+	}
+}
+#Family of Gim Cheong
+1000450813 = {
+	name="Haemin"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="silla"
+	add_trait="jingol"
+	father=1000450738
+	915.1.1={
+		birth=yes
+	}
+	918.1.1={
+		culture="korean"
+	}
+	974.1.1={
+		death=yes
+	}
+}
+1000450814 = {
+	name="Taeseung"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450813
+	944.1.1={
+		birth=yes
+	}
+	1013.1.1={
+		death=yes
+	}
+}
+1000450815 = {
+	name="Taeseung"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450814
+	981.1.1={
+		birth=yes
+	}
+	1069.1.1={
+		death=yes
+	}
+}
+1000450950 = {
+	name="Jonghyeon"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450815
+	1017.1.1={
+		birth=yes
+	}
+	1092.1.1={
+		death=yes
+	}
+}
+1000450816 = {
+	name="Gwangbu"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450950
+	1033.1.1={
+		birth=yes
+	}
+	1118.1.1={
+		death=yes
+	}
+}
+1000450817 = {
+	name="Anjeong"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450816
+	1063.1.1={
+		birth=yes
+	}
+	1138.1.1={
+		death=yes
+	}
+}
+1000450818 = {
+	name="Gibang"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450817
+	1092.1.1={
+		birth=yes
+	}
+	1165.1.1={
+		death=yes
+	}
+}
+1000450951 = {
+	name="Naemo"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450818
+	1129.1.1={
+		birth=yes
+	}
+	1189.1.1={
+		death=yes
+	}
+}
+1000450819 = {
+	name="Jigyeom"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450951
+	1150.1.1={
+		birth=yes
+	}
+	1198.1.1={
+		death=yes
+	}
+}
+1000450820 = {
+	name="Muhyeok"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450819
+	1171.1.1={
+		birth=yes
+	}
+	1218.1.1={
+		death=yes
+	}
+}
+1000450821 = {
+	name="Yunhu"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450819
+	1174.1.1={
+		birth=yes
+	}
+	1184.1.1={
+		add_trait="monk"
+		religion="mahayana"
+	}
+	1232.1.1={
+		death=yes
+	}
+}
+1000450822 = {
+	name="Yakseon"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450820
+	1192.1.1={
+		birth=yes
+	}
+	1211.1.1={
+		add_spouse=1000450780
+	}
+	1252.1.1={
+		death=yes
+	}
+}
+1000450823 = {
+	name="Cheong"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450822
+	mother=1000450780
+	1212.1.1={
+		birth=yes
+	}
+	1256.1.1={
+		death=yes
+	}
+}
+1000450824 = {
+	name="Jun"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450823
+	1229.1.1={
+		birth=yes
+	}
+	1268.1.1={
+		death=yes
+	}
+}
+1000450825 = {
+	name="Sami"
+	dynasty=1000155011 #Gimhae Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450824
+	1265.1.1={
+		birth=yes
+	}
+	1339.1.1={
+		death=yes
+	}
+}
+1000450826 = {
+	name="Cheong"
+	dynasty=1000155112 #Myo
+	religion="shingyo"
+	culture="korean"
+	add_trait="monk"
+	1092.1.1={
+		birth=yes
+	}
+	1136.1.1={
+		death=yes
+	}
+}
+#Descendants of Gim Seon
+1000450827 = {
+	name="Seon"
+	dynasty=1000155241 #Eonyang Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450395
+	mother=1000450696
+	942.1.1={
+		birth=yes
+	}
+	1013.1.1={
+		death=yes
+	}
+}
+1000450828 = {
+	name="Gun"
+	dynasty=1000155241 #Eonyang Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450827
+	993.1.1={
+		birth=yes
+	}
+	1079.1.1={
+		death=yes
+	}
+}
+1000450829 = {
+	name="Busik"
+	dynasty=1000155241 #Eonyang Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450828
+	1075.1.1={
+		birth=yes
+	}
+	1151.1.1={
+		death=yes
+	}
+}
+1000450830 = {
+	name="Donjung"
+	dynasty=1000155241 #Eonyang Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450829
+	1104.1.1={
+		birth=yes
+	}
+	1170.1.1={
+		death=yes
+	}
+}
+1000450952 = {
+	name="Bodang"
+	dynasty=1000155241 #Eonyang Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450830
+	1137.1.1={
+		birth=yes
+	}
+	1173.1.1={
+		death=yes
+	}
+}
+1000450831 = {
+	name="Gyeongseon"
+	dynasty=1000155241 #Eonyang Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450952
+	1171.1.1={
+		birth=yes
+	}
+	1234.1.1={
+		death=yes
+	}
+}
+1000450832 = {
+	name="Gyeongmyeong"
+	dynasty=1000155241 #Eonyang Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450831
+	1206.1.1={
+		birth=yes
+	}
+	1215.1.1={
+		add_trait="monk"
+		name="Iryeon"
+	}
+	1289.1.1={
+		death=yes
+	}
+}
+1000450833 = {
+	name="Jaegyeong"
+	dynasty=1000155241 #Eonyang Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450830
+	1204.1.1={
+		birth=yes
+	}
+	1269.1.1={
+		death=yes
+	}
+}
+1000450834 = {
+	name="Banggyeong"
+	dynasty=1000155241 #Eonyang Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450833
+	1237.1.1={
+		birth=yes
+	}
+	1309.1.1={
+		death=yes
+	}
+}
+1000450835 = {
+	name="Hun"
+	dynasty=1000078000 #Gyeongju Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450764
+	978.1.1={
+		birth=yes
+	}
+	1049.1.1={
+		death=yes
+	}
+}
+1000450836 = {
+	name="Hongjin"
+	dynasty=1000078000 #Gyeongju Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450835
+	1005.1.1={
+		birth=yes
+	}
+	1078.1.1={
+		death=yes
+	}
+}
+1000450953 = {
+	name="Gaeuk"
+	dynasty=1000078000 #Gyeongju Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450835
+	1039.1.1={
+		birth=yes
+	}
+	1094.1.1={
+		death=yes
+	}
+}
+1000450954 = {
+	name="Taewon"
+	dynasty=1000078000 #Gyeongju Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450953
+	1066.1.1={
+		birth=yes
+	}
+	1138.1.1={
+		death=yes
+	}
+}
+1000450837 = {
+	name="Mahyeok"
+	dynasty=1000078000 #Gyeongju Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450954
+	1098.1.1={
+		birth=yes
+	}
+	1172.1.1={
+		death=yes
+	}
+}
+1000450838 = {
+	name="Jagyuk"
+	dynasty=1000078000 #Gyeongju Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450837
+	1143.1.1={
+		birth=yes
+	}
+	1213.1.1={
+		death=yes
+	}
+}
+1000450839 = {
+	name="Aljin"
+	dynasty=1000078000 #Gyeongju Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450838
+	1180.1.1={
+		birth=yes
+	}
+	1251.1.1={
+		death=yes
+	}
+}
+1000450840 = {
+	name="Tongjeong"
+	dynasty=1000078000 #Gyeongju Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450839
+	1225.1.1={
+		birth=yes
+	}
+	1273.1.1={
+		death=yes
+	}
+}
+1000450841 = {
+	name="Gongye"
+	female=yes
+	dynasty=1000155182 #Im
+	religion="shingyo"
+	culture="korean"
+	father=1000450839
+	1109.9.7={
+		birth=yes
+	}
+	1183.11.1={
+		death=yes
+	}
+}
+1000450842 = {
+	name="On"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000075515
+	mother=1000450801
+	1092.1.1={
+		birth=yes
+	}
+	1094.6.17={
+		name="Gangneung"
+	}
+	1118.1.1={
+		add_spouse=1000450844
+	}
+	1148.1.1={
+		death=yes
+	}
+}
+1000450843 = {
+	name="Janggyeong"
+	female=yes
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000450842
+	mother=1000450844
+	1128.1.1={
+		birth=yes
+		dynasty=1000155241 #Eonyang Gim
+	}
+	1162.1.1={
+		death=yes
+	}
+}
+1000450844 = {
+	name="Mihyeon"
+	female=yes
+	dynasty=1000155241 #Eonyang Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450829
+	1102.1.1={
+		birth=yes
+	}
+	1145.1.1={
+		death=yes
+	}
+}
+1000450845 = {
+	name="Jangseon"
+	female=yes
+	dynasty=1000155206 #Jiksan Choe
+	religion="shingyo"
+	culture="korean"
+	father=1000450829
+	1141.1.1={
+		birth=yes
+	}
+	1181.1.1={
+		death=yes
+	}
+}
+1000450846 = {
+	name="Hong"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000202749
+	mother=1000450843
+	1149.1.1={
+		birth=yes
+	}
+	1153.1.1={
+		name="Gi"
+	}#Crown Prince
+	1198.1.1={
+		death=yes
+	}
+}
+1000450847 = {
+	name="Gyeongdeok"
+	female=yes
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000202749
+	mother=1000450843
+	1152.1.1={
+		birth=yes
+	}
+	1209.1.1={
+		death=yes
+	}
+}
+1000450848 = {
+	name="Ancheong"
+	female=yes
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000202749
+	mother=1000450843
+	1155.1.1={
+		birth=yes
+	}
+	1216.1.1={
+		death=yes
+	}
+}
+1000450849 = {
+	name="Sunhwa"
+	female=yes
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000202749
+	mother=1000450843
+	1159.1.1={
+		birth=yes
+	}
+	1234.1.1={
+		death=yes
+	}
+}
+1000450850 = {
+	name="Heo"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000202748
+	mother=1000450841
+	add_trait="genius"
+	1129.1.1={
+		birth=yes
+	}
+	1170.9.13={
+		death=yes
+	}
+}
+1000450851 = {
+	name="Ji"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000202748
+	mother=1000450841
+	1137.1.1={
+		birth=yes
+	}
+	1190.1.1={
+		death=yes
+	}
+}
+#Jeong Jungbu
+1000450852 = {
+	name="Jungbu"
+	dynasty=1000155189 #Jeong
+	religion="shingyo"
+	culture="korean"
+	1106.1.1={
+		birth=yes
+	}
+	1179.10.18={
+		death=yes
+	}
+}
+1000450853 = {
+	name="Gyun"
+	dynasty=1000155189 #Jeong
+	religion="shingyo"
+	culture="korean"
+	father=1000450852
+	1133.1.1={
+		birth=yes
+	}
+	1179.9.1={
+		death=yes
+	}
+}
+1000450854 = {
+	name="Gihwa"
+	female=yes
+	dynasty=1000155189 #Jeong
+	religion="shingyo"
+	culture="korean"
+	father=1000450852
+	1136.1.1={
+		birth=yes
+	}
+	1179.9.1={
+		death=yes
+	}
+}
+1000450855 = {
+	name="Yuin"
+	dynasty=1000155143 #Song
+	religion="shingyo"
+	culture="korean"
+	1135.1.1={
+		birth=yes
+	}
+	1151.1.1={
+		add_spouse=1000450854
+	}
+	1179.9.1={
+		death=yes
+	}
+}
+#Jeonju Yi
+1000450856 = {
+	name="Uibang"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000450857
+	1103.1.1={
+		birth=yes
+	}
+	1174.12.1={
+		death=yes
+	}
+}
+1000450857 = {
+	name="Taebak"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000450858
+	1077.1.1={
+		birth=yes
+	}
+	1145.1.1={
+		death=yes
+	}
+}
+1000450858 = {
+	name="Sinjo"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000450859
+	1043.1.1={
+		birth=yes
+	}
+	1103.1.1={
+		death=yes
+	}
+}
+1000450859 = {
+	name="Dongjin"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000450860
+	1013.1.1={
+		birth=yes
+	}
+	1076.1.1={
+		death=yes
+	}
+}
+1000450860 = {
+	name="Hongmin"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000450861
+	972.1.1={
+		birth=yes
+	}
+	1043.1.1={
+		death=yes
+	}
+}
+1000450861 = {
+	name="Unsu"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000450862
+	943.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+1000450862 = {
+	name="Yujeong"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="buyeo"
+	father=1000450863
+	905.1.1={
+		birth=yes
+	}
+	918.1.1={
+		culture="korean"
+	}
+	979.1.1={
+		death=yes
+	}
+}
+1000450863 = {
+	name="Jagyeom"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="buyeo"
+	880.1.1={
+		birth=yes
+	}
+	918.1.1={
+		culture="korean"
+	}
+	959.1.1={
+		death=yes
+	}
+}
+1000450864 = {
+	name="In"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000450857
+	1110.1.1={
+		birth=yes
+	}
+	1182.1.1={
+		death=yes
+	}
+}
+1000450865 = {
+	name="Yucheon"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000450864
+	1142.1.1={
+		birth=yes
+	}
+	1210.1.1={
+		death=yes
+	}
+}
+1000450866 = {
+	name="Ansa"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000450865
+	1193.1.1={
+		birth=yes
+	}
+	1274.1.1={
+		death=yes
+	}
+}
+1000450867 = {
+	name="Haengri"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000450866
+	1238.1.1={
+		birth=yes
+	}
+	1308.1.1={
+		death=yes
+	}
+}
+1000450868 = {
+	name="Chun"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000450867
+	1262.1.1={
+		birth=yes
+	}
+	1342.1.1={
+		death=yes
+	}
+}
+1000450869 = {
+	name="Jachun"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000450868
+	1315.1.1={
+		birth=yes
+	}
+	1361.1.1={
+		death=yes
+	}
+}
+1000450870 = {
+	name="Seonggye"
+	dynasty=1000155242 #Jeonju Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000450869
+	1335.10.27={
+		birth=yes
+	}
+	1392.8.5={
+		name="Taejo"
+		give_nickname=nick_the_great
+	}
+	1408.6.18={
+		death=yes
+	}
+}
+#Important Goryeo people
+1000450871 = {
+	name="Hyang"
+	dynasty=1000155152 #An
+	religion="shingyo"
+	culture="korean"
+	1243.1.1={
+		birth=yes
+	}
+	1306.1.1={
+		death=yes
+	}
+}
+1000450872 = {
+	name="Jungson"
+	dynasty=1000155120 #Bae
+	religion="shingyo"
+	culture="korean"
+	1213.1.1={
+		birth=yes
+	}
+	1271.1.1={
+		death=yes
+	}
+}
+1000450873 = {
+	name="Jeong"
+	dynasty=1000155243 #Bojo
+	religion="shingyo"
+	culture="korean"
+	1158.1.1={
+		birth=yes
+	}
+	1173.1.1={
+		add_trait="monk"
+		name="Jinul"
+	}
+	1210.1.1={
+		death=yes
+	}
+}
+1000450874 = {
+	name="Don"
+	dynasty=1000155148 #Sin
+	religion="shingyo"
+	culture="korean"
+	1322.1.1={
+		birth=yes
+	}
+	1332.1.1={
+		add_trait="monk"
+	}
+	1371.1.1={
+		death=yes
+	}
+}
+1000450875 = {
+	name="Cho"
+	dynasty=1000155183 #Ja
+	religion="shingyo"
+	culture="korean"
+	1327.1.1={
+		birth=yes
+	}
+	1337.1.1={
+		add_trait="monk"
+		name="Muhak"
+	}
+	1405.1.1={
+		death=yes
+	}
+}
+1000450876 = {
+	name="Bokwon"
+	dynasty=1000155229 #Hong
+	religion="shingyo"
+	culture="korean"
+	father=1000450878
+	1206.1.1={
+		birth=yes
+	}
+	1258.1.1={
+		death=yes
+	}
+}
+1000450877 = {
+	name="Jungi"
+	dynasty=1000155229 #Hong
+	religion="shingyo"
+	culture="korean"
+	father=1000450876
+	1244.1.1={
+		birth=yes
+	}
+	1291.1.1={
+		death=yes
+		name="Dagu"
+	}
+}
+1000450878 = {
+	name="Daesun"
+	dynasty=1000155229 #Hong
+	religion="shingyo"
+	culture="korean"
+	1179.1.1={
+		birth=yes
+	}
+	1231.1.1={
+		death=yes
+	}
+}
+1000450879 = {
+	name="Manjeok"
+	religion="shingyo"
+	culture="korean"
+	1154.1.1={
+		birth=yes
+	}
+	1198.1.1={
+		death=yes
+	}
+}
+1000450880 = {
+	name="Jae"
+	dynasty=1000155085 #Gil
+	religion="shingyo"
+	culture="korean"
+	1352.1.1={
+		birth=yes
+	}
+	1419.1.1={
+		death=yes
+	}
+}
+1000450881 = {
+	name="Geun"
+	dynasty=1000155081 #Andong Gwon
+	religion="shingyo"
+	culture="korean"
+	1352.1.1={
+		birth=yes
+	}
+	1409.1.1={
+		death=yes
+	}
+}
+1000450882 = {
+	name="Mongju"
+	dynasty=1000155244 #Yeongil Jeong
+	religion="shingyo"
+	culture="korean"
+	1337.1.1={
+		birth=yes
+	}
+	1392.1.1={
+		death=yes
+	}
+}
+1000450883 = {
+	name="Saek"
+	dynasty=1000155245 #Hansan Yi
+	religion="shingyo"
+	culture="korean"
+	1328.1.1={
+		birth=yes
+	}
+	1396.1.1={
+		death=yes
+	}
+}
+1000450884 = {
+	name="Dojeon"
+	dynasty=1000155189 #Jeong
+	religion="shingyo"
+	culture="korean"
+	1342.1.1={
+		birth=yes
+	}
+	1398.1.1={
+		death=yes
+	}
+}
+1000450885 = {
+	name="Daeseung"
+	dynasty=1000155069 #Gyeong
+	religion="shingyo"
+	culture="korean"
+	1154.1.1={
+		birth=yes
+	}
+	1183.8.4={
+		death=yes
+	}
+}
+1000450886 = {
+	name="Uimin"
+	dynasty=1000155246 #Yi
+	religion="shingyo"
+	culture="korean"
+	1131.1.1={
+		birth=yes
+	}
+	1196.5.7={
+		death=yes
+	}
+}
+1000450887 = {
+	name="Jiyoung"
+	dynasty=1000155246 #Yi
+	religion="shingyo"
+	culture="korean"
+	add_trait="cruel"
+	add_trait="lustful"
+	add_trait="hedonist"
+	father=1000450886
+	1152.1.1={
+		birth=yes
+	}
+	1196.5.17={
+		death=yes
+	}
+}
+1000450888 = {
+	name="Jisun"
+	dynasty=1000155246 #Yi
+	religion="shingyo"
+	culture="korean"
+	father=1000450886
+	1154.1.1={
+		birth=yes
+	}
+	1196.6.10={
+		death=yes
+	}
+}
+1000450889 = {
+	name="Jigwang"
+	dynasty=1000155246 #Yi
+	religion="shingyo"
+	culture="korean"
+	add_trait="cruel"
+	father=1000450886
+	1156.1.1={
+		birth=yes
+	}
+	1196.6.10={
+		death=yes
+	}
+}
+1000450890 = {
+	name="Jihwa"
+	female=yes
+	dynasty=1000155246 #Yi
+	religion="shingyo"
+	culture="korean"
+	add_trait="lustful"
+	add_trait="hedonist"
+	add_trait="seductress"
+	father=1000450886
+	1158.1.1={
+		birth=yes
+	}
+	1196.5.28={
+		death=yes
+	}
+}
+1000450891 = {
+	name="Yeon"
+	dynasty=1000155246 #Im
+	religion="shingyo"
+	culture="korean"
+	1223.1.1={
+		birth=yes
+	}
+	1270.1.1={
+		death=yes
+	}
+}
+1000450892 = {
+	name="Yumu"
+	dynasty=1000155246 #Im
+	religion="shingyo"
+	culture="korean"
+	father=1000450891
+	1240.1.1={
+		birth=yes
+	}
+	1270.6.1={
+		death=yes
+	}
+}
+1000450893 = {
+	name="Museon"
+	dynasty=1000155239 #Haeju Choe
+	religion="shingyo"
+	culture="korean"
+	add_trait="genius"
+	1325.1.1={
+		birth=yes
+	}
+	1395.1.1={
+		death=yes
+	}
+}
+1000450894 = {
+	name="Yeong"
+	dynasty=1000155238 #Gyeongju Choe
+	religion="shingyo"
+	culture="korean"
+	father=1000450896
+	1316.1.1={
+		birth=yes
+	}
+	1356.1.1={
+		add_spouse=1000450895
+	}
+	1388.1.1={
+		death=yes
+	}
+}
+1000450895 = {
+	name="Eunsu"
+	female=yes
+	dynasty=1000155238 #Yu
+	religion="shingyo"
+	culture="korean"
+	1326.1.1={
+		birth=yes
+	}
+	1390.1.1={
+		death=yes
+	}
+}
+1000450896 = {
+	name="Wonjik"
+	dynasty=1000155238 #Gyeongju Choe
+	religion="shingyo"
+	culture="korean"
+	1285.1.1={
+		birth=yes
+	}
+	1330.1.1={
+		death=yes
+	}
+}
+1000450897 = {
+	name="Haegyeom"
+	dynasty=1000078000 #Gyeongju Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450840
+	1271.1.1={
+		birth=yes
+	}
+	1333.1.1={
+		death=yes
+	}
+}
+1000450898 = {
+	name="Yonan"
+	dynasty=1000078000 #Gyeongju Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450897
+	1302.1.1={
+		birth=yes
+	}
+	1364.1.1={
+		death=yes
+	}
+}
+#Family of Goryeo kings
+1000450899 = {
+	name="Gwangjeong"
+	female=yes
+	dynasty=1000078000 #Gyeongju Gim
+	religion="shingyo"
+	culture="korean"
+	father=1000450837
+	1135.1.1={
+		birth=yes
+	}
+	1189.1.1={
+		death=yes
+	}
+}
+1000450900 = {
+	name="Wondeok"
+	female=yes
+	dynasty=1000155175 #Yu
+	religion="shingyo"
+	culture="korean"
+	1154.1.1={
+		birth=yes
+	}
+	1217.1.1={
+		death=yes
+	}
+}
+1000450901 = {
+	name="Qutlughkelmysh"
+	female=yes
+	dynasty=11100
+	religion="tengri_pagan"
+	culture="mongol"
+	father=1000202466
+	1254.1.1={
+		birth=yes
+	}
+	1270.1.1={
+		name="Gyeguk"
+	}
+	1297.1.1={
+		death=yes
+	}
+}
+1000450902 = {
+	name="Botapsillin"
+	female=yes
+	dynasty=11100
+	religion="tengri_pagan"
+	culture="mongol"
+	father=1000202467
+	1280.1.1={
+		birth=yes
+	}
+	1329.1.1={
+		death=yes
+	}
+}
+1000450903 = {
+	name="Myeongdeok"
+	female=yes
+	dynasty=1000155229 #Hong
+	religion="shingyo"
+	culture="korean"
+	father=1000450877
+	1292.1.1={
+		birth=yes
+	}
+	1328.1.1={
+		death=yes
+	}
+}
+1000450904 = {
+	name="Deongnyeong"
+	female=yes
+	dynasty=1000155180 #Yin
+	religion="shingyo"
+	culture="korean"
+	1318.1.1={
+		birth=yes
+	}
+	1356.1.1={
+		death=yes
+	}
+}
+1000450905 = {
+	name="Gongwon"
+	female=yes
+	dynasty=1000155229 #Hong
+	religion="shingyo"
+	culture="korean"
+	father=1000450919
+	1305.1.1={
+		birth=yes
+	}
+	1348.1.1={
+		death=yes
+	}
+}
+1000450906 = {
+	name="Heun"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000202760
+	mother=1000450904
+	1337.5.15={
+		birth=yes
+	}
+	1344.1.30={
+		name="Chungmok"
+	}
+	1348.12.25={
+		death=yes
+	}
+}
+1000450907 = {
+	name="Jeo"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000202760
+	mother=1000450904
+	1338.1.1={
+		birth=yes
+	}
+	1348.12.25={
+		name="Chungjeong"
+	}
+	1351.3.23={
+		death=yes
+	}
+}
+1000450909 = {
+	name="Borjigin"
+	female=yes
+	dynasty=11100
+	religion="confucian"
+	culture="mongol"
+	father=1000450922
+	1335.1.1={
+		birth=yes
+	}
+	1351.1.1={
+		name="Noguk"
+	}
+	1365.2.16={
+		death=yes
+	}
+}
+1000450910 = {
+	name="Banya"
+	female=yes
+	dynasty=1000155222 #Han
+	religion="shingyo"
+	culture="korean"
+	1346.1.1={
+		birth=yes
+	}
+	1376.3.1={
+		death=yes
+	}
+}
+1000450911 = {
+	name="Gong"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000202757
+	mother=1000450901
+	1278.1.1={
+		birth=yes
+	}
+	1322.1.1={
+		death=yes
+	}
+}
+1000450912 = {
+	name="Go"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000450911
+	1295.1.1={
+		birth=yes
+	}
+	1345.1.1={
+		death=yes
+	}
+}
+1000450913 = {
+	name="Ongmu"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000450912
+	1311.1.1={
+		birth=yes
+	}
+	1342.1.1={
+		death=yes
+	}
+}
+1000450914 = {
+	name="Bulhwa" #Toghtua Bukha
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000450913
+	1328.1.1={
+		birth=yes
+	}
+	1373.1.1={
+		death=yes
+	}
+}
+#Gi family
+1000450915 = {
+	name="Jao"
+	dynasty=1000155086 #Gi
+	religion="shingyo"
+	culture="korean"
+	1270.1.1={
+		birth=yes
+	}
+	1348.1.1={
+		death=yes
+	}
+}
+1000450916 = {
+	name="Cheol"
+	dynasty=1000155086 #Gi
+	religion="shingyo"
+	culture="korean"
+	father=1000450915
+	1311.1.1={
+		birth=yes
+	}
+	1356.1.1={
+		death=yes
+	}
+}
+1000450917 = {
+	name="Jao" #Empress Gi/Qi-wife of Toghun Temür Khan
+	female=yes
+	dynasty=1000155086 #Gi
+	religion="shingyo"
+	culture="korean"
+	father=1000450915
+	1315.1.1={
+		birth=yes
+	}
+	1370.1.1={
+		death=yes
+	}
+}
+1000450918 = {
+	name="Monino"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000202761
+	mother=1000450910
+	add_trait="bastard"
+	1365.7.25={
+		birth=yes
+	}
+	1371.1.1={
+		name="U"
+	}
+	1380.1.1={
+		add_spouse=1000450933
+	}
+	1389.12.31={
+		death=yes
+	}
+}
+1000450919 = {
+	name="Gyu"
+	dynasty=1000155229 #Hong
+	religion="shingyo"
+	culture="korean"
+	father=1000450877
+	1273.1.1={
+		birth=yes
+	}
+	1339.1.1={
+		death=yes
+	}
+}
+1000450920 = {
+	name="Sunhwa"
+	female=yes
+	dynasty=1000155229 #Hong
+	religion="shingyo"
+	culture="korean"
+	father=1000450919
+	1300.1.1={
+		birth=yes
+	}
+	1343.1.1={
+		death=yes
+	}
+}
+#Gongmin's concubines
+1000450923 = {
+	name="Hye"
+	female=yes
+	dynasty=1000155007 #Gyeongju Yi
+	religion="shingyo"
+	culture="korean"
+	1338.1.1={
+		birth=yes
+	}
+	1408.2.3={
+		death=yes
+	}
+}
+1000450924 = {
+	name="Yik"
+	female=yes
+	dynasty=1000155223 #Cheongju Han
+	religion="shingyo"
+	culture="korean"
+	add_trait="lustful"
+	1343.1.1={
+		birth=yes
+	}
+	1383.1.1={
+		death=yes
+	}
+}
+1000450925 = {
+	name="Gyeong"
+	dynasty=1000155229 #Hong
+	religion="shingyo"
+	culture="korean"
+	father=1000450919
+	1303.1.1={
+		birth=yes
+	}
+	1349.1.1={
+		death=yes
+	}
+}
+1000450926 = {
+	name="Ryeon"
+	dynasty=1000155229 #Hong
+	religion="shingyo"
+	culture="korean"
+	add_trait="lustful"
+	father=1000450925
+	1339.1.1={
+		birth=yes
+	}
+	1375.1.1={
+		death=yes
+	}
+}
+1000450927 = {
+	name="Hwahui"
+	female=yes
+	dynasty=1000155229 #Hong
+	religion="shingyo"
+	culture="korean"
+	add_trait="bastard"
+	father=1000450926
+	mother=1000450924
+	1358.1.1={
+		birth=yes
+	}
+	1376.1.1={
+		death=yes
+	}
+}
+1000450928 = {
+	name="Sin"
+	female=yes
+	dynasty=1000155159 #Yeom
+	religion="shingyo"
+	culture="korean"
+	father=1000450930
+	1340.1.1={
+		birth=yes
+	}
+	1404.1.1={
+		death=yes
+	}
+}
+1000450929 = {
+	name="Jeong"
+	female=yes
+	dynasty=1000155152 #An
+	religion="shingyo"
+	culture="korean"
+	father=1000450931
+	1344.1.1={
+		birth=yes
+	}
+	1428.1.1={
+		death=yes
+	}
+}
+1000450930 = {
+	name="Jesin"
+	dynasty=1000155159 #Yeom
+	religion="shingyo"
+	culture="korean"
+	1304.10.30={
+		birth=yes
+	}
+	1382.3.18={
+		death=yes
+	}
+}
+1000450931 = {
+	name="Geukin"
+	dynasty=1000155152 #An
+	religion="shingyo"
+	culture="korean"
+	1306.1.1={
+		birth=yes
+	}
+	1372.1.1={
+		death=yes
+	}
+}
+1000450932 = {
+	name="Seukro"
+	dynasty=1000155152 #An
+	religion="shingyo"
+	culture="korean"
+	father=1000450931
+	1346.1.1={
+		birth=yes
+	}
+	1395.1.1={
+		death=yes
+	}
+}
+1000450933 = {
+	name="Hyeon"
+	female=yes
+	dynasty=1000155152 #An
+	religion="shingyo"
+	culture="korean"
+	father=1000450932
+	1364.1.1={
+		birth=yes
+	}
+	1399.1.1={
+		death=yes
+	}
+}
+1000450934 = {
+	name="Chang"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000450918
+	mother=1000450933
+	1381.9.6={
+		birth=yes
+	}
+	1389.12.31={
+		death=yes
+	}
+}
+1000450935 = {
+	name="Yeo"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000202751
+	1185.1.1={
+		birth=yes
+	}
+	1243.1.1={
+		death=yes
+	}
+}
+1000450936 = {
+	name="Beol"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000450935
+	1211.1.1={
+		birth=yes
+	}
+	1273.1.1={
+		death=yes
+	}
+}
+1000450937 = {
+	name="Um"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000450936
+	1245.1.1={
+		birth=yes
+	}
+	1293.1.1={
+		death=yes
+	}
+}
+1000450938 = {
+	name="Yeom"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000450937
+	1269.1.1={
+		birth=yes
+	}
+	1322.1.1={
+		death=yes
+	}
+}
+1000450939 = {
+	name="In"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000450938
+	1299.1.1={
+		birth=yes
+	}
+	1343.1.1={
+		death=yes
+	}
+}
+1000450940 = {
+	name="Gyun"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000450939
+	1317.1.1={
+		birth=yes
+	}
+	1368.1.1={
+		death=yes
+	}
+}
+1000450941 = {
+	name="Yo"
+	dynasty=1000027100 #Wang
+	religion="shingyo"
+	culture="korean"
+	father=1000450940
+	1345.3.9={
+		birth=yes
+	}
+	1389.12.31={
+		name="Gongyang"
+	}
+	1394.5.17={
+		death=yes
+	}
+}
+#Last used id 1000450955
