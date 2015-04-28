@@ -6,8 +6,12 @@ title = c_namhae
 # Settlements
 max_settlements = 5
 b_okju = castle
+b_hamheung = city
 b_jeongju = castle
 #b_choju =
+#b_pungsan =
+#b_baegam =
+#b_cheongjin =
 
 # Misc
 culture = guryeo

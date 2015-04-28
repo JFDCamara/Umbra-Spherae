@@ -69,6 +69,23 @@ tai_kadai = {
 
 		modifier = default_culture_modifier
 	}
+	zhuang = {
+		graphical_culture = mongolgfx
+		
+		color = { 0.6 0.5 0.9 }
+		
+		male_names = {
+			Ciqgaoh Confouc
+			Aran Aroon Chanarong Daw Kamol Kasem Khemkhaeng Kiet Klahan Mongkut Niran Som Sunan Virote
+		}
+		female_names = {
+			Isra Kanya Kulap Lawan Mali Pakpao Phailin Phueng Ratana Somchai Somsri Suchin Sukhon Sumalee Tasanee Thurian Tola Vanida
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
 }
 
 burman = {

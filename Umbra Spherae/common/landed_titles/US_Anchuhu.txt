@@ -65,7 +65,7 @@ k_goguryeo = {
 
 				capital = 1507 # Yongcheon
 				
-				chinese_group = "Shangjing"
+				chinese = "Shangjing"
 				mohe = "Sushen"
 				jurchen = "Sushen"
 
@@ -74,12 +74,12 @@ k_goguryeo = {
 				color = { 112 109 174 }
 				color2 = { 255 255 255  }
 				
-				chinese_group = "Longquan"
+				chinese = "Longquan"
 				mohe = "Ninguta"
 				jurchen = "Ninguta"
 
 				b_yongju = {
-					chinese_group = "Longzhou"
+					chinese = "Longzhou"
 					mohe = "Ninguta"
 					jurchen = "Ninguta"
 					holy_site = jurchen_pagan
@@ -95,12 +95,12 @@ k_goguryeo = {
 				color = { 102 119 174 }
 				color2 = { 255 255 255  }
 
-				chinese_group = "Dongping"
+				chinese = "Dongping"
 				mohe = "Nanbi"
 				jurchen = "Nanbi"
 				
 				b_ilju = {
-					chinese_group = "Yizhou"
+					chinese = "Yizhou"
 					mohe = "Nanbi"
 					jurchen = "Nanbi"
 				}
@@ -118,12 +118,12 @@ k_goguryeo = {
 				color = { 102 119 184 }
 				color2 = { 255 255 255  }
 				
-				chinese_group = "Ningzhou"
+				chinese = "Ningzhou"
 				mohe = "Iman"
 				jurchen = "Iman"
 
 				b_yeongju_yeongju = {
-					chinese_group = "Ningzhou"
+					chinese = "Ningzhou"
 					mohe = "Iman"
 					jurchen = "Iman"
 				}
@@ -133,12 +133,12 @@ k_goguryeo = {
 				color = { 92 119 174 }
 				color2 = { 255 255 255  }
 				
-				chinese_group = "Tieli"
+				chinese = "Tieli"
 				mohe = "Telu"
 				jurchen = "Telu"
 
 				b_gwangju = {
-					chinese_group = "Delizhen"
+					chinese = "Delizhen"
 					mohe = "Talianchun"
 					jurchen = "Talianchun"
 				}
@@ -158,12 +158,12 @@ k_goguryeo = {
 				color = { 102 99 174 }
 				color2 = { 255 255 255  }
 				
-				chinese_group = "Huaiyuan"
+				chinese = "Huaiyuan"
 				mohe = "Sahaliyan"
 				jurchen = "Sahaliyan"
 
 				b_dalju = {
-					chinese_group = "Tongjiang"
+					chinese = "Tongjiang"
 					mohe = "Sahaliyan"
 					jurchen = "Sahaliyan"
 				}
@@ -187,10 +187,10 @@ k_goguryeo = {
 				color = { 102 109 164 }
 				color2 = { 255 255 255  }
 
-				chinese_group = "Dongzhou"
+				chinese = "Dongzhou"
 				
 				b_yeongju_dongju = {
-					chinese_group = "Dongzhou"
+					chinese = "Dongzhou"
 				}
 			}
 		}
@@ -203,7 +203,7 @@ k_goguryeo = {
     		color = { 168 119 187 }
     		color2 = { 255 255 255  }
 				
-			chinese_group = "Fuyu"
+			chinese = "Fuyu"
 			mohe = "Buyu"
 			jurchen = "Buyu"
 
@@ -212,12 +212,12 @@ k_goguryeo = {
 				color = { 178 119 187 }
 				color2 = { 255 255 255  }
 				
-				chinese_group = "Fuyu"
+				chinese = "Fuyu"
 				mohe = "Buyu"
 				jurchen = "Buyu"
 
 				b_buju = {
-					chinese_group = "Fuzhou"
+					chinese = "Fuzhou"
 					mohe = "Buyun"
 					jurchen = "Buyun"
 				}
@@ -229,12 +229,12 @@ k_goguryeo = {
 				color = { 168 129 187 }
 				color2 = { 255 255 255  }
 				
-				chinese_group = "Moxie"
+				chinese = "Moxie"
 				mohe = "Alchuka"
 				jurchen = "Alchuka"
 
 				b_makju = {
-					chinese_group = "Mozhou"
+					chinese = "Mozhou"
 					mohe = "Alchu"
 					jurchen = "Alchu"
 				}
@@ -246,7 +246,7 @@ k_goguryeo = {
 				color = { 168 119 197 }
 				color2 = { 255 255 255  }
 				
-				chinese_group = "Shukezhou"
+				chinese = "Shukezhou"
 				mohe = "Suchu"
 				jurchen = "Suchu"
 
@@ -265,7 +265,7 @@ k_goguryeo = {
     		color = { 155 140 166 }
     		color2 = { 255 255 255  }
 			
-			chinese_group = "Dongjing"
+			chinese = "Dongjing"
 			mohe = "Anman"
 			jurchen = "Anman"
 
@@ -274,12 +274,12 @@ k_goguryeo = {
 				color={ 165 140 166 }
 				color2={ 255 255 255 }
 				
-				chinese_group = "Anyuan"
+				chinese = "Anyuan"
 				mohe = "Anman"
 				jurchen = "Anman"
 
 				b_yeongju = {
-					chinese_group = "Ningzhou"
+					chinese = "Ningzhou"
 					mohe = "Iman"
 					jurchen = "Iman"
 				}
@@ -295,12 +295,12 @@ k_goguryeo = {
 				color = { 155 150 166 }
 				color2 = { 255 255 255  }
 				
-				chinese_group = "Dingli"
+				chinese = "Dingli"
 				mohe = "Suchun"
 				jurchen = "Suchun"
 
 				b_jeongju_jeongri = {
-					chinese_group = "Dingzhou"
+					chinese = "Dingzhou"
 					mohe = "Suchun"
 					jurchen = "Suchun"
 				}
@@ -312,17 +312,17 @@ k_goguryeo = {
 				color = { 155 140 176 }
 				color2 = { 255 255 255  }
 				
-				chinese_group = "Anbian"
+				chinese = "Anbian"
 				mohe = "Anchun"
 				jurchen = "Anchun"
 
 				b_anju = {
-					chinese_group = "Anzhou"
+					chinese = "Anzhou"
 					mohe = "Anchun"
 					jurchen = "Anchun"
 				}
 				b_gyeongju_anbyeon = {
-					chinese_group = "Qingzhou"
+					chinese = "Qingzhou"
 					mohe = "Gichun"
 					jurchen = "Gichun"
 				}
@@ -332,12 +332,12 @@ k_goguryeo = {
 				color = { 145 140 166 }
 				color2 = { 255 255 255  }
 				
-				chinese_group = "Shuaibin"
+				chinese = "Shuaibin"
 				mohe = "Shulbin"
 				jurchen = "Shulbin"
 
 				b_hwaju = {
-					chinese_group = "Huazhou"
+					chinese = "Huazhou"
 					mohe = "Huchun"
 					jurchen = "Huchun"
 				}
@@ -354,7 +354,7 @@ k_goguryeo = {
     		color = { 209 172 210 }
     		color2 = { 255 255 255  }
 			
-			chinese_group = "Zhongjing"
+			chinese = "Zhongjing"
 			mohe = "Juningu"
 			jurchen = "Juningu"
 
@@ -363,17 +363,17 @@ k_goguryeo = {
 				color = { 219 172 210 }
 				color2 = { 255 255 255  }
 				
-				chinese_group = "Changling"
+				chinese = "Changling"
 				mohe = "Juningu"
 				jurchen = "Juningu"
 
 				b_haju_jangnyeong = {
-					chinese_group = "Xiazhou"
+					chinese = "Xiazhou"
 					mohe = "Juningu"
 					jurchen = "Juningu"
 				}
 				b_haju_jangnyeong2 = {
-					chinese_group = "Jingyu"
+					chinese = "Jingyu"
 				}
 			}
 			c_hyeongdeok = {
@@ -381,12 +381,12 @@ k_goguryeo = {
 				color = { 119 182 210 }
 				color2 = { 255 255 255  }
 				
-				chinese_group = "Xiande"
+				chinese = "Xiande"
 				mohe = "Odoli"
 				jurchen = "Odoli"
 
 				b_hyeonju = {
-					chinese_group = "Xianzhou"
+					chinese = "Xianzhou"
 					mohe = "Odoli"
 					jurchen = "Odoli"
 				}
@@ -409,26 +409,26 @@ k_goguryeo = {
 
 			capital = 1510 # Amnok
 			
-			chinese_group = "Yanbian"
+			chinese = "Yanbian"
 
 			c_amnok = {
 
 				color = { 182 168 215 }
 				color2 = { 255 255 255  }
 				
-				chinese_group = "Yalü"
+				chinese = "Yalü"
 				mohe = "Yalu"
 				jurchen = "Yalu"
 				
 				b_sinju = {
-					chinese_group = "Shenzhou"
+					chinese = "Shenzhou"
 					mohe = "Yalu"
 					jurchen = "Yalu"
 				}
 				b_hwanju = {
 				}
 				b_pungju = {
-					chinese_group = "Changbaishan"
+					chinese = "Changbaishan"
 					mohe = "Golmin Sanggiyan Alin"
 					jurchen = "Golmin Sanggiyan Alin"
 					holy_site = jurchen_pagan
@@ -443,7 +443,7 @@ k_goguryeo = {
 				color={ 172 178 215 }
 				color2={ 10 10 10 }
 				
-				chinese_group = "Manzu"
+				chinese = "Manzu"
 
 				b_khaiyanx = {
 				}
@@ -462,7 +462,7 @@ k_goguryeo = {
 
 			capital = 1509 # Namhae
 			
-			chinese_group = "Wozhao"
+			chinese = "Wozhao"
 			mohe = "Olgi"
 			jurchen = "Olgi"
 
@@ -471,10 +471,10 @@ k_goguryeo = {
 				color = { 130 78 146 }
 				color2 = { 255 255 255  }
 				
-				chinese_group = "Nanhai"
+				chinese = "Nanhai"
 
 				b_okju = {
-					chinese_group = "Wozhou"
+					chinese = "Wozhou"
 					mohe = "Olgi"
 					jurchen = "Olgi"
 				}
@@ -482,23 +482,31 @@ k_goguryeo = {
 				}
 				b_choju = {
 				}
+				b_pungsan = {
+				}
+				b_baegam = {
+				}
+				b_cheongjin = {
+				}
+				b_hamheung = {
+				}
 			}
 			c_yongwon = {
 
 				color={ 120 88 146 }
 				color2={ 255 255 255 }
 				
-				chinese_group = "Longyuan"
+				chinese = "Longyuan"
 
 				b_gyeongju = {
-					chinese_group = "Qingzhou"
+					chinese = "Qingzhou"
 				}
 				b_yeomju = {
 				}
 				b_mokju = {
 				}
 				b_haju = {
-					chinese_group = "Hazhou"
+					chinese = "Hazhou"
 				}
 			}
 		}

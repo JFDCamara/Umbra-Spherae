@@ -8,19 +8,19 @@ tamna;Tamna;Tamna;Tamna;;Tamna;;;;;;;;;x
 buyeo;Buyeo;Buyeo;Buyeo;;Buyeo;;;;;;;;;x
 mohe;Mohe;Mohe;Mohe;;Mohe;;;;;;;;;x
 tungusic;Tungusic;Tungusic;Tungusic;;Tungusic;;;;;;;;;x
-emperor_korean;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;x
-emperor_female_korean;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;x
-king_korean;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;x
-king_female_korean;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;x
-duke_korean;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;x
-duke_female_korean;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;x
-duchy_of_korean;Do of;Do of;Do of;Do of;Do of;Do of;Do of;Do of;Do of;Do of;Do of;Do of;Do of;x
-count_korean;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;x
-count_female_korean;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;x
-county_of_korean;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;x
-baron_korean;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;x
-baron_female_korean;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;x
-barony_of_korean;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;x
+emperor_korean_group;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;x
+emperor_female_korean_group;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;Hwangje;x
+king_korean_group;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;Gukwang;x
+king_female_korean_group;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;Yeowang;x
+duke_korean_group;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;x
+duke_female_korean_group;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;Buyun;x
+duchy_of_korean_group;Do of;Do of;Do of;Do of;Do of;Do of;Do of;Do of;Do of;Do of;Do of;Do of;Do of;x
+count_korean_group;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;x
+count_female_korean_group;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;Moksa;x
+county_of_korean_group;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;Mok of;x
+baron_korean_group;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;x
+baron_female_korean_group;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;Gunsu;x
+barony_of_korean_group;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;Gun of;x
 k_goryeo;Korea;Korea;Korea;Korea;Korea;Korea;Korea;Korea;Korea;Korea;Korea;Korea;Korea;x
 d_seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;Seohae;x
 c_gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;x
@@ -297,6 +297,10 @@ d_tamna;Tamna;Tamna;Tamna;;Tamna;;;;;;;;;x
 d_tamna_adj;Tamna;Tamna;Tamna;;Tamna;;;;;;;;;x
 k_dan_gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;x
 k_dan_gur_adj;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;Dan Gur;x
+b_pungsan;Pungsan;Pungsan;Pungsan;;Pungsan;;;;;;;;;x
+b_baegam;Baegam;Baegam;Baegam;;Baegam;;;;;;;;;x
+b_cheongjin;Cheongjin;Cheongjin;Cheongjin;;Cheongjin;;;;;;;;;x
+b_hamheung;Hamheung;Hamheung;Hamheung;;Hamheung;;;;;;;;;x
 EVTDESC_US_1;Languages and cultures evolve over time. Some divide and others merge together. The local culture in the province of [Root.GetName] has evolved over time into something new, and the people living there no longer see themselves as a part of Silla.;;;;;;;;;;;;;x;;
 EVTOPTA_US_1;A more unified Korean culture has emerged!;;;;;;;;;;;;;x;;
 EVTDESC_US_2;Languages and cultures evolve over time. Some divide and others merge together. The local culture in the province of [Root.GetName] has evolved over time into something new, and the people living there no longer see themselves as a part of Baekje.;;;;;;;;;;;;;x;;
