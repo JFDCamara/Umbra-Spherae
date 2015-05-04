@@ -36,16 +36,15 @@
 		add_spouse=1000450693
 	}
 	919.1.1={
-		effect={
-			add_consort=1000450711
-			add_consort=1000450712
-			add_consort=1000450713
-			add_consort=1000450714
-			add_consort=1000450715
-			add_consort=1000450716
-			add_consort=1000450717
-			add_consort=1000450718
-			add_consort=1000450719
+		effect={c_1000450711={add_consort=ROOT}}
+		effect={c_1000450712={add_consort=ROOT}}
+		effect={c_1000450713={add_consort=ROOT}}
+		effect={c_1000450714={add_consort=ROOT}}
+		effect={c_1000450715={add_consort=ROOT}}
+		effect={c_1000450716={add_consort=ROOT}}
+		effect={c_1000450717={add_consort=ROOT}}
+		effect={c_1000450718={add_consort=ROOT}}
+		effect={c_1000450719={add_consort=ROOT}}
 		}
 	}
 	930.1.1={
@@ -78,11 +77,9 @@
 		add_spouse=1000450737
 	}
 	936.1.1={
-		effect={
-			add_consort=1000450741
-			add_consort=1000450742
-			add_consort=1000450743
-		}
+		effect={c_1000450741={add_consort=ROOT}}
+		effect={c_1000450742={add_consort=ROOT}}
+		effect={c_1000450743={add_consort=ROOT}}
 	}
 	943.7.4={
 		name="Hyejong"
@@ -111,7 +108,7 @@
 		add_spouse=1000450750
 	}
 	948.1.1={
-		effect={add_consort=1000450751}
+		effect={c_1000450751={add_consort=ROOT}}
 	}
 	949.4.13={
 		death=yes
@@ -132,7 +129,7 @@
 		add_spouse=1000450700
 	}
 	951.1.1={
-		effect={ add_consort = 1000450745 }
+		effect={c_1000450745={add_consort=ROOT}}
 	}
 	975.7.4={
 		death=yes
@@ -173,7 +170,7 @@
 		add_spouse=1000450758
 	}
 	987.1.1={
-		effect={ add_consort = 1000450769 }
+		effect={c_1000450769={add_consort=ROOT}}
 	}
 	989.1.1={
 		add_spouse=1000450765
@@ -306,7 +303,7 @@
 	}
 	1083.12.5={
 		name="Seongjong"
-		effect = { add_consort=1000450801 }
+		effect={c_1000450801={add_consort=ROOT}}
 	}
 	1092.1.1={
 		add_spouse=1000450801
@@ -581,7 +578,7 @@
 		name="Chungseon"
 	}
 	1316.1.1={
-		effect={add_consort=1000450920}
+		effect={c_1000450920={add_consort=ROOT}}
 	}
 	1325.6.23={
 		death=yes
@@ -654,10 +651,10 @@
 		effect={ add_lover=1000450909 }
 	}
 	1359.4.24={
-		effect={add_consort=1000450923}
-		effect={add_consort=1000450924}
-		effect={add_consort=1000450928}
-		effect={add_consort=1000450929}
+		effect={c_1000450923={add_consort=ROOT}}
+		effect={c_1000450924={add_consort=ROOT}}
+		effect={c_1000450928={add_consort=ROOT}}
+		effect={c_1000450929={add_consort=ROOT}}
 	}
 	1374.10.27={
 		death=yes
@@ -2357,7 +2354,7 @@
 		add_spouse=1000450097
 	}
 	215.1.1={
-		effect={add_consort=1000450101}
+		effect={c_1000450101={add_consort=ROOT}}
 	}
 	247.1.1={
 		death=yes
@@ -2766,7 +2763,7 @@
 		add_spouse=1000450139
 	}
 	488.1.1={
-		effect={add_consort=1000450136}
+		effect={c_1000450136={add_consort=ROOT}}
 	}
 	500.1.1={
 		death=yes
@@ -2895,10 +2892,10 @@
 		add_spouse=1000450140
 	}
 	492.1.1={
-		effect={add_consort=1000450158}
+		effect={c_1000450158={add_consort=ROOT}}
 	}
 	524.1.1={
-		effect={add_consort=1000450129}
+		effect={c_1000450129={add_consort=ROOT}}
 	}
 	540.1.1={
 		death=yes
@@ -2937,10 +2934,10 @@
 		add_spouse=1000450134
 	}
 	546.1.1={
-		effect={add_consort=1000450168}
+		effect={c_1000450168={add_consort=ROOT}}
 	}
 	567.1.1={
-		effect={add_consort=1000450169}
+		effect={c_1000450169={add_consort=ROOT}}
 	}
 	576.1.1={
 		death=yes
@@ -3749,7 +3746,7 @@
 	}
 	576.1.1={
 		name="Jinji"
-		effect={add_consort=1000450169}
+		effect={c_1000450169={add_consort=ROOT}}
 	}
 	579.8.24={
 		death=yes
@@ -3850,10 +3847,10 @@
 		add_spouse=1000450190
 	}
 	585.1.1={
-		effect={add_consort=1000450169}
+		effect={c_1000450169={add_consort=ROOT}}
 	}
 	599.1.1={
-		effect={add_consort=1000450195}
+		effect={c_1000450195={add_consort=ROOT}}
 	}
 	632.1.20={
 		death=yes
@@ -5605,7 +5602,7 @@
 		add_spouse=1000450304
 	}
 	705.1.1={
-		effect={add_consort=1000450307}
+		effect={c_1000450307={add_consort=ROOT}}
 	}
 	720.1.1={
 		add_spouse=1000450307
@@ -7434,10 +7431,10 @@
 		add_spouse=1000450419
 	}#-60
 	5.1.1={
-		effect={add_consort=1000450420}
+		effect={c_1000450420={add_consort=ROOT}}
 	}#-59
 	19.1.1={
-		effect={add_consort=1000450418}
+		effect={c_1000450418={add_consort=ROOT}}
 	}#-58
 	20.1.1={
 		death=yes
@@ -7835,7 +7832,7 @@
 		name="Dongmyeong"
 		culture="guryeo"
 		dynasty=1000155023 #Gyeru Go
-		effect={add_consort=1000450450}
+		effect={c_1000450450={add_consort=ROOT}}
 	}#-37
 	20.1.1={
 		death=yes
@@ -7874,10 +7871,10 @@
 		add_spouse=1000450452
 	}#-19
 	5.1.1={
-		effect={add_consort=1000450455}
+		effect={c_1000450455={add_consort=ROOT}}
 	}#-15
 	6.1.1={
-		effect={add_consort=1000450456}
+		effect={c_1000450456={add_consort=ROOT}}
 	}#-10
 	20.1.1={
 		death=yes
@@ -8051,7 +8048,7 @@
 		name="Daemusin"
 	}
 	20.1.1={
-		effect={add_consort=1000450488}
+		effect={c_1000450488={add_consort=ROOT}}
 	}
 	44.1.1={
 		death=yes
@@ -8716,7 +8713,7 @@
 		add_spouse=1000450503
 	}
 	208.1.1={
-		effect={add_consort=1000450510}
+		effect={c_1000450510={add_consort=ROOT}}
 	}
 	227.1.1={
 		death=yes
@@ -8879,7 +8876,7 @@
 		add_spouse=1000450515
 	}
 	244.1.1={
-		effect={add_consort=1000450518}
+		effect={c_1000450518={add_consort=ROOT}}
 	}
 	248.1.1={
 		name="Jungcheon"

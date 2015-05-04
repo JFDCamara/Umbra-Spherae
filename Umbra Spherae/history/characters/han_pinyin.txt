@@ -1,5 +1,6 @@
-# Song Dynasty
+#######New Chinese range: 1.000.451.000 - 1.000.451.999######
 
+# Song Dynasty
 #Can't be here as it destroys the Song family tree
 #1000079000 = {
 #    name="Xuanlang" # ???
@@ -666,7 +667,7 @@
 # Zhou Dynasty
 
 1000202661 = {
-	name="Zhao" # ??
+	name="Zhao" # Wu Zetian
 	female=yes
 	dynasty=1000027699 #Wu
 	religion="tao"
