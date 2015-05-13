@@ -461,8 +461,6 @@ e_rajastan = {
 				b_oddiyana = {
 					holy_site = buddhist
 					holy_site = mahayana
-					holy_site = kamakura_buddhism
-					holy_site = japanese_buddhism
 				}
 				b_attak = {
 				}
@@ -1497,8 +1495,6 @@ e_rajastan = {
 				b_sanchi = {
 					holy_site = buddhist
 					holy_site = mahayana
-					holy_site = kamakura_buddhism
-					holy_site = japanese_buddhism
 				}
 				b_sironj = {
 				}

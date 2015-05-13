@@ -17,6 +17,6 @@ b_azai = castle
 
 # Misc
 culture = japanese
-religion = japanese_buddhism
+religion = vajrayana
 
 # History

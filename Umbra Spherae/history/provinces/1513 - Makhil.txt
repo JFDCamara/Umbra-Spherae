@@ -5,8 +5,8 @@ title = c_makhil
 
 # Settlements
 max_settlements = 2
-b_makju = castle
-b_goju = castle
+b_makju = tribal
+b_goju = tribal
 
 # Misc
 culture = buyeo

@@ -4,7 +4,7 @@
 title = c_ngawa
 # Settlements
 max_settlements = 5
-b_barkam = castle
+b_barkam = tribal
 b_ngawa = city
 #b_rongzhag = city
 #b_rilong = castle
@@ -14,7 +14,7 @@ b_topgyel = temple
 
 # Misc
 culture = qiang
-religion = bon
+religion = rmagao
 
 # History
 

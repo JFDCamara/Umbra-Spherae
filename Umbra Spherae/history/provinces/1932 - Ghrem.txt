@@ -12,7 +12,8 @@ b_liuxgha = city
 #b_ghremkyoinjin =
 
 # Misc
-culture = han
-religion = confucian
+culture = mohe
+religion = jurchen_pagan
 
 # History
+1050.1.1 = { culture = jurchen }

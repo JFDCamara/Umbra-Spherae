@@ -5,8 +5,8 @@ title = c_dongpyeong
 
 # Settlements
 max_settlements = 5
-b_ilju = castle
-b_mongju = castle
+b_ilju = tribal
+b_mongju = tribal
 #b_taju =
 #b_heukju =
 #b_biju =

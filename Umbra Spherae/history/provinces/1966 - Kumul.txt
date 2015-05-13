@@ -13,6 +13,6 @@ b_kumul = city
 
 # Misc
 culture = uyghur
-religion = buddhist
+religion = manichean
 
 # History

@@ -4,7 +4,7 @@
 title = c_kyunglung
 # Settlements
 max_settlements = 5
-b_kyunglung = castle
+b_kyunglung = tribal
 b_lhara = temple
 b_qulongcun = city
 #b_re_xijiama = castle

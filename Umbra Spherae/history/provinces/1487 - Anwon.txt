@@ -5,8 +5,8 @@ title = c_anwon
 
 # Settlements
 max_settlements = 4
-b_yeongju = castle
-b_miju = castle
+b_yeongju = tribal
+b_miju = tribal
 #b_moju =
 #b_sangju =
 

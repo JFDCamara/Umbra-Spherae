@@ -6,9 +6,9 @@ title = c_manthang
 # Settlements
 max_settlements = 5
 #b_lo = castle
-b_chhonhup = castle
+b_chhonhup = tribal
 b_muktinath = temple
-b_kagbeni = castle
+#b_kagbeni = castle
 #b_chhusang = castle
 #b_marpha = city
 #b_chhoser = castle

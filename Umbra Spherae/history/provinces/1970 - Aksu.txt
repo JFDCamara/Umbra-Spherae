@@ -15,7 +15,8 @@ b_awat = city
 #b_xiaka_lecun_wuzu =
 
 # Misc
-culture = uyghur
-religion = sunni
+culture = tocharian
+religion = mahayana
 
 # History
+1016.1.1={ religion = sunni culture = uyghur }#Khotan conquered by Karakhanids and Islamised

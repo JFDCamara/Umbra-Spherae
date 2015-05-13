@@ -1,4 +1,7 @@
 ma_i_an = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
+		
 	tagalog = {
 		graphical_culture = mongolgfx
 		
@@ -62,6 +65,9 @@ ma_i_an = {
 }
 
 papuan_group = {
+		graphical_culture = africangfx
+		second_graphical_culture = muslimgfx # Fallback type
+		
 	papuan = {
 		graphical_culture = africangfx
 		
@@ -126,6 +132,9 @@ papuan_group = {
 }
 
 sulawesi_group = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
+		
 	bugi = {
 		graphical_culture = mongolgfx
 		
@@ -374,7 +383,8 @@ maluku_group = {
 }
 
 malay_group = {
-	graphical_culture = muslimgfx
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
 
 	malay = {
 		graphical_culture = mongolgfx
@@ -484,7 +494,8 @@ malay_group = {
 }
 
 bornean = {
-	graphical_culture = muslimgfx
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
 
 	dayak = {
 		graphical_culture = mongolgfx
@@ -549,7 +560,8 @@ bornean = {
 }
 
 andaman = {
-	graphical_culture = africangfx
+		graphical_culture = africangfx
+		second_graphical_culture = muslimgfx # Fallback type
 
 	andamanese = { 
 		graphical_culture = africangfx
@@ -572,7 +584,8 @@ andaman = {
 }
 
 javanese_group = {
-	graphical_culture = muslimgfx
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
 
 	javanese = {
 		graphical_culture = mongolgfx
@@ -667,6 +680,9 @@ javanese_group = {
 }
 
 taiwanese = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
+		
 	middag = { #Pingpu (Plains)
 		graphical_culture = mongolgfx
 		
@@ -744,8 +760,6 @@ taiwanese = {
 			Sakut_Sakut Taktes_Sakut Timu_Timu Timo_Timu Cimu_Timu Walay_Walay Aláy_Walay Walu_Walu Vanu_Walu Valo_Walu
 		}
 
-		male_patronym = ""
-		female_patronym = ""
 		prefix = no # The patronym is added as a suffix
 
 		modifier = default_culture_modifier

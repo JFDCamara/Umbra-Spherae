@@ -4,7 +4,7 @@
 title = c_rutog
 # Settlements
 max_settlements = 4
-b_zhabsang = castle
+b_zhabsang = tribal
 b_rutog = city
 #b_jiaweichao = temple
 #b_de_jiao = castle

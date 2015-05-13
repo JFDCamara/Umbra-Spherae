@@ -12,7 +12,7 @@ b_uvaly = tribal
 #b_belyy_lyus =
 
 # Misc
-culture = mongol
+culture = kirghiz
 religion = tengri_pagan
 
 # History

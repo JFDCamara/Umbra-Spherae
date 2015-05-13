@@ -5,7 +5,7 @@ title = c_maqen
 
 # Settlements
 max_settlements = 4
-b_maqen = castle
+b_maqen = tribal
 #b_yegainnyin = temple
 #b_wenquan = castle
 #b_rabyog = castle
@@ -15,6 +15,6 @@ b_markuthang = city
 
 # Misc
 culture = tangut
-religion = bon
+religion = rmagao
 
 # History

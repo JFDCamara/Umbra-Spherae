@@ -4,7 +4,7 @@
 title = c_coqen
 # Settlements
 max_settlements = 4
-b_zhuglung = castle
+b_zhuglung = tribal
 b_coqen = city
 #b_zhulongcun = castle
 #b_jiugongcun = temple

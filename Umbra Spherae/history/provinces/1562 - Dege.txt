@@ -4,7 +4,7 @@
 title = c_dege
 # Settlements
 max_settlements = 5
-b_dege = castle
+b_dege = tribal
 #b_jianshe = castle
 #b_zhaggo = castle
 b_dzongsar = temple

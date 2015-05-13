@@ -11,7 +11,8 @@ b_nomrog = tribal
 #b_songino =
 
 # Misc
-culture = mongol
+culture = uyghur
 religion = tengri_pagan
 
 # History
+847.1.1={ culture = mongol }#Fall of Uyghur Khaganate

@@ -4,7 +4,7 @@
 title = c_nyingchi
 # Settlements
 max_settlements = 5
-b_nyingchi = castle
+b_nyingchi = tribal
 b_drakchi = city
 b_buchasergyi_lakang = temple
 b_lamaling = temple

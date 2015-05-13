@@ -5,8 +5,8 @@ title = c_anbyeon
 
 # Settlements
 max_settlements = 2
-b_anju = castle
-b_gyeongju_anbyeon = castle
+b_anju = tribal
+b_gyeongju_anbyeon = tribal
 
 # Misc
 culture = mohe

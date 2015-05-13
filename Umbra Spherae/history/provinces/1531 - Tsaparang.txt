@@ -4,7 +4,7 @@
 title = c_tsaparang
 # Settlements
 max_settlements = 7
-b_mangga = castle
+b_mangga = tribal
 b_tsaparang = city
 #b_tholing = temple
 #b_dongqiu = castle

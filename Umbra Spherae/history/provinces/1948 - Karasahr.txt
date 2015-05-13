@@ -15,7 +15,8 @@ b_karasahr = city
 #b_kunkai_buhu =
 
 # Misc
-culture = uyghur
-religion = buddhist
+culture = tocharian
+religion = mahayana
 
 # History
+866.1.1={ religion = mahayana culture = uyghur }#Kingdom of Qocho

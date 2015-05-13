@@ -5,7 +5,7 @@ title = c_leh
 
 # Settlements
 max_settlements = 5
-b_udaipur_leh = castle
+b_udaipur_leh = tribal
 b_leh = city
 b_keylong = temple
 #b_gya =

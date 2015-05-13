@@ -5,7 +5,7 @@ title = c_atayal
 
 # Settlements
 max_settlements = 3
-b_qiluxulay = castle
+b_qiluxulay = tribal
 #b_lalashan = 
 #b_keitago = 
 #b_taroko = 

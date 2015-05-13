@@ -1596,7 +1596,6 @@ pagan_group = {
 		
 		dislike_tribal_organization = yes
 	}
-	
 	hellenic_pagan = {
 		graphical_culture = westerngfx
 		
@@ -1626,7 +1625,6 @@ pagan_group = {
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
 	}
-
 	jurchen_pagan_reformed = { # Jurchens
 		graphical_culture = mongolgfx
 		
@@ -1672,7 +1670,6 @@ pagan_group = {
 		
 		allow_in_ruler_designer = no
 	}		
-	
 	jurchen_pagan = { #Jurchens
 		graphical_culture = mongolgfx
 
@@ -1754,10 +1751,9 @@ pagan_group = {
 			key = "OFF_RELIGION"
 		}
 		
-		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_MDZOD_PHUG
 		priest_title = NGAKPA
-		piety_name=KARMA
+		piety_name = KARMA
 
 		priests_can_marry = yes
 		has_heir_designation = yes
@@ -1804,10 +1800,9 @@ pagan_group = {
 			key = "OFF_RELIGION"
 		}
 
-		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_MDZOD_PHUG
 		priest_title = NGAKPA
-		piety_name=KARMA
+		piety_name = KARMA
 
 		priests_can_marry = yes
 		defensive_attrition = yes
@@ -1947,7 +1942,6 @@ pagan_group = {
 		
 		dislike_tribal_organization = yes
 	}
-
 	taiwanese_religion_reformed = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -2070,7 +2064,6 @@ pagan_group = {
 		
 		dislike_tribal_organization = yes
 	}
-
 	philippine_religion_reformed = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -2193,7 +2186,6 @@ pagan_group = {
 		
 		dislike_tribal_organization = yes
 	}
-
 	bornean_religion_reformed = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -2931,7 +2923,6 @@ pagan_group = {
 		
 		dislike_tribal_organization = yes
 	}
-	
 	ainu_pantheism_reformed = {
 		graphical_culture = mongolgfx
 
@@ -3402,6 +3393,79 @@ indian_group = {
 		intermarry = buddhism_group
 		intermarry = hindu
 	}
+	nat = { #Burman-Pyu folk religion
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 110
+
+		color = { 1.0 0.0 0.0 }
+		
+		high_god_name = GOD_THAGYAMIN
+		god_names = {
+			GOD_THAGYAMIN
+		}
+		evil_god_names = {
+			YAMA
+		}
+
+		scripture_name = YAMAYANA
+		priest_title = BIMO
+		piety_name = KARMA
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = yes
+		priests_can_marry=yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 8
+		religious_clothing_priest = 8
+
+		intermarry = buddhism_group
+		intermarry = hindu
+		
+	}
+	sastsana_phi = { #Thai folk religion
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 110
+
+		color = { 0.7 0.9 0.4 }
+		
+		high_god_name = GOD_PHRAM
+		god_names = {
+			GOD_PHRAM GOD_TOSAKANTH GOD_SUPHANNA_MATCHA GOD_NANG_KWAK GOD_PHI_FA GOD_PHOSOP GOD_KUMAN_THONG
+			GOD_NANG_MAI GOD_NANG_TAKIAN GOD_NANG_TANI GOD_PHI_THALE
+		}
+		evil_god_names = {
+			YAMA
+		}
+
+		scripture_name = THE_PHRA
+		priest_title = MOPHI
+		piety_name = KARMA
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 8
+		religious_clothing_priest = 8
+
+		intermarry = buddhism_group
+		intermarry = hindu
+		
+	}
 }
 
 buddhism_group = {
@@ -3503,39 +3567,6 @@ buddhism_group = {
 		intermarry = jain
 		intermarry = hindu
 	}
-	kamakura_buddhism = {
-		graphical_culture = buddhistgfx
-		secondary_event_pictures = sunni
-
-		icon = 40
-		heresy_icon = 41
-
-		color = { 0.6 0.4 0.2 }
-		
-		god_names = {
-			GOD_BUDDHA GOD_HOTOKE GOD_BODHISATTVA
-		}
-		parent = mahayana
-		character_modifier = {
-			learning = 4
-		}
-		
-		has_heir_designation = yes
-		can_grant_divorce = yes
-		priests_can_inherit = no
-		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
-		female_temple_holders = yes
-		max_consorts = 3
-
-		short_reign_opinion_year_mult = 0 # No short reign penalty
-		
-		religious_clothing_head = 10
-		religious_clothing_priest = 10
-
-		intermarry = jain
-		intermarry = hindu
-	}
-
 	vajrayana = {
 		graphical_culture = buddhistgfx
 		secondary_event_pictures = sunni
@@ -3567,38 +3598,6 @@ buddhism_group = {
 		can_grant_divorce = yes
 		priests_can_inherit = no
 		priests_can_marry=yes
-		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
-		female_temple_holders = yes
-		max_consorts = 3
-
-		short_reign_opinion_year_mult = 0 # No short reign penalty
-		
-		religious_clothing_head = 10
-		religious_clothing_priest = 10
-
-		intermarry = jain
-		intermarry = hindu
-	}
-	japanese_buddhism = {
-		graphical_culture = buddhistgfx
-		secondary_event_pictures = sunni
-
-		icon = 40
-		heresy_icon = 41
-
-		color = { 0.7 0.5 0.1 }
-		
-		god_names = {
-			GOD_BUDDHA GOD_HOTOKE GOD_BODHISATTVA
-		}
-		parent = vajrayana
-		character_modifier = {
-			learning = 4
-		}
-		
-		has_heir_designation = yes
-		can_grant_divorce = yes
-		priests_can_inherit = no
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		female_temple_holders = yes
 		max_consorts = 3

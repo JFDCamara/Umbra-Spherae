@@ -4,7 +4,7 @@
 title = c_dartsedo
 # Settlements
 max_settlements = 6
-b_jagsamka = castle
+b_jagsamka = tribal
 b_dartsedo = city
 b_lithang = city
 #b_xindu = castle

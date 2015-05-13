@@ -4,7 +4,7 @@
 title = c_sakya
 # Settlements
 max_settlements = 6
-b_tingri = castle
+b_tingri = tribal
 b_sakya = temple
 b_lhatse = city
 b_drampa_gyang_lhakhang = temple

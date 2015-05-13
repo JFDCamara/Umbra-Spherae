@@ -16,8 +16,8 @@ b_peudawa = temple
 
 # Misc
 culture = samudran
-religion = shiite
+religion = hindu
 
 # History
-
+650.1.1={ religion = shiite }
 986.1.1={ religion = sunni }

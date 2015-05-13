@@ -3869,7 +3869,7 @@
 1000083036 = {
 	name="Zopa"
 	female=yes
-	religion="bon"
+	religion="rmagao"
 	culture="qiang"
 	1022.1.1={
 		birth="1022.1.1"
@@ -3895,7 +3895,7 @@
 1000083038 = {
 	name="Mida"
 	female=yes
-	religion="bon"
+	religion="rmagao"
 	culture="qiang"
 	1082.1.1={
 		birth="1082.1.1"
@@ -3975,7 +3975,7 @@
 1000083044 = {
 	name="Chesa"
 	female=yes
-	religion="bon"
+	religion="rmagao"
 	culture="qiang"
 	1262.1.1={
 		birth="1262.1.1"

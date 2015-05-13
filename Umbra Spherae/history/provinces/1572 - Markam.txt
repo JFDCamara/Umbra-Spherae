@@ -4,7 +4,7 @@
 title = c_markam
 # Settlements
 max_settlements = 4
-b_batang = castle
+b_batang = tribal
 b_markam = city
 #b_drorkong = temple
 #b_tsagalor = temple

@@ -17,6 +17,6 @@ b_kumano = temple
 
 # Misc
 culture = japanese
-religion = japanese_buddhism
+religion = vajrayana
 
 # History

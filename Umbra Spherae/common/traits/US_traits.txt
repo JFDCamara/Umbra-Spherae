@@ -387,7 +387,6 @@ seonggol = {
 		dupum
 	}
 	
-	caste_tier = 3
 	random = no
 	customizer = no
 	
@@ -407,7 +406,6 @@ jingol = {
 		dupum
 	}
 	
-	caste_tier = 2
 	random = no
 	customizer = no
 	
@@ -426,7 +424,6 @@ dupum = {
 		jingol
 	}
 	
-	caste_tier = 1
 	random = no
 	customizer = no
 	

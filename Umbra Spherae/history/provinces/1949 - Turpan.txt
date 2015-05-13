@@ -12,7 +12,8 @@ b_kushi_kanerzi = city
 #b_maimaiti_kanerzi =
 
 # Misc
-culture = uyghur
-religion = buddhist
+culture = tocharian
+religion = mahayana
 
 # History
+866.1.1={ religion = mahayana culture = uyghur }#Kingdom of Qocho

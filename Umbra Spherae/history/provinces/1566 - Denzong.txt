@@ -3,8 +3,8 @@
 # County Title
 title = c_denzong
 # Settlements
-max_settlements = 4
-b_gangdoz = castle
+max_settlements = 3
+b_gangdoz = tribal
 #b_mangan = castle
 #b_gyalshing = castle
 #b_namchi = temple

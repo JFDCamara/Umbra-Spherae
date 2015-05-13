@@ -4,7 +4,7 @@
 title = c_gyantse
 # Settlements
 max_settlements = 4
-b_gyantse = castle
+b_gyantse = tribal
 b_palcho = temple
 #b_bainang = castle
 b_drongtse = temple

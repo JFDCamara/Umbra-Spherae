@@ -5,8 +5,8 @@ title = c_yongcheon
 
 # Settlements
 max_settlements = 3
-b_yongju = castle
-b_hoju = castle
+b_yongju = tribal
+b_hoju = tribal
 #b_balju =
 
 # Misc

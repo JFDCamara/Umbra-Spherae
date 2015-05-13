@@ -45,7 +45,6 @@
 		effect={c_1000450717={add_consort=ROOT}}
 		effect={c_1000450718={add_consort=ROOT}}
 		effect={c_1000450719={add_consort=ROOT}}
-		}
 	}
 	930.1.1={
 		add_spouse=1000450698

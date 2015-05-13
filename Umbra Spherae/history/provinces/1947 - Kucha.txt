@@ -15,7 +15,8 @@ b_kucha = city
 #b_muchangcun =
 
 # Misc
-culture = uyghur
-religion = buddhist
+culture = tocharian
+religion = mahayana
 
 # History
+1016.1.1={ religion = sunni culture = uyghur }#Khotan conquered by Karakhanids and Islamised

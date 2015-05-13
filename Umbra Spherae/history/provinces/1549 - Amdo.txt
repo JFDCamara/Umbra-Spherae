@@ -4,7 +4,7 @@
 title = c_amdo
 # Settlements
 max_settlements = 4
-b_zhasa = castle
+b_zhasa = tribal
 b_amdo = city
 #b_rolagang = temple
 #b_gangnyi = castle

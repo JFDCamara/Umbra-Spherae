@@ -2387,28 +2387,35 @@ b_macalong;Macalong;Macalong;Macalong;Macalong;Macalong;Macalong;Macalong;Macalo
 b_chakhampa;Chakhampa;Chakhampa;Chakhampa;Chakhampa;Chakhampa;Chakhampa;Chakhampa;Chakhampa;Chakhampa;Chakhampa;Chakhampa;Chakhampa;Chakhampa;x
 b_phong_sek;Phong Sek;Phong Sek;Phong Sek;Phong Sek;Phong Sek;Phong Sek;Phong Sek;Phong Sek;Phong Sek;Phong Sek;Phong Sek;Phong Sek;Phong Sek;x
 b_pia_say;Pia Say;Pia Say;Pia Say;Pia Say;Pia Say;Pia Say;Pia Say;Pia Say;Pia Say;Pia Say;Pia Say;Pia Say;Pia Say;x
-emperor_chinese;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;x
-emperor__female_chinese;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;Emperor;x
-king_chinese;King;King;King;King;King;King;King;King;King;King;King;King;King;x
+emperor_chinese;Huángdì;Huángdì;Huángdì;;Huángdì;;;;;;;;;x
+emperor_female_chinese;Nühuángdì;Nühuángdì;Nühuángdì;;Nühuángdì;;;;;;;;;x
+king_chinese;Wáng;Wáng;Wáng;;Wáng;;;;;;;;;x
+king_female_chinese;Nüwáng;Nüwáng;Nüwáng;;Nüwáng;;;;;;;;;x
 king_city_chinese;Temporary Court;Temporary Court;Temporary Court;Temporary Court;Temporary Court;Temporary Court;Temporary Court;Temporary Court;Temporary Court;Temporary Court;Temporary Court;Temporary Court;Temporary Court;x
 kingdom_of_chinese;State of;State of;State of;State of;State of;State of;State of;State of;State of;State of;State of;State of;State of;x
-duke_chinese;Cet-doh-srix;Cet-doh-srix;Cet-doh-srix;Cet-doh-srix;Cet-doh-srix;Cet-doh-srix;Cet-doh-srix;Cet-doh-srix;Cet-doh-srix;Cet-doh-srix;Cet-doh-srix;Cet-doh-srix;Cet-doh-srix;x
+duke_chinese;Göng;Göng;Göng;;Göng;;;;;;;;;x
+duke_female_chinese;Nügöng;Nügöng;Nügöng;;Nügöng;;;;;;;;;x
 duke_city_chinese;'an-phyox-srix;'an-phyox-srix;'an-phyox-srix;'an-phyox-srix;'an-phyox-srix;'an-phyox-srix;'an-phyox-srix;'an-phyox-srix;'an-phyox-srix;'an-phyox-srix;'an-phyox-srix;'an-phyox-srix;'an-phyox-srix;x
 duchy_of_chinese;Circuit of;Circuit of;Circuit of;Circuit of;Circuit of;Circuit of;Circuit of;Circuit of;Circuit of;Circuit of;Circuit of;Circuit of;Circuit of;x
-count_chinese;Chieh-srix;Chieh-srix;Chieh-srix;Chieh-srix;Chieh-srix;Chieh-srix;Chieh-srix;Chieh-srix;Chieh-srix;Chieh-srix;Chieh-srix;Chieh-srix;Chieh-srix;x
+count_chinese;Bó;Bó;Bó;;Bó;;;;;;;;;x
+count_female_chinese;Nübó;Nübó;Nübó;;Nübó;;;;;;;;;x
 count_city_chinese;Trie-cju;Trie-cju;Trie-cju;Trie-cju;Trie-cju;Trie-cju;Trie-cju;Trie-cju;Trie-cju;Trie-cju;Trie-cju;Trie-cju;Trie-cju;x
 county_of_chinese;Province of;Province of;Province of;Province of;Province of;Province of;Province of;Province of;Province of;Province of;Province of;Province of;Province of;x
-baron_chinese;Kung;Kung;Kung;Kung;Kung;Kung;Kung;Kung;Kung;Kung;Kung;Kung;Kung;x
+baron_chinese;Nán;Nán;Nán;;Nán;;;;;;;;;x
+baron_female_chinese;Nü;Nü;Nü;;Nü;;;;;;;;;x
 baron_city_chinese;Trie-ghuenh;Trie-ghuenh;Trie-ghuenh;Trie-ghuenh;Trie-ghuenh;Trie-ghuenh;Trie-ghuenh;Trie-ghuenh;Trie-ghuenh;Trie-ghuenh;Trie-ghuenh;Trie-ghuenh;Trie-ghuenh;x
 barony_of_chinese;County of;County of;County of;County of;County of;County of;County of;County of;County of;County of;County of;County of;County of;x
 title_regent_chinese;Regent;Regent;Regent;Regent;Regent;Regent;Regent;Regent;Regent;Regent;Regent;Regent;Regent;x
-title_ruler_consort_female_chinese;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;x
-baron_title_ruler_consort_female_chinese;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;x
-count_title_ruler_consort_female_chinese;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;Pyo-njin;x
-duke_title_ruler_consort_female_chinese;Queen Consort;Queen Consort;Queen Consort;Queen Consort;Queen Consort;Queen Consort;Queen Consort;Queen Consort;Queen Consort;Queen Consort;Queen Consort;Queen Consort;Queen Consort;x
-emperor_title_ruler_consort_female_chinese;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;Empress Consort;x
-title_queen_mother_chinese;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;x
-emperor_title_queen_mother_female_chinese;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;Empress Dowager;x
-title_prince_chinese;Prince;Prince;Prince;Prince;Prince;Prince;Prince;Prince;Prince;Prince;Prince;Prince;Prince;x
-title_prince_female_chinese;Princess;Princess;Princess;Princess;Princess;Princess;Princess;Princess;Princess;Princess;Princess;Princess;Princess;x
-bai;Bai;Bai;Bai;Bai;Bai;Bai;Bai;Bai;Bai;Bai;Bai;Bai;Bai;x
+title_ruler_consort_female_chinese;Huánghòu;Huánghòu;Huánghòu;;Huánghòu;;;;;;;;;x
+baron_title_ruler_consort_female_chinese;Nánhòu;Nánhòu;Nánhòu;;Nánhòu;;;;;;;;;x
+count_title_ruler_consort_female_chinese;Bóhòu;Bóhòu;Bóhòu;;Bóhòu;;;;;;;;;x
+duke_title_ruler_consort_female_chinese;Gönghòu;Gönghòu;Gönghòu;;Gönghòu;;;;;;;;;x
+king_title_ruler_consort_female_chinese;Wánghòu;Wánghòu;Wánghòu;;Wánghòu;;;;;;;;;x
+emperor_title_ruler_consort_female_chinese;Huánghòu;Huánghòu;Huánghòu;;Huánghòu;;;;;;;;;x
+title_queen_mother_chinese;Tàihòu;Tàihòu;Tàihòu;;Tàihòu;;;;;;;;;x
+emperor_title_queen_mother_chinese;Huángtàihòu;Huángtàihòu;Huángtàihòu;;Huángtàihòu;;;;;;;;;x
+title_prince_chinese;Wángzî;Wángzî;Wángzî;;Wángzî;;;;;;;;;x
+emperor_title_prince_chinese;Huángzî;Huángzî;Huángzî;;Huángzî;;;;;;;;;x
+title_prince_female_chinese;Göngzhû;Göngzhû;Göngzhû;;Göngzhû;;;;;;;;;x
+emperor_title_prince_female_chinese;Gégé;Gégé;Gégé;;Gégé;;;;;;;;;x
+bai;Bai;Bai;Bai;;Bai;;;;;;;;;x

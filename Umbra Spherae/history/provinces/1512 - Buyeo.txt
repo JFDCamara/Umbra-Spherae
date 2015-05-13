@@ -5,8 +5,8 @@ title = c_buyeo
 
 # Settlements
 max_settlements = 2
-b_buju = castle
-b_seonju = castle
+b_buju = tribal
+b_seonju = tribal
 
 # Misc
 culture = buyeo

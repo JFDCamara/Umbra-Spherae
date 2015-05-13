@@ -5,7 +5,7 @@ title = c_yeongju
 
 # Settlements
 max_settlements = 1
-b_yeongju_yeongju = castle
+b_yeongju_yeongju = tribal
 
 # Misc
 culture = mohe

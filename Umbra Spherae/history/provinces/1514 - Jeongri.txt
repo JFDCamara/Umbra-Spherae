@@ -5,8 +5,8 @@ title = c_jeongri
 
 # Settlements
 max_settlements = 2
-b_jeongju_jeongri = castle
-b_banju = castle
+b_jeongju_jeongri = tribal
+b_banju = tribal
 
 # Misc
 culture = mohe

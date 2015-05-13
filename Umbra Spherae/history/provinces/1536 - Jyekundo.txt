@@ -4,7 +4,7 @@
 title = c_jyekundo
 # Settlements
 max_settlements = 4
-b_xangda = castle
+b_xangda = tribal
 b_jyekundo = city
 #b_zadoi = city
 #b_chindu = temple

@@ -667,16 +667,37 @@
 # Zhou Dynasty
 
 1000202661 = {
-	name="Zhao" # Wu Zetian
+	name="Zhào" # Wu Zetian
 	female=yes
 	dynasty=1000027699 #Wu
 	religion="tao"
 	culture="han"
+	add_trait="elusive_shadow"
+	add_trait="grey_eminence"
+	add_trait="midas_touched"
+	add_trait="genius"
+	add_trait="scholar"
+	add_trait="diligent"
+	add_trait="fair"
+	add_trait="strong"
+	add_trait="seductress"
+	add_trait="envious"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="proud"
+	add_trait="stubborn"
+	add_trait="deceitful"
+	add_trait="gregarious"
+	add_trait="ambitious"
+	add_trait="poet"
+	add_trait="fashionable"
+	add_trait="ruthless"
+	add_trait="cruel"
 	624.2.17={
-		birth="100.1.1"
+		birth=yes
 	}
 	705.12.16={
-		death="300.1.1"
+		death=yes
 	}
 }
 

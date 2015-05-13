@@ -4,7 +4,7 @@
 title = c_nagchu
 # Settlements
 max_settlements = 4
-b_lhari = castle
+b_lhari = tribal
 b_nagchu = city
 b_tashi_dor = temple
 #b_baingoin = castle

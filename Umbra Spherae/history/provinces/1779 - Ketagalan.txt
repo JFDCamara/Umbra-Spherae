@@ -5,7 +5,7 @@ title = c_ketagalan
 
 # Settlements
 max_settlements = 3
-b_kelang = castle
+b_kelang = tribal
 #b_hoba = 
 #b_tayopae = 
 #b_kipatauw = 

@@ -5,7 +5,7 @@ title = c_siraya
 
 # Settlements
 max_settlements = 3
-b_tayonuan = castle
+b_tayonuan = tribal
 #b_moatau = 
 #b_bakaloan = 
 #b_sakam = 

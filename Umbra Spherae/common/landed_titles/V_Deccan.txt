@@ -237,8 +237,6 @@ e_deccan = {
 				b_ellora = {
 					holy_site = buddhist
 					holy_site = mahayana
-					holy_site = kamakura_buddhism
-					holy_site = japanese_buddhism
 				}
 				b_khuldabad = {
 				}

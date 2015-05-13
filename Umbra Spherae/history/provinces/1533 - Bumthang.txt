@@ -5,7 +5,7 @@ title = c_bumthang
 
 # Settlements
 max_settlements = 5
-b_bumthang = castle
+b_bumthang = tribal
 b_jambay = temple
 #b_kongchogsum = temple
 #b_trongsa = castle

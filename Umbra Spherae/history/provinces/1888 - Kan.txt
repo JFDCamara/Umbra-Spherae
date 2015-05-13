@@ -12,7 +12,8 @@ b_borodino = tribal
 #b_boguchany =
 
 # Misc
-culture = mongol
+culture = kirghiz
 religion = tengri_pagan
 
 # History
+1219.1.1={ culture = mongol }#Fall of Kyrghiz Khaganate

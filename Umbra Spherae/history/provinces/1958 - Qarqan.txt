@@ -15,7 +15,8 @@ b_qarqan = city
 #b_aketi_kandun =
 
 # Misc
-culture = uyghur
-religion = buddhist
+culture = khotan
+religion = mahayana
 
 # History
+1016.1.1={ religion = sunni culture = uyghur }#Khotan conquered by Karakhanids and Islamised

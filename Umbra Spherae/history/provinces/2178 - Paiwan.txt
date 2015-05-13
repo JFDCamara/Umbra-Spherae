@@ -5,7 +5,7 @@ title = c_paiwan
 
 # Settlements
 max_settlements = 3
-b_jabauli = castle
+b_jabauli = tribal
 #b_a-kau = 
 #b_takau = 
 #b_katauw = 

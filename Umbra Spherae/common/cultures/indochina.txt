@@ -1,6 +1,11 @@
 vietic = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
+		
 	viet = {
-		graphical_culture = mongolgfx
+		graphical_culture = chinesegfx
+		second_graphical_culture = mongolgfx # Fallback type
+		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.2 0.4 0.4 }
 		
@@ -21,12 +26,16 @@ vietic = {
 }
 
 tai_kadai = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
+		
 	thai = {
 		graphical_culture = mongolgfx
 		
 		color = { 0.3 0.8 0.2 }
 		
 		male_names = {
+			Coeng_Zhen
 			Aran Aroon Chanarong Daw Kamol Kasem Khemkhaeng Kiet Klahan Mongkut Niran Som Sunan Virote
 		}
 		female_names = {
@@ -70,15 +79,64 @@ tai_kadai = {
 		modifier = default_culture_modifier
 	}
 	zhuang = {
-		graphical_culture = mongolgfx
+		graphical_culture = chinesegfx
+		second_graphical_culture = mongolgfx # Fallback type
+		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.6 0.5 0.9 }
 		
 		male_names = {
-			Ciqgaoh Confouc
+			Bing_Bing Byauh_Biao Cenzfuk_Quanfu Ciqgaoh_Zhigao Ciucuek_Zhaozhuo Cuengh_Zhen Gozcing_Guoqing Yenfanh_Xianfan
 			Aran Aroon Chanarong Daw Kamol Kasem Khemkhaeng Kiet Klahan Mongkut Niran Som Sunan Virote
 		}
 		female_names = {
+			Bing_Bing
+			Isra Kanya Kulap Lawan Mali Pakpao Phailin Phueng Ratana Somchai Somsri Suchin Sukhon Sumalee Tasanee Thurian Tola Vanida
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+}
+
+hmong_mien = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
+	
+	hmong = { #Miao culture
+		graphical_culture = chinesegfx
+		second_graphical_culture = mongolgfx # Fallback type
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.2 0.7 0.3 }
+		
+		male_names = {
+			Bing_Bing Byauh_Biao Cenzfuk_Quanfu Ciqgaoh_Zhigao Ciucuek_Zhaozhuo Cuengh_Zhen Gozcing_Guoqing Yenfanh_Xianfan
+			Aran Aroon Chanarong Daw Kamol Kasem Khemkhaeng Kiet Klahan Mongkut Niran Som Sunan Virote
+		}
+		female_names = {
+			Bing_Bing
+			Isra Kanya Kulap Lawan Mali Pakpao Phailin Phueng Ratana Somchai Somsri Suchin Sukhon Sumalee Tasanee Thurian Tola Vanida
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	mien = { #Yao culture
+		graphical_culture = chinesegfx
+		second_graphical_culture = mongolgfx # Fallback type
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.3 0.6 0.2 }
+		
+		male_names = {
+			Bing_Bing Byauh_Biao Cenzfuk_Quanfu Ciqgaoh_Zhigao Ciucuek_Zhaozhuo Cuengh_Zhen Gozcing_Guoqing Yenfanh_Xianfan
+			Aran Aroon Chanarong Daw Kamol Kasem Khemkhaeng Kiet Klahan Mongkut Niran Som Sunan Virote
+		}
+		female_names = {
+			Bing_Bing
 			Isra Kanya Kulap Lawan Mali Pakpao Phailin Phueng Ratana Somchai Somsri Suchin Sukhon Sumalee Tasanee Thurian Tola Vanida
 		}
 
@@ -89,10 +147,29 @@ tai_kadai = {
 }
 
 burman = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
+		
 	bamar = {
 		graphical_culture = mongolgfx
 		
 		color = { 0.4 0.4 0.2 }
+		
+		male_names = {
+			Arun Aung Aye Bourey Chankrisna Dara Hlaing Maung
+		}
+		female_names = {
+			Chit Cho Hla
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	lolo = {
+		graphical_culture = mongolgfx
+		
+		color = { 0.6 0.6 0.2 }
 		
 		male_names = {
 			Arun Aung Aye Bourey Chankrisna Dara Hlaing Maung
@@ -124,6 +201,9 @@ burman = {
 }
 
 mon_khmer = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
+		
 	mon = {
 		graphical_culture = mongolgfx
 		
@@ -163,6 +243,9 @@ mon_khmer = {
 }
 
 chamic = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx # Fallback type
+		
 	cham = {
 		graphical_culture = mongolgfx
 		

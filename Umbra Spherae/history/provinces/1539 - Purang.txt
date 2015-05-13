@@ -4,7 +4,7 @@
 title = c_purang
 # Settlements
 max_settlements = 6
-b_taya = castle
+b_taya = tribal
 b_purang = city
 #b_tingche = castle
 #b_gangzi = city

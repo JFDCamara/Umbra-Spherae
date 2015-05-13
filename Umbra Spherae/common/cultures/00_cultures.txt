@@ -2654,51 +2654,6 @@ iranian = {
 east_african = {
 	graphical_culture = muslimgfx
 
-coptic = {
-		graphical_culture = muslimgfx
-		secondary_event_pictures = bedouin_arabic
-		
-		color = { 0.8 0.4 0.4 }
-
-		male_names = {
-			Aaron_Aaron Abanoub Abderahman_Abderrahman Abianos_Abijah Abisalom Ablarion Abraam_Abraham Agathon_Agathos Agathonikos_Agathonikos Agathos_Agathos
-			Androus_Andrew Anthinos_Anthimos Arsenios_Arsenios Ashraf_Ashraf Athanasios_Athanasius Biktor_Victor Binyamin_Benjamin Bishoi_Bishara Boutros_Peter
-			Danyal_Daniel Da’oud_David Ezra_Ezra Gabri’el_Gabriel Georgios_George Habil_Abel Hanri_Henry Haroun_Aaron Ilyas_Elijah Jerjer_Gregory 
-			Krystafer_Christopher Lot_Lothar Matta_Matthew Mikail_Michael Mikhael_Michael Milad_Milad Mina_Menas Musa_Moses Pamin Shenouda Tadros_Theodore Touma_Thomas
-			Yared Youssef_Joseph Zaia_Isaiah
-		}
-		female_names = {
-			Demiana Elpis_Hope Hannah_Anna Hawwa_Eve Ilizabith_Elizabeth Kasrin_Catherine Kristina_Christine Mariam_Maria Marta_Martha Maysoon_Maysoon Paisi
-			Piama Piamun Potamina Samia_Samira Sofia_Sofia Talida_Taliba Virina_Veronica
-		}
-		from_dynasty_prefix = " "
-
-		modifier = default_culture_modifier
-	}
-	beja = {
-		graphical_culture = africangfx
-		secondary_event_pictures = bedouin_arabic
-		
-		color = { 0.5 0.4 0.5 }
-
-		male_names = {
-			Aarôn_Aaron Aberikos Abraam_Abraham Añgelos_Angelus Andreas_Andrew Athanasios Balô Bartholomaios_Bartholomew Birêl Chael Christophoros Dauid_David Dimetheos_Timothy
-			Dioskoros Diônisios_Dionysus Djoel_Joel Eliezer Eionkouda Emmanouel_Emmanuel Enôch_Enoch Ephannê Epimachos Epiphanios Gabriel_Gabriel Gabrielkouda Gabrielophorou Gennatios_Gennadius
-			Geôrgios_George Hêlias_Elias Hoase_Jesse Hoassi_Jesse Hoasse_Jesse Ieremias Iêsous_Jesus Iêsousinkouda Iôannou_Jonah Iôannês_John
-			Kuriakos_Kyriakos Kurillos_Cyril Lazaros_Lazarus Leon_Leo Leontios_Leontius Makarios_Makarius Mariana Mariankouda Marianos_Marianus Marios_Marius Markos_Marcus Marturophoros
-			Mašanñal Maththias_Matthew Mêlênkouda Mena Menankouda Merkourios_Mercurius Michaêl_Michael Michaêlkouda Mouses_Moses Orna Panigiros Papasinen Papasinkouda Patrikios_Patrick
-			Paulos_Paul Petros_Peter Petrou Philotheos Philemon Prochoros Raphael Raphaelkouda Samson Senouthios Sentiko Sergios_Sergius Solomôn_Solomon Sotinkouda Stephanos_Stephen
-			Stephanou Thadeosi_Thaddeus Theodôros_Theodore Theodosios_Theodosius Theodote Thoma_Thomas Tophêna Tirsakouni Zacharias_Zachary Zosima_Zosimus
-		}
-		female_names = {
-			Agathe Alethia Anthelia Athanasia Chaelsoñoja Chrissa Christina Egaloskoura Eikkir Eionmnne Eionñoka Eitou Elisabeth_Elizabeth Eirena Eirene Eirota Eirotatouññlki
-			Entaeiri Eôneille Ephannê Epimachosi Eudosia_Eudoxia Eulabia Eusebia Eustephanou Fatima Genseoua Hellene_Helen Hemene Iannia_Joan Iêsousyko Ioustina Kel Kerike Kersiami Kettoudi
-			Keudonia Maria_Maria Mariam_Maria Mariane Marianou Michaêliko_Michaela Ñašša Ñeššadena Ñejin Ñilesa Ñojjl Ñoltou Ñonne Ñonnen Ñouddl Ñssitkitol Ouarenô Patrikia_Patricia Pelagia
-			Penatti Pesanthia Petronia Prisisilla Rahimah Sophia Sousanna Staurophania Theobronia Theodorake Theodosia Theophania Theophilia Theipisthe Theozia Zerebekka
-		}
-
-		modifier = default_culture_modifier
-	}
 	ethiopian = {
 		graphical_culture = africangfx
 		secondary_event_pictures = bedouin_arabic
@@ -2720,26 +2675,80 @@ coptic = {
 
 		modifier = default_culture_modifier
 	}
-	afar = {
+	somali = {
 		graphical_culture = africangfx
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.6 0.8 0.3 }
+		
+		color = { 0.2 0.2 0.1 }
 
 		male_names = {
-			Abdale Abdelahi Abdi Abdikarim Abdisalaan Abdul Abdulaahi Abdulahi Abdullah Abdullahi Aberashid Abtidoon Abukar Adam_Adam Adirizak Ahmad Ahmed
-			Ali_Ali Arale Aul Awaale Ayan Azhar Badlay Bahdoon Barakat Barre Cali Caraale Ciise Cusmaan Dable Dalmr Dhidhin Geeddi Geedi Ghedi Guleed
-			Gutaale Hadji Hakim Hamar Hanad Haqq Harti Hasan Hassan Hirsi Hussein Ibraahin Ibrahiim_Abraham Ibrahim_Abraham Jabir Jamal Jwahir Kaahin Kalif Khalid
-			Khayre Kooge Korfa Labaan Liban Liibaan Mahdi Mansur Maxamed Maxamuud Mohamed_Muhammed Mohammed_Muhammed Mohamoud Mohamud Nadif Nahwi Naleye Nur Nuruddin
-			Omar_Omar Omer Osman Othman Raage Raxman Roble Sa'ad Sabr Sallan Samakab Samatar Shams Sherif Shermarke Siad Siciid Sihab Taban Umar Waabberi
-			Warsame Yusuf_Joseph Yuusuf
+			Abadir Abdale Abdirahman Abdulah_Abdullah Abram Abu-Bakr Adan Adeer Ahmed Ali Amlale Aul Awe
+			Aydahis Balad Baraka Barakat Ciise Dagale Dhidhin Hamalmal Hamar Hamid Hantale Haqq Harire
+			Ibrahim Irir Isman Jamal Kadhafo Kedafu Khalaf Liban Mahammad_Muhammad Mahamed_Muhammed
+			Mahamud_Mahmud Mansur Nahwi Naleye Nassir Nur Omer Sa'ad Sa'adaddin Sabir Sabr Sabraddin
+			Sadiq Salah Siciid Talha Umar Umardin Yayyo Yusuf Zuber_Zubeyr
 		}
 		female_names = {
-			Aasha Abyan Adey Aisha Alaso Amal Ambro Amina Asli Awa Awatif Awrala Ayaan Aziza Baar Barni Barwaaqo Basra Beerlula Cadey Calaso Cambro Canab Cawo Cawralla Cawralo Cibaado Cosob Dahabo Deka Dekah Dekka Dolie Ebyan Faadumo Fadumo Farhiyo Fartun Fathia Fatima Fawzia Fowsia Haboon Hafsa Haweeya Hibaaq Hindisa Hodan Hoodo Ibtisam Idil Ilhan Ilwaad Jamilla Kinsi Koos Leyla Magol Maka Mariam Muna Nadifa Nafiso Naja Najmo Obax Rhaxma Saafi Sagal Sahra Saxarla Sharifa Shukri Sufia Sumayo Suuban Ubah Ubax Walasma Waris Zaynab Zeinab
-			}
+			Aasha Adey Alaso Ambro Amburo Asha Asli Astur Awa Awrala Ayaan Barni Basr Beydaan
+			Billan Canab Cawo Deeqa Delombira Dobira Faadumo Fathia Fawzia Geesi Haweeya Hibaaq
+			Hodan Hoodo Iftiin Jiinow Khadra Ladan Leyla_Laila Libin Luula Magol Maka Mariam
+			Mulki Nasteexo Sagal Sahra Sufia Ubah Ubax Waris Xalwo
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
 
 		modifier = default_culture_modifier
 	}
-	omotic = {
+	nubian = {
+		graphical_culture = africangfx
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.35 0.7 0.25 }
+
+		male_names = {
+			Aarôn_Aaron Aberikos Abraam_Abraham Añgelos_Angelus Andreas_Andrew Athanasios Balô Bartholomaios_Bartholomew Birêl Chael Christophoros Dauid_David Dimetheos_Timothy
+			Dioskoros Diônisios_Dionysus Eliezer Eionkouda Emmanouel_Emmanuel Enôch_Enoch Ephannê Epimachos Epiphanios Gabriel_Gabriel Gabrielkouda Gabrielophorou Gennatios_Gennadius
+			Geôrgios_George Hêlias_Elias Hoase_Jesse Hoassi_Jesse Hoasse_Jesse Iacob_Jacob Ieremias_Jeremiah Iêsous_Jesus Iêsousinkouda Iôannou_Jonah Iôannês_John Iordanes_Jordanes Ioseph_Joseph Kalinikos_Kallinikios Kollouthos
+			Krisanthos_Chrystanthos Kuriakos_Kyriakos Kurillos_Cyril Lazaros_Lazarus Leon_Leo Leontios_Leontius Makarios_Makarius Mariana Mariankouda Marianos_Marianus Marios_Marius Markos_Marcus Marturophoros
+			Mašanñal Maththias_Matthew Mêlênkouda Mena Menankouda Merkourios_Mercurius Michaêl_Michael Michaêlkouda Mouses_Moses Orna Panigiros Papasinen Papasinkouda Patrikios_Patrick
+			Paulos_Paul Petros_Peter Petrou Philotheos Philemon Prochoros Raphael Raphaelkouda Samson Senouthios Sentiko Sergios_Sergius Simeoni_Simon Soizuros Solomôn_Solomon Sotinkouda Stephanos_Stephen
+			Stephanou Thadeosi_Thaddeus Theodôros_Theodore Theodosios_Theodosius Theodote_Theodat Thoma_Thomas Tophêna Tirsakouni Zacharias_Zachary Zosima_Zosimus
+		}
+		female_names = {
+			Agathe Alethia Anthelia Athanasia Chaelsoñoja Chrissa Christina Douriko Egaloskoura Eikkir Eionmnne Eionñoka Eitou Elisabeth_Elizabeth Eirena Eirene Eirota Eirotatouññlki
+			Entaeiri Eôneille Ephannê Epimachosi Eudosia_Eudoxia Eulabia Eusebia Eustephanou Fatima Genseoua Hellene_Helen Hemene Iannia_Joan Iêsousyko Ioustina_Justina Kel Kerike Kersiami Kettoudi
+			Keudonia Kurake_Kyriake Maraña Maria_Maria Mariam_Maria Mariane Marianou Michaêliko_Michaela Ñašša Ñeššadena Ñejin Ñilesa Ñojjl Ñoltou Ñonne Ñonnen Ñouddl Ñssitkitol Ouarenô Patrikia_Patricia Pelagia
+			Penatti Pesanthia Petronia Prisisilla_Priscilla Rahimah Sophia Sousanna Staurophania Theobronia Theodorake Theodosia Theognosta Theophania Theophilia Theipisthe Theozia Zerebekka
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+
+		modifier = default_culture_modifier
+	}
+	coptic = {
+		graphical_culture = muslimgfx
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.8 0.4 0.4 }
+
+		male_names = {
+			Aaron_Aaron Abanoub Abderahman_Abderrahman Abianos_Abijah Abisalom Ablarion Abraam_Abraham Agathon_Agathos Agathonikos_Agathonikos Agathos_Agathos
+			Androus_Andrew Anthinos_Anthimos Arsenios_Arsenios Ashraf_Ashraf Athanasios_Athanasius Biktor_Victor Binyamin_Benjamin Bishoi_Bishara Boutros_Peter
+			Danyal_Daniel Da’oud_David Ezra_Ezra Gabri’el_Gabriel Georgios_George Habil_Abel Hanri_Henry Haroun_Aaron Ilyas_Elijah Jerjer_Gregory 
+			Krystafer_Christopher Lot_Lothar Matta_Matthew Mikail_Michael Mikhael_Michael Milad_Milad Mina_Menas Musa_Moses Pamin Shenouda Tadros_Theodore Touma_Thomas
+			Yared Youssef_Joseph Zaia_Isaiah
+		}
+		female_names = {
+			Demiana Elpis_Hope Hannah_Anna Hawwa_Eve Ilizabith_Elizabeth Kasrin_Catherine Kristina_Christine Mariam_Maria Marta_Martha Maysoon_Maysoon Paisi
+			Piama Piamun Potamina Samia_Samira Sofia_Sofia Talida_Taliba Virina_Veronica
+		}
+		from_dynasty_prefix = " "
+
+		modifier = default_culture_modifier
+	}
+		omotic = {
 		graphical_culture = africangfx
 		secondary_event_pictures = bedouin_arabic
 		
@@ -2778,60 +2787,6 @@ coptic = {
 		female_names = {
 			Aasha Abyan Adey Aisha Alaso Amal Ambro Amina Asli Awa Awatif Awrala Ayaan Aziza Baar Barni Barwaaqo Basra Beerlula Cadey Calaso Cambro Canab Cawo Cawralla Cawralo Cibaado Cosob Dahabo Deka Dekah Dekka Dolie Ebyan Faadumo Fadumo Farhiyo Fartun Fathia Fatima Fawzia Fowsia Haboon Hafsa Haweeya Hibaaq Hindisa Hodan Hoodo Ibtisam Idil Ilhan Ilwaad Jamilla Kinsi Koos Leyla Magol Maka Mariam Muna Nadifa Nafiso Naja Najmo Obax Rhaxma Saafi Sagal Sahra Saxarla Sharifa Shukri Sufia Sumayo Suuban Ubah Ubax Walasma Waris Zaynab Zeinab
 			}
-
-		modifier = default_culture_modifier
-	}
-	
-	somali = {
-		graphical_culture = africangfx
-		secondary_event_pictures = bedouin_arabic
-		
-		color = { 0.2 0.2 0.1 }
-
-		male_names = {
-			Abadir Abdale Abdirahman Abdulah_Abdullah Abram Abu-Bakr Adan Adeer Ahmed Ali Amlale Aul Awe
-			Aydahis Balad Baraka Barakat Ciise Dagale Dhidhin Hamalmal Hamar Hamid Hantale Haqq Harire
-			Ibrahim Irir Isman Jamal Kadhafo Kedafu Khalaf Liban Mahammad_Muhammad Mahamed_Muhammed
-			Mahamud_Mahmud Mansur Nahwi Naleye Nassir Nur Omer Sa'ad Sa'adaddin Sabir Sabr Sabraddin
-			Sadiq Salah Siciid Talha Umar Umardin Yayyo Yusuf Zuber_Zubeyr
-		}
-		female_names = {
-			Aasha Adey Alaso Ambro Amburo Asha Asli Astur Awa Awrala Ayaan Barni Basr Beydaan
-			Billan Canab Cawo Deeqa Delombira Dobira Faadumo Fathia Fawzia Geesi Haweeya Hibaaq
-			Hodan Hoodo Iftiin Jiinow Khadra Ladan Leyla_Laila Libin Luula Magol Maka Mariam
-			Mulki Nasteexo Sagal Sahra Sufia Ubah Ubax Waris Xalwo
-		}
-		
-		founder_named_dynasties = yes
-		dukes_called_kings = yes
-
-		modifier = default_culture_modifier
-	}
-	
-	nubian = {
-		graphical_culture = africangfx
-		secondary_event_pictures = bedouin_arabic
-		
-		color = { 0.35 0.7 0.25 }
-
-		male_names = {
-			Aarôn_Aaron Aberikos Abraam_Abraham Añgelos_Angelus Andreas_Andrew Athanasios Balô Bartholomaios_Bartholomew Birêl Chael Christophoros Dauid_David Dimetheos_Timothy
-			Dioskoros Diônisios_Dionysus Eliezer Eionkouda Emmanouel_Emmanuel Enôch_Enoch Ephannê Epimachos Epiphanios Gabriel_Gabriel Gabrielkouda Gabrielophorou Gennatios_Gennadius
-			Geôrgios_George Hêlias_Elias Hoase_Jesse Hoassi_Jesse Hoasse_Jesse Iacob_Jacob Ieremias_Jeremiah Iêsous_Jesus Iêsousinkouda Iôannou_Jonah Iôannês_John Iordanes_Jordanes Ioseph_Joseph Kalinikos_Kallinikios Kollouthos
-			Krisanthos_Chrystanthos Kuriakos_Kyriakos Kurillos_Cyril Lazaros_Lazarus Leon_Leo Leontios_Leontius Makarios_Makarius Mariana Mariankouda Marianos_Marianus Marios_Marius Markos_Marcus Marturophoros
-			Mašanñal Maththias_Matthew Mêlênkouda Mena Menankouda Merkourios_Mercurius Michaêl_Michael Michaêlkouda Mouses_Moses Orna Panigiros Papasinen Papasinkouda Patrikios_Patrick
-			Paulos_Paul Petros_Peter Petrou Philotheos Philemon Prochoros Raphael Raphaelkouda Samson Senouthios Sentiko Sergios_Sergius Simeoni_Simon Soizuros Solomôn_Solomon Sotinkouda Stephanos_Stephen
-			Stephanou Thadeosi_Thaddeus Theodôros_Theodore Theodosios_Theodosius Theodote_Theodat Thoma_Thomas Tophêna Tirsakouni Zacharias_Zachary Zosima_Zosimus
-		}
-		female_names = {
-			Agathe Alethia Anthelia Athanasia Chaelsoñoja Chrissa Christina Douriko Egaloskoura Eikkir Eionmnne Eionñoka Eitou Elisabeth_Elizabeth Eirena Eirene Eirota Eirotatouññlki
-			Entaeiri Eôneille Ephannê Epimachosi Eudosia_Eudoxia Eulabia Eusebia Eustephanou Fatima Genseoua Hellene_Helen Hemene Iannia_Joan Iêsousyko Ioustina_Justina Kel Kerike Kersiami Kettoudi
-			Keudonia Kurake_Kyriake Maraña Maria_Maria Mariam_Maria Mariane Marianou Michaêliko_Michaela Ñašša Ñeššadena Ñejin Ñilesa Ñojjl Ñoltou Ñonne Ñonnen Ñouddl Ñssitkitol Ouarenô Patrikia_Patricia Pelagia
-			Penatti Pesanthia Petronia Prisisilla_Priscilla Rahimah Sophia Sousanna Staurophania Theobronia Theodorake Theodosia Theognosta Theophania Theophilia Theipisthe Theozia Zerebekka
-		}
-		
-		founder_named_dynasties = yes
-		dukes_called_kings = yes
 
 		modifier = default_culture_modifier
 	}

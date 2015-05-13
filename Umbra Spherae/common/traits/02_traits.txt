@@ -971,9 +971,11 @@ gamer = {
 	lifestyle = yes
 	
 	potential = {
-		NOT = { culture = japanese }
-		NOT = { culture_group = korean_group }
-		NOT = { culture_group = chinese }
+		NOT = {
+			culture = japanese
+			culture_group = korean_group
+			culture_group = chinese
+		}
 	}
 	
 	opposites =  {

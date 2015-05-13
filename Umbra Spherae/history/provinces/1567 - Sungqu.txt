@@ -4,7 +4,7 @@
 title = c_sungqu
 # Settlements
 max_settlements = 4
-b_sirza_degu = castle
+b_sirza_degu = tribal
 b_sungqu = city
 b_huanglong = temple
 #b_ercun = castle
@@ -14,6 +14,6 @@ b_huanglong = temple
 
 # Misc
 culture = qiang
-religion = bon
+religion = rmagao
 
 # History

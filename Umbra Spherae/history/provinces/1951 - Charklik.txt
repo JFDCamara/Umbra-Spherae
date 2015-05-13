@@ -15,7 +15,8 @@ b_charklik = city
 #b_xiapu_tuleke =
 
 # Misc
-culture = uyghur
-religion = buddhist
+culture = tocharian
+religion = mahayana
 
 # History
+866.1.1={ religion = mahayana culture = uyghur }#Kingdom of Qocho

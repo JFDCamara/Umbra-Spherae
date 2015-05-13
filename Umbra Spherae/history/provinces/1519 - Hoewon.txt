@@ -5,8 +5,8 @@ title = c_hoewon
 
 # Settlements
 max_settlements = 7
-b_dalju = castle
-b_wolju = castle
+b_dalju = tribal
+b_wolju = tribal
 #b_hoeju =
 #b_giju =
 #b_buju_hoewon =

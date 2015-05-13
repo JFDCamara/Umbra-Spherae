@@ -13,6 +13,7 @@ b_shuonieke_chinchi_talas = tribal
 
 # Misc
 culture = uyghur
-religion = buddhist
+religion = manichean
 
 # History
+856.1.1={ religion = mahayana }#Kingdom of Qocho

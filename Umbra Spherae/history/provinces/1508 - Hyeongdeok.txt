@@ -5,8 +5,8 @@ title = c_hyeongdeok
 
 # Settlements
 max_settlements = 6
-b_hyeonju = castle
-b_noju = castle
+b_hyeonju = tribal
+b_noju = tribal
 #b_cheolju =
 #b_tangju =
 #b_yeongju_heyongdeok =

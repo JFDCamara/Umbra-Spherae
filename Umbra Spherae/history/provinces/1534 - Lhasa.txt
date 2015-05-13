@@ -4,12 +4,12 @@
 title = c_lhasa
 # Settlements
 max_settlements = 7
-b_potala = castle
+b_potala = tribal
 b_lhasa = city
 b_jokhang = temple
 b_ramoche = temple
 b_reting = temple
-b_kunggar = castle
+b_kunggar = tribal
 #b_quxu = castle
 #b_lhunzhub = city
 

@@ -1,200 +1,202 @@
+#########New Chinese Dynasty id Range 1.000.156.000 - 1.000.156.999 ######
+
 1000027500 = {
-    name="Zhao"#?
+    name="Zhào"#Zhào-趙
     culture = han
 }
 
 1000027501 = {
-		name="Jian"#?
+		name="Jiàn"#Jiàn-剑
 		culture = han
 }
 
 1000027502 = {
-		name="Sun"#?
+		name="Sün"#Sūn-孙
 		culture = han
 }
 
 1000027503 = {
-		name="Li"#?
+		name="Lî"#Lǐ-李
 		culture = han
 }
 
 1000027504 = {
-		name="Zhou"#?
+		name="Zhöu"#Zhōu-周
 		culture = han
 }
 
 1000027505 = {
-		name="Wu"#?
+		name="Wú"#Wú-吴
 		culture = han
 }
 
 1000027506 = {
-		name="Zheng"#?
+		name="Zhèng"#Zhèng-郑
 		culture = han
 }
 
 1000027507 = {
-		name="Wang"#?
+		name="Wáng"#Wáng-王
 		culture = han
 }
 
 1000027508 = {
-		name="Feng"#?
+		name="Féng"#Féng-冯
 		culture = han
 }
 
 1000027509 = {
-		name="Chen"#?
+		name="Chén"#Chén-陈
 		culture = han
 }
 
 1000027510 = {
-		name="Chu"#?
+		name="Chû"#Chǔ-褚
 		culture = han
 }
 
 1000027511 = {
-		name="Wei"#?
+		name="Wèi"#Wèi-魏
 		culture = han
 }
 
 1000027512 = {
-		name="Jiang"#?
+		name="Jiâng"#Jiǎng-蒋
 		culture = han
 }
 
 1000027513 = {
-		name="Han"#?
+		name="Hán"#Hán-韩
 		culture = han
 }
 
 1000027514 = {
-		name="Yang"#?
+		name="Yáng"#Yáng-杨
 		culture = han
 }
 
 1000027515 = {
-		name="Shu"#?
+		name="Shû"#Shǔ-蜀
 		culture = han
 }
 
 1000027516 = {
-		name="Jin"#?
+		name="Jïn"#Jīn-金
 		culture = han
 }
 
 1000027517 = {
-		name="You"#?
+		name="Yóu"#Yóu-尤
 		culture = han
 }
 
 1000027518 = {
-		name="Xu"#?
+		name="Xú"#Xú-徐
 		culture = han
 }
 
 1000027519 = {
-		name="Shen"#?
+		name="Shên"#Shěn-沈
 		culture = han
 }
 
 1000027520 = {
-		name="He"#?
+		name="Hú"#Hú-胡
 		culture = han
 }
 
 1000027521 = {
-		name="Lv"#?
+		name="Lû"#Lǔ-鲁
 		culture = han
 }
 
 1000027522 = {
-		name="Shi"#?
+		name="Shí"#Shí-石
 		culture = han
 }
 
 1000027523 = {
-		name="Zhang"#?
+		name="Zhäng"#Zhāng-张
 		culture = han
 }
 
 1000027524 = {
-		name="Kong"#?
+		name="Kông"#Kǒng-孔
 		culture = han
 }
 
 1000027525 = {
-		name="Cao"#?
+		name="Cáo"#Cáo-曹
 		culture = han
 }
 
 1000027526 = {
-		name="Yan"#?
+		name="Yán"#Yán-闫
 		culture = han
 }
 
 1000027527 = {
-		name="Hua"#?
+		name="Huà"#Huà-华
 		culture = han
 }
 
 1000027528 = {
-		name="Jin"#?
+		name="Jìn"#Jìn-晉
 		culture = han
 }
 
 1000027529 = {
-		name="Wei"#?
+		name="Wèi"#Wèi-尉
 		culture = han
 }
 
 1000027530 = {
-		name="Tao"#?
+		name="Táo"#Táo-陶
 		culture = han
 }
 
 1000027531 = {
-		name="Jiang"#?
+		name="Jiäng"#Jiāng-姜
 		culture = han
 }
 
 1000027532 = {
-		name="Qi"#?
+		name="Qí"#Qí-齐
 		culture = han
 }
 
 1000027533 = {
-		name="Xiao"#?
+		name="Xiäo"#Xiāo-肖
 		culture = han
 }
 
 1000027534 = {
-		name="Zou"#?
+		name="Zöu"#Zōu-邹
 		culture = han
 }
 
 1000027535 = {
-		name="Yu"#?
+		name="Yú"#Yú-于
 		culture = han
 }
 
 1000027536 = {
-		name="Bai"#?
+		name="Bái"#Bái-白
 		culture = han
 }
 
 1000027537 = {
-		name="Shui"#?
+		name="Shuî"#Shuǐ-水
 		culture = han
 }
 
 1000027538 = {
-		name="Dou"#?
+		name="Dòu"#Dòu-竇
 		culture = han
 }
 
 1000027539 = {
-		name="Zhang"#?
+		name="Zhäng"#Zhāng-张
 		culture = han
 }
 
@@ -204,12 +206,12 @@
 }
 
 1000027541 = {
-		name="Su"#?
+		name="Sü"#Sū-苏
 		culture = han
 }
 
 1000027542 = {
-		name="Pan"#?
+		name="Pän"#Pān-潘
 		culture = han
 }
 
@@ -224,12 +226,12 @@
 }
 
 1000027545 = {
-		name="Fan"#?
+		name="Fàn"#Fàn-范
 		culture = han
 }
 
 1000027546 = {
-		name="Peng"#?
+		name="Péng"#Péng-彭
 		culture = han
 }
 
@@ -239,22 +241,22 @@
 }
 
 1000027548 = {
-		name="Lu"#?
+		name="Lü"#Lǚ-吕
 		culture = han
 }
 
 1000027549 = {
-		name="Wei"#?
+		name="Wèi"#Wèi-韋
 		culture = han
 }
 
 1000027550 = {
-		name="Chang"#?
+		name="Cháng"#Cháng-常
 		culture = han
 }
 
 1000027551 = {
-		name="Ma"#?
+		name="Mâ"#Mǎ-马
 		culture = han
 }
 
@@ -264,7 +266,7 @@
 }
 
 1000027553 = {
-		name="Feng"#?
+		name="Dèng"#Dèng-邓
 		culture = han
 }
 
@@ -274,27 +276,27 @@
 }
 
 1000027555 = {
-		name="Fang"#?
+		name="Fäng"#Fāng-方
 		culture = han
 }
 
 1000027556 = {
-		name="Yu"#?
+		name="Yú"#Yú-余
 		culture = han
 }
 
 1000027557 = {
-		name="Ren"#?
+		name="Rèn"#Rèn-任
 		culture = han
 }
 
 1000027558 = {
-		name="Yuan"#?
+		name="Yuán"#Yuán-袁
 		culture = han
 }
 
 1000027559 = {
-		name="Liu"#?
+		name="Liú"#Liú-刘
 		culture = han
 }
 
@@ -309,12 +311,12 @@
 }
 
 1000027562 = {
-		name="Shi"#?
+		name="Shî"#Shǐ-史
 		culture = han
 }
 
 1000027563 = {
-		name="Tang"#?
+		name="Táng"#Táng-唐
 		culture = han
 }
 
@@ -339,12 +341,12 @@
 }
 
 1000027568 = {
-		name="Lei"#?
+		name="Léi"#Léi-雷
 		culture = han
 }
 
 1000027569 = {
-		name="He"#?
+		name="Hé"#Hé-何
 		culture = han
 }
 
@@ -364,12 +366,12 @@
 }
 
 1000027573 = {
-		name="Yin"#?
+		name="Yîn"#Yǐn-尹
 		culture = han
 }
 
 1000027574 = {
-		name="Luo"#?
+		name="Luó"#Luó-罗
 		culture = han
 }
 
@@ -379,27 +381,27 @@
 }
 
 1000027576 = {
-		name="Hao"#?
+		name="Hâo"#Hǎo-郝
 		culture = han
 }
 
 1000027577 = {
-		name="Wu"#?
+		name="Huáng"#Huáng-黄
 		culture = han
 }
 
 1000027578 = {
-		name="An"#?
+		name="Än"#Ān-安
 		culture = han
 }
 
 1000027579 = {
-		name="Chang"#?
+		name="Zhäng"#Zhāng-张
 		culture = han
 }
 
 1000027699 = {
-		name="Wu"#?
+		name="Wû"#Wǔ-武
 		culture = han
 }
 
@@ -424,7 +426,7 @@
 	culture = bai
 }
 1000028326 = {
-	name="Duan"
+	name="Duàn"#Duàn-段
 	culture = bai
 }
 
@@ -445,4 +447,65 @@
 1000027697 = {
     name="Shiwei"
     culture=xianbei
+}
+#New Range begins
+1000156000 = {
+		name="Än"#Ān-俺
+		culture = zhuhui
+}
+1000156001 = {
+		name="Jïn"#Jīn-金
+		culture = zhuhui
+}
+1000156002 = {
+		name="Shí"#Shí-石
+		culture = zhuhui
+}
+1000156003 = {
+		name="Lî"#Lǐ-李
+		culture = zhuhui
+}
+1000156004 = {
+    name="Zhào"#Zhào-趙
+    culture = zhuhui
+}
+1000156005 = {
+		name="Zhäng"#Zhāng-張
+		culture = zhuhui
+}
+1000156006 = {
+		name="Ài"#Ài-艾
+		culture = zhuhui
+}
+1000156007 = {
+		name="Gäo"#Gāo-高
+		culture = zhuhui
+}
+1000156008 = {
+		name="Nungz"#Nóng-儂
+		culture = zhuang
+}
+1000156009 = {
+		name="Veiz"#Wéi-韦
+		culture = zhuang
+}
+1000156010 = {
+		name="Bya"#Bā-叭
+		culture = zhuang
+}
+1000156011 = {
+		name="Luz"#Lù-陆
+		culture = zhuang
+}
+1000156012 = {
+		name="Leix"#Lǐ-李
+		culture = zhuang
+}
+1000156013 = {
+		name="Vangz"#Huáng-黄
+		culture = zhuang
+}
+1000156014 = {
+		name="Maj"#Mǎ-马
+		culture = zhuang
 }

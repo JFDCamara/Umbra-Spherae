@@ -15,3 +15,5 @@ culture = cuman
 religion = tengri_pagan
 
 # History
+847.1.1={ culture = kirghiz }#Fall of Uyghur Khaganate
+1219.1.1={ culture = mongol }#Fall of Kyrghiz Khaganate

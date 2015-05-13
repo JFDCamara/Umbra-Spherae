@@ -4,7 +4,7 @@
 	name="Vijaya-Vikrama"
 	dynasty=1000027693 #Yuchi
 	religion="mahayana"
-	culture="tocharian"
+	culture="khotan"
 	737.1.1={
 		birth="737.1.1"
 	}
@@ -17,7 +17,7 @@
 	name="Vijaya-Nakhan"
 	dynasty=1000027693 #Yuchi
 	religion="mahayana"
-	culture="tocharian"
+	culture="khotan"
 	father=1000202380
 	767.1.1={
 		birth="767.1.1"
@@ -31,7 +31,7 @@
 	name="Vijaya-Kirti"
 	dynasty=1000027693 #Yuchi
 	religion="mahayana"
-	culture="tocharian"
+	culture="khotan"
 	father=1000202381
 	810.1.1={
 		birth="810.1.1"
@@ -45,7 +45,7 @@
 	name="Vijaya-Vikrama"
 	dynasty=1000027693 #Yuchi
 	religion="mahayana"
-	culture="tocharian"
+	culture="khotan"
 	father=1000202382
 	830.1.1={
 		birth="830.1.1"
@@ -59,7 +59,7 @@
 	name="Vijaya-Samgrama"
 	dynasty=1000027693 #Yuchi
 	religion="mahayana"
-	culture="tocharian"
+	culture="khotan"
 	father=1000202383
 	850.1.1={
 		birth="850.1.1"
@@ -73,7 +73,7 @@
 	name="Vijaya-Sambhava"
 	dynasty=1000027693 #Yuchi
 	religion="mahayana"
-	culture="tocharian"
+	culture="khotan"
 	father=1000202384
 	880.1.1={
 		birth="880.1.1"
@@ -87,7 +87,7 @@
 	name="Vijaya-Sura"
 	dynasty=1000027693 #Yuchi
 	religion="mahayana"
-	culture="tocharian"
+	culture="khotan"
 	father=1000202385
 	910.1.1={
 		birth="910.1.1"
@@ -101,7 +101,7 @@
 	name="Vijaya-Dharma"
 	dynasty=1000027693 #Yuchi
 	religion="mahayana"
-	culture="tocharian"
+	culture="khotan"
 	father=1000202386
 	930.1.1={
 		birth="930.1.1"
@@ -115,7 +115,7 @@
 	name="Vijaya-Samgrama"
 	dynasty=1000027693 #Yuchi
 	religion="mahayana"
-	culture="tocharian"
+	culture="khotan"
 	father=1000202387
 	950.1.1={
 		birth="950.1.1"
@@ -129,7 +129,7 @@
 	name="Vijaya-Bala"
 	dynasty=1000027693 #Yuchi
 	religion="mahayana"
-	culture="tocharian"
+	culture="khotan"
 	father=1000202388
 	980.1.1={
 		birth="980.1.1"
