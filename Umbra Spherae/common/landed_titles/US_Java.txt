@@ -26,9 +26,10 @@ e_java = {
 				color = { 218 112 53 }
     				color2= { 0 0 0 }
 
+				holy_site = java_religion
+				holy_site = java_religion_reformed
+					
 				b_daha = {
-					holy_site = java_religion
-					holy_site = java_religion_reformed
 				}
 				b_watugaluh = {
 				}
@@ -101,10 +102,11 @@ e_java = {
 
 				color = { 208 154 64 }
     				color2= { 0 0 0 }
+					
+				holy_site = java_religion
+				holy_site = java_religion_reformed
 
 				b_kahuripan = {
-					holy_site = java_religion
-					holy_site = java_religion_reformed
 				}
 				b_hujung_galuh = {
 				}
@@ -126,9 +128,10 @@ e_java = {
 				color = { 198 164 64 }
     				color2= { 0 0 0 }
 
+				holy_site = java_religion
+				holy_site = java_religion_reformed
+					
 				b_bangkalan = {
-					holy_site = java_religion
-					holy_site = java_religion_reformed
 				}
 				b_geger = {
 				}
@@ -345,10 +348,11 @@ e_java = {
 
    				color= { 99 126 213 }
     				color2= { 0 0 0  }
+					
+				holy_site = flores_religion
+				holy_site = flores_religion_reformed
 
 				b_dili = {
-					holy_site = flores_religion
-					holy_site = flores_religion_reformed
 				}
 				b_kupano = {
 				}
@@ -422,9 +426,10 @@ e_java = {
    				color= { 106 181 196 }
     				color2= { 0 0 0  }
 
+				holy_site = flores_religion
+				holy_site = flores_religion_reformed
+					
 				b_bima = {
-					holy_site = flores_religion
-					holy_site = flores_religion_reformed
 				}
 				b_dompo = {
 				}
@@ -446,9 +451,10 @@ e_java = {
    				color= { 106 171 206 }
     				color2= { 0 0 0  }
 
+				holy_site = flores_religion
+				holy_site = flores_religion_reformed
+					
 				b_gurun = {
-					holy_site = flores_religion
-					holy_site = flores_religion_reformed
 				}
 				b_saksak = {
 				}
@@ -477,10 +483,11 @@ e_java = {
 
    				color= { 105 190 207 }
     				color2= { 0 0 0  }
+				
+				holy_site = flores_religion
+				holy_site = flores_religion_reformed
 
 				b_waingapu = {
-					holy_site = flores_religion
-					holy_site = flores_religion_reformed
 				}
 				b_waikabubak = {
 				}
@@ -501,10 +508,11 @@ e_java = {
 
    				color= { 95 200 207 }
     				color2= { 0 0 0  }
+					
+				holy_site = flores_religion
+				holy_site = flores_religion_reformed
 
 				b_larantuka = {
-					holy_site = flores_religion
-					holy_site = flores_religion_reformed
 				}
 				b_waiwerang = {
 				}
@@ -541,10 +549,11 @@ e_java = {
 
    				color= { 174 52 254 }
     				color2= { 0 0 0  }
+					
+				holy_site = sulawesi_religion
+				holy_site = sulawesi_religion_reformed
 
 				b_makassar = {
-					holy_site = sulawesi_religion
-					holy_site = sulawesi_religion_reformed
 				}
 				b_galesong_selatan = {
 				}
@@ -565,10 +574,11 @@ e_java = {
 
    				color= { 164 62 254 }
     				color2= { 0 0 0  }
+					
+				holy_site = sulawesi_religion
+				holy_site = sulawesi_religion_reformed
 
 				b_bangal = {
-					holy_site = sulawesi_religion
-					holy_site = sulawesi_religion_reformed
 				}
 				b_wonomulyo = {
 				}
@@ -619,10 +629,11 @@ e_java = {
 
    				color= { 220 2 133 }
     				color2= { 0 0 0  }
+					
+				holy_site = sulawesi_religion
+				holy_site = sulawesi_religion_reformed
 
 				b_banggai = {
-					holy_site = sulawesi_religion
-					holy_site = sulawesi_religion_reformed
 				}
 				b_tinangkung = {
 				}
@@ -673,10 +684,11 @@ e_java = {
 
    				color= { 127 10 211 }
     				color2= { 0 0 0  }
+					
+				holy_site = sulawesi_religion
+				holy_site = sulawesi_religion_reformed
 
 				b_bau_bau = {
-					holy_site = sulawesi_religion
-					holy_site = sulawesi_religion_reformed
 				}
 				b_batauga = {
 				}
@@ -727,10 +739,11 @@ e_java = {
 
    				color= { 212 11 78 }
     				color2= { 0 0 0  }
+					
+				holy_site = sulawesi_religion
+				holy_site = sulawesi_religion_reformed
 
 				b_gorontalo = {
-					holy_site = sulawesi_religion
-					holy_site = sulawesi_religion_reformed
 				}
 				b_limboto = {
 				}
@@ -813,10 +826,11 @@ e_java = {
 
    				color= { 149 70 10 }
     				color2= { 0 0 0  }
+					
+				holy_site = melanesian_religion
+				holy_site = melanesian_religion_reformed
 
 				b_ternate = {
-					holy_site = melanesian_religion
-					holy_site = melanesian_religion_reformed
 				}
 				b_siko = {
 				}
@@ -889,10 +903,11 @@ e_java = {
 
    				color= { 149 95 10 }
     				color2= { 0 0 0  }
+					
+				holy_site = melanesian_religion
+				holy_site = melanesian_religion_reformed
 
 				b_tidore = {
-					holy_site = melanesian_religion
-					holy_site = melanesian_religion_reformed
 				}
 				b_cobodu = {
 				}
@@ -966,9 +981,10 @@ e_java = {
    				color= { 144 48 6 }
     				color2= { 0 0 0  }
 
+				holy_site = melanesian_religion
+				holy_site = melanesian_religion_reformed	
+					
 				b_ambon = {
-					holy_site = melanesian_religion
-					holy_site = melanesian_religion_reformed
 				}
 				b_latuhalat = {
 				}
@@ -1070,11 +1086,12 @@ e_java = {
 			c_jenggi = {
 
    				color= { 199 120 28 }
-    				color2= { 0 0 0  }
+    			color2= { 0 0 0  }
+					
+				holy_site = melanesian_religion
+				holy_site = melanesian_religion_reformed
 
 				b_jenggi = {
-					holy_site = melanesian_religion
-					holy_site = melanesian_religion_reformed
 				}
 				b_sausapor = {
 				}
@@ -1094,11 +1111,12 @@ e_java = {
 			c_huangmachu = {
 
    				color= { 189 130 28 }
-    				color2= { 0 0 0  }
+    			color2= { 0 0 0  }
+					
+				holy_site = melanesian_religion
+				holy_site = melanesian_religion_reformed
 
 				b_huangmachu = {
-					holy_site = melanesian_religion
-					holy_site = melanesian_religion_reformed
 				}
 				b_nabire = {
 				}

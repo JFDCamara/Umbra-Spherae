@@ -277,11 +277,12 @@ e_japan = {
 
 				color={ 205 132 190 }
 				color2={ 255 255 255 }
+				
+					holy_site = nihon_shinto
 
                 		b_abe = {
                 		}
                 		b_fuji = { # temple
-							holy_site = nihon_shinto
                 		}
                 		b_iwata = {
                 		}
@@ -322,12 +323,13 @@ e_japan = {
 
 				color={ 215 132 200 }
 				color2={ 255 255 255 }
+				
+					holy_site = nihon_shinto
+					holy_site = ryukyu_shinto
 
                 		b_suzuka = {
                 		}
                 		b_ise = { # temple
-							holy_site = nihon_shinto
-							holy_site = ryukyu_shinto
                 		}
                 		b_watarai = {
                 		}
@@ -398,13 +400,14 @@ e_japan = {
 
 				color={ 245 202 180 }
 				color2={ 255 255 255 }
+				
+					holy_site = nihon_shinto
 
                 		b_dairi = {
                 		}
                 		b_heiankyo = { # city
                 		}
                 		b_gion = { # temple
-							holy_site = nihon_shinto
                 		}
                 		b_toba = {
                 		}
@@ -465,9 +468,10 @@ e_japan = {
 
 				color={ 235 202 190 }
 				color2={ 255 255 255 }
+				
+					holy_site = nihon_shinto
 
                 		b_kofukuji = { # temple
-							holy_site = nihon_shinto
                 		}
                 		b_todaiji = { # temple
                 		}
@@ -534,7 +538,7 @@ e_japan = {
 			color={ 225 152 130 }
 			color2={ 255 255 255 }
 
-			capital = 1440 # Bingo
+			capital = 2306 # Bingo
 
             		c_bingo = { # capital of this duchy
 
@@ -630,18 +634,19 @@ e_japan = {
 			color={ 245 152 150 }
 			color2={ 255 255 255 }
 
-			capital = 1439 # Izumo
+			capital = 2305 # Izumo
 
             		c_izumo = {
 
 				color={ 245 122 150 }
 				color2={ 255 255 255 }
+				
+					holy_site = nihon_shinto
+					holy_site = ryukyu_shinto
 
                 		b_ou = {
                 		}
                 		b_izumo = { #temple
-							holy_site = nihon_shinto
-							holy_site = ryukyu_shinto
                 		}
                 		b_kume = {
                 		}
@@ -706,7 +711,7 @@ e_japan = {
 			color={ 225 192 170 }
 			color2={ 255 255 255 }
 
-			capital = 1446 # Iyo
+			capital = 2312 # Iyo
 
             		c_awa = {
 
@@ -780,7 +785,7 @@ e_japan = {
 			color={ 225 102 180 }
 			color2={ 255 255 255 }
 
-			capital = 1448
+			capital = 2314 #Chikuzen
 			
             		c_chikuzen = { # capital of this duchy
 
@@ -852,11 +857,12 @@ e_japan = {
 
 				color={ 245 102 180 }
 				color2={ 255 255 255 }
+				
+					holy_site = ryukyu_shinto
 
                 		b_mashiki = {
                 		}
                 		b_aso = { # temple
-							holy_site = ryukyu_shinto
                 		}
                 		b_kikuchi = {
                 		}
@@ -943,16 +949,17 @@ e_japan = {
 			color={ 205 152 180 }
 			color2={ 255 255 255 }
 
-			capital = 1453 # Mutsu
+			capital = 2319 # Mutsu
 
 			c_mutsu = { # capital of this duchy
 
 				color={ 205 132 180 }
 				color2={ 255 255 255 }
+				
+				holy_site = ainu_pantheism
+				holy_site = ainu_pantheism_reformed
 
                 		b_hiraizumi = {
-							holy_site = ainu_pantheism
-							holy_site = ainu_pantheism_reformed
                 		}
                 		b_tosaminato = { # city
                 		}
@@ -1029,12 +1036,13 @@ e_japan = {
 
 			color={ 59 153 79 }
 			color2={ 255 255 255 }
+			
+				holy_site = ainu_pantheism
+				holy_site = ainu_pantheism_reformed
 
                 	b_oshima = {
                 	}
                 	b_hiyama = {
-					holy_site = ainu_pantheism
-					holy_site = ainu_pantheism_reformed
                 	}
                 	b_iburi = {
                 	}
@@ -1053,12 +1061,13 @@ e_japan = {
 
 			color={ 39 163 69 }
 			color2={ 255 255 255 }
+			
+				holy_site = ainu_pantheism
+				holy_site = ainu_pantheism_reformed
 
                 	b_ishikari = {
                 	}
                 	b_teshiho = {
-					holy_site = ainu_pantheism
-					holy_site = ainu_pantheism_reformed
                 	}
                 	b_satporo = {
                 	}
@@ -1077,12 +1086,13 @@ e_japan = {
 
 			color={ 59 153 59 }
 			color2={ 255 255 255 }
+			
+				holy_site = ainu_pantheism
+				holy_site = ainu_pantheism_reformed
 
                 	b_kusuri = {
                 	}
                 	b_nemuro = {
-					holy_site = ainu_pantheism
-					holy_site = ainu_pantheism_reformed
                 	}
                 	b_soya = {
                 	}
@@ -1109,12 +1119,13 @@ e_japan = {
 
 			color={ 59 103 29 }
 			color2={ 255 255 255 }
+			
+					holy_site = ainu_pantheism
+					holy_site = ainu_pantheism_reformed
 
                 	b_tomari = {
                 	}
                 	b_sistukari = {
-					holy_site = ainu_pantheism
-					holy_site = ainu_pantheism_reformed
                 	}
                 	b_yuzhnosakhalinsk = {
                 	}
@@ -1173,9 +1184,10 @@ k_ryukyu = {
 
 			color={ 30 111 176 }
 			color2={ 255 255 255 }
+			
+				holy_site = ryukyu_shinto
 
                		b_shuri = {
-							holy_site = ryukyu_shinto
                 	}
                 	b_naha = { # city
                 	}
@@ -1196,9 +1208,10 @@ k_ryukyu = {
 
 			color={ 50 131 196 }
 			color2={ 255 255 255 }
+			
+				holy_site = ryukyu_shinto
 
                 	b_amami = {
-							holy_site = ryukyu_shinto
                 	}
                 	b_kikai = {
                 	}

@@ -1,8 +1,8 @@
 sivullirmiut = {
-	graphical_culture = mongolgfx
+	graphical_cultures = { mongolgfx muslimgfx }
 
 	tuniq = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { mongolgfx muslimgfx }
 
 		color = { 0.3 0.2 0.2 }
 

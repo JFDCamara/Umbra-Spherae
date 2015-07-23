@@ -36,15 +36,18 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 826;827;sea;1022;-1;-1;-1;-1;Menorca-Mallorca
 858;874;sea;1386;-1;-1;-1;-1;Aden-Tadjoura
 859;874;sea;1386;-1;-1;-1;-1;Taizz-Tadjoura
-651;653;sea;1391;-1;-1;-1;-1;Damman-Bahrein
+870;653;sea;1391;-1;-1;-1;-1;Dhu Zabi-Bahrein
 652;653;sea;1391;-1;-1;-1;-1;Al Hasa-Bahrein
 1295;1331;sea;1293;-1;-1;-1;-1;Kutch-Sonda
-1295;1268;sea;1293;-1;-1;-1;-1;Kutch-Dhamalpur
-1447;1443;sea;2183;-1;-1;-1;-1;Bungo-Nagato
-1447;1446;sea;2183;-1;-1;-1;-1;Bungo-Iyo
-1442;1446;sea;2183;-1;-1;-1;-1;Aki-Iyo
-1444;1475;sea;2183;-1;-1;-1;-1;Awa-Settsu
-1453;1480;sea;2186;-1;-1;-1;-1;Mutsu-Oshima
+301;932;sea;1003;-1;-1;-1;-1;Gotland-Tjust
+16;18;sea;968;-1;-1;-1;-1;Laigin-Dyfed
+345;470;sea;1038;-1;-1;-1;-1;Brindisi-Dyrrhachion
+641;870;sea;1393;-1;-1;-1;-1;Hormuz-Dhu Zabi
+2313;2309;sea;2183;-1;-1;-1;-1;Bungo-Nagato
+2313;2312;sea;2183;-1;-1;-1;-1;Bungo-Iyo
+2308;2312;sea;2183;-1;-1;-1;-1;Aki-Iyo
+2310;1475;sea;2183;-1;-1;-1;-1;Awa-Settsu
+2319;1480;sea;2186;-1;-1;-1;-1;Mutsu-Oshima
 2065;2066;sea;2183;-1;-1;-1;-1;Luai-Gjyeng
 1735;1792;sea;2222;-1;-1;-1;-1;Temasek-Gaung
 1735;1683;sea;2222;-1;-1;-1;-1;Temasek-Lingga

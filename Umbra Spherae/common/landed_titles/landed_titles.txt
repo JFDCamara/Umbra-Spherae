@@ -50,12 +50,9 @@ k_papal_state = {
 	
 	# Regnal names
 	male_names = {
-		John Gregory Benedict Clement Innocent Leo Pius Stephen Boniface Urban Alexander Adrian Paul
-		Celestine Martin Nicholas Sixtus Felix Sergius Anastasius Honorius Eugene Sylvester Victor
-		Lucius Callixtus Julius Pelagius Adeodatus Theodore Marinus Agapetus Damasus Paschal
-		Gelasius Marcellus "John Paul" Anacletus Evaristus Telesphorus Hyginus Anicetus Mark Hilarius 
-		Simplicius Symmachus Hormisdas Silverius Vigilius Sabinian Severinus Vitalian Donus Agatho
-		Conon Sisinnius Constantine Zachary Valentine Formosus Romanus Lando
+		Alexander Anastasius Benedictus Caelestinus Callistus Clemens Eugenius Leo
+		Gregorius Hadrianus Honorius Innocentius Ioannes Lucius Marinus Martinus
+		Nicolaus Sergius Silvester Stephanus Urbanus Victor
 	}
 }
 
@@ -85,12 +82,12 @@ k_orthodox = {
 	
 	# Regnal names
 	male_names = {
-		Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Gabriel Dionysios Dositheos 
-		Eustathios Eustratios Euthymios Gabriel Gennadios Georgios Gerasimos Germanos Gregorios Ieremias 
-		Ignatios Ioakeim Ioannes Ioseph Isidoros Kallinikos Kallistos Konstantinos Kosmas Kyrillos Leon 
-		Leontios Loukas Makarios Manuel Markos Matthaios Maximos Meletios Methodios Metrophanes Michael 
-		Neophytos Nephon Nikephoros Niketas Nikolaos Pavlos Petros Photios Polykarpos Sergios Stephanos 
-		Sophronios Theodoros Theodosios Theodotos Theophylaktos Thomas Timotheos
+		Alexios Anastasios Arsenios Athanasios Antonios	Basileios Dositheos Eustathios Eustratios
+		Euthymios Georgios Gerasimos Germanos Gregorios Ignatios Ioannes Ioseph Isaias Isidoros
+		Kallistos Konstantinos Kosmas Leon Loukas Makarios Manuel Matthaios Maximos Methodios
+		Metrophanes Michael Neophytos Nephon Nikolaos Nikephoros Nilos Pavlos Philotheos Photios
+		Polyeuktos Sergios Sisinnios Stephanos Tarasios Theodoros Theodosios Theodotos Theoleptos
+		Theophanes Theophylaktos Tryphon Zacharias
 	}
 }
 
@@ -413,12 +410,23 @@ e_mongol_empire = {
 	
 	short_name = yes
 	
-	capital = 903 # Samarkand
+	capital = 1457 # Kara-khorum
 	
-	# Always exists
 	landless = yes
 	
-#	tribe = yes
+	allow = {
+		always = no
+	}
+	
+	culture = mongol
+	religion = tengri_pagan
+}
+
+e_chagatai = {
+	color = { 200 200 200 }
+	color2 = { 0 250 250 }
+	
+	capital = 903 # Samarkand
 	
 	allow = {
 		always = no
@@ -1220,7 +1228,7 @@ d_sunni_cuman_company = {
 	
 	# Parent Religion 
 	religion = sunni
-	culture = cuman
+	culture = khazar
 	
 	mercenary = yes
 
@@ -1666,6 +1674,7 @@ d_catalan_company = {
 	# Hire Trigger
 	allow = {
 		religion_group = christian
+		year = 950
 	}
 	
 	# Parent Religion 
@@ -1896,6 +1905,7 @@ d_rus_company = {
 	
 	# Hire Trigger
 	allow = {
+		year = 950
 		OR = {
 			religion_group = pagan_group
 			religion_group = christian
@@ -2128,6 +2138,7 @@ d_catalan_band = {
 	# Hire Trigger
 	allow = {
 		religion_group = christian
+		year = 950
 	}
 	
 	# Parent Religion 
@@ -2162,6 +2173,12 @@ d_saxon_band = {
 	
 	# Hire Trigger
 	allow = {
+		OR = {
+			NOT = { year = 1100 }
+			any_independent_ruler = {
+				culture = saxon
+			}
+		}
 		religion_group = christian
 	}
 	
@@ -2225,6 +2242,7 @@ d_rus_band = {
 	
 	# Hire Trigger
 	allow = {
+		year = 950
 		OR = {
 			religion_group = christian
 			religion_group = pagan_group
@@ -2453,7 +2471,7 @@ d_scottish_band = {
 	
 	# Hire Trigger
 	allow = {
-		always = yes
+		year = 950
 	}
 	
 	# Parent Religion 

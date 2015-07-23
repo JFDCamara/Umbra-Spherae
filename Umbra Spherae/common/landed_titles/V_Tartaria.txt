@@ -77,6 +77,9 @@ e_tartaria = {
 		
 			pecheneg = "Pecheneg"
 
+			holy_site = tengri_pagan
+			holy_site = tengri_pagan_reformed
+
 			c_itil = {
 				color={ 155 122 34 }
 				color2={ 255 255 255 }
@@ -86,8 +89,6 @@ e_tartaria = {
 				b_khaganbaligh = {
 				}
 				b_saqsin = {
-					holy_site = tengri_pagan
-					holy_site = tengri_pagan_reformed
 				}
 				b_kamyzyak = {
 				}
@@ -485,14 +486,15 @@ e_tartaria = {
 			c_tobol = {
 				color={ 234 176 20 }
 				color2={ 255 255 255 }
+
+				holy_site = tengri_pagan
+				holy_site = tengri_pagan_reformed
 			
 				b_tobol = {
 				}
 				b_tara = {
 				}
 				b_isilkul = {
-					holy_site = tengri_pagan
-					holy_site = tengri_pagan_reformed
 				}
 				b_kalachinsk = {
 				}
@@ -1259,12 +1261,13 @@ e_tartaria = {
 			c_crimea = {
 				color={ 250 210 104 }
 				color2={ 255 255 255 }
+
+				holy_site = tengri_pagan
+				holy_site = tengri_pagan_reformed
 			
 				b_bakhchisaray = {
 				}
-				b_aqmescit = {
-					holy_site = tengri_pagan
-					holy_site = tengri_pagan_reformed				
+				b_aqmescit = {			
 				}
 				b_dzhankoy = {
 				}
@@ -1681,11 +1684,12 @@ e_tartaria = {
 			c_syr_darya = {
 				color={ 236 178 22 }
 				color2={ 255 255 255 }
+
+				holy_site = tengri_pagan
+				holy_site = tengri_pagan_reformed
 			
 				b_yangikent = {}
 				b_syganak = {
-					holy_site = tengri_pagan
-					holy_site = tengri_pagan_reformed
 				}
 				b_akmechet = {
 				}

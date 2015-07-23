@@ -27,15 +27,16 @@ e_tibetan_empire = {
 
     				color= { 125 106 196  }
     				color2= { 194 140 86  }
+					
+				holy_site = bon
+				holy_site = bon_reformed
+				holy_site = vajrayana
 
 				b_lhasa = {
 				}
 				b_jokhang = { #temple (in Lhasa)
 				}
 				b_reting = { #temple
-					holy_site = bon
-					holy_site = bon_reformed
-					holy_site = vajrayana
 				}
 				b_kunggar = {
 				}
@@ -92,15 +93,16 @@ e_tibetan_empire = {
 
     				color= { 105 96 186  }
     				color2= { 194 140 86  }
+					
+				holy_site = bon
+				holy_site = bon_reformed
+				holy_site = vajrayana
 
 				b_taktse = {
 				}
 				b_zetang = {
 				}
 				b_samye = { #temple
-					holy_site = bon
-					holy_site = bon_reformed
-					holy_site = vajrayana
 				}
 				b_tradruk = { #temple
 				}
@@ -315,6 +317,10 @@ e_tibetan_empire = {
 
     				color= { 197 211 107  }
     				color2= { 194 140 86  }
+					
+				holy_site = bon
+				holy_site = bon_reformed
+				holy_site = vajrayana
 
 				b_purang = {
 				}
@@ -325,9 +331,6 @@ e_tibetan_empire = {
 				b_gangzi = {
 				}
 				b_zijiegong = { #temple
-					holy_site = bon
-					holy_site = bon_reformed
-					holy_site = vajrayana
 				}
 				b_khorzhak = { #temple
 				}
@@ -380,11 +383,12 @@ e_tibetan_empire = {
 
     				color= { 105 106 196  }
     				color2= { 194 140 86  }
+					
+				holy_site = bon
+				holy_site = bon_reformed
+				holy_site = vajrayana
 
 				b_sakya = { #temple
-					holy_site = bon
-					holy_site = bon_reformed
-					holy_site = vajrayana
 				}
 				b_lhatse = {
 				}
@@ -852,13 +856,14 @@ e_tibetan_empire = {
 
     				color= { 236 143 70  }
     				color2= { 194 140 86  }
+					
+				holy_site = bon
+				holy_site = bon_reformed
+				holy_site = vajrayana
 
 				b_paro = {
 				}
 				b_kyichu = { #temple
-					holy_site = bon
-					holy_site = bon_reformed
-					holy_site = vajrayana
 				}
 				b_taktshang = { #temple
 				}

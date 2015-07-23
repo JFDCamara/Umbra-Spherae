@@ -1,10 +1,9 @@
 vietic = {
-		graphical_culture = indiangfx
-		second_graphical_culture = muslimgfx # Fallback type
+
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 	viet = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.2 0.4 0.4 }
@@ -26,11 +25,10 @@ vietic = {
 }
 
 tai_kadai = {
-		graphical_culture = indiangfx
-		second_graphical_culture = muslimgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 	thai = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 		color = { 0.3 0.8 0.2 }
 		
@@ -47,7 +45,7 @@ tai_kadai = {
 		modifier = default_culture_modifier
 	}
 	lao = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 		color = { 0.6 0.5 0.7 }
 		
@@ -63,7 +61,7 @@ tai_kadai = {
 		modifier = default_culture_modifier
 	}
 	shan = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 		color = { 0.3 0.2 0.8 }
 		
@@ -79,8 +77,7 @@ tai_kadai = {
 		modifier = default_culture_modifier
 	}
 	zhuang = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.6 0.5 0.9 }
@@ -101,12 +98,10 @@ tai_kadai = {
 }
 
 hmong_mien = {
-		graphical_culture = indiangfx
-		second_graphical_culture = muslimgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 	
 	hmong = { #Miao culture
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.2 0.7 0.3 }
@@ -125,8 +120,7 @@ hmong_mien = {
 		modifier = default_culture_modifier
 	}
 	mien = { #Yao culture
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.3 0.6 0.2 }
@@ -147,11 +141,10 @@ hmong_mien = {
 }
 
 burman = {
-		graphical_culture = indiangfx
-		second_graphical_culture = muslimgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 	bamar = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 		color = { 0.4 0.4 0.2 }
 		
@@ -167,7 +160,7 @@ burman = {
 		modifier = default_culture_modifier
 	}
 	lolo = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 		color = { 0.6 0.6 0.2 }
 		
@@ -183,7 +176,7 @@ burman = {
 		modifier = default_culture_modifier
 	}
 	kachin = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 		color = { 0.5 0.5 0.2 }
 		
@@ -201,11 +194,10 @@ burman = {
 }
 
 mon_khmer = {
-		graphical_culture = indiangfx
-		second_graphical_culture = muslimgfx # Fallback type
+		graphical_cultures = { indiangfx muslimgfx }
 		
 	mon = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 		
 		color = { 0.7 0.8 0.4 }
 		
@@ -223,7 +215,7 @@ mon_khmer = {
 		modifier = default_culture_modifier
 	}
 	khmer = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 		
 		color = { 0.7 0.8 0.2 }
 		
@@ -243,11 +235,10 @@ mon_khmer = {
 }
 
 chamic = {
-		graphical_culture = indiangfx
-		second_graphical_culture = muslimgfx # Fallback type
+		graphical_cultures = { indiangfx muslimgfx }
 		
 	cham = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 		
 		color = { 0.4 0.2 0.2 }
 		

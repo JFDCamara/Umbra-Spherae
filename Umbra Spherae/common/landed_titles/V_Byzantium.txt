@@ -1,5 +1,3 @@
-
-
 e_roman_empire = {
 	color={ 167 10 100 }
 	color2={ 255 255 20 }
@@ -265,12 +263,13 @@ e_byzantium = {
 				color2={ 255 255 20 }
 				
 				turkish = "Ayasoluk"
+
+				holy_site = orthodox
 				
 				b_ephesos = {
 					turkish = "Ayasoluk"
 				}
 				b_lebedos = {
-					holy_site = orthodox
 				}
 				b_miletos = {
 				}
@@ -346,12 +345,13 @@ e_byzantium = {
 				color2={ 255 255 20 }
 				
 				turkish = "Balakhisar"
+
+				holy_site = hellenic_pagan
 				
 				b_abydos = {
 					turkish = "Balakhisar"
 				}
 				b_lampsakos = {
-					holy_site = hellenic_pagan
 				}
 				b_alexandriatroas = {
 				}
@@ -491,12 +491,13 @@ e_byzantium = {
 				muslim = 250 # Crusade target weight
 				
 				top_de_jure_capital = yes
+
+				holy_site = orthodox
 				
 				b_constantinople = {
 				}
 				b_hagiasophia = {
 					pentarchy = yes
-					holy_site = orthodox
 					turkish = "Ayasofya"
 				}
 				b_galata = {
@@ -601,11 +602,12 @@ e_byzantium = {
 			c_chalkidike = {
 				color={ 192 22 133 }
 				color2={ 255 255 20 }
+
+				holy_site = orthodox
 				
 				b_serres = {
 				}
 				b_mntathos = {
-					holy_site = orthodox
 				}
 				b_philippi = {
 				}
@@ -625,12 +627,13 @@ e_byzantium = {
 				color2={ 255 255 20 }
 				
 				turkish = "Salonika"
+
+				holy_site = hellenic_pagan
 				
 				b_thessaloniki = {
 					turkish = "Salonika"
 				}
 				b_thesedessa = {
-					holy_site = hellenic_pagan
 				}
 				b_voden = {
 				}
@@ -881,11 +884,12 @@ e_byzantium = {
 			c_atheniai = {
 				color={ 215 75 167 }
 				color2={ 255 255 20 }
+
+				holy_site = hellenic_pagan
 				
 				b_athens = {
 				}
 				b_piraeaus = {
-					holy_site = hellenic_pagan
 				}
 				b_megara = {
 				}
@@ -1846,18 +1850,18 @@ e_byzantium = {
 				b_zvartnots = {
 				}
 			}
-			#c_lori = {
-			#	color={ 142 70 45 }
-			#	color2={ 255 255 255 }
+			c_lori = {
+				color={ 142 70 45 }
+				color2={ 255 255 255 }
 			
-			#	b_lori_berd = {}
-			#	b_dzegh = {}
-			#	b_dmanis = {}
-			#	b_agarak = {}
-			#	b_hovk = {}
-			#	b_sanahin = {}
-			#	b_erkan = {}
-			#}
+				b_lori_berd = {}
+				b_dzegh = {}
+				b_dmanis = {}
+				b_agarak = {}
+				b_hovk = {}
+				b_sanahin = {}
+				b_erkan = {}
+			}
 		}
 		d_mesopotamia = {
 			color={ 155 88 20 }

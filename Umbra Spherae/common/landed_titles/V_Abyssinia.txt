@@ -90,12 +90,13 @@ e_abyssinia = {
 			c_aksum = {
 				color={ 186 135 70 }
 				color2={ 255 255 255 }
+
+				holy_site = miaphysite
+				holy_site = monophysite
 			
 				b_adwa = {
 				}
 				b_aksum = {
-					holy_site = miaphysite
-					holy_site = monophysite
 				}
 				b_mekele = {
 				}
@@ -636,14 +637,15 @@ e_abyssinia = {
 			c_napata = {
 				color = { 155 140 67 }
 				color2={ 255 255 255 }
+
+				holy_site = miaphysite
+				holy_site = monophysite
 			
 				b_napata = {
 				}
 				b_marawi = {
 				}
 				b_ghazali = {
-					holy_site = miaphysite
-					holy_site = monophysite
 				}
 				b_kanisah = {
 				}

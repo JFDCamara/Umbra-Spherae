@@ -1,10 +1,8 @@
 korean_group = {
-	graphical_culture = indiangfx
-	second_graphical_culture = muslimgfx # Fallback type
+	graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 
 	korean = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.5 0.25 0.3 }
@@ -95,8 +93,7 @@ korean_group = {
 		modifier = default_culture_modifier
 	}
 	silla = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.5 0.25 0.3 }
@@ -186,8 +183,7 @@ korean_group = {
 		modifier = default_culture_modifier
 	}
 	buyeo = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.5 0.25 0.3 }
@@ -277,8 +273,7 @@ korean_group = {
 		modifier = default_culture_modifier
 	}
 	guryeo = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.5 0.25 0.3 }
@@ -368,8 +363,7 @@ korean_group = {
 		modifier = default_culture_modifier
 	}
 	baekje = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.5 0.25 0.3 }
@@ -459,8 +453,7 @@ korean_group = {
 		modifier = default_culture_modifier
 	}
 	tamna = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.5 0.25 0.3 }
@@ -550,8 +543,7 @@ korean_group = {
 		modifier = default_culture_modifier
 	}
 	gaya = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.5 0.25 0.3 }

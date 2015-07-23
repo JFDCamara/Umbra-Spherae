@@ -1,5 +1,3 @@
-
-
 e_bengal = {
 	color={ 0 120 40 }
 	color2={ 255 255 20 }
@@ -104,13 +102,13 @@ e_bengal = {
 		capital = 1151 # Laksmanavati
 		
 		d_vanga = {
-			color = { 35 165 35 }
+			color = { 35 190 35 }
 			color2={ 255 255 255 }
 			
 			capital = 1319 # Bikrampur
 			
 			c_bikrampur = {
-				color = { 35 185 35 }
+				color = { 35 220 35 }
 				color2={ 255 255 255 }
 				
 				b_bikrampur = {
@@ -940,13 +938,12 @@ e_bengal = {
 				color={ 140 235 101 }
 				color2={ 255 255 255 }
 				
+				holy_site = hindu
+				holy_site = buddhist
+				
 				b_varanasi = {
-					holy_site = hindu
 				}
 				b_sarnath = {
-					holy_site = buddhist
-					holy_site = mahayana
-
 				}
 				b_bhadohi = {
 				}
@@ -992,7 +989,7 @@ e_bengal = {
 			color={ 48 138 31 }
 			color2={ 255 255 255 }
 			
-			capital = 1241 # Jharkand
+			capital = 1248 # Munda
 			
 			c_jharkand = {
 				color={ 58 138 41 }
@@ -1024,23 +1021,24 @@ e_bengal = {
 				color={ 28 138 31 }
 				color2={ 255 255 255 }
 				
+				holy_site = jain
+
 				b_rajrappa = {
-					holy_site = jain
 				}
 				b_kenduli = {
 				}
 			}
-			#c_munda = {
-			#	color={ 38 148 21 }
-			#	color2={ 255 255 255 }
+			c_munda = {
+				color={ 38 148 21 }
+				color2={ 255 255 255 }
 				
-			#	b_chutia = {
-			#	}
-			#	b_ratu = {
-			#	}
-			#	b_marang_buru = {
-			#	}
-			#}
+				b_chutia = {
+				}
+				b_ratu = {
+				}
+				b_marang_buru = {
+				}
+			}
 			c_damin_i_koh = {
 				color = { 80 200 60 }
 				color2={ 255 255 255 }
@@ -1094,10 +1092,10 @@ e_bengal = {
 			c_gaya = {
 				color={ 15 112 35 }
 				color2={ 255 255 255 }
+
+				holy_site = buddhist
 				
 				b_gaya = {
-					holy_site = buddhist
-					holy_site = mahayana
 				}
 				b_bodh_gaya = {
 				}

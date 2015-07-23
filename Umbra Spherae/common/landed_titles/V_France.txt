@@ -1,5 +1,3 @@
-
-	
 e_france = {
 	color={ 11 22 170 }
 	color2={ 255 255 20 }
@@ -416,6 +414,9 @@ e_france = {
 			c_ile_de_france = {
 				color={ 38 144 211 }
 				color2={ 255 255 255 }
+
+				holy_site = aztec
+				holy_site = aztec_reformed
 				
 				b_paris = {
 					used_for_dynasty_names = no
@@ -423,8 +424,6 @@ e_france = {
 				b_melun = {
 				}
 				b_stdenis = {
-					holy_site = aztec
-					holy_site = aztec_reformed
 				}
 				b_meaux = {
 				}
@@ -1361,6 +1360,8 @@ e_france = {
 			c_rennes = {
 				color={ 106 42 8 }
 				color2={ 255 255 255 }
+
+				holy_site = celide
 				
 				breton = "Roazhon"
 				
@@ -1377,7 +1378,6 @@ e_france = {
 					breton = "Sant-Maloù"
 				}
 				b_dol = {
-					holy_site = celide
 				}
 				b_dinan = {
 				}

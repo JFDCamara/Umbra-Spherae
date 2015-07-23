@@ -1,9 +1,8 @@
 ma_i_an = {
-		graphical_culture = indiangfx
-		second_graphical_culture = muslimgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 	tagalog = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 		color = { 0.5 0.6 0.4 }
 		
@@ -31,7 +30,7 @@ ma_i_an = {
 		modifier = default_culture_modifier
 	}
 	cebuan = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 		color = { 0.5 0.6 0.3 }
 		
@@ -65,11 +64,10 @@ ma_i_an = {
 }
 
 papuan_group = {
-		graphical_culture = africangfx
-		second_graphical_culture = muslimgfx # Fallback type
+		graphical_cultures = { africangfx muslimgfx }
 		
 	papuan = {
-		graphical_culture = africangfx
+		graphical_cultures = { africangfx muslimgfx }
 		
 		color = { 0.7 0.8 0.7 }
 		
@@ -132,11 +130,10 @@ papuan_group = {
 }
 
 sulawesi_group = {
-		graphical_culture = indiangfx
-		second_graphical_culture = muslimgfx # Fallback type
+		graphical_cultures = { indiangfx muslimgfx }
 		
 	bugi = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 		
 		color = { 0.3 0.4 0.4 }
 		
@@ -198,7 +195,7 @@ sulawesi_group = {
 		modifier = default_culture_modifier
 	}
 	minahasa = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 		
 		color = { 0.3 0.4 0.6 }
 		
@@ -261,8 +258,11 @@ sulawesi_group = {
 }
 
 maluku_group = {
+
+	graphical_cultures = { indiangfx muslimgfx }
+
 	malukan = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 		
 		color = { 0.8 0.2 0.4 }
 		
@@ -324,7 +324,7 @@ maluku_group = {
 		modifier = default_culture_modifier
 	}
 	tenggaran = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 		
 		color = { 0.8 0.2 0.6 }
 		
@@ -383,11 +383,10 @@ maluku_group = {
 }
 
 malay_group = {
-		graphical_culture = indiangfx
-		second_graphical_culture = muslimgfx # Fallback type
+		graphical_cultures = { indiangfx muslimgfx }
 
 	malay = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 
 		color = { 0.5 0.6 0.2 }
 
@@ -410,7 +409,7 @@ malay_group = {
 		modifier = default_culture_modifier
 	}
 	minangkabau = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 
 		color = { 0.5 0.6 0.4 }
 
@@ -433,7 +432,7 @@ malay_group = {
 		modifier = default_culture_modifier
 	}
 	samudran = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 
 		color = { 0.5 0.6 0.6 }
 
@@ -460,7 +459,7 @@ malay_group = {
 		modifier = default_culture_modifier
 	}
 	batak = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 
 		color = { 0.5 0.6 0.8 }
 
@@ -494,11 +493,10 @@ malay_group = {
 }
 
 bornean = {
-		graphical_culture = indiangfx
-		second_graphical_culture = muslimgfx # Fallback type
+		graphical_cultures = { indiangfx muslimgfx }
 
 	dayak = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 
 		color = { 0.5 0.7 0.05 }
 
@@ -521,7 +519,7 @@ bornean = {
 		modifier = default_culture_modifier
 	}
 	banjar = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 
 		color = { 0.5 0.6 0.05 }
 
@@ -544,7 +542,7 @@ bornean = {
 		modifier = default_culture_modifier
 	}
 	malagasy = { 
-		graphical_culture = mongolgfx
+		graphical_cultures = { africangfx muslimgfx }
 		
 		color = { 0.4 0.2 0.1 }
 
@@ -560,11 +558,10 @@ bornean = {
 }
 
 andaman = {
-		graphical_culture = africangfx
-		second_graphical_culture = muslimgfx # Fallback type
+		graphical_cultures = { africangfx muslimgfx }
 
 	andamanese = { 
-		graphical_culture = africangfx
+		graphical_cultures = { africangfx muslimgfx }
 		
 		color = { 0.4 0.25 0.15 }
 
@@ -584,11 +581,10 @@ andaman = {
 }
 
 javanese_group = {
-		graphical_culture = indiangfx
-		second_graphical_culture = muslimgfx # Fallback type
+		graphical_cultures = { indiangfx muslimgfx }
 
 	javanese = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 
 		color = { 0.2 0.2 0.1 }
 
@@ -643,7 +639,7 @@ javanese_group = {
 		modifier = default_culture_modifier
 	}
 	sundanese = {
-		graphical_culture = mongolgfx
+		graphical_cultures = { indiangfx muslimgfx }
 
 		color = { 0.2 0.2 0.3 }
 
@@ -680,11 +676,10 @@ javanese_group = {
 }
 
 taiwanese = {
-		graphical_culture = indiangfx
-		second_graphical_culture = muslimgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 	middag = { #Pingpu (Plains)
-		graphical_culture = mongolgfx
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 		color = { 0.5 0.3 0.8 }
 		
@@ -724,7 +719,7 @@ taiwanese = {
 		modifier = default_culture_modifier
 	}
 	kilai = { #Gaoshan (Highlands)
-		graphical_culture = mongolgfx
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
 		color = { 0.4 0.3 0.8 }
 		

@@ -194,9 +194,10 @@ e_srivijaya = {
 				color = { 125 79 55 }
 				color2 = { 250 250 250 }
 
+				holy_site = sumatran_religion
+				holy_site = sumatran_religion_reformed
+				
 				b_tanah_abang = {
-					holy_site = sumatran_religion
-					holy_site = sumatran_religion_reformed
 				}
 				b_prabumulih = {
 				}
@@ -255,10 +256,11 @@ e_srivijaya = {
 
 				color = { 87 71 34 }
 				color2 = { 250 250 250 }
+				
+				holy_site = sumatran_religion
+				holy_site = sumatran_religion_reformed
 
 				b_gaung = {
-					holy_site = sumatran_religion
-					holy_site = sumatran_religion_reformed
 				}
 				b_kuala_indragiri = {
 				}
@@ -547,10 +549,11 @@ e_srivijaya = {
 
 				color = { 36 185 169 }
 				color2 = { 250 250 250 }
+				
+				holy_site = sumatran_religion
+				holy_site = sumatran_religion_reformed
 
 				b_pagarruyung = {
-					holy_site = sumatran_religion
-					holy_site = sumatran_religion_reformed
 				}
 				b_sumpur_kudus = {
 				}
@@ -609,10 +612,11 @@ e_srivijaya = {
 
 				color = { 93  99  176 }
 				color2 = { 250 250 250 }
+				
+				holy_site = sumatran_religion
+				holy_site = sumatran_religion_reformed
 
 				b_samudra = {
-					holy_site = sumatran_religion
-					holy_site = sumatran_religion_reformed
 				}
 				b_jangka = {
 				}
@@ -707,10 +711,11 @@ e_srivijaya = {
 
 				color = { 106  153  163 }
 				color2 = { 250 250 250 }
+				
+				holy_site = malagasy_religion
+				holy_site = malagasy_religion_reformed
 
 				b_adazig = {
-					holy_site = malagasy_religion
-					holy_site = malagasy_religion_reformed
 				}
 				b_manjery = {
 				}
@@ -740,9 +745,10 @@ e_srivijaya = {
 				color = { 113  98  162 }
 				color2 = { 250 250 250 }
 
+				holy_site = sumatran_religion
+				holy_site = sumatran_religion_reformed
+				
 				b_barus = {
-					holy_site = sumatran_religion
-					holy_site = sumatran_religion_reformed
 				}
 				b_sosor_gadong = {
 				}
@@ -1111,9 +1117,10 @@ e_srivijaya = {
 				color = { 140 155 60 }
 				color2 = { 250 250 250 }
 
+				holy_site = java_religion
+				holy_site = java_religion_reformed
+				
 				b_banten_girang = {
-					holy_site = java_religion
-					holy_site = java_religion_reformed
 				}
 				b_banten = {
 				}
@@ -1186,10 +1193,11 @@ e_srivijaya = {
 
 				color = { 94 152 62 }
 				color2 = { 250 250 250 }
+				
+				holy_site = java_religion
+				holy_site = java_religion_reformed
 
 				b_bojong_menje = {
-					holy_site = java_religion
-					holy_site = java_religion_reformed
 				}
 				b_arca_domas = {
 				}
@@ -1405,11 +1413,12 @@ e_srivijaya = {
 				color = { 125 130 168 }
 				color2 = { 250 250 250 }
 
+				holy_site = bornean_religion
+				holy_site = bornean_religion_reformed
+				holy_site = malagasy_religion
+				holy_site = malagasy_religion_reformed
+				
 				b_tanjungpura = {
-					holy_site = bornean_religion
-					holy_site = bornean_religion_reformed
-					holy_site = malagasy_religion
-					holy_site = malagasy_religion_reformed
 				}
 				b_kualamandor = {
 				}
@@ -1453,11 +1462,12 @@ e_srivijaya = {
 				color = { 115 130 178 }
 				color2 = { 250 250 250 }
 
+				holy_site = bornean_religion
+				holy_site = bornean_religion_reformed
+				holy_site = malagasy_religion
+				holy_site = malagasy_religion_reformed
+				
 				b_sanggau = {
-					holy_site = bornean_religion
-					holy_site = bornean_religion_reformed
-					holy_site = malagasy_religion
-					holy_site = malagasy_religion_reformed
 				}
 				b_sintang = {
 				}
@@ -1509,11 +1519,12 @@ e_srivijaya = {
 				color = { 115 138 177 }
 				color2 = { 250 250 250 }
 
+				holy_site = bornean_religion
+				holy_site = bornean_religion_reformed
+				holy_site = malagasy_religion
+				holy_site = malagasy_religion_reformed
+				
 				b_banjarmasin = {
-					holy_site = bornean_religion
-					holy_site = bornean_religion_reformed
-					holy_site = malagasy_religion
-					holy_site = malagasy_religion_reformed
 				}
 				b_kota_baru = {
 				}
@@ -1587,11 +1598,12 @@ e_srivijaya = {
 				color = { 125 155 168 }
 				color2 = { 250 250 250 }
 
+				holy_site = bornean_religion
+				holy_site = bornean_religion_reformed
+				holy_site = malagasy_religion
+				holy_site = malagasy_religion_reformed
+				
 				b_kutai = {
-					holy_site = bornean_religion
-					holy_site = bornean_religion_reformed
-					holy_site = malagasy_religion
-					holy_site = malagasy_religion_reformed
 				}
 				b_sangasanga = {
 				}
@@ -1664,10 +1676,11 @@ e_srivijaya = {
 
 				color = { 105 155 188 }
 				color2 = { 250 250 250 }
+				
+				holy_site = bornean_religion
+				holy_site = bornean_religion_reformed
 
 				b_po_li = {
-					holy_site = bornean_religion
-					holy_site = bornean_religion_reformed
 				}
 				b_limbang = {
 				}

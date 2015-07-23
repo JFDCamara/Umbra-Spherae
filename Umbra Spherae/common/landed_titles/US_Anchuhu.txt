@@ -77,13 +77,14 @@ k_goguryeo = {
 				han = "Longquan"
 				mohe = "Ninguta"
 				jurchen = "Ninguta"
+				
+				holy_site = jurchen_pagan
+				holy_site = jurchen_pagan_reformed
 
 				b_yongju = {
 					han = "Longzhou"
 					mohe = "Ninguta"
 					jurchen = "Ninguta"
-					holy_site = jurchen_pagan
-					holy_site = jurchen_pagan_reformed
 				}
 				b_hoju = {
 				}
@@ -420,6 +421,10 @@ k_goguryeo = {
 				mohe = "Yalu"
 				jurchen = "Yalu"
 				
+				holy_site = jurchen_pagan
+				holy_site = jurchen_pagan_reformed
+				holy_site = shingyo
+				
 				b_sinju = {
 					han = "Shenzhou"
 					mohe = "Yalu"
@@ -431,9 +436,6 @@ k_goguryeo = {
 					han = "Changbaishan"
 					mohe = "Golmin Sanggiyan Alin"
 					jurchen = "Golmin Sanggiyan Alin"
-					holy_site = jurchen_pagan
-					holy_site = jurchen_pagan_reformed
-					holy_site = shingyo
 				}
 				b_jeongju_amnok = {
 				}
@@ -533,12 +535,13 @@ k_goguryeo = {
 
 				color={ 124 114 114 }
 				color2={ 255 255 255 }
+				
+				holy_site = jurchen_pagan
+				holy_site = jurchen_pagan_reformed
 
 				b_ghuadneng = {
 				}
 				b_jurchenkhyukkrung = {
-					holy_site = jurchen_pagan
-					holy_site = jurchen_pagan_reformed
 				}
 				b_jurchenngiechjyn = {
 				}
@@ -569,12 +572,13 @@ k_goguryeo = {
 
 				color={ 88 78 78 }
 				color2={ 255 255 255 }
+				
+				holy_site = jurchen_pagan
+				holy_site = jurchen_pagan_reformed
 
 				b_hurha = {
 				}
 				b_odoli = {
-					holy_site = jurchen_pagan
-					holy_site = jurchen_pagan_reformed
 				}
 			}
 			c_bojo = {
@@ -680,9 +684,10 @@ k_goguryeo = {
 		
 				color = { 16 53 207 }
 				color2 = { 255 255 255  }
+				
+				holy_site = shingyo
 			
 				b_pyongyang = {
-					holy_site = shingyo
 				}
 				b_an = {
 				}
@@ -769,9 +774,10 @@ k_goguryeo = {
 		
 				color = { 73 180 168 }
 				color2 = { 255 255 255  }
+				
+				holy_site = shingyo
 		
 				b_hanyang = {
-					holy_site = shingyo
 				}
 				b_gwang = {
 				}
@@ -940,13 +946,14 @@ k_goguryeo = {
 		
 				color = { 76 121 156 }
 				color2 = { 255 255 255  }
+				
+				holy_site = shingyo
 			
 				b_jeju = {
 				}
 				b_seogwipo = {
 				}
 				b_halla = {
-					holy_site = shingyo
 				}
 				b_marado = {
 				}
@@ -968,9 +975,10 @@ k_goguryeo = {
 		
 				color = { 105 148 126 }
 				color2 = { 255 255 255  }
+				
+				holy_site = shingyo
 		
 				b_sang = {
-					holy_site = shingyo
 				}
 				b_yeong = {
 				}

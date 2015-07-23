@@ -1,5 +1,3 @@
-
-
 e_britannia = {
 	color={ 172 22 22 }
 	color2={ 255 255 255 }
@@ -405,6 +403,9 @@ e_britannia = {
 				color={ 241 90 35 }
 				color2={ 255 255 255 }
 			
+				holy_site = aztec
+				holy_site = aztec_reformed
+
 				b_westminster = {
 					used_for_dynasty_names = no
 					norse=Vestmystur
@@ -414,8 +415,6 @@ e_britannia = {
 					norse=Lundúnir
 				}
 				b_st_pauls = {
-					holy_site = aztec
-					holy_site = aztec_reformed
 				}
 				b_tottenham = {
 				}
@@ -650,12 +649,13 @@ e_britannia = {
 				color={ 241 115 65 }
 				color2={ 255 255 255 }
 				
+				holy_site = catholic
+				
 				b_rochester = {
 				}
 				b_dover = {
 				}
 				b_canterbury = {
-					holy_site = catholic
 				}
 				b_faversham = {
 				}
@@ -927,6 +927,8 @@ e_britannia = {
 			c_dyfed = {
 				color={ 155 75 5 }
 				color2={ 255 255 255 }
+
+				holy_site = celide
 			
 				b_carmarthen = {
 				}
@@ -935,7 +937,6 @@ e_britannia = {
 				b_st_davids = {
 					welsh = Tyddewi
 					norwegian = "Ramsøy"
-					holy_site = celide
 				}
 				b_kidwelly = {
 					welsh = Cydweli
@@ -1001,13 +1002,14 @@ e_britannia = {
 			c_cornwall = {
 				color={ 150 40 15 }
 				color2={ 255 255 255 }
+
+				holy_site = celide
 				
 				b_bodmin = {
 				}
 				b_launceston = {
 				}
 				b_st_germans = {
-					holy_site = celide
 				}
 				b_truro = {
 				}
@@ -1336,6 +1338,8 @@ e_britannia = {
 				welsh = "Ynysoedd Heledd"
 				irish = "Innse Gall"
 				scottish = "Innse Gall"
+
+				holy_site = celide
 				
 				b_snizort = {
 					pictish = "Lantalarc"
@@ -1351,7 +1355,6 @@ e_britannia = {
 					pictish = "Auenle"
 					welsh = "Ywenlle"
 					irish = "Ì Chaluim Chille"
-					holy_site = celide
 				}
 				b_stornoway = {
 					norwegian = "Stornavåg"
@@ -1433,6 +1436,8 @@ e_britannia = {
 					pictish = "Aberera"
 					welsh = "Aberaera"
 					irish = "Inbhir Aora"
+				}
+				b_argh = {
 				}
 			}
 		}
@@ -1796,6 +1801,8 @@ e_britannia = {
 					welsh = "Aberfelly"
 					irish = "Obar Pheallaidh"
 				}
+				b_anthrachs = {
+				}
 			}
 		}
 		d_moray = {
@@ -2101,13 +2108,14 @@ e_britannia = {
 				color2={ 255 255 255 }
 	
 				irish = Airgíalla
+
+				holy_site = celide
 				
 				b_clones = {
 					irish = "Cluain Eois"
 				}
 				b_armagh = {
 					irish = "Ard Mhacha"
-					holy_site = celide
 				}
 				b_dundalk = {
 					norwegian = Kerlingfjord

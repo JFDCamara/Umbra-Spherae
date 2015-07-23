@@ -1,4 +1,3 @@
-
 e_mali = {
 	color={ 138 148 55 }
 	color2={ 255 255 255 }
@@ -26,12 +25,13 @@ e_mali = {
 			c_timbuktu = {
 				color={ 130 180 61 }
 				color2={ 255 255 255 }
-			
+
+				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed			
+				
 				b_timbuktu = {}
 				b_alafia = {}
 				b_salam = {
-					holy_site = west_african_pagan
-					holy_site = west_african_pagan_reformed			
 				}
 				b_lafia = {}
 				b_ber = {}
@@ -90,10 +90,11 @@ e_mali = {
 				color={ 130 180 61 }
 				color2={ 255 255 255 }
 				
+				holy_site = pagan
+				
 				b_el_ghaba = {}
 				b_koumbi_saleh = {}
 				b_silla = {
-					holy_site = pagan
 				}
 				b_singhanah = {}
 				b_samakanda = {}
@@ -141,12 +142,13 @@ e_mali = {
 			c_mali = {
 				color={ 130 180 61 }
 				color2={ 255 255 255 }
+
+				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed
 				
 				b_boure = {}
 				b_niani = {}
 				b_bamako = {
-					holy_site = west_african_pagan
-					holy_site = west_african_pagan_reformed
 				}
 				b_safo = {}
 				b_baguineda = {}

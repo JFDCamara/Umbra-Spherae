@@ -1550,14 +1550,6 @@ k_kimek = {
 	capital = 1994 #Imakia
 }
 
-k_kimek = {
-
-   	color= { 46 86 95 }
-    	color2= { 0 0 0 }
-
-	capital = 1994 #Imakia
-}
-
 k_karluk = {
 
    	color= { 180 86 95 }

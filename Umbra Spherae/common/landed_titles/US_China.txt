@@ -4514,10 +4514,11 @@ e_china = {
 
 				color={ 83 129 91 }
 				color2={ 10 10 10 }
+				
+				holy_site = jurchen_pagan
+				holy_site = jurchen_pagan_reformed
 
 				b_leujang = {
-					holy_site = jurchen_pagan
-					holy_site = jurchen_pagan_reformed
 				}
 				b_ngramuen = {
 				}

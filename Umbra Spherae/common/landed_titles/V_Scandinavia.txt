@@ -1,5 +1,3 @@
-
-
 e_scandinavia = {
 	color={ 62 122 189 }
 	color2={ 255 255 0 }
@@ -29,12 +27,23 @@ e_scandinavia = {
 		
 		culture = swedish
 		
+		norse_pagan_reformed = 350 # Crusade target weight
 		catholic = 100 # Crusade target weight
 		baltic_pagan_reformed = 50 # Crusade target weight
 		finnish_pagan_reformed = 50
+		norse_pagan_reformed = 500 # Crusade target weight
 		
 		norse = Sviþjod
 	
+		d_gotland = {
+			color = { 170 25 25 }
+			color2={ 255 255 255 }
+			
+			capital = 301 # Gotland
+			
+			dignity = 10
+		}
+		
 		d_uppland = {
 			color={ 20 20 145 }
 			color2={ 255 255 255 }
@@ -63,13 +72,13 @@ e_scandinavia = {
 			c_uppland = {
 				color={ 30 30 155 }
 				color2={ 255 255 255 }
+
+				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
 				
 				b_sigtuna = {
 				}
 				b_uppsala = {
-			   	# norse = Uppsalir
-					holy_site = norse_pagan
-					holy_site = norse_pagan_reformed
 				}
 				b_osteras = {
 					norwegian = "Østerås"
@@ -334,6 +343,8 @@ e_scandinavia = {
 				norwegian = "Vestergøtland"
 				danish = "Vestergøtland"
 				norse = "Vestergautland"
+
+				holy_site = pagan
 				
 				b_galakvist = {
 					norwegian = "Gælakvist"
@@ -344,7 +355,6 @@ e_scandinavia = {
 					danish = "Lødøse"
 				}
 				b_skara = {
-					holy_site = pagan
 				}
 				b_falkoping = {
 					norwegian = "Falkøping"
@@ -384,33 +394,6 @@ e_scandinavia = {
 				b_amordh = {
 				}
 				b_mellerud = {
-				}
-			}
-			c_viken = {
-				color={ 25 175 255 }
-				color2={ 255 255 255 }
-				
-				norse = Alfheimr
-				
-				b_bagahus = {
-				}
-				b_kungahalla = {
-					norwegian = "Kungahælla"
-					danish = "Kungahælla"
-				}
-				b_svarteborg = {
-				}
-				b_svenneby = {
-				}
-				b_ockero = {
-					norwegian = "Øckerø"
-					danish = "Øckerø"
-				}
-				b_hede = {
-				}
-				b_marstrand = {
-				}
-				b_kungsviken = {
 				}
 			}
 		}
@@ -750,7 +733,9 @@ e_scandinavia = {
 		
 		capital = 266 # Sjaelland
 		
+		norse_pagan_reformed = 350 # Crusade target weight
 		baltic_pagan_reformed = 50 # Crusade target weight
+		norse_pagan_reformed = 500 # Crusade target weight
 		
 		norse = Danmark
 		danish = Danmark
@@ -901,6 +886,9 @@ e_scandinavia = {
 				swedish = Själland
 				norse = Sjælland
 				english = Zealand
+
+				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
 				
 				b_kobenhavn = {
 					swedish = Köpenhamn
@@ -926,8 +914,6 @@ e_scandinavia = {
 				}
 				b_lejre = {
 					norse = Hleiðra
-					holy_site = norse_pagan
-					holy_site = norse_pagan_reformed		
 				}
 			}
 			c_fyn = {
@@ -1187,8 +1173,10 @@ e_scandinavia = {
 		
 		capital = 274 # Bergenshus
 		
+		norse_pagan_reformed = 350 # Crusade target weight
 		catholic = 100 # Crusade target weight
 		finnish_pagan_reformed = 50
+		norse_pagan_reformed = 500 # Crusade target weight
 		
 		norse = Noregr
 		danish = Norge
@@ -1601,6 +1589,33 @@ e_scandinavia = {
 				b_baerum = {
 				}
 			}
+			c_viken = {
+				color={ 25 175 255 }
+				color2={ 255 255 255 }
+				
+				norse = Alfheimr
+				
+				b_bagahus = {
+				}
+				b_kungahalla = {
+					norwegian = "Kungahælla"
+					danish = "Kungahælla"
+				}
+				b_svarteborg = {
+				}
+				b_svenneby = {
+				}
+				b_ockero = {
+					norwegian = "Øckerø"
+					danish = "Øckerø"
+				}
+				b_hede = {
+				}
+				b_marstrand = {
+				}
+				b_kungsviken = {
+				}
+			}
 			c_oppland = {
 				color={ 94 120 215 }
 				color2={ 255 255 255 }
@@ -1653,10 +1668,6 @@ e_scandinavia = {
 			
 			capital = 275 # Trondelag
 			
-			swedish = "Tröndelag"
-			german = "Tröndelag"
-			norse = "Tröndelag"
-			
 			pagan_coa = {
 				template = 0
 				layer = {
@@ -1673,10 +1684,6 @@ e_scandinavia = {
 			c_trondelag = {
 				color={ 20 155 255 }
 				color2={ 255 255 255 }
-				
-				swedish = "Tröndelag"
-				german = "Tröndelag"
-				norse = "Tröndelag"
 				
 				b_nidaros = {
 				}
@@ -1698,6 +1705,9 @@ e_scandinavia = {
 			c_naumadal = {
 				color={ 25 205 240 }
 				color2={ 255 255 255 }
+
+				holy_site = norse_pagan
+				holy_site = norse_pagan_reformed
 				
 				b_tinghaugen = {
 				}
@@ -1710,8 +1720,6 @@ e_scandinavia = {
 				b_hegra = {
 				}
 				b_maere = {
-					holy_site = norse_pagan
-					holy_site = norse_pagan_reformed
 				}
 				b_leksvik = {
 				}
@@ -1885,6 +1893,7 @@ e_scandinavia = {
 		baltic_pagan_reformed = 100
 		slavic_pagan_reformed = 50
 		catholic = 40
+		norse_pagan_reformed = 100 # Crusade target weight
 		
 		finnish = Suomi
 		lappish = Suomi
@@ -2225,7 +2234,10 @@ e_scandinavia = {
 				norse = "Kexholm"
 				norwegian = "Kexholm"
 				danish = "Kexholm"
-			
+
+				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
+				
 				b_antrea = {
 					swedish = "St Andree"
 					norse = "St Andree"
@@ -2233,8 +2245,6 @@ e_scandinavia = {
 					danish = "St Andree"
 				}
 				b_raivola = {
-					holy_site = finnish_pagan
-					holy_site = finnish_pagan_reformed				
 				}
 				b_kakisalmi = {
 					swedish = "Kexholm"

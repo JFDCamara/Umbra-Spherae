@@ -1,0 +1,22 @@
+# 942 - Awa
+
+# County Title
+title = c_awa
+
+# Settlements
+max_settlements = 4
+b_nakata = castle
+b_ano = castle
+b_kagawa = castle
+
+#b_awaji = castle
+#b_shozu = castle
+#b_miyoshi = castle
+#b_tado = castle
+#b_katsuura = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

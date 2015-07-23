@@ -1,5 +1,3 @@
-
-
 e_russia = {
 	color={ 147 164 104 }
 	color2={ 255 255 255 }
@@ -234,6 +232,11 @@ e_russia = {
 				norse = "Holmgarðr"
 				danish = "Holmgård"
 				norwegian = "Holmgård"
+				
+				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
+				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed	
 						
 				b_borovichi = {
 					norse = Nygarðr
@@ -247,11 +250,7 @@ e_russia = {
 					danish = "Holmgård"
 					norwegian = "Holmgård"
 				}
-				b_tikhvin = {
-					holy_site = slavic_pagan
-					holy_site = slavic_pagan_reformed
-					holy_site = finnish_pagan
-					holy_site = finnish_pagan_reformed								
+				b_tikhvin = {							
 				}
 				b_chudovo = {
 				}
@@ -840,6 +839,9 @@ e_russia = {
 				swedish = Könugård
 				norwegian = Kønugård
 				danish = Kønugård
+				
+				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
 	
 				b_kiev = {
 					norse = Könugarðr
@@ -847,9 +849,7 @@ e_russia = {
 					norwegian = Kønugård
 					danish = Kønugård
 				}
-				b_yuriev = {
-					holy_site = slavic_pagan
-					holy_site = slavic_pagan_reformed				
+				b_yuriev = {				
 				}
 				b_iskorosten = {
 				}
@@ -1264,11 +1264,12 @@ e_russia = {
 				color = { 160 175 40 }
 				color2={ 255 255 255 }
 				
+				holy_site = baltic_pagan
+				holy_site = baltic_pagan_reformed
+				
 				b_bryansk = {
 				}
 				b_pochep = {
-					holy_site = baltic_pagan
-					holy_site = baltic_pagan_reformed
 				}
 				b_orel = {
 				}
@@ -1347,12 +1348,13 @@ e_russia = {
 			c_ryazan = {
 				color={ 121 140 50 }
 				color2={ 255 255 255 }
-					
+				
+				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
+
 				b_ryazan = {
 				}
 				b_solotcha = {
-					holy_site = finnish_pagan
-					holy_site = finnish_pagan_reformed
 				}
 				b_grodets = {
 				}
@@ -1472,12 +1474,13 @@ e_russia = {
 			c_perm = {
 				color={ 237 211 140 }
 				color2={ 255 255 255 }
+				
+				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
 			
 				b_perym = {
 				}
-				b_perm = {
-					holy_site = finnish_pagan
-					holy_site = finnish_pagan_reformed				
+				b_perm = {				
 				}
 				b_gorodki = {
 				}

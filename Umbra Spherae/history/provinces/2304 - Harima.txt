@@ -1,0 +1,22 @@
+# 936 - Harima
+
+# County Title
+title = c_harima
+
+# Settlements
+max_settlements = 5
+b_shikama = castle
+b_tomata = castle
+b_ibo = castle
+
+#b_akashi = castle
+#b_ako = castle
+#b_aita = castle
+#b_kojima = castle
+#b_akasaka = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

@@ -1,5 +1,3 @@
-
-
 e_wendish_empire = {
 	color={ 130 20 50 }
 	color2={ 200 0 0 }
@@ -56,12 +54,13 @@ e_wendish_empire = {
 			c_plock = {
 				color={ 127 30 2 }
 				color2={ 255 255 255 }
+
+				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
 				
 				b_plock = {
 				}
 				b_pruszkow = {
-					holy_site = slavic_pagan
-					holy_site = slavic_pagan_reformed			
 				}
 				b_warszawa = {
 				}
@@ -646,14 +645,15 @@ e_wendish_empire = {
 				color2={ 255 255 255 }
 
 				pommeranian = Rana
+
+				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
+				holy_site = baltic_pagan
+				holy_site = baltic_pagan_reformed
 				
 				b_charenza = {
 				}
 				b_arkona = {
-					holy_site = slavic_pagan
-					holy_site = slavic_pagan_reformed
-					holy_site = baltic_pagan
-					holy_site = baltic_pagan_reformed
 				}
 				b_rugard = {
 				}
@@ -1186,7 +1186,10 @@ e_wendish_empire = {
 				danish = "Øsel"
 				norwegian = "Øsel"
 				german = "Ösel"
-			
+
+				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
+				
 				b_kuressare = {
 					swedish = "Arensborg"
 					norse = "Arensborg"
@@ -1200,8 +1203,6 @@ e_wendish_empire = {
 					danish = "Dagø"
 					norwegian = "Dagø"
 					german = "Dagö"
-					holy_site = finnish_pagan
-					holy_site = finnish_pagan_reformed
 				}
 				b_muhu = {
 					swedish = "Moon"
@@ -1327,7 +1328,10 @@ e_wendish_empire = {
 				norwegian = "Kulm"
 				danish = "Kulm"
 				norse = "Kulm"
-			
+
+				holy_site = baltic_pagan
+				holy_site = baltic_pagan_reformed
+				
 				b_chelmno = {
 					german = "Kulm"
 					swedish = "Kulm"
@@ -1348,8 +1352,6 @@ e_wendish_empire = {
 				b_eylau = {
 				}
 				b_briesen = {
-					holy_site = baltic_pagan
-					holy_site = baltic_pagan_reformed
 				}
 			}
 		}
@@ -1553,14 +1555,15 @@ e_wendish_empire = {
 			c_podlasie = {
 				color={ 148 100 100 }
 				color2={ 255 255 255 }
+
+				holy_site = baltic_pagan
+				holy_site = baltic_pagan_reformed
 				
 				b_drohiczyn = {
 				}
 				b_kolno = {
 				}
 				b_sejny = {
-					holy_site = baltic_pagan
-					holy_site = baltic_pagan_reformed
 				}
 				b_lomza = {
 				}
@@ -1599,10 +1602,11 @@ e_wendish_empire = {
 				norse = "Riga"
 				danish = "Riga"
 				norwegian = "Riga"
+
+				holy_site = baltic_pagan
+				holy_site = baltic_pagan_reformed
 				
 				b_riga = {
-					holy_site = baltic_pagan
-					holy_site = baltic_pagan_reformed
 				}
 				b_bauska = {
 				}

@@ -1,10 +1,8 @@
 tungusic = {
-		graphical_culture = indiangfx
-		second_graphical_culture = muslimgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 
 	jurchen = {
-		graphical_culture = khitangfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { khitangfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		horde = yes
 		parent = mohe
@@ -28,8 +26,7 @@ tungusic = {
 		modifier = default_culture_modifier
 	}
 	mohe = { #ancestors of the Jurchens
-		graphical_culture = khitangfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { khitangfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		horde = yes
 		

@@ -1,35 +1,3 @@
-
-
-# Needs to be up here for the k_asturias allow trigger
-k_leon = {
-	color={ 233 158 51 }
-	color2={ 255 255 255 }
-	
-	dignity = 1 # One more county than de jure
-	
-	capital = 190 # Leon
-	
-	culture = castillan
-	
-	# Creation/usurpation trigger
-	allow = {
-		hidden_tooltip = {
-			OR = {
-				ai = no
-				religion_group = christian
-			}
-		}
-		FROM = {
-			any_previous_holder = {
-				always = yes
-			}
-		}
-	}
-	
-	catholic = 250 # Crusade target weight
-	muslim = 25 # Crusade target weight
-}
-
 e_spain = {
 	color={ 233 200 20 }
 	color2={ 255 255 255 }
@@ -38,20 +6,41 @@ e_spain = {
 	
 	culture = castillan
 	
-	# Creation/usurpation trigger
-	#allow = {
-	#	OR = {
-	#		culture_group = iberian
-	#		culture = andalusian_arabic
-	#	}
-	#}
+	k_leon = {
+		color = { 253 158 51 }
+		color2={ 255 255 255 }
+		
+		dignity = 1 # One more county than de jure
+		
+		capital = 190 # Leon
+		
+		culture = castillan
+		
+		# Creation/usurpation trigger
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					religion_group = christian
+				}
+			}
+			FROM = {
+				any_previous_holder = {
+					always = yes
+				}
+			}
+		}
+		
+		catholic = 250 # Crusade target weight
+		muslim = 25 # Crusade target weight
+	}
 
 	k_castille = { #Spain
 		color={ 243 209 23 }
 		color2={ 200 80 10 }
 		dignity = 2 # Counted as having 2 more counties than it does
 		
-		capital = 197 # Toledo
+		capital = 199 # Burgos
 		
 		culture = castillan
 		
@@ -710,7 +699,7 @@ e_spain = {
 	}
 	
 	k_asturias = {
-		color={ 233 158 51 }
+		color = { 233 188 91 }
 		color2={ 255 255 255 }
 		
 		dignity = 10
@@ -875,7 +864,7 @@ e_spain = {
 		muslim = 25 # Crusade target weight
 		
 		d_galicia = {
-			color = { 213 158 51 }
+			color={ 255 224 94 }
 			color2={ 255 255 255 }
 			
 			capital = 156 # Coruna
@@ -905,8 +894,9 @@ e_spain = {
 				color = { 243 158 51}
 				color2={ 255 255 255 }
 				
+				holy_site = catholic
+				
 				b_santiago = {
-					holy_site = catholic
 				}
 				b_vigo = {
 				}
@@ -1264,11 +1254,12 @@ e_spain = {
 				levantine_arabic = "Qurtubah"
 				egyptian_arabic = "Qurtubah"
 				andalusian_arabic = "Qurtubah"
+
+				holy_site = sunni
+				holy_site = aztec
+				holy_site = aztec_reformed
 				
 				b_cordoba = {
-					holy_site = sunni
-					holy_site = aztec
-					holy_site = aztec_reformed
 					bedouin_arabic = "Qurtubah"
 					maghreb_arabic = "Qurtubah"
 					levantine_arabic = "Qurtubah"

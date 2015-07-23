@@ -1,4 +1,4 @@
-max_provinces = 2304
+max_provinces = 2330
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -10,14 +10,15 @@ tree_definition = "trees.bmp"
 continent = "continent.txt"
 adjacencies = "adjacencies.csv"
 climate = "climate.txt"
-region = "region.txt"
+region = "island_region.txt"
+geographical_region = "geographical_region.txt"
 static = "static.txt"
 seasons = "seasons.txt"
 
 # European Seas
-sea_zones = { 936 1012 }
+sea_zones = { 936 943 }
+sea_zones = { 945 1012 }
 sea_zones = { 1014 1111 }
-sea_zones = { 1305 1305 }
 sea_zones = { 2257 2257 }
 
 # Indian Seas
@@ -67,4 +68,7 @@ major_rivers =
 	1062 952 1064 972 #Caspian Sea
 	958 #Ladoga
 	997 #Onega
+	944 #Aral Sea
 }
+
+externals = { } # Paths to china

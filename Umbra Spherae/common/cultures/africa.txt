@@ -1,8 +1,8 @@
 berberic = {
-	graphical_culture = muslimgfx
+	graphical_cultures = { muslimgfx }
 	
 	guanchinet = { 
-		graphical_culture = muslimgfx #arabicgfx
+		graphical_cultures = { muslimgfx }
 		
 		color = { 0.3 0.2 0.1 }
 

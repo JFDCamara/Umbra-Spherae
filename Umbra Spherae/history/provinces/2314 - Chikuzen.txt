@@ -1,0 +1,22 @@
+# 946 - Chikuzen
+
+# County Title
+title = c_chikuzen
+
+# Settlements
+max_settlements = 5
+b_dazaifu = castle
+b_hakata = city
+b_munakata = temple
+
+#b_mikasa = castle
+#b_honami = castle
+#b_yasu = castle
+#b_sawara = castle
+#b_onga = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

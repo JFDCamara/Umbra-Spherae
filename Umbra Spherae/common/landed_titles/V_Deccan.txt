@@ -1,5 +1,3 @@
-
-
 e_deccan = {
 	color={ 190 20 50 }
 	color2={ 200 0 0 }
@@ -232,11 +230,11 @@ e_deccan = {
 				color={ 220 119 85 }
 				color2={ 255 255 255 }
 				
+				holy_site = buddhist
+
 				b_devagiri = {
 				}
 				b_ellora = {
-					holy_site = buddhist
-					holy_site = mahayana
 				}
 				b_khuldabad = {
 				}
@@ -483,10 +481,11 @@ e_deccan = {
 				color={ 108 23 49 }
 				color2={ 255 255 255 }
 				
+				holy_site = jain
+
 				b_srirangapatna = {
 				}
 				b_shravanabelagola = {
-					holy_site = jain
 				}
 				b_periyapatna = {
 				}
@@ -949,8 +948,8 @@ e_deccan = {
 			}
 			c_kavaratti = {
 
-    				color= { 168 167 115  }
-	    			color2= { 124 140 162  }
+    			color= { 168 167 115  }
+	    		color2= { 124 140 162  }
 
 				b_kavaratti = {
 				}
@@ -1014,7 +1013,7 @@ e_deccan = {
 			color={ 190 40 60 }
 			color2={ 255 255 255 }
 			
-			capital = 1121 # Vijayawada
+			capital = 1221 # Vijayawada
 			
 			c_vengipura = {
 				color={ 190 60 60 }

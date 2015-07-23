@@ -1,0 +1,22 @@
+# 1833 - Kozuke
+
+# County Title
+title = c_kozuke
+
+# Settlements
+max_settlements = 4
+b_gunma = castle
+b_tsuga = castle
+
+#b_nitta = castle
+#b_ashikaga = castle
+#b_utsunomiya = castle
+#b_nasu = castle
+#b_usui = castle
+#b_oyama = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

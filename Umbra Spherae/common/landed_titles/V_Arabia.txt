@@ -1,5 +1,3 @@
-
-
 e_arabia = {
 	color={ 32 150 85 }
 	color2={ 255 255 255 }
@@ -210,11 +208,12 @@ e_arabia = {
 				color2={ 255 255 255 }
 				
 				muslim = 500 # Crusade target weight
-			
+
+				holy_site = sunni
+				holy_site = shiite
+				holy_site = ibadi
+				
 				b_medina = {
-					holy_site = sunni
-					holy_site = shiite
-					holy_site = ibadi
 				}
 				b_khaybar = {
 				}
@@ -236,13 +235,14 @@ e_arabia = {
 				color2={ 255 255 255 }
 				
 				muslim = 1000 # Crusade target weight
-			
+
+				holy_site = sunni
+				holy_site = shiite
+				holy_site = pagan
+				holy_site = yazidi
+				holy_site = ibadi
+				
 				b_mecca = {
-					holy_site = sunni
-					holy_site = shiite
-					holy_site = pagan
-					holy_site = yazidi
-					holy_site = ibadi
 				}
 				b_jeddah = {
 				}
@@ -442,11 +442,12 @@ e_arabia = {
 			c_hajar = {
 				color={ 98 201 7 }
 				color2={ 255 255 255 }
+				
+				holy_site = ibadi
 			
 				b_alhamra = {
 				}
 				b_nizwa = {
-					holy_site = ibadi
 				}
 				b_ibri = {
 				}
@@ -506,11 +507,12 @@ e_arabia = {
 			c_dhofar = {
 				color={ 104 207 13 }
 				color2={ 255 255 255 }
-			
+
+				holy_site = jewish
+				holy_site = samaritan
+				holy_site = karaite
+				
 				b_salalah = {
-					holy_site = jewish
-					holy_site = samaritan
-					holy_site = karaite
 				}
 				b_thamarit = {
 				}
@@ -726,6 +728,7 @@ e_arabia = {
 		muslim = 400 # Crusade target weight
 		zoroastrian_group = 150 # Crusade target weight
 		zun_pagan_reformed = 100 # Crusade target weight
+		jewish_group = 500 # Crusade target weight
 		
 		d_alexandria = {
 			color={ 100 219 134 }
@@ -736,13 +739,14 @@ e_arabia = {
 			c_alexandria = {
 				color={ 102 221 136 }
 				color2={ 255 255 255 }
-			
+
+				holy_site = miaphysite
+				holy_site = monophysite
+				holy_site = hellenic_pagan
+				holy_site = nestorian
+				
 				b_alexandria = {
 					pentarchy = yes
-					holy_site = miaphysite
-					holy_site = monophysite
-					holy_site = hellenic_pagan
-					holy_site = nestorian
 				}
 				b_abukir = {
 				}
@@ -925,7 +929,10 @@ e_arabia = {
 			c_cairo = {
 				color={ 24 236 119 }
 				color2={ 255 255 255 }
-			
+
+				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
+				
 				b_cairo = {
 				}
 				b_fustat = {
@@ -935,8 +942,6 @@ e_arabia = {
 				b_helwan = {
 				}
 				b_heliopolis = {
-					holy_site = zun_pagan
-					holy_site = zun_pagan_reformed
 				}
 				b_maadi = {
 				}
@@ -1089,11 +1094,12 @@ e_arabia = {
 			c_sinai = {
 				color={ 143 201 8 }
 				color2={ 255 255 255 }
-			
+
+				holy_site = jewish
+				holy_site = samaritan
+				holy_site = karaite
+				
 				b_attur = {
-					holy_site = jewish
-					holy_site = samaritan
-					holy_site = karaite
 				}
 				b_sharmelsheikh = {
 				}
@@ -1183,6 +1189,7 @@ e_arabia = {
 		christian = 500 # Crusade target weight
 		muslim = 250 # Crusade target weight
 		zoroastrian_group = 200 # Crusade target weight
+		jewish_group = 3000 # Crusade target weight
 		
 		d_oultrejourdain = {
 			color={ 190 190 180 }
@@ -1425,24 +1432,25 @@ e_arabia = {
 				
 				christian = 250 # Crusade target weight
 				muslim = 250 # Crusade target weight
-		
+
+				holy_site = catholic
+				holy_site = orthodox
+				holy_site = sunni
+				holy_site = shiite
+				holy_site = miaphysite
+				holy_site = monophysite
+				holy_site = nestorian
+				holy_site = pagan
+				holy_site = yazidi
+				holy_site = jewish
+				holy_site = samaritan
+				holy_site = karaite
+				holy_site = ibadi
+				
 				b_mirabel = {
 				}
 				b_jerusalem = {
 					pentarchy = yes
-					holy_site = catholic
-					holy_site = orthodox
-					holy_site = sunni
-					holy_site = shiite
-					holy_site = miaphysite
-					holy_site = monophysite
-					holy_site = nestorian
-					holy_site = pagan
-					holy_site = yazidi
-					holy_site = jewish
-					holy_site = samaritan
-					holy_site = karaite
-					holy_site = ibadi
 				}
 				b_nablus = {
 				}
@@ -1737,13 +1745,14 @@ e_arabia = {
 			c_antiocheia = {
 				color={ 152 69 135 }
 				color2={ 255 255 255 }
-			
+
+				holy_site = orthodox
+				holy_site = miaphysite
+				holy_site = monophysite
+				holy_site = nestorian
+				
 				b_antiocheia = {
 					pentarchy = yes
-					holy_site = orthodox
-					holy_site = miaphysite
-					holy_site = monophysite
-					holy_site = nestorian
 				}
 				b_latakiah = {
 				}
@@ -1897,14 +1906,15 @@ e_arabia = {
 			c_damascus = {
 				color={ 125 255 6 }
 				color2={ 255 255 255 }
-			
+
+				holy_site = shiite
+				holy_site = jewish
+				holy_site = samaritan
+				holy_site = karaite
+				
 				b_qsarbardawil = {
 				}
 				b_damascus = {
-					holy_site = shiite
-					holy_site = jewish
-					holy_site = samaritan
-					holy_site = karaite
 				}
 				b_daraa = {
 				}
@@ -2138,14 +2148,15 @@ e_arabia = {
 			c_marrakech = {
 				color={ 45 152 34 }
 				color2={ 255 255 255 }
-			
+
+				holy_site = aztec
+				holy_site = aztec_reformed
+				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed
+				
 				b_marrakech = {
 				}
 				b_sidirahhal = {
-					holy_site = aztec
-					holy_site = aztec_reformed
-					holy_site = west_african_pagan
-					holy_site = west_african_pagan_reformed
 				}
 				b_ouarzazate = {
 				}
@@ -2428,15 +2439,16 @@ e_arabia = {
 			c_atlas_mnt = {
 				color={ 49 196 83 }
 				color2={ 255 255 255 }
-			
+
+				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed
+				holy_site = ibadi
+				
 				b_tiaret = {
 				}
 				b_djelfa = {
 				}
 				b_bordj = {
-					holy_site = west_african_pagan
-					holy_site = west_african_pagan_reformed
-					holy_site = ibadi
 				}
 				b_elyourh = {
 				}
@@ -2691,14 +2703,15 @@ e_arabia = {
 			c_medjerda = {
 				color={ 26 238 101 }
 				color2={ 255 255 255 }
-			
+
+				holy_site = west_african_pagan
+				holy_site = west_african_pagan_reformed			
+				
 				b_medjerda = {
 				}
 				b_lekef = {
 				}
 				b_siliana = {
-					holy_site = west_african_pagan
-					holy_site = west_african_pagan_reformed			
 				}
 				b_kasserine = {
 				}

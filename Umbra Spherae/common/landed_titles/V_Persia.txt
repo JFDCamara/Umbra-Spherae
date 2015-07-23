@@ -84,12 +84,13 @@ e_persia = {
 			c_nishapur = {
 				color={ 111 162 21 }
 				color2={ 255 255 255 }
+
+				holy_site = zoroastrian # The Great Fire of Adur Burzen-Mehr
+				holy_site = yazidi
 				
 				b_nishapur = {
 				}
 				b_jajarm = {
-					holy_site = zoroastrian # The Great Fire of Adur Burzen-Mehr
-					holy_site = yazidi
 				}
 				b_sabzevar = {
 				}
@@ -442,13 +443,14 @@ e_persia = {
 			c_sistan = {
 				color={ 102 122 67 }
 				color2={ 255 255 255 }
+
+				holy_site = zoroastrian # Lake Hamun / Mount Khwaja
 				
 				b_haozdar = {
 				}
 				b_kuh_taftan = {
 				}
 				b_nok_kundi = {
-					holy_site = zoroastrian # Lake Hamun / Mount Khwaja
 				}
 				b_dozz_aap = {
 				}
@@ -471,12 +473,13 @@ e_persia = {
 			c_fars = {
 				color={ 91 130 24 }
 				color2={ 255 255 255 }
+
+				holy_site = zoroastrian # The Great Fire of Adur Farnbag
+				holy_site = yazidi
 				
 				b_perozabad = {
 				}
 				b_kakhesasan = {
-					holy_site = zoroastrian # The Great Fire of Adur Farnbag
-					holy_site = yazidi
 				}
 				b_darab = {
 				}
@@ -564,11 +567,12 @@ e_persia = {
 			c_hamadan = {
 				color={ 190 231 118 }
 				color2={ 255 255 255 }
+
+				holy_site = jewish
+				holy_site = samaritan
+				holy_site = karaite
 				
 				b_hamadan = {
-					holy_site = jewish
-					holy_site = samaritan
-					holy_site = karaite
 				}
 				b_nahavand = {
 				}
@@ -588,13 +592,14 @@ e_persia = {
 			c_rayy = {
 				color={ 193 234 121 }
 				color2={ 255 255 255 }
+
+				holy_site = nestorian
 				
 				b_rayy = {
 				}
 				b_tehran = {
 				}
 				b_roudehen = {
-					holy_site = nestorian
 				}
 				b_hashtgerd = {
 				}
@@ -638,13 +643,14 @@ e_persia = {
 			c_oromieh = {
 				color={ 86 143 61 }
 				color2={ 255 255 255 }
+
+				holy_site = zoroastrian # The Great Fire of Adur Gushnasp
 				
 				b_oroumieh = {
 				}
 				b_khoy = {
 				}
 				b_takhtesoleyman = {
-					holy_site = zoroastrian # The Great Fire of Adur Gushnasp
 				}
 				b_avajiq = {
 				}
@@ -968,14 +974,15 @@ e_persia = {
 			c_kabul = {
 				color={ 135 90 30 }
 				color2={ 255 255 255 }
+
+				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
 				
 				b_kabul = {
 				}
 				b_adinapur = {
 				}
 				b_nagarahara = {
-					holy_site = zun_pagan
-					holy_site = zun_pagan_reformed
 				}
 				b_kapisa = {
 				}
@@ -1026,14 +1033,15 @@ e_persia = {
 			c_bost = {
 				color={ 189 110 60 }
 				color2={ 255 255 255 }
+
+				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
 				
 				b_bost = { # Aka Lashgar Gah
 				}
 				b_kandahar = {
 				}
 				b_zamindawar = {
-					holy_site = zun_pagan
-					holy_site = zun_pagan_reformed
 				}
 				b_sangin = {
 				}
@@ -1117,6 +1125,8 @@ e_persia = {
 			c_balkh = {
 				color={ 201 225 158 }
 				color2={ 255 255 255 }
+
+				holy_site = zoroastrian
 			
 				b_balkh = {
 				}
@@ -1125,7 +1135,6 @@ e_persia = {
 				b_tiliatepe = {
 				}
 				b_takhtisangin = {
-					holy_site = zoroastrian
 				}
 				b_alkhanoum = {
 				}
@@ -1294,9 +1303,10 @@ e_persia = {
 			c_al_nadjaf = {
 				color={ 105 150 32 }
 				color2={ 255 255 255 }
+
+				holy_site = shiite
 				
 				b_nadjaf = {
-					holy_site = shiite
 				}
 				b_kufah = {
 				}
@@ -1521,14 +1531,15 @@ e_persia = {
 			c_baghdad = {
 				color={ 16 135 12 }
 				color2={ 255 255 255 }
+
+				holy_site = sunni
+				holy_site = nestorian
+				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
 				
 				b_baqubah = {
 				}
 				b_bagdad = {
-					holy_site = sunni
-					holy_site = nestorian
-					holy_site = zun_pagan
-					holy_site = zun_pagan_reformed
 				}
 				b_hillah = {
 				}
@@ -1637,13 +1648,14 @@ e_persia = {
 			c_mosul = {
 				color={ 9 236 89 }
 				color2={ 255 255 255 }
+
+				holy_site = yazidi
 				
 				b_mosul = {
 				}
 				b_bakhdida = {
 				}
 				b_karamlish = {
-					holy_site = yazidi
 				}
 				b_shekhan = {
 				}

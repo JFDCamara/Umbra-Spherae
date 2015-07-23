@@ -1,0 +1,22 @@
+# 945 - Bungo
+
+# County Title
+title = c_bungo
+
+# Settlements
+max_settlements = 4
+b_oita = castle
+b_nakatsu = castle
+b_usa = temple
+
+#b_hayami = castle
+#b_kunisaki = castle
+#b_amabe = castle
+#b_moji = castle
+#b_hita = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

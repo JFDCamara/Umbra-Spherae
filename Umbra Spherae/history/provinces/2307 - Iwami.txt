@@ -1,0 +1,22 @@
+# 939 - Iwami
+
+# County Title
+title = c_iwami
+
+# Settlements
+max_settlements = 4
+b_naka = castle
+b_kanoashi = castle
+b_mino = castle
+
+#b_oochi = castle
+#b_nima = castle
+#b_masuda = castle
+#b_tsuwano = castle
+#b_hamada = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

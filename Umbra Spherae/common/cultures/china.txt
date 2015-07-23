@@ -1,10 +1,10 @@
-chinese = {
-		graphical_culture = indiangfx #Had to adapt the characters used for first and third tones in pinyin to fit the game: 
-		second_graphical_culture = muslimgfx # Fallback type
+﻿chinese = {
+		
+	graphical_cultures = { indiangfx mongolgfx muslimgfx }
 	
 	han = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.1 0.2 0.3 }
@@ -80,8 +80,7 @@ chinese = {
 		modifier = default_culture_modifier
 	}
 	yue = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.1 0.2 0.3 }
@@ -157,8 +156,7 @@ chinese = {
 		modifier = default_culture_modifier
 	}
 	min = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.1 0.2 0.3 }
@@ -234,8 +232,7 @@ chinese = {
 		modifier = default_culture_modifier
 	}
 	hakka = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.1 0.2 0.3 }
@@ -311,8 +308,7 @@ chinese = {
 		modifier = default_culture_modifier
 	}
 	gan = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.1 0.2 0.3 }
@@ -388,8 +384,7 @@ chinese = {
 		modifier = default_culture_modifier
 	}
 	wu = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.1 0.2 0.3 }
@@ -465,8 +460,7 @@ chinese = {
 		modifier = default_culture_modifier
 	}
 	xiang = { #Later Chu Chinese
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.1 0.2 0.3 }
@@ -542,8 +536,7 @@ chinese = {
 		modifier = default_culture_modifier
 	}
 	bashu = { #Sichuan and Chongqing areas - lasted till Ming Dynasty
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.1 0.2 0.3 }
@@ -619,8 +612,7 @@ chinese = {
 		modifier = default_culture_modifier
 	}
 	bai = {
-		graphical_culture = chinesegfx
-		second_graphical_culture = mongolgfx # Fallback type
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 
 		color = { 0.7 0.4 0.15 }

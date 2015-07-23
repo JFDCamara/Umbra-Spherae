@@ -2,8 +2,6 @@
 
 #added aragonese to iberian
 
-#added uyghur to altaic
-#added khitan to altaic
 #added xianbei to altaic
 
 #added coptic to east african

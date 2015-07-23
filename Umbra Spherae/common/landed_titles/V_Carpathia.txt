@@ -1,8 +1,3 @@
-
-
-
-
-
 e_carpathia = {
 	color={ 210 115 35 }
 	color2={ 255 255 255 }
@@ -217,12 +212,13 @@ e_carpathia = {
 			c_birlad = {
 				color={ 233 212 155 }
 				color2={ 255 255 255 }
-			
+
+				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
+				
 				b_barlad = {
 				}
 				b_husi = {
-					holy_site = slavic_pagan
-					holy_site = slavic_pagan_reformed
 				}
 				b_vaslui = {
 				}
@@ -695,8 +691,6 @@ e_carpathia = {
 				b_pest = {
 				}
 				b_vac = {
-					holy_site = tengri_pagan
-					holy_site = tengri_pagan_reformed
 				}
 				b_kecskemet = {
 				}

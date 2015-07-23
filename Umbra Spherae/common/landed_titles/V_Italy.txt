@@ -1,5 +1,3 @@
-
-
 e_italy = {
 	color={ 234 217 110 }
 	color2={ 255 255 255 }
@@ -732,14 +730,15 @@ e_italy = {
 				color2={ 220 220 1 }
 				
 				christian = 1500 # Crusade target weight
+
+				holy_site = catholic
+				holy_site = aztec
+				holy_site = aztec_reformed
+				holy_site = hellenic_pagan
+				holy_site = pagan
 				
 				b_roma = {
 					pentarchy = yes
-					holy_site = catholic
-					holy_site = aztec
-					holy_site = aztec_reformed
-					holy_site = hellenic_pagan
-					holy_site = pagan
 					used_for_dynasty_names = no
 				}
 				b_viterbo = {
@@ -803,6 +802,7 @@ e_italy = {
 			}
 		}
 	}
+
 	k_sardinia = {
 		color={ 210 165 280 }
 		color2={ 255 255 255 }
@@ -966,10 +966,12 @@ e_italy = {
 		}
 		has_landed_title=k_italy
 		has_landed_title=k_sicily
+		has_landed_title=k_sardinia
 		any_demesne_title = {
 			tier = king
 			NOT = { title = k_italy }
 			NOT = { title = k_sicily }
+			NOT = { title = k_sardinia }
 		}
 	}
 }

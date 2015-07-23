@@ -28,10 +28,11 @@ e_tenem_lamit = {
 				color={ 81 249 188 }
 				color2={ 255 255 255 }
 				
+				holy_site = taiwanese_religion
+				holy_site = taiwanese_religion_reformed
+				
 				b_kelang = {
 					han = "Keelung"
-					holy_site = taiwanese_religion
-					holy_site = taiwanese_religion_reformed
 				}
 				b_hoba = {
 					han = "Danshui"
@@ -117,10 +118,11 @@ e_tenem_lamit = {
 				color={ 83 248 149 }
 				color2={ 255 255 255 }
 				
+				holy_site = taiwanese_religion
+				holy_site = taiwanese_religion_reformed
+				
 				b_tayonuan = {
 					han = "Tainan"
-					holy_site = taiwanese_religion
-					holy_site = taiwanese_religion_reformed
 				}
 				b_moatau = {
 					han = "Madou"
@@ -158,10 +160,11 @@ e_tenem_lamit = {
 				color={ 41 217 198 }
 				color2={ 255 255 255 }
 				
+				holy_site = taiwanese_religion
+				holy_site = taiwanese_religion_reformed
+				
 				b_jabauli = {
 					han = "Taimali"
-					holy_site = taiwanese_religion
-					holy_site = taiwanese_religion_reformed
 				}
 				b_a-kau = {
 					han = "Pingtung"
@@ -189,10 +192,11 @@ e_tenem_lamit = {
 				color={ 111 193 184 }
 				color2={ 255 255 255 }
 				
+				holy_site = taiwanese_religion
+				holy_site = taiwanese_religion_reformed
+				
 				b_namasia = {
 					han = "Sanmin"
-					holy_site = taiwanese_religion
-					holy_site = taiwanese_religion_reformed
 				}
 				b_malang_bunun = {
 					han = "Meinong"
@@ -249,10 +253,11 @@ e_tenem_lamit = {
 				color={ 2 234 209 }
 				color2={ 255 255 255 }
 				
+				holy_site = taiwanese_religion
+				holy_site = taiwanese_religion_reformed
+				
 				b_kilai = {
 					han = "Hualien"
-					holy_site = taiwanese_religion
-					holy_site = taiwanese_religion_reformed
 				}
 				b_turumoan = {
 					han = "Wanrong"
@@ -297,9 +302,10 @@ e_tenem_lamit = {
    				color= { 253 184 5 }
     				color2= { 0 0 0  }
 
+				holy_site = philippine_religion
+				holy_site = philippine_religion_reformed
+					
 				b_maidh = {
-					holy_site = philippine_religion
-					holy_site = philippine_religion_reformed
 				}
 				b_sablayan = {
 				}
@@ -351,9 +357,10 @@ e_tenem_lamit = {
    				color= { 251 119 7 }
     				color2= { 0 0 0  }
 
+				holy_site = philippine_religion
+				holy_site = philippine_religion_reformed
+					
 				b_tondo = {
-					holy_site = philippine_religion
-					holy_site = philippine_religion_reformed
 				}
 				b_caloocan = {
 				}
@@ -449,9 +456,10 @@ e_tenem_lamit = {
 	   			color= { 243 140 16 }
     				color2= { 0 0 0  }
 
+				holy_site = philippine_religion
+				holy_site = philippine_religion_reformed
+					
 				b_aklan = {
-					holy_site = philippine_religion
-					holy_site = philippine_religion_reformed
 				}
 				b_madalag = {
 				}
@@ -525,9 +533,10 @@ e_tenem_lamit = {
    				color= { 249 205 10 }
     				color2= { 0 0 0  }
 
+				holy_site = philippine_religion
+				holy_site = philippine_religion_reformed
+					
 				b_butuan = {
-					holy_site = philippine_religion
-					holy_site = philippine_religion_reformed
 				}
 				b_cabadbaran = {
 				}
@@ -600,10 +609,11 @@ e_tenem_lamit = {
 
    				color= { 223 129 36 }
     				color2= { 0 0 0  }
+					
+				holy_site = philippine_religion
+				holy_site = philippine_religion_reformed
 
 				b_jolo = {
-					holy_site = philippine_religion
-					holy_site = philippine_religion_reformed
 				}
 				b_indanan = {
 				}
