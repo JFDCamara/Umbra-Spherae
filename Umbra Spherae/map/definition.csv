@@ -273,7 +273,7 @@ province;red;green;blue;x;x
 272;84;177;36;Akershus;x
 273;126;180;164;Oppland;x
 274;168;183;37;Bergenshus;x
-275;0;186;165;Trondelag;x
+275;0;186;165;Nidaros;x
 276;42;189;38;Hedmark;x
 277;84;192;166;Naumadal;x
 278;126;195;39;Halogaland;x
@@ -1406,7 +1406,7 @@ province;red;green;blue;x;x
 1405;1;168;130;INDIA SEA;x
 1406;43;171;3;INDIA SEA;x
 1407;85;174;131;INDIA SEA;x
-1408;127;177;4;;x
+1408;127;177;4;Anxi;x
 1409;169;180;132;INDIA SEA;x
 1410;1;183;5;INDIA SEA;x
 1411;43;186;133;INDIA SEA;x
@@ -1478,9 +1478,9 @@ province;red;green;blue;x;x
 1477;170;114;147;Tajima;x
 1478;43;48;19;Kuye;x
 1479;85;51;147;Karput;x
-1480;127;54;19;Oshima;x
-1481;169;57;147;Ishikari;x
-1482;1;60;20;Kusuri;x
+1480;127;54;20;Oshima;x
+1481;169;57;148;Ishikari;x
+1482;1;60;21;Kusuri;x
 1483;43;63;148;Amami;x
 1484;85;66;21;Ryukyu;x
 1485;127;69;149;Sakishima;x
@@ -1555,7 +1555,7 @@ province;red;green;blue;x;x
 1554;127;51;159;Dartsedo;x
 1555;169;54;32;Maqen;x
 1556;44;81;43;Mustang;x
-1557;86;84;171;Socotra;x
+1557;86;84;171;;x
 1558;170;90;172;Taktse;x
 1559;2;93;45;Gerze;x
 1560;44;96;173;Nagormo;x
@@ -1942,18 +1942,18 @@ province;red;green;blue;x;x
 1941;2;36;0;Ghuan;x
 1942;44;39;128;Then-tok;x
 1943;86;42;1;Lim-ghuang;x
-1944;127;102;220;Kashgar;x
+1944;127;102;220;KashgarUS;x
 1945;169;105;93;Karghalik;x
 1946;1;108;221;Hotan;x
-1947;43;111;94;Kucha;x
+1947;43;111;94;KuchaUS;x
 1948;85;114;222;Karasahr;x
 1949;127;117;95;Turpan;x
 1950;169;120;223;Urumqi;x
 1951;1;123;96;Charklik;x
 1952;43;126;224;Miran;x
-1953;85;129;97;Loulan;x
+1953;85;129;97;LoulanUS;x
 1954;127;132;225;Tumxuk;x
-1955;169;135;98;Yarkand;x
+1955;169;135;98;YarkandUS;x
 1956;1;138;226;Keriya;x
 1957;43;141;99;Niya;x
 1958;85;144;227;Qarqan;x
@@ -1964,11 +1964,11 @@ province;red;green;blue;x;x
 1963;43;186;134;Uzgen;x
 1964;85;189;7;Almalik;x
 1965;127;192;135;Kuldja;x
-1966;169;195;8;Kumul;x
+1966;169;195;8;KumulUS;x
 1967;1;198;136;Barkul;x
 1968;43;201;9;Kokand;x
 1969;85;204;137;Chuguchak;x
-1970;127;207;10;Aksu;x
+1970;127;207;10;AksuUS;x
 1971;169;210;138;Panjakent;x
 1972;85;6;12;Otrar;x
 1973;127;9;140;Kesh;x
@@ -1978,7 +1978,7 @@ province;red;green;blue;x;x
 1977;85;36;17;Almatu;x
 1978;127;39;145;Osh;x
 1979;169;42;18;Andijan;x
-1980;43;123;159;Kara Khoja;x
+1980;43;123;159;Kara KhojaUS;x
 1981;85;126;32;Chinchi Talas;x
 1982;127;129;160;Karamergen;x
 1983;169;132;33;Navikat;x
@@ -2062,7 +2062,7 @@ province;red;green;blue;x;x
 2061;127;183;139;Drieu;x
 2062;169;186;12;Zsyn;x
 2063;1;189;140;Khang;x
-2064;85;195;141;Nom-'on;x
+2064;85;195;141;Nom-on;x
 2065;1;204;15;Luai;x
 2066;43;207;143;Gjyeng;x
 2067;127;0;144;Khim;x
@@ -2288,7 +2288,7 @@ province;red;green;blue;x;x
 2287;86;204;191;Dongting;x
 2288;128;207;64;Tonle Sap;x
 2289;170;210;192;Toba;x
-2290;2;0;65;Sêling Co;x
+2290;2;0;65;Seling Co;x
 2291;44;3;193;Nam Co;x
 2292;86;6;66;Sevan;x
 2293;128;63;174;Madagascar Coast;x
