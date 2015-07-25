@@ -1,8 +1,8 @@
 tibetan = {
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { mongolgfx muslimgfx }
 		
 	bodpa = {
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { mongolgfx muslimgfx }
 		
 		color = { 0.9 0.9 0.0 }
 		
@@ -29,7 +29,7 @@ tibetan = {
 		modifier = default_culture_modifier
 	}
 	xangxung = {
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { mongolgfx muslimgfx }
 		
 		color = { 0.1 0.5 0.3 }
 		
@@ -58,10 +58,10 @@ tibetan = {
 }
 
 di = {
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { mongolgfx muslimgfx }
 		
 	qiang = {
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { tangutgfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.7 0.9 0.0 }
@@ -89,7 +89,7 @@ di = {
 		modifier = default_culture_modifier
 	}
 	tangut = {
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { tangutgfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.3 0.5 0.3 }
@@ -117,7 +117,7 @@ di = {
 		modifier = default_culture_modifier
 	}
 	sumpa = {
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { mongolgfx muslimgfx }
 		
 		color = { 0.3 0.5 0.1 }
 		
