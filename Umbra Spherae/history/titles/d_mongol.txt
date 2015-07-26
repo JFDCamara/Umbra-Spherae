@@ -8,9 +8,6 @@
 740.1.1 = {
 	holder=1000081002 #Damachi
 }
-744.1.1 = {
-	liege="e_uyghur"
-}
 760.1.1 = {
 	holder=1000081003 #Khorichar-Mergen
 }
@@ -25,9 +22,6 @@
 }
 840.1.1 = {
 	holder=1000081007 #Shim-Sochi
-}
-840.1.1 = {
-	liege="e_kirgiz"
 }
 860.1.1 = {
 	holder=1000081008 #Kharchu
