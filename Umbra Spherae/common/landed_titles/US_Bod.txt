@@ -1019,11 +1019,14 @@ e_tibetan_empire = {
 				}
 			}
 			c_tashkurgan = {
+			
+				sogdian = "Sarikol"
 
     				color= { 11 180 90  }
     				color2= { 101 102 163  }
 
 				b_tashkurgan = {
+					sogdian = "Sarikol"
 				}
 				b_jianggala = {
 				}

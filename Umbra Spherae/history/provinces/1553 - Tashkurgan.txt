@@ -15,7 +15,7 @@ b_tashkurgan = city
 #b_bulongke =
 
 # Misc
-culture = turkish
-religion = hindu
+culture = sogdian
+religion = manichean
 
 # History

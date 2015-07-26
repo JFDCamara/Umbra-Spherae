@@ -20,9 +20,6 @@ d_mergid;Mergid;Mergid;Mergid;Mergid;Mergid;;;;;;;;;x
 d_mergid_adj;Mergid;Mergid;Mergid;Mergid;Mergid;;;;;;;;;x
 d_tuv;Tuv;Tuv;Tuv;Tuv;Tuv;;;;;;;;;x
 d_tuv_adj;Tuv;Tuv;Tuv;Tuv;Tuv;;;;;;;;;x
-c_karakorum;Karakorum;Karakorum;Karakorum;Karakorum;Karakorum;;;;;;;;;x
-c_karakorum_adj;Karakorum;Karakorum;Karakorum;Karakorum;Karakorum;;;;;;;;;x
-b_karakorum;Karakorum;Karakorum;Karakorum;Karakorum;Karakorum;;;;;;;;;x
 b_ugiinuur;Ugiinuur;Ugiinuur;Ugiinuur;Ugiinuur;Ugiinuur;;;;;;;;;x
 b_burd;Burd;Burd;Burd;Burd;Burd;;;;;;;;;x
 b_hashaat;Hashaat;Hashaat;Hashaat;Hashaat;Hashaat;;;;;;;;;x
@@ -127,8 +124,6 @@ b_sonid_youqi;Sonid Youqi;Sonid Youqi;Sonid Youqi;Sonid Youqi;Sonid Youqi;;;;;;;
 b_sonid_zuoqi;Sonid Zuoqi;Sonid Zuoqi;Sonid Zuoqi;Sonid Zuoqi;Sonid Zuoqi;;;;;;;;;x
 d_gobi;Gobi;Gobi;Gobi;Gobi;Gobi;;;;;;;;;x
 d_gobi_adj;Gobi;Gobi;Gobi;Gobi;Gobi;;;;;;;;;x
-c_umnugobi;Umnugobi;Umnugobi;Umnugobi;Umnugobi;Umnugobi;;;;;;;;;x
-c_umnugobi_adj;Umnugobi;Umnugobi;Umnugobi;Umnugobi;Umnugobi;;;;;;;;;x
 b_dalanzadgad;Dalanzadgad;Dalanzadgad;Dalanzadgad;Dalanzadgad;Dalanzadgad;;;;;;;;;x
 b_mani_hiid;Mani Hiid;Mani Hiid;Mani Hiid;Mani Hiid;Mani Hiid;;;;;;;;;x
 c_dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;;;;;;;;;x
@@ -198,8 +193,6 @@ b_tolbo;Tolbo;Tolbo;Tolbo;Tolbo;Tolbo;;;;;;;;;x
 b_sagsai;Sagsai;Sagsai;Sagsai;Sagsai;Sagsai;;;;;;;;;x
 b_ulaanhus;Ulaanhus;Ulaanhus;Ulaanhus;Ulaanhus;Ulaanhus;;;;;;;;;x
 b_deluun;Deluun;Deluun;Deluun;Deluun;Deluun;;;;;;;;;x
-c_erchis;Erchis;Erchis;Erchis;Erchis;Erchis;;;;;;;;;x
-c_erchis_adj;Erchis;Erchis;Erchis;Erchis;Erchis;;;;;;;;;x
 b_tsengel;Tsengel;Tsengel;Tsengel;Tsengel;Tsengel;;;;;;;;;x
 b_karaul_tarkhaty;Karaul Tarkhaty;Karaul Tarkhaty;Karaul Tarkhaty;Karaul Tarkhaty;Karaul Tarkhaty;;;;;;;;;x
 b_arkaty;Arkaty;Arkaty;Arkaty;Arkaty;Arkaty;;;;;;;;;x
@@ -270,27 +263,22 @@ b_nyuki;Nyuki;Nyuki;Nyuki;Nyuki;Nyuki;;;;;;;;;x
 b_kargino;Kargino;Kargino;Kargino;Kargino;Kargino;;;;;;;;;x
 b_zakaltus;Zakaltus;Zakaltus;Zakaltus;Zakaltus;Zakaltus;;;;;;;;;x
 b_istok;Istok;Istok;Istok;Istok;Istok;;;;;;;;;x
-khitan;Khitan;Khitan;Khitan;Khitan;Khitan;;;;;;;;;x
 jurchen;Jurchen;Jurchen;Jurchen;Jurchen;Jurchen;;;;;;;;;x
-baron_khitan;Taishi;Taishi;Taishi;;Taishi khitan;;;;;;;;;x
+baron_khitan;Taishi;Taishi;Taishi;;Taishi;;;;;;;;;x
 barony_of_khitan;Taishi of;Taishi de;Taishi von;;Taishi de;;;;;;;;;x
 count_khitan;Chief;Chef;H‰uptling;;Mandatario;;;;;;;;;x
 county_of_khitan;Chiefdom of;Chefferie de;H‰uptlingdom von;;Cacicazgo de;;;;;;;;;x
 duke_khitan;High Chief;Grand Chef;Groﬂh‰uptling;;Alto mandatario;;;;;;;;;x
 duke_female_khitan;High Chief;Grand Chef;Groﬂh‰uptling;;Alto mandatario;;;;;;;;;x
 duchy_of_khitan;High Chiefdom;Grande Chefferie;Groﬂh‰uptlingstum;;Alto Cacicazgo;;;;;;;;;x
-baron_jurchen;Taishi;Taishi;Taishi;;Taishi jurchen;;;;;;;;;x
+baron_jurchen;Taishi;Taishi;Taishi;;Taishi;;;;;;;;;x
 barony_of_jurchen;Taishi of;Taishi de;Taishi von;;Taishi de;;;;;;;;;x
 count_jurchen;Chief;Chef;H‰uptling;;Mandatario;;;;;;;;;x
 county_of_jurchen;Chiefdom of;Chefferie de;H‰uptlingdom von;;Cacicazgo de;;;;;;;;;x
 duke_jurchen;High Chief;Grand Chef;Groﬂh‰uptling;;Alto mandatario;;;;;;;;;x
 duke_female_jurchen;High Chief;Grand Chef;Groﬂh‰uptling;;Alto mandatario;;;;;;;;;x
 duchy_of_jurchen;High Chiefdom;Grande Chefferie;Groﬂh‰uptlingstum;;Alto Cacicazgo;;;;;;;;;x
-e_mongol_empire;Mongol Empire;Mongol Empire;Mongol Empire;Mongol Empire;Mongol Empire;;;;;;;;;x
-e_mongol_empire_adj;Mongol Empire;Mongol Empire;Mongol Empire;Mongol Empire;Mongol Empire;;;;;;;;;x
 d_mongol;Mongol;Mongol;Mongol;Mongol;Mongol;;;;;;;;;x
 d_mongol_adj;Mongol;Mongol;Mongol;Mongol;Mongol;;;;;;;;;x
 d_zubu;Zubu Confederacy;Zubu Confederacy;Zubu Confederacy;Zubu Confederacy;Zubu Confederacy;;;;;;;;;x
 d_zubu_adj;Zubu;Zubu;Zubu;Zubu;Zubu;;;;;;;;;x
-e_kirgiz;Kyrgyz;Kyrgyz;Kyrgyz;Kyrgyz;Kyrgyz;;;;;;;;;x
-e_kirgiz_adj;Kyrgyz;Kyrgyz;Kyrgyz;Kyrgyz;Kyrgyz;;;;;;;;;x
