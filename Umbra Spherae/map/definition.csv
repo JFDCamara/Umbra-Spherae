@@ -1406,7 +1406,7 @@ province;red;green;blue;x;x
 1405;1;168;130;INDIA SEA;x
 1406;43;171;3;INDIA SEA;x
 1407;85;174;131;INDIA SEA;x
-1408;127;177;4;Anxi;x
+1408;169;132;32;Anxi;x
 1409;169;180;132;INDIA SEA;x
 1410;1;183;5;INDIA SEA;x
 1411;43;186;133;INDIA SEA;x
@@ -1653,7 +1653,7 @@ province;red;green;blue;x;x
 1652;1;114;151;Kon Tum;x
 1653;43;117;24;Dong Hoi;x
 1654;85;120;152;Son La;x
-1655;127;123;25;Dien Bien Phu;x
+1655;127;123;26;Dien Bien Phu;x
 1656;169;126;153;Lai Chau;x
 1657;1;129;26;Lao Cai;x
 1658;43;132;154;Yen Bai;x
@@ -2062,7 +2062,7 @@ province;red;green;blue;x;x
 2061;127;183;139;Drieu;x
 2062;169;186;12;Zsyn;x
 2063;1;189;140;Khang;x
-2064;85;195;141;Nom-on;x
+2064;85;195;141;Nom-'on;x
 2065;1;204;15;Luai;x
 2066;43;207;143;Gjyeng;x
 2067;127;0;144;Khim;x

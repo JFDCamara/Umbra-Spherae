@@ -1610,16 +1610,6 @@ e_russia = {
 				}
 			}
 			
-			#c_narim = {
-			#	color={ 216 175 140 }
-			#	color2={ 255 255 255 }
-			
-			#	b_narim = {}
-			#	b_kolta = {}
-			#	b_yag = {}
-			#	b_askiz = {}
-			#}
-			
 		}
 		
 		d_hlynov = { # Ugra

@@ -15,7 +15,7 @@ b_karghalik = city
 #b_hotan_mailicun =
 
 # Misc
-culture = khotan
+culture = sogdian
 religion = mahayana
 
 # History

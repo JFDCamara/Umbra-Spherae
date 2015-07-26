@@ -1122,6 +1122,8 @@ e_persia = {
 			color={ 196 225 158 }
 			color2={ 255 255 255 }
 
+			capital = 904 # Balkh
+			
 			c_balkh = {
 				color={ 201 225 158 }
 				color2={ 255 255 255 }
@@ -1207,6 +1209,33 @@ e_persia = {
 				b_farsi = {
 				}
 				b_chishti = {
+				}
+			}
+			c_khuttal = {
+				color={ 175 110 50 }
+				color2={ 255 255 255 }
+				
+				b_munjan = {}
+				b_jauz_gun = {}
+				b_taloqan = {}
+				b_jurm = {}
+				b_dushanbe = {}
+				b_kulob = {}
+				b_vakash = {}
+			}
+			c_maymana = {
+				color={ 179 214 53 }
+				color2={ 255 255 255 }
+				
+				b_maymana = {
+				}
+				b_gurziwan = {
+				}
+				b_darzab = {
+				}
+				b_almar = {
+				}
+				b_bilcheragh = {
 				}
 			}
 		}
@@ -1805,67 +1834,6 @@ e_persia = {
 		}
 	}
 
-			#c_oshrusana = {
-			#	color={ 112 217 30 }
-			#	color2={ 255 255 255 }
-				
-			#	b_banjikat = {
-			#	}
-			#	b_khujand = {
-			#	}
-			#	b_oshrusana = {
-			#	}
-			#	b_isfana = {
-			#	}
-			#	b_kurkat = {
-			#	}
-			#	b_nau = {
-			#	}
-			#	b_bekobod = {
-			#	}
-			#}
-			
-			#c_khuttal = {
-			#	color={ 175 110 50 }
-			#	color2={ 255 255 255 }
-				
-			#	b_munjan = {}
-			#	b_jauz_gun = {}
-			#	b_taloqan = {}
-			#	b_jurm = {}
-			#	b_dushanbe = {}
-			#	b_kulob = {}
-			#	b_vakash = {}
-			#}
-			#c_fergana = {
-			#	color={ 90 171 30 }
-			#	color2={ 255 255 255 }
-				
-			#	b_fergana = {}
-			#	b_khavakend = {}
-			#	b_namangan = {}
-			#	b_osh = {}
-			#	b_andijan = {}
-			#	b_margilan = {}
-			#	b_rishton = {}
-			#	b_uzkand = {} # Aka Mavarannahr. Today Uzgen.
-			#}
-			
-			#c_maymana = {
-			#	color={ 179 214 53 }
-			#	color2={ 255 255 255 }
-				
-			#	b_maymana = {
-			#	}
-			#	b_gurziwan = {
-			#	}
-			#	b_darzab = {
-			#	}
-			#	b_almar = {
-			#	}
-			#	b_bilcheragh = {
-			#	}
-			#}
 			
 			#c_balkh = {
 			#	color={ 201 225 158 }
@@ -2008,114 +1976,6 @@ e_persia = {
 				b_shovot = {}
 			}
 		}
-		d_balasagun = { #Umbra Spherae
-
-	   		color= { 240 179 34 }
-    			color2= { 0 0 0  }
-
-			capital = 1959 #Balasagun
-
-			c_balasagun = { #Umbra Spherae
-
-   				color= { 245 179 34 }
-    				color2= { 0 0 0  }
-
-				b_balasagun_bala = {
-				}
-				b_suyab_bala = {
-				}
-				b_sadovoe = {
-				}
-				b_kosh_korgon = {
-				}
-				b_tokmok = {
-				}
-				b_don_aryk = {
-				}
-				b_sortobe = {
-				}
-				b_chimkorgon = {
-				}
-			}
-			c_talas = { #Umbra Spherae
-
-   				color= { 240 184 34 }
-    				color2= { 0 0 0  }
-
-				b_talas_balasagun = {
-				}
-				b_byulkuldek = {
-				}
-				b_dolona = {
-				}
-				b_kolba = {
-				}
-				b_budennyy = {
-				}
-				b_orlevka = {
-				}
-				b_kalinino = {
-				}
-				b_karagayna = {
-				}
-			}
-			#c_chach = { #Umbra Spherae
-
-   			#	color= { 240 179 39 }
-    		#		color2= { 0 0 0  }
-
-			#	b_chach = {
-			#	}
-			#	b_urtaaul = {
-			#	}
-			#	b_yangiyol = {
-			#	}
-			#	b_kazminwody = {
-			#	}
-			#	b_saryagash = {
-			#	}
-			#	b_kaplanbek = {
-			#	}
-			#	b_zhibek_zholy = {
-			#	}
-			#	b_kibray = {
-			#	}
-			#}
-			c_chach = {
-				color= { 205 155 55 }
-				color2={ 255 255 255 }
-				
-				b_chach = {}
-				b_navekat = {}
-				b_sayram = {}
-				b_isbijab = {}
-				b_shymkent = {}
-				b_pskent = {}
-				b_turbat = {}
-			}
-			c_ispindjab = { #Umbra Spherae
-
-   				color= { 235 179 34 }
-    				color2= { 0 0 0  }
-
-				b_ispindjab = {
-				}
-				b_akzhar_ispindjab = {
-				}
-				b_sayram_is = {
-				}
-				b_chaprashty = {
-				}
-				b_sastobe = {
-				}
-				b_zhaskeshu = {
-				}
-				b_zhabagly = {
-				}
-				b_shakpak_baba = {
-				}
-			}
-		}
 		#d_bukhara = {
 
 			#color={ 205 227 47 }
@@ -2128,6 +1988,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			capital = 903 # Samarkand
+
 			c_samarkand = {
 
 				color={ 205 232 47 }
@@ -2149,6 +2010,38 @@ e_persia = {
 				}
 				b_laish = {
 				}
+			}
+			c_oshrusana = {
+				color={ 112 217 30 }
+				color2={ 255 255 255 }
+				
+				b_banjikat = {
+				}
+				b_khujand = {
+				}
+				b_oshrusana = {
+				}
+				b_isfana = {
+				}
+				b_kurkat = {
+				}
+				b_nau = {
+				}
+				b_bekobod = {
+				}
+			}
+			c_fergana = {
+				color={ 90 171 30 }
+				color2={ 255 255 255 }
+				
+				b_fergana = {}
+				b_khavakend = {}
+				b_namangan = {}
+				b_osh = {}
+				b_andijan = {}
+				b_margilan = {}
+				b_rishton = {}
+				b_uzkand = {} # Aka Mavarannahr. Today Uzgen.
 			}
 			c_panjakent = { #Umbra Spherae
 
@@ -2386,234 +2279,102 @@ e_persia = {
 			#	}
 			#}
 		#}
-		d_ferghana = { #Umbra Spherae
+		#d_ferghana = { #Umbra Spherae
 
-			color={ 176 216 58 }
-			color2={ 0 0 0 }
+			#color={ 176 216 58 }
+			#color2={ 0 0 0 }
 
-			capital = 1968 #Kokand
+			#capital = 1968 #Kokand
 
-			c_kokand = { #Umbra Spherae
+			#c_kokand = { #Umbra Spherae
 
-				color={ 181 216 58 }
-				color2={ 0 0 0 }
-
-				b_kokand = {
-				}
-				b_dangapa = {
-				}
-				b_tayar_bek = {
-				}
-				b_teliming = {
-				}
-				b_chekchuvaldak = {
-				}
-				b_chodaklik = {
-				}
-				b_chinabad = {
-				}
-				b_yashik = {
-				}
-			}
-			c_andijan = { #Umbra Spherae
-
-				color={ 176 221 58 }
-				color2={ 0 0 0 }
-
-				b_andijan_a = {
-				}
-				b_asaka = {
-				}
-				b_kutarma = {
-				}
-				b_uighur_abad = {
-				}
-				b_langar = {
-				}
-				b_kutarma = {
-				}
-				b_marhamat = {
-				}
-				b_paytug = {
-				}
-			}
-			c_uzgen = { #Umbra Spherae
-
-				color={ 176 216 63 }
-				color2={ 0 0 0 }
-
-				b_uzgen = {
-				}
-				b_kashkaterek = {
-				}
-				b_kenesh = {
-				}
-				b_jylaldy = {
-				}
-				b_krasnyi_mayak = {
-				}
-				b_yangi_uzgen = {
-				}
-				b_kara_dyikan = {
-				}
-				b_myrza_ake = {
-				}
-			}
-			c_osh = { #Umbra Spherae
-
-				color={ 171 216 58 }
-				color2={ 0 0 0 }
-
-				b_osh_o = {
-				}
-				b_medrese = {
-				}
-				b_nariman = {
-				}
-				b_kashgar_kyshtak = {
-				}
-				b_ak_tash = {
-				}
-				b_jylkeldi = {
-				}
-				b_kyrgyz_chek = {
-				}
-				b_chagyr = {
-				}
-			}
-		}
-		d_farab = { #Umbra Spherae
-
-			color={ 182 207 5 }
-			color2={ 0 0 0 }
-
-			capital = 1972 #Otrar
-
-			#c_otrar = { #Umbra Spherae
-
-			#	color={ 187 207 5 }
+			#	color={ 181 216 58 }
 			#	color2={ 0 0 0 }
 
-			#	b_otrar = {
+			#	b_kokand = {
 			#	}
-			#	b_zarnuk = {
+			#	b_dangapa = {
 			#	}
-			#	b_talapty = {
+			#	b_tayar_bek = {
 			#	}
-			#	b_bayaldyr = {
+			#	b_teliming = {
 			#	}
-			#	b_shaulder = {
+			#	b_chekchuvaldak = {
 			#	}
-			#	b_shaulderskiy = {
+			#	b_chodaklik = {
 			#	}
-			#	b_chingildy = {
+			#	b_chinabad = {
 			#	}
-			#	b_kumkal = {
+			#	b_yashik = {
 			#	}
 			#}
-			c_otrar = {
-				color= { 165 155 55 }
-				color2={ 255 255 255 }
-			
-				b_otrar = {}
-				b_shaulder = {}
-				b_shoshkakoi = {}
-				b_birlik = {}
-				b_chernak = {}
-				b_kentau = {}
-				b_turtkul = {}
-			}
-			#c_kyzylorda = {
+			#c_andijan = { #Umbra Spherae
 
-			#	color={ 182 212 5 }
+			#	color={ 176 221 58 }
 			#	color2={ 0 0 0 }
 
-			#	b_akmechet = {
+			#	b_andijan_a = {
 			#	}
-			#	b_kyzylorda = {
-			#		holy_site = tengri_pagan
-			#		holy_site = tengri_pagan_reformed				
+			#	b_asaka = {
 			#	}
-			#	b_kazaly = {
+			#	b_kutarma = {
 			#	}
-			#	b_terenuzyak = {
+			#	b_uighur_abad = {
 			#	}
-			#	b_dzhanadzhol = {
+			#	b_langar = {
 			#	}
-			#	b_sarytogay = {
+			#	b_kutarma = {
 			#	}
-			#	b_zhalagash = {
+			#	b_marhamat = {
 			#	}
-			#	b_kyzyleginshi = {
+			#	b_paytug = {
 			#	}
 			#}
-			c_shavgar = { #Umbra Spherae
+			#c_uzgen = { #Umbra Spherae
 
-				color={ 182 207 10 }
-				color2={ 0 0 0 }
+			#	color={ 176 216 63 }
+			#	color2={ 0 0 0 }
 
-				b_shavgar = {
-				}
-				b_suzak = {
-				}
-				b_sauran = {
-				}
-				b_birlik = {
-				}
-				b_imeni_kalinina = {
-				}
-				b_karashyk = {
-				}
-				b_karnak = {
-				}
-				b_urangay = {
-				}
-			}
-			c_kumkent = { #Umbra Spherae
+			#	b_uzgen = {
+			#	}
+			#	b_kashkaterek = {
+			#	}
+			#	b_kenesh = {
+			#	}
+			#	b_jylaldy = {
+			#	}
+			#	b_krasnyi_mayak = {
+			#	}
+			#	b_yangi_uzgen = {
+			#	}
+			#	b_kara_dyikan = {
+			#	}
+			#	b_myrza_ake = {
+			#	}
+			#}
+			#c_osh = { #Umbra Spherae
 
-				color={ 177 207 5 }
-				color2={ 0 0 0 }
+			#	color={ 171 216 58 }
+			#	color2={ 0 0 0 }
 
-				b_kumkent = {
-				}
-				b_kyzylkol = {
-				}
-				b_dzhanatas = {
-				}
-				b_chulakkurgan = {
-				}
-				b_zhuantobe = {
-				}
-				b_toretogan = {
-				}
-				b_shyganak = {
-				}
-				b_zhdanov = {
-				}
-			}
-			c_saudakent = { #Umbra Spherae
-
-				color={ 182 202 5 }
-				color2={ 0 0 0 }
-
-				b_saudakent = {
-				}
-				b_shavagar = {
-				}
-				b_dzhana_tleu = {
-				}
-				b_ilgeribas = {
-				}
-				b_zhanakush = {
-				}
-				b_karaoy = {
-				}
-				b_tabakbulak = {
-				}
-				b_kyzylaut = {
-				}
-			}
-		}
+			#	b_osh_o = {
+			#	}
+			#	b_medrese = {
+			#	}
+			#	b_nariman = {
+			#	}
+			#	b_kashgar_kyshtak = {
+			#	}
+			#	b_ak_tash = {
+			#	}
+			#	b_jylkeldi = {
+			#	}
+			#	b_kyrgyz_chek = {
+			#	}
+			#	b_chagyr = {
+			#	}
+			#}
+		#}
 	}
 } # e_persia
 

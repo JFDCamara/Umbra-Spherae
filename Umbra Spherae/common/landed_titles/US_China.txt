@@ -4705,32 +4705,32 @@ e_china = {
 				b_piukluk = {
 				}
 			}
-			c_krua = {
+			#c_krua = {
 
-				color={ 199 154 171 }
-				color2={ 255 255 255 }
+			#	color={ 199 154 171 }
+			#	color2={ 255 255 255 }
 
-				b_cinhchjang = {
-				}
-				b_zjanglak = {
-				}
-				b_ngyukmuonkruan = {
-				}
-			}
-			c_sra = {
+			#	b_cinhchjang = {
+			#	}
+			#	b_zjanglak = {
+			#	}
+			#	b_ngyukmuonkruan = {
+			#	}
+			#}
+			#c_sra = {
 
-				color={ 209 144 171 }
-				color2={ 255 255 255 }
+			#	color={ 209 144 171 }
+			#	color2={ 255 255 255 }
 
-				b_thuonghuang = {
-				}
-				b_zjuhchjang = {
-				}
-				b_jangkruan = {
-				}
-				b_makkaukhuot = {
-				}
-			}
+			#	b_thuonghuang = {
+			#	}
+			#	b_zjuhchjang = {
+			#	}
+			#	b_jangkruan = {
+			#	}
+			#	b_makkaukhuot = {
+			#	}
+			#}
 		}
 		d_ejinai = { #Heishui
 
@@ -5059,12 +5059,12 @@ k_tao = {
 	
 }
 
-k_gansu = {
+#k_gansu = {
 
-	capital = 1912 # Liang
+#	capital = 1912 # Liang
 
-   	color= { 225 222 91 }
-    	color2= { 0 0 0  }
+#   	color= { 225 222 91 }
+#   	color2= { 0 0 0  }
 
-	culture = uyghur
-}
+#	culture = uyghur
+#}
