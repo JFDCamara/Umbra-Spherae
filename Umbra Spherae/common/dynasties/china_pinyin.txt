@@ -1,202 +1,202 @@
 #########New Chinese Dynasty id Range 1.000.156.000 - 1.000.156.999 ######
 
 1000027500 = {
-    name="ZhÃ o"#ZhÃ o-è¶™
+    name="Zhào"#Zhào-?
     culture = han
 }
 
 1000027501 = {
-		name="JiÃ n"#JiÃ n-å‰‘
+		name="Jiàn"#Jiàn-?
 		culture = han
 }
 
 1000027502 = {
-		name="SÃ¼n"#SÅ«n-å­™
+		name="Sün"#Sun-?
 		culture = han
 }
 
 1000027503 = {
-		name="LÃ®"#LÇ-æ
+		name="Lî"#Li-?
 		culture = han
 }
 
 1000027504 = {
-		name="ZhÃ¶u"#ZhÅu-å‘¨
+		name="Zhöu"#Zhou-?
 		culture = han
 }
 
 1000027505 = {
-		name="WÃº"#WÃº-å´
+		name="Wú"#Wú-?
 		culture = han
 }
 
 1000027506 = {
-		name="ZhÃ¨ng"#ZhÃ¨ng-éƒ‘
+		name="Zhèng"#Zhèng-?
 		culture = han
 }
 
 1000027507 = {
-		name="WÃ¡ng"#WÃ¡ng-ç‹
+		name="Wáng"#Wáng-?
 		culture = han
 }
 
 1000027508 = {
-		name="FÃ©ng"#FÃ©ng-å†¯
+		name="Féng"#Féng-?
 		culture = han
 }
 
 1000027509 = {
-		name="ChÃ©n"#ChÃ©n-é™ˆ
+		name="Chén"#Chén-?
 		culture = han
 }
 
 1000027510 = {
-		name="ChÃ»"#ChÇ”-è¤š
+		name="Chû"#Chu-?
 		culture = han
 }
 
 1000027511 = {
-		name="WÃ¨i"#WÃ¨i-é­
+		name="Wèi"#Wèi-?
 		culture = han
 }
 
 1000027512 = {
-		name="JiÃ¢ng"#JiÇng-è’‹
+		name="Jiâng"#Jiang-?
 		culture = han
 }
 
 1000027513 = {
-		name="HÃ¡n"#HÃ¡n-éŸ©
+		name="Hán"#Hán-?
 		culture = han
 }
 
 1000027514 = {
-		name="YÃ¡ng"#YÃ¡ng-æ¨
+		name="Yáng"#Yáng-?
 		culture = han
 }
 
 1000027515 = {
-		name="ShÃ»"#ShÇ”-èœ€
+		name="Shû"#Shu-?
 		culture = han
 }
 
 1000027516 = {
-		name="JÃ¯n"#JÄ«n-é‡‘
+		name="Jïn"#Jin-?
 		culture = han
 }
 
 1000027517 = {
-		name="YÃ³u"#YÃ³u-å°¤
+		name="Yóu"#Yóu-?
 		culture = han
 }
 
 1000027518 = {
-		name="XÃº"#XÃº-å¾
+		name="Xú"#Xú-?
 		culture = han
 }
 
 1000027519 = {
-		name="ShÃªn"#ShÄ›n-æ²ˆ
+		name="Shên"#Shen-?
 		culture = han
 }
 
 1000027520 = {
-		name="HÃº"#HÃº-èƒ¡
+		name="Hú"#Hú-?
 		culture = han
 }
 
 1000027521 = {
-		name="LÃ»"#LÇ”-é²
+		name="Lû"#Lu-?
 		culture = han
 }
 
 1000027522 = {
-		name="ShÃ­"#ShÃ­-çŸ³
+		name="Shí"#Shí-?
 		culture = han
 }
 
 1000027523 = {
-		name="ZhÃ¤ng"#ZhÄng-å¼ 
+		name="Zhäng"#Zhang-?
 		culture = han
 }
 
 1000027524 = {
-		name="KÃ´ng"#KÇ’ng-å­”
+		name="Kông"#Kong-?
 		culture = han
 }
 
 1000027525 = {
-		name="CÃ¡o"#CÃ¡o-æ›¹
+		name="Cáo"#Cáo-?
 		culture = han
 }
 
 1000027526 = {
-		name="YÃ¡n"#YÃ¡n-é—«
+		name="Yán"#Yán-?
 		culture = han
 }
 
 1000027527 = {
-		name="HuÃ "#HuÃ -å
+		name="Huà"#Huà-?
 		culture = han
 }
 
 1000027528 = {
-		name="JÃ¬n"#JÃ¬n-æ™‰
+		name="Jìn"#Jìn-?
 		culture = han
 }
 
 1000027529 = {
-		name="WÃ¨i"#WÃ¨i-å°‰
+		name="Wèi"#Wèi-?
 		culture = han
 }
 
 1000027530 = {
-		name="TÃ¡o"#TÃ¡o-é™¶
+		name="Táo"#Táo-?
 		culture = han
 }
 
 1000027531 = {
-		name="JiÃ¤ng"#JiÄng-å§œ
+		name="Jiäng"#Jiang-?
 		culture = han
 }
 
 1000027532 = {
-		name="QÃ­"#QÃ­-é½
+		name="Qí"#Qí-?
 		culture = han
 }
 
 1000027533 = {
-		name="XiÃ¤o"#XiÄo-è‚–
+		name="Xiäo"#Xiao-?
 		culture = han
 }
 
 1000027534 = {
-		name="ZÃ¶u"#ZÅu-é‚¹
+		name="Zöu"#Zou-?
 		culture = han
 }
 
 1000027535 = {
-		name="YÃº"#YÃº-äº
+		name="Yú"#Yú-?
 		culture = han
 }
 
 1000027536 = {
-		name="BÃ¡i"#BÃ¡i-ç™½
+		name="Bái"#Bái-?
 		culture = han
 }
 
 1000027537 = {
-		name="ShuÃ®"#ShuÇ-æ°´
+		name="Shuî"#Shui-?
 		culture = han
 }
 
 1000027538 = {
-		name="DÃ²u"#DÃ²u-ç«‡
+		name="Dòu"#Dòu-?
 		culture = han
 }
 
 1000027539 = {
-		name="ZhÃ¤ng"#ZhÄng-å¼ 
+		name="Zhäng"#Zhang-?
 		culture = han
 }
 
@@ -206,12 +206,12 @@
 }
 
 1000027541 = {
-		name="SÃ¼"#SÅ«-è‹
+		name="Sü"#Su-?
 		culture = han
 }
 
 1000027542 = {
-		name="PÃ¤n"#PÄn-æ½˜
+		name="Pän"#Pan-?
 		culture = han
 }
 
@@ -226,12 +226,12 @@
 }
 
 1000027545 = {
-		name="FÃ n"#FÃ n-èŒƒ
+		name="Fàn"#Fàn-?
 		culture = han
 }
 
 1000027546 = {
-		name="PÃ©ng"#PÃ©ng-å½­
+		name="Péng"#Péng-?
 		culture = han
 }
 
@@ -241,22 +241,22 @@
 }
 
 1000027548 = {
-		name="LÃ¼"#LÇš-å•
+		name="Lü"#Lu-?
 		culture = han
 }
 
 1000027549 = {
-		name="WÃ¨i"#WÃ¨i-éŸ‹
+		name="Wèi"#Wèi-?
 		culture = han
 }
 
 1000027550 = {
-		name="ChÃ¡ng"#ChÃ¡ng-å¸¸
+		name="Cháng"#Cháng-?
 		culture = han
 }
 
 1000027551 = {
-		name="MÃ¢"#MÇ-é©¬
+		name="Mâ"#Ma-?
 		culture = han
 }
 
@@ -266,7 +266,7 @@
 }
 
 1000027553 = {
-		name="DÃ¨ng"#DÃ¨ng-é‚“
+		name="Dèng"#Dèng-?
 		culture = han
 }
 
@@ -276,27 +276,27 @@
 }
 
 1000027555 = {
-		name="FÃ¤ng"#FÄng-æ–¹
+		name="Fäng"#Fang-?
 		culture = han
 }
 
 1000027556 = {
-		name="YÃº"#YÃº-ä½™
+		name="Yú"#Yú-?
 		culture = han
 }
 
 1000027557 = {
-		name="RÃ¨n"#RÃ¨n-ä»»
+		name="Rèn"#Rèn-?
 		culture = han
 }
 
 1000027558 = {
-		name="YuÃ¡n"#YuÃ¡n-è¢
+		name="Yuán"#Yuán-?
 		culture = han
 }
 
 1000027559 = {
-		name="LiÃº"#LiÃº-åˆ˜
+		name="Liú"#Liú-?
 		culture = han
 }
 
@@ -311,12 +311,12 @@
 }
 
 1000027562 = {
-		name="ShÃ®"#ShÇ-å²
+		name="Shî"#Shi-?
 		culture = han
 }
 
 1000027563 = {
-		name="TÃ¡ng"#TÃ¡ng-å”
+		name="Táng"#Táng-?
 		culture = han
 }
 
@@ -341,12 +341,12 @@
 }
 
 1000027568 = {
-		name="LÃ©i"#LÃ©i-é›·
+		name="Léi"#Léi-?
 		culture = han
 }
 
 1000027569 = {
-		name="HÃ©"#HÃ©-ä½•
+		name="Hé"#Hé-?
 		culture = han
 }
 
@@ -366,12 +366,12 @@
 }
 
 1000027573 = {
-		name="YÃ®n"#YÇn-å°¹
+		name="Yîn"#Yin-?
 		culture = han
 }
 
 1000027574 = {
-		name="LuÃ³"#LuÃ³-ç½—
+		name="Luó"#Luó-?
 		culture = han
 }
 
@@ -381,27 +381,27 @@
 }
 
 1000027576 = {
-		name="HÃ¢o"#HÇo-éƒ
+		name="Hâo"#Hao-?
 		culture = han
 }
 
 1000027577 = {
-		name="HuÃ¡ng"#HuÃ¡ng-é»„
+		name="Huáng"#Huáng-?
 		culture = han
 }
 
 1000027578 = {
-		name="Ã„n"#Ä€n-å®‰
+		name="Än"#An-?
 		culture = han
 }
 
 1000027579 = {
-		name="ZhÃ¤ng"#ZhÄng-å¼ 
+		name="Zhäng"#Zhang-?
 		culture = han
 }
 
 1000027699 = {
-		name="WÃ»"#WÇ”-æ­¦
+		name="Wû"#Wu-?
 		culture = han
 }
 
@@ -426,7 +426,7 @@
 	culture = bai
 }
 1000028326 = {
-	name="DuÃ n"#DuÃ n-æ®µ
+	name="Duàn"#Duàn-?
 	culture = bai
 }
 
@@ -450,62 +450,62 @@
 }
 #New Range begins
 1000156000 = {
-		name="Ã„n"#Ä€n-ä¿º
+		name="Än"#An-?
 		culture = zhuhui
 }
 1000156001 = {
-		name="JÃ¯n"#JÄ«n-é‡‘
+		name="Jïn"#Jin-?
 		culture = zhuhui
 }
 1000156002 = {
-		name="ShÃ­"#ShÃ­-çŸ³
+		name="Shí"#Shí-?
 		culture = zhuhui
 }
 1000156003 = {
-		name="LÃ®"#LÇ-æ
+		name="Lî"#Li-?
 		culture = zhuhui
 }
 1000156004 = {
-    name="ZhÃ o"#ZhÃ o-è¶™
+    name="Zhào"#Zhào-?
     culture = zhuhui
 }
 1000156005 = {
-		name="ZhÃ¤ng"#ZhÄng-å¼µ
+		name="Zhäng"#Zhang-?
 		culture = zhuhui
 }
 1000156006 = {
-		name="Ã€i"#Ã€i-è‰¾
+		name="Ài"#Ài-?
 		culture = zhuhui
 }
 1000156007 = {
-		name="GÃ¤o"#GÄo-é«˜
+		name="Gäo"#Gao-?
 		culture = zhuhui
 }
 1000156008 = {
-		name="Nungz"#NÃ³ng-å„‚
+		name="Nungz"#Nóng-?
 		culture = zhuang
 }
 1000156009 = {
-		name="Veiz"#WÃ©i-éŸ¦
+		name="Veiz"#Wéi-?
 		culture = zhuang
 }
 1000156010 = {
-		name="Bya"#BÄ-å­
+		name="Bya"#Ba-?
 		culture = zhuang
 }
 1000156011 = {
-		name="Luz"#LÃ¹-é™†
+		name="Luz"#Lù-?
 		culture = zhuang
 }
 1000156012 = {
-		name="Leix"#LÇ-æ
+		name="Leix"#Li-?
 		culture = zhuang
 }
 1000156013 = {
-		name="Vangz"#HuÃ¡ng-é»„
+		name="Vangz"#Huáng-?
 		culture = zhuang
 }
 1000156014 = {
-		name="Maj"#MÇ-é©¬
+		name="Maj"#Ma-?
 		culture = zhuang
 }
