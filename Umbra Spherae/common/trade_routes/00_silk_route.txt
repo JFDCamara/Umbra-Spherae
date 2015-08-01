@@ -9,17 +9,35 @@ silk_road = {
 	}
 
 	start = {				# Start provinces of trade route
-		1464 # Anxi
-		1177 # Pundravardhana
+		2122 # Yong
+		1177 # Kundina
 	}
 
 	# Northern Silk Route
-	path = {	# Anxi-Dunhuang-Khotan-Kashgar
-		1464 1465
+	path = {	# Yong-Lan-Dunhuang
+		2122 2135 2136 2139 1912 1913 1962 1448
+	}
+	path = {	# Dunhuang-Khotan-Kashgar
+		1448 1447 1442 1441 1440 1945 1438 1439
+	}
+	path = {	# Dunhuang-Turpan-Kucha-Kashgar
+		1448 1450 1446 1443 1444 1445 1439
+	}
+	path = {	# Kashgar-Samarkand
+		1439 1425 1423 1971 903
+	}
+	path = {	# Samarkand-Bagdad
+		903 1973 904 1377 905 299 906 635 636 660 646 647 657 689 693
+	}
+	path = {	# Samarkand-Turkestan-Itil-Tana
+		903 1181 1989 1972 1431 900 1990 622 621 618 620 605 607 594 596
+	}
+	path = {	# Bagdad-Antioch
+		693 695 712 729 710 709 732 733 764
 	}
 
 	# Southern Silk Route
-	path = {	# Pundravardhana-Candradvipa-Vijayawada(Masulipatam)-Mahoyadapuram(Muziris)-Bharuch-Banbhore
-		 1177 1418 1321 1381 1325 1319 1236 1411 1410 1409 1407 1221 1406 1405 1403 1402 1401 1114 1400 1399 1127 1398 1397 1297
+	path = {	# Kundina-Pundravardhana-Candradvipa-Vijayawada(Masulipatam)-Mahoyadapuram(Muziris)-Bharuch-Banbhore
+		1177 1418 1321 1381 1325 1319 1236 1411 1410 1409 1407 1221 1406 1405 1403 1402 1401 1114 1400 1399 1127 1398 1397 1297
 	}
 }
