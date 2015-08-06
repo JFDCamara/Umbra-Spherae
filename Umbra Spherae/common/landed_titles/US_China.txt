@@ -711,6 +711,7 @@ e_china = {
 				b_cikmok = {
 				}
 				b_lausrentadchiengkiung = {
+					holy_site = tao
 				}
 				b_haixchang = {
 				}
@@ -1185,6 +1186,9 @@ e_china = {
 				b_sjep = {
 				}
 				b_cekkhe = {
+				}
+				b_qiyun = {
+					holy_site = tao
 				}
 				b_liuneng = {
 				}
@@ -1872,6 +1876,9 @@ e_china = {
 				}
 				b_zriungnjin = {
 				}
+				b_longhu = {
+					holy_site = tao
+				}
 				b_ngieghuang = {
 				}
 				b_kimkhe = {
@@ -2375,6 +2382,7 @@ e_china = {
 				b_nrioxkruamieuh = {
 				}
 				b_ngyukghuangkiung = {
+					holy_site = tao
 				}
 				b_ciexjangdungh = {
 				}
@@ -2927,6 +2935,9 @@ e_china = {
 				b_sinbyan = {
 				}
 				b_kuangxto = {
+				}
+				b_heming = {
+					holy_site = tao
 				}
 				b_lengzyen = {
 				}
