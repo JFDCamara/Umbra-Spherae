@@ -7,6 +7,9 @@
 
 #Tang Dynasty
 618.6.18={
+	name = TANG_DYNASTY
+	adjective = TANG_DYNASTY_ADJ
+	effect = { set_coa = e_tang }
 	holder=1000202650 #Yuan
 }
 626.9.4={
@@ -24,11 +27,17 @@
 
 #Zhou Dynasty
 690.10.8={
+	name = ZHOU_DYNASTY
+	adjective = ZHOU_DYNASTY_ADJ
+	effect = { set_coa = e_zhou }
 	holder=1000202661 #Zhao
 }
 
 #Tang Dynasty (restored)
 705.2.22={
+	name = TANG_DYNASTY
+	adjective = TANG_DYNASTY_ADJ
+	effect = { set_coa = e_tang }
 	holder=1000202663 #Xian (again)
 }
 710.7.3={
@@ -88,6 +97,9 @@
 
 #Song Dynasty
 960.2.4={
+	name = SONG_DYNASTY
+	adjective = SONG_DYNASTY_ADJ
+	effect = { set_coa = e_song }
 	holder=1000079005 #Kuangyin
 }
 976.11.15={
@@ -144,6 +156,9 @@
 
 #Yuan Dynasty
 1279.3.19={
+	name = YUAN_DYNASTY
+	adjective = YUAN_DYNASTY_ADJ
+	effect = { set_coa = e_yuan }
 	holder=1000202466 #Kublai
 }
 1294.2.18={

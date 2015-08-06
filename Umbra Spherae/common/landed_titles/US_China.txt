@@ -1,3 +1,31 @@
+e_tang = {
+	color={ 162 32 65 }
+	color2={ 255 255 255 }  # Only for the CoA
+	allow = {
+		always = no
+	}
+}
+e_zhou = {
+	color={ 162 32 65 }
+	color2={ 255 255 255 }  # Only for the CoA
+	allow = {
+		always = no
+	}
+}
+e_song = {
+	color={ 162 32 65 }
+	color2={ 255 255 255 }  # Only for the CoA
+	allow = {
+		always = no
+	}
+}
+e_yuan = {
+	color={ 162 32 65 }
+	color2={ 255 255 255 }  # Only for the CoA
+	allow = {
+		always = no
+	}
+}
 e_china = {
 
 	capital = 2019 # Bienh
