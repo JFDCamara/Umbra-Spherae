@@ -151,6 +151,9 @@ e_china = {
 				}
 				b_cjahzjeng = {
 				}
+				b_yingtian = {
+					holy_site = confucian
+				}
 				b_ngyozjeng = {
 				}
 				b_chrioxkjiu = {
@@ -780,6 +783,7 @@ e_china = {
 				b_ghra = {
 				}
 				b_khyukbiux = {
+					holy_site = confucian
 				}
 				b_criu = {
 				}
@@ -840,6 +844,9 @@ e_china = {
 				b_zjanghngyan = {
 				}
 				b_litsjyix = {
+				}
+				b_jinshan = {
+					holy_site = confucian
 				}
 				b_litjang = {
 				}
@@ -1209,6 +1216,9 @@ e_china = {
 				b_tokhruah = {
 				}
 				b_ghokhux = {
+				}
+				b_bailudong = {
+					holy_site = confucian
 				}
 				b_zjyehchjang = {
 				}
@@ -1956,6 +1966,9 @@ e_china = {
 				b_jekjang = {
 				}
 				b_nomngruk = {
+				}
+				b_yuelu = {
+					holy_site = confucian
 				}
 				b_siangim = {
 				}
