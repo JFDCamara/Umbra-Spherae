@@ -8,6 +8,7 @@ max_settlements = 4
 b_limchjyen = castle
 b_nomzjeng = city
 b_zriungnjin = city
+b_longhu = temple
 #b_ngieghuang =
 #b_kimkhe =
 #b_nomphiung =

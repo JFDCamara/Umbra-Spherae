@@ -1,3 +1,31 @@
+e_tang = {
+	color={ 162 32 65 }
+	color2={ 255 255 255 }  # Only for the CoA
+	allow = {
+		always = no
+	}
+}
+e_zhou = {
+	color={ 162 32 65 }
+	color2={ 255 255 255 }  # Only for the CoA
+	allow = {
+		always = no
+	}
+}
+e_song = {
+	color={ 162 32 65 }
+	color2={ 255 255 255 }  # Only for the CoA
+	allow = {
+		always = no
+	}
+}
+e_yuan = {
+	color={ 162 32 65 }
+	color2={ 255 255 255 }  # Only for the CoA
+	allow = {
+		always = no
+	}
+}
 e_china = {
 
 	capital = 2019 # Bienh
@@ -122,6 +150,9 @@ e_china = {
 				b_ghraxip = {
 				}
 				b_cjahzjeng = {
+				}
+				b_yingtian = {
+					holy_site = confucian
 				}
 				b_ngyozjeng = {
 				}
@@ -683,6 +714,7 @@ e_china = {
 				b_cikmok = {
 				}
 				b_lausrentadchiengkiung = {
+					holy_site = tao
 				}
 				b_haixchang = {
 				}
@@ -751,6 +783,7 @@ e_china = {
 				b_ghra = {
 				}
 				b_khyukbiux = {
+					holy_site = confucian
 				}
 				b_criu = {
 				}
@@ -811,6 +844,9 @@ e_china = {
 				b_zjanghngyan = {
 				}
 				b_litsjyix = {
+				}
+				b_jinshan = {
+					holy_site = confucian
 				}
 				b_litjang = {
 				}
@@ -1158,6 +1194,9 @@ e_china = {
 				}
 				b_cekkhe = {
 				}
+				b_qiyun = {
+					holy_site = tao
+				}
 				b_liuneng = {
 				}
 				b_jii = {
@@ -1177,6 +1216,9 @@ e_china = {
 				b_tokhruah = {
 				}
 				b_ghokhux = {
+				}
+				b_bailudong = {
+					holy_site = confucian
 				}
 				b_zjyehchjang = {
 				}
@@ -1844,6 +1886,9 @@ e_china = {
 				}
 				b_zriungnjin = {
 				}
+				b_longhu = {
+					holy_site = tao
+				}
 				b_ngieghuang = {
 				}
 				b_kimkhe = {
@@ -1921,6 +1966,9 @@ e_china = {
 				b_jekjang = {
 				}
 				b_nomngruk = {
+				}
+				b_yuelu = {
+					holy_site = confucian
 				}
 				b_siangim = {
 				}
@@ -2347,6 +2395,7 @@ e_china = {
 				b_nrioxkruamieuh = {
 				}
 				b_ngyukghuangkiung = {
+					holy_site = tao
 				}
 				b_ciexjangdungh = {
 				}
@@ -2899,6 +2948,9 @@ e_china = {
 				b_sinbyan = {
 				}
 				b_kuangxto = {
+				}
+				b_heming = {
+					holy_site = tao
 				}
 				b_lengzyen = {
 				}

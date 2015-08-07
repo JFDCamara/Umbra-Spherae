@@ -7,6 +7,7 @@ title = c_sjep
 max_settlements = 4
 b_sjep = castle
 b_cekkhe = city
+b_qiyun = temple
 #b_liuneng =
 #b_jii =
 #b_cjiix =

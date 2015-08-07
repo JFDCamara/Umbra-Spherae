@@ -7,6 +7,7 @@ title = c_krung
 max_settlements = 4
 b_tokhruah = castle
 b_zjingthenkuanh = temple
+b_bailudong = temple
 #b_ghokhux =
 #b_zjyehchjang =
 #b_brangdrak =
