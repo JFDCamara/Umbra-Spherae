@@ -1,67 +1,77 @@
-#Yenisei Dynasty (placeholders)
-750.1.1={
-	liege="k_kirgiz"
+20.1.1 = {
+	historical_nomad = yes
 }
-750.1.1={
-	holder=1000205212 #Kozel
+758.1.1={
+	liege=d_kirghiz
+	holder=188784 # Uyghur conquest
 }
-780.1.1={
-	holder=1000205213 #Blush
+759.6.1={
+	holder=217110
+	liege=d_altay
 }
-810.1.1={
-	holder=1000205214 #Bonyak
+779.1.1={
+	holder=188786
+	liege=d_kirghiz
 }
-840.1.1={
-	holder=1000202390 #Almazbek
+789.1.1={
+	holder=188787
 }
-870.1.1={
-	holder=1000202391 #Abai
+790.1.1={
+	holder=188788
 }
-900.1.1={
-	holder=1000202392 #Kasym
+795.1.1={
+	holder = 194191
 }
-930.1.1={
-	holder=1000202393 #Feliks
+
+# Kirghiz rule
+840.6.6 = {
+	holder = 194192
 }
-960.1.1={
-	holder=1000202394 #Nasirdin
+860.1.1 = {
+	holder = 34873
 }
-990.1.1={
-	holder=1000202395 #Orzubek
+900.1.1 = {
+	holder = 194193
 }
-1020.1.1={
-	holder=1000202396 #Rysbek
+920.1.1 = {
+	holder = 194194
 }
-1050.1.1={
-	holder=1000076213 #Semetei
+930.1.1 = {
+	holder = 194195
 }
-1080.1.1={
-	holder=1000202397 #Seitek
+950.1.1 = {
+	holder = 194196
 }
-1110.1.1={
-	holder=1000202398 #Askar
+980.1.1 = {
+	holder = 194197
 }
-1140.1.1={
-	holder=1000202399 #Zhakyp
+1030.1.1 = {
+	holder = 194198
 }
-1170.1.1={
-	holder=1000202400 #Jusup
+1060.1.1 = {
+	holder = 194199
 }
-1200.1.1={
-	holder=1000202401 #Temir
+1080.1.1 = {
+	holder = 194200
 }
-1230.1.1={
-	holder=1000202402 #Sayaqbay
+1110.1.1 = {
+	holder = 194201
 }
-1260.1.1={
-	holder=1000202403 #Almas
+1150.1.1 = {
+	holder = 194202
 }
-1290.1.1={
-	holder=1000202404 #Salamat
+1180.1.1 = {
+	holder = 194203
 }
-1320.1.1={
-	holder=1000202405 #Mirtemir
+1200.1.1 = {
+	holder = 194204
 }
-1350.1.1={
-	holder=1000202406 #Omurbek
+1230.1.1 = {
+	holder = 194220
+}
+1280.1.1 = {
+	holder = 194221
+}
+1310.1.1 = {
+	holder = 194222
 }

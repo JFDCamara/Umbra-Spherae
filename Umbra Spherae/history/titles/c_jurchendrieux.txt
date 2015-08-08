@@ -1,3 +1,6 @@
+20.1.1 = {
+	historical_nomad = yes
+}
 #Wanyan Dynasty
 750.1.1 = {
 	liege="k_jurchens"

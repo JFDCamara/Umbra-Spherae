@@ -15,9 +15,9 @@ b_dolona = temple
 #b_karagayna =
 
 # Misc
-culture = turkish
-religion = sunni
+culture = sogdian
+religion = manichean
 
 # History
-
+1150.1.1 = { culture = turkish religion = sunni } 
 1230.1.1 = { culture = mongol } 

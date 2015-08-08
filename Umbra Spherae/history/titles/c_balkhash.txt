@@ -1,152 +1,28 @@
-#Kimek Dynasty (placeholders)
-750.1.1={
-	liege="k_kimek"
-}
-750.1.1={
-	holder=1000205221 #Etrek
-}
-780.1.1={
-	holder=1000205222 #Gzi
-}
-810.1.1={
-	holder=1000205223 #Sirçan
-}
-840.1.1={
-	holder=1000202407 #Sirçan
-}
-870.1.1={
-	holder=1000202408 #Bonyak
-}
-900.1.1={
-	holder=1000202409 #Atrak
-}
-930.1.1={
-	holder=1000202410 #Itlar
-}
-960.1.1={
-	holder=1000202411 #Kopti
-}
-990.1.1={
-	holder=1000202412 #Uzluk
-}
-1020.1.1={
-	holder=1000202413 #Gzi
-}
-1050.1.1={
-	holder=1000076214 #Könçek
-}
-1080.1.1={
-	holder=1000202414 #Etrek
-}
-1110.1.1={
-	holder=1000202415 #Togli
-}
-1140.1.1={
-	holder=1000202416 #Eldeçyuk
-}
-1170.1.1={
-	holder=1000202417 #Borç
-}
-1200.1.1={
-	holder=1000202418 #Bachman
+762.1.1={
+	liege=d_kipchak
+	holder=188817
+	#historical_nomad=yes
 }
 
-#Mongol Empire
-1220.1.1={
-	liege="e_mongol_empire"
+850.1.1={
+	liege=d_kipchak
+	holder=34870
 }
-1220.1.1={
-	holder=125501 #Genghis
+1066.1.1={
+	liege=d_yaik
+	holder=34963
+}
+1095.1.1=
+{
+holder=34964
+}
+1220.1.1 = {
+	liege = k_cuman
+	holder = 161735
+}
+1228.1.1 = {
+	liege = e_golden_horde
 }
 
-#Chagatai
-1227.12.2={
-	liege="k_chagatai"
-}
-1227.12.2={
-	holder = 93062
-}
-1242.1.1=
-{
-	holder = 93064
-}
-1246.1.1=
-{
-	holder = 93065
-}
-1252.1.1=
-{
-	holder = 93064
-}
-1253.1.1=
-{
-	holder = 93066
-}
-1260.1.1=
-{
-	holder = 93068
-}
-1266.1.1=
-{
-	holder = 93066
-}
-1266.9.1=
-{
-	holder = 93070
-}
-1271.1.1=
-{
-	holder = 93072
-}
-1271.12.18=
-{
-	liege="e_chagatai"
-}
-1272.1.1=
-{
-	holder = 93074
-}
-1282.1.1=
-{
-	holder = 93075
-}
-1307.1.1=
-{
-	holder = 93076
-}
-1308.1.1=
-{
-	holder = 93078
-}
-1309.1.1=
-{
-	holder = 93079
-}
-1310.1.1=
-{
-	holder = 93080
-}
-1318.1.1=
-{
-	holder = 93079
-}
-1326.1.1=
-{
-	holder = 93081
-}
-1329.1.1=
-{
-	holder = 93082
-}
-1330.1.1=
-{
-	holder = 93083
-}
-1334.1.1=
-{
-	holder = 93084
-}
-1335.1.1=
-{
-	holder = 93086
-}
+
+## To be filled

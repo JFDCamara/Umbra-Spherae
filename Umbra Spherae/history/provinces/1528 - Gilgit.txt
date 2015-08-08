@@ -15,7 +15,7 @@ b_gilgit = city
 #b_munjawa =
 
 # Misc
-culture = turkish
-religion = hindu
+culture = sogdian
+religion = buddhist
 
 # History

@@ -2131,6 +2131,18 @@ e_persia = {
 				b_khodzzha_kurgan = {
 				}
 			}
+			c_chach = {
+				color= { 205 155 55 }
+				color2={ 255 255 255 }
+				
+				b_chach = {}
+				b_navekat = {}
+				b_sayram = {}
+				b_isbijab = {}
+				b_shymkent = {}
+				b_pskent = {}
+				b_turbat = {}
+			}
 		}
 		d_merv = {
 

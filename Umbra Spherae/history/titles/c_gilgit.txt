@@ -1,5 +1,6 @@
 #Sarikol
 727.1.1 = {
+	liege = "d_pamir"
 	holder = 166696
 }
 763.1.1 = {
@@ -8,15 +9,8 @@
 800.1.1 = {
 	holder = 166699
 }
-840.1.1 = {
-	liege = "d_pamir"
-	holder = 166700
-}
 
 #Kayani Dynasty (pre-Trakhan dynasty)
-840.1.1= {
-	liege="d_pamir"
-}
 840.1.1= {
 	holder=1000076296 #Kark
 }

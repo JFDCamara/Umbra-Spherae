@@ -1949,6 +1949,8 @@ e_rajastan = {
 
     			color= { 11 170 90  }
     			color2= { 101 102 163  }
+				
+			sogdian = "Sarikol"
 
 			capital = 1528 # Gilgit
 

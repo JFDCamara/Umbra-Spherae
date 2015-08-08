@@ -15,7 +15,9 @@ b_begish = temple
 #b_katagan =
 
 # Misc
-culture = persian
-religion = sunni
+culture = sogdian
+religion = zoroastrian
 
 # History
+861.1.1 = { culture = persian } #Bactrian culture is abosorbed by mainstream Persian
+1187.1.1 = { religion = sunni }

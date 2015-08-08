@@ -16,6 +16,6 @@ b_tashkurgan = city
 
 # Misc
 culture = sogdian
-religion = manichean
+religion = buddhist
 
 # History

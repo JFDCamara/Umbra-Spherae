@@ -1,194 +1,61 @@
-#Kimek Dynasty (placeholders)
-750.1.1={
-	liege="k_kimek"
+743.1.1={
+	liege=d_kimak
+	holder=188779
 }
-750.1.1={
-	holder=1000205221 #Etrek
+770.1.1={
+	holder=188780
 }
-780.1.1={
-	holder=1000205222 #Gzi
+795.1.1={
+	holder=188781
 }
-810.1.1={
-	holder=1000205223 #Sirçan
+820.1.1={
+	holder=188782
 }
-840.1.1={
-	holder=1000202407 #Sirçan
+850.1.1={
+	holder=34871
 }
-870.1.1={
-	holder=1000202408 #Bonyak
+889.1.1 = {
+	holder = 194205
 }
-900.1.1={
-	holder=1000202409 #Atrak
+920.1.1 = {
+	holder = 194206
 }
-930.1.1={
-	holder=1000202410 #Itlar
+930.1.1 = {
+	holder = 194207
 }
-960.1.1={
-	holder=1000202411 #Kopti
+950.1.1 = {
+	holder = 194208
 }
-990.1.1={
-	holder=1000202412 #Uzluk
+980.1.1 = {
+	holder = 194209
 }
-1020.1.1={
-	holder=1000202413 #Gzi
+1030.1.1 = {
+	holder = 194210
 }
-1050.1.1={
-	holder=1000076214 #Könçek
+1060.1.1 = {
+	holder = 194211
 }
-1080.1.1={
-	holder=1000202414 #Etrek
+1080.1.1 = {
+	holder = 194212
 }
-
-#Kara-Khanids overthrow Samanids
-1099.1.1={
-	liege="k_khiva"
+1110.1.1 = {
+	holder = 194213
 }
-1099.1.1={
-	holder = 144117 #Harun
+1150.1.1 = {
+	holder = 194214
 }
-1099.6.1={
-	holder = 144109 #Jibrail
+1180.1.1 = {
+	holder = 194215
 }
-1102.1.1={
-	holder = 144111 #Muhammad II [III ingame]
+1200.1.1 = {
+	holder = 194216
 }
-1130.1.1={
-	holder = 144113 #Ahmad II [III ingame]
+1230.1.1 = {
+	holder = 194217
 }
-1130.6.1={
-	holder = 144116 #Hasan
+1280.1.1 = {
+	holder = 194218
 }
-1136.1.1={
-	holder = 144118 #Mahmud II
-}
-1142.1.1={
-	holder = 144119 #Ibrahim II
-}
-1156.1.1={
-	holder = 144112 #Mahmud III
-}
-1158.1.1={
-	holder = 144120 #Ali
-}
-1161.1.1={
-	holder = 144121 #Masud II
-}
-1171.1.1={
-	holder = 1000202370 #Muhammad III [IV ingame]
-}
-1178.1.1={
-	holder = 1000202369 #Abd-al-Haliq
-}
-1178.6.1={
-	holder = 144122 #Ibrahim III
-}
-1203.1.1={
-	holder = 93051 #Utman
-}
-
-#Khwarizm Shahs
-1212.1.1=
-{
-	liege="k_persia"
-	holder=93053
-}
-
-#Mongol Empire
-1218.1.1={
-	liege="e_mongol_empire"
-}
-1218.1.1={
-	holder=125501 #Genghis
-}
-
-#Chagatai
-1227.12.2={
-	liege="k_chagatai"
-}
-1227.12.2={
-	holder = 93062
-}
-1242.1.1=
-{
-	holder = 93064
-}
-1246.1.1=
-{
-	holder = 93065
-}
-1252.1.1=
-{
-	holder = 93064
-}
-1253.1.1=
-{
-	holder = 93066
-}
-1260.1.1=
-{
-	holder = 93068
-}
-1266.1.1=
-{
-	holder = 93066
-}
-1266.9.1=
-{
-	holder = 93070
-}
-1271.1.1=
-{
-	holder = 93072
-}
-1271.12.18=
-{
-	liege="e_chagatai"
-}
-1272.1.1=
-{
-	holder = 93074
-}
-1282.1.1=
-{
-	holder = 93075
-}
-1307.1.1=
-{
-	holder = 93076
-}
-1308.1.1=
-{
-	holder = 93078
-}
-1309.1.1=
-{
-	holder = 93079
-}
-1310.1.1=
-{
-	holder = 93080
-}
-1318.1.1=
-{
-	holder = 93079
-}
-1326.1.1=
-{
-	holder = 93081
-}
-1329.1.1=
-{
-	holder = 93082
-}
-1330.1.1=
-{
-	holder = 93083
-}
-1334.1.1=
-{
-	holder = 93084
-}
-1335.1.1=
-{
-	holder = 93086
+1310.1.1 = {
+	holder = 194219
 }

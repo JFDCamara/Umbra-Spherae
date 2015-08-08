@@ -1628,6 +1628,8 @@ e_tartaria = {
 			
 			capital = 1424 # Chuy
 			
+			sogdian = "Balasagun"
+			
 			culture = turkish
 			
 			c_chuy = {
@@ -1678,6 +1680,49 @@ e_tartaria = {
 				b_sakla_baga = {}
 				b_saryshaghan = {}
 				b_zhaylaukol = {}
+			}
+			c_balasagun = { #Umbra Spherae
+
+   				color= { 245 179 34 }
+				
+				mongol = "Gobalik"
+
+				b_balasagun_bala = {
+				}
+				b_suyab_bala = {
+				}
+				b_sadovoe = {
+				}
+				b_kosh_korgon = {
+				}
+				b_don_aryk = {
+				}
+				b_sortobe = {
+				}
+				b_chimkorgon = {
+				}
+			}
+			c_talas = { #Umbra Spherae
+
+   				color= { 240 184 34 }
+    				color2= { 0 0 0  }
+
+				b_talas_balasagun = {
+				}
+				b_byulkuldek = {
+				}
+				b_dolona = {
+				}
+				b_kolba = {
+				}
+				b_budennyy = {
+				}
+				b_orlevka = {
+				}
+				b_kalinino = {
+				}
+				b_karagayna = {
+				}
 			}
 		}
 		
@@ -1890,92 +1935,6 @@ e_tartaria = {
 				b_kyzylaut = {
 				}
 			}
-		}
-		d_balasagun = { #Umbra Spherae
-
-	   		color= { 240 179 34 }
-    			color2= { 0 0 0  }
-
-			capital = 1959 #Balasagun
-
-			c_balasagun = { #Umbra Spherae
-
-   				color= { 245 179 34 }
-    				color2= { 0 0 0  }
-
-				b_balasagun_bala = {
-				}
-				b_suyab_bala = {
-				}
-				b_sadovoe = {
-				}
-				b_kosh_korgon = {
-				}
-				b_tokmok = {
-				}
-				b_don_aryk = {
-				}
-				b_sortobe = {
-				}
-				b_chimkorgon = {
-				}
-			}
-			c_talas = { #Umbra Spherae
-
-   				color= { 240 184 34 }
-    				color2= { 0 0 0  }
-
-				b_talas_balasagun = {
-				}
-				b_byulkuldek = {
-				}
-				b_dolona = {
-				}
-				b_kolba = {
-				}
-				b_budennyy = {
-				}
-				b_orlevka = {
-				}
-				b_kalinino = {
-				}
-				b_karagayna = {
-				}
-			}
-			#c_chach = { #Umbra Spherae
-
-   			#	color= { 240 179 39 }
-    		#		color2= { 0 0 0  }
-
-			#	b_chach = {
-			#	}
-			#	b_urtaaul = {
-			#	}
-			#	b_yangiyol = {
-			#	}
-			#	b_kazminwody = {
-			#	}
-			#	b_saryagash = {
-			#	}
-			#	b_kaplanbek = {
-			#	}
-			#	b_zhibek_zholy = {
-			#	}
-			#	b_kibray = {
-			#	}
-			#}
-			c_chach = {
-				color= { 205 155 55 }
-				color2={ 255 255 255 }
-				
-				b_chach = {}
-				b_navekat = {}
-				b_sayram = {}
-				b_isbijab = {}
-				b_shymkent = {}
-				b_pskent = {}
-				b_turbat = {}
-			}
 			c_ispindjab = { #Umbra Spherae
 
    				color= { 235 179 34 }
@@ -1999,6 +1958,36 @@ e_tartaria = {
 				}
 			}
 		}
+		#d_balasagun = { #Umbra Spherae
+
+	   	#	color= { 240 179 34 }
+    	#		color2= { 0 0 0  }
+
+		#	capital = 1959 #Balasagun
+		
+			#c_chach = { #Umbra Spherae
+
+   			#	color= { 240 179 39 }
+    		#		color2= { 0 0 0  }
+
+			#	b_chach = {
+			#	}
+			#	b_urtaaul = {
+			#	}
+			#	b_yangiyol = {
+			#	}
+			#	b_kazminwody = {
+			#	}
+			#	b_saryagash = {
+			#	}
+			#	b_kaplanbek = {
+			#	}
+			#	b_zhibek_zholy = {
+			#	}
+			#	b_kibray = {
+			#	}
+			#}
+		#}
 	}
 }
 

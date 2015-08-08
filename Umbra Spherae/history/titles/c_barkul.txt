@@ -1,212 +1,48 @@
-#Karabalghasun Dynasty
-744.1.1={
-	liege="e_uyghur"
+744.1.1 = {
+	liege = d_ikh_bogd
+	holder = 217101
 }
-744.1.1={
-	holder=1000203813 #Gulipeiluo
+860.1.1 = {
+	holder = 217342
+	liege = d_khangai
 }
-747.1.1={
-	holder=1000203814 #Moyanchuo
+# Liao Khitan
+1055.8.28 = {
+	holder = 217185
+	liege = d_ikh_bogd
 }
-759.1.1={
-	holder=1000203815 #Yidijian
+1093.2.17 = {
+	holder = 217337
 }
-779.1.1={
-	holder=1000203816 #Dunmohedagan
+1106.6.8 = {
+	holder = 217338
 }
-789.1.1={
-	holder=1000203817 #Duoluositejin
+# Naiman Mongol Horde
+1125.3.26 = {
+	holder = 217213
+	liege = d_kumul
 }
-790.1.1={
-	holder=1000203818 #Jueluowu
+1165.2.7 = {
+	holder = 217214
 }
-790.6.1={
-	holder=1000203819 #Achuo
+1197.5.24 = {
+	holder = 217215
 }
-
-#Guduolu Dynasty (usurpers)
-795.1.1={
-	holder=1000203820 #Guduolu
+1206.7.9 = {
+	holder = 217217
 }
-808.1.1={
-	holder=1000203821 #Baoyikehan
+1224.12.17 = {
+	holder = 217246
 }
-821.1.1={
-	holder=1000203822 #Chongdekehan
+1257.4.16 = {
+	holder = 217259
 }
-824.1.1={
-	holder=1000203823 #Hesatejin
+1272.4.7 = {
+	holder = 217260
 }
-832.1.1={
-	holder=1000203824 #Hutejin
+1304.12.14 = {
+	holder = 217261
 }
-
-#Jueluowu Dynasty (usurper)
-839.1.1={
-	holder=1000203825 #Jueluowu
-}
-
-#Guduolu Dynasty (restored)
-840.1.1={
-	holder=1000203826 #Wuxitele
-}
-846.1.1={
-	holder=1000203827 #Enietele
-}
-847.1.1={
-	holder=1000203828 #Pangtele
-}
-
-#Kara-Khoja Dynasty
-864.1.1 = {
-	liege="k_kara_khoja"
-}
-864.1.1 = {
-	holder=1000202420 #Bilga-Tsun
-}
-874.1.1 = {
-	holder=1000202421 #Tengri-Ilig
-}
-910.1.1 = {
-	holder=1000202422 #Il-Bilga
-}
-960.1.1 = {
-	holder=1000202423 #Sungulug
-}
-996.1.1 = {
-	holder=1000202424 #Bugu
-}
-1007.1.1 = {
-	holder=1000202425 #Quttugh-Kul
-}
-1024.1.1 = {
-	holder=1000076209 #Kul
-}
-1068.1.1 = {
-	holder=1000076210 #Bugu-Il
-}
-1110.1.1 = {
-	holder=1000202426 #Bilga
-}
-
-#Kara-Khitai
-1123.11.1 = {
-	liege="k_khitans"
-}
-1123.11.1 = {
-	holder=1000202528 #Dashi
-}
-1125.3.16 = {
-	liege="e_kitai"
-}
-1143.1.1 = {
-	holder=1000202529 #Yilie
-}
-1160.1.1 = {
-	holder=1000202531 #Zhilugu
-}
-
-#Naiman Dynasty
-1213.1.1 = {
-	holder=1000202584 #Kuchlug
-}
-
-#Mongol Empire
-1218.1.1={
-	liege="e_mongol_empire"
-}
-1218.1.1={
-	holder=125501 #Genghis
-}
-
-#Chagatai
-1227.12.2={
-	liege="k_chagatai"
-}
-1227.12.2={
-	holder = 93062
-}
-1242.1.1=
-{
-	holder = 93064
-}
-1246.1.1=
-{
-	holder = 93065
-}
-1252.1.1=
-{
-	holder = 93064
-}
-1253.1.1=
-{
-	holder = 93066
-}
-1260.1.1=
-{
-	holder = 93068
-}
-1266.1.1=
-{
-	holder = 93066
-}
-1266.9.1=
-{
-	holder = 93070
-}
-1271.1.1=
-{
-	holder = 93072
-}
-1271.12.18=
-{
-	liege="e_chagatai"
-}
-1272.1.1=
-{
-	holder = 93074
-}
-1282.1.1=
-{
-	holder = 93075
-}
-1307.1.1=
-{
-	holder = 93076
-}
-1308.1.1=
-{
-	holder = 93078
-}
-1309.1.1=
-{
-	holder = 93079
-}
-1310.1.1=
-{
-	holder = 93080
-}
-1318.1.1=
-{
-	holder = 93079
-}
-1326.1.1=
-{
-	holder = 93081
-}
-1329.1.1=
-{
-	holder = 93082
-}
-1330.1.1=
-{
-	holder = 93083
-}
-1334.1.1=
-{
-	holder = 93084
-}
-1335.1.1=
-{
-	holder = 93086
-}
+#1200.1.1 = {
+#	holder = 125501
+#}

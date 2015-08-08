@@ -1,8 +1,6 @@
 #Basmyl Dynasty (placeholders)
 750.1.1={
-	liege="d_basmyl"
-}
-750.1.1={
+	liege = d_basmyl
 	holder=1000205227 #Begluk
 }
 780.1.1={

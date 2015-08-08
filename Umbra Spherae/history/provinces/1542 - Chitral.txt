@@ -15,7 +15,7 @@ b_chitral = city
 #b_mogh =
 
 # Misc
-culture = turkish
-religion = sunni
+culture = sogdian
+religion = buddhist
 
 # History

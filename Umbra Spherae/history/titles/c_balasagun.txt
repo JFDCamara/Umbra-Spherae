@@ -1,6 +1,3 @@
-20.1.1 = {
-	historical_nomad = yes
-}
 766.1.1={
 	holder=188768
 }
