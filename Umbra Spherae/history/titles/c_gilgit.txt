@@ -1,53 +1,16 @@
-619.1.1={
-	liege="e_tibetan_empire"
+#Sarikol
+727.1.1 = {
+	holder = 166696
 }
-619.1.1={
-	holder = 1000077128
+763.1.1 = {
+	holder = 166697
 }
-650.1.1={
-	holder = 1000077140
-} #Regent
-656.1.1={
-	holder = 1000077144
+800.1.1 = {
+	holder = 166699
 }
-679.1.1={
-	holder = 1000077141
-} #Regent
-685.1.1={
-	holder = 1000077142
-} #Regent
-686.1.1={
-	holder = 1000077150
-}
-704.6.1={
-	holder = 1000077155
-} #Deposed
-705.1.1={
-	holder = 1000077145
-} #Regent
-712.1.1={
-	holder = 1000077156
-}
-755.1.1={
-	holder = 1000077164
-}
-797.1.1={
-	holder = 1000077174
-}
-802.1.1={
-	holder = 1000077176
-}
-804.1.1={
-	holder = 1000077177
-}
-815.1.1={
-	holder = 1000077183
-}
-838.11.1={
-	holder = 1000077184
-}
-840.1.1={
-	liege=0
+840.1.1 = {
+	liege = "d_pamir"
+	holder = 166700
 }
 
 #Kayani Dynasty (pre-Trakhan dynasty)

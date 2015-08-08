@@ -14,11 +14,10 @@ b_gurugem = temple
 b_gartok = city
 
 # Misc
-culture = xangxung
+culture = bodpa
 religion = bon
 
 # History
 900.1.1 = { religion = vajrayana }
-950.1.1 = { culture = bodpa }
 1000.1.1 = { b_tholing = temple }
 1050.1.1 = { b_mangnang = temple }

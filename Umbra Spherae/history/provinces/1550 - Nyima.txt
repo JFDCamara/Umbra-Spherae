@@ -13,9 +13,7 @@ b_nyima = city
 #b_dogyaling = castle
 
 # Misc
-culture = sumpa
+culture = bodpa
 religion = bon
 
 # History
-
-1100.1.1 = { culture = bodpa }

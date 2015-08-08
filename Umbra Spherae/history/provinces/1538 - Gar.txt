@@ -13,9 +13,8 @@ b_gegyai = city
 #b_suwenbu = castle
 
 # Misc
-culture = xangxung
+culture = bodpa
 religion = bon
 
 # History
 900.1.1 = { religion = vajrayana }
-1050.1.1 = { culture = bodpa }

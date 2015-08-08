@@ -13,9 +13,8 @@ b_tashi_dor = temple
 #b_lhomar = castle
 
 # Misc
-culture = sumpa
+culture = bodpa
 religion = bon
 
 # History
 900.1.1 = { religion = vajrayana }
-1000.1.1 = { culture = bodpa }

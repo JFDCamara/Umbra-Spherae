@@ -104,50 +104,50 @@ c_xining;Xining;Xining;Xining;;Xining;;;;;;;;;x
 c_xining_adj;Xining;Xining;Xining;;Xining;;;;;;;;;x
 c_denzong;Denzong;Denzong;Denzong;;Denzong;;;;;;;;;x
 c_denzong_adj;Denzong;Denzong;Denzong;;Denzong;;;;;;;;;x
-temple_emperor_tibetan;Dalai Lama;Dalai Lama;Dalai Lama;;Dalai Lama;;;;;;;;;x
-temple_king_tibetan;Panchen Lama;Panchen Lama;Panchen Lama;;Panchen Lama;;;;;;;;;x
-temple_duke_tibetan;Tai Situpa;Tai Situpa;Tai Situpa;;Tai Situpa;;;;;;;;;x
-temple_count_tibetan;Trizin;Trizin;Trizin;;Trizin;;;;;;;;;x
-temple_baron_tibetan;Lama;Lama;Lama;;Lama;;;;;;;;;x
-temple_baron_title_ruler_consort_female_tibetan;Bdag-mo;Bdag-mo;Bdag-mo;;Bdag-mo;;;;;;;;;x
-city_baron_tibetan;Dpon-po;Dpon-po;Dpon-po;;Dpon-po;;;;;;;;;x
-city_baron_female_tibetan;Dpon-mo;Dpon-mo;Dpon-mo;;Dpon-mo;;;;;;;;;x
-emperor_tibetan;Tsenpo;Tsenpo;Tsenpo;;Tsenpo;;;;;;;;;x
-emperor_female_tibetan;Tsenmo;Tsenmo;Tsenmo;;Tsenmo;;;;;;;;x;
-empire_of_tibetan;Tsen of;Tsen of;Tsen of;;Tsen of;;;;;;;;;x
-temple_empire_of_tibetan;Khang of;Khang of;Khang of;;Khang of;;;;;;;;;x
-king_tibetan;Tsenpo;Tsenpo;Tsenpo;;Tsenpo;;;;;;;;;x
-king_female_tibetan;Tsenmo;Tsenmo;Tsenmo;;Tsenmo;;;;;;;;x;
-kingdom_of_tibetan;Tsen of;Tsen of;Tsen of;;Tsen of;;;;;;;;;x
-temple_kingdom_of_tibetan;Khang of;Khang of;Khang of;;Khang of;;;;;;;;;x
-duke_tibetan;rJe;rJe;rJe;;rJe;;;;;;;;;x
-duke_female_tibetan;Khri bTsun;Khri bTsun;Khri bTsun;;Khri bTsun;;;;;;;;;x
-duchy_of_tibetan;Mnga' Sde of;Mnga' Sde of;Mnga' Sde of;;Mnga' Sde of;;;;;;;;;x
-temple_duchy_of_tibetan;Pho-dgon of;Pho-dgon of;Pho-dgon of;;Pho-dgon of;;;;;;;;;x
-count_tibetan;Rgyal-po;Rgyal-po;Rgyal-po;;Rgyal-po;;;;;;;;;x
-count_female_tibetan;Rgyal-mo;Rgyal-mo;Rgyal-mo;;Rgyal-mo;;;;;;;;;x
-county_of_tibetan;Sa-Khul of;Sa-Khul of;Sa-Khul of;;Sa-Khul of;;;;;;;;;x
-temple_county_of_tibetan;Gönba of;Gönba of;Gönba of;;Gönba of;;;;;;;;;x
-baron_tibetan;Bdag-po;Bdag-po;Bdag-po;;Bdag-po;;;;;;;;;x
-baron_female_tibetan;Bdag-mo;Bdag-mo;Bdag-mo;;Bdag-mo;;;;;;;;;x
-barony_of_tibetan;Mkhar of;Mkhar of;Mkhar of;;Mkhar of;;;;;;;;;x
-temple_barony_of_tibetan;Ling of;Ling of;Ling of;;Ling of;;;;;;;;;x
-city_barony_of_tibetan;Grongkhyer of;Grongkhyer of;Grongkhyer of;;Grongkhyer of;;;;;;;;;x
-title_regent_tibetan;Kalön;Kalön;Kalön;;Kalön;;;;;;;;;x
-title_ruler_consort_tibetan;Tsenpo;Tsenpo;Tsenpo;;Tsenpo;;;;;;;;;x
-title_ruler_consort_female_tibetan;Tsenmo;Tsenmo;Tsenmo;;Tsenmo;;;;;;;;x;
-baron_title_ruler_consort_tibetan;Bdag-po;Bdag-po;Bdag-po;;Bdag-po;;;;;;;;;x
-baron_title_ruler_consort_female_tibetan;Bdag-mo;Bdag-mo;Bdag-mo;;Bdag-mo;;;;;;;;;x
-count_title_ruler_consort_tibetan;Rgyal-po;Rgyal-po;Rgyal-po;;Rgyal-po;;;;;;;;;x
-count_title_ruler_consort_female_tibetan;Rgyal-mo;Rgyal-mo;Rgyal-mo;;Rgyal-mo;;;;;;;;;x
-duke_title_ruler_consort_tibetan;rJe;rJe;rJe;;rJe;;;;;;;;;x
-duke_title_ruler_consort_female_tibetan;Khri bTsun;Khri bTsun;Khri bTsun;;Khri bTsun;;;;;;;;;x
-emperor_title_ruler_consort_tibetan;Tsenpo;Tsenpo;Tsenpo;;Tsenpo;;;;;;;;;x
-emperor_title_ruler_consort_female_tibetan;Tsenmo;Tsenmo;Tsenmo;;Tsenmo;;;;;;;;x;
-title_queen_mother_tibetan;Tsen-ama;Tsen-ama;Tsen-ama;;Tsen-ama;;;;;;;;;x
-emperor_title_queen_mother_female_tibetan;Tsen-ama;Tsen-ama;Tsen-ama;;Tsen-ama;;;;;;;;;x
-title_prince_tibetan;Lhase;Lhase;Lhase;;Lhase;;;;;;;;;x
-title_prince_female_tibetan;Kungco;Kungco;Kungco;;Kungco;;;;;;;;;x
+temple_emperor_bodpa;Dalai Lama;Dalai Lama;Dalai Lama;;Dalai Lama;;;;;;;;;x
+temple_king_bodpa;Panchen Lama;Panchen Lama;Panchen Lama;;Panchen Lama;;;;;;;;;x
+temple_duke_bodpa;Tai Situpa;Tai Situpa;Tai Situpa;;Tai Situpa;;;;;;;;;x
+temple_count_bodpa;Trizin;Trizin;Trizin;;Trizin;;;;;;;;;x
+temple_baron_bodpa;Lama;Lama;Lama;;Lama;;;;;;;;;x
+temple_baron_title_ruler_consort_female_bodpa;Bdag-mo;Bdag-mo;Bdag-mo;;Bdag-mo;;;;;;;;;x
+city_baron_bodpa;Dpon-po;Dpon-po;Dpon-po;;Dpon-po;;;;;;;;;x
+city_baron_female_bodpa;Dpon-mo;Dpon-mo;Dpon-mo;;Dpon-mo;;;;;;;;;x
+emperor_bodpa;Tsenpo;Tsenpo;Tsenpo;;Tsenpo;;;;;;;;;x
+emperor_female_bodpa;Tsenmo;Tsenmo;Tsenmo;;Tsenmo;;;;;;;;x;
+empire_of_bodpa;Tsen of;Tsen of;Tsen of;;Tsen of;;;;;;;;;x
+temple_empire_of_bodpa;Khang of;Khang of;Khang of;;Khang of;;;;;;;;;x
+king_bodpa;Tsenpo;Tsenpo;Tsenpo;;Tsenpo;;;;;;;;;x
+king_female_bodpa;Tsenmo;Tsenmo;Tsenmo;;Tsenmo;;;;;;;;x;
+kingdom_of_bodpa;Tsen of;Tsen of;Tsen of;;Tsen of;;;;;;;;;x
+temple_kingdom_of_bodpa;Khang of;Khang of;Khang of;;Khang of;;;;;;;;;x
+duke_bodpa;rJe;rJe;rJe;;rJe;;;;;;;;;x
+duke_female_bodpa;Khri bTsun;Khri bTsun;Khri bTsun;;Khri bTsun;;;;;;;;;x
+duchy_of_bodpa;Mnga' Sde of;Mnga' Sde of;Mnga' Sde of;;Mnga' Sde of;;;;;;;;;x
+temple_duchy_of_bodpa;Pho-dgon of;Pho-dgon of;Pho-dgon of;;Pho-dgon of;;;;;;;;;x
+count_bodpa;Rgyal-po;Rgyal-po;Rgyal-po;;Rgyal-po;;;;;;;;;x
+count_female_bodpa;Rgyal-mo;Rgyal-mo;Rgyal-mo;;Rgyal-mo;;;;;;;;;x
+county_of_bodpa;Sa-Khul of;Sa-Khul of;Sa-Khul of;;Sa-Khul of;;;;;;;;;x
+temple_county_of_bodpa;Gönba of;Gönba of;Gönba of;;Gönba of;;;;;;;;;x
+baron_bodpa;Bdag-po;Bdag-po;Bdag-po;;Bdag-po;;;;;;;;;x
+baron_female_bodpa;Bdag-mo;Bdag-mo;Bdag-mo;;Bdag-mo;;;;;;;;;x
+barony_of_bodpa;Mkhar of;Mkhar of;Mkhar of;;Mkhar of;;;;;;;;;x
+temple_barony_of_bodpa;Ling of;Ling of;Ling of;;Ling of;;;;;;;;;x
+city_barony_of_bodpa;Grongkhyer of;Grongkhyer of;Grongkhyer of;;Grongkhyer of;;;;;;;;;x
+title_regent_bodpa;Kalön;Kalön;Kalön;;Kalön;;;;;;;;;x
+title_ruler_consort_bodpa;Tsenpo;Tsenpo;Tsenpo;;Tsenpo;;;;;;;;;x
+title_ruler_consort_female_bodpa;Tsenmo;Tsenmo;Tsenmo;;Tsenmo;;;;;;;;x;
+baron_title_ruler_consort_bodpa;Bdag-po;Bdag-po;Bdag-po;;Bdag-po;;;;;;;;;x
+baron_title_ruler_consort_female_bodpa;Bdag-mo;Bdag-mo;Bdag-mo;;Bdag-mo;;;;;;;;;x
+count_title_ruler_consort_bodpa;Rgyal-po;Rgyal-po;Rgyal-po;;Rgyal-po;;;;;;;;;x
+count_title_ruler_consort_female_bodpa;Rgyal-mo;Rgyal-mo;Rgyal-mo;;Rgyal-mo;;;;;;;;;x
+duke_title_ruler_consort_bodpa;rJe;rJe;rJe;;rJe;;;;;;;;;x
+duke_title_ruler_consort_female_bodpa;Khri bTsun;Khri bTsun;Khri bTsun;;Khri bTsun;;;;;;;;;x
+emperor_title_ruler_consort_bodpa;Tsenpo;Tsenpo;Tsenpo;;Tsenpo;;;;;;;;;x
+emperor_title_ruler_consort_female_bodpa;Tsenmo;Tsenmo;Tsenmo;;Tsenmo;;;;;;;;x;
+title_queen_mother_bodpa;Tsen-ama;Tsen-ama;Tsen-ama;;Tsen-ama;;;;;;;;;x
+emperor_title_queen_mother_female_bodpa;Tsen-ama;Tsen-ama;Tsen-ama;;Tsen-ama;;;;;;;;;x
+title_prince_bodpa;Lhase;Lhase;Lhase;;Lhase;;;;;;;;;x
+title_prince_female_bodpa;Kungco;Kungco;Kungco;;Kungco;;;;;;;;;x
 b_lhasa;Lhasa;Lhasa;Lhasa;;Lhasa;;;;;;;;;x
 b_samye;Samye;Samye;Samye;;Samye;;;;;;;;;x
 b_jokhang;Jokhang;Jokhang;Jokhang;;Jokhang;;;;;;;;;x

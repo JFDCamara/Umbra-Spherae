@@ -2,7 +2,7 @@
 	name="Ligmirhya"
 	dynasty=1000027352 #Lig-myi
 	religion="bon"
-	culture="xangxung"
+	culture="bodpa"
 	548.1.1={
 		birth="548.1.1"
 	}
@@ -15,7 +15,7 @@
 	name="Ligmikya"
 	dynasty=1000027352 #Lig-myi
 	religion="bon"
-	culture="xangxung"
+	culture="bodpa"
 	father=1000077131
 	595.1.1={
 		birth="595.1.1"
@@ -36,7 +36,7 @@
 	female=yes
 	dynasty=1000027353 #Ngülkhar
 	religion="bon"
-	culture="xangxung"
+	culture="bodpa"
 	600.1.1={
 		birth="600.1.1"
 	}
@@ -50,7 +50,7 @@
 	female=yes
 	dynasty=1000027352 #Lig-myi
 	religion="bon"
-	culture="xangxung"
+	culture="bodpa"
 	father=1000077131
 	604.1.1={
 		birth="604.1.1"

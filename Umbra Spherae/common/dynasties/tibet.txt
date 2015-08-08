@@ -40,17 +40,17 @@
 
 1000027351 = {
 	name="Zhang Zhung"
-	culture = xangxung
+	culture = bodpa
 }
 
 1000027352 = {
 	name="Lig-myi"
-	culture = xangxung
+	culture = bodpa
 }
 
 1000027353 = {
 	name="Ngülkhar"
-	culture = xangxung
+	culture = bodpa
 }
 
 1000027354 = {

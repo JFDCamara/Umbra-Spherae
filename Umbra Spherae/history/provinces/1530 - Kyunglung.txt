@@ -13,7 +13,7 @@ b_tirthapuri = temple
 #b_gyanyima = city
 
 # Misc
-culture = xangxung
+culture = bodpa
 religion = bon
 
 # History
