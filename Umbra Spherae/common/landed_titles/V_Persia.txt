@@ -1879,21 +1879,21 @@ e_persia = {
 				color={ 238 243 31 }
 				color2={ 0 0 0 }
 			
-				b_itchankila = {
+				b_darvaza = {
 				}
 				b_khiva = {
 				}
-				b_xazorasp = {
+				b_kuskupir = {
 				}
-				b_bogot = {
+				b_kath = {
 				}
-				b_xonqa = {
+				b_tahta = {
 				}
-				b_qorovul = {
+				b_kizketken = {
 				}
-				b_yangiariq = {
+				b_atajab = {
 				}
-				b_shovot = {
+				b_sumanay = {
 				}
 			}
 			#c_aral = { #Turkestan
@@ -1945,9 +1945,9 @@ e_persia = {
 				color={ 227 243 31 }
 				color2={ 0 0 0 }
 
-				b_urgench = {
-				}
 				b_bazar_gudzha = {
+				}
+				b_urgench = {
 				}
 				b_zenakhas = {
 				}
