@@ -1376,7 +1376,7 @@ province;red;green;blue;x;x
 1375;1;78;215;Kafirkot;x
 1376;43;81;88;Wana;x
 1377;85;84;216;Maymana;x
-1378;127;87;89;Urgench;x
+1378;169;162;38;Urgench;x
 1379;169;90;217;Asaita;x
 1380;1;93;90;Semien;x
 1381;43;96;218;Pundravardhana;x
@@ -1991,7 +1991,6 @@ province;red;green;blue;x;x
 1990;43;153;164;Syghnak;x
 1991;85;156;37;Orda Bazar;x
 1992;127;159;165;Chirik Rabat;x
-1993;169;162;38;Urgench;x
 1994;1;165;166;Imakia;x
 1995;85;138;196;Ze;x
 1996;127;141;69;Cri;x

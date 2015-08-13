@@ -1863,7 +1863,7 @@ e_persia = {
 
 		culture = turkish
 
-		capital = 901 #Khiva
+		capital = 626 #Khiva
 
 		tengri_pagan_reformed = 50
 
@@ -1872,7 +1872,7 @@ e_persia = {
 			color={ 233 243 31 }
 			color2={ 0 0 0 }
 		
-			capital = 901 #Khiva
+			capital = 626 #Khiva
 
 			c_khiva = {
 
@@ -1944,22 +1944,20 @@ e_persia = {
 
 				color={ 227 243 31 }
 				color2={ 0 0 0 }
-
-				b_bazar_gudzha = {
-				}
+				
 				b_urgench = {
 				}
-				b_zenakhas = {
+				b_nukus = {
 				}
-				b_kasilat = {
+				b_kyrkmolla = {
 				}
-				b_nayman = {
+				b_kungrat = {
 				}
-				b_khanka = {
+				b_kizil_agir = {
 				}
-				b_chalysh = {
+				b_khodjali = {
 				}
-				b_sarkop = {
+				b_ulkun = {
 				}
 			}
 			c_kyzylkum = {
