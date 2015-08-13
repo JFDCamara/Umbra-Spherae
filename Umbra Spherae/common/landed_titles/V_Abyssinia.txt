@@ -638,7 +638,6 @@ e_abyssinia = {
 				color = { 155 140 67 }
 				color2={ 255 255 255 }
 
-				holy_site = miaphysite
 				holy_site = monophysite
 			
 				b_napata = {

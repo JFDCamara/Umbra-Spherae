@@ -730,11 +730,15 @@ e_arabia = {
 		zun_pagan_reformed = 100 # Crusade target weight
 		jewish_group = 500 # Crusade target weight
 		
+		coptic = "Kemet"
+		
 		d_alexandria = {
 			color={ 100 219 134 }
 			color2={ 255 255 255 }
 			
 			capital = 802 # Alexandria
+			
+			coptic = "Rakote"
 		
 			c_alexandria = {
 				color={ 102 221 136 }
@@ -743,10 +747,12 @@ e_arabia = {
 				holy_site = miaphysite
 				holy_site = monophysite
 				holy_site = hellenic_pagan
-				holy_site = nestorian
+				
+				coptic = "Rakote"
 				
 				b_alexandria = {
 					pentarchy = yes
+					coptic = "Rakote"
 				}
 				b_abukir = {
 				}
@@ -766,8 +772,11 @@ e_arabia = {
 			c_al_alamayn = {
 				color={ 104 223 138 }
 				color2={ 255 255 255 }
+				
+				coptic = "Matrouh"
 			
 				b_elalamein = {
+					coptic = "Matrouh"
 				}
 				b_mersamatruh = {
 				}
@@ -787,10 +796,13 @@ e_arabia = {
 			c_quattara = {
 				color={ 106 225 140 }
 				color2={ 255 255 255 }
+				
+				coptic = "Attara"
 			
 				b_siwa = {
 				}
 				b_quattara = {
+					coptic = "Attara"
 				}
 				b_caraoasis = {
 				}
@@ -808,8 +820,11 @@ e_arabia = {
 			c_gizeh = {
 				color={ 110 229 144 }
 				color2={ 255 255 255 }
+				
+				coptic = "Giza"
 			
 				b_gizeh = {
+					coptic = "Giza"
 				}
 				b_aburowash = {
 				}
@@ -832,10 +847,14 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 798 # Damietta
+			
+			coptic = "Tamiat"
 		
 			c_gabiyaha = {
 				color={ 6 255 77 }
 				color2={ 255 255 255 }
+				
+				coptic = "Sai"
 			
 				b_rosetta = {
 				}
@@ -857,8 +876,11 @@ e_arabia = {
 			c_delta = {
 				color={ 9 255 80 }
 				color2={ 255 255 255 }
+				
+				coptic = "Tamiat"
 			
 				b_damietta = {
+					coptic = "Tamiat"
 				}
 				b_burlus = {
 				}
@@ -878,10 +900,13 @@ e_arabia = {
 			c_pelusia = {
 				color={ 12 255 83 }
 				color2={ 255 255 255 }
+				
+				coptic = "Jani"
 			
 				b_pelusia = {
 				}
 				b_tinis = {
+					coptic = "Jani"
 				}
 				b_alsalihiyah = {
 				}
@@ -899,6 +924,8 @@ e_arabia = {
 			c_manupura = {
 				color={ 15 255 86 }
 				color2={ 255 255 255 }
+				
+				coptic = "Poubast"
 			
 				b_manusura = {
 				}
@@ -911,6 +938,7 @@ e_arabia = {
 				b_athribis = {
 				}
 				b_bubastis = {
+					coptic = "Poubast"
 				}
 				b_qantir = {
 				}
@@ -925,6 +953,8 @@ e_arabia = {
 			capital = 796 # Cairo
 			
 			zun_pagan_reformed = 50 # Crusade target weight
+			
+			coptic = "Kahiree"
 		
 			c_cairo = {
 				color={ 24 236 119 }
@@ -933,7 +963,10 @@ e_arabia = {
 				holy_site = zun_pagan
 				holy_site = zun_pagan_reformed
 				
+				coptic = "Kahiree"
+				
 				b_cairo = {
+					coptic = "Kahiree"
 				}
 				b_fustat = {
 				}
@@ -942,6 +975,7 @@ e_arabia = {
 				b_helwan = {
 				}
 				b_heliopolis = {
+					coptic = "On"
 				}
 				b_maadi = {
 				}
@@ -953,8 +987,11 @@ e_arabia = {
 			c_sarqihya = {
 				color={ 28 240 123 }
 				color2={ 255 255 255 }
+				
+				coptic = "Petoum"
 			
 				b_sarqinya = {
+					coptic = "Petoum"
 				}
 				b_clysma = {
 				}
@@ -977,12 +1014,17 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 794 # Aswan
+			
+			coptic = "Sowan"
 		
 			c_aswan = {
 				color={ 43 190 122 }
 				color2={ 255 255 255 }
+				
+				coptic = "Sowan"
 			
 				b_aswan = {
+					coptic = "Sowan"
 				}
 				b_elefantina = {
 				}
@@ -1002,8 +1044,11 @@ e_arabia = {
 			c_buhairya = {
 				color={ 108 227 142 }
 				color2={ 255 255 255 }
+				
+				coptic = "Ptimenhour"
 			
 				b_buhairya = {
+					coptic = "Ptimenhour"
 				}
 				b_mut = {
 				}
@@ -1023,8 +1068,11 @@ e_arabia = {
 			c_quena = {
 				color={ 32 244 127 }
 				color2={ 255 255 255 }
+				
+				coptic = "Ena"
 			
 				b_quena = {
+					coptic = "Ena"
 				}
 				b_kosseir = {
 				}
@@ -1042,8 +1090,11 @@ e_arabia = {
 			c_asyut = {
 				color={ 36 248 131 }
 				color2={ 255 255 255 }
+				
+				coptic = "Sioout"
 			
 				b_asyut = {
+					coptic = "Sioout"
 				}
 				b_kusai = {
 				}
@@ -1069,12 +1120,17 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 788 # Farama
+			
+			coptic = "Mafkat"
 		
 			c_farama = {
 				color={ 141 198 5 }
 				color2={ 255 255 255 }
+				
+				coptic = "Peremoun"
 			
 				b_farama = {
+					coptic = "Peremoun"
 				}
 				b_sin = {
 				}
@@ -1099,6 +1155,8 @@ e_arabia = {
 				holy_site = samaritan
 				holy_site = karaite
 				
+				coptic = "Mafkat"
+				
 				b_attur = {
 				}
 				b_sharmelsheikh = {
@@ -1119,8 +1177,11 @@ e_arabia = {
 			c_eilat = {
 				color={ 145 203 10 }
 				color2={ 255 255 255 }
+				
+				coptic = "Rashrash"
 			
 				b_eilat = {
+					coptic = "Rashrash"
 				}
 				b_yahel = {
 				}
@@ -1140,8 +1201,11 @@ e_arabia = {
 			c_el-arish = {
 				color={ 147 205 12 }
 				color2={ 255 255 255 }
+				
+				coptic = "Tjaru"
 			
 				b_arish = {
+					coptic = "Tjaru"
 				}
 				b_tukkot = {
 				}

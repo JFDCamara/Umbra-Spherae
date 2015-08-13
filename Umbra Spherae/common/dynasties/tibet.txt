@@ -108,7 +108,7 @@
 
 1000027361 = {
 	name="Mùróng"
-	culture = xianbei
+	culture = khitan
 	religion = tengri_pagan
 }
 

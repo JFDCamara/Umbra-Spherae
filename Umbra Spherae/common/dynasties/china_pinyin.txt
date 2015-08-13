@@ -447,7 +447,7 @@
 
 1000027697 = {
     name="Shiwei"
-    culture=xianbei
+    culture=khitan
 }
 #New Range begins
 1000156000 = {

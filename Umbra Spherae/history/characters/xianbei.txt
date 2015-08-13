@@ -3,7 +3,7 @@
 	female=yes
 	dynasty=1000027361 #Mùróng
 	religion="mahayana"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077303 # Fúyûn
 	mother=1000077306
 	611.1.1={
@@ -19,7 +19,7 @@
 	female=yes
 	dynasty=1000027361 #Mùróng
 	religion="mahayana"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077304 # Shùn
 	630.1.1={
 		birth="630.1.1"
@@ -33,7 +33,7 @@
 	name="Shegui"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	238.1.1={
 		birth="238.1.1"
 	}
@@ -46,7 +46,7 @@
 	name="Tûyùhún"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077286
 	260.1.1={
 		birth="260.1.1"
@@ -60,7 +60,7 @@
 	name="Tûyán"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077287
 	281.1.1={
 		birth="281.1.1"
@@ -74,7 +74,7 @@
 	name="Yèyán"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077288
 	305.1.1={
 		birth="305.1.1"
@@ -88,7 +88,7 @@
 	name="Suìxï"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077289
 	323.1.1={
 		birth="323.1.1"
@@ -102,7 +102,7 @@
 	name="Shìlián"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077290
 	340.1.1={
 		birth="340.1.1"
@@ -116,7 +116,7 @@
 	name="Shìpí"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077291
 	356.1.1={
 		birth="356.1.1"
@@ -130,7 +130,7 @@
 	name="Wütëgtí"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077292
 	373.1.1={
 		birth="373.1.1"
@@ -144,7 +144,7 @@
 	name="Shùluògän"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077293
 	386.1.1={
 		birth="386.1.1"
@@ -158,7 +158,7 @@
 	name="Ächái"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077294
 	400.1.1={
 		birth="400.1.1"
@@ -172,7 +172,7 @@
 	name="Mùguï"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077295
 	414.1.1={
 		birth="414.1.1"
@@ -186,7 +186,7 @@
 	name="Mùlìyán"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077296
 	428.1.1={
 		birth="428.1.1"
@@ -200,7 +200,7 @@
 	name="Shíyín"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077297
 	442.1.1={
 		birth="442.1.1"
@@ -214,7 +214,7 @@
 	name="Dùyìhóu"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077298
 	460.1.1={
 		birth="460.1.1"
@@ -228,7 +228,7 @@
 	name="Fúliánchóu"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077299
 	476.1.1={
 		birth="476.1.1"
@@ -242,7 +242,7 @@
 	name="Kuälû"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077300
 	517.1.1={
 		birth="517.1.1"
@@ -256,7 +256,7 @@
 	name="Shìfú"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077301
 	540.1.1={
 		birth="540.1.1"
@@ -273,7 +273,7 @@
 	name="Fúyûn"
 	dynasty=1000027361 #Mùróng
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077301
 	563.1.1={
 		birth="563.1.1"
@@ -290,7 +290,7 @@
 	name="Shùn"
 	dynasty=1000027361 #Mùróng
 	religion="mahayana"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077303
 	mother=1000077306
 	598.1.1={
@@ -305,7 +305,7 @@
 	name="Nuòhébö"
 	dynasty=1000027361 #Mùróng
 	religion="mahayana"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077304
 	620.1.1={
 		birth="620.1.1"
@@ -380,7 +380,7 @@
 	name="Sudumomo"
 	dynasty=1000027361 #Mùróng
 	religion="mahayana"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077305
 	mother=1000077307
 	640.1.1={
@@ -398,7 +398,7 @@
 	name="Talumomo"
 	dynasty=1000027361 #Mùróng
 	religion="mahayana"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077305
 	mother=1000077307
 	644.1.1={
@@ -419,7 +419,7 @@
 	name="Zhong"
 	dynasty=1000027361 #Mùróng
 	religion="mahayana"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077305
 	mother=1000077307
 	650.1.1={
@@ -437,7 +437,7 @@
 1000077313 = {
 	name="Dayan"
 	religion="bon"
-	culture="xianbei"
+	culture="khitan"
 	father=1000077305
 	mother=1000077307
 	606.1.1={
@@ -454,7 +454,7 @@
 	name="Dale"
 	dynasty=1000027697 #Shiwei
 	religion="tengri_pagan"
-	culture="xianbei"
+	culture="khitan"
 	839.1.1={
 		birth="839.1.1"
 	}

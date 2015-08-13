@@ -1812,6 +1812,8 @@ e_byzantium = {
 				
 				turkish = "Erivan"
 				
+				holy_site = miaphysite
+				
 				b_dvin = {
 				}
 				b_etchmiadzin = {
