@@ -12,7 +12,7 @@
 	holder = 1000202531 # Yelü-Zhilugu
 }
 1211.1.1={
-	holder = 188914 # Kuchlug (de facto)
+	holder = 1000202584 # Kuchlug (de facto)
 }
 1218.1.1={
 	holder=0

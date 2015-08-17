@@ -99,13 +99,15 @@
 1125.3.16 = {
 	liege="e_kitai"
 }
-1143.1.1 = {
-	holder=1000202529 #Yilie
+1143.1.1={
+	holder=1000202529 # Yelü-Yilie
 }
-1160.1.1 = {
-	holder=1000202531 #Zhilugu
+1163.1.1={
+	holder=1000202530 # Pusuwan
 }
-
+1177.1.1={
+	holder=1000202531 # Yelü-Zhilugu
+}
 #Naiman Dynasty
 1213.1.1 = {
 	holder=1000202584 #Kuchlug

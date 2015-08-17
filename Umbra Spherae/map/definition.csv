@@ -1429,7 +1429,7 @@ province;red;green;blue;x;x
 1428;127;24;14;Damot;x
 1429;169;27;142;Begemder;x
 1430;1;30;15;Kipchak;x
-1431;43;33;143;Otrar;x
+1431;85;6;12;Otrar;x
 1432;85;36;16;Karluk;x
 1433;127;39;144;Kazakh;x
 1434;169;42;17;Balkhash;x
@@ -1970,7 +1970,6 @@ province;red;green;blue;x;x
 1969;85;204;137;Chuguchak;x
 1970;127;207;10;AksuUS;x
 1971;169;210;138;Panjakent;x
-1972;85;6;12;Otrar;x
 1973;127;9;140;Kesh;x
 1974;169;27;143;Krua;x
 1975;1;30;16;Barskhan;x

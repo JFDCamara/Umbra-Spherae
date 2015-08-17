@@ -92,8 +92,11 @@
 1143.1.1 = {
 	holder=1000202529 #Yilie
 }
-1160.1.1 = {
-	holder=1000202531 #Zhilugu
+1163.1.1={
+	holder=1000202530 # Pusuwan
+}
+1177.1.1={
+	holder=1000202531 # Yelü-Zhilugu
 }
 
 #Naiman Dynasty
