@@ -4647,6 +4647,7 @@
 	dynasty = 1041001 # Naiman
 	religion = nestorian
 	culture = mongol
+	father = 1000202579 # Merge official House of Naiman with that of US by connecting them with ficitional kinship
 	1102.5.19 = {
 		birth = yes
 	}

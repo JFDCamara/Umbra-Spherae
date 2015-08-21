@@ -150,11 +150,7 @@
     culture= mongol
 	religion = tengri_pagan
 }
-1000027231 = {
-    name="Naiman"
-    culture= mongol
-	religion = tengri_pagan
-}
+#1000027231 "Naiman" (already included)
 1000027232 = {
     name="Bayad"
     culture= mongol

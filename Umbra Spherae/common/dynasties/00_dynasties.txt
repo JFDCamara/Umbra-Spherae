@@ -41918,12 +41918,7 @@
 	culture="scottish"
 	religion="catholic"
 }
-214009=
-{
-	name="Kara-Khitai"
-	culture="khitan"
-	religion="buddhist"
-}
+#214009 "Kara-Khitai"
 214010=
 {
 	name="Xiaokhitai"
@@ -42084,12 +42079,7 @@
 	name="Kesh"
 	culture="sogdian"
 }
-1045082=
-{
-	name="Liao"
-	culture="khitan"
-	religion="buddhist"
-}
+#1045082 "Liao"
 1045083=
 {
 	name="Ediz"

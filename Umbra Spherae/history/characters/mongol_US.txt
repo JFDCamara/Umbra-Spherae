@@ -2323,7 +2323,7 @@
 
 1000205197 = {
 	name="Oljaitu"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	720.1.1={
@@ -2336,7 +2336,7 @@
 
 1000205198 = {
 	name="Bughu"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000205197
@@ -2350,7 +2350,7 @@
 
 1000205199 = {
 	name="Ghazan"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000205198
@@ -2364,7 +2364,7 @@
 
 1000202571 = {
 	name="Bugunutei"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000205199
@@ -2378,7 +2378,7 @@
 
 1000202572 = {
 	name="Subetei"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202571
@@ -2392,7 +2392,7 @@
 
 1000202573 = {
 	name="Kogsegu"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202572
@@ -2406,7 +2406,7 @@
 
 1000202574 = {
 	name="Khorchi"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202573
@@ -2420,7 +2420,7 @@
 
 1000202575 = {
 	name="Arasen"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202574
@@ -2434,7 +2434,7 @@
 
 1000202576 = {
 	name="Bartan"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202575
@@ -2448,7 +2448,7 @@
 
 1000202577 = {
 	name="Yesunge"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202576
@@ -2462,7 +2462,7 @@
 
 1000081075 = {
 	name="Korchi-Buyruk"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202577
@@ -2477,7 +2477,7 @@
 
 1000202578 = {
 	name="Eljigedei"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000081075
@@ -2492,7 +2492,7 @@
 1000202600 = {
 	name="Toreqaimish-Khatun"
 	female=yes
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000081075
@@ -2506,7 +2506,7 @@
 
 1000202579 = {
 	name="Jajiradai"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202578
@@ -2520,7 +2520,7 @@
 
 1000202580 = {
 	name="Toghoril"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202579
@@ -2534,7 +2534,7 @@
 
 1000202581 = {
 	name="Inanch-Bilga"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202580
@@ -2548,7 +2548,7 @@
 
 1000202582 = {
 	name="Taibuqa"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202581
@@ -2562,7 +2562,7 @@
 
 1000202583 = {
 	name="Buyiruq"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202581
@@ -2576,7 +2576,7 @@
 
 1000202584 = {
 	name="Kuchlug"
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202582
@@ -2593,7 +2593,7 @@
 
 1000081076 = {
 	name="Otgan"#Uliastai
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202577
@@ -2606,7 +2606,7 @@
 }
 1000081077 = {
 	name="Temur"#Umnugobi
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="tengri_pagan"
 	culture="mongol"
 	father=1000202577
@@ -2619,7 +2619,7 @@
 }
 1000081078 = {
 	name="Borokhul-Salkhaltu"#Eej Khairkhan
-	dynasty="1000027231"#Naiman
+	dynasty="1041001"#Naiman
 	religion="nestorian"
 	culture="mongol"
 	father=1000202577
@@ -2632,7 +2632,7 @@
 }
 1000081079 = {
 	name="Bukh-Bagatur"#Ubs
-	dynasty="1000027231"#naiman
+	dynasty="1041001"#naiman
 	religion="tengri_pagan"
 	culture="mongol"
 	father=1000202577
@@ -2645,7 +2645,7 @@
 }
 1000081080 = {
 	name="Segiz"#Hyargas
-	dynasty="1000027231"#Naiman"
+	dynasty="1041001"#Naiman"
 	religion="nestorian"
 	culture="mongol"
 	father=1000202577
@@ -2658,7 +2658,7 @@
 }
 1000081081 = {
 	name="Saru"#Hovd
-	dynasty="1000027231"#Naiman"
+	dynasty="1041001"#Naiman"
 	religion="nestorian"
 	culture="mongol"
 	father=1000202577
@@ -2671,7 +2671,7 @@
 }	
 1000081082 = {
 	name="Khutugu"#Ulgii
-	dynasty="1000027231"#Naiman"
+	dynasty="1041001"#Naiman"
 	religion="tengri_pagan"
 	culture="mongol"
 	father=1000202577
@@ -2684,7 +2684,7 @@
 }	
 1000081083 = {
 	name="Orman"#Erchis
-	dynasty="1000027231"#Naiman"
+	dynasty="1041001"#Naiman"
 	religion="buddhist"
 	culture="mongol"
 	father=1000202577
@@ -2697,7 +2697,7 @@
 }
 1000081084 = {
 	name="Itagun"#Urungu
-	dynasty="1000027231"#Naiman"
+	dynasty="1041001"#Naiman"
 	religion="buddhist"
 	culture="mongol"
 	father=1000202577
@@ -2706,22 +2706,6 @@
 	}
 	1114.1.1 = {
 		death="1114.1.1"
-	}
-}
-
-172006 = {
-	name="Töregene"
-	#dynasty=1041001
-	dynasty="1000027231"#Naiman"
-	religion="tengri_pagan"
-	culture="mongol"
-	female=yes
-	father=1000202582
-	1189.1.1={
-		birth="1189.1.1"
-	}
-	1247.1.1={
-		death="1247.1.1"
 	}
 }
 
