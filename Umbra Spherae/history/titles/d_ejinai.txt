@@ -1,13 +1,33 @@
-#Zhuye Dynasty (Shatuo)
-867.1.1 = {
-	holder=1000202647 #Chixin
+867.1.1 ={
+	holder = 1000202647
 }
-887.1.1 = {
-	holder=1000202648 #Keyong
+
+887.1.1 ={
+	holder = 1000202648
 }
-908.2.23 = {
-	holder=1000202649 #Cunxu
+
+908.2.23 ={
+	holder = 1000202649
 }
-923.5.13 = {
-	holder=0
+
+923.5.13 ={
+	holder = 0
 }
+
+1279.3.19 ={
+	vice_royalty = yes
+	liege = e_china
+}
+
+1279.3.19 ={
+	holder = 1000455905
+}
+
+1279.3.19 ={
+	holder = 1000455905
+}
+
+1300.1.1 ={
+	holder = 0
+}
+
