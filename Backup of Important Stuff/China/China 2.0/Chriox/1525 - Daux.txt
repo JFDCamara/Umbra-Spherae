@@ -1,0 +1,21 @@
+# 1525 - Daux
+
+# County Title
+title = c_daux
+
+# Settlements
+max_settlements = 3
+b_jyengdaux = city
+b_nengyanx = city
+#b_krungghrua =
+#b_yengxmieng =
+#b_sjynhmieuh =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

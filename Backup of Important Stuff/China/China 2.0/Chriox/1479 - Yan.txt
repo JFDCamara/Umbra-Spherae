@@ -1,0 +1,24 @@
+# 1479 - Yan
+
+# County Title
+title = c_yan
+
+# Settlements
+max_settlements = 2
+b_ngiechjyn = city
+b_myanhcaix = city
+b_pyonngie = city
+#b_liokhe
+#b_benghiang =
+#b_kyoihsren =
+#b_syenpiung =
+#b_zjanghlit = 
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

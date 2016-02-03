@@ -1,0 +1,20 @@
+# 1510 - Zsim
+
+# County Title
+title = c_zsim
+
+# Settlements
+max_settlements = 3
+b_kuehbjen = city
+b_bjennom = city
+#b_samchiengkuanh =
+#b_lyungghruazsih =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

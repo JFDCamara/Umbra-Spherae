@@ -1,0 +1,19 @@
+# 1494 - Nomiung
+
+# County Title
+title = c_nomiung
+
+# Settlements
+max_settlements = 3
+b_pauxchjang = city
+#b_sjixhing =
+#b_jenzsiangzsih =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,20 @@
+# 1488 - Hinghruah
+
+# County Title
+title = c_hinghruah
+
+# Settlements
+max_settlements = 3
+b_pyoxden = city
+#b_sienju =
+#b_hinghruahhinghruah =
+#b_lengyonngram =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

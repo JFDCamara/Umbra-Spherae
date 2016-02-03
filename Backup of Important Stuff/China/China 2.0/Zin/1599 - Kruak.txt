@@ -1,0 +1,21 @@
+# 1599 - Kruak
+
+# County Title
+title = c_kruak
+
+# Settlements
+max_settlements = 3
+b_kruakliak = city
+b_cjyojang = city
+#b_lozjex =
+#b_luanchjyen =
+#b_ngyukzjeng =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

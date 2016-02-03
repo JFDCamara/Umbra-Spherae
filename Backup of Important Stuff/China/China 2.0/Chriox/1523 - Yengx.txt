@@ -1,0 +1,19 @@
+# 1523 - Yengx
+
+# County Title
+title = c_yengx
+
+# Settlements
+max_settlements = 2
+b_lengling = city
+#b_tungan =
+#b_gjiijang =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

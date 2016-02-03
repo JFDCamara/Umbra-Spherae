@@ -1,0 +1,21 @@
+# 1659 - On
+
+# County Title
+title = c_on
+
+# Settlements
+max_settlements = 3
+b_chienggha = city
+b_myoxzjeng = city
+#b_lekdeng =
+#b_onnenghruah =
+#b_lexkoh =
+#b_khienglimzsih =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

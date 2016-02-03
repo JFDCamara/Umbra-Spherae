@@ -1,0 +1,19 @@
+# 1503 - Pyung
+
+# County Title
+title = c_pyung
+
+# Settlements
+max_settlements = 2
+b_pyungchjyen = city
+#b_khaikianh =
+#b_dadliangkiung =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

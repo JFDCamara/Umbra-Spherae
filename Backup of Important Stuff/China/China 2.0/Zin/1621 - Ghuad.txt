@@ -1,0 +1,21 @@
+# 1621 - Ghuad
+
+# County Title
+title = c_ghuad
+
+# Settlements
+max_settlements = 3
+b_phyochjyen = city
+b_ghuadnengkruan = city
+#b_cienghchjyen =
+#b_thungzyen =
+#b_sjyixzyen =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

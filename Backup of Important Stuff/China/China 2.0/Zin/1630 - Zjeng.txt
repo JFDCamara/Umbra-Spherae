@@ -1,0 +1,18 @@
+# 1630 - Zjeng
+
+# County Title
+title = c_zjeng
+
+# Settlements
+max_settlements = 1
+b_dungkuk = city
+#b_litdeng =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

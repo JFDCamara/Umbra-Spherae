@@ -1,0 +1,532 @@
+GOD_DIEVAS_SENELIS;Dievas Senelis;Dievas Senelis;Dievas Senelis;Dievas Senelis;Dievas Senelis;;;;;;;;;x
+GOD_PRAAMZIUS;Praamzius;Praamzius;Praamzius;Praamzius;Praamzius;;;;;;;;;x
+GOD_AUSRINE;Ausrine;Ausrine;Ausrine;Ausrine;Ausrine;;;;;;;;;x
+GOD_DALIA;Dalia;Dalia;Dalia;Dalia;Dalia;;;;;;;;;x
+GOD_MENUO;Menuo;Menuo;Menuo;Menuo;Menuo;;;;;;;;;x
+GOD_SAULE;Saule;Saule;Saule;Saule;Saule;;;;;;;;;x
+GOD_THE_ASVIENIAI;The Asvieniai;The Asvieniai;The Asvieniai;The Asvieniai;The Asvieniai;;;;;;;;;x
+GOD_ZEMYNA;Zemyna;Zemyna;Zemyna;Zemyna;Zemyna;;;;;;;;;x
+GOD_VAKARINE;Vakarine;Vakarine;Vakarine;Vakarine;Vakarine;;;;;;;;;x
+GOD_AUSTARAS;Austaras;Austaras;Austaras;Austaras;Austaras;;;;;;;;;x
+GOD_UPINIS;Upinis;Upinis;Upinis;Upinis;Upinis;;;;;;;;;x
+GOD_EZERINIS;Ezerinis;Ezerinis;Ezerinis;Ezerinis;Ezerinis;;;;;;;;;x
+GOD_VAKARINE;Vakarine;Vakarine;Vakarine;Vakarine;Vakarine;;;;;;;;;x
+GOD_INDRAJA;Indraja;Indraja;Indraja;Indraja;Indraja;;;;;;;;;x
+GOD_SELIJA;Selija;Selija;Selija;Selija;Selija;;;;;;;;;x
+GOD_ZIEZDRE;Ziezdre;Ziezdre;Ziezdre;Ziezdre;Ziezdre;;;;;;;;;x
+GOD_VAIVORA;Vaivora;Vaivora;Vaivora;Vaivora;Vaivora;;;;;;;;;x
+GOD_VERPIANCIOJI;Verpiancioji;Verpiancioji;Verpiancioji;Verpiancioji;Verpiancioji;;;;;;;;;x
+GOD_METANCIOJI;Metancioji;Metancioji;Metancioji;Metancioji;Metancioji;;;;;;;;;x
+GOD_AUDEJA;Audeja;Audeja;Audeja;Audeja;Audeja;;;;;;;;;x
+GOD_GADINTOJA;Gadintoja;Gadintoja;Gadintoja;Gadintoja;Gadintoja;;;;;;;;;x
+GOD_SERGETOJA;Sergetoja;Sergetoja;Sergetoja;Sergetoja;Sergetoja;;;;;;;;;x
+GOD_NUKIRPEJA;Nukirpeja;Nukirpeja;Nukirpeja;Nukirpeja;Nukirpeja;;;;;;;;;x
+GOD_ISSKALBEJA;Isskalbeja;Isskalbeja;Isskalbeja;Isskalbeja;Isskalbeja;;;;;;;;;x
+GOD_BANGPUTYS;Bangputys;Bangputys;Bangputys;Bangputys;Bangputys;;;;;;;;;x
+GOD_JAVINE;Javine;Javine;Javine;Javine;Javine;;;;;;;;;x
+GOD_JIEVARAS;Jievaras;Jievaras;Jievaras;Jievaras;Jievaras;;;;;;;;;x
+GOD_KUPOLE;Kupole;Kupole;Kupole;Kupole;Kupole;;;;;;;;;x
+GOD_GILTINE;Giltine;Giltine;Giltine;Giltine;Giltine;;;;;;;;;x
+GOD_AITVARAS;Aitvaras;Aitvaras;Aitvaras;Aitvaras;Aitvaras;;;;;;;;;x
+GOD_LELYA;Lelya;Lelya;Lelya;Lelya;Lelya;;;;;;;;;x
+GOD_ROD;Rod;Rod;Rod;Rod;Rod;;;;;;;;;x
+GOD_ZIVA;Ziva;Ziva;Ziva;Ziva;Ziva;;;;;;;;;x
+GOD_THE_ZORYA;The Zorya;The Zorya;The Zorya;The Zorya;The Zorya;;;;;;;;;x
+GOD_ZARIA;Zaria;Zaria;Zaria;Zaria;Zaria;;;;;;;;;x
+GOD_SVETOVID;Svetovid;Svetovid;Svetovid;Svetovid;Svetovid;;;;;;;;;x
+GOD_MORANA;Morana;Morana;Morana;Morana;Morana;;;;;;;;;x
+GOD_LADA;Lada;Lada;Lada;Lada;Lada;;;;;;;;;x
+GOD_DAZBOG;Dazbog;Dazbog;Dazbog;Dazbog;Dazbog;;;;;;;;;x
+GOD_BELOBOG;Belobog;Belobog;Belobog;Belobog;Belobog;;;;;;;;;x
+GOD_MOKOSH;Mokosh;Mokosh;Mokosh;Mokosh;Mokosh;;;;;;;;;x
+GOD_ZYWIE;Zywie;Zywie;Zywie;Zywie;Zywie;;;;;;;;;x
+GOD_ZEME;Zeme;Zeme;Zeme;Zeme;Zeme;;;;;;;;;x
+GOD_MYESYATS;Myesyats;Myesyats;Myesyats;Myesyats;Myesyats;;;;;;;;;x
+GOD_VESNA;Vesna;Vesna;Vesna;Vesna;Vesna;;;;;;;;;x
+GOD_VARPULIS;Varpulis;Varpulis;Varpulis;Varpulis;Varpulis;;;;;;;;;x
+GOD_TAWALS;Tawals;Tawals;Tawals;Tawals;Tawals;;;;;;;;;x
+GOD_ZIRNITRA;Zirnitra;Zirnitra;Zirnitra;Zirnitra;Zirnitra;;;;;;;;;x
+GOD_STRIBOG;Stribog;Stribog;Stribog;Stribog;Stribog;;;;;;;;;x
+GOD_SIEBOG;Siebog;Siebog;Siebog;Siebog;Siebog;;;;;;;;;x
+GOD_POREWIT;Porewit;Porewit;Porewit;Porewit;Porewit;;;;;;;;;x
+GOD_PEREPLUT;Pereplut;Pereplut;Pereplut;Pereplut;Pereplut;;;;;;;;;x
+GOD_PEKLENC;Peklenc;Peklenc;Peklenc;Peklenc;Peklenc;;;;;;;;;x
+GOD_OZWIENA;Ozwiena;Ozwiena;Ozwiena;Ozwiena;Ozwiena;;;;;;;;;x
+GOD_KOLIADA;Koliada;Koliada;Koliada;Koliada;Koliada;;;;;;;;;x
+GOD_KUPALA;Kupala;Kupala;Kupala;Kupala;Kupala;;;;;;;;;x
+GOD_KRESNIK;Kresnik;Kresnik;Kresnik;Kresnik;Kresnik;;;;;;;;;x
+GOD_IPABOG;Ipabog;Ipabog;Ipabog;Ipabog;Ipabog;;;;;;;;;x
+GOD_HORS;Hors;Hors;Hors;Hors;Hors;;;;;;;;;x
+GOD_DZIEWONA;Dziewona;Dziewona;Dziewona;Dziewona;Dziewona;;;;;;;;;x
+GOD_DODOLA;Dodola;Dodola;Dodola;Dodola;Dodola;;;;;;;;;x
+GOD_CHERNOBOG;Chernobog;Chernobog;Chernobog;Chernobog;Chernobog;;;;;;;;;x
+GOD_WUOTAN;Wuotan;Wuotan;Wuotan;Wuotan;Wuotan;;;;;;;;;x
+GOD_DONAR;Donar;Donar;Donar;Donar;Donar;;;;;;;;;x
+GOD_ZIU;Ziu;Ziu;Ziu;Ziu;Ziu;;;;;;;;;x
+GOD_ERMEN;Ermen;Ermen;Ermen;Ermen;Ermen;;;;;;;;;x
+GOD_WOLTER;Wolter;Wolter;Wolter;Wolter;Wolter;;;;;;;;;x
+GOD_INGUIN;Inguin;Inguin;Inguin;Inguin;Inguin;;;;;;;;;x
+GOD_NERTHUZ;Nerthuz;Nerthuz;Nerthuz;Nerthuz;Nerthuz;;;;;;;;;x
+GOD_FRIJA;Frija;Frija;Frija;Frija;Frija;;;;;;;;;x
+GOD_FROUWA;Frouwa;Frouwa;Frouwa;Frouwa;Frouwa;;;;;;;;;x
+GOD_VOLLA;Volla;Volla;Volla;Volla;Volla;;;;;;;;;x
+GOD_WURT;Wurt;Wurt;Wurt;Wurt;Wurt;;;;;;;;;x
+GOD_SUNNA;Sunna;Sunna;Sunna;Sunna;Sunna;;;;;;;;;x
+GOD_ERENTIL;Erentil;Erentil;Erentil;Erentil;Erentil;;;;;;;;;x
+GOD_GAUT;Gaut;Gaut;Gaut;Gaut;Gaut;;;;;;;;;x
+GOD_WIOLANT;Wiolant;Wiolant;Wiolant;Wiolant;Wiolant;;;;;;;;;x
+GOD_AIGIL;Aigil;Aigil;Aigil;Aigil;Aigil;;;;;;;;;x
+GOD_SINTHGUT;Sinthgut;Sinthgut;Sinthgut;Sinthgut;Sinthgut;;;;;;;;;x
+GOD_ZEUS;Zeus;Zeus;Zeus;Zeus;Zeus;;;;;;;;;x
+GOD_HADES;Hades;Hades;Hades;Hades;Hades;;;;;;;;;x
+GOD_POSEIDON;Poseidon;Poseidon;Poseidon;Poseidon;Poseidon;;;;;;;;;x
+GOD_CRONUS;Cronus;Cronus;Cronus;Cronus;Cronus;;;;;;;;;x
+GOD_RHEA;Rhea;Rhea;Rhea;Rhea;Rhea;;;;;;;;;x
+GOD_HERA;Hera;Hera;Hera;Hera;Hera;;;;;;;;;x
+GOD_HESTIA;Hestia;Hestia;Hestia;Hestia;Hestia;;;;;;;;;x
+GOD_DEMETER;Demeter;Demeter;Demeter;Demeter;Demeter;;;;;;;;;x
+GOD_ATHENA;Athena;Athena;Athena;Athena;Athena;;;;;;;;;x
+GOD_ARES;Ares;Ares;Ares;Ares;Ares;;;;;;;;;x
+GOD_APOLLO;Apollo;Apollo;Apollo;Apollo;Apollo;;;;;;;;;x
+GOD_ARTEMIS;Artemis;Artemis;Artemis;Artemis;Artemis;;;;;;;;;x
+GOD_APHRODITE;Aphrodite;Aphrodite;Aphrodite;Aphrodite;Aphrodite;;;;;;;;;x
+GOD_HEPHAESTUS;Hephaestus;Hephaestus;Hephaestus;Hephaestus;Hephaestus;;;;;;;;;x
+GOD_DIONYSUS;Dionysus;Dionysus;Dionysus;Dionysus;Dionysus;;;;;;;;;x
+GOD_HERMES;Hermes;Hermes;Hermes;Hermes;Hermes;;;;;;;;;x
+GOD_HERACLES;Heracles;Heracles;Heracles;Heracles;Heracles;;;;;;;;;x
+GOD_THE_DIOSCURI;The Dioscuri;The Dioscuri;The Dioscuri;The Dioscuri;The Dioscuri;;;;;;;;;x
+GOD_ACHILLES;Achilles;Achilles;Achilles;Achilles;Achilles;;;;;;;;;x
+GOD_ADONIS;Adonis;Adonis;Adonis;Adonis;Adonis;;;;;;;;;x
+GOD_PLUTUS;Plutus;Plutus;Plutus;Plutus;Plutus;;;;;;;;;x
+GOD_MAIA;Maia;Maia;Maia;Maia;Maia;;;;;;;;;x
+GOD_LETO;Leto;Leto;Leto;Leto;Leto;;;;;;;;;x
+GOD_EROS;Eros;Eros;Eros;Eros;Eros;;;;;;;;;x
+GOD_NIKE;Nike;Nike;Nike;Nike;Nike;;;;;;;;;x
+GOD_OCEANUS;Oceanus;Oceanus;Oceanus;Oceanus;Oceanus;;;;;;;;;x
+GOD_PHOEBE;Phoebe;Phoebe;Phoebe;Phoebe;Phoebe;;;;;;;;;x
+GOD_TETHYS;Tethys;Tethys;Tethys;Tethys;Tethys;;;;;;;;;x
+GOD_ASTERIA;Asteria;Asteria;Asteria;Asteria;Asteria;;;;;;;;;x
+GOD_COEUS;Coeus;Coeus;Coeus;Coeus;Coeus;;;;;;;;;x
+GOD_PERSEPHONE;Persephone;Persephone;Persephone;Persephone;Persephone;;;;;;;;;x
+GOD_ARIADNE;Ariadne;Ariadne;Ariadne;Ariadne;Ariadne;;;;;;;;;x
+GOD_PAN;Pan;Pan;Pan;Pan;Pan;;;;;;;;;x
+GOD_SILENUS;Silenus;Silenus;Silenus;Silenus;Silenus;;;;;;;;;x
+GOD_URANUS;Uranus;Uranus;Uranus;Uranus;Uranus;;;;;;;;;x
+GOD_GAIA;Gaia;Gaia;Gaia;Gaia;Gaia;;;;;;;;;x
+GOD_AMPHITRITE;Amphitrite;Amphitrite;Amphitrite;Amphitrite;Amphitrite;;;;;;;;;x
+GOD_HELIOS;Helios;Helios;Helios;Helios;Helios;;;;;;;;;x
+GOD_AETHER;Aether;Aether;Aether;Aether;Aether;;;;;;;;;x
+GOD_ANANKE;Ananke;Ananke;Ananke;Ananke;Ananke;;;;;;;;;x
+GOD_CHAOS;Chaos;Chaos;Chaos;Chaos;Chaos;;;;;;;;;x
+GOD_EREBOS;Erebos;Erebos;Erebos;Erebos;Erebos;;;;;;;;;x
+GOD_HEMERA;Hemera;Hemera;Hemera;Hemera;Hemera;;;;;;;;;x
+GOD_HYPNOS;Hypnos;Hypnos;Hypnos;Hypnos;Hypnos;;;;;;;;;x
+GOD_THE_NESOI;The Nesoi;The Nesoi;The Nesoi;The Nesoi;The Nesoi;;;;;;;;;x
+GOD_NYX;Nyx;Nyx;Nyx;Nyx;Nyx;;;;;;;;;x
+GOD_THE_OUREA;The Ourea;The Ourea;The Ourea;The Ourea;The Ourea;;;;;;;;;x
+GOD_PHANES;Phanes;Phanes;Phanes;Phanes;Phanes;;;;;;;;;x
+GOD_PONTUS;Pontus;Pontus;Pontus;Pontus;Pontus;;;;;;;;;x
+GOD_TARTARUS;Tartarus;Tartarus;Tartarus;Tartarus;Tartarus;;;;;;;;;x
+GOD_THALASSA;Thalassa;Thalassa;Thalassa;Thalassa;Thalassa;;;;;;;;;x
+GOD_THANATOS;Thanatos;Thanatos;Thanatos;Thanatos;Thanatos;;;;;;;;;x
+GOD_HYPERION;Hyperion;Hyperion;Hyperion;Hyperion;Hyperion;;;;;;;;;x
+GOD_EOS;Eos;Eos;Eos;Eos;Eos;;;;;;;;;x
+GOD_SELENE;Selene;Selene;Selene;Selene;Selene;;;;;;;;;x
+GOD_IAPETUS;Iapetus;Iapetus;Iapetus;Iapetus;Iapetus;;;;;;;;;x
+GOD_ATLAS;Atlas;Atlas;Atlas;Atlas;Atlas;;;;;;;;;x
+GOD_PROMETHEUS;Prometheus;Prometheus;Prometheus;Prometheus;Prometheus;;;;;;;;;x
+GOD_EPIMETHEUS;Epimetheus;Epimetheus;Epimetheus;Epimetheus;Epimetheus;;;;;;;;;x
+GOD_MENOETIUS;Menoetius;Menoetius;Menoetius;Menoetius;Menoetius;;;;;;;;;x
+GOD_CRIUS;Crius;Crius;Crius;Crius;Crius;;;;;;;;;x
+GOD_ASTRAEUS;Astraeus;Astraeus;Astraeus;Astraeus;Astraeus;;;;;;;;;x
+GOD_PALLAS;Pallas;Pallas;Pallas;Pallas;Pallas;;;;;;;;;x
+GOD_PERSES;Perses;Perses;Perses;Perses;Perses;;;;;;;;;x
+GOD_CHRONOS;Chronos;Chronos;Chronos;Chronos;Chronos;;;;;;;;;x
+GOD_MNEMOSYNE;Mnemosyne;Mnemosyne;Mnemosyne;Mnemosyne;Mnemosyne;;;;;;;;;x
+GOD_THEIA;Theia;Theia;Theia;Theia;Theia;;;;;;;;;x
+GOD_THEMIS;Themis;Themis;Themis;Themis;Themis;;;;;;;;;x
+GOD_ASTERIA;Asteria;Asteria;Asteria;Asteria;Asteria;;;;;;;;;x
+GOD_STYX;Styx;Styx;Styx;Styx;Styx;;;;;;;;;x
+GOD_ASTRAEUS;Astraeus;Astraeus;Astraeus;Astraeus;Astraeus;;;;;;;;;x
+GOD_AURA;Aura;Aura;Aura;Aura;Aura;;;;;;;;;x
+GOD_DIONE;Dione;Dione;Dione;Dione;Dione;;;;;;;;;x
+GOD_EURYBIA;Eurybia;Eurybia;Eurybia;Eurybia;Eurybia;;;;;;;;;x
+GOD_EURYNOME;Eurynome;Eurynome;Eurynome;Eurynome;Eurynome;;;;;;;;;x
+GOD_CLYMENE;Clymene;Clymene;Clymene;Clymene;Clymene;;;;;;;;;x
+GOD_LELANTOS;Lelantos;Lelantos;Lelantos;Lelantos;Lelantos;;;;;;;;;x
+GOD_MENOETIUS;Menoetius;Menoetius;Menoetius;Menoetius;Menoetius;;;;;;;;;x
+GOD_METIS;Metis;Metis;Metis;Metis;Metis;;;;;;;;;x
+GOD_OPHION;Ophion;Ophion;Ophion;Ophion;Ophion;;;;;;;;;x
+GOD_ASCLEPIUS;Asclepius;Asclepius;Asclepius;Asclepius;Asclepius;;;;;;;;;x
+GOD_EPIONE;Epione;Epione;Epione;Epione;Epione;;;;;;;;;x
+GOD_THETIS;Thetis;Thetis;Thetis;Thetis;Thetis;;;;;;;;;x
+GOD_ELECTRA;Electra;Electra;Electra;Electra;Electra;;;;;;;;;x
+GOD_IRIS;Iris;Iris;Iris;Iris;Iris;;;;;;;;;x
+GOD_HERSE;Herse;Herse;Herse;Herse;Herse;;;;;;;;;x
+GOD_CHIONE;Chione;Chione;Chione;Chione;Chione;;;;;;;;;x
+GOD_KYBELIS;Kybelis;Kybelis;Kybelis;Kybelis;Kybelis;;;;;;;;;x
+GOD_TRITON;Triton;Triton;Triton;Triton;Triton;;;;;;;;;x
+GOD_TRITEIA;Triteia;Triteia;Triteia;Triteia;Triteia;;;;;;;;;x
+GOD_HYDROS;Hydros;Hydros;Hydros;Hydros;Hydros;;;;;;;;;x
+GOD_AEGAEON;Aegaeon;Aegaeon;Aegaeon;Aegaeon;Aegaeon;;;;;;;;;x
+GOD_GLAUCUS;Glaucus;Glaucus;Glaucus;Glaucus;Glaucus;;;;;;;;;x
+GOD_NEREUS;Nereus;Nereus;Nereus;Nereus;Nereus;;;;;;;;;x
+GOD_PALAEMON;Palaemon;Palaemon;Palaemon;Palaemon;Palaemon;;;;;;;;;x
+GOD_LEUCOTHEA;Leucothea;Leucothea;Leucothea;Leucothea;Leucothea;;;;;;;;;x
+GOD_THAUMAS;Thaumas;Thaumas;Thaumas;Thaumas;Thaumas;;;;;;;;;x
+GOD_THOOSA;Thoosa;Thoosa;Thoosa;Thoosa;Thoosa;;;;;;;;;x
+GOD_PROTEUS;Proteus;Proteus;Proteus;Proteus;Proteus;;;;;;;;;x
+GOD_ANGELOS;Angelos;Angelos;Angelos;Angelos;Angelos;;;;;;;;;x
+GOD_HECATE;Hecate;Hecate;Hecate;Hecate;Hecate;;;;;;;;;x
+GOD_MACARIA;Macaria;Macaria;Macaria;Macaria;Macaria;;;;;;;;;x
+GOD_MELINOE;Melinoe;Melinoe;Melinoe;Melinoe;Melinoe;;;;;;;;;x
+GOD_THANATOS;Thanatos;Thanatos;Thanatos;Thanatos;Thanatos;;;;;;;;;x
+GOD_ANGELIA;Angelia;Angelia;Angelia;Angelia;Angelia;;;;;;;;;x
+GOD_DIKE;Dike;Dike;Dike;Dike;Dike;;;;;;;;;x
+GOD_EIRENE;Eirene;Eirene;Eirene;Eirene;Eirene;;;;;;;;;x
+GOD_NEMESIS;Nemesis;Nemesis;Nemesis;Nemesis;Nemesis;;;;;;;;;x
+GOD_TECHNE;Techne;Techne;Techne;Techne;Techne;;;;;;;;;x
+GOD_JUNO;Juno;Juno;Juno;Juno;Juno;;;;;;;;;x
+GOD_QUIRINUS;Quirinus;Quirinus;Quirinus;Quirinus;Quirinus;;;;;;;;;x
+GOD_NEPTUNE;Neptune;Neptune;Neptune;Neptune;Neptune;;;;;;;;;x
+GOD_APOLLO;Apollo;Apollo;Apollo;Apollo;Apollo;;;;;;;;;x
+GOD_DIANA;Diana;Diana;Diana;Diana;Diana;;;;;;;;;x
+GOD_VULCAN;Vulcan;Vulcan;Vulcan;Vulcan;Vulcan;;;;;;;;;x
+GOD_CERES;Ceres;Ceres;Ceres;Ceres;Ceres;;;;;;;;;x
+GOD_LIBER;Liber;Liber;Liber;Liber;Liber;;;;;;;;;x
+GOD_LIBERA;Libera;Libera;Libera;Libera;Libera;;;;;;;;;x
+GOD_SATURN;Saturn;Saturn;Saturn;Saturn;Saturn;;;;;;;;;x
+GOD_JANUS;Janus;Janus;Janus;Janus;Janus;;;;;;;;;x
+GOD_THE_GENIUS;The Genius;The Genius;The Genius;The Genius;The Genius;;;;;;;;;x
+GOD_SOL;Sol;Sol;Sol;Sol;Sol;;;;;;;;;x
+GOD_ORCUS;Orcus;Orcus;Orcus;Orcus;Orcus;;;;;;;;;x
+GOD_TELLUS;Tellus;Tellus;Tellus;Tellus;Tellus;;;;;;;;;x
+GOD_LUNA;Luna;Luna;Luna;Luna;Luna;;;;;;;;;x
+GOD_FORTUNA;Fortuna;Fortuna;Fortuna;Fortuna;Fortuna;;;;;;;;;x
+GOD_CYBELE;Cybele;Cybele;Cybele;Cybele;Cybele;;;;;;;;;x
+GOD_FERONIA;Feronia;Feronia;Feronia;Feronia;Feronia;;;;;;;;;x
+GOD_THE_NOVENSIDES;The Novensides;The Novensides;The Novensides;The Novensides;The Novensides;;;;;;;;;x
+GOD_PALES;Pales;Pales;Pales;Pales;Pales;;;;;;;;;x
+GOD_SALUS;Salus;Salus;Salus;Salus;Salus;;;;;;;;;x
+GOD_FLORA;Flora;Flora;Flora;Flora;Flora;;;;;;;;;x
+GOD_FONS;Fons;Fons;Fons;Fons;Fons;;;;;;;;;x
+GOD_FIDES;Fides;Fides;Fides;Fides;Fides;;;;;;;;;x
+GOD_OPS;Ops;Ops;Ops;Ops;Ops;;;;;;;;;x
+GOD_VEDIOVIS;Vediovis;Vediovis;Vediovis;Vediovis;Vediovis;;;;;;;;;x
+GOD_SUMMANUS;Summanus;Summanus;Summanus;Summanus;Summanus;;;;;;;;;x
+GOD_LARUNDA;Larunda;Larunda;Larunda;Larunda;Larunda;;;;;;;;;x
+GOD_TERMINUS;Terminus;Terminus;Terminus;Terminus;Terminus;;;;;;;;;x
+GOD_VORTUMNUS;Vortumnus;Vortumnus;Vortumnus;Vortumnus;Vortumnus;;;;;;;;;x
+GOD_LARES;Lares;Lares;Lares;Lares;Lares;;;;;;;;;x
+GOD_LUCINA;Lucina;Lucina;Lucina;Lucina;Lucina;;;;;;;;;x
+GOD_THE_GEMINI;The Gemini;The Gemini;The Gemini;The Gemini;The Gemini;;;;;;;;;x
+GOD_CUPID;Cupid;Cupid;Cupid;Cupid;Cupid;;;;;;;;;x
+GOD_HERCULES;Hercules;Hercules;Hercules;Hercules;Hercules;;;;;;;;;x
+GOD_DIS_PATER;Dis Pater;Dis Pater;Dis Pater;Dis Pater;Dis Pater;;;;;;;;;x
+GOD_BONA_DEA;Bona Dea;Bona Dea;Bona Dea;Bona Dea;Bona Dea;;;;;;;;;x
+GOD_FAUNUS;Faunus;Faunus;Faunus;Faunus;Faunus;;;;;;;;;x
+GOD_PLUTO;Pluto;Pluto;Pluto;Pluto;Pluto;;;;;;;;;x
+GOD_THE_PENATES;The Penates;The Penates;The Penates;The Penates;The Penates;;;;;;;;;x
+GOD_PROSERPINA;Proserpina;Proserpina;Proserpina;Proserpina;Proserpina;;;;;;;;;x
+GOD_SILVANUS;Silvanus;Silvanus;Silvanus;Silvanus;Silvanus;;;;;;;;;x
+GOD_NERIO;Nerio;Nerio;Nerio;Nerio;Nerio;;;;;;;;;x
+GOD_DON;Don;Don;Don;Don;Don;;;;;;;;;x
+GOD_AERON;Aeron;Aeron;Aeron;Aeron;Aeron;;;;;;;;;x
+GOD_MODRON;Modron;Modron;Modron;Modron;Modron;;;;;;;;;x
+GOD_BELI_MAWR;Beli Mawr;Beli Mawr;Beli Mawr;Beli Mawr;Beli Mawr;;;;;;;;;x
+GOD_AMAETHON;Amaethon;Amaethon;Amaethon;Amaethon;Amaethon;;;;;;;;;x
+GOD_DYLAN;Dylan;Dylan;Dylan;Dylan;Dylan;;;;;;;;;x
+GOD_BENDIGEIDFRAN;Bendigeidfran;Bendigeidfran;Bendigeidfran;Bendigeidfran;Bendigeidfran;;;;;;;;;x
+GOD_BRANWEN;Branwen;Branwen;Branwen;Branwen;Branwen;;;;;;;;;x
+GOD_AFALLACH;Afallach;Afallach;Afallach;Afallach;Afallach;;;;;;;;;x
+GOD_ELEN;Elen;Elen;Elen;Elen;Elen;;;;;;;;;x
+GOD_ARAWN;Arawn;Arawn;Arawn;Arawn;Arawn;;;;;;;;;x
+GOD_CIGFA;Cigfa;Cigfa;Cigfa;Cigfa;Cigfa;;;;;;;;;x
+GOD_ARIANRHOD;Arianrhod;Arianrhod;Arianrhod;Arianrhod;Arianrhod;;;;;;;;;x
+GOD_MABON;Mabon;Mabon;Mabon;Mabon;Mabon;;;;;;;;;x
+GOD_CERIDWEN;Ceridwen;Ceridwen;Ceridwen;Ceridwen;Ceridwen;;;;;;;;;x
+GOD_BLODEUWEDD;Blodeuwedd;Blodeuwedd;Blodeuwedd;Blodeuwedd;Blodeuwedd;;;;;;;;;x
+GOD_DWYFAN;Dwyfan;Dwyfan;Dwyfan;Dwyfan;Dwyfan;;;;;;;;;x
+GOD_CULHWCH;Culhwch;Culhwch;Culhwch;Culhwch;Culhwch;;;;;;;;;x
+GOD_OLWEN;Olwen;Olwen;Olwen;Olwen;Olwen;;;;;;;;;x
+GOD_CREIDDYLAD;Creiddylad;Creiddylad;Creiddylad;Creiddylad;Creiddylad;;;;;;;;;x
+GOD_CYHYRAETH;Cyhyraeth;Cyhyraeth;Cyhyraeth;Cyhyraeth;Cyhyraeth;;;;;;;;;x
+GOD_PENARDDUN;Penarddun;Penarddun;Penarddun;Penarddun;Penarddun;;;;;;;;;x
+GOD_RHIANNON;Rhiannon;Rhiannon;Rhiannon;Rhiannon;Rhiannon;;;;;;;;;x
+GOD_EUROSWYDD;Euroswydd;Euroswydd;Euroswydd;Euroswydd;Euroswydd;;;;;;;;;x
+GOD_GOFANNON;Gofannon;Gofannon;Gofannon;Gofannon;Gofannon;;;;;;;;;x
+GOD_GWYDION;Gwydion;Gwydion;Gwydion;Gwydion;Gwydion;;;;;;;;;x
+GOD_MORFRAN;Morfran;Morfran;Morfran;Morfran;Morfran;;;;;;;;;x
+GOD_GWION_BACH;Gwion Bach;Gwion Bach;Gwion Bach;Gwion Bach;Gwion Bach;;;;;;;;;x
+GOD_TEGID_FOEL;Tegid Foel;Tegid Foel;Tegid Foel;Tegid Foel;Tegid Foel;;;;;;;;;x
+GOD_CREIRWY;Creirwy;Creirwy;Creirwy;Creirwy;Creirwy;;;;;;;;;x
+GOD_LLYR;Llyr;Llyr;Llyr;Llyr;Llyr;;;;;;;;;x
+GOD_YSBADDADEN;Ysbaddaden;Ysbaddaden;Ysbaddaden;Ysbaddaden;Ysbaddaden;;;;;;;;;x
+GOD_PWYLL;Pwyll;Pwyll;Pwyll;Pwyll;Pwyll;;;;;;;;;x
+GOD_PRYDERI;Pryderi;Pryderi;Pryderi;Pryderi;Pryderi;;;;;;;;;x
+GOD_GWYDDNO_GARANHIR;Gwyddno Garanhir;Gwyddno Garanhir;Gwyddno Garanhir;Gwyddno Garanhir;Gwyddno Garanhir;;;;;;;;;x
+GOD_GWYN;Gwyn;Gwyn;Gwyn;Gwyn;Gwyn;;;;;;;;;x
+GOD_HAFGAN;Hafgan;Hafgan;Hafgan;Hafgan;Hafgan;;;;;;;;;x
+GOD_LLEU_LLAW_GYFFES;Lleu Llaw Gyffes;Lleu Llaw Gyffes;Lleu Llaw Gyffes;Lleu Llaw Gyffes;Lleu Llaw Gyffes;;;;;;;;;x
+GOD_LLUDD_LLAW_ERAINT;Lludd Llaw Eraint;Lludd Llaw Eraint;Lludd Llaw Eraint;Lludd Llaw Eraint;Lludd Llaw Eraint;;;;;;;;;x
+GOD_MANAWYDAN;Manawydan;Manawydan;Manawydan;Manawydan;Manawydan;;;;;;;;;x
+GOD_MATH;Math;Math;Math;Math;Math;;;;;;;;;x
+GOD_MATHONWY;Mathonwy;Mathonwy;Mathonwy;Mathonwy;Mathonwy;;;;;;;;;x
+GOD_NISIEN;Nisien;Nisien;Nisien;Nisien;Nisien;;;;;;;;;x
+GOD_EFNYSIEN;Efnysien;Efnysien;Efnysien;Efnysien;Efnysien;;;;;;;;;x
+GOD_MYRDDIN_WYLLT;Myrddin Wyllt;Myrddin Wyllt;Myrddin Wyllt;Myrddin Wyllt;Myrddin Wyllt;;;;;;;;;x
+PROPHET_TALIESIN;Taliesin;Taliesin;Taliesin;Taliesin;Taliesin;;;;;;;;;x
+GOD_DANU;Danu;Danu;Danu;Danu;Danu;;;;;;;;;x
+GOD_LUGH;Lugh;Lugh;Lugh;Lugh;Lugh;;;;;;;;;x
+GOD_BRIGIT;Brigit;Brigit;Brigit;Brigit;Brigit;;;;;;;;;x
+GOD_OGMA;Ogma;Ogma;Ogma;Ogma;Ogma;;;;;;;;;x
+GOD_TUIRENN;Tuirenn;Tuirenn;Tuirenn;Tuirenn;Tuirenn;;;;;;;;;x
+GOD_THE_DAGDA;The Dagda;The Dagda;The Dagda;The Dagda;The Dagda;;;;;;;;;x
+GOD_LIR;Lir;Lir;Lir;Lir;Lir;;;;;;;;;x
+GOD_NUADA;Nuada;Nuada;Nuada;Nuada;Nuada;;;;;;;;;x
+GOD_MANANNAN;Manannan;Manannan;Manannan;Manannan;Manannan;;;;;;;;;x
+GOD_GOIBNIU;Goibniu;Goibniu;Goibniu;Goibniu;Goibniu;;;;;;;;;x
+GOD_LEN;Len;Len;Len;Len;Len;;;;;;;;;x
+GOD_CIAN;Cian;Cian;Cian;Cian;Cian;;;;;;;;;x
+GOD_BALOR;Balor;Balor;Balor;Balor;Balor;;;;;;;;;x
+GOD_AILILL;Ailill;Ailill;Ailill;Ailill;Ailill;;;;;;;;;x
+GOD_OENGUS;Oengus;Oengus;Oengus;Oengus;Oengus;;;;;;;;;x
+GOD_AI;Ai;Ai;Ai;Ai;Ai;;;;;;;;;x
+GOD_BODB_DEARG;Bodb Dearg;Bodb Dearg;Bodb Dearg;Bodb Dearg;Bodb Dearg;;;;;;;;;x
+GOD_BRES;Bres;Bres;Bres;Bres;Bres;;;;;;;;;x
+GOD_BREA;Brea;Brea;Brea;Brea;Brea;;;;;;;;;x
+GOD_ALASTIR;Alastir;Alastir;Alastir;Alastir;Alastir;;;;;;;;;x
+GOD_AED;Aed;Aed;Aed;Aed;Aed;;;;;;;;;x
+GOD_ABEAN;Abean;Abean;Abean;Abean;Abean;;;;;;;;;x
+GOD_ABCAN;Abcan;Abcan;Abcan;Abcan;Abcan;;;;;;;;;x
+GOD_ABARTA;Abarta;Abarta;Abarta;Abarta;Abarta;;;;;;;;;x
+GOD_BRIAN;Brian;Brian;Brian;Brian;Brian;;;;;;;;;x
+GOD_IUCHAR;Iuchar;Iuchar;Iuchar;Iuchar;Iuchar;;;;;;;;;x
+GOD_IUCHARBA;Iucharba;Iucharba;Iucharba;Iucharba;Iucharba;;;;;;;;;x
+GOD_CORB;Corb;Corb;Corb;Corb;Corb;;;;;;;;;x
+GOD_CREDNE;Credne;Credne;Credne;Credne;Credne;;;;;;;;;x
+GOD_BUARAINECH;Buarainech;Buarainech;Buarainech;Buarainech;Buarainech;;;;;;;;;x
+GOD_CIOCAL;Ciocal;Ciocal;Ciocal;Ciocal;Ciocal;;;;;;;;;x
+GOD_CONAND;Conand;Conand;Conand;Conand;Conand;;;;;;;;;x
+GOD_BADB;Badb;Badb;Badb;Badb;Badb;;;;;;;;;x
+GOD_BEC;Bec;Bec;Bec;Bec;Bec;;;;;;;;;x
+GOD_AINE;Aine;Aine;Aine;Aine;Aine;;;;;;;;;x
+GOD_AIMEND;Aimend;Aimend;Aimend;Aimend;Aimend;;;;;;;;;x
+GOD_AIBELL;Aibell;Aibell;Aibell;Aibell;Aibell;;;;;;;;;x
+GOD_AIRMED;Airmed;Airmed;Airmed;Airmed;Airmed;;;;;;;;;x
+GOD_ANAND;Anand;Anand;Anand;Anand;Anand;;;;;;;;;x
+GOD_BANBA;Banba;Banba;Banba;Banba;Banba;;;;;;;;;x
+GOD_BEBINN;Bebinn;Bebinn;Bebinn;Bebinn;Bebinn;;;;;;;;;x
+GOD_THE_MORRIGAN;The Morrigan;The Morrigan;The Morrigan;The Morrigan;The Morrigan;;;;;;;;;x
+GOD_FAND;Fand;Fand;Fand;Fand;Fand;;;;;;;;;x
+GOD_NIAM;Niam;Niam;Niam;Niam;Niam;;;;;;;;;x
+GOD_FINNGUALA;Finnguala;Finnguala;Finnguala;Finnguala;Finnguala;;;;;;;;;x
+GOD_FLIDAIS;Flidais;Flidais;Flidais;Flidais;Flidais;;;;;;;;;x
+GOD_FODLA;Fodla;Fodla;Fodla;Fodla;Fodla;;;;;;;;;x
+GOD_LI_BAN;Li Ban;Li Ban;Li Ban;Li Ban;Li Ban;;;;;;;;;x
+GOD_MACHA;Macha;Macha;Macha;Macha;Macha;;;;;;;;;x
+GOD_MEDB;Medb;Medb;Medb;Medb;Medb;;;;;;;;;x
+GOD_MEDB_LETHDERG;Medb Lethderg;Medb Lethderg;Medb Lethderg;Medb Lethderg;Medb Lethderg;;;;;;;;;x
+GOD_MONGFIND;Mongfind;Mongfind;Mongfind;Mongfind;Mongfind;;;;;;;;;x
+GOD_MOR_MUMAN;Mor Muman;Mor Muman;Mor Muman;Mor Muman;Mor Muman;;;;;;;;;x
+GOD_NEMAIN;Nemain;Nemain;Nemain;Nemain;Nemain;;;;;;;;;x
+GOD_NIC_NAOMHIN;Nic Naomhin;Nic Naomhin;Nic Naomhin;Nic Naomhin;Nic Naomhin;;;;;;;;;x
+GOD_PLOR_NA_MBAN;Plor Na Mban;Plor Na Mban;Plor Na Mban;Plor Na Mban;Plor Na Mban;;;;;;;;;x
+GOD_SHEELA_NA_GIG;Sheela Na Gig;Sheela Na Gig;Sheela Na Gig;Sheela Na Gig;Sheela Na Gig;;;;;;;;;x
+GOD_TAILTIU;Tailtiu;Tailtiu;Tailtiu;Tailtiu;Tailtiu;;;;;;;;;x
+GOD_CAER;Caer;Caer;Caer;Caer;Caer;;;;;;;;;x
+GOD_CAILLECH;Caillech;Caillech;Caillech;Caillech;Caillech;;;;;;;;;x
+GOD_ETAIN;Etain;Etain;Etain;Etain;Etain;;;;;;;;;x
+GOD_ETHNIU;Ethniu;Ethniu;Ethniu;Ethniu;Ethniu;;;;;;;;;x
+GOD_ERNMAS;Ernmas;Ernmas;Ernmas;Ernmas;Ernmas;;;;;;;;;x
+GOD_DANAND;Danand;Danand;Danand;Danand;Danand;;;;;;;;;x
+GOD_CANOLA;Canola;Canola;Canola;Canola;Canola;;;;;;;;;x
+GOD_ERIU;Eriu;Eriu;Eriu;Eriu;Eriu;;;;;;;;;x
+GOD_CROB_DERG;Crob Derg;Crob Derg;Crob Derg;Crob Derg;Crob Derg;;;;;;;;;x
+GOD_CLIDNA;Clidna;Clidna;Clidna;Clidna;Clidna;;;;;;;;;x
+GOD_CETHLENN;Cethlenn;Cethlenn;Cethlenn;Cethlenn;Cethlenn;;;;;;;;;x
+GOD_CESSAIR;Cessair;Cessair;Cessair;Cessair;Cessair;;;;;;;;;x
+GOD_LUCHTA;Luchta;Luchta;Luchta;Luchta;Luchta;;;;;;;;;x
+GOD_ELCMAR;Elcmar;Elcmar;Elcmar;Elcmar;Elcmar;;;;;;;;;x
+GOD_ELATHA;Elatha;Elatha;Elatha;Elatha;Elatha;;;;;;;;;x
+GOD_EGOBAIL;Egobail;Egobail;Egobail;Egobail;Egobail;;;;;;;;;x
+GOD_ECNE;Ecne;Ecne;Ecne;Ecne;Ecne;;;;;;;;;x
+GOD_DONN;Donn;Donn;Donn;Donn;Donn;;;;;;;;;x
+GOD_DIAN_CECHT;Dian Cecht;Dian Cecht;Dian Cecht;Dian Cecht;Dian Cecht;;;;;;;;;x
+GOD_BELBAETH;Belbaeth;Belbaeth;Belbaeth;Belbaeth;Belbaeth;;;;;;;;;x
+GOD_DAIRE;Daire;Daire;Daire;Daire;Daire;;;;;;;;;x
+GOD_CROM_DUBH;Crom Dubh;Crom Dubh;Crom Dubh;Crom Dubh;Crom Dubh;;;;;;;;;x
+GOD_CROM_CRUACH;Crom Cruach;Crom Cruach;Crom Cruach;Crom Cruach;Crom Cruach;;;;;;;;;x
+GOD_MUG_RUITH;Mug Ruith;Mug Ruith;Mug Ruith;Mug Ruith;Mug Ruith;;;;;;;;;x
+GOD_NECHTAN;Nechtan;Nechtan;Nechtan;Nechtan;Nechtan;;;;;;;;;x
+GOD_NEIT;Neit;Neit;Neit;Neit;Neit;;;;;;;;;x
+GOD_TETHRA;Tethra;Tethra;Tethra;Tethra;Tethra;;;;;;;;;x
+GOD_SEONAIDH;Seonaidh;Seonaidh;Seonaidh;Seonaidh;Seonaidh;;;;;;;;;x
+GOD_MIDIR;Midir;Midir;Midir;Midir;Midir;;;;;;;;;x
+GOD_MIACH;Miach;Miach;Miach;Miach;Miach;;;;;;;;;x
+GOD_MAC_CUILL;Mac Cuill;Mac Cuill;Mac Cuill;Mac Cuill;Mac Cuill;;;;;;;;;x
+GOD_MAC_CECHT;Mac Cecht;Mac Cecht;Mac Cecht;Mac Cecht;Mac Cecht;;;;;;;;;x
+GOD_MAC_GREINE;Mac Greine;Mac Greine;Mac Greine;Mac Greine;Mac Greine;;;;;;;;;x
+GOD_FIONN;Fionn;Fionn;Fionn;Fionn;Fionn;;;;;;;;;x
+GOD_OISIN;Oisin;Oisin;Oisin;Oisin;Oisin;;;;;;;;;x
+GOD_OSCAR;Oscar;Oscar;Oscar;Oscar;Oscar;;;;;;;;;x
+GOD_CUMHALL;Cumhall;Cumhall;Cumhall;Cumhall;Cumhall;;;;;;;;;x
+GOD_SADHBH;Sadhbh;Sadhbh;Sadhbh;Sadhbh;Sadhbh;;;;;;;;;x
+GOD_FEAR_DOIRCHE;Fear Doirche;Fear Doirche;Fear Doirche;Fear Doirche;Fear Doirche;;;;;;;;;x
+GOD_TADG;Tadg;Tadg;Tadg;Tadg;Tadg;;;;;;;;;x
+GOD_MUIRNE;Muirne;Muirne;Muirne;Muirne;Muirne;;;;;;;;;x
+GOD_TRENMOR;Trenmor;Trenmor;Trenmor;Trenmor;Trenmor;;;;;;;;;x
+GOD_DIARMUID;Diarmuid;Diarmuid;Diarmuid;Diarmuid;Diarmuid;;;;;;;;;x
+GOD_CU_CHULAINN;Cu Chulainn;Cu Chulainn;Cu Chulainn;Cu Chulainn;Cu Chulainn;;;;;;;;;x
+GOD_AIFE;Aife;Aife;Aife;Aife;Aife;;;;;;;;;x
+GOD_CONNLA;Connla;Connla;Connla;Connla;Connla;;;;;;;;;x
+GOD_SCATHACH;Scathach;Scathach;Scathach;Scathach;Scathach;;;;;;;;;x
+GOD_UATHACH;Uathach;Uathach;Uathach;Uathach;Uathach;;;;;;;;;x
+GOD_CET;Cet;Cet;Cet;Cet;Cet;;;;;;;;;x
+GOD_CUAR;Cuar;Cuar;Cuar;Cuar;Cuar;;;;;;;;;x
+GOD_TALITIU;Talitiu;Talitiu;Talitiu;Talitiu;Talitiu;;;;;;;;;x
+GOD_CICHOL_GRICENCHOS;Cichol Gricenchos;Cichol Gricenchos;Cichol Gricenchos;Cichol Gricenchos;Cichol Gricenchos;;;;;;;;;x
+GOD_DELBAETH;Delbaeth;Delbaeth;Delbaeth;Delbaeth;Delbaeth;;;;;;;;;x
+GOD_AOI_MAC_OLLAMAIN;Aoi Mac Ollamain;Aoi Mac Ollamain;Aoi Mac Ollamain;Aoi Mac Ollamain;Aoi Mac Ollamain;;;;;;;;;x
+GOD_BOANN;Boann;Boann;Boann;Boann;Boann;;;;;;;;;x
+GOD_CONN;Conn;Conn;Conn;Conn;Conn;;;;;;;;;x
+GOD_FIACHRA;Fiachra;Fiachra;Fiachra;Fiachra;Fiachra;;;;;;;;;x
+GOD_FIONNUALA;Fionnuala;Fionnuala;Fionnuala;Fionnuala;Fionnuala;;;;;;;;;x
+GOD_AOIBH;Aoibh;Aoibh;Aoibh;Aoibh;Aoibh;;;;;;;;;x
+GOD_CLIODHNA;Cliodhna;Cliodhna;Cliodhna;Cliodhna;Cliodhna;;;;;;;;;x
+GOD_FERDIAD;Ferdiad;Ferdiad;Ferdiad;Ferdiad;Ferdiad;;;;;;;;;x
+GOD_SRENG;Sreng;Sreng;Sreng;Sreng;Sreng;;;;;;;;;x
+GOD_EOCHAID;Eochaid;Eochaid;Eochaid;Eochaid;Eochaid;;;;;;;;;x
+GOD_SLAINE;Slaine;Slaine;Slaine;Slaine;Slaine;;;;;;;;;x
+GOD_RINNAL;Rinnal;Rinnal;Rinnal;Rinnal;Rinnal;;;;;;;;;x
+GOD_MARI;Mari;Mari;Mari;Mari;Mari;;;;;;;;;x
+GOD_MURUMENDIKO_DAMA;Murumendiko Dama;Murumendiko Dama;Murumendiko Dama;Murumendiko Dama;Murumendiko Dama;;;;;;;;;x
+GOD_SUGAAR;Sugaar;Sugaar;Sugaar;Sugaar;Sugaar;;;;;;;;;x
+GOD_MAJU;Maju;Maju;Maju;Maju;Maju;;;;;;;;;x
+GOD_ATARRABI;Atarrabi;Atarrabi;Atarrabi;Atarrabi;Atarrabi;;;;;;;;;x
+GOD_ATXULAR;Atxular;Atxular;Atxular;Atxular;Atxular;;;;;;;;;x
+GOD_MIKELATS;Mikelats;Mikelats;Mikelats;Mikelats;Mikelats;;;;;;;;;x
+GOD_HODEI;Hodei;Hodei;Hodei;Hodei;Hodei;;;;;;;;;x
+GOD_HERENSUGE;Herensuge;Herensuge;Herensuge;Herensuge;Herensuge;;;;;;;;;x
+GOD_AMA_LUR;Ama Lur;Ama Lur;Ama Lur;Ama Lur;Ama Lur;;;;;;;;;x
+GOD_ILLARGI;Illargi;Illargi;Illargi;Illargi;Illargi;;;;;;;;;x
+GOD_ERGE;Erge;Erge;Erge;Erge;Erge;;;;;;;;;x
+GOD_GAUEKO;Gaueko;Gaueko;Gaueko;Gaueko;Gaueko;;;;;;;;;x
+GOD_ODEI;Odei;Odei;Odei;Odei;Odei;;;;;;;;;x
+GOD_TARTALO;Tartalo;Tartalo;Tartalo;Tartalo;Tartalo;;;;;;;;;x
+GOD_THE_MAIRUAK;The Mairuak;The Mairuak;The Mairuak;The Mairuak;The Mairuak;;;;;;;;;x
+GOD_THE_SORGINAK;The Sorginak;The Sorginak;The Sorginak;The Sorginak;The Sorginak;;;;;;;;;x
+GOD_THE_LAMIAK;The Lamiak;The Lamiak;The Lamiak;The Lamiak;The Lamiak;;;;;;;;;x
+GOD_THE_IRATXOAK;The Iratxoak;The Iratxoak;The Iratxoak;The Iratxoak;The Iratxoak;;;;;;;;;x
+GOD_THE_GALTZAGORRIAK;The Galtzagorriak;The Galtzagorriak;The Galtzagorriak;The Galtzagorriak;The Galtzagorriak;;;;;;;;;x
+GOD_AATXE;Aatxe;Aatxe;Aatxe;Aatxe;Aatxe;;;;;;;;;x
+GOD_BASAJAUN;Basajaun;Basajaun;Basajaun;Basajaun;Basajaun;;;;;;;;;x
+GOD_BASANDERE;Basandere;Basandere;Basandere;Basandere;Basandere;;;;;;;;;x
+GOD_URTZI;Urtzi;Urtzi;Urtzi;Urtzi;Urtzi;;;;;;;;;x
+GOD_THE_JENTILAK;The Jentilak;The Jentilak;The Jentilak;The Jentilak;The Jentilak;;;;;;;;;x
+GOD_ARAMAZD;Aramazd;Aramazd;Aramazd;Aramazd;Aramazd;;;;;;;;;x
+GOD_ANAHIT;Anahit;Anahit;Anahit;Anahit;Anahit;;;;;;;;;x
+GOD_VAHAGN;Vahagn;Vahagn;Vahagn;Vahagn;Vahagn;;;;;;;;;x
+GOD_ASTGHIK;Astghik;Astghik;Astghik;Astghik;Astghik;;;;;;;;;x
+GOD_NUNE;Nune;Nune;Nune;Nune;Nune;;;;;;;;;x
+GOD_ARA;Ara;Ara;Ara;Ara;Ara;;;;;;;;;x
+GOD_MIHR;Mihr;Mihr;Mihr;Mihr;Mihr;;;;;;;;;x
+GOD_TIR;Tir;Tir;Tir;Tir;Tir;;;;;;;;;x
+GOD_AMANOR;Amanor;Amanor;Amanor;Amanor;Amanor;;;;;;;;;x
+GOD_TSOVINAR;Tsovinar;Tsovinar;Tsovinar;Tsovinar;Tsovinar;;;;;;;;;x
+GOD_SPANDARAMET;Spandaramet;Spandaramet;Spandaramet;Spandaramet;Spandaramet;;;;;;;;;x
+GOD_HAYK;Hayk;Hayk;Hayk;Hayk;Hayk;;;;;;;;;x
+GOD_ARAY;Aray;Aray;Aray;Aray;Aray;;;;;;;;;x
+GOD_BARSAMIN;Barsamin;Barsamin;Barsamin;Barsamin;Barsamin;;;;;;;;;x
+GOD_BEL;Bel;Bel;Bel;Bel;Bel;;;;;;;;;x
+GOD_AL;Al;Al;Al;Al;Al;;;;;;;;;x
+GOD_THE_ARALEZ;The Aralez;The Aralez;The Aralez;The Aralez;The Aralez;;;;;;;;;x
+GOD_KARAPET;Karapet;Karapet;Karapet;Karapet;Karapet;;;;;;;;;x
+GOD_SARKIS;Sarkis;Sarkis;Sarkis;Sarkis;Sarkis;;;;;;;;;x
+GOD_THE_DEVS;The Devs;The Devs;The Devs;The Devs;The Devs;;;;;;;;;x
+GOD_ARMAZI;Armazi;Armazi;Armazi;Armazi;Armazi;;;;;;;;;x
+GOD_DALI;Dali;Dali;Dali;Dali;Dali;;;;;;;;;x
+GOD_ADGILIS_DEDA;Adgilis Deda;Adgilis Deda;Adgilis Deda;Adgilis Deda;Adgilis Deda;;;;;;;;;x
+GOD_TAMAR;Tamar;Tamar;Tamar;Tamar;Tamar;;;;;;;;;x
+GOD_LAMARA;Lamara;Lamara;Lamara;Lamara;Lamara;;;;;;;;;x
+GOD_ZADENI;Zadeni;Zadeni;Zadeni;Zadeni;Zadeni;;;;;;;;;x
+GOD_GATSI;Gatsi;Gatsi;Gatsi;Gatsi;Gatsi;;;;;;;;;x
+GOD_GAIM;Gaim;Gaim;Gaim;Gaim;Gaim;;;;;;;;;x
+GOD_DILIS_VARSKVLAVI;Dilis Varskvlavi;Dilis Varskvlavi;Dilis Varskvlavi;Dilis Varskvlavi;Dilis Varskvlavi;;;;;;;;;x
+GOD_BAADURI;Baaduri;Baaduri;Baaduri;Baaduri;Baaduri;;;;;;;;;x
+GOD_THE_DEVIS;The Devis;The Devis;The Devis;The Devis;The Devis;;;;;;;;;x
+GOD_AMIRANI;Amirani;Amirani;Amirani;Amirani;Amirani;;;;;;;;;x
+GOD_KOPALA;Kopala;Kopala;Kopala;Kopala;Kopala;;;;;;;;;x
+GOD_IAKHSARI;Iakhsari;Iakhsari;Iakhsari;Iakhsari;Iakhsari;;;;;;;;;x
+GOD_MAMUKA;Mamuka;Mamuka;Mamuka;Mamuka;Mamuka;;;;;;;;;x
+GOD_MORIGE;Morige;Morige;Morige;Morige;Morige;;;;;;;;;x
+GOD_PIRKUSHI;Pirkushi;Pirkushi;Pirkushi;Pirkushi;Pirkushi;;;;;;;;;x
+GOD_TETRI_GIORGI;Tetri Giorgi;Tetri Giorgi;Tetri Giorgi;Tetri Giorgi;Tetri Giorgi;;;;;;;;;x
+GOD_OCHOPINTRE;Ochopintre;Ochopintre;Ochopintre;Ochopintre;Ochopintre;;;;;;;;;x
+GOD_MZEKALA;Mzekala;Mzekala;Mzekala;Mzekala;Mzekala;;;;;;;;;x
+GOD_LEUCOTHENIA;Leucothenia;Leucothenia;Leucothenia;Leucothenia;Leucothenia;;;;;;;;;x
+GOD_HUYCAU;Huycau;Huycau;Huycau;Huycau;Huycau;;;;;;;;;x
+GOD_UASTYRDZHI;Uastyrdzhi;Uastyrdzhi;Uastyrdzhi;Uastyrdzhi;Uastyrdzhi;;;;;;;;;x
+GOD_UACILLA;Uacilla;Uacilla;Uacilla;Uacilla;Uacilla;;;;;;;;;x
+GOD_SAFA;Safa;Safa;Safa;Safa;Safa;;;;;;;;;x
+GOD_DONBETTYR;Donbettyr;Donbettyr;Donbettyr;Donbettyr;Donbettyr;;;;;;;;;x
+GOD_TUTYR;Tutyr;Tutyr;Tutyr;Tutyr;Tutyr;;;;;;;;;x
+GOD_FAELVAERA;Faelvaera;Faelvaera;Faelvaera;Faelvaera;Faelvaera;;;;;;;;;x
+GOD_AEFSATI;Aefsati;Aefsati;Aefsati;Aefsati;Aefsati;;;;;;;;;x
+GOD_KURDALAEGON;Kurdalaegon;Kurdalaegon;Kurdalaegon;Kurdalaegon;Kurdalaegon;;;;;;;;;x
+GOD_SATANA;Satana;Satana;Satana;Satana;Satana;;;;;;;;;x
+GOD_SAUBARAG;Saubarag;Saubarag;Saubarag;Saubarag;Saubarag;;;;;;;;;x
+GOD_SYRDON;Syrdon;Syrdon;Syrdon;Syrdon;Syrdon;;;;;;;;;x
+GOD_HUYAENDON_AELDAR;Huyaendon Aeldar;Huyaendon Aeldar;Huyaendon Aeldar;Huyaendon Aeldar;Huyaendon Aeldar;;;;;;;;;x
+GOD_BARASTYR;Barastyr;Barastyr;Barastyr;Barastyr;Barastyr;;;;;;;;;x
+GOD_AMINON;Aminon;Aminon;Aminon;Aminon;Aminon;;;;;;;;;x
+GOD_ALARDY;Alardy;Alardy;Alardy;Alardy;Alardy;;;;;;;;;x
+GOD_DEELA;Deela;Deela;Deela;Deela;Deela;;;;;;;;;x
+GOD_HELA;Hela;Hela;Hela;Hela;Hela;;;;;;;;;x
+GOD_DEELA-MALKH;Deela-malkh;Deela-malkh;Deela-malkh;Deela-malkh;Deela-malkh;;;;;;;;;x
+GOD_MEL-DEELA;Mel-deela;Mel-deela;Mel-deela;Mel-deela;Mel-deela;;;;;;;;;x
+GOD_SEELA;Seela;Seela;Seela;Seela;Seela;;;;;;;;;x
+GOD_SATA;Sata;Sata;Sata;Sata;Sata;;;;;;;;;x
+GOD_MAETSILL;Maetsill;Maetsill;Maetsill;Maetsill;Maetsill;;;;;;;;;x
+GOD_ISHTAR-DEELA;Ishtar-deela;Ishtar-deela;Ishtar-deela;Ishtar-deela;Ishtar-deela;;;;;;;;;x
+GOD_MOLYZ-YERDI;Molyz-yerdi;Molyz-yerdi;Molyz-yerdi;Molyz-yerdi;Molyz-yerdi;;;;;;;;;x
+GOD_ELTA;Elta;Elta;Elta;Elta;Elta;;;;;;;;;x
+GOD_AMGALI-YERDI;Amgali-yerdi;Amgali-yerdi;Amgali-yerdi;Amgali-yerdi;Amgali-yerdi;;;;;;;;;x
+GOD_TAAMASH-YERDI;Taamash-yerdi;Taamash-yerdi;Taamash-yerdi;Taamash-yerdi;Taamash-yerdi;;;;;;;;;x
+GOD_TUSHOLI;Tusholi;Tusholi;Tusholi;Tusholi;Tusholi;;;;;;;;;x
+GOD_DARTSA-NAANA;Dartsa-naana;Dartsa-naana;Dartsa-naana;Dartsa-naana;Dartsa-naana;;;;;;;;;x
+GOD_MOKHA-NAANA;Mokha-naana;Mokha-naana;Mokha-naana;Mokha-naana;Mokha-naana;;;;;;;;;x
+GOD_SEELASAT;Seelasat;Seelasat;Seelasat;Seelasat;Seelasat;;;;;;;;;x
+GOD_MELER-YERDI;Meler-yerdi;Meler-yerdi;Meler-yerdi;Meler-yerdi;Meler-yerdi;;;;;;;;;x
+GOD_GAL-YERDI;Gal-yerdi;Gal-yerdi;Gal-yerdi;Gal-yerdi;Gal-yerdi;;;;;;;;;x
+GOD_AIRA;Aira;Aira;Aira;Aira;Aira;;;;;;;;;x
+GOD_MOZH;Mozh;Mozh;Mozh;Mozh;Mozh;;;;;;;;;x
+GOD_BOLAM-DEELA;Bolam-deela;Bolam-deela;Bolam-deela;Bolam-deela;Bolam-deela;;;;;;;;;x
+GOD_MAETSKHALI;Maetskhali;Maetskhali;Maetskhali;Maetskhali;Maetskhali;;;;;;;;;x
+GOD_MATTIR-DEELA;Mattir-deela;Mattir-deela;Mattir-deela;Mattir-deela;Mattir-deela;;;;;;;;;x
+GOD_P'EERSKA;P'eerska;P'eerska;P'eerska;P'eerska;P'eerska;;;;;;;;;x
+GOD_BAINI;Baini;Baini;Baini;Baini;Baini;;;;;;;;;x
+GOD_UNU;Unu;Unu;Unu;Unu;Unu;;;;;;;;;x
+GOD_HIGIZ;Higiz;Higiz;Higiz;Higiz;Higiz;;;;;;;;;x
+GOD_FALKHAN;Falkhan;Falkhan;Falkhan;Falkhan;Falkhan;;;;;;;;;x
+GOD_SUSAN;Susan;Susan;Susan;Susan;Susan;;;;;;;;;x
+GOD_AGOI;Agoi;Agoi;Agoi;Agoi;Agoi;;;;;;;;;x
+GOD_PKHARMAT;Pkharmat;Pkharmat;Pkharmat;Pkharmat;Pkharmat;;;;;;;;;x
+GOD_THE_TARAM;The Taram;The Taram;The Taram;The Taram;The Taram;;;;;;;;;x
+GOD_THE_HUNSAG;The Hunsag;The Hunsag;The Hunsag;The Hunsag;The Hunsag;;;;;;;;;x
+GOD_THE_ALMAS;The Almas;The Almas;The Almas;The Almas;The Almas;;;;;;;;;x
+GOD_THA;Tha;Tha;Tha;Tha;Tha;;;;;;;;;x
+GOD_THASHXUE;Thashxue;Thashxue;Thashxue;Thashxue;Thashxue;;;;;;;;;x
+GOD_ANTSVA;Antsva;Antsva;Antsva;Antsva;Antsva;;;;;;;;;x
+GOD_AFY;Afy;Afy;Afy;Afy;Afy;;;;;;;;;x
+GOD_AIARG;Aiarg;Aiarg;Aiarg;Aiarg;Aiarg;;;;;;;;;x
+GOD_AZHVEIPSHAA;Azhveipshaa;Azhveipshaa;Azhveipshaa;Azhveipshaa;Azhveipshaa;;;;;;;;;x
+GOD_ANANA_GUNDA;Anana Gunda;Anana Gunda;Anana Gunda;Anana Gunda;Anana Gunda;;;;;;;;;x
+GOD_DZYZLAN-DZAHKUAZH;Dzyzlan-dzahkuazh;Dzyzlan-dzahkuazh;Dzyzlan-dzahkuazh;Dzyzlan-dzahkuazh;Dzyzlan-dzahkuazh;;;;;;;;;x
+GOD_SHAHY;Shahy;Shahy;Shahy;Shahy;Shahy;;;;;;;;;x
+GOD_AZHIRA;Azhira;Azhira;Azhira;Azhira;Azhira;;;;;;;;;x
+GOD_AZHAKHARA;Azhakhara;Azhakhara;Azhakhara;Azhakhara;Azhakhara;;;;;;;;;x
+GOD_PATARAZ;Pataraz;Pataraz;Pataraz;Pataraz;Pataraz;;;;;;;;;x
+GOD_TLEPSH;Tlepsh;Tlepsh;Tlepsh;Tlepsh;Tlepsh;;;;;;;;;x
+GOD_SETENEJ;Setenej;Setenej;Setenej;Setenej;Setenej;;;;;;;;;x
+GOD_SAWSARAKA;Sawsaraka;Sawsaraka;Sawsaraka;Sawsaraka;Sawsaraka;;;;;;;;;x

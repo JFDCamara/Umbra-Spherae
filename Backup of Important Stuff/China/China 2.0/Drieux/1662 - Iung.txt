@@ -1,0 +1,19 @@
+# 1662 - Iung
+
+# County Title
+title = c_iung
+
+# Settlements
+max_settlements = 2
+b_jyungzjeng = city
+#b_kyoisin =
+#b_ghungzjeng =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

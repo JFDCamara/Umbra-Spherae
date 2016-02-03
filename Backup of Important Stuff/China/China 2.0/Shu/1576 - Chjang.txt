@@ -1,0 +1,24 @@
+# 1576 - Chjang
+
+# County Title
+title = c_chjang
+
+# Settlements
+max_settlements = 4
+b_dadcyuk = city
+b_chjangngyan = city
+b_yengxchjyen = city
+#b_samkhyo =
+#b_lyungsjyix =
+#b_laiso =
+#b_pauxtengxsren =
+#b_poksren =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

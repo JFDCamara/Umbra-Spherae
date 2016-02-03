@@ -1,0 +1,23 @@
+# 1436 - Lio
+
+# County Title
+title = c_lio
+
+# Settlements
+max_settlements = 4
+b_ghopbyoi = city
+b_myoye = city
+b_sjozjeng = city
+#b_zrau =
+#b_liokrung =
+#b_zjinh =
+#b_dauzjeng =
+#b_byansren =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

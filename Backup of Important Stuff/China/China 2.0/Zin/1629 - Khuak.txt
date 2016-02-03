@@ -1,0 +1,19 @@
+# 1629 - Khuak
+
+# County Title
+title = c_khuak
+
+# Settlements
+max_settlements = 2
+b_nengsaih = city
+#b_pyokung =
+#b_syibjen =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

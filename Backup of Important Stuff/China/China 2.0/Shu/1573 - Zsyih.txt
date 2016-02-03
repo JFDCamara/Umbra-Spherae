@@ -1,0 +1,22 @@
+# 1573 - Zsyih
+
+# County Title
+title = c_zsyih
+
+# Settlements
+max_settlements = 4
+b_sieuxkhe = city
+b_bungkhe = city
+#b_driangkrung =
+#b_chengzjek =
+#b_zsyihneng =
+#b_lyungghuad =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

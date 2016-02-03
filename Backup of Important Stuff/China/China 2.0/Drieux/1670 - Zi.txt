@@ -1,0 +1,19 @@
+# 1670 - Zi
+
+# County Title
+title = c_zi
+
+# Settlements
+max_settlements = 2
+b_byoxjang = city
+#b_ghantan =
+#b_myoxan =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

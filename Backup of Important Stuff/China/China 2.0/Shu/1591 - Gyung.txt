@@ -1,0 +1,24 @@
+# 1591 - Gyung
+
+# County Title
+title = c_gyung
+
+# Settlements
+max_settlements = 3
+b_limgyung = city
+b_ioizjeng = city
+#b_bokrung =
+#b_dadip =
+#b_gyungannjin =
+#b_huaxciengx =
+#b_zjuhan =
+#b_kohnjit =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

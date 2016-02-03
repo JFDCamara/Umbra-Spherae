@@ -1,0 +1,33 @@
+GOD_SHANGDI;Shangdi;Shangdi;Shangdi;Shangdi;Shangdi;;;;;;;;;x
+GOD_PANGU;Pangu;Pangu;Pangu;Pangu;Pangu;;;;;;;;;x
+GOD_FUXI;Fuxi;Fuxi;Fuxi;Fuxi;Fuxi;;;;;;;;;x
+GOD_NUWA;Nuwa;Nuwa;Nuwa;Nuwa;Nuwa;;;;;;;;;x
+GOD_SHENNONG;Shennong;Shennong;Shennong;Shennong;Shennong;;;;;;;;;x
+GOD_HUANGDI;Huangdi;Huangdi;Huangdi;Huangdi;Huangdi;;;;;;;;;x
+GOD_GUAN_YU;Guan Yu;Guan Yu;Guan Yu;Guan Yu;Guan Yu;;;;;;;;;x
+GOD_CAISHEN;Caishen;Caishen;Caishen;Caishen;Caishen;;;;;;;;;x
+GOD_THE_JIUHUANG_DAI;The Jiuhuang Dai;The Jiuhuang Dai;The Jiuhuang Dai;The Jiuhuang Dai;The Jiuhuang Dai;;;;;;;;;x
+GOD_QIYE;Qiye;Qiye;Qiye;Qiye;Qiye;;;;;;;;;x
+GOD_BAYE;Baye;Baye;Baye;Baye;Baye;;;;;;;;;x
+GOD_YU_HUANG;Yu Huang;Yu Huang;Yu Huang;Yu Huang;Yu Huang;;;;;;;;;x
+GOD_TUDI_GONG;Tudi Gong;Tudi Gong;Tudi Gong;Tudi Gong;Tudi Gong;;;;;;;;;x
+GOD_WENCHANGDI;Wenchangdi;Wenchangdi;Wenchangdi;Wenchangdi;Wenchangdi;;;;;;;;;x
+GOD_XI_WANGMU;Xi Wangmu;Xi Wangmu;Xi Wangmu;Xi Wangmu;Xi Wangmu;;;;;;;;;x
+GOD_YUEXIA_LAOREN;Yuexia Laoren;Yuexia Laoren;Yuexia Laoren;Yuexia Laoren;Yuexia Laoren;;;;;;;;;x
+GOD_ZAOSHEN;Zaoshen;Zaoshen;Zaoshen;Zaoshen;Zaoshen;;;;;;;;;x
+GOD_MAZU;Mazu;Mazu;Mazu;Mazu;Mazu;;;;;;;;;x
+GOD_SHOUSHEN;Shoushen;Shoushen;Shoushen;Shoushen;Shoushen;;;;;;;;;x
+GOD_FUSHEN;Fushen;Fushen;Fushen;Fushen;Fushen;;;;;;;;;x
+GOD_LUSHEN;Lushen;Lushen;Lushen;Lushen;Lushen;;;;;;;;;x
+GOD_YUQING;Yuqing;Yuqing;Yuqing;Yuqing;Yuqing;;;;;;;;;x
+GOD_SHANGQING;Shangqing;Shangqing;Shangqing;Shangqing;Shangqing;;;;;;;;;x
+GOD_TAIQING;Taiqing;Taiqing;Taiqing;Taiqing;Taiqing;;;;;;;;;x
+GOD_GUAN_YU;Guan Yu;Guan Yu;Guan Yu;Guan Yu;Guan Yu;;;;;;;;;x
+GOD_THE_BAXIAN;The Baxian;The Baxian;The Baxian;The Baxian;The Baxian;;;;;;;;;x
+GOD_HUYE;Huye;Huye;Huye;Huye;Huye;;;;;;;;;x
+GOD_HUANGDI;Huangdi;Huangdi;Huangdi;Huangdi;Huangdi;;;;;;;;;x
+GOD_XI_WANGMU;Xi Wangmu;Xi Wangmu;Xi Wangmu;Xi Wangmu;Xi Wangmu;;;;;;;;;x
+GOD_YU_HUANG;Yu Huang;Yu Huang;Yu Huang;Yu Huang;Yu Huang;;;;;;;;;x
+GOD_CHANG'E;Chang'e;Chang'e;Chang'e;Chang'e;Chang'e;;;;;;;;;x
+GOD_SONGZI_NIANGNIANG;Songzi Niangniang;Songzi Niangniang;Songzi Niangniang;Songzi Niangniang;Songzi Niangniang;;;;;;;;;x
+GOD_MA_GU;Ma Gu;Ma Gu;Ma Gu;Ma Gu;Ma Gu;;;;;;;;;x

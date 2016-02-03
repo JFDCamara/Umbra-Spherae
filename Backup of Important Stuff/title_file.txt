@@ -1,0 +1,65 @@
+#Akar Bale Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203960 #Akar-Bale
+}
+780.1.1={
+	holder=1000203961 #Bora-Dale
+}
+810.1.1={
+	holder=1000203962 #Akar-Bale
+}
+840.1.1={
+	holder=1000203963 #Bora-Dale
+}
+870.1.1={
+	holder=1000203964 #Akar-Bale
+}
+900.1.1={
+	holder=1000203965 #Bora-Dale
+}
+930.1.1={
+	holder=1000203966 #Akar-Bale
+}
+960.1.1={
+	holder=1000203967 #Bora-Dale
+}
+990.1.1={
+	holder=1000203968 #Akar-Bale
+}
+1020.1.1={
+	holder=1000203969 #Bora-Dale
+}
+1050.1.1={
+	holder=1000203970 #Akar-Bale
+}
+1080.1.1={
+	holder=1000203971 #Bora-Dale
+}
+1110.1.1={
+	holder=1000203972 #Akar-Bale
+}
+1140.1.1={
+	holder=1000203973 #Bora-Dale
+}
+1170.1.1={
+	holder=1000203974 #Akar-Bale
+}
+1200.1.1={
+	holder=1000203975 #Bora-Dale
+}
+1230.1.1={
+	holder=1000203976 #Akar-Bale
+}
+1260.1.1={
+	holder=1000203977 #Bora-Dale
+}
+1290.1.1={
+	holder=1000203978 #Akar-Bale
+}
+1320.1.1={
+	holder=1000203979 #Bora-Dale
+}
+1350.1.1={
+	holder=1000203980 #Fini-Bale
+}

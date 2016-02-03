@@ -1,0 +1,19 @@
+# 1531 - Mjenx
+
+# County Title
+title = c_mjenx
+
+# Settlements
+max_settlements = 2
+b_hanhjang = city
+#b_hanhchjyen =
+#b_dadyoxmieuh =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,19 @@
+# 1473 - Nomkhang
+
+# County Title
+title = c_nomkhang
+
+# Settlements
+max_settlements = 2
+b_sengcix = city
+#b_kianchjang =
+#b_tochjang =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

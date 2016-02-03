@@ -1,0 +1,21 @@
+# 1661 - Chang
+
+# County Title
+title = c_chang
+
+# Settlements
+max_settlements = 3
+b_chiengdrie = city
+b_nombie = city
+#b_jemsren =
+#b_myodeh =
+#b_lakling =
+#b_gienbyo =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

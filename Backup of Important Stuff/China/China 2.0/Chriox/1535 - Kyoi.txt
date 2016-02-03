@@ -1,0 +1,18 @@
+# 1535 - Kyoi
+
+# County Title
+title = c_kyoi
+
+# Settlements
+max_settlements = 3
+b_ciixkyoi = city
+#b_pratung =
+#b_hingsren =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

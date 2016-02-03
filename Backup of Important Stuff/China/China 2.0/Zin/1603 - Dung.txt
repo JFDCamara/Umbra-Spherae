@@ -1,0 +1,23 @@
+# 1603 - Dung
+
+# County Title
+title = c_dung
+
+# Settlements
+max_settlements = 4
+b_bingjik = city
+b_trieuip = city
+b_braksjyix = city
+#b_Dringzjeng =
+#b_ghopjang =
+#b_ghanzjeng =
+#b_srayanx =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

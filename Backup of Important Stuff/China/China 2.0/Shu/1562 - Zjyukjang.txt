@@ -1,0 +1,19 @@
+# 1562 - Zjyukjang
+
+# County Title
+title = c_zjyukjang
+
+# Settlements
+max_settlements = 2
+b_hingdaux = city
+#b_cjinbyo =
+#b_sehiang =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,18 @@
+# 1514 - Ziih-Khix
+
+# County Title
+title = c_ziih-khix
+
+# Settlements
+max_settlements = 2
+b_ziihkhix = city
+#b_muagiox =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

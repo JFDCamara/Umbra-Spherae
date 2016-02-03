@@ -1,0 +1,24 @@
+# 1463 - Mieng
+
+# County Title
+title = c_mieng
+
+# Settlements
+max_settlements = 6
+b_ngin = city
+b_zikhe = city
+b_denghhaix = city
+#b_chjangkuok = 
+#b_byungxhruah =
+#b_zsiangxsren = 
+#b_thendungzsih =
+#b_pauxdazsih =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

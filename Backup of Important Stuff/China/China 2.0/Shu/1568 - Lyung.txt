@@ -1,0 +1,18 @@
+# 1568 - Lyung
+
+# County Title
+title = c_lyung
+
+# Settlements
+max_settlements = 2
+b_krungju = city
+#b_chiengchjyen =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

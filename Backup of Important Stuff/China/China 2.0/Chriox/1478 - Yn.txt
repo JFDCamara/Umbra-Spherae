@@ -1,0 +1,19 @@
+# 1522 - Yn
+
+# County Title
+title = c_yn
+
+# Settlements
+max_settlements = 2
+b_kauan = city
+#b_zjanghkau = city
+#b_ynsinchjang = city
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

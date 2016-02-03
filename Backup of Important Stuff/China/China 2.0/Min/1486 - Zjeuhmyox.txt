@@ -1,0 +1,20 @@
+# 1486 - Zjeuhmyox
+
+# County Title
+title = c_zjeuhmyox
+
+# Settlements
+max_settlements = 3
+b_zjeuhmyox = city
+#b_kianhneng =
+#b_thadneng =
+#b_kuangdrak =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

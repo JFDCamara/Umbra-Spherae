@@ -1,0 +1,20 @@
+# 1543 - Zsye
+
+# County Title
+title = c_zsye
+
+# Settlements
+max_settlements = 3
+b_zsye = city
+b_dangzjeng = city
+#b_cauxjang =
+#b_kuanghruah =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

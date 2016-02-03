@@ -1,0 +1,22 @@
+# 1445 - Mrangh
+
+# County Title
+title = c_mrangh
+
+# Settlements
+max_settlements = 4
+b_ghajang = city
+b_cexngyan = city
+#b_yanguk =
+#b_uon =
+#b_zsixsjyix =
+#b_ghaim =
+#b_ciexmyoikiung =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

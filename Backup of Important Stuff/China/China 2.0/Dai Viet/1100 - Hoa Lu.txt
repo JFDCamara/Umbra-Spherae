@@ -1,0 +1,21 @@
+# 1100 - Hoa Lu
+
+# County Title
+title = c_hoa_lu
+
+# Settlements
+max_settlements = 5
+b_nam_dinh = castle
+b_hoa_lu = city
+b_ninh_binh = temple
+#b_lien_minh =
+#b_yen_luong =
+#b_thanh_loi =
+#b_nghia_thinh =
+#b_nghia_son =
+
+# Misc
+culture = viet
+religion = mahayana
+
+# History

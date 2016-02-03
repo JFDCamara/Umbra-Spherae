@@ -1,0 +1,17 @@
+# 1559 - Ladenh
+
+# County Title
+title = c_ladenh
+
+# Settlements
+max_settlements = 1
+b_ladenh = city
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

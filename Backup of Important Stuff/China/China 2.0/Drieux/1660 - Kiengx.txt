@@ -1,0 +1,19 @@
+# 1660 - Kiengx
+
+# County Title
+title = c_kiengx
+
+# Settlements
+max_settlements = 2
+b_tungkuang = city
+#b_biuxzjeng = city
+#b_ciangling =
+#b_ngogieu =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,19 @@
+# 1553 - Sje
+
+# County Title
+title = c_sje
+
+# Settlements
+max_settlements = 2
+b_chiengkrung = city
+#b_kianhsjix =
+#b_sehsra =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

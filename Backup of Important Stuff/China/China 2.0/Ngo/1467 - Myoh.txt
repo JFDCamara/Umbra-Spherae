@@ -1,0 +1,24 @@
+# 1467 - Myoh
+
+# County Title
+title = c_myoh
+
+# Settlements
+max_settlements = 4
+b_kimghrua = city
+b_lankhe = city
+b_myoxngieh = city
+#b_ngieho = 
+#b_tungjang =
+#b_phoxkrung = 
+#b_pauxlimzsih =
+#b_chjekzsyungkiung =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

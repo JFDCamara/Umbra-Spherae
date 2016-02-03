@@ -1,0 +1,19 @@
+# 1422 - Puk
+
+# County Title
+title = c_puk
+
+# Settlements
+max_settlements = 3
+b_cjinzjeng = city
+#b_limpuk =
+#b_luaidrak =
+#b_byamx =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

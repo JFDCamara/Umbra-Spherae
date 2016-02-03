@@ -1,0 +1,23 @@
+# 1455 - Njynh
+
+# County Title
+title = c_njynh
+
+# Settlements
+max_settlements = 4
+b_tando = city
+b_tanjang = city
+#b_kimdan =
+#b_jenling =
+#b_lioxzjeng =
+#b_dadkrungx =
+#b_yoisren =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

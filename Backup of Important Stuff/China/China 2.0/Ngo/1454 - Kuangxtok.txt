@@ -1,0 +1,18 @@
+# 1454 - Kuangxtok
+
+# County Title
+title = c_kuangxtok
+
+# Settlements
+max_settlements = 2
+b_kuangxtok = city
+#b_kianhbjen =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

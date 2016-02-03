@@ -1,0 +1,19 @@
+# 1552 - Myanh
+
+# County Title
+title = c_myanh
+
+# Settlements
+max_settlements = 2
+b_nomphox = city
+#b_myoxneng =
+#b_myanhliangsren =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

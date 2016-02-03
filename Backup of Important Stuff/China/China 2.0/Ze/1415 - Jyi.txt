@@ -1,0 +1,19 @@
+# 1415 - Jyi
+
+# County Title
+title = c_jyi
+
+# Settlements
+max_settlements = 3
+b_pokhaix = city
+#b_chjanglak =
+#b_chjangip = 
+#b_kohtex =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

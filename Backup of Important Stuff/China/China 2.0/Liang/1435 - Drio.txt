@@ -1,0 +1,23 @@
+# 1435 - Drio
+
+# County Title
+title = c_drio
+
+# Settlements
+max_settlements = 4
+b_chiengliu = city
+b_laian = city
+b_zyencieu = city
+#b_jangcix =
+#b_liukghop =
+#b_brakthap =
+#b_syenhruah =
+#b_drianglio =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

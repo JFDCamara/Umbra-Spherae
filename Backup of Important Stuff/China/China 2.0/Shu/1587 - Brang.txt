@@ -1,0 +1,22 @@
+# 1588 - Brang
+
+# County Title
+title = c_brang
+
+# Settlements
+max_settlements = 3
+b_kiuxlyungx = city
+b_dauhkrung = city
+#b_mungjang =
+#b_zriungneng =
+#b_chengzjeng =
+#b_kianhpiukkiung =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

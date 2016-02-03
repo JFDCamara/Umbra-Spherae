@@ -1,0 +1,23 @@
+GOD_AMANAI;Amanai;Amanai;Amanai;Amanai;Amanai;;;;;;;;;x
+GOD_TANIT;Tanit;Tanit;Tanit;Tanit;Tanit;;;;;;;;;x
+GOD_AMANIT;Amanit;Amanit;Amanit;Amanit;Amanit;;;;;;;;;x
+GOD_GURZIL;Gurzil;Gurzil;Gurzil;Gurzil;Gurzil;;;;;;;;;x
+GOD_TINJIS;Tinjis;Tinjis;Tinjis;Tinjis;Tinjis;;;;;;;;;x
+GOD_IFRI;Ifri;Ifri;Ifri;Ifri;Ifri;;;;;;;;;x
+GOD_MASTIMAN;Mastiman;Mastiman;Mastiman;Mastiman;Mastiman;;;;;;;;;x
+GOD_ROOG;Roog;Roog;Roog;Roog;Roog;;;;;;;;;x
+GOD_ROOG_SENE;Roog Sene;Roog Sene;Roog Sene;Roog Sene;Roog Sene;;;;;;;;;x
+GOD_MENDISS;Mendiss;Mendiss;Mendiss;Mendiss;Mendiss;;;;;;;;;x
+GOD_TIURAKH;Tiurakh;Tiurakh;Tiurakh;Tiurakh;Tiurakh;;;;;;;;;x
+GOD_TAKHAR;Takhar;Takhar;Takhar;Takhar;Takhar;;;;;;;;;x
+GOD_KOOX;Koox;Koox;Koox;Koox;Koox;;;;;;;;;x
+GOD_KOPE_TIATIE_CAC;Kope Tiatie Cac;Kope Tiatie Cac;Kope Tiatie Cac;Kope Tiatie Cac;Kope Tiatie Cac;;;;;;;;;x
+GOD_KOKH_KOX;Kokh Kox;Kokh Kox;Kokh Kox;Kokh Kox;Kokh Kox;;;;;;;;;x
+GOD_THE_PANGOOL;The Pangool;The Pangool;The Pangool;The Pangool;The Pangool;;;;;;;;;x
+GOD_BONDYE;Bondye;Bondye;Bondye;Bondye;Bondye;;;;;;;;;x
+GOD_PAPA_LEGBA;Papa Legba;Papa Legba;Papa Legba;Papa Legba;Papa Legba;;;;;;;;;x
+GOD_ERZULIE_FREDA;Erzulie Freda;Erzulie Freda;Erzulie Freda;Erzulie Freda;Erzulie Freda;;;;;;;;;x
+GOD_SIMBI;Simbi;Simbi;Simbi;Simbi;Simbi;;;;;;;;;x
+GOD_KOUZIN_ZAKA;Kouzin Zaka;Kouzin Zaka;Kouzin Zaka;Kouzin Zaka;Kouzin Zaka;;;;;;;;;x
+GOD_THE_MARASA;The Marasa;The Marasa;The Marasa;The Marasa;The Marasa;;;;;;;;;x
+GOD_THE_LOA;The Loa;The Loa;The Loa;The Loa;The Loa;;;;;;;;;x

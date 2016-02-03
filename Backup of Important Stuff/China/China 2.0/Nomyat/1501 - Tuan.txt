@@ -1,0 +1,20 @@
+# 1501 - Tuan
+
+# County Title
+title = c_tuan
+
+# Settlements
+max_settlements = 3
+b_kaujeu = city
+b_siihghuad = city
+#b_zjekdunghmieuh =
+#b_myoxtangghrangkiung =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

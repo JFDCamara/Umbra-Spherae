@@ -1,0 +1,19 @@
+# 1675 - Gjii
+
+# County Title
+title = c_gjii
+
+# Settlements
+max_settlements = 2
+b_boim = city
+#b_sjimdrak =
+#b_koxzjeng =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

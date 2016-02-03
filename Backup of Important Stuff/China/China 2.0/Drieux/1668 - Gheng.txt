@@ -1,0 +1,24 @@
+# 1668 - Gheng
+
+# County Title
+title = c_gheng
+
+# Settlements
+max_settlements = 4
+b_lyungkang = city
+b_nomghua = city
+b_njim = city
+#b_gioxluk =
+#b_bjenhiang =
+#b_dangling =
+#b_sragha =
+#b_nuaihkhiu =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

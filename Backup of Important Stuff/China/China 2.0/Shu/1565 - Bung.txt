@@ -1,0 +1,23 @@
+# 1565 - Bung
+
+# County Title
+title = c_bung
+
+# Settlements
+max_settlements = 4
+b_bungdrie = city
+b_ngielyungx = city
+b_biukngyo = city
+#b_jyengsren =
+#b_bungliangsren =
+#b_sieusjyix =
+#b_bungsren =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,19 @@
+# 1571 - Kuax
+
+# County Title
+title = c_kuax
+
+# Settlements
+max_settlements = 2
+b_nomchjung = city
+#b_siangnjo =
+#b_sechjung =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

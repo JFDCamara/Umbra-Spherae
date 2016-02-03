@@ -1,0 +1,24 @@
+# 1592 - Mii
+
+# County Title
+title = c_mii
+
+# Settlements
+max_settlements = 3
+b_miisren = city
+b_brangsren = city
+#b_tanlong =
+#b_simung =
+#b_chengzsjin =
+#b_byanngau =
+#b_zjekbyot =
+#b_ngiozsja =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,19 @@
+# 1530 - Biuk
+
+# County Title
+title = c_biuk
+
+# Settlements
+max_settlements = 2
+b_kiengxling = city
+#b_ngyuksra =
+#b_mjenxjang =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,19 @@
+# 1507 - Liem
+
+# County Title
+title = c_liem
+
+# Settlements
+max_settlements = 3
+b_ghopphox = city
+#b_zjekkhang =
+#b_samchuon =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

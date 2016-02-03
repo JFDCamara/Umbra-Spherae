@@ -1,0 +1,21 @@
+# 1146 - Cao Bang
+
+# County Title
+title = c_cao_bang
+
+# Settlements
+max_settlements = 4
+b_duc_xuan = castle
+b_cao_bang = city
+b_dong_khe = temple
+#b_van_trinh =
+#b_thai_cuong =
+#b_nuoc_hai =
+#b_quoc_toan =
+#b_hung_quoc =
+
+# Misc
+culture = viet
+religion = mahayana
+
+# History

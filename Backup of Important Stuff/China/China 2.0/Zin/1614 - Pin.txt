@@ -1,0 +1,20 @@
+# 1614 - Pin
+
+# County Title
+title = c_pin
+
+# Settlements
+max_settlements = 2
+b_sinbjen = city
+b_samsjyix = city
+#b_ngieluk =
+#b_yengxzjuh =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

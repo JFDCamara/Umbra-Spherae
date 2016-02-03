@@ -1,0 +1,20 @@
+# 1596 - Le
+
+# County Title
+title = c_le
+
+# Settlements
+max_settlements = 2
+b_hanhngyan = city
+#b_liangxlim =
+#b_ghonh =
+#b_gyung =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

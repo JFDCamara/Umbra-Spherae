@@ -1,0 +1,24 @@
+# 1540 - Ziengx
+
+# County Title
+title = c_ziengx
+
+# Settlements
+max_settlements = 5
+b_ziengx = city
+b_ziengxyengxbjen = city
+b_thungdaux = city
+#b_ghuaddung =
+#b_langkrung =
+#b_kuanhpaux =
+#b_njaksjyix =
+#b_taseng =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

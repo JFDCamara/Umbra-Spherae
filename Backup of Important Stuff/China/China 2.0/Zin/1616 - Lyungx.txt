@@ -1,0 +1,20 @@
+# 1616 - Lyungx
+
+# County Title
+title = c_lyungx
+
+# Settlements
+max_settlements = 2
+b_khenngyan = city
+b_khenjang = city
+#b_ngosren =
+#b_lyungxan =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

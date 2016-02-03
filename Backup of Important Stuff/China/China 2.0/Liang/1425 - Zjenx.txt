@@ -1,0 +1,19 @@
+# 1425 - Zjenx
+
+# County Title
+title = c_zjenx
+
+# Settlements
+max_settlements = 3
+b_zjenxpyox = city
+#b_ngiodai =
+#b_zjengmyox =
+#b_danghsren =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

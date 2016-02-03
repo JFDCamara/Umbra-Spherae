@@ -1,0 +1,20 @@
+# 1561 - Hing
+
+# County Title
+title = c_hing
+
+# Settlements
+max_settlements = 2
+b_zsjynhcjengh = city
+#b_driangkiox =
+#b_cehcjungh =
+#b_hingzjekmuon =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,20 @@
+# 1519 - Liux
+
+# County Title
+title = c_liux
+
+# Settlements
+max_settlements = 3
+b_mrabjen = city
+b_liuxzjeng = city
+#b_lakjyung =
+#b_liuxghuzsi =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

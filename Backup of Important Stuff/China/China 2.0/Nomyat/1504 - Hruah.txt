@@ -1,0 +1,19 @@
+# 1504 - Hruah
+
+# County Title
+title = c_hruah
+
+# Settlements
+max_settlements = 3
+b_zjeklyung = city
+#b_ngochjyen =
+#b_lenglyuk =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

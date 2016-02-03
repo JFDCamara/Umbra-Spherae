@@ -1,0 +1,19 @@
+# 1663 - Mak
+
+# County Title
+title = c_mak
+
+# Settlements
+max_settlements = 2
+b_njimkhiu = city
+#b_driangphiung =
+#b_mak =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,20 @@
+# 1426 - Zau
+
+# County Title
+title = c_zau
+
+# Settlements
+max_settlements = 3
+b_cexim = city
+#b_yanx_deng =
+#b_zsjinghzjex =
+#b_nomghrua =
+#b_denghdau =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

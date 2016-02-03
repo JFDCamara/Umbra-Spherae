@@ -1,0 +1,20 @@
+# 1552 - Khai
+
+# County Title
+title = c_khai
+
+# Settlements
+max_settlements = 2
+b_khaikrung = city
+b_uonthang = city
+#b_chiengsjyix =
+#b_sinphox =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

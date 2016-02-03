@@ -1,0 +1,24 @@
+# 1636 - Hion
+
+# County Title
+title = c_hion
+
+# Settlements
+max_settlements = 4
+b_siujyung = city
+b_denghsiang = city
+b_hionkhux = city
+#b_yonnuaih =
+#b_doghop =
+#b_zjekliengxkruan =
+#b_driengjengzsi =
+#b_jangtriungmyoxzsih =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

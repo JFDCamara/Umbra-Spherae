@@ -1,0 +1,18 @@
+# 1495 - 'ieng
+
+# County Title
+title = c_ieng
+
+# Settlements
+max_settlements = 2
+b_cjinjang = city
+#b_ghomhkuang =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

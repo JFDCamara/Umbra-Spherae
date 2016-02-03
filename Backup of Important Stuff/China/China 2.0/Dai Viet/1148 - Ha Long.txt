@@ -1,0 +1,21 @@
+# 1148 - Ha Long
+
+# County Title
+title = c_ha_long
+
+# Settlements
+max_settlements = 4
+b_viet_hung = castle
+b_ha_long = city
+b_troi = temple
+#b_thong_nhat =
+#b_cua_ong =
+#b_mong_duong =
+#b_cai_rong =
+#b_doan_ket =
+
+# Misc
+culture = viet
+religion = mahayana
+
+# History

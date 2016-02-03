@@ -1,0 +1,19 @@
+# 1547 - Byang
+
+# County Title
+title = c_byang
+
+# Settlements
+max_settlements = 2
+b_byangling = city
+#b_triuksren =
+#b_byangpauxphiung =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

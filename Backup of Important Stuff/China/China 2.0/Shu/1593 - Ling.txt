@@ -1,0 +1,19 @@
+# 1593 - Ling
+
+# County Title
+title = c_ling
+
+# Settlements
+max_settlements = 2
+b_njinzjuh = city
+#b_ciengxngenh =
+#b_sjixkianh =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,19 @@
+# 1546 - Kjyn
+
+# County Title
+title = c_kjyn
+
+# Settlements
+max_settlements = 2
+b_myoxtang = city
+#b_yonhiang =
+#b_ciexsieukiung =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

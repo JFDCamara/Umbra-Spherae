@@ -1,0 +1,20 @@
+# 1428 - Bii
+
+# County Title
+title = c_bii
+
+# Settlements
+max_settlements = 3
+b_ghraxbii = city
+#b_siukchien
+#b_chuaijax
+#b_ngioku =
+#b_dauyan =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

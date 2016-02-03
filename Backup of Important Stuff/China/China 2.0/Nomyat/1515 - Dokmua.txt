@@ -1,0 +1,22 @@
+# 1515 - Dokmua
+
+# County Title
+title = c_dokmua
+
+# Settlements
+max_settlements = 4
+b_dokmua = city
+b_leksjyix = city
+#b_lakyungx =
+#b_muagiox =
+#b_rehnganh =
+#b_piuhcju =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

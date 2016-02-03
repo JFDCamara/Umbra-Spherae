@@ -1,0 +1,20 @@
+# 1555 - Biu
+
+# County Title
+title = c_biu
+
+# Settlements
+max_settlements = 3
+b_biuling = city
+b_myoxlyung = city
+#b_lakuon =
+#b_uonsren =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

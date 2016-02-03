@@ -1,0 +1,19 @@
+# 1676 - Kau
+
+# County Title
+title = c_kau
+
+# Settlements
+max_settlements = 2
+b_denhbrak = city
+#b_muhmjeng =
+#b_sinhngie =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

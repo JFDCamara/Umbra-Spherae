@@ -1,0 +1,19 @@
+# 1582 - Zjekmuon
+
+# County Title
+title = c_zjekmuon
+
+# Settlements
+max_settlements = 2
+b_omung = city
+#b_mragho =
+#b_nomkuangx =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

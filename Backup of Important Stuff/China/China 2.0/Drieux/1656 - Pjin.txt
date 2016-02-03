@@ -1,0 +1,23 @@
+# 1656 - Pjin
+
+# County Title
+title = c_pjin
+
+# Settlements
+max_settlements = 3
+b_buothaix = city
+b_nenghaix = city
+b_cjeuan = city
+#b_thungpjin =
+#b_oldandengh =
+#b_newandengh =
+#b_lixcok =
+#b_trengzihgha =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

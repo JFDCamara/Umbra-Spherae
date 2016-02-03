@@ -1,0 +1,23 @@
+# 1653 - Pak
+
+# County Title
+title = c_pak
+
+# Settlements
+max_settlements = 4
+b_leizjeng = city
+b_pakbjen = city
+b_dangip = city
+#b_kaudang =
+#b_kohgha =
+#b_paklaithan =
+#b_kuangxbjen =
+#b_hingliih =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

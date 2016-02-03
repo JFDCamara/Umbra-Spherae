@@ -1,0 +1,20 @@
+# 1618 - Keng
+
+# County Title
+title = c_keng
+
+# Settlements
+max_settlements = 2
+b_pauxdengh = city
+b_driangmyox = city
+#b_lengthai = city
+#b_liangngyan =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

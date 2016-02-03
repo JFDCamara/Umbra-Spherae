@@ -1,0 +1,20 @@
+# 1624 - Hi
+
+# County Title
+title = c_hi
+
+# Settlements
+max_settlements = 2
+b_dekdaux = city
+b_khanglak = city
+#b_yoihngyan =
+#b_yoxyangmieuh =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,19 @@
+# 1601 - Ghrex
+
+# County Title
+title = c_ghrex
+
+# Settlements
+max_settlements = 1
+b_ghrex = city
+#b_anip =
+#b_myonhix =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

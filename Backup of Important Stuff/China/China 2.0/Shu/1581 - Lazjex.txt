@@ -1,0 +1,18 @@
+# 1581 - Lazjex
+
+# County Title
+title = c_lazjex
+
+# Settlements
+max_settlements = 2
+b_kyoilai = city
+#b_jeu =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+
