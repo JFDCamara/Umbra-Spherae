@@ -1,0 +1,24 @@
+#Golden Horde
+1271.12.18=
+{
+	holder = 125508
+	effect={
+		insert_title_history=k_golden_horde
+	}
+}
+1280.1.2=
+{
+holder=125509
+}
+1287.1.2=
+{
+holder=125511
+}
+1291.1.2=
+{
+holder=125512
+}
+1312.1.2=
+{
+holder=480000
+}

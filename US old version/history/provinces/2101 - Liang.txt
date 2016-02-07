@@ -1,0 +1,24 @@
+# 1560 - Liang
+
+# County Title
+title = c_liang
+
+# Settlements
+max_settlements = 5
+b_jangbjenkruan = castle
+b_nomdriengh = city
+b_pauzjeng = city
+b_denghkyonsren = temple
+#b_zjengkoh =
+#b_se =
+#b_driangliux =
+#b_daksjyix =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,17 @@
+# 1878 - Ergun
+
+# County Title
+title = c_ergun
+
+# Settlements
+max_settlements = 4
+b_erguna = tribal
+b_sanhezhen = tribal
+#b_genhe =
+#b_jinhezhen =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

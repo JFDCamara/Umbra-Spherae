@@ -1,0 +1,67 @@
+#Lawalata Dynasty (placeholders)
+750.1.1={
+	holder=1000205089 #Dayoh
+}
+780.1.1={
+	holder=1000205090 #Egam
+}
+810.1.1={
+	holder=1000205091 #Kembau
+}
+840.1.1={
+	holder=1000201661 #Ogotan
+}
+870.1.1={
+	holder=1000201662 #Ngangi
+}
+900.1.1={
+	holder=1000201663 #Makaliwe
+}
+930.1.1={
+	holder=1000201664 #Lumowa
+}
+960.1.1={
+	holder=1000201665 #Lumunon
+}
+990.1.1={
+	holder=1000201666 #Sariowan
+}
+1020.1.1={
+	holder=1000201667 #Wawolangi
+}
+1050.1.1={
+	holder=1000076147 #Saleh
+}
+1080.1.1={
+	holder=1000201668 #Umboh
+}
+1110.1.1={
+	holder=1000201669 #Terok
+}
+1140.1.1={
+	holder=1000201670 #Ogi
+}
+1170.1.1={
+	holder=1000201671 #Mailangkai
+}
+1200.1.1={
+	holder=1000201672 #Kumendong
+}
+1222.1.1={
+	liege="e_java"
+}
+1230.1.1={
+	holder=1000201673 #Kumayas
+}
+1260.1.1={
+	holder=1000201674 #Dusaw
+}
+1290.1.1={
+	holder=1000201675 #Egam
+}
+1320.1.1={
+	holder=1000201676 #Pusung
+}
+1350.1.1={
+	holder=1000201677 #Piay
+}

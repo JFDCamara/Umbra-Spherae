@@ -1,0 +1,20 @@
+# 1739 - Maqen
+
+# County Title
+title = c_maqen
+
+# Settlements
+max_settlements = 4
+b_maqen = tribal
+#b_yegainnyin = temple
+#b_wenquan = castle
+#b_rabyog = castle
+b_markuthang = city
+#b_rebkong = castle
+#b_ziketan = city
+
+# Misc
+culture = tangut
+religion = rmagao
+
+# History

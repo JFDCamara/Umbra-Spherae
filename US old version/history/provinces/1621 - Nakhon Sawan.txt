@@ -1,0 +1,21 @@
+# 1107 - Nakhon Sawan
+
+# County Title
+title = c_nakhon_sawan
+
+# Settlements
+max_settlements = 4
+b_lat_yao = castle
+b_nakhon_sawan = city
+b_mae_wong = temple
+#b_kok_phra =
+#b_phayuha_khiri =
+#b_banphot_phisai =
+#b_mae_poen =
+#b_chum_ta_bong =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

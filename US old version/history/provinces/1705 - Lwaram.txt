@@ -1,0 +1,21 @@
+# 1191 - Lwaram
+
+# County Title
+title = c_lwaram
+
+# Settlements
+max_settlements = 6
+b_kambang_putih = castle
+b_lwaram = city
+b_jepon = temple
+b_blora = city
+#b_sambong =
+#b_kedungtuban =
+#b_ngawen =
+#b_bulu =
+
+# Misc
+culture = javanese
+religion = hindu
+
+# History

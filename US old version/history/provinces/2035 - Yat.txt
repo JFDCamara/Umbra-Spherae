@@ -1,0 +1,24 @@
+# 1462 - Yat
+
+# County Title
+title = c_yat
+
+# Settlements
+max_settlements = 5
+b_srenim = castle
+b_khadke = city
+b_seusren = city
+b_zjanghngyo = city
+#b_jojeu =
+#b_cjogiih = 
+#b_zjemx =
+#b_sinchjang =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

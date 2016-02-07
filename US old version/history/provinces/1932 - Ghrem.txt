@@ -1,0 +1,19 @@
+# 1793 - Ghrem
+
+# County Title
+title = c_ghrem
+
+# Settlements
+max_settlements = 5
+b_ghrembjen = castle
+b_ghremthungyanx = city
+b_liuxgha = city
+#b_jencin =
+#b_ghremkyoinjin =
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+1050.1.1 = { culture = jurchen }

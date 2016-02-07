@@ -1,0 +1,19 @@
+#Ylaya Dynasty (rulers of Madyaas)
+1200.1.1={
+	holder=1000201876 #Puti
+}
+1230.1.1={
+	holder=1000201877 #Sumakwel
+}
+1260.1.1={
+	holder=1000201878 #Bangkaya
+}
+1290.1.1={
+	holder=1000201879 #Paiburong
+}
+1320.1.1={
+	holder=1000201880 #Balengkaka
+}
+1350.1.1={
+	holder=1000201881 #Kalantiaw
+}

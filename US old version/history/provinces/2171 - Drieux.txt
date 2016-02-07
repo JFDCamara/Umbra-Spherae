@@ -1,0 +1,24 @@
+# 1667 - Drieux
+
+# County Title
+title = c_drieux
+
+# Settlements
+max_settlements = 5
+b_bjenkik = castle
+b_nengcinh = city
+b_prakhiang = city
+b_liungbjen = city
+#b_limzjeng =
+#b_kauip =
+#b_canhghuang =
+#b_praklimzsih =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

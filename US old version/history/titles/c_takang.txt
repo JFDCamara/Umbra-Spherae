@@ -1,0 +1,67 @@
+#Tilman Dynasty (placeholders)
+750.1.1={
+	holder=1000205035 #Padu
+}
+780.1.1={
+	holder=1000205036 #Punjul
+}
+810.1.1={
+	holder=1000205037 #Labuh
+}
+840.1.1={
+	holder=1000201559 #Selaka
+}
+870.1.1={
+	holder=1000201560 #Tresna
+}
+900.1.1={
+	holder=1000201561 #Upadi
+}
+930.1.1={
+	holder=1000201562 #Saru
+}
+960.1.1={
+	holder=1000201563 #Priya
+}
+990.1.1={
+	holder=1000201564 #Owel
+}
+1020.1.1={
+	holder=1000201565 #Nyoman
+}
+1050.1.1={
+	holder=1000076128 #Kemba
+}
+1080.1.1={
+	holder=1000201566 #Purwanto
+}
+1110.1.1={
+	holder=1000201567 #Nyata
+}
+1140.1.1={
+	holder=1000201568 #Lembah
+}
+1170.1.1={
+	holder=1000201569 #Labuh
+}
+1200.1.1={
+	holder=1000201570 #Karma
+}
+1230.1.1={
+	holder=1000201571 #Mitra
+}
+1260.1.1={
+	holder=1000201572 #Padang
+}
+1290.1.1={
+	holder=1000201573 #Martani
+}
+1293.1.1={
+	liege="e_java"
+}
+1320.1.1={
+	holder=1000201574 #Prabawa
+}
+1350.1.1={
+	holder=1000201575 #Kemba
+}

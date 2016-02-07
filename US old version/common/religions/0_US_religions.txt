@@ -1,0 +1,589 @@
+chinese_religion = { #Now combined all Far Eastern religions
+	has_coa_on_barony_only = yes
+	graphical_culture = indiangfx
+	playable = yes
+	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+
+	ai_convert_same_group = 1 # try to convert if ai_zeal is high
+	ai_convert_other_group = 2	# never try to convert
+
+	# Names given only to Buddhist characters (base names)
+	male_names = {
+	}
+	female_names = {
+	}
+	
+#Eastern Folk Religions
+	rmagao = { #Qiang folk religion
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 110
+
+		color = { 0.7 0.9 0.4 }
+		
+		high_god_name = GOD_MUBYASEI
+		god_names = {
+			GOD_MUBYASEI GOD_ABBA_CHI GOD_ABBA_SEI GOD_SHAN_WANG
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		scripture_name = THE_LEGENDS
+		priest_title = DUANGONG
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+		
+	}
+	shenjiao = { #Chinese folk religion
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 110
+
+		color = { 1.0 0.0 0.0 }
+		
+		high_god_name = GOD_SHANGDI
+		god_names = {
+			GOD_SHANGDI GOD_PANGU GOD_FUXI GOD_NUWA GOD_CHANG'E GOD_SHENNONG GOD_HUANGDI GOD_GUAN_YU GOD_CAISHEN GOD_THE_JIUHUANG_DAI
+			GOD_QIYE GOD_BAYE GOD_YU_HUANG GOD_TUDI_GONG GOD_WENCHANGDI GOD_XI_WANGMU GOD_YUEXIA_LAOREN GOD_ZAOSHEN
+			GOD_MAZU GOD_SHOUSHEN GOD_FUSHEN GOD_LUSHEN
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		scripture_name = THE_ZHIGUAI
+		priest_title = WU
+		piety_name = XIAO
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+	benzhujiao = { #Bai folk religion
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 110
+
+		color = { 1.0 0.0 0.0 }
+		
+		high_god_name = GOD_SHANGDI
+		god_names = {
+			GOD_SHANGDI GOD_PANGU GOD_FUXI GOD_NUWA GOD_CHANG'E GOD_SHENNONG GOD_HUANGDI GOD_GUAN_YU GOD_CAISHEN GOD_THE_JIUHUANG_DAI
+			GOD_QIYE GOD_BAYE GOD_YU_HUANG GOD_TUDI_GONG GOD_WENCHANGDI GOD_XI_WANGMU GOD_YUEXIA_LAOREN GOD_ZAOSHEN
+			GOD_MAZU GOD_SHOUSHEN GOD_FUSHEN GOD_LUSHEN
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		scripture_name = THE_ZHIGUAI
+		priest_title = WU
+		piety_name = XIAO
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+	bimojiao = { #Yi(Lolo) folk religion
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 110
+
+		color = { 1.0 0.0 0.0 }
+		
+		high_god_name = GOD_THAGYAMIN
+		god_names = {
+			GOD_THAGYAMIN
+		}
+		evil_god_names = {
+			YAMA
+		}
+
+		scripture_name = THE_LEGENDS
+		priest_title = BIMO
+		piety_name = KARMA
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = yes
+		priests_can_marry=yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+	ua_dab = { #Miao-Hmong folk religion
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 110
+
+		color = { 1.0 0.0 0.0 }
+		
+		high_god_name = GOD_YAWM_SAUB
+		god_names = {
+			GOD_YAWM_SAUB GOD_SIV_YIS GOD_XWM_KAB GOD_NPLOOJ_LWG GOD_DAB_XWM_KAB GOD_DAB_POG GOD_ZAJ_LAUG GOD_POJ_NTXOOG
+			GOD_YAJ_YUAM GOD_XOB GOD_NKAUJ_HNUB GOD_NRAUG_HLIS GOD_TXIV_YAWG
+		}
+		evil_god_names = {
+			NTXWJ_NYUG NYUJ_VAJ_TUAM_TEEM
+		}
+
+		scripture_name = THE_LEGENDS
+		priest_title = TXIV_NEEB
+		piety_name = XIAO
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+	nugyauq = { #Zhuang folk religion
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 110
+
+		color = { 0.7 0.9 0.4 }
+		
+		high_god_name = GOD_BULUOTUO
+		god_names = {
+			GOD_BULUOTUO GOD_MEHOA GOD_MOLUJIA GOD_SHESHEN GOD_TUDIGONG GOD_LUNGZVUENGZ
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		scripture_name = THE_ZHIGUAI
+		priest_title = MU
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+	thangiao = { #Vietnamese folk religion
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 110
+
+		color = { 0.7 0.9 0.4 }
+		
+		high_god_name = GOD_CAO_DAI
+		god_names = {
+			GOD_THAN GOD_CAO_DAI GOD_KINH_DUONG_VUONG GOD_LAC_LONG_QUAN GOD_AU_CO GOD_THE_FOUR_IMMORTALS GOD_THE_FOUR_PALACES_GODDESSES
+			GOD_SON_TINH GOD_THUY_TINH GOD_BA_CHUA_KHO GOD_BA_CHUA_XU GOD_NGOC_HOANG GOD_THANH_MAU_LIEU_HANH
+		}
+		evil_god_names = {
+			DIEM_VUONG
+		}
+
+		scripture_name = THE_THAN_TRUYEN
+		priest_title = SU
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+	shingyo = { #Korean folk religion
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 115
+
+		color = { 0.0 0.3 0.4 }
+		
+		high_god_name = GOD_HANEUL-NIM
+		god_names = {
+			GOD_HANEUL-NIM GOD_DALSOON-NIM GOD_HAESIK-NIM GOD_CHEONHA_DAEJANGGUN GOD_JIHA_YEOJANGGUN GOD_YONGWANG GOD_HWANIN
+			GOD_HWANUNG GOD_UNGNYEO GOD_DANGUN GOD_THE_SEON-NYEO GOD_THE_GWISHIN GOD_YUL-RYEO GOD_MAGO GOD_YEONGDEUNGSIN
+		}
+		evil_god_names = {
+			YEOMRA 
+		}
+
+		scripture_name = THE_SAMGUK_YUSA
+		priest_title = MU
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+	nihon_shinto = {
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 116
+
+		color = { 0.8 0.5 0.1 }
+		
+		high_god_name = GOD_AMENOMINAKANUSHI
+		god_names = {
+			GOD_KAMI GOD_AMATERASU GOD_SARUTAHIKO GOD_IZANAGI GOD_IZANAMI GOD_MICHIKAESHI GOD_SASHIKUNI GOD_AME-NO-UZUME
+			GOD_INARI GOD_SUSANOO GOD_TSUKUYOMI GOD_AME-NO-KOYANE GOD_FUJIN GOD_HACHIMAN GOD_NINIGI GOD_OMOIKANE GOD_RAIJIN
+			GOD_RYUJIN GOD_SUIJIN GOD_SUKUNA-BIKO-NA GOD_TENJIN GOD_OTOHIME GOD_UKE_MOCHI GOD_AMATSU-MIABOSHI GOD_KONOHANASAKUYA-HIME
+			GOD_OHOYAMATSUMI GOD_MITAMA GOD_KAGU-TSUCHI GOD_WATATSUMI GOD_KURAOKAMI 
+		}
+		evil_god_names = {
+			ENMA
+		}
+
+		scripture_name = THE_KOJIKI
+		priest_title = KANNUSHI
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry= yes
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+	ryukyu_shinto = {
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 118
+
+		color = { 0.8 0.3 0.1 }
+		
+		high_god_name = GOD_AMAMIKIYO
+		god_names = {
+			GOD_KAMI GOD_AMAMIKIYO GOD_FUTUCHI GOD_RYUGU GOD_UTIN GOD_JIICJI GOD_HINUKAN GOD_FUURU_NU_KAMI
+		}
+		evil_god_names = {
+			ENMA
+		}
+
+		scripture_name =THE_IROSETSUDEN
+		priest_title = KAMINCHU
+
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+
+#Chinese Philosophy Focus
+#Taoism schools
+	tao = { #Zheng Yi Dào- Way of Orthodox Unity
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon =111
+
+		color = { 0.4 0.1 0.1 }
+		
+		high_god_name = GOD_SHANGDI
+		god_names = {
+			GOD_YUQING GOD_SHANGQING GOD_TAIQING GOD_GUAN_YU GOD_THE_BAXIAN GOD_HUYE GOD_HUANGDI GOD_XI_WANGMU GOD_YU_HUANG
+			GOD_CHANG'E GOD_SONGZI_NIANGNIANG GOD_MA_GU
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		scripture_name = THE_DAOZANG
+		priest_title = DAOSHI
+		piety_name = XIAO
+
+		character_modifier = {
+			learning = 4
+		}
+		
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+	quanzhen = { #All True Tao
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 112
+
+		color = { 0.4 0.1 0.2 }
+
+		parent = tao
+
+		character_modifier = {
+			learning = 4
+		}
+		
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+
+	}
+	shangqing = { #Supreme Clarity Tao
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 113
+
+		color = { 0.4 0.1 0.3 }
+
+		parent = tao
+
+		character_modifier = {
+			learning = 4
+		}
+		
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+
+#Scholastic Philosophies (Confucian, Legalism and Mohism)
+	confucian = {
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 114
+
+		color = { 0.9 0.7 0.0 }
+		
+		high_god_name = GOD_SHANGDI
+		god_names = {
+			GOD_KONG_FUZI  GOD_MENG_ZI GOD_THE_FOUR_CORRELATES GOD_THE_TWELVE_PHILOSOPHERS
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		character_modifier = {
+			learning = 5
+		}
+
+		scripture_name = THE_SHISAN_JING
+		priest_title = RU
+		piety_name = XIAO
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+	legalist = {
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 114
+
+		color = { 0.8 0.7 0.3 }
+		
+		high_god_name = GOD_SHANGDI
+		god_names = {
+			GOD_SHANG_YANG GOD_QIN_SHI_HUANGDI GOD_HAN_FEI GOD_SHEN_DAO GOD_SHEN_BUHAI
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		character_modifier = {
+			learning = 5
+		}
+
+		scripture_name = THE_SHANG_JUN_SHU
+		priest_title = RU
+		piety_name = XIAO
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+	mohist = {
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 114
+
+		color = { 0.8 0.5 0.1 }
+		
+		high_god_name = GOD_SHANGDI
+		god_names = {
+			GOD_MOZI 
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		character_modifier = {
+			learning = 5
+			diplomacy = 4
+		}
+
+		scripture_name = THE_MOZI_SHU
+		priest_title = MO
+		piety_name = JIAN_AI
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism_group
+
+	}
+}

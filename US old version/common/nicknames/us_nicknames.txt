@@ -1,0 +1,17 @@
+#New
+nick_the_glorious = {}
+nick_the_eunuch = {}
+nick_the_fuller = {}
+nick_the_virtuous = {}
+nick_the_oxite = {}
+nick_the_evangelist = {}
+nick_the_merciful = {}
+nick_the_illuminator = {}
+nick_the_gramatic = {}
+nick_the_builder = {}
+nick_the_philosopher = {}
+nick_the_historian = {}
+nick_the_martyrophile = {}
+nick_the_graceful = {}
+nick_the_affluent = {}
+nick_the_learned = {}

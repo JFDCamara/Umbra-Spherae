@@ -1,0 +1,21 @@
+# 1657 - Jeng
+
+# County Title
+title = c_jeng
+
+# Settlements
+max_settlements = 5
+b_siukneng = castle
+b_ghakrenh = city
+b_sjyukzjeng = city
+b_lakzjuh = city
+#b_poklim =
+#b_kiengxzjeng =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

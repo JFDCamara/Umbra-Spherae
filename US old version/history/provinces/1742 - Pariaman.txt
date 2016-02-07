@@ -1,0 +1,21 @@
+# 1228 - Pariaman
+
+# County Title
+title = c_pariaman
+
+# Settlements
+max_settlements = 5
+b_nan_sabaris = castle
+b_pariaman = city
+b_koto_sungai_sarik = temple
+#b_patamuan =
+#b_kayu_tanam =
+#b_koto_timur =
+#b_sungai_limau =
+#b_batang_gasan =
+
+# Misc
+culture = minangkabau
+religion = sumatran_religion
+
+# History

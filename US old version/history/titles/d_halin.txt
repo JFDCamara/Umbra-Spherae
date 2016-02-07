@@ -1,0 +1,13 @@
+#Halin Dynasty (Pyu City State)
+750.1.1 = {
+	holder=1000203912 #Thuye
+}
+780.1.1 = {
+	holder=1000203913 #Khan-Lat
+}
+810.1.1 = {
+	holder=1000203914 #Htun-Taik
+}
+846.1.1 = {
+	holder=0
+}

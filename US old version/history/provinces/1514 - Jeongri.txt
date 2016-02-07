@@ -1,0 +1,17 @@
+# 1913 - Jeongri
+
+# County Title
+title = c_jeongri
+
+# Settlements
+max_settlements = 2
+b_jeongju_jeongri = tribal
+b_banju = tribal
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+
+1050.1.1 = { culture = jurchen }

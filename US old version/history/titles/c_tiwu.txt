@@ -1,0 +1,67 @@
+#Alkatiri Dynasty (placeholders)
+750.1.1={
+	holder=1000205020 #Dasa
+}
+780.1.1={
+	holder=1000205021 #Kambali
+}
+810.1.1={
+	holder=1000205022 #Owel
+}
+840.1.1={
+	holder=1000201525 #Prabawa
+}
+870.1.1={
+	holder=1000201526 #Tuladha
+}
+900.1.1={
+	holder=1000201527 #Limar
+}
+930.1.1={
+	holder=1000201528 #Jaeman
+}
+960.1.1={
+	holder=1000201529 #Panembrama
+}
+990.1.1={
+	holder=1000201530 #Rosman
+}
+1020.1.1={
+	holder=1000201531 #Tanaya
+}
+1050.1.1={
+	holder=1000076126 #Jatmiko
+}
+1080.1.1={
+	holder=1000201532 #Wirya
+}
+1110.1.1={
+	holder=1000201533 #Sura
+}
+1140.1.1={
+	holder=1000201534 #Jayadi
+}
+1170.1.1={
+	holder=1000201535 #Gatuk
+}
+1200.1.1={
+	holder=1000201536 #Gepeng
+}
+1230.1.1={
+	holder=1000201537 #Waja
+}
+1260.1.1={
+	holder=1000201538 #Martana
+}
+1290.1.1={
+	holder=1000201539 #Gangsar
+}
+1293.1.1={
+	liege="e_java"
+}
+1320.1.1={
+	holder=1000201540 #Takat
+}
+1350.1.1={
+	holder=1000201541 #Pupus
+}

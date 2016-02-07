@@ -1,0 +1,24 @@
+# 1819 - Cheong
+
+# County Title
+title = c_cheong
+
+# Settlements
+max_settlements = 5
+b_cheong = castle
+b_chungcheong = castle
+b_jecheon = castle
+#b_goesan =
+#b_okcheon =
+#b_enmseong =
+#b_cheongwon =
+#b_danyang =
+
+
+# Misc
+culture = baekje
+religion = shingyo
+
+# History
+
+936.1.1 = { culture = korean}

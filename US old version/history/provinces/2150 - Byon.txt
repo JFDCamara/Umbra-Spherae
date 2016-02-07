@@ -1,0 +1,23 @@
+# 1639 - Byon
+
+# County Title
+title = c_byon
+
+# Settlements
+max_settlements = 4
+b_segha = castle
+b_kraihhiu = city
+b_bjenjeu = city
+#b_hrauhngieh =
+#b_lengzjek =
+#b_kuaksranh =
+#b_jangliangpokkruan = castle
+#b_jangliangnomkruan = castle
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,24 @@
+# 1572 - Cix
+
+# County Title
+title = c_cix
+
+# Settlements
+max_settlements = 5
+b_chii = castle
+b_zsjah-ghung = city
+b_jemdeng = city
+b_biuzjeng = city
+#b_triungkrung =
+#b_dungsren =
+#b_tungkruan =
+#b_pyoio =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

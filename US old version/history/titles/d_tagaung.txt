@@ -1,0 +1,13 @@
+#Tagaung Dynasty (Pyu City State)
+750.1.1 = {
+	holder=1000203915 #Wara
+}
+780.1.1 = {
+	holder=1000203916 #Munika
+}
+810.1.1 = {
+	holder=1000203917 #Dewata
+}
+846.1.1 = {
+	holder=0
+}

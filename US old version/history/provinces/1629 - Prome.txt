@@ -1,0 +1,21 @@
+# 1115 - Prome
+
+# County Title
+title = c_prome
+
+# Settlements
+max_settlements = 4
+b_sinde = castle
+b_prome = city
+b_tititut = temple
+#b_sinmizwe =
+#b_nwegauk =
+#b_kyadet =
+#b_thegon =
+#b_shwedaung =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

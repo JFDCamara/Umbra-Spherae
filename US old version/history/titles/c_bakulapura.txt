@@ -1,0 +1,67 @@
+#Muhidin Dynasty (placeholders)
+750.1.1={
+	holder=1000205011 #Wira
+}
+780.1.1={
+	holder=1000205012 #Selasa
+}
+810.1.1={
+	holder=1000205013 #Fajar
+}
+840.1.1={
+	holder=1000201253 #Indera
+}
+870.1.1={
+	holder=1000201254 #Jati
+}
+900.1.1={
+	holder=1000201255 #Jaya
+}
+930.1.1={
+	holder=1000201256 #Budiarto
+}
+960.1.1={
+	holder=1000201257 #Anuar
+}
+990.1.1={
+	holder=1000201258 #Atan
+}
+1020.1.1={
+	holder=1000201259 #Agung
+}
+1050.1.1={
+	holder=1000076204 #Ungu
+}
+1080.1.1={
+	holder=1000201260 #Adi
+}
+1110.1.1={
+	holder=1000201261 #Adiputra
+}
+1140.1.1={
+	holder=1000201262 #Bongsu
+}
+1170.1.1={
+	holder=1000201263 #Bachok
+}
+1200.1.1={
+	holder=1000201264 #Bestari
+}
+1222.1.1={
+	liege="e_java"
+}
+1230.1.1={
+	holder=1000201265 #Bintang
+}
+1260.1.1={
+	holder=1000201266 #Ishak
+}
+1290.1.1={
+	holder=1000201267 #Rabu
+}
+1320.1.1={
+	holder=1000201268 #Putra
+}
+1350.1.1={
+	holder=1000201269 #Perang
+}

@@ -1,0 +1,22 @@
+# 1838 - Kai
+
+# County Title
+title = c_kai
+
+# Settlements
+max_settlements = 4
+b_kofu = castle
+b_ishiwa = castle
+
+#b_tsuru = castle
+#b_yatsushiro = castle
+#b_koma = temple
+#b_yamanashi = castle
+#b_minobu = castle
+#b_gunnai = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

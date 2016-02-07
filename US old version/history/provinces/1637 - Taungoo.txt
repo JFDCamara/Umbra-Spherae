@@ -1,0 +1,21 @@
+# 1123 - Taungoo
+
+# County Title
+title = c_taungoo
+
+# Settlements
+max_settlements = 4
+b_kaytumati = castle
+b_taungoo = city
+b_oktwin = temple
+#b_inyagyi =
+#b_tantabin =
+#b_tabye =
+#b_dothaung =
+#b_kanbaukkyi =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

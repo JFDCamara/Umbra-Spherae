@@ -1,0 +1,21 @@
+# 1331 - Oshima
+
+# County Title
+title = c_oshima
+
+# Settlements
+max_settlements = 5
+b_oshima = tribal
+b_hiyama = tribal
+
+#b_iburi = castle
+#b_tokapuchi = castle
+#b_hidaka = castle
+#b_shiribeshi = castle
+
+
+# Misc
+culture = ainu
+religion = ainu_pantheism
+
+# History

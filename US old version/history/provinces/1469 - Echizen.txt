@@ -1,0 +1,22 @@
+# 1845 - Echizen
+
+# County Title
+title = c_echizen
+
+# Settlements
+max_settlements = 5
+b_imatachi = castle
+b_tsuruga = city
+b_kehi = temple
+
+#b_asuwa = castle
+#b_niu = castle
+#b_ono = castle
+#b_katsuyama = castle
+#b_oi = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

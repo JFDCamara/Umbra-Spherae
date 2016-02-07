@@ -1,0 +1,21 @@
+# 1135 - Buon Ma Thuot
+
+# County Title
+title = c_buon_ma_thuot
+
+# Settlements
+max_settlements = 4
+b_cu_ebur = castle
+b_buon_ma_thuot = city
+b_tan_an = temple
+#b_hoa_thuan =
+#b_ea_drong =
+#b_cu_bao =
+#b_buon_ho =
+#b_quang_phu =
+
+# Misc
+culture = cham
+religion = hindu
+
+# History

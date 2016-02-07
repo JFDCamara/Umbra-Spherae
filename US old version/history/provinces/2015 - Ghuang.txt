@@ -1,0 +1,23 @@
+# 1439 - Ghuang
+
+# County Title
+title = c_ghuang
+
+# Settlements
+max_settlements = 4
+b_ghuangkang = castle
+b_ghuangpie = city
+b_mrazjeng = city
+#b_ziemxchjyn =
+#b_ziemxsjyix =
+#b_laden =
+#b_kuangxceh =
+#b_ghuangmuai =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

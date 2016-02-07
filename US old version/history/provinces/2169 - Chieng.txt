@@ -1,0 +1,23 @@
+# 1665 - Chieng
+
+# County Title
+title = c_chieng
+
+# Settlements
+max_settlements = 6
+b_tangzjeng = castle
+b_gienneng = city
+b_teuhthai = castle
+b_eastdukliu = castle
+b_westdukliu = castle
+#b_yanxgieu =
+#b_mukmuon =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

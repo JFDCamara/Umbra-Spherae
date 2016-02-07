@@ -1,0 +1,21 @@
+# 1095 - Indrapura
+
+# County Title
+title = c_indrapura
+
+# Settlements
+max_settlements = 5
+b_hoa_chau = castle
+b_indrapura = city
+b_hoa_khanh_bac = temple
+b_tho_quang = city
+#b_hoa_hai =
+#b_hoi_an =
+#b_nam_phuoc =
+#b_hoa_phu =
+
+# Misc
+culture = cham
+religion = hindu
+
+# History

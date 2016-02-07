@@ -5071,46 +5071,6 @@ k_minyag = {
 	color2={ 255 255 255 }
 }
 
-k_confucian = {
-	
-	capital = 2002 # Jyenx
-
-	color={ 230 179 0 }
-	
-	title = "DESCENDANT_OF_CONFUCIUS"
-	foa = "DESCENDANT_OF_CONFUCIUS_FOA"
-	short_name = yes
-
-	# Always exists
-	landless = yes
-	
-	# Controls a religion
-	controls_religion = confucian
-	
-	# Cannot be held as a secondary title
-	#primary = yes
-	
-}
-
-k_tao = {
-	
-	capital = 2045 # Sinh
-	
-	title = "CELESTIAL_MASTER"
-	foa = "CELESTIAL_MASTER_FOA"
-	short_name = yes
-
-	# Always exists
-	landless = yes
-	
-	# Controls a religion
-	controls_religion = tao
-	
-	# Cannot be held as a secondary title
-	#primary = yes
-	
-}
-
 #k_gansu = {
 
 #	capital = 1912 # Liang

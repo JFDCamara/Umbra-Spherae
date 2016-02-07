@@ -1,0 +1,20 @@
+# 1916 - Dongpyeong
+
+# County Title
+title = c_dongpyeong
+
+# Settlements
+max_settlements = 5
+b_ilju = tribal
+b_mongju = tribal
+#b_taju =
+#b_heukju =
+#b_biju =
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+
+1050.1.1 = { culture = jurchen }

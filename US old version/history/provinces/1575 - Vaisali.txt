@@ -1,0 +1,21 @@
+# 1044 - Vaisali
+
+# County Title
+title = c_waithali
+
+# Settlements
+max_settlements = 4
+b_sittwe = castle
+b_waithali = city
+b_kangyaung = temple
+#b_pyaingdaung =
+#b_kyaukpyinseik =
+#b_pauktaw =
+#b_ponnagyun =
+#b_kanbyin =
+
+# Misc
+culture = bamar
+religion = buddhist
+
+# History

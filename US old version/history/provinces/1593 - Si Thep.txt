@@ -1,0 +1,21 @@
+# 1079 - Si Thep
+
+# County Title
+title = c_si_thep
+
+# Settlements
+max_settlements = 4
+b_wichian_buri = castle
+b_si_thep = city
+b_bueng_sam_phan = temple
+#b_nong_phai =
+#b_chon_daen =
+#b_kan_chu =
+#b_phet_lakhon =
+#b_ban_kluai =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

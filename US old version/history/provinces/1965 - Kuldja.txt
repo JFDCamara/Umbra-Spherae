@@ -1,0 +1,18 @@
+# 1306 - Kuldja
+
+# County Title
+title = c_kuldja
+
+# Settlements
+max_settlements = 5
+b_apaer = tribal
+b_kuldja = city
+b_ili = city
+#b_djideli =
+#b_dikankairat =
+
+# Misc
+culture = turkish
+religion = tengri_pagan
+
+# History

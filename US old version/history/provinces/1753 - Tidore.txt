@@ -1,0 +1,21 @@
+# 1239 - Tidore
+
+# County Title
+title = c_tidore
+
+# Settlements
+max_settlements = 5
+b_cobodu = castle
+b_tidore = city
+b_doyado = city
+#b_maftutu =
+#b_gamgau =
+#b_mafugoya =
+#b_rum =
+#b_mareko =
+
+# Misc
+culture = malukan
+religion = hindu
+
+# History

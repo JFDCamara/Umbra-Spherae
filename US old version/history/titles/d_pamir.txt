@@ -1,0 +1,66 @@
+#Sarikol
+727.1.1 = {
+	liege = "d_pamir"
+	holder = 166696
+}
+763.1.1 = {
+	holder = 166697
+}
+800.1.1 = {
+	holder = 166699
+}
+
+#Kayani Dynasty (pre-Trakhan dynasty)
+840.1.1= {
+	holder=1000076296 #Kark
+}
+860.1.1= {
+	holder=1000076295 #Sau-Malik I
+}
+880.1.1= {
+	holder=1000076294 #Shah-Malik
+}
+900.1.1= {
+	holder=1000076293 #Deng-Malik
+}
+940.1.1= {
+	holder=1000076292 #Khusraw-Khan
+}
+997.1.1= {
+	holder=1000076217 #Haydar-Khan
+}
+1057.1.1= {
+	holder=1000076218 #Nur-Khan
+}
+1127.1.1= {
+	holder=1000076219 #Shah-Mirza
+}
+1205.1.1= {
+	holder=1000076297 #Tartora-Khan
+}
+1227.12.2={
+	liege="k_chagatai"
+}
+
+#Darel Dynasty (Queen that seized power)
+1236.1.1= {
+	holder=1000076300 #Shah-Azize (fictional name)
+}
+
+#Trakhan Dynasty
+1241.1.1= {
+	holder=1000076299 #Torra-Khan
+}
+1271.12.18={
+	liege="e_chagatai"
+}
+
+1275.1.1= {
+	holder=1000083309 #Sau-Malik II
+}
+1345.1.1= {
+	holder=1000083310 #Chilis-Khan
+}
+1359.1.1= {
+	holder=1000083315 #Rajah-Firdaws-Khan
+}

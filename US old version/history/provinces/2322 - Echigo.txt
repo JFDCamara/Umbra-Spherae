@@ -1,0 +1,22 @@
+# 1832 - Echigo
+
+# County Title
+title = c_echigo
+
+# Settlements
+max_settlements = 5
+b_kubiki = castle
+b_naoetsu = city
+b_oguni = castle
+
+#b_uonuma = castle
+#b_sado = castle
+#b_kanbara = castle
+#b_iwafune = castle
+#b_koshi = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

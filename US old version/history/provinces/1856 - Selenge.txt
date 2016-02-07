@@ -1,0 +1,18 @@
+# 1852 - Selenge
+
+# County Title
+title = c_selenge
+
+# Settlements
+max_settlements = 4
+b_yeruu = tribal
+b_khuder = tribal
+#b_orkhon =
+#b_zuunburen =
+#b_tushig =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

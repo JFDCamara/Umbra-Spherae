@@ -1,0 +1,18 @@
+# 1915 - Solbin
+
+# County Title
+title = c_solbin
+
+# Settlements
+max_settlements = 3
+b_hwaju = tribal
+b_ikju = tribal
+#b_geonju =
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+
+1050.1.1 = { culture = jurchen }

@@ -1,0 +1,15 @@
+# 1802 - Ghuan
+
+# County Title
+title = c_ghuan
+
+# Settlements
+max_settlements = 2
+b_kiengxmieng = tribal
+b_myanghyon = tribal
+
+# Misc
+culture = khitan
+religion = tengri_pagan
+
+# History

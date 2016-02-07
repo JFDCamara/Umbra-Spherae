@@ -1,0 +1,21 @@
+# 1131 - Battambang
+
+# County Title
+title = c_battambang
+
+# Settlements
+max_settlements = 4
+b_reang_keseil = castle
+b_battambang = city
+b_o_krasang = temple
+#b_sneung =
+#b_phumi_kouk_kdouch =
+#b_phnum_thippadei =
+#b_moung_roessei =
+#b_phumi_chhak_rokar =
+
+# Misc
+culture = khmer
+religion = hindu
+
+# History

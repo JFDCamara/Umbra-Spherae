@@ -1,0 +1,20 @@
+# 1856 - Uvurkhangai
+
+# County Title
+title = c_uvurkhangai
+
+# Settlements
+max_settlements = 4
+b_baidrag = tribal
+b_bat_tsagaan = tribal
+#b_bayan_ovoo =
+#b_bumbugur =
+#b_erhet_khairkhan =
+
+# Misc
+culture = uyghur
+religion = tengri_pagan
+
+# History
+847.1.1={ culture = kirghiz }#Fall of Uyghur Khaganate
+1219.1.1={ culture = mongol }#Fall of Kyrghiz Khaganate

@@ -1,0 +1,56 @@
+#Rulers of Daegaya
+42.1.1={
+	liege="c_gang"
+	holder=1000450210 #Yi Ijinashi
+}
+108.1.1={
+	holder=1000450213 #Yi Anji
+}
+128.1.1={
+	holder=1000450214 #Yi Jabok
+}
+177.1.1={
+	holder=1000450215 #Yi Geumnim
+}
+203.1.1={
+	holder=1000450216 #Yi Juwon
+}
+234.1.1={
+	holder=1000450217 #Yi Jungsang
+}
+259.1.1={
+	holder=1000450218 #Yi Gasil
+}
+294.1.1={
+	holder=1000450219 #Yi Taegan
+}
+318.1.1={
+	holder=1000450220 #Yi Inoe
+}
+359.1.1={
+	holder=1000450221 #Yi Hyosun
+}
+393.1.1={
+	holder=1000450222 #Yi Bijeong
+}
+421.1.1={
+	holder=1000450223 #Yi Talgeon
+}
+448.1.1={
+	holder=1000450224 #Yi Haji
+}
+484.1.1={
+	holder=1000450225 #Yi Masul
+}
+505.1.1={
+	holder=1000450226 #Yi Bingan
+}
+534.1.1={
+	holder=1000450227 #Yi Doseolji
+}
+562.1.1={
+	holder=1000450228 #Yi Wolgwang
+}
+615.1.1={
+	holder=1000450229 #Yi Wolya
+}

@@ -1,0 +1,22 @@
+# 1091 - Prey Nokor
+
+# County Title
+title = c_prey_nokor
+
+# Settlements
+max_settlements = 5
+b_thuan_an = castle
+b_prey_nokor = city
+b_di_an = temple
+#b_thu_dau_mot =
+#b_tan_phu_trung =
+#b_long_hoa =
+#b_ly_nhon =
+#b_go_cong =
+
+# Misc
+culture = khmer
+religion = hindu
+
+# History
+

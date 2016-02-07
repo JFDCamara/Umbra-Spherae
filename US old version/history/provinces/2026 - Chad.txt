@@ -1,0 +1,23 @@
+# 1451 - Chad
+
+# County Title
+title = c_chad
+
+# Settlements
+max_settlements = 5
+b_njoxjang = castle
+b_zjanghchad = city
+b_sebjen = city
+b_zsyihbjen = city
+#b_chadsinhjang =
+#b_sinchad =
+#b_cjinjang =
+#b_sinsik =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1376,7 +1376,7 @@ province;red;green;blue;x;x
 1375;1;78;215;Kafirkot;x
 1376;43;81;88;Wana;x
 1377;85;84;216;Maymana;x
-1378;169;162;38;Urgench;x
+1378;127;87;89;Urgench;x
 1379;169;90;217;Asaita;x
 1380;1;93;90;Semien;x
 1381;43;96;218;Pundravardhana;x
@@ -1429,7 +1429,7 @@ province;red;green;blue;x;x
 1428;127;24;14;Damot;x
 1429;169;27;142;Begemder;x
 1430;1;30;15;Kipchak;x
-1431;85;6;12;Otrar;x
+1431;43;33;143;Otrar;x
 1432;85;36;16;Karluk;x
 1433;127;39;144;Kazakh;x
 1434;169;42;17;Balkhash;x
@@ -1437,7 +1437,7 @@ province;red;green;blue;x;x
 1436;43;48;18;Lakomelza;x
 1437;85;51;146;Tigrinya;x
 1438;127;54;19;Yarkand;x
-1439;169;57;147;Kashgar;x
+1439;169;57;147;Kashgar;x 
 1440;1;60;20;Khotan;x
 1441;86;135;186;Cherchen;x
 1442;128;138;59;Charkliq;x
@@ -1970,6 +1970,7 @@ province;red;green;blue;x;x
 1969;85;204;137;Chuguchak;x
 1970;127;207;10;AksuUS;x
 1971;169;210;138;Panjakent;x
+1972;1;13;11;;x
 1973;127;9;140;Kesh;x
 1974;169;27;143;Krua;x
 1975;1;30;16;Barskhan;x
@@ -1990,6 +1991,7 @@ province;red;green;blue;x;x
 1990;43;153;164;Syghnak;x
 1991;85;156;37;Orda Bazar;x
 1992;127;159;165;Chirik Rabat;x
+1993;1;13;254;;x
 1994;1;165;166;Imakia;x
 1995;85;138;196;Ze;x
 1996;127;141;69;Cri;x

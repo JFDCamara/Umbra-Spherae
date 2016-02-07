@@ -1,0 +1,24 @@
+# 1821 - Jeon
+
+# County Title
+title = c_jeon
+
+# Settlements
+max_settlements = 5
+b_jeon = castle
+b_gangnam = castle
+b_wan = city
+#b_iksan =
+#b_namwon =
+#b_gunsan =
+#b_jeongeup =
+#b_gimje =
+
+
+# Misc
+culture = baekje
+religion = shingyo
+
+# History
+
+936.1.1 = { culture = korean}

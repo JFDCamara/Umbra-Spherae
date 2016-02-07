@@ -1,0 +1,21 @@
+# 1189 - Daha
+
+# County Title
+title = c_daha
+
+# Settlements
+max_settlements = 7
+b_watugaluh = castle
+b_daha = city
+b_tamwlang = temple
+b_gogorante = city
+b_semen = castle
+b_mondo =castle
+b_sukoanyar = city
+#b_ngronggo =
+
+# Misc
+culture = javanese
+religion = hindu
+
+# History

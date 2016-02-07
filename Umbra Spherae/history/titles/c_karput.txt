@@ -27,10 +27,10 @@
 	holder=1000203721 #Sakeroku
 }
 1020.1.1={
-	holder=1000075233 #Kiriho
+	holder=1000203722 #Kunne
 }
 1050.1.1={
-	holder=1000203722 #Kunne
+	holder=1000075233 #Kiriho
 }
 1080.1.1={
 	holder=1000203723 #Garugaru

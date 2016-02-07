@@ -1,0 +1,22 @@
+# 948 - Hyuga
+
+# County Title
+title = c_hyuga
+
+# Settlements
+max_settlements = 4
+b_koyu = castle
+b_usuki = castle
+b_shimazu = castle
+
+#b_miyazaki = castle
+#b_morokata = castle
+#b_nobeoka = castle
+#b_obi = castle
+#b_takanabe = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

@@ -1,0 +1,21 @@
+# 1074 - Nakhon Pathom
+
+# County Title
+title = c_nakhon_pathom
+
+# Settlements
+max_settlements = 4
+b_sam_phran = castle
+b_nakhon_pathom = city
+b_mueang_samut_sakhon = temple
+#b_pak_kret =
+#b_nakhon_chai_si =
+#b_don_tum =
+#b_kamphaeng_saen =
+#b_bang_len =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

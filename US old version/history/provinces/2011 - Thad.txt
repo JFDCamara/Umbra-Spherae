@@ -1,0 +1,23 @@
+# 1433 - Thad
+
+# County Title
+title = c_thad
+
+# Settlements
+max_settlements = 5
+b_haixling = castle
+b_ziengxhaix = city
+b_haixmuon = city
+b_njokau = city
+#b_hinghruah =
+#b_thadhing =
+#b_haixan =
+#b_brakbo =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

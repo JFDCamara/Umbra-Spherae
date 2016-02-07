@@ -1,0 +1,21 @@
+# 1139 - Dong Hoi
+
+# County Title
+title = c_dong_hoi
+
+# Settlements
+max_settlements = 4
+b_quan_hau = castle
+b_dong_hoi = city
+b_thach_xa_ha = temple
+#b_le_thuy =
+#b_kien_giang =
+#b_xuan_bo =
+#b_phu_dinh =
+#b_viet_trung =
+
+# Misc
+culture = cham
+religion = hindu
+
+# History

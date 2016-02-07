@@ -1,0 +1,21 @@
+# 1134 - Gia Nghia
+
+# County Title
+title = c_gia_nghia
+
+# Settlements
+max_settlements = 4
+b_nghia_phu = castle
+b_gia_nghia = city
+b_nghia_tan = temple
+#b_dak_nia =
+#b_quang_khe =
+#b_dak_plao =
+#b_dak_ha =
+#b_thuan_an_gia_nghia =
+
+# Misc
+culture = cham
+religion = hindu
+
+# History

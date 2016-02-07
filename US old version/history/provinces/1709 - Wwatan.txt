@@ -1,0 +1,21 @@
+# 1195 - Wwatan
+
+# County Title
+title = c_wwatan
+
+# Settlements
+max_settlements = 7
+b_anjukladang = castle
+b_wwatan = city
+b_sambungmacan = temple
+b_gondang = city
+b_jenar = castle
+b_ngrampal = castle
+#b_tangen =
+#b_widodaren =
+
+# Misc
+culture = javanese
+religion = hindu
+
+# History

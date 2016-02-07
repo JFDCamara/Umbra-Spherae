@@ -1,0 +1,21 @@
+# 1345 - Bukit Raya
+
+# County Title
+title = c_bukit_raya
+
+# Settlements
+max_settlements = 3
+b_siak = castle
+b_bukit_raya = city
+#b_pekanbaru =
+#b_tampan =
+#b_siak_hulu =
+#b_pelalawan =
+#b_kerinci_kanan =
+#b_dayun =
+
+# Misc
+culture = malay
+religion = sumatran_religion
+
+# History

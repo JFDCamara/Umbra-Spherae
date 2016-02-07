@@ -1,0 +1,23 @@
+# 1812 - Hae
+
+# County Title
+title = c_hae
+
+# Settlements
+max_settlements = 5
+b_paechon = castle
+b_yonanhae = castle
+b_jaeryong = city
+#b_sinchon =
+#b_kangryong =
+#b_ryongyon =
+#b_anak =
+
+
+# Misc
+culture = guryeo
+religion = shingyo
+
+# History
+
+936.1.1 = { culture = korean}

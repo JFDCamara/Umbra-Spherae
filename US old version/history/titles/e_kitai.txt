@@ -1,0 +1,50 @@
+#Yelu Dynasty
+907.2.27 = {
+	holder=1000202507 #Abaoji
+}
+926.9.6 = {
+	holder=1000202508 #Deguang
+}
+947.5.15 = {
+	holder=1000202510 #Ruan
+}
+951.10.7 = {
+	holder=1000202511 #Jing
+}
+969.3.12 = {
+	holder=1000202512 #Xian
+}
+982.10.13 = {
+	holder=1000202513 #Longxu
+}
+1031.6.25 = {
+	holder=1000202514 #Zongzhen
+}
+1055.8.28 = {
+	holder=1000076443 #Hongji
+}
+1101.2.12 = {
+	holder=1000202516 #Yanxi
+}
+
+#Kara Khitai
+1125.3.16 = {
+	holder=1000202528 #Dashi
+}
+1143.1.1 = {
+	holder=1000202529 #Yilie
+}
+1163.1.1={
+	holder=1000202530 # Pusuwan
+}
+1177.1.1={
+	holder=1000202531 # Yelü-Zhilugu
+}
+
+#Naiman Dynasty
+1213.1.1 = {
+	holder=1000202584 #Kuchlug
+}
+1218.1.1 = {
+	holder=0
+}

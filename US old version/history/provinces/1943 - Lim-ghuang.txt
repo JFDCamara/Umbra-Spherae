@@ -1,0 +1,21 @@
+# 1804 - Lim-ghuang
+
+# County Title
+title = c_limghuang
+
+# Settlements
+max_settlements = 5
+b_limghuang = tribal
+b_driangprah = tribal
+b_driangthad_limghuang = tribal
+#b_nengsaih_limghuang =
+#b_kimsren =
+#b_thadcju =
+#b_anmjin =
+#b_driangneng =
+
+# Misc
+culture = khitan
+religion = tengri_pagan
+
+# History

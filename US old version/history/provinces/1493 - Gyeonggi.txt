@@ -1,0 +1,24 @@
+# 1814 - Gyeonggi
+
+# County Title
+title = c_gyeonggi
+
+# Settlements
+max_settlements = 7
+b_manwoldae = castle
+b_kaesong = city
+b_songrim = castle
+b_sari_gyeonggi = city
+#b_gyeonggi =
+#b_pongsan =
+#b_songak =
+#b_gaesong =
+
+
+# Misc
+culture = guryeo
+religion = shingyo
+
+# History
+
+936.1.1 = { culture = korean}

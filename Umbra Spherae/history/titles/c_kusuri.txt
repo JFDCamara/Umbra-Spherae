@@ -27,10 +27,10 @@
 	holder=1000203704 #Kimurakai
 }
 1020.1.1={
-	holder=1000075231 #Utarian
+	holder=1000203705 #Ihokai
 }
 1050.1.1={
-	holder=1000203705 #Ihokai
+	holder=1000075231 #Utarian
 }
 1080.1.1={
 	holder=1000203706 #Ipetaako

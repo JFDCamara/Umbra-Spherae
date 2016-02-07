@@ -1,0 +1,24 @@
+# 1483 - Piuk
+
+# County Title
+title = c_piuk
+
+# Settlements
+max_settlements = 6
+b_min = castle
+b_ghukuan = city
+b_ghruaian = city
+b_driunglak = city
+b_piukchieng = city
+#b_lienkrung =
+#b_driungkhe =
+#b_minchieng =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

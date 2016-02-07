@@ -1,0 +1,21 @@
+# 1112 - Phayao
+
+# County Title
+title = c_phayao
+
+# Settlements
+max_settlements = 4
+b_phu_kamyao = castle
+b_phayao = city
+b_dok_khamtai = temple
+#b_mae_chai =
+#b_chiang_kham =
+#b_phu_sang =
+#b_pong =
+#b_chiang_muan =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

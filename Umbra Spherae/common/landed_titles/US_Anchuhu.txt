@@ -4,46 +4,46 @@ e_anchuhu = {
     	color2 = { 255 255 255  }
 
 	capital = 1507 # Yongcheon
-	
-k_silla = {
 
-    color = { 92 150 94 }
-    color2 = { 255 255 255 }
+	k_silla = {
 
-	capital = 1504 # Sang
-	
-	culture = silla
-	
-	d_gaya = {
+    		color = { 92 150 94 }
+   		color2 = { 255 255 255 }
 
-		capital = 1505 # Gang
+		capital = 1504 # Sang
 	
-		culture = gaya
+		culture = silla
+	
+		d_gaya = {
 
-		color = { 164 219 213 }
-		color2 = { 255 255 255 }
+			capital = 1505 # Gang
+	
+			culture = gaya
+
+			color = { 164 219 213 }
+			color2 = { 255 255 255 }
+		}
 	}
-}
 
-k_baekje = {
+	k_baekje = {
 
-	color = { 66 140 176 }
-	color2 = { 255 255 255  }
+		color = { 66 140 176 }
+		color2 = { 255 255 255  }
 
-	capital = 1496 # Gwang
+		capital = 1496 # Gwang
 	
-	culture = baekje
-}
+		culture = baekje
+	}
 
-k_goguryeo = {
+	k_goguryeo = {
 
-	color = { 100 198 195 }
-	color2 = { 255 255 255  }
+		color = { 100 198 195 }
+		color2 = { 255 255 255  }
 
-	capital = 1490 # Bukgye
+		capital = 1490 # Bukgye
 	
-	culture = guryeo
-}
+		culture = guryeo
+	}
 
 	k_balhae = {
 
@@ -201,8 +201,8 @@ k_goguryeo = {
 			
 			culture = buyeo
 
-    		color = { 168 119 187 }
-    		color2 = { 255 255 255  }
+    			color = { 168 119 187 }
+    			color2 = { 255 255 255  }
 				
 			han = "Fuyu"
 			mohe = "Buyu"
@@ -263,8 +263,8 @@ k_goguryeo = {
 
 			capital = 1487 # Anwon
 
-    		color = { 155 140 166 }
-    		color2 = { 255 255 255  }
+    			color = { 155 140 166 }
+    			color2 = { 255 255 255  }
 			
 			han = "Dongjing"
 			mohe = "Anman"
@@ -352,8 +352,8 @@ k_goguryeo = {
 
 			capital = 1511 # Jangnyeong
 
-    		color = { 209 172 210 }
-    		color2 = { 255 255 255  }
+    			color = { 209 172 210 }
+    			color2 = { 255 255 255  }
 			
 			han = "Zhongjing"
 			mohe = "Juningu"
@@ -405,8 +405,8 @@ k_goguryeo = {
 		}
 		d_yemaek = {
 
-    		color = { 172 168 215 }
-    		color2 = { 255 255 255  }
+    			color = { 172 168 215 }
+    			color2 = { 255 255 255  }
 
 			capital = 1510 # Amnok
 			
@@ -417,7 +417,7 @@ k_goguryeo = {
 				color = { 182 168 215 }
 				color2 = { 255 255 255  }
 				
-				han = "YalÃ¼"
+				han = "Yalü"
 				mohe = "Yalu"
 				jurchen = "Yalu"
 				
@@ -459,8 +459,8 @@ k_goguryeo = {
 		}
 		d_okjeo = {
 
-    		color = { 120 78 146 }
-    		color2 = { 255 255 255  }
+    			color = { 120 78 146 }
+    			color2 = { 255 255 255  }
 
 			capital = 1509 # Namhae
 			
@@ -607,7 +607,7 @@ k_goguryeo = {
 		korean = "Goryeo"
 		tamna = "Tamna"
 
-    	d_seohae = {
+    		d_seohae = {
 
     			color = { 26 53 207 }
     			color2 = { 255 255 255  }
@@ -1064,5 +1064,103 @@ k_dan_gur = {
 	capital = 1507 # Yongcheon
 
 	culture = khitan
+
+}
+
+#Mongol and Khitan titular titles
+
+k_tataar =  {
+	color = { 218 165 32 }
+	capital = 1853 #Kerlen
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+}
+
+d_bargu = {
+	color = { 152 251 152 }
+	capital = 1879 #Bargu
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+}
+
+d_ongud = {
+	color = { 255 150 0 }
+	capital = 1869 #Khara Narin Ula
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+}
+
+d_khori_tumed = { 
+	color = { 46 139 87 }
+	capital = 1889 #Elyu Ene
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+}
+
+d_zubu = {
+	color = { 178 34 34 }
+	capital = 1868 #Dornogobi
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+	short_name = yes
+}
+
+d_mongol = {
+	color = { 99 166 204 }
+	capital = 1852 # Onon
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+	
+	culture = mongol
+}
+
+k_kereid = {
+	color = { 178 34 34 }
+	capital = 1868 #Dornogobi
+
+	tribe = yes
+	allow = {
+		always = no
+	}
+
+	culture = mongol
+}
+
+e_kitai = {
+
+	capital = 1940 # Sjingh
+
+	culture = khitan
+
+	color={ 253 137 81 }
+	color2={ 255 255 255 }
 
 }

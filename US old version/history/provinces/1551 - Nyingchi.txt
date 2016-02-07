@@ -1,0 +1,19 @@
+# 1302 - Nyingchi
+
+# County Title
+title = c_nyingchi
+# Settlements
+max_settlements = 5
+b_nyingchi = tribal
+b_drakchi = city
+b_buchasergyi_lakang = temple
+b_lamaling = temple
+#b_gongbogyamda = castle
+#b_bome = city
+#b_alamdo = castle
+
+# Misc
+culture = bodpa
+religion = vajrayana
+
+# History

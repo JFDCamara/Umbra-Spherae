@@ -1,0 +1,67 @@
+#Alam Dynasty (placeholders)
+750.1.1={
+	holder=1000205050 #Ato
+}
+780.1.1={
+	holder=1000205051 #Limpele
+}
+810.1.1={
+	holder=1000205052 #Lowai
+}
+840.1.1={
+	holder=1000201304 #Amoi
+}
+870.1.1={
+	holder=1000201305 #Tamon
+}
+900.1.1={
+	holder=1000201306 #Maindoka
+}
+930.1.1={
+	holder=1000201307 #Kusoi
+}
+960.1.1={
+	holder=1000201308 #Kawi
+}
+990.1.1={
+	holder=1000201309 #Lomboan
+}
+1020.1.1={
+	holder=1000201310 #Mongkol
+}
+1050.1.1={
+	holder=1000076130 #Ece
+}
+1080.1.1={
+	holder=1000201311 #Mamoto
+}
+1110.1.1={
+	holder=1000201312 #Korompis
+}
+1140.1.1={
+	holder=1000201313 #Limbong
+}
+1170.1.1={
+	holder=1000201314 #Pelengkahu
+}
+1200.1.1={
+	holder=1000201315 #Maengkom
+}
+1222.1.1={
+	liege="e_java"
+}
+1230.1.1={
+	holder=1000201316 #Pandong
+}
+1260.1.1={
+	holder=1000201317 #Otay
+}
+1290.1.1={
+	holder=1000201318 #Kambey
+}
+1320.1.1={
+	holder=1000201319 #Lesar
+}
+1350.1.1={
+	holder=1000201320 #Gumansing
+}

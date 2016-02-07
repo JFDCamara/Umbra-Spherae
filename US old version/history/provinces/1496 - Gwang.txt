@@ -1,0 +1,24 @@
+# 1817 - Gwang
+
+# County Title
+title = c_gwang
+
+# Settlements
+max_settlements = 6
+b_hanyang = castle
+b_gwang = castle
+b_ganghwa = city
+b_sugwang = castle
+#b_yanggwang =
+#b_yeo =
+#b_anseong =
+#b_hanam =
+
+
+# Misc
+culture = baekje
+religion = shingyo
+
+# History
+
+936.1.1 = { culture = korean}

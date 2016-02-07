@@ -1,0 +1,674 @@
+# Bumthang
+
+1000077044 = {
+	name="Sindhu"
+	dynasty=1000027347 #Chakhar
+	religion="hindu"
+	culture="bengali"
+	705.1.1={
+		birth="705.1.1"
+	}
+	730.1.1={
+		name="Sendha Gyalpo"
+	}
+	746.6.1={
+		religion="vajrayana"
+	}
+	775.1.1={
+		death="775.1.1"
+	}
+}
+
+1000077045 = {
+	name="Tala Mebar"
+	dynasty=1000027347 #Chakhar
+	religion="bon"
+	culture="bodpa"
+	father=1000077044
+	728.1.1={
+		birth="728.1.1"
+	}
+	746.1.1={
+		death="746.1.1"
+	}
+}
+
+1000077046 = {
+	name="Mangala Jashi Kyeden" #One of the five tantric consorts of Padmasambhava
+	female=yes
+	dynasty=1000027347 #Chakhar
+	religion="bon"
+	culture="bodpa"
+	father=1000077044
+	730.1.1={
+		birth="730.1.1"
+	}
+	746.6.1={
+		religion="vajrayana"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000077047 = {
+	name="Pemba Goba"
+	dynasty=1000027347 #Chakhar
+	religion="bon"
+	culture="bodpa"
+	father=1000077045
+	745.1.1={
+		birth="745.1.1"
+	}
+	746.6.1={
+		religion="vajrayana"
+	}
+	793.1.1={
+		death="793.1.1"
+	}
+}
+
+1000077048 = {
+	name="Thubten Zonpa"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077047
+	770.1.1={
+		birth="770.1.1"
+	}
+	836.1.1={
+		death="836.1.1"
+	}
+}
+
+1000077049 = {
+	name="Nima Assam"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077048
+	802.1.1={
+		birth="802.1.1"
+	}
+	864.1.1={
+		death="864.1.1"
+	}
+}
+
+1000077050 = {
+	name="Tenzin Gyaltso"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077049
+	831.1.1={
+		birth="831.1.1"
+	}
+	895.1.1={
+		death="895.1.1"
+	}
+}
+
+1000077051 = {
+	name="Lobsang Tsewang"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077050
+	859.1.1={
+		birth="859.1.1"
+	}
+	923.1.1={
+		death="923.1.1"
+	}
+}
+
+1000077052 = {
+	name="Yongten Nam-kha"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077051
+	888.1.1={
+		birth="888.1.1"
+	}
+	955.1.1={
+		death="955.1.1"
+	}
+}
+
+1000077053 = {
+	name="Sangye Wangdak"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077052
+	913.1.1={
+		birth="913.1.1"
+	}
+	973.1.1={
+		death="973.1.1"
+	}
+}
+
+1000077054 = {
+	name="Yeshe Lhak-pa"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077053
+	936.1.1={
+		birth="936.1.1"
+	}
+	995.1.1={
+		death="995.1.1"
+	}
+}
+
+1000077055 = {
+	name="Dechan Zapa"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077054
+	963.1.1={
+		birth="963.1.1"
+	}
+	1024.1.1={
+		death="1024.1.1"
+	}
+}
+
+1000077056 = {
+	name="Jinpa Skamar"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077055
+	996.1.1={
+		birth="996.1.1"
+	}
+	1057.1.1={
+		death="1057.1.1"
+	}
+}
+
+1000077057 = {
+	name="Zenji Jigme"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077056
+	1024.1.1={
+		birth="1024.1.1"
+	}
+	1086.1.1={
+		death="1086.1.1"
+	}
+}
+
+1000077058 = {
+	name="Ngawang Rinchen"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077057
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1106.1.1={
+		death="1106.1.1"
+	}
+}
+
+1000077059 = {
+	name="Kalsang Zapa"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077058
+	1077.1.1={
+		birth="1077.1.1"
+	}
+	1134.1.1={
+		death="1134.1.1"
+	}
+}
+
+1000077060 = {
+	name="Wangdue Thokmay"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077059
+	1099.1.1={
+		birth="1099.1.1"
+	}
+	1163.1.1={
+		death="1163.1.1"
+	}
+}
+
+1000077061 = {
+	name="Seba Yeshe"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077060
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1174.1.1={
+		death="1174.1.1"
+	}
+}
+
+1000077062 = {
+	name="Michewa Torma"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077061
+	1148.1.1={
+		birth="1148.1.1"
+	}
+	1208.1.1={
+		death="1208.1.1"
+	}
+}
+
+1000077063 = {
+	name="Pasang Daivika"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077062
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1246.1.1={
+		death="1246.1.1"
+	}
+}
+
+1000077064 = {
+	name="Lha-mo Karma"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077063
+	1209.1.1={
+		birth="1209.1.1"
+	}
+	1289.1.1={
+		death="1289.1.1"
+	}
+}
+
+1000077065 = {
+	name="Khandro Tashi"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077064
+	1246.1.1={
+		birth="1246.1.1"
+	}
+	1311.1.1={
+		death="1311.1.1"
+	}
+}
+
+1000077066 = {
+	name="Jampo Akar"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077065
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1349.1.1={
+		death="1349.1.1"
+	}
+}
+
+1000077067 = {
+	name="Chophel Ketu"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077066
+	1304.1.1={
+		birth="1304.1.1"
+	}
+	1361.1.1={
+		death="1361.1.1"
+	}
+}
+
+1000077068 = {
+	name="Mida Sonam"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077067
+	1327.1.1={
+		birth="1327.1.1"
+	}
+	1377.1.1={
+		death="1377.1.1"
+	}
+}
+
+1000077069 = {
+	name="Wangchuk Kalsang"
+	dynasty=1000027347 #Chakhar
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077068
+	1350.1.1={
+		birth="1350.1.1"
+	}
+	1411.1.1={
+		death="1411.1.1"
+	}
+}
+
+#Paro
+
+1000077070 = {
+	name="Tsenang"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	815.1.1={
+		birth="815.1.1"
+	}
+	881.1.1={
+		death="881.1.1"
+	}
+}
+
+1000077071 = {
+	name="Kundun"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077070
+	843.1.1={
+		birth="843.1.1"
+	}
+	916.1.1={
+		death="916.1.1"
+	}
+}
+
+1000077072 = {
+	name="Popo"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077071
+	869.1.1={
+		birth="869.1.1"
+	}
+	933.1.1={
+		death="933.1.1"
+	}
+}
+
+1000077073 = {
+	name="Champo"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077072
+	891.1.1={
+		birth="891.1.1"
+	}
+	962.1.1={
+		death="962.1.1"
+	}
+}
+
+1000077074 = {
+	name="Dache"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077073
+	929.1.1={
+		birth="929.1.1"
+	}
+	987.1.1={
+		death="987.1.1"
+	}
+}
+
+1000077075 = {
+	name="Sonam"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077074
+	956.1.1={
+		birth="956.1.1"
+	}
+	1007.1.1={
+		death="1007.1.1"
+	}
+}
+
+1000077076 = {
+	name="Jinpa"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077075
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000077077 = {
+	name="Zigsa"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077076
+	1016.1.1={
+		birth="1016.1.1"
+	}
+	1062.1.1={
+		death="1062.1.1"
+	}
+}
+
+1000077078 = {
+	name="Rinzen"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077077
+	1037.1.1={
+		birth="1037.1.1"
+	}
+	1088.1.1={
+		death="1088.1.1"
+	}
+}
+
+1000077079 = {
+	name="Norbu"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077078
+	1061.1.1={
+		birth="1061.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000077080 = {
+	name="Gyaltsen"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077079
+	1086.1.1={
+		birth="1086.1.1"
+	}
+	1133.1.1={
+		death="1133.1.1"
+	}
+}
+
+1000077081 = {
+	name="Palden"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077080
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1168.1.1={
+		death="1168.1.1"
+	}
+}
+
+1000077082 = {
+	name="Anil"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077081
+	1128.1.1={
+		birth="1128.1.1"
+	}
+	1183.1.1={
+		death="1183.1.1"
+	}
+}
+
+1000077083 = {
+	name="Dhargey"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077082
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1209.1.1={
+		death="1209.1.1"
+	}
+}
+
+1000077084 = {
+	name="Goba"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077083
+	1184.1.1={
+		birth="1184.1.1"
+	}
+	1251.1.1={
+		death="1251.1.1"
+	}
+}
+
+1000077085 = {
+	name="Tseten"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077084
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1277.1.1={
+		death="1277.1.1"
+	}
+}
+
+1000077086 = {
+	name="Lhundup"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077085
+	1249.1.1={
+		birth="1249.1.1"
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+
+1000077087 = {
+	name="Jigme"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077086
+	1277.1.1={
+		birth="1277.1.1"
+	}
+	1328.1.1={
+		death="1328.1.1"
+	}
+}
+
+1000077088 = {
+	name="Hariti"
+	female=yes
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077087
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+
+1000077089 = {
+	name="Kamala"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	mother=1000077088
+	1317.1.1={
+		birth="1317.1.1"
+	}
+	1381.1.1={
+		death="1381.1.1"
+	}
+}
+
+1000077090 = {
+	name="Skamar"
+	dynasty=1000027349 #Monyul
+	religion="vajrayana"
+	culture="bodpa"
+	father=1000077089
+	1350.1.1={
+		birth="1350.1.1"
+	}
+	1410.1.1={
+		death="1410.1.1"
+	}
+}
+

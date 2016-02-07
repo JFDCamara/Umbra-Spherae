@@ -27,10 +27,10 @@
 	holder=1000203687 #Netokahe
 }
 1020.1.1={
-	holder=1000075230 #Nukuri
+	holder=1000203688 #Kuwakaaino
 }
 1050.1.1={
-	holder=1000203688 #Kuwakaaino
+	holder=1000075230 #Nukuri
 }
 1080.1.1={
 	holder=1000203689 #Atsukuru

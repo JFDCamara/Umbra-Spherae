@@ -1,0 +1,22 @@
+# 938 - Bingo
+
+# County Title
+title = c_bingo
+
+# Settlements
+max_settlements = 5
+b_ashida = castle
+b_kaya = castle
+b_onomichi = city
+
+#b_tomonoura = castle
+#b_kameshi = castle
+#b_tetta = castle
+#b_yasuna = castle
+#b_mitsuki = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

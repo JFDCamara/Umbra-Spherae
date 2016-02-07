@@ -1,0 +1,96 @@
+#Lavachakkaraj Dynasty
+638.1.1 = {
+	liege="d_ngoenyang"
+}
+638.1.1 = {
+	holder=1000202003 #Lavachakkaraj
+}
+665.1.1 = {
+	holder=1000202004 #Lao-Kao-Kaeo-Ma-Mueang
+}
+692.1.1 = {
+	holder=1000202005 #Lao-Sao
+}
+719.1.1 = {
+	holder=1000202006 #Lao-Tang
+}
+746.1.1 = {
+	holder=1000202007 #Lao-Klom
+}
+773.1.1 = {
+	holder=1000202008 #Lao-Leo
+}
+800.1.1 = {
+	holder=1000202009 #Lao-Kap
+}
+827.1.1 = {
+	holder=1000202010 #Lao-Khim
+}
+850.1.1 = {
+	holder=1000202011 #Lao-Khiang
+}
+877.1.1 = {
+	holder=1000202012 #Lao-Khiu
+}
+904.1.1 = {
+	holder=1000202013 #Lao-Thoeng
+}
+931.1.1 = {
+	holder=1000202014 #Lao-Tueng
+}
+958.1.1 = {
+	holder=1000202015 #Lao-Khon
+}
+985.1.1 = {
+	holder=1000202016 #Lao-Som
+}
+1012.1.1 = {
+	holder=1000076107 #Lao-Guak
+}
+1039.1.1 = {
+	holder=1000202017 #Lao-Kiu
+}
+1066.1.1 = {
+	holder=1000202018 #Lao-Chong
+}
+1093.1.1 = {
+	holder=1000202019 #Chom-Pha-Rueang
+}
+
+#Phayao Dynasty (most are placeholders)
+1096.1.1 = {
+	liege="d_phayao"
+}
+1096.1.1 = {
+	holder=1000202087 #Khun-Chom
+}
+1118.1.1 = {
+	holder=1000202088 #Khun-Khun
+}
+1140.1.1 = {
+	holder=1000202089 #Kham-Coeng
+}
+1162.1.1 = {
+	holder=1000202090 #Kham-Puwak
+}
+1184.1.1 = {
+	holder=1000202091 #Kham-Ai
+}
+1206.1.1 = {
+	holder=1000202092 #Kham-Moeng
+}
+1228.1.1 = {
+	holder=1000202093 #Kham-Piang
+}
+1250.1.1 = {
+	holder=1000202094 #Kham-Pung
+}
+1272.1.1 = {
+	holder=1000202095 #Ngam-Muang
+}
+1294.1.1 = {
+	holder=1000202096 #Kham-Noeng
+}
+1316.1.1 = {
+	holder=1000202097 #Kham-Rue
+}

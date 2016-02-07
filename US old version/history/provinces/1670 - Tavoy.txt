@@ -1,0 +1,21 @@
+# 1155 - Tavoy
+
+# County Title
+title = c_tavoy
+
+# Settlements
+max_settlements = 4
+b_launglon = castle
+b_tavoy = city
+b_nyinmaw = temple
+#b_nyaungzin =
+#b_oktu =
+#b_thayetchaung =
+#b_yebyu =
+#b_kyauktwin =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

@@ -32,9 +32,7 @@
 900.1.1 = {
 	holder=1000081010 #Torgoljin-Bayan
 }
-920.1.1 = {
-	liege=0
-}
+
 #Borjigin
 920.1.1 = {
 	holder=1000081017 #Bodonchar-Munkhag
@@ -51,12 +49,7 @@
 1020.1.1 = {
 	holder=1000081032 #Khaidu
 }
-1035.1.1 = {
-	liege="k_khamag_mongol"
-}
-1068.1.1 = {
-	liege=0
-}
+
 1068.1.1 = {
 	holder=1000081035 #Chaujin-Ortagai
 }
@@ -66,24 +59,18 @@
 1096.1.1 = {
 	holder=1000081047 #Khabul
 }
-1130.1.1 = {
-	liege="k_khamag_mongol"
-}
+
 1146.1.1 = {
 	holder=1000202461 #Hotula
 }
-1160.1.1 = {
-	liege=0
-}
+
 1160.1.1 = {
 	holder=93055 #Yesügei
 }
 1171.1.1 = {
 	holder=125501 #Genghis
 }
-1189.1.1 = {
-	liege="k_khamag_mongol"
-}
+
 1206.1.1 = {
 	liege=0
 	holder=0

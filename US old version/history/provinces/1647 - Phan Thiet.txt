@@ -1,0 +1,21 @@
+# 1133 - Phan Thiet
+
+# County Title
+title = c_phan_thiet
+
+# Settlements
+max_settlements = 4
+b_tien_loi = castle
+b_phan_thiet = city
+b_phong_nam = temple
+#b_thanh_hai =
+#b_phu_hai =
+#b_ham_tien =
+#b_muong_man =
+#b_bao_houi =
+
+# Misc
+culture = cham
+religion = hindu
+
+# History

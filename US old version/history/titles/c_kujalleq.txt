@@ -1,0 +1,66 @@
+#Kujalleq Dynasty (placeholders)
+750.1.1={
+	holder=1000205230 #Nilak
+}
+780.1.1={
+	holder=1000205231 #Nauja
+}
+810.1.1={
+	holder=1000205232 #Sura
+}
+840.1.1={
+	holder=1000083266 #Kukuq
+}
+870.1.1={
+	holder=1000203481 #Adlartok
+}
+900.1.1={
+	holder=1000203482 #Tikivik
+}
+930.1.1={
+	holder=1000203486 #Nagojut
+}
+960.1.1={
+	holder=1000203487 #Amaguq
+}
+
+#Eystribyggð Dynasty (placeholders)
+986.1.1={
+	holder=1000203502 #Torolf
+}
+1020.1.1={
+	holder=1000203503 #Anund
+}
+1050.1.1={
+	holder=1000203504 #Alv
+}
+1080.1.1={
+	holder=1000203505 #Arnfinn
+}
+1110.1.1={
+	holder=1000203506 #Olav
+}
+1140.1.1={
+	holder=1000203507 #Ogmund
+}
+1170.1.1={
+	holder=1000203508 #Trond
+}
+1200.1.1={
+	holder=1000203509 #Torgeir
+}
+1230.1.1={
+	holder=1000203510 #Tormod
+}
+1260.1.1={
+	holder=1000203511 #Frej
+}
+1290.1.1={
+	holder=1000203512 #Lodin
+}
+1320.1.1={
+	holder=1000203513 #Kolbein
+}
+1350.1.1={
+	holder=1000203514 #Sverre
+}

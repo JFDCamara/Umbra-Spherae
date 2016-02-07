@@ -4,8 +4,6 @@
 
 #added aragonese to iberian
 
-#merged xianbei to khitan
-
 #added coptic to byzantine
 #added syriac to byzantine
 #added omotic to east african

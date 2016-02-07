@@ -37,7 +37,7 @@ region_baleares = {
 }
 
 region_sardinia_corsica = {
-	provinces = { 324 325 326 1797 1798 1799 } #Umbra Spherae
+	provinces = { 324 325 326 }
 }
 
 region_malta = {
@@ -66,10 +66,4 @@ region_canarias = {
 
 region_venice = { 
 	provinces = { 356 }
-}
-
-################  Umbra Spherae
-
-region_laccadives = { 
-	provinces = { 1802 }
 }

@@ -1,0 +1,22 @@
+# 1423 - Cex
+
+# County Title
+title = c_cex
+
+# Settlements
+max_settlements = 5
+b_gioxzjox = castle
+b_yonhzjeng = city
+b_njimhzjeng = city
+b_kimhiang = city
+#b_sren_khux =
+#b_loxgieu =
+#b_ghopchad =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

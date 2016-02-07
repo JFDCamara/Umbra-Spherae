@@ -1,0 +1,13 @@
+#Sri Ksetra Dynasty (Pyu City State)
+750.1.1 = {
+	holder=1000203924 #Yetkhan
+}
+780.1.1 = {
+	holder=1000203925 #Duttayan
+}
+810.1.1 = {
+	holder=1000203926 #Thirikhan
+}
+825.1.1 = {
+	holder=0
+}

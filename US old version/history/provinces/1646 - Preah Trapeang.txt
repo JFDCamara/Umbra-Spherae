@@ -1,0 +1,21 @@
+# 1132 - Preah Trapeang
+
+# County Title
+title = c_preah_trapeang
+
+# Settlements
+max_settlements = 4
+b_tra_vinh = castle
+b_preah_trapeang = city
+b_ben_tre = temple
+#b_my_tho =
+#b_soc_trang =
+#b_vinh_chao =
+#b_bac_lieu =
+#b_vi_thanh =
+
+# Misc
+culture = khmer
+religion = hindu
+
+# History

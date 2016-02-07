@@ -1,0 +1,21 @@
+# 1264 - Andaman
+
+# County Title
+title = c_andaman
+
+# Settlements
+max_settlements = 2
+b_adazig = castle
+b_manjery = castle
+#b_rangat =
+#b_mayabunder =
+#b_madhupur =
+#b_geinyale =
+#b_chetamale =
+#b_palalankwe =
+
+# Misc
+culture = andamanese
+religion = melanesian_religion
+
+# History

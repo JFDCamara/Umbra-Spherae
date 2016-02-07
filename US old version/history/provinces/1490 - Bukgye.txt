@@ -1,0 +1,24 @@
+# 1811 - Bukgye
+
+# County Title
+title = c_bukgye
+
+# Settlements
+max_settlements = 7
+b_pyongyang = castle
+b_an = castle
+b_ui = city
+#b_jong =
+#b_kusong =
+#b_kaechon =
+#b_sunchon =
+#b_tokchon =
+
+
+# Misc
+culture = guryeo
+religion = shingyo
+
+# History
+
+936.1.1 = { culture = korean}

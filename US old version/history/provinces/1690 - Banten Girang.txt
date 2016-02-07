@@ -1,0 +1,21 @@
+# 1176 - Banten Girang
+
+# County Title
+title = c_banten_girang
+
+# Settlements
+max_settlements = 7
+b_banten = castle
+b_banten_girang = city
+b_pontang = temple
+b_cigede = city
+b_tangaram = castle
+b_unyur = city
+b_kasemen = city
+#b_cibeber =
+
+# Misc
+culture = sundanese
+religion = hindu
+
+# History

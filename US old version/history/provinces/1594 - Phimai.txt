@@ -1,0 +1,22 @@
+# 1080 - Phimai
+
+# County Title
+title = c_phimai
+
+# Settlements
+max_settlements = 4
+b_non_sung = castle
+b_phimai = city
+b_mueang_nakhon_ratchasima = temple
+#b_pak_thong_chai =
+#b_dan_khun_thot =
+#b_sikhio =
+#b_pak_chong =
+#b_khon_buri =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History
+

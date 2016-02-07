@@ -1,0 +1,61 @@
+1000077131 = {
+	name="Ligmirhya"
+	dynasty=1000027352 #Lig-myi
+	religion="bon"
+	culture="bodpa"
+	548.1.1={
+		birth="548.1.1"
+	}
+	608.1.1={
+		death="608.1.1"
+	}
+}
+
+1000077132 = {
+	name="Ligmikya"
+	dynasty=1000027352 #Lig-myi
+	religion="bon"
+	culture="bodpa"
+	father=1000077131
+	595.1.1={
+		birth="595.1.1"
+	}
+	615.1.1={
+		add_spouse=1000077133
+	}
+	634.1.1={
+		add_spouse=1000077129
+	}
+	645.1.1={
+		death="645.1.1"
+	}
+}
+
+1000077133 = {
+	name="Tisé"
+	female=yes
+	dynasty=1000027353 #Ngülkhar
+	religion="bon"
+	culture="bodpa"
+	600.1.1={
+		birth="600.1.1"
+	}
+	645.1.1={
+		death="645.1.1"
+	}
+}
+
+1000077134 = {
+	name="Dralé"
+	female=yes
+	dynasty=1000027352 #Lig-myi
+	religion="bon"
+	culture="bodpa"
+	father=1000077131
+	604.1.1={
+		birth="604.1.1"
+	}
+	649.1.1={
+		death="649.1.1"
+	}
+}

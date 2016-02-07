@@ -1,0 +1,684 @@
+e_bai_tai = {
+
+	color= { 217 253 140 }
+	color2= { 255 255 255 }
+
+	capital = 1892 # Dab-lit
+
+	k_dali = {
+
+		capital = 1892 # Dab-lit
+
+		culture = bai
+
+		color={ 253 245 108 }
+		color2={ 10 10 10 }
+
+		d_dali = {
+
+			capital = 1892 # Dab-lit
+
+			color={ 255 208 47 }
+			color2={ 10 10 10 }
+
+			c_dali = {
+
+				color={ 245 208 47 }
+				color2={ 10 10 10 }
+
+				b_dali = {
+				}
+				b_biungyoh = {
+				}
+				b_khainom = {
+				}
+				b_dalidrieux = {
+				}
+				b_yonnom = {
+				}
+				b_yonlyung = {
+				}
+				b_phimx = {
+				}
+				b_brakngie = {
+				}
+			}
+		}
+		d_lunghtungh = {
+
+			capital = 1893 # Lungh-tungh
+
+			color={ 253 184 91 }
+			color2={ 10 10 10 }
+
+			c_lunghtungh = {
+
+				color={ 243 184 91 }
+				color2={ 10 10 10 }
+
+				b_jeuan = {
+				}
+				b_dadjeu = {
+				}
+				b_jangphreh = {
+				}
+			}
+			c_yoichriox = {
+
+				color={ 253 194 91 }
+				color2={ 10 10 10 }
+
+				b_ngaluk = {
+				}
+				b_daliloh = {
+				}
+				b_dalila = {
+				}
+				b_lamyoh = {
+				}
+				b_daliyoiyanx = {
+				}
+				b_lada = {
+				}
+				b_labuan = {
+				}
+				b_jinyanx = {
+				}
+			}
+		}
+		d_ghuadchjyen = {
+
+			capital = 1896 # Ghuad-chjyen
+
+			color={ 249 148 72 }
+			color2={ 10 10 10 }
+
+			c_kianhchjang = {
+
+				color={ 239 148 72 }
+				color2={ 10 10 10 }
+
+				b_mukgyi = {
+				}
+				b_gyungbox = {
+				}
+				b_lioghonh = {
+				}
+				b_ado = {
+				}
+				b_srazjeng = {
+				}
+				b_khuah = {
+				}
+				b_prachyih = {
+				}
+				b_kyit = {
+				}
+			}
+			c_ghuadchjyen = {
+
+				color={ 249 158 72 }
+				color2={ 10 10 10 }
+
+				b_pyaphrue = {
+				}
+				b_dalikrungh = {
+				}
+				b_dalilyung = {
+				}
+				b_lungne = {
+				}
+				b_mralung = {
+				}
+				b_lekhu = {
+				}
+			}
+		}
+		d_kiamhchjyen = {
+
+			capital = 1897 # Liu-thuungh
+
+			color={ 251 170 111 }
+			color2={ 10 10 10 }
+
+			c_liuthuungh = {
+
+				color={ 241 170 111 }
+				color2={ 10 10 10 }
+
+				b_ghakchjyen = {
+				}
+				b_lankhe_liuthuungh = {
+				}
+				b_ngiehtuuk = {
+				}
+			}
+			c_zjenxgiox = {
+
+				color={ 251 180 111 }
+				color2={ 10 10 10 }
+
+				b_dalizjenglix = {
+				}
+				b_dalihiangzjeng = {
+				}
+				b_njokhoh = {
+				}
+				b_lagyungh = {
+				}
+				b_kiux = {
+				}
+				b_sam = {
+				}
+				b_ngiu = {
+				}
+			}
+		}
+		d_thaktung = {
+
+			capital = 1899 # Tung-chjyen
+
+			color={ 255 255 121 }
+			color2={ 10 10 10 }
+
+			c_tungchjyen = {
+
+				color={ 245 255 121 }
+				color2={ 10 10 10 }
+
+				b_piihbuanh = {
+				}
+			}
+			c_zjengchjenx = {
+
+				color={ 255 245 121 }
+				color2={ 10 10 10 }
+
+				b_zjengchjenx = {
+				}
+				b_gioxgieu = {
+				}
+				b_uonpiuh = {
+				}
+				b_jiingyan = {
+				}
+				b_giacuung = {
+				}
+				b_siungmieng = {
+				}
+				b_aneng = {
+				}
+				b_lakmung = {
+				}
+			}
+			c_zjekzjeng = {
+
+				color={ 255 255 131 }
+				color2={ 10 10 10 }
+
+				b_khyukziengx = {
+				}
+				b_muamje = {
+				}
+				b_laiung = {
+				}
+				b_sintreng = {
+				}
+				b_mjeluk = {
+				}
+				b_sriicuung = {
+				}
+			}
+		}
+		d_thunghaix = {
+
+			capital = 1902 # Cuad-neng
+
+			color={ 226 254 118 }
+			color2={ 10 10 10 }
+
+			c_cuadneng = {
+
+				color={ 236 254 118 }
+				color2={ 10 10 10 }
+
+				b_ngopme = {
+				}
+				b_angyat = {
+				}
+				b_yanglunghsren = {
+				}
+				b_kraughop = {
+				}
+				b_sjaxcii = {
+				}
+				b_ghuehmuax = {
+				}
+			}
+			c_siuhsren = {
+
+				color={ 226 244 118 }
+				color2={ 10 10 10 }
+
+				b_siuhsren = {
+				}
+				b_miukcok = {
+				}
+				b_noplu = {
+				}
+				b_chitkhe = {
+				}
+				b_thetjyungdenh = {
+				}
+				b_sida = {
+				}
+				b_neng = {
+				}
+				b_abok = {
+				}
+			}
+			c_phongsali = {
+
+				color={ 226 254 128 }
+				color2={ 10 10 10 }
+
+				b_phongsali = {
+				}
+				b_khun_suk = {
+				}
+				b_chakhamsan = {
+				}
+				b_bo_cong = {
+				}
+				b_macalong = {
+				}
+				b_chakhampa = {
+				}
+				b_phong_sek = {
+				}
+				b_pia_say = {
+				}
+			}
+		}
+		d_yengxchjang = {
+
+			capital = 1904 # Yengx-chjeng
+
+			color={ 226 255 66 }
+			color2={ 10 10 10 }
+
+			c_yengxchjang = {
+
+				color={ 236 255 66 }
+				color2={ 10 10 10 }
+
+				b_pauxsren = {
+				}
+				b_kuangxjii = {
+				}
+				b_sjinghhiang = {
+				}
+			}
+			c_dongdriung = {
+
+				color={ 226 245 66 }
+				color2={ 10 10 10 }
+
+				b_dongdriung = {
+				}
+				b_sieuxsramua = {
+				}
+				b_bohmang = {
+				}
+				b_kanngrak = {
+				}
+				b_nom = {
+				}
+				b_nomsuungh = {
+				}
+			}
+		}
+	}
+	k_hariphunchai = {
+
+    		color= { 225 179 232 }
+    		color2= { 255 255 255 }
+
+		culture = mon
+
+		capital = 1583 #Hariphunchai
+
+		d_hariphunchai = {
+
+    			color= { 241 169 194 }
+    			color2= { 255 255 255 }
+
+			capital = 1583 #Hariphunchai
+
+			c_hariphunchai = {
+
+    				color= { 251 169 194 }
+    				color2= { 255 255 255 }
+
+				b_hariphunchai = {
+				}
+				b_pa_sang = {
+				}
+				b_san_pa_tong = {
+				}
+				b_hang_dong = {
+				}
+				b_saraphi = {
+				}
+				b_ban_thi = {
+				}
+				b_mae_tha = {
+				}
+				b_doi_lo = {
+				}
+			}
+			c_sukhothai = {
+
+    				color= { 241 179 194 }
+    				color2= { 255 255 255 }
+
+				b_sukhothai = {
+				}
+				b_si_samrong = {
+				}
+				b_sawankhalok = {
+				}
+				b_thung_saliam = {
+				}
+				b_ban_dan_lan_hoi = {
+				}
+				b_si_samrong = {
+				}
+				b_kong_krailat = {
+				}
+				b_phichai = {
+				}
+			}
+			c_lampang = {
+
+    				color= { 241 169 204 }
+    				color2= { 255 255 255 }
+
+				b_lampang = {
+				}
+				b_ngao = {
+				}
+				b_mae_tha = {
+				}
+				b_mae_mo = {
+				}
+				b_ko_kha = {
+				}
+				b_hang_chat = {
+				}
+				b_soem_ngam = {
+				}
+				b_sop_prap = {
+				}
+			}
+			c_phitsanulok = {
+
+    				color= { 231 169 194 }
+    				color2= { 255 255 255 }
+
+				b_phitsanulok = {
+				}
+				b_bang_rakam = {
+				}
+				b_wang_thom = {
+				}
+				b_wat_bot = {
+				}
+				b_phrom_phiram = {
+				}
+				b_bang_krathum = {
+				}
+				b_noen_maprang = {
+				}
+				b_kaeng_sopha = {
+				}
+			}
+		}
+		d_lanna = {
+
+    			color= { 188 170 240 }
+    			color2= { 255 255 255 }
+
+			capital = 1625 #Chiang Rai
+
+			c_chiang_rai = {
+
+    				color= { 198 170 240 }
+    				color2= { 255 255 255 }
+
+				b_chiang_rai = {
+				}
+				b_phan = {
+				}
+				b_mae_lao = {
+				}
+				b_mae_suai = {
+				}
+				b_wiang_pa_pao = {
+				}
+				b_phaya_mengrai = {
+				}
+				b_pa_daet = {
+				}
+				b_mae_chedi_mai = {
+				}
+			}
+			c_chiang_mai = {
+
+    				color= { 188 180 240 }
+    				color2= { 255 255 255 }
+
+				b_chiang_mai = {
+				}
+				b_mae_chaem = {
+				}
+				b_chom_thong = {
+				}
+				b_hot = {
+				}
+				b_bo_luang = {
+				}
+				b_omkoi = {
+				}
+				b_doi_tao = {
+				}
+				b_mae_rim = {	
+				}
+			}
+			c_ngoenyang = {
+
+    				color= { 188 170 250 }
+    				color2= { 255 255 255 }
+
+				b_ngoenyang = {
+				}
+				b_ban_saeo = {
+				}
+				b_chiang_saen = {
+				}
+				b_mae_chan = {
+				}
+				b_wiang_chiang_rung = {
+				}
+				b_chiang_khong = {
+				}
+				b_sathan = {
+				}
+				b_si_don_chai = {
+				}
+			}
+			c_keng_tung = {
+
+    				color= { 198 170 240 }
+    				color2= { 255 255 255 }
+
+				b_keng_tung = {
+				}
+				b_wan_tong = {
+				}
+				b_wan_um = {
+				}
+				b_wan_kong = {
+				}
+				b_wan_hwe = {
+				}
+				b_wan_tong = {
+				}
+				b_pangkawkawm = {
+				}
+				b_yangka = {
+				}
+			}
+		}
+		d_nan = {
+
+    			color= { 253 157 167 }
+    			color2= { 255 255 255 }
+
+			capital = 1618 #Nan
+
+			c_nan = {
+
+    				color= { 243 157 167 }
+	    			color2= { 255 255 255 }
+
+				b_nan = {
+				}
+				b_phu_phiang = {
+				}
+				b_wiang_sa = {
+				}
+				b_santi_suk = {
+				}
+				b_mae_charim = {
+				}
+				b_tha_wang_pha = {
+				}
+				b_pua = {
+				}
+				b_bo_kluea = {
+				}
+			}
+			c_phayao = {
+
+    				color= { 253 167 167 }
+    				color2= { 255 255 255 }
+
+				b_phayao = {
+				}
+				b_phu_kamyao = {
+				}
+				b_dok_khamtai = {
+				}
+				b_mae_chai = {
+				}
+				b_chiang_kham = {
+				}
+				b_phu_sang = {
+				}
+				b_pong = {
+				}
+				b_chiang_muan = {
+				}
+			}
+			c_ban_houayxay = {
+
+    				color= { 253 157 177 }
+    				color2= { 255 255 255 }
+
+				b_ban_houayxay = {
+				}
+				b_ban_hatsa = {
+				}
+				b_pak_tha = {
+				}
+				b_ban_long = {
+				}
+				b_ban_nam_kueung = {
+				}
+				b_ban_chapoutao = {
+				}
+				b_ban_khai_san = {
+				}
+				b_ban_pia_sine = {
+				}
+			}
+			c_luang_namtha = {
+
+    				color= { 253 147 167 }
+    				color2= { 255 255 255 }
+
+				b_luang_namtha = {
+				}
+				b_ban_ai_one = {
+				}
+				b_ban_sene_luang_keo = {
+				}
+				b_ban_lacha = {
+				}
+				b_muang_sing = {
+				}
+				b_ban_mau = {
+				}
+				b_ban_cha_kanta = {
+				}
+				b_wan_hkung = {
+				}
+			}
+		}
+	}
+}
+
+k_chiang_hung = {
+
+	color= { 157 139 146  }
+	color2= { 255 255 255 }
+
+	capital = 1667 #Phongsali
+	culture = thai
+}
+
+k_sukhothai = {
+
+    	color= { 249 224 153 }
+    	color2= { 255 255 255 }
+
+	capital = 1619 #Sukhothai
+	culture = thai
+
+}
+
+d_phayao = {
+
+    	color= { 253 167 167 }
+    	color2= { 255 255 255 }
+
+	capital = 1626 #Phayao
+}
+
+k_lanna = {
+
+    	color= { 188 170 240 }
+    	color2= { 255 255 255 }
+
+	capital = 1625 #Chiang Rai
+
+}
+
+d_ngoenyang = {
+
+	color= { 188 170 250 }
+	color2= { 255 255 255 }
+
+	capital = 1638 #Ngoenyang
+}

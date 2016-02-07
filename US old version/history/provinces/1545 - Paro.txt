@@ -1,0 +1,20 @@
+# 1296 - Paro
+
+# County Title
+title = c_paro
+
+# Settlements
+max_settlements = 5
+#b_damthang = castle
+b_paro = tribal
+b_kyichu = temple
+b_taktshang = temple
+b_tshalunang = city
+#b_hungrel = castle
+#b_gasa = castle
+
+# Misc
+culture = bodpa
+religion = vajrayana
+
+# History

@@ -1,0 +1,17 @@
+# 1914 - Anbyeon
+
+# County Title
+title = c_anbyeon
+
+# Settlements
+max_settlements = 2
+b_anju = tribal
+b_gyeongju_anbyeon = tribal
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+
+1050.1.1 = { culture = jurchen }

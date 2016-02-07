@@ -1,49 +1,39 @@
-#Karabalghasun Dynasty
 744.1.1={
-	liege="e_uyghur"
-}
-744.1.1={
-	holder=1000203813 #Gulipeiluo
+	holder=188783
+	liege=k_mongolia
 }
 747.1.1={
-	holder=1000203814 #Moyanchuo
+	holder=188784
 }
-759.1.1={
-	holder=1000203815 #Yidijian
+759.6.1={
+	holder=188785
 }
 779.1.1={
-	holder=1000203816 #Dunmohedagan
+	holder=188786
 }
 789.1.1={
-	holder=1000203817 #Duoluositejin
+	holder=188787
 }
 790.1.1={
-	holder=1000203818 #Jueluowu
+	holder=188788
 }
-790.6.1={
-	holder=1000203819 #Achuo
-}
-
-#Guduolu Dynasty (usurpers)
 795.1.1={
-	holder=1000203820 #Guduolu
+	holder = 194191
 }
 808.1.1={
-	holder=1000203821 #Baoyikehan
+	holder = 166758
 }
 821.1.1={
-	holder=1000203822 #Chongdekehan
+	holder = 166759
 }
 824.1.1={
-	holder=1000203823 #Hesatejin
+	holder = 166760
 }
 832.1.1={
-	holder=1000203824 #Hutejin
+	holder = 166761
 }
-
-#Jueluowu Dynasty (usurper)
 839.1.1={
-	holder=1000203825 #Jueluowu
+	holder = 166763
 }
 
 
@@ -90,7 +80,7 @@
 }
 
 1203.1.1={
-	liege="k_khamag_mongol"
+	liege="d_mongol"
 }
 1203.1.1={
 	holder=125501 #Genghis
@@ -98,56 +88,48 @@
 1206.1.1={
 	liege="e_mongol_empire"
 }
-1227.12.2={
-	holder=125520 #Tolui
+1227.12.2 = {
+	holder = 172005 # Ögedei Khan
 }
-1229.9.13={
-	holder=172005 #Ogodei
+1241.12.11 = {
+	holder = 172007 # Güyük Khan
 }
-1241.12.11={
-	holder=172007 #Guyug
+1248.1.1 = {
+	holder = 217265 # Möngke Khan
 }
-1248.1.1={
-	holder=1000202465 #Möngke
+1259.8.11 = {
+	holder = 217266 # Kublai Khan
 }
-1259.8.11={
-	holder=1000202466 #Kublai
+1294.2.18 = {
+	holder = 217269 # Temür Khan
 }
-
-#Yuan Dynasty
-1279.3.19 = {
-	liege="e_china"
+1307.2.10 = {
+	holder = 217271 # Külüg Khan
 }
-1294.2.18={
-	holder=1000202470 #Öljeytü-Temür
+1311.1.27 = {
+	holder = 217272 # Buyantu Khan
 }
-1307.2.10={
-	holder=1000202473 #Külüg
+1320.3.1 = {
+	holder = 217274 # Gegeen Khan
 }
-1311.1.27={
-	holder=1000202474 #Buyantu
+1323.9.4 = {
+	holder = 217279 # Yesün Temür Khan
 }
-1320.3.1={
-	holder=1000202475 #Gegeen
+1328.8.15 = {
+	holder = 217280 # Ragibagh Khan
 }
-1323.9.4={
-	holder=1000202471 #Yesün-Temür
+1328.11.14 = {
+	holder = 217281 # Jayaatu Khan
 }
-1328.8.15={
-	holder=1000202472 #Ragibagh
+1329.2.27 = {
+	holder = 217282 # Khutughtu Khan Kusala
 }
-1328.11.14={
-	holder=1000202477 #Jayaatu
+1329.8.30 = { # Enthroned 1329.9.8
+	holder = 217281 # Jayaatu Khan
 }
-1329.4.3={
-	holder=1000202476 #Khutughtu
+1332.9.2 = { # Coronation 1332.10.23
+	holder = 217283 # Rinchinbal Khan
 }
-1329.8.30={
-	holder=1000202477 #Jayaatu (again)
-}
-1332.9.2={
-	holder=1000202479 #Rinchinbal
-}
-1332.12.14={
-	holder=1000202478 #Ukhaantu
+1332.12.14 = {
+	holder = 217284 # Toghon Temür Khan
 }

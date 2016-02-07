@@ -1,0 +1,22 @@
+# 944 - Iyo
+
+# County Title
+title = c_iyo
+
+# Settlements
+max_settlements = 5
+b_ochi = castle
+b_noma = castle
+b_iyo = castle
+
+#b_nii = castle
+#b_uma = castle
+#b_kazahaya = castle
+#b_onsen = castle
+#b_uwa = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

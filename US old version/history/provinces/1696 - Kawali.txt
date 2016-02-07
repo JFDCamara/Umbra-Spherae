@@ -1,0 +1,21 @@
+# 1182 - Kawali
+
+# County Title
+title = c_kawali
+
+# Settlements
+max_settlements = 7
+b_karang_kamulyan = castle
+b_kawali = city
+b_cirebon = temple
+b_linggajati = city
+b_cipari = castle
+#b_saunggalah =
+#b_panjalu =
+#b_subang =
+
+# Misc
+culture = sundanese
+religion = hindu
+
+# History

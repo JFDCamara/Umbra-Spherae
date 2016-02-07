@@ -1,0 +1,64 @@
+#Siraya Dynasty (placeholders)
+750.1.1={
+	holder=1000205116 #Kasbol
+}
+780.1.1={
+	holder=1000205117 #Rawaz
+}
+810.1.1={
+	holder=1000205118 #Bari
+}
+840.1.1={
+	holder=1000203575 #Aslamie
+}
+870.1.1={
+	holder=1000203576 #Sapoeh
+}
+900.1.1={
+	holder=1000203577 #Pabura
+}
+930.1.1={
+	holder=1000203578 #Timo
+}
+960.1.1={
+	holder=1000203579 #Ris
+}
+990.1.1={
+	holder=1000203580 #Patash
+}
+1020.1.1={
+	holder=1000203581 #Vare
+}
+1050.1.1={
+	holder=1000203582 #Dilhkay
+}
+1080.1.1={
+	holder=1000203583 #Rawar
+}
+1110.1.1={
+	holder=1000203584 #Flhush
+}
+1140.1.1={
+	holder=1000203585 #Loklaw
+}
+1170.1.1={
+	holder=1000203586 #Lhamic
+}
+1200.1.1={
+	holder=1000203587 #Walo
+}
+1230.1.1={
+	holder=1000203588 #Rzis
+}
+1260.1.1={
+	holder=1000203589 #Xames
+}
+1290.1.1={
+	holder=1000203590 #Uras
+}
+1320.1.1={
+	holder=1000203591 #Rukcaw
+}
+1350.1.1={
+	holder=1000203592 #Daxa
+}

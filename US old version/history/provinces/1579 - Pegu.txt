@@ -1,0 +1,21 @@
+# 1065 - Pegu
+
+# County Title
+title = c_pegu
+
+# Settlements
+max_settlements = 5
+b_tawa = castle
+b_pegu = city
+b_thanatpin = temple
+#b_kamase =
+#b_tawzun =
+#b_payagyi =
+#b_pyinkado_le_einsu =
+#b_phayagale =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

@@ -1,0 +1,179 @@
+619.1.1={
+	liege="e_tibetan_empire"
+}
+619.1.1={
+	holder = 1000077128
+}
+650.1.1={
+	holder = 1000077140
+} #Regent
+656.1.1={
+	holder = 1000077144
+}
+679.1.1={
+	holder = 1000077141
+} #Regent
+685.1.1={
+	holder = 1000077142
+} #Regent
+686.1.1={
+	holder = 1000077150
+}
+704.6.1={
+	holder = 1000077155
+} #Deposed
+705.1.1={
+	holder = 1000077145
+} #Regent
+712.1.1={
+	holder = 1000077156
+}
+755.1.1={
+	holder = 1000077164
+}
+797.1.1={
+	holder = 1000077174
+}
+802.1.1={
+	holder = 1000077176
+}
+804.1.1={
+	holder = 1000077177
+}
+815.1.1={
+	holder = 1000077183
+}
+838.11.1={
+	holder = 1000077184
+}
+842.1.1={
+	liege=0
+}
+
+#Katyuri-Basantadeva Dynasty
+850.1.1 = {
+	liege="k_uttarakhand"
+}
+850.1.1 = {
+	holder=1000080353 #Basantadeva
+}
+870.1.1 = {
+	holder=1000080354 #Kharparadeva
+}
+880.1.1 = {
+	holder=1000080355 #Kalyanaraja
+}
+890.1.1 = {
+	holder=1000080356 #Tribhuvanarajadeva
+}
+
+#Katyuri-Nimbar Dynasty
+900.1.1 = {
+	holder=1000080357 #Nimbar
+}
+915.1.1 = {
+	holder=1000080358 #Ishtaganadeva
+}
+930.1.1 = {
+	holder=1000080359 #Lalitansuradeva
+}
+955.1.1 = {
+	holder=1000080360 #Bhudeva
+}
+
+#Katyuri-Salonaditya Dynasty
+970.1.1 = {
+	holder=1000080361 #Salonaditya
+}
+985.1.1 = {
+	holder=1000080362 #Ichchhatadeva
+}
+1000.1.1 = {
+	holder=1000080363 #Deshtadeva
+}
+1015.1.1 = {
+	holder=1000080364 #Padmatadeva
+}
+1045.1.1 = {
+	holder=1000080365 #Subhikshrajyadeva
+}
+1060.1.1 = {
+	holder=1000080366 #Narsinghdeva
+}
+1061.1.1 = {
+	holder=1000080367 #Pritamdeva
+}
+1062.1.1 = {
+	holder=1000080368 #Dhamdeva
+}
+1063.1.1 = {
+	holder=1000080369 #Brahmadeva
+}
+1064.1.1 = {
+	holder=1000080370 #Biradeva
+}
+1065.1.1 = {
+	liege="d_kumaon"
+}
+1065.1.1 = {
+	holder=1000080371 #Tribhuvanpal
+}
+1070.1.1 = {
+	holder=1000080372 #Indrapal
+}
+1090.1.1 = {
+	holder=1000080373 #Lakhanpal
+}
+1152.1.1 = {
+	holder=1000080374 #Udayapaldeva
+}
+1181.1.1 = {
+	holder=1000080375 #Ananatpaldeva
+}
+1202.1.1 = {
+	holder=1000080376 #Indrapaldeva
+}
+1214.1.1 = {
+	holder=1000080377 #Vijayapaldeva
+}
+1220.1.1 = {
+	holder=1000080378 #Lakshamanpaldeva
+}
+1223.1.1 = {
+	holder=1000080379 #Vallaldeva
+}
+
+#Chand Dhynasty
+1250.1.1 = {
+	holder=1000080411 #Dhyana
+}
+1262.1.1 = {
+	holder=1000080412 #Parbata
+}
+1283.1.1 = {
+	holder=1000080413 #Thohar
+}
+1290.1.1 = {
+	holder=1000080414 #Kalyan
+}
+1308.1.1 = {
+	holder=1000080415 #Guru-Gyan
+}
+1318.1.1 = {
+	holder=1000080416 #Udhyan
+}
+1335.1.1 = {
+	holder=1000080417 #Atma
+}
+1343.1.1 = {
+	holder=1000080418 #Triloki
+}
+1350.1.1 = {
+	holder=1000080419 #Damara
+}
+1363.1.1 = {
+	holder=1000080420 #Dharma
+}
+1380.1.1 = {
+	holder=1000080421 #Abhaya
+}

@@ -1,0 +1,19 @@
+# 1899 - Sungqu
+
+# County Title
+title = c_sungqu
+# Settlements
+max_settlements = 4
+b_sirza_degu = tribal
+b_sungqu = city
+b_huanglong = temple
+#b_ercun = castle
+#b_dazashi = city
+#b_banyou = temple
+#b_tangke = castle
+
+# Misc
+culture = qiang
+religion = rmagao
+
+# History

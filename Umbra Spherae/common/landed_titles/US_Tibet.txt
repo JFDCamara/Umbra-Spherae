@@ -1118,28 +1118,3 @@ k_yartse = {
 	culture = bodpa
 	capital = 1539 # Purang
 }
-
-k_sakya_trizin = {
-	color={ 168 53 50 }
-	color2={ 105 106 196 }
-	
-	capital = 1547 # Sakya
-	
-	title = "SAKYA_TRIZIN"
-	title_female = "SAKYA_TRIZINMO"
-	foa = "SAKYA_TRIZIN_FOA"
-	short_name = yes
-	
-	# Always exists
-	landless = no
-
-	# Controls a religion
-	controls_religion = vajrayana
-	
-	religion = vajrayana
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-
-}

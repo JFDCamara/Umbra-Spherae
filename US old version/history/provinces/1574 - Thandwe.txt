@@ -1,0 +1,21 @@
+# 1043 - Thandwe
+
+# County Title
+title = c_thandwe
+
+# Settlements
+max_settlements = 4
+b_zi_phyu_kone = castle
+b_thandwe = city
+b_gyeiktaw = temple
+#b_made =
+#b_kayukkyi =
+#b_minbyin =
+#b_pazunbye =
+#b_shaukkon =
+
+# Misc
+culture = bamar
+religion = buddhist
+
+# History

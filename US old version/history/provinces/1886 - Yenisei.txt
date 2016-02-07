@@ -1,0 +1,18 @@
+# 1882 - Yenisei
+
+# County Title
+title = c_yenisei
+
+# Settlements
+max_settlements = 4
+b_bazandaikha = tribal
+b_uvaly = tribal
+#b_ust_erba =
+#b_kobyakovo =
+#b_belyy_lyus =
+
+# Misc
+culture = kirghiz
+religion = tengri_pagan
+
+# History

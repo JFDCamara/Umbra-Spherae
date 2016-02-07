@@ -1,0 +1,24 @@
+# 1672 - Dengh
+
+# County Title
+title = c_dengh
+
+# Settlements
+max_settlements = 4
+b_anhix = castle
+b_sinlak = city
+b_pokngrukmieuh = temple
+#b_myogik =
+#b_khyukjang =
+#b_pokbjen =
+#b_dang =
+#b_myanghto =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

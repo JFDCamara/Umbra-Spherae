@@ -1,0 +1,38 @@
+sivullirmiut = {
+	graphical_cultures = { mongolgfx muslimgfx }
+
+	tuniq = {
+		graphical_cultures = { mongolgfx muslimgfx }
+
+		color = { 0.3 0.2 0.2 }
+
+		male_names = {
+			Adlartok Aga Aglakti Agloolik Aguta Ahnah Aipalovik Aituserk Akiak Akkikiktok Akkilokipok Akkituyok Akluitok Akna Akrittok Alornerk Amaguq Amak Anana Anernerk Aningan Annakpok Anuun Anuniaq Anyu Aput Aquutaq Arjalinerk Arnaaluk Arrluk Asiavik Assiminik Asungaq  Ataciara Ataneq Ataninnuaq Atka Aukaneck Aumanil Atkonartok Aukaneck Biisaiyowaq Buniq ChenaChu Chugach Chugiak Chulyin Cikuq Corazon Cupun Deniigi Desna Ek Chua Eska Hey Igalaq Iglopuk Ikiaq Ikniqpalagaq Ileanaitut Illiivat Iluak Iluliaq Iluq Immuyak Imnek Injuquaq Inungoark Ipiktok Iqniq Irdlirvirisissong Issorartuyok Issudlerk Issumatar Itigiaq Iyaroak Kakrayok Kamik Kanguyak Kannoyak Kanosak Kanut Kapik Kappianartok Kappiataitok Karpok Kaskae Kassuq Kattituyok Kaya Keelut Keruguq Kesuk Keyush Kilalurak Kilaun Kinaktok Kinalik Kinapak Kingudlerk Kinguyakkii Kirima Koko Kakortok Krernertok Kukuq Kulitak Kunikpok Kunwaktok Kussuyok Kuvageegai
+		Maguyuk Makittuq Makoktok Makpigat Mangokpok Maniitok Manirak Masaaraq Massak Massalerauvok Mauja Mequssuk Miki Miksa Mumk Naartok Naga Nagojut Nannuraluk Nanuq Nasamiituuq Nauja Negiliq Nerromiktok Nertornartok Nigaq Nilak Ningakpok Nini Nippikortuyok Noahtakmiut Noatak Nukilik Nukka Nunataq Nutaaq Nutaralak Nutarniq Okauyak Olikpok Onartok Oogrooq Oomailiq Pakak Palartok Pamiiruq Pamiiyok Panik Pattangayok Pekartok Piaktok Pikatti Piktaungitok Pitsiark Poallu Pukak Pukiq Pukulria Purnaq Putyuk Qaniit Qannik Qatqain Qatiichii Qeorvik Qigiq Qilaq Qimmiq Qimugkauyar Qimugta Qimukti Qopuk Quvianuq Sadluyok Saghani Sakari Salaksartok Sangilak Sedna Sesi Shesh Shila Shtiya Sialuk Siarut Siku Sikuaq Silatuyok Sinaaq sinniktok Sirmiq Sitiyok Sivudlerk Sos Suinnak Suka Suluk Sura Takiyok Tatkret Takubvik Taliriktug Tanaraq Taqukaq Tarralikitak Tartok Tattilgat Tavrani Tavra Tekkeitsertok Tiglikte Tiilaqiia Tikaani
+		Tikivik Tiquana Tiguaq Tingenek Tingiyok Tipvigut Tlate Hiin Tomkin Tonrar Tonraq Tootega Torngasak Tornuaq Tuaq Tukkuttok Tuktu Tukturaluk Tullik Tulugaq Tulukaruk Tunerk Tungortok Tungulria Tupilek Tupit Tuuluuwaq Tuwawi Ublureak Uglu Uiritsaktak Ukluk Ulva Umiak Umiaktorvik Unalaq Uukkarnit Uvlugiaq Uyarak Yakone Yuralria
+		}
+
+		female_names = {
+			Adlartok Aga Aglakti Agloolik Aguta Ahnah Aipalovik Aituserk Akiak Akkikiktok Akkilokipok Akkituyok Akluitok Akna Akrittok Alornerk Amaguq Amak Anana Anernerk Aningan Annakpok Anuun Anuniaq Anyu Aput Aquutaq Arjalinerk Arnaaluk Arrluk Asiavik Assiminik Asungaq  Ataciara Ataneq Ataninnuaq Atka Aukaneck Aumanil Atkonartok Aukaneck Biisaiyowaq Buniq ChenaChu Chugach Chugiak Chulyin Cikuq Corazon Cupun Deniigi Desna Ek Chua Eska Hey Igalaq Iglopuk Ikiaq Ikniqpalagaq Ileanaitut Illiivat Iluak Iluliaq Iluq Immuyak Imnek Injuquaq Inungoark Ipiktok Iqniq Irdlirvirisissong Issorartuyok Issudlerk Issumatar Itigiaq Iyaroak Kakrayok Kamik Kanguyak Kannoyak Kanosak Kanut Kapik Kappianartok Kappiataitok Karpok Kaskae Kassuq Kattituyok Kaya Keelut Keruguq Kesuk Keyush Kilalurak Kilaun Kinaktok Kinalik Kinapak Kingudlerk Kinguyakkii Kirima Koko Kakortok Krernertok Kukuq Kulitak Kunikpok Kunwaktok Kussuyok Kuvageegai
+		Maguyuk Makittuq Makoktok Makpigat Mangokpok Maniitok Manirak Masaaraq Massak Massalerauvok Mauja Mequssuk Miki Miksa Mumk Naartok Naga Nagojut Nannuraluk Nanuq Nasamiituuq Nauja Negiliq Nerromiktok Nertornartok Nigaq Nilak Ningakpok Nini Nippikortuyok Noahtakmiut Noatak Nukilik Nukka Nunataq Nutaaq Nutaralak Nutarniq Okauyak Olikpok Onartok Oogrooq Oomailiq Pakak Palartok Pamiiruq Pamiiyok Panik Pattangayok Pekartok Piaktok Pikatti Piktaungitok Pitsiark Poallu Pukak Pukiq Pukulria Purnaq Putyuk Qaniit Qannik Qatqain Qatiichii Qeorvik Qigiq Qilaq Qimmiq Qimugkauyar Qimugta Qimukti Qopuk Quvianuq Sadluyok Saghani Sakari Salaksartok Sangilak Sedna Sesi Shesh Shila Shtiya Sialuk Siarut Siku Sikuaq Silatuyok Sinaaq sinniktok Sirmiq Sitiyok Sivudlerk Sos Suinnak Suka Suluk Sura Takiyok Tatkret Takubvik Taliriktug Tanaraq Taqukaq Tarralikitak Tartok Tattilgat Tavrani Tavra Tekkeitsertok Tiglikte Tiilaqiia Tikaani
+		Tikivik Tiquana Tiguaq Tingenek Tingiyok Tipvigut Tlate Hiin Tomkin Tonrar Tonraq Tootega Torngasak Tornuaq Tuaq Tukkuttok Tuktu Tukturaluk Tullik Tulugaq Tulukaruk Tunerk Tungortok Tungulria Tupilek Tupit Tuuluuwaq Tuwawi Ublureak Uglu Uiritsaktak Ukluk Ulva Umiak Umiaktorvik Unalaq Uukkarnit Uvlugiaq Uyarak Yakone Yuralria
+		}
+
+		dynasty_title_names = no
+
+		prefix = no
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 30
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+}

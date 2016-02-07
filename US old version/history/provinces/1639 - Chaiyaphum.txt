@@ -1,0 +1,22 @@
+# 1125 - Chaiyaphum
+
+# County Title
+title = c_chaiyaphum
+
+# Settlements
+max_settlements = 4
+b_ban_khwao = castle
+b_chaiyaphum = city
+b_chatturat = temple
+#b_bamnet_narong =
+#b_sap_yai =
+#b_nong_bua_rawe =
+#b_khon_sawan =
+#b_kaeng_khro =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History
+

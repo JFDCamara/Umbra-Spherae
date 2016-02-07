@@ -1,0 +1,31 @@
+#Phanya Coeng Dynasty
+1180.1.1 = {
+	holder=1000201985 #Phanya-Coeng
+}
+1192.1.1 = {
+	holder=1000201986 #Sam-Khai-Noeng
+}
+1211.1.1 = {
+	holder=1000201987 #Ai-Pung
+}
+1234.1.1 = {
+	holder=1000201988 #Tao-Hung-Kaen-Cai
+}
+1257.1.1 = {
+	holder=1000201989 #Tao-Haeng-Luang
+}
+1273.1.1 = {
+	holder=1000201990 #Tao-Puwak
+}
+1287.1.1 = {
+	holder=1000201991 #Nyi-Piang-Lak-Cai
+}
+1288.1.1 = {
+	holder=1000201992 #Cao-Ai
+}
+1292.1.1 = {
+	liege="e_china"
+}
+1347.1.1 = {
+	holder=1000201993 #Cao-Khan-Moeng
+}

@@ -1,0 +1,21 @@
+# 1121 - Yawnghwe
+
+# County Title
+title = c_yawnghwe
+
+# Settlements
+max_settlements = 4
+b_heho = castle
+b_yawnghwe = city
+b_taunggyi = temple
+#b_pindaya =
+#b_nwadama =
+#b_intha =
+#b_nampan =
+#b_hkedaung =
+
+# Misc
+culture = shan
+religion = buddhist
+
+# History

@@ -1,0 +1,21 @@
+# 1907 - Hyeongdeok
+
+# County Title
+title = c_hyeongdeok
+
+# Settlements
+max_settlements = 6
+b_hyeonju = tribal
+b_noju = tribal
+#b_cheolju =
+#b_tangju =
+#b_yeongju_heyongdeok =
+#b_heungju =
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+
+1050.1.1 = { culture = jurchen }

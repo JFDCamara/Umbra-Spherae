@@ -1,0 +1,64 @@
+#Suebu Dynasty (placeholders)
+750.1.1={
+	holder=1000205104 #Gigir
+}
+780.1.1={
+	holder=1000205105 #Batas
+}
+810.1.1={
+	holder=1000205106 #Opit
+}
+840.1.1={
+	holder=1000201729 #Cabeza
+}
+870.1.1={
+	holder=1000201730 #Tangkere
+}
+900.1.1={
+	holder=1000201731 #Sumakul
+}
+930.1.1={
+	holder=1000201732 #Tuyuwale
+}
+960.1.1={
+	holder=1000201733 #Rengkung
+}
+990.1.1={
+	holder=1000201734 #Retor
+}
+1020.1.1={
+	holder=1000201735 #Robot
+}
+1050.1.1={
+	holder=1000076151 #Nuril
+}
+1080.1.1={
+	holder=1000201736 #Manese
+}
+1110.1.1={
+	holder=1000201737 #Mamahit
+}
+1140.1.1={
+	holder=1000201738 #Limpele
+}
+1170.1.1={
+	holder=1000201739 #Waani
+}
+1200.1.1={
+	holder=1000201740 #Wagiu
+}
+1230.1.1={
+	holder=1000201741 #Makaliwe
+}
+1260.1.1={
+	holder=1000201742 #Manimporok
+}
+1290.1.1={
+	holder=1000201743 #Mondigir
+}
+1320.1.1={
+	holder=1000201744 #Korbah
+}
+1350.1.1={
+	holder=1000201745 #Tiwow
+}

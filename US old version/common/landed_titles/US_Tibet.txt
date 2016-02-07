@@ -1,0 +1,1145 @@
+e_tibetan_empire = {
+
+    	color= { 177 207 225  }
+    	color2= { 194 140 86  }
+
+	capital = 1534 # Lhasa
+	
+	bodpa = "Bodchenpo"
+
+	k_tibet = {
+
+    		color= { 182 177 224  }
+    		color2= { 194 140 86  }
+
+		capital = 1558 # Taktse
+
+		culture = bodpa
+
+		d_u = {
+
+    			color= { 115 106 196  }
+    			color2= { 194 140 86  }
+
+			capital = 1534 # Lhasa
+
+			c_lhasa = {
+
+    				color= { 125 106 196  }
+    				color2= { 194 140 86  }
+					
+				holy_site = bon
+				holy_site = bon_reformed
+				holy_site = vajrayana
+
+				b_lhasa = {
+				}
+				b_jokhang = { #temple (in Lhasa)
+				}
+				b_reting = { #temple
+				}
+				b_kunggar = {
+				}
+				b_quxu = {
+				}
+				b_ramoche = { #temple (in Lhasa)
+				}
+				b_potala = {
+				}
+				b_lhunzhub = {
+				}
+			}
+			c_gyantse = {
+
+    				color= { 115 116 196  }
+    				color2= { 194 140 86  }
+
+				b_gyantse = {
+				}
+				b_palcho = { #temple
+				}
+				b_bainang = {
+				}
+				b_kangmar = {
+				}
+				b_rinbung = {
+				}
+				b_drongtse = { #temple
+				}
+				b_yatung = {
+				}
+			}
+			c_shigatse = {
+
+    				color= { 115 106 206  }
+    				color2= { 194 140 86  }
+
+				b_shigatse = {
+				}
+				b_namling = {
+				}
+				b_tashilhunpo = { #temple
+				}
+				b_shalu = { #temple
+				}
+				b_deleg = {
+				}
+				b_nyemo = {
+				}
+				b_naktsang = {
+				}
+			}
+			c_taktse = {
+
+    				color= { 105 96 186  }
+    				color2= { 194 140 86  }
+					
+				holy_site = bon
+				holy_site = bon_reformed
+				holy_site = vajrayana
+
+				b_taktse = {
+				}
+				b_zetang = {
+				}
+				b_samye = { #temple
+				}
+				b_tradruk = { #temple
+				}
+				b_yungbulakang = {
+				}
+				b_nagarze = {
+				}
+				b_gonggar = {
+				}
+			}
+		}
+		d_samtho = {
+
+    			color= { 92 126 190  }
+    			color2= { 194 140 86  }
+
+			capital = 1550 # Nyima
+			
+			sumpa = Sumparu
+
+			c_amdo = {
+
+    				color= { 102 126 190  }
+    				color2= { 194 140 86  }
+
+				b_amdo = {
+				}
+				b_zhasa = {
+				}
+				b_rolagang = {
+				}
+				b_gangnyi = {
+				}
+				b_maqingcun = {
+				}
+				b_muleyang_dimacun = {
+				}
+				b_tangrongcun = {
+				}
+			}
+			c_nagchu = {
+
+    				color= { 92 136 190  }
+    				color2= { 194 140 86  }
+
+				b_nagchu = {
+				}
+				b_lhari = {
+				}
+				b_baingoin = {
+				}
+				b_nyainrong = {
+				}
+				b_tashi_dor = { #temple
+				}
+				b_namco = {
+				}
+				b_lhomar = {
+				}
+			}
+			c_nyima = {
+
+    				color= { 92 126 200  }
+    				color2= { 194 140 86  }
+
+				b_nyima = {
+				}
+				b_tanglaicun = {
+				}
+				b_jiwa = {
+				}
+				b_jialongcun = {
+				}
+				b_doijiang = {
+				}
+				b_zaqog = {
+				}
+				b_dogyaling = {
+				}
+			}
+			c_gerze = {
+
+    				color= { 182 175 124  }
+    				color2= { 194 140 86  }
+
+				b_gerze = {
+				}
+				b_lumaringbo = {
+				}
+				b_oma = {
+				}
+				b_dongco = { #temple
+				}
+				b_naqen = {
+				}
+				b_marme = { #temple
+				}
+				b_kangtog = {
+				}
+			}
+		}
+	}
+	k_guge = {
+
+    		color= { 222 207 180  }
+    		color2= { 194 140 86  }
+
+		capital = 1531 # Tsaparang
+		
+		xangxung = "Xang Xung"
+
+		d_guge = {
+
+    			color= { 192 165 114  }
+    			color2= { 194 140 86  }
+
+			capital = 1273 # Gar
+
+			c_tsaparang = {
+
+    				color= { 202 165 114  }
+    				color2= { 194 140 86  }
+
+				b_tsaparang = {
+				}
+				b_tholing = { #temple
+				}
+				b_mangga = {
+				}
+				b_dongqiu = {
+				}
+				b_mangnang = { #temple
+				}
+				b_gurugem = { #temple
+				}
+				b_qusum = {
+				}
+				b_gartok = {
+				}
+			}
+			c_gar = {
+
+    				color= { 192 175 114  }
+    				color2= { 194 140 86  }
+
+				b_gar = {
+				}
+				b_gegyai = {
+				}
+				b_bugongcun = {
+				}
+				b_bijia = { #temple
+				}
+				b_gaerka = { #temple
+				}
+				b_gunsa = {
+				}
+				b_suwenbu = {
+				}
+			}
+			c_rutog = {
+
+    				color= { 192 165 124  }
+    				color2= { 194 140 86  }
+
+				b_rutog = {
+				}
+				b_jiaweichao = {
+				}
+				b_de_jiao = {
+				}
+				b_rituzhen = {
+				}
+				b_rawang_rutog = { #temple
+				}
+				b_zhabsang = {
+				}
+				b_yageide = {
+				}
+			}
+		}
+		d_tsang = {
+
+    			color= { 197 201 107  }
+    			color2= { 194 140 86  }
+
+		capital = 1230 # Kyunglung
+
+			c_kyunglung = {
+
+    				color= { 207 201 107  }
+    				color2= { 194 140 86  }
+
+				b_kyunglung = {
+				}
+				b_re_xijiama = {
+				}
+				b_tirthapuri = { #temple
+				}
+				b_lhara = { #temple
+				}
+				b_xalazakung = {
+				}
+				b_gyanyima = {
+				}
+				b_qulongcun = {
+				}
+			}
+			c_purang = {
+
+    				color= { 197 211 107  }
+    				color2= { 194 140 86  }
+					
+				holy_site = bon
+				holy_site = bon_reformed
+				holy_site = vajrayana
+
+				b_purang = {
+				}
+				b_tingche = {
+				}
+				b_taya = {
+				}
+				b_gangzi = {
+				}
+				b_zijiegong = { #temple
+				}
+				b_khorzhak = { #temple
+				}
+				b_simbiling= { #temple
+				}
+				b_kangtuo = {
+				}
+			}
+			c_coqen = {
+
+    				color= { 197 201 117  }
+    				color2= { 194 140 86  }
+
+				b_coqen = {
+				}
+				b_zhulongcun = {
+				}
+				b_jiugongcun = {
+				}
+				b_zhuglung = {
+				}
+				b_dawaxung = {
+				}
+				b_duichiwu = { #temple
+				}
+				b_bangkor = {
+				}
+			}
+			c_manthang = {
+
+    				color= { 195 221 127  }
+    				color2= { 194 140 86  }
+
+				b_lo = {
+				}
+				b_chhonhup = {
+				}
+				b_muktinath = {
+				}
+				b_kagbeni = {
+				}
+				b_chhusang = {
+				}
+				b_marpha = {
+				}
+				b_chhoser = {
+				}
+			}
+			c_sakya = {
+
+    				color= { 105 106 196  }
+    				color2= { 194 140 86  }
+					
+				holy_site = bon
+				holy_site = bon_reformed
+				holy_site = vajrayana
+
+				b_sakya = { #temple
+				}
+				b_lhatse = {
+				}
+				b_tingri = {
+				}
+				b_shelkar = {
+				}
+				b_drampa_gyang_lhakhang = { #temple
+				}
+				b_dzongkha = {
+				}
+				b_gyagya = {
+				}
+			}
+		}
+		d_ladakh = {
+
+    			color= { 26 155 116  }
+    			color2= { 101 102 163  }
+
+			capital = 1526 # Leh
+			
+			bodpa = "Maryul"
+
+			c_leh = {
+
+    				color= { 36 155 116  }
+    				color2= { 101 102 163  }
+
+				b_leh = {
+				}
+				b_udaipur_leh = {
+				}
+				b_keylong = {
+				}
+				b_gya = {
+				}
+				b_shakti = {
+				}
+				b_thiksey = {
+				}
+				b_chuchot_yakma = {
+				}
+				b_chumathang = {
+				}
+			}
+			c_diskit = {
+
+    				color= { 26 165 116  }
+    				color2= { 101 102 163  }
+
+				b_diskit = {
+				}
+				b_thirit = {
+				}
+				b_hundar = {
+				}
+				b_thoise = {
+				}
+				b_charassa = {
+				}
+				b_panamik = {
+				}
+				b_unmaru = {
+				}
+				b_kimi = {
+				}
+			}
+		}
+	}
+	k_dege = {
+
+    		color= { 213 183 219  }
+    		color2= { 194 140 86  }
+
+		capital = 1562 # Dege
+
+		d_kham = {
+
+    			color= { 176 120 188  }
+    			color2= { 194 140 86  }
+
+			capital = 1535 # Qamdo
+
+			c_dege = {
+
+    				color= { 166 130 178  }
+    				color2= { 194 140 86  }
+
+				b_dege = {
+				}
+				b_jianshe = {
+				}
+				b_zhaggo = {
+				}
+				b_dzongsar = { #temple
+				}
+				b_palpung = { #temple
+				}
+				b_kandze = {
+				}
+				b_serxu = { #temple
+				}
+			}
+			c_nyingchi = {
+
+    				color= { 184 120 190  }
+    				color2= { 194 140 86  }
+
+				b_nyingchi = {
+				}
+				b_drakchi = {
+				}
+				b_buchasergyi_lakang = { #temple
+				}
+				b_lamaling = { #temple
+				}
+				b_gongbogyamda = {
+				}
+				b_bome = {
+				}
+				b_alamdo = {
+				}
+			}
+			c_qamdo = {
+
+    				color= { 176 130 188  }
+    				color2= { 194 140 86  }
+
+				b_qamdo = {
+				}
+				b_biru = {
+				}
+				b_sog = {
+				}
+				b_jomda = {
+				}
+				b_gonjo = {
+				}
+				b_zhagyab = {
+				}
+				b_riwoche = { #temple
+				}
+			}
+			c_dartsedo = {
+
+    				color= { 176 120 198  }
+    				color2= { 194 140 86  }
+
+				b_dartsedo = {
+				}
+				b_xindu = {
+				}
+				b_lithang = {
+				}
+				b_nanwu_si = { #temple
+				}
+				b_jagsamka = {
+				}
+				b_nyarong = {
+				}
+				b_gyaisi = {
+				}
+			}
+			c_markam = {
+
+    				color= { 166 120 188  }
+    				color2= { 194 140 86  }
+
+				b_markam = {
+				}
+				b_batang = {
+				}
+				b_drorkong = {
+				}
+				b_tsagalor = {
+				}
+				b_chubarong = {
+				}
+				b_zogong = {
+				}
+				b_tsarung = {
+				}
+			}
+		}
+		d_erma = {
+
+    			color= { 158 53 106  }
+    			color2= { 194 140 86  }
+
+			capital = 1567 # Sungqu
+
+			culture = qiang
+
+			c_baima = {
+
+    				color= { 168 63 116  }
+    				color2= { 194 140 86  }
+
+				b_baima = {
+				}
+				b_goincang = {
+				}
+				b_zhingda = {
+				}
+				b_kharnang = { #temple
+				}
+				b_jigzhi = {
+				}
+				b_darlag = {
+				}
+				b_gade = {
+				}
+			}
+			c_diexi = {
+
+    				color= { 178 53 116  }
+    				color2= { 194 140 86  }
+
+				b_diexi = {
+				}
+				b_heishui = {
+				}
+				b_li = {
+				}
+				b_weizhou = {
+				}
+				b_fengyi = {
+				}
+				b_nanxin = {
+				}
+				b_xuankou = {
+				}
+			}
+			c_dzoi = {
+
+    				color= { 168 73 126  }
+    				color2= { 194 140 86  }
+
+				b_dzoi = {
+				}
+				b_maqu = {
+				}
+				b_luqu = {
+				}
+				b_jone = {
+				}
+				b_tewo = {
+				}
+				b_bsangqu = {
+				}
+				b_zhugqu = {
+				}
+			}
+			c_ngawa = {
+
+    				color= { 158 63 116  }
+    				color2= { 194 140 86  }
+
+				b_ngawa = {
+				}
+				b_barkam = {
+				}
+				b_rongzhag = {
+				}
+				b_rilong = {
+				}
+				b_gyelten_phuntsoling = { #temple
+				}
+				b_topgyel = { #temple
+				}
+				b_zamtang = {
+				}
+			}
+			c_sungqu = {
+
+    				color= { 148 43 106  }
+    				color2= { 194 140 86  }
+
+				b_sungqu = {
+				}
+				b_ercun = {
+				}
+				b_dazashi = {
+				}
+				b_huanglong = { #temple
+				}
+				b_sirza_degu = {
+				}
+				b_banyou = {
+				}
+				b_tangke = {
+				}
+			}
+		}
+	}
+	k_tuyuhun = {
+
+    		color= { 171 231 185  }
+    		color2= { 194 140 86  }
+
+		capital = 1544 # Fuqi
+
+		culture = tangut
+		
+		bodpa = "Amdo"
+		tangut = "Minyak"
+		han = "Qinghai"
+
+		d_qinghai = {
+
+    			color= { 82 205 109  }
+    			color2= { 194 140 86  }
+
+			capital = 1561 # Xinging
+
+			c_xining = {
+
+    				color= { 92 215 109  }
+    				color2= { 194 140 86  }
+
+				b_xining = {
+				}
+				b_lusar = { #temple
+				}
+				b_haiyan = {
+				}
+				b_menyuan = {
+				}
+				b_dagcer = {
+				}
+				b_chuankou = {
+				}
+				b_pingan = {
+				}
+			}
+			c_fuqi = {
+
+    				color= { 82 215 109  }
+    				color2= { 194 140 86  }
+
+				b_fuqi = {
+				}
+				b_delingha = {
+				}
+				b_gangca = {
+				}
+				b_reshui = { #temple
+				}
+				b_ulan = {
+				}
+				b_tianjun = {
+				}
+				b_xuji = {
+				}
+			}
+		}	
+		d_amdo = {
+
+    			color= { 82 200 109  }
+    			color2= { 185 150 97  }
+
+			capital = 1560 # Nagormo
+
+			c_jyekundo = {
+
+    				color= { 92 205 109  }
+    				color2= { 194 140 86  }
+
+				b_jyekundo = {
+				}
+				b_zadoi = {
+				}
+				b_chindu = {
+				}
+				b_zhidoi = {
+				}
+				b_xangda = {
+				}
+				b_doendrub = { #temple
+				}
+				b_dangla = {
+				}
+			}
+			c_maqen = {
+
+    				color= { 82 205 119  }
+    				color2= { 194 140 86  }
+
+				b_maqen = {
+				}
+				b_yegainnyin = {
+				}
+				b_wenquan = {
+				}
+				b_rabyog = {
+				}
+				b_rebkong = {
+				}
+				b_ziketan = {
+				}
+				b_markuthang = {
+				}
+			}
+			c_nagormo = {
+
+    				color= { 72 205 119  }
+    				color2= { 194 140 86  }
+
+				b_golmud = {
+				}
+				b_lenghu = {
+				}
+				b_mangnai = {
+				}
+				b_qaidam = {
+				}
+				b_qarham = {
+				}
+				b_qingshui = {
+				}
+				b_xinle = {
+				}
+			}
+		}
+	}
+	k_lhomon = {
+
+    		color= { 245 190 156  }
+    		color2= { 194 140 86  }
+
+		capital = 1533 # Bumthang
+
+		d_bhutan = {
+
+    			color= { 236 133 70  }
+    			color2= { 194 140 86  }
+
+			capital = 1533 # Bumthang
+
+			c_bumthang = {
+
+    				color= { 246 133 70  }
+    				color2= { 194 140 86  }
+
+				b_bumthang = {
+				}
+				b_jambay = { #temple
+				}
+				b_kongchogsum = { #temple
+				}
+				b_trongsa = {
+				}
+				b_singye = {
+				}
+				b_trashigang = {
+				}
+				b_zugne = { #temple
+				}
+			}
+			c_paro = {
+
+    				color= { 236 143 70  }
+    				color2= { 194 140 86  }
+					
+				holy_site = bon
+				holy_site = bon_reformed
+				holy_site = vajrayana
+
+				b_paro = {
+				}
+				b_kyichu = { #temple
+				}
+				b_taktshang = { #temple
+				}
+				b_hungrel = {
+				}
+				b_damthang = {
+				}
+				b_tshalunang = {
+				}
+				b_gasa = {
+				}
+			}
+		}
+		d_sikkim = {
+
+    			color= { 251 156 87  }
+    			color2= { 194 140 86  }
+
+			capital = 1566 # Denzong
+			
+			bodpa = "Denzong"
+			
+			c_denzong = {
+
+    				color= { 261 166 97  }
+    				color2= { 194 140 86  }
+
+				b_gangdoz = {
+				}
+				b_mangan = {
+				}
+				b_gyalshing = {
+				}
+				b_namchi = {
+				}
+				b_rumtheg = {
+				}
+				b_ralang = {
+				}
+				b_rangpo = {
+				}
+			}
+		}
+	}
+	k_uttarakhand = {
+
+    		color= { 252 97 182 }
+    		color2= { 161 126 128 }
+
+		capital = 1571 # Kartikkeyapura
+
+		d_kumaon = {
+
+    			color= { 250 78 82 }
+    			color2= { 161 126 128 }
+
+			capital = 1571 # Kartikkeyapura
+
+			c_kartikkeyapura = {
+
+    				color= { 260 78 82 }
+    				color2= { 161 126 128 }
+
+				b_kartikkeyapura = {
+				}
+				b_almora = {
+				}
+				b_ranikhet = {
+				}
+				b_mirai_malli = {
+				}
+				b_bhimtal = {
+				}
+				b_nainital = {
+				}
+				b_danya = {
+				}
+				b_rungri = {
+				}
+			}
+			c_champawat = {
+
+    				color= { 250 88 82 }
+    				color2= { 161 126 128 }
+
+				b_champawat = {
+				}
+				b_lohaghat = {
+				}
+				b_pulhindola = {
+				}
+				b_gurna = {
+				}
+				b_pithoragarh = {
+				}
+				b_askote = {
+				}
+				b_jauljibi = {
+				}
+				b_mirthi = {
+				}
+			}
+		}
+		d_garhwal = {
+
+    			color= { 186 113 253 }
+    			color2= { 161 126 128 }
+
+			capital = 1568 # Devalgarh
+
+			c_devalgarh = {
+
+    				color= { 196 113 253 }
+    				color2= { 161 126 128 }
+
+				b_devalgarh = {
+				}
+				b_srinagar_devalgarh = {
+				}
+				b_pauri = {
+				}
+				b_maletha = {
+				}
+				b_ghurdauri = {
+				}
+				b_parsundakhal = {
+				}
+				b_bachedikhal = {
+				}
+				b_hindolakhal = {
+				}
+			}
+			c_badrinath = {
+
+    				color= { 186 123 253 }
+    				color2= { 161 126 128 }
+
+				b_badrinath = {
+				}
+				b_mana = {
+				}
+				b_ghangaria = {
+				}
+				b_hanuman_chatti = {
+				}
+				b_lambagad = {
+				}
+				b_pandukeshwar = {
+				}
+				b_govind_ghat = {
+				}
+				b_vishnuprayag = {
+				}
+			}
+		}
+	}
+	k_nepal = {
+
+    		color= { 140 165 204  }
+    		color2= { 197 92 106  }
+	
+		capital = 1541 # Kathmandu
+
+		d_kathmandu = {
+
+    			color= { 68 99 151  }
+    			color2= { 197 92 106  }
+
+			capital = 1541 # Kathmandu
+
+			c_kathmandu = {
+
+    				color= { 78 99 151  }
+    				color2= { 197 92 106  }
+
+				b_kathmandu_k = {
+				}
+				b_lalitpur = {
+				}
+				b_patan_kathmandu = {
+				}
+				b_kirtipur = {
+				}
+				b_pashupatinath = { #temple (hindu)
+				}
+			}
+			c_pokhara = {
+
+    				color= { 88 89 151  }
+    				color2= { 197 92 106  }
+
+				b_pokhara = {
+				}
+				b_chitwan = {
+				}
+			}
+			c_bhaktapur = {
+
+    				color= { 108 99 151  }
+    				color2= { 197 92 106  }
+
+				b_bhaktapur = {
+				}
+				b_nagarkot = {
+				}
+			}
+
+		}
+		d_jumla = {
+
+    			color= { 50 148 169  }
+    			color2= { 197 92 106  }
+
+			capital = 1532 # Jumla
+
+			c_jumla = {
+
+    				color= { 60 148 169  }
+	    			color2= { 197 92 106  }
+
+				b_jumla = {
+				}
+				b_muktinath_jumla = { #temple
+				}
+				b_simikot = {
+				}
+				b_dunai = {
+				}
+			}
+			c_dullu = {
+
+    				color= { 50 158 169  }
+    				color2= { 197 92 106  }
+
+				b_dullu = {
+				}
+				b_lumbini_dullu = { #temple (buddhist)
+				}
+				b_dailekh = {
+				}
+				b_gularia = {
+				}
+			}
+		}
+
+	}
+}
+
+k_lo = {
+	color={ 37 16 111 }
+	culture = bodpa
+	capital = 1556 # Mustang
+}
+
+k_yartse = {
+	color={ 208 152 69 }
+	culture = bodpa
+	capital = 1539 # Purang
+}
+
+k_sakya_trizin = {
+	color={ 168 53 50 }
+	color2={ 105 106 196 }
+	
+	capital = 1547 # Sakya
+	
+	title = "SAKYA_TRIZIN"
+	title_female = "SAKYA_TRIZINMO"
+	foa = "SAKYA_TRIZIN_FOA"
+	short_name = yes
+	
+	# Always exists
+	landless = no
+
+	# Controls a religion
+	controls_religion = vajrayana
+	
+	religion = vajrayana
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+
+}

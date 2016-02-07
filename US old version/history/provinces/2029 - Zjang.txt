@@ -1,0 +1,24 @@
+# 1456 - Zjang
+
+# County Title
+title = c_zjang
+
+# Settlements
+max_settlements = 7
+b_myoxcinh = castle
+b_cinhling = city
+b_krungim = city
+b_myosek = city
+b_ngiehing = city
+#b_ghrunglim =
+#b_myanghdeng =
+#b_kyonsren =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

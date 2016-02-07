@@ -1,0 +1,52 @@
+#Tibet
+
+technology = {
+	titles = {
+		d_bhutan
+		d_sikkim
+		d_srinagara
+		d_pamir 
+		d_kumaon
+		d_garhwal
+		d_kathmandu
+		d_jumla
+	}
+
+	769 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+	}
+		
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}
+
+technology = {
+	titles = {
+		d_u
+		d_samtho
+		d_guge
+		d_tsang
+		d_ladakh
+		d_kham
+		d_erma 
+		d_qinghai
+		d_amdo
+	}
+
+	769 = {
+		military = 1.5
+		economy = 0.5
+		culture = 1.0
+	}
+		
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}

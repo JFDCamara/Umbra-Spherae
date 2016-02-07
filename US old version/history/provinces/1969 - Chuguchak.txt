@@ -1,0 +1,18 @@
+# 1310 - Chuguchak
+
+# County Title
+title = c_chuguchak
+
+# Settlements
+max_settlements = 4
+b_chuguchak = tribal
+b_qoqek = temple
+#b_bakhty =
+#b_akchokka =
+#b_zharbulak =
+
+# Misc
+culture = turkish
+religion = tengri_pagan
+
+# History

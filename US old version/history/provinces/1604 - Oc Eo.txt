@@ -1,0 +1,22 @@
+# 1090 - Oc Eo
+
+# County Title
+title = c_oc_eo
+
+# Settlements
+max_settlements = 4
+b_rach_gia = castle
+b_oc_eo = city
+b_ca_mau = temple
+#b_thanh_an =
+#b_thanh_phu =
+#b_truong_xuan =
+#b_long_xuyen =
+#b_thanh_loc =
+
+# Misc
+culture = khmer
+religion = hindu
+
+# History
+

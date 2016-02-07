@@ -1,0 +1,22 @@
+# 947 - Hizen
+
+# County Title
+title = c_hizen
+
+# Settlements
+max_settlements = 4
+b_saga = castle
+b_mii = castle
+b_matsura = castle
+
+#b_goto = castle
+#b_sonoki = castle
+#b_mihara = castle
+#b_kishima = castle
+#b_tsushima = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

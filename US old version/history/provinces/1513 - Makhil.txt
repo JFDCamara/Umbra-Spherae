@@ -1,0 +1,17 @@
+# 1912 - Makhil
+
+# County Title
+title = c_makhil
+
+# Settlements
+max_settlements = 2
+b_makju = tribal
+b_goju = tribal
+
+# Misc
+culture = buyeo
+religion = shingyo
+
+# History
+
+1050.1.1 = { culture = jurchen religion = jurchen_pagan }

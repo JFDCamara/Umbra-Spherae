@@ -1,0 +1,67 @@
+#Metan Dynasty (placeholders)
+750.1.1={
+	holder=1000205023 #Prabawa
+}
+780.1.1={
+	holder=1000205024 #Martana
+}
+810.1.1={
+	holder=1000205025 #Sadarpa
+}
+840.1.1={
+	holder=1000201542 #Wigih
+}
+870.1.1={
+	holder=1000201543 #Girasto
+}
+900.1.1={
+	holder=1000201544 #Gaduh
+}
+930.1.1={
+	holder=1000201545 #Gada
+}
+960.1.1={
+	holder=1000201546 #Darmanto
+}
+990.1.1={
+	holder=1000201547 #Aditya
+}
+1020.1.1={
+	holder=1000201548 #Timur
+}
+1050.1.1={
+	holder=1000076127 #Suganda
+}
+1080.1.1={
+	holder=1000201549 #Sasmaka
+}
+1110.1.1={
+	holder=1000201550 #Pradipta
+}
+1140.1.1={
+	holder=1000201551 #Lanang
+}
+1170.1.1={
+	holder=1000201552 #Lurhur
+}
+1200.1.1={
+	holder=1000201553 #Hardi
+}
+1230.1.1={
+	holder=1000201554 #Galur
+}
+1260.1.1={
+	holder=1000201555 #Susmana
+}
+1290.1.1={
+	holder=1000201556 #Wijaya
+}
+1293.1.1={
+	liege="e_java"
+}
+1320.1.1={
+	holder=1000201557 #Satya
+}
+1350.1.1={
+	holder=1000201558 #Tanaya
+}

@@ -27,10 +27,10 @@
 	holder=1000203738 #Riken
 }
 1020.1.1={
-	holder=1000075232 #Reatai
+	holder=1000203739 #Moima
 }
 1050.1.1={
-	holder=1000203739 #Moima
+	holder=1000075232 #Reatai
 }
 1080.1.1={
 	holder=1000203740 #Wotashi

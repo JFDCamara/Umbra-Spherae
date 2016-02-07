@@ -1,0 +1,22 @@
+# 1830 - Dewa
+
+# County Title
+title = c_dewa
+
+# Settlements
+max_settlements = 4
+b_akita = castle
+b_dewa = temple
+
+#b_kagae = castle
+#b_yuri = castle
+#b_daihoji = castle
+#b_mogami = castle
+#b_senboku = castle
+#b_hiraka = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

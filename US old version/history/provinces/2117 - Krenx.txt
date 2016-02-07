@@ -1,0 +1,24 @@
+# 1589 - Krenx
+
+# County Title
+title = c_krenx
+
+# Settlements
+max_settlements = 5
+b_jangan = castle
+b_bjenzyen = city
+b_kimsjyix = city
+b_yengxneng = city
+#b_kyoihbjen =
+#b_kimdang =
+#b_jyungzyen =
+#b_prakmuh =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

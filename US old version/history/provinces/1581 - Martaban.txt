@@ -1,0 +1,21 @@
+# 1067 - Martaban
+
+# County Title
+title = c_martaban
+
+# Settlements
+max_settlements = 4
+b_moulmein = castle
+b_martaban = city
+b_daingwunkwin = temple
+#b_kahnyaw =
+#b_mudu =
+#b_munaing =
+#b_kamano =
+#b_ywalut =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History
