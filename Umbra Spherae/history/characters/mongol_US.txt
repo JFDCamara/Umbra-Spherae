@@ -2185,7 +2185,7 @@
 1000081071 = {
 	name="Kirakus-Buyruk"
 	dynasty="1000027230"#Kereid
-	father="1000081069"
+	father=1000081069
 	religion="nestorian"
 	culture="mongol"
 	1065.1.1 = {
@@ -2202,7 +2202,7 @@
 1000202453 = {
 	name="Gur"
 	dynasty="1000027230"#Kereid
-	father="1000081069"
+	father=1000081069
 	religion="nestorian"
 	culture="mongol"
 	1066.1.1 = {
@@ -2216,7 +2216,7 @@
 1000202454 = {
 	name="Toghrul"
 	dynasty="1000027230"#Kereid
-	father="1000081071"
+	father=1000081071
 	mother=1000202600
 	religion="nestorian"
 	culture="mongol"
@@ -2231,7 +2231,7 @@
 1000202599 = {
 	name="Jakha-Khambu"
 	dynasty="1000027230"#Kereid
-	father="1000081071"
+	father=1000081071
 	mother=1000202600
 	religion="nestorian"
 	culture="mongol"

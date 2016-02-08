@@ -1,4 +1,4 @@
-#Yaolian Dynasty
+﻿#Yaolian Dynasty
 730.1.1 = {
 	liege="e_china"
 }
@@ -41,69 +41,67 @@
 	liege="e_kitai"
 }
 907.2.27 = {
-	holder=1000202507 #Abaoji
+	holder=194325 #Abaoji
 }
 926.9.6 = {
-	holder=1000202508 #Deguang
+	holder=194326 #Deguang
 }
 947.5.15 = {
-	holder=1000202510 #Ruan
+	holder=194328 #Ruan
 }
 951.10.7 = {
-	holder=1000202511 #Jing
+	holder=194329 #Jing
 }
 969.3.12 = {
-	holder=1000202512 #Xian
+	holder=194330 #Xian
 }
 982.10.13 = {
-	holder=1000202513 #Longxu
+	holder=194331 #Longxu
 }
 1031.6.25 = {
-	holder=1000202514 #Zongzhen
+	holder = 194332
 }
 1055.8.28 = {
-	holder=1000076443 #Hongji
+	holder = 194333
 }
 1101.2.12 = {
-	holder=1000202516 #Yanxi
+	holder = 194334
 }
 
 #Northern Liao
-1122.3.1 = {
-	liege=0
-}
-1122.3.1 = {
-	holder=1000202518 #Chun
-}
-1122.6.1 = {
-	holder=1000202519 #Yali
-}
-1123.10.1 = {
-	holder=1000202520 #Zhulie
-}
+#1122.3.1 = {
+#	liege=0
+#}
+#1122.3.1 = {
+#	holder=1000202518 #Chun
+#}
+#1122.6.1 = {
+#	holder=1000202519 #Yali
+#}
+#1123.10.1 = {
+#	holder=1000202520 #Zhulie
+#}
 
-#Kara-Khitai
-1123.11.1 = {
-	holder=1000202528 #Dashi
+#Kara Khitai
+1125.3.26 = {
+	holder = 188905 # Yelü-Dashi, Kara Khitan conquest
 }
-1125.3.16 = {
-	liege="e_kitai"
-}
-1143.1.1 = {
-	holder=1000202529 #Yilie
+## Kara-Khitan
+#1141.1.1={
+#	
+#}
+1143.1.1={
+	holder = 188907 # Yelü-Yilie
 }
 1163.1.1={
-	holder=1000202530 # Pusuwan
+	holder = 188908 # Pusuwan
 }
 1177.1.1={
-	holder=1000202531 # Yelü-Zhilugu
+	holder = 188912 # Yelü-Zhilugu
 }
-
-#Naiman Dynasty
-1213.1.1 = {
-	holder=1000202584 #Kuchlug
+1211.1.1={
+	holder = 188914 # Kuchlug (de facto)
 }
-1218.1.1 = {
-	liege=0
+1212.1.1={
 	holder=0
 }

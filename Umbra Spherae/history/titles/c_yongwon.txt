@@ -143,7 +143,8 @@
 	liege="k_dan_gur"
 }
 926.1.1 = {
-	holder=1000202509 #Bei
+	#holder=1000202509 #Bei
+	holder=194327 #Bei
 }
 #Later Balhae
 927.1.1={

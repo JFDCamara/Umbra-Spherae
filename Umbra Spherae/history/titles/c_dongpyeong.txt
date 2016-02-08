@@ -55,10 +55,11 @@
 	liege="k_dan_gur"
 }
 926.1.1 = {
-	holder=1000202509 #Bei
+	#holder=1000202509 #Bei
+	holder=194327 #Bei
 }
 930.1.1 = {
-	holder=1000202510 #Ruan
+	holder=194328 #Ruan
 }
 
 #Wanyan Dynasty

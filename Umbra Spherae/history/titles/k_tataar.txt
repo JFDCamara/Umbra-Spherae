@@ -1,7 +1,7 @@
 #Yesun Tataar
-744.1.1 = {
-	liege="e_uyghur"
-}
+#744.1.1 = {
+#	liege="e_uyghur"
+#}
 750.1.1={
 	holder=1000205194 #Duua
 }
@@ -14,9 +14,9 @@
 840.1.1 = {
 	holder=1000202585 #Chilagun
 }
-840.1.1 = {
-	liege="e_kirgiz"
-}
+#840.1.1 = {
+#	liege="e_kirgiz"
+#}
 870.1.1 = {
 	holder=1000202586 #Khadagh
 }
