@@ -39,26 +39,26 @@
 	holder=1000201890 #Macalintal
 }
 1140.1.1={
-	holder=1000201890 #Sayoc
+	holder=1000201891 #Sayoc
 }
 1170.1.1={
-	holder=1000201891 #Dimaporo
+	holder=1000201892 #Dimaporo
 }
 1200.1.1={
-	holder=1000201892 #Idiyanale
+	holder=1000201893 #Idiyanale
 }
 1230.1.1={
-	holder=1000201893 #Pilapil
+	holder=1000201894 #Pilapil
 }
 1260.1.1={
-	holder=1000201894 #Dimaaliw
+	holder=1000201895 #Dimaaliw
 }
 1290.1.1={
-	holder=1000201895 #Casama
+	holder=1000201896 #Casama
 }
 1320.1.1={
-	holder=1000201896 #Galang
+	holder=1000201897 #Galang
 }
 1350.1.1={
-	holder=1000201897 #Macatunao
+	holder=1000201898 #Macatunao
 }

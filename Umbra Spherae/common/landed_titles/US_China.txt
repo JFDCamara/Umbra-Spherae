@@ -5071,12 +5071,12 @@ k_minyag = {
 	color2={ 255 255 255 }
 }
 
-#k_gansu = {
+k_gansu = {
 
-#	capital = 1912 # Liang
+	capital = 1912 # Liang
 
-#   	color= { 225 222 91 }
-#   	color2= { 0 0 0  }
+   	color= { 225 222 91 }
+   	color2= { 0 0 0  }
 
-#	culture = uyghur
-#}
+	culture = uyghur
+}
