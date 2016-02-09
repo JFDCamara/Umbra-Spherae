@@ -1,6 +1,6 @@
 #Proto-Kereid
 840.1.1 = {
-	liege="e_kirgiz"
+	liege="k_mongolia"
 }
 840.1.1 = {
 	holder=1000081088 #Temur

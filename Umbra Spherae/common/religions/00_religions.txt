@@ -1834,7 +1834,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 105
+		icon = 35
 		heresy_icon = 36
 		
 		ai_convert_other_group = 2 # always try to convert
@@ -1895,7 +1895,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 105
+		icon = 34
 		heresy_icon = 35
 		
 		color = { 0.6 0.4 0.3 }
@@ -1956,7 +1956,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 106
+		icon = 35
 		heresy_icon = 36
 		
 		ai_convert_other_group = 2 # always try to convert
@@ -2017,7 +2017,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 106
+		icon = 34
 		heresy_icon = 35
 		
 		color = { 0.6 0.5 0.2 }
@@ -2078,7 +2078,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 107
+		icon = 35
 		heresy_icon = 36
 		
 		ai_convert_other_group = 2 # always try to convert
@@ -2139,7 +2139,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 107
+		icon = 34
 		heresy_icon = 35
 		
 		color = { 0.4 0.3 0.3 }
@@ -2200,7 +2200,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 108
+		icon = 35
 		heresy_icon = 36
 		
 		ai_convert_other_group = 2 # always try to convert
@@ -2261,7 +2261,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 108
+		icon = 34
 		heresy_icon = 35
 		
 		color = { 1.0 0.4 0.1 }
@@ -2323,7 +2323,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 109
+		icon = 35
 		heresy_icon = 36
 		
 		ai_convert_other_group = 2 # always try to convert
@@ -2384,7 +2384,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 109
+		icon = 34
 		heresy_icon = 35
 		
 		color = { 0.3 0.4 0.1 }
@@ -2446,7 +2446,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 110
+		icon = 35
 		heresy_icon = 36
 		
 		ai_convert_other_group = 2 # always try to convert
@@ -2507,7 +2507,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 110
+		icon = 34
 		heresy_icon = 35
 		
 		color = { 0.9 0.7 0.7 }
@@ -2569,7 +2569,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 111
+		icon = 35
 		heresy_icon = 36
 		
 		ai_convert_other_group = 2 # always try to convert
@@ -2630,7 +2630,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 111
+		icon = 34
 		heresy_icon = 35
 		
 		color = { 1.0 0.8 0.1 }
@@ -2692,7 +2692,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 112
+		icon = 35
 		heresy_icon = 36
 		
 		ai_convert_other_group = 2 # always try to convert
@@ -2753,7 +2753,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 112
+		icon = 34
 		heresy_icon = 35
 		
 		color = { 0.6 0.3 0.3 }
@@ -2815,7 +2815,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 113
+		icon = 35
 		heresy_icon = 36
 		
 		ai_convert_other_group = 2 # always try to convert
@@ -2876,7 +2876,7 @@ pagan_group = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
 
-		icon = 113
+		icon = 34
 		heresy_icon = 35
 		
 		color = { 0.7 0.7 0.1 }

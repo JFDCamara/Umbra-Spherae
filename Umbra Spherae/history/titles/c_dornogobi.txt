@@ -1,6 +1,6 @@
 744.1.1={
 	holder=188783
-	liege=k_mongolia
+	liege="k_mongolia"
 }
 747.1.1={
 	holder=188784
@@ -61,13 +61,10 @@
 }
 #Kereid
 1060.1.1 = {
-	holder=1000081069 #Markus-Buyruk
-}
-1060.1.1 = {
 	liege="k_kereid"
 }
-1060.2.1 = {
-	holder=1000081074
+1060.1.1 = {
+	holder=1000081069 #Markus-Buyruk
 }
 1113.1.1 = {
 	holder=1000081070 #Saryk
@@ -76,7 +73,7 @@
 	holder=1000081071 #Kirakus-Buyruk
 }
 1156.1.1 = {
-	holder=1000202453 #Toghrul
+	holder=1000202454 #Toghrul
 }
 
 1203.1.1={

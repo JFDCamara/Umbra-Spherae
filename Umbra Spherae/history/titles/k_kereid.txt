@@ -1,5 +1,8 @@
 #Kereid
 1060.1.1 = {
+	liege="e_kitai"
+}
+1060.1.1 = {
 	holder=1000081069 #Markus-Buyruk
 }
 1100.1.1 = {
@@ -8,8 +11,11 @@
 1114.1.1 = {
 	holder=1000081071 #Kirakus-Buyruk
 }
+1125.3.16 = {
+	liege=0
+}
 1156.1.1 = {
-	holder=1000202453 #Toghrul
+	holder=1000202454 #Toghrul
 }
 1203.1.1 = {
 	holder=0

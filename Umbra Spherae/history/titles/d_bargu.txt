@@ -1,6 +1,6 @@
 #Bargujin
 744.1.1 = {
-	liege="e_uyghur"
+	liege="k_mongolia"
 }
 750.1.1={
 	holder=1000205200 #Guchu
@@ -14,17 +14,12 @@
 840.1.1 = {
 	holder=1000202605 #Harghasun
 }
-840.1.1 = {
-	liege="e_kirgiz"
-}
+
 870.1.1 = {
 	holder=1000202606 #Bedugun
 }
 900.1.1 = {
 	holder=1000202607 #Kokochu
-}
-923.1.1 = {
-	liege=0
 }
 930.1.1 = {
 	holder=1000202608 #Inancha
@@ -46,6 +41,9 @@
 }
 1110.1.1 = {
 	holder=1000202613 #Taghai
+}
+1125.3.16 = {
+	liege=0
 }
 1140.1.1 = {
 	holder=1000202614 #Morokha

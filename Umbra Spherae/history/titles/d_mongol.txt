@@ -8,6 +8,9 @@
 740.1.1 = {
 	holder=1000081002 #Damachi
 }
+744.1.1 = {
+	liege="k_mongolia"
+}
 760.1.1 = {
 	holder=1000081003 #Khorichar-Mergen
 }
@@ -60,6 +63,10 @@
 	holder=1000081047 #Khabul
 }
 
+1125.3.16 = {
+	liege=0
+}
+
 1146.1.1 = {
 	holder=1000202461 #Hotula
 }
@@ -72,6 +79,5 @@
 }
 
 1206.1.1 = {
-	liege=0
 	holder=0
 }

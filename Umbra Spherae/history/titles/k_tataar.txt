@@ -1,7 +1,8 @@
 #Yesun Tataar
-#744.1.1 = {
-#	liege="e_uyghur"
-#}
+750.1.1 = {
+	liege = 0 # De facto
+	set_tribute_suzerain = { who = k_mongolia percentage = 0.40 }
+}
 750.1.1={
 	holder=1000205194 #Duua
 }
@@ -14,9 +15,7 @@
 840.1.1 = {
 	holder=1000202585 #Chilagun
 }
-#840.1.1 = {
-#	liege="e_kirgiz"
-#}
+
 870.1.1 = {
 	holder=1000202586 #Khadagh
 }
@@ -24,6 +23,7 @@
 	holder=1000202587 #Boroghul
 }
 923.2.27 = {
+	clear_tribute_suzerain = k_mongolia
 	liege="e_kitai"
 }
 930.1.1 = {
