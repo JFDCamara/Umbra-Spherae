@@ -38,7 +38,7 @@
 	holder=1000077010
 }
 1251.1.1={
-	liege="e_mongol_empire"
+	liege="k_mongolia"
 }
 1271.12.18={
 	liege="e_chagatai"

@@ -145,7 +145,7 @@
 	dynasty=1045082 # Liao Dynasty
 	religion= mahayana
 	culture=khitan
-	father=1000028327 # Saladi from Umbra Spherae
+	father=1000202506 # Saladi from Umbra Spherae
 	872.6.6 = {
 		birth = yes
 	}
@@ -256,6 +256,9 @@
 	1032.9.14 = {
 		birth = yes
 	}
+	1060.1.1 = {
+		add_spouse = 194402
+	}
 	1101.2.12 = {
 		death = yes
 	}
@@ -277,7 +280,7 @@
 194402 = {
 	name="Xuan Yi"
 	female=yes
-	dynasty=1045082 # Liao Dynasty
+#######	dynasty=1045082 # Liao Dynasty
 	religion= mahayana
 	culture=khitan
 	1040.5.5 = {

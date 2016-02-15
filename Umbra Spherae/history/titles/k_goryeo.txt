@@ -69,7 +69,7 @@
 	holder=1000202754 #Cheol
 }
 1259.7.21={
-	liege="e_mongol_empire"
+	set_tribute_suzerain = { who = k_mongolia percentage = 0.40 }
 }
 1259.7.21={
 	holder=1000202756 #Sik
@@ -78,6 +78,7 @@
 	holder=1000202757 #Geo
 }
 1279.3.19={
+	clear_tribute_suzerain = k_mongolia
 	liege="e_china"
 }
 1298.1.1={

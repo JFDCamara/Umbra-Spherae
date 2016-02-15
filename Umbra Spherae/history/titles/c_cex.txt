@@ -115,7 +115,7 @@
 }
 
 1234.2.10 ={
-	liege = e_mongol_empire
+	liege = k_mongolia
 }
 
 1234.2.10 ={

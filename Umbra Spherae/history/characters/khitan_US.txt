@@ -146,11 +146,11 @@
 	dynasty=1045082 # Liao Dynasty
 	religion="buddhist"
 	culture="khitan"
-	850.1.1={
-		birth="850.1.1"
+	840.1.1={
+		birth="840.1.1"
 	}
-	900.1.1={
-		death="900.1.1"
+	901.1.1={
+		death="901.1.1"
 	}
 }
 

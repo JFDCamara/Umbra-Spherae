@@ -86,6 +86,9 @@
 	liege="e_mongol_empire"
 }
 1227.12.2 = {
+	liege="k_mongolia"
+}
+1227.12.2 = {
 	holder = 172005 # Ögedei Khan
 }
 1241.12.11 = {

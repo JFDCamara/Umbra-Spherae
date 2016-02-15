@@ -94,7 +94,7 @@
 	holder = 1000076857
 }
 1251.1.1={
-	liege="e_mongol_empire"
+	liege="k_mongolia"
 }
 1262.1.1={
 	holder = 1000076858

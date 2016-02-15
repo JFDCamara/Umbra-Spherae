@@ -1,6 +1,6 @@
 #US mercenaries defined in US_Mercenaries.txt in landed_titles
 
-d_irish_company_modifier = {
+d_irish_company_composition = {
 	levy_size = 2
 	archers = 150
 	pikemen = 150
@@ -9,7 +9,7 @@ d_irish_company_modifier = {
 	light_cavalry = 150
 }
 
-d_humble_hedge_knights_modifier = {
+d_humble_hedge_knights_composition = {
 	levy_size = 1
 	archers = 35
 	light_infantry = 45
@@ -17,7 +17,7 @@ d_humble_hedge_knights_modifier = {
 	knights = 15
 }
 
-d_brotherhood_of_the_shield_modifier = {
+d_brotherhood_of_the_shield_composition = {
 	levy_size = 1
 	archers = 100
 	light_infantry = 100
@@ -25,14 +25,14 @@ d_brotherhood_of_the_shield_modifier = {
 	pikemen = 100
 }
 
-d_the_legendary_longbowmen_modifier = {
+d_the_legendary_longbowmen_composition = {
 	levy_size = 1
 	archers = 150
 	light_infantry = 75
 	heavy_infantry = 25
 }
 
-d_sons_of_ireland_modifier = {
+d_sons_of_ireland_composition = {
 	levy_size = 1
 	archers = 50
 	light_infantry = 100
@@ -40,7 +40,7 @@ d_sons_of_ireland_modifier = {
 	knights = 5
 }
 
-d_the_lost_company_modifier = {
+d_the_lost_company_composition = {
 	levy_size = 1
 	archers = 75
 	light_infantry = 150
@@ -49,20 +49,20 @@ d_the_lost_company_modifier = {
 	knights = 15
 }
 
-d_the_foresters_modifier = {
+d_the_foresters_composition = {
 	levy_size = 1
 	archers = 100
 	light_infantry = 150
 	heavy_infantry = 50
 }
 
-d_genovese_crossbow_contingent_modifier = {
+d_genovese_crossbow_contingent_composition = {
 	levy_size = 1
 	archers = 250
 	heavy_infantry = 150
 }
 
-d_ventura_company_modifier = {
+d_ventura_company_composition = {
 	levy_size = 1
 	archers = 100
 	pikemen = 100
@@ -70,7 +70,7 @@ d_ventura_company_modifier = {
 	knights = 50
 }
 
-d_free_company_modifier = {
+d_free_company_composition = {
 	levy_size = 1
 	archers = 90
 	pikemen = 25
@@ -80,7 +80,7 @@ d_free_company_modifier = {
 	light_cavalry = 45
 }
 
-d_novgorod_guard_modifier = {
+d_novgorod_guard_composition = {
 	levy_size = 1
 	archers = 75
 	pikemen = 50
@@ -88,21 +88,21 @@ d_novgorod_guard_modifier = {
 	light_infantry = 180
 }
 
-d_ukko's_thunder_modifier = {
+d_ukko's_thunder_composition = {
 	levy_size = 1
 	archers = 135
 	heavy_infantry = 115
 	light_infantry = 450
 }
 
-d_the_messengers_of_loki_modifier = {
+d_the_messengers_of_loki_composition = {
 	levy_size = 1
 	archers = 140
 	heavy_infantry = 250
 	light_infantry = 755
 }
 
-d_the_weeping_blade_modifier = {
+d_the_weeping_blade_composition = {
 	levy_size = 1
 	archers = 75
 	heavy_infantry = 200
@@ -112,7 +112,7 @@ d_the_weeping_blade_modifier = {
 	light_cavalry = 20
 }
 
-d_the_howling_wind_modifier = {
+d_the_howling_wind_composition = {
 	levy_size = 1
 	archers = 80
 	heavy_infantry = 150
@@ -120,7 +120,7 @@ d_the_howling_wind_modifier = {
 	light_cavalry = 15
 }
 
-d_friends_of_dorothy_modifier = {
+d_friends_of_dorothy_composition = {
 	levy_size = 1
 	archers = 75
 	heavy_infantry = 100
@@ -129,7 +129,7 @@ d_friends_of_dorothy_modifier = {
 	knights = 5
 }
 
-d_band_of_the_hawk_modifier = {
+d_band_of_the_hawk_composition = {
 	levy_size = 1
 	archers = 85
 	heavy_infantry = 200
@@ -138,7 +138,7 @@ d_band_of_the_hawk_modifier = {
 	knights = 10
 }
 
-d_grand_alliance_modifier = {
+d_grand_alliance_composition = {
 	levy_size = 1
 	archers = 150
 	heavy_infantry = 250
@@ -148,7 +148,7 @@ d_grand_alliance_modifier = {
 	knights = 15
 }
 
-d_lettigalian_alliance_modifier = {
+d_lettigalian_alliance_composition = {
 	levy_size = 1
 	archers = 125
 	heavy_infantry = 75
@@ -157,14 +157,14 @@ d_lettigalian_alliance_modifier = {
 	knights = 5
 }
 
-d_blue_company_modifier = {
+d_blue_company_composition = {
 	levy_size = 1
 	archers = 75
 	heavy_infantry = 50
 	light_infantry = 225
 }
 
-d_worthy_disciples_modifier = {
+d_worthy_disciples_composition = {
 	levy_size = 1
 	archers = 100
 	heavy_infantry = 150
@@ -173,14 +173,14 @@ d_worthy_disciples_modifier = {
 	light_cavalry = 30
 }
 
-d_trusty_swords_modifier = {
+d_trusty_swords_composition = {
 	levy_size = 1
 	archers = 55
 	heavy_infantry = 85
 	light_infantry = 135
 }
 
-d_danzig_pact_modifier = {
+d_danzig_pact_composition = {
 	levy_size = 1
 	archers = 105
 	heavy_infantry = 250
@@ -190,7 +190,7 @@ d_danzig_pact_modifier = {
 	knights = 10
 }
 
-d_white_russians_modifier = {
+d_white_russians_composition = {
 	levy_size = 1
 	archers = 200
 	heavy_infantry = 150
@@ -198,7 +198,7 @@ d_white_russians_modifier = {
 	light_cavalry = 50
 }
 
-d_merry_footmen_modifier = {
+d_merry_footmen_composition = {
 	levy_size = 1
 	archers = 80
 	heavy_infantry = 120
@@ -206,7 +206,7 @@ d_merry_footmen_modifier = {
 	pikemen = 35
 }
 
-d_polish_cavalrymen_modifier = {
+d_polish_cavalrymen_composition = {
 	levy_size = 1
 	archers = 75
 	heavy_infantry = 150
@@ -215,7 +215,7 @@ d_polish_cavalrymen_modifier = {
 	knights = 40
 }
 
-d_mountain_band_modifier = {
+d_mountain_band_composition = {
 	levy_size = 1
 	archers = 75
 	heavy_infantry = 75
@@ -223,7 +223,7 @@ d_mountain_band_modifier = {
 	light_cavalry = 15
 }
 
-d_dnieper_alliance_modifier = {
+d_dnieper_alliance_composition = {
 	levy_size = 1
 	archers = 130
 	heavy_infantry = 100
@@ -232,7 +232,7 @@ d_dnieper_alliance_modifier = {
 	knights = 20
 }
 
-d_night_patrol_modifier = {
+d_night_patrol_composition = {
 	levy_size = 1
 	archers = 75
 	heavy_infantry = 90
@@ -240,7 +240,7 @@ d_night_patrol_modifier = {
 	light_cavalry = 40
 }
 
-d_company_of_the_bear_modifier = {
+d_company_of_the_bear_composition = {
 	levy_size = 1
 	archers = 115
 	heavy_infantry = 100
@@ -250,21 +250,21 @@ d_company_of_the_bear_modifier = {
 	knights = 15
 }
 
-d_snow_warriors_modifier = {
+d_snow_warriors_composition = {
 	levy_size = 1
 	archers = 75
 	heavy_infantry = 50
 	light_infantry = 250
 }
 
-d_bowmen_of_the_valley_modifier = {
+d_bowmen_of_the_valley_composition = {
 	levy_size = 1
 	archers = 350
 	heavy_infantry = 35
 	light_infantry = 125
 }
 
-d_pikes_of_geneve_modifier = {
+d_pikes_of_geneve_composition = {
 	levy_size = 1
 	archers = 100
 	heavy_infantry = 150
@@ -272,21 +272,21 @@ d_pikes_of_geneve_modifier = {
 	pikemen = 350
 }
 
-d_titans_of_lorraine_modifier = {
+d_titans_of_lorraine_composition = {
 	levy_size = 1
 	archers = 80
 	heavy_infantry = 200
 	pikemen = 240
 }
 
-d_dutch_freemen_modifier = {
+d_dutch_freemen_composition = {
 	levy_size = 1
 	archers = 100
 	heavy_infantry = 100
 	light_infantry = 200
 }
 
-d_footmen_of_the_owl_modifier = {
+d_footmen_of_the_owl_composition = {
 	levy_size = 1
 	archers = 75
 	heavy_infantry = 50
@@ -294,7 +294,7 @@ d_footmen_of_the_owl_modifier = {
 	pikemen = 50
 }
 
-d_knights_of_the_golden_circle_modifier = {
+d_knights_of_the_golden_circle_composition = {
 	levy_size = 1
 	archers = 75
 	heavy_infantry = 175
@@ -303,14 +303,14 @@ d_knights_of_the_golden_circle_modifier = {
 	knights = 50
 }
 
-d_mercantile_guard_modifier = {
+d_mercantile_guard_composition = {
 	levy_size = 1
 	archers = 50
 	heavy_infantry = 75
 	light_infantry = 125
 }
 
-d_knights_of_the_iron_gauntlet_modifier = {
+d_knights_of_the_iron_gauntlet_composition = {
 	levy_size = 1
 	archers = 40
 	heavy_infantry = 95
@@ -319,7 +319,7 @@ d_knights_of_the_iron_gauntlet_modifier = {
 	knights = 35
 }
 
-d_knights_of_the_crescent_moon_modifier = {
+d_knights_of_the_crescent_moon_composition = {
 	levy_size = 1
 	archers = 30
 	heavy_infantry = 100
@@ -328,7 +328,7 @@ d_knights_of_the_crescent_moon_modifier = {
 	knights = 30
 }
 
-d_knights_of_the_radiant_sun_modifier = {
+d_knights_of_the_radiant_sun_composition = {
 	levy_size = 1
 	archers = 45
 	heavy_infantry = 85
@@ -337,7 +337,7 @@ d_knights_of_the_radiant_sun_modifier = {
 	knights = 25
 }
 
-d_christian_horsemen_modifier = {
+d_christian_horsemen_composition = {
 	levy_size = 1
 	archers = 45
 	heavy_infantry = 85
@@ -347,7 +347,7 @@ d_christian_horsemen_modifier = {
 	light_cavalry = 30
 }
 
-d_lombardy_knightly_union_modifier = {
+d_lombardy_knightly_union_composition = {
 	levy_size = 1
 	archers = 50
 	heavy_infantry = 105
@@ -356,7 +356,7 @@ d_lombardy_knightly_union_modifier = {
 	knights = 35
 }
 
-d_horsemen_of_the_burning_stag_modifier = {
+d_horsemen_of_the_burning_stag_composition = {
 	levy_size = 1
 	archers = 50
 	heavy_infantry = 100
@@ -366,7 +366,7 @@ d_horsemen_of_the_burning_stag_modifier = {
 	light_cavalry = 50
 }
 
-d_highland_band_modifier = {
+d_highland_band_composition = {
 	levy_size = 1
 	archers = 75
 	heavy_infantry = 50
@@ -375,7 +375,7 @@ d_highland_band_modifier = {
 	light_cavalry = 15
 }
 
-d_neapolitan_company_modifier = {
+d_neapolitan_company_composition = {
 	levy_size = 1
 	archers = 225
 	heavy_infantry = 300
@@ -385,7 +385,7 @@ d_neapolitan_company_modifier = {
 	knights = 15
 }
 
-d_sicilian_company_modifier = {
+d_sicilian_company_composition = {
 	levy_size = 1
 	archers = 125
 	heavy_infantry = 175
@@ -395,7 +395,7 @@ d_sicilian_company_modifier = {
 	knights = 10
 }
 
-d_lisboa_faithful_modifier = {
+d_lisboa_faithful_composition = {
 	levy_size = 1
 	archers = 100
 	heavy_infantry = 110
@@ -405,7 +405,7 @@ d_lisboa_faithful_modifier = {
 	knights = 10
 }
 
-d_iberian_knights_modifier = {
+d_iberian_knights_composition = {
 	levy_size = 1
 	archers = 50
 	heavy_infantry = 150
@@ -415,7 +415,7 @@ d_iberian_knights_modifier = {
 	knights = 40
 }
 
-d_castillian_band_modifier = {
+d_castillian_band_composition = {
 	levy_size = 1
 	archers = 125
 	heavy_infantry = 250
@@ -424,7 +424,7 @@ d_castillian_band_modifier = {
 	light_cavalry = 50
 }
 
-d_knights_of_al_andalus_modifier = {
+d_knights_of_al_andalus_composition = {
 	levy_size = 1
 	archers = 200
 	heavy_infantry = 270
@@ -434,7 +434,7 @@ d_knights_of_al_andalus_modifier = {
 	knights = 40
 }
 
-d_plains_band_modifier = {
+d_plains_band_composition = {
 	levy_size = 1
 	archers = 150
 	heavy_infantry = 200
@@ -442,14 +442,14 @@ d_plains_band_modifier = {
 	light_cavalry = 75
 }
 
-d_berber_camel_riders_modifier = {
+d_berber_camel_riders_composition = {
 	levy_size = 1
 	archers = 100
 	light_infantry = 275
 	light_cavalry = 95
 }
 
-d_maniots_modifier = {
+d_maniots_composition = {
 	levy_size = 1
 	archers = 125
 	heavy_infantry = 125
@@ -458,7 +458,7 @@ d_maniots_modifier = {
 	pikemen = 125
 }
 
-d_norman_armoured_horse_company_modifier = {
+d_norman_armoured_horse_company_composition = {
 	levy_size = 1
 	archers = 200
 	heavy_infantry = 275
@@ -467,7 +467,7 @@ d_norman_armoured_horse_company_modifier = {
 	knights = 55
 }
 
-d_disciples_of_johan_modifier = {
+d_disciples_of_johan_composition = {
 	levy_size = 1
 	archers = 65
 	heavy_infantry = 120
@@ -475,7 +475,7 @@ d_disciples_of_johan_modifier = {
 	light_cavalry = 10
 }
 
-d_knights_of_the_wounded_boar_modifier = {
+d_knights_of_the_wounded_boar_composition = {
 	levy_size = 1
 	archers = 35
 	heavy_infantry = 75
@@ -484,7 +484,7 @@ d_knights_of_the_wounded_boar_modifier = {
 	light_cavalry = 15
 }
 
-d_retainers_modifier = {
+d_retainers_composition = {
 	levy_size = 1
 	archers = 100
 	heavy_infantry = 75
@@ -493,14 +493,14 @@ d_retainers_modifier = {
 	knights = 25
 }
 
-d_scarred_mountain_modifier = {
+d_scarred_mountain_composition = {
 	levy_size = 1
 	archers = 65
 	light_infantry = 175
 	light_cavalry = 10
 }
 
-d_ancient_spear_modifier = {
+d_ancient_spear_composition = {
 	levy_size = 1
 	archers = 125
 	light_infantry = 65
@@ -508,14 +508,14 @@ d_ancient_spear_modifier = {
 	pikemen = 300
 }
 
-d_hillside_tribe_modifier = {
+d_hillside_tribe_composition = {
 	levy_size = 1
 	archers = 75
 	light_infantry = 250
 	heavy_infantry = 25
 }
 
-d_minotaurs_modifier = {
+d_minotaurs_composition = {
 	levy_size = 1
 	archers = 100
 	light_infantry = 75
@@ -524,7 +524,7 @@ d_minotaurs_modifier = {
 	pikemen = 100
 }
 
-d_flaming_arrow_modifier = {
+d_flaming_arrow_composition = {
 	levy_size = 1
 	archers = 45
 	light_infantry = 150
@@ -532,7 +532,7 @@ d_flaming_arrow_modifier = {
 	horse_archers = 35
 }
 
-d_armenian_band_modifier = {
+d_armenian_band_composition = {
 	levy_size = 1
 	archers = 150
 	light_infantry = 300
@@ -541,14 +541,14 @@ d_armenian_band_modifier = {
 	knights	= 15
 }
 
-d_georgian_knights_modifier = {
+d_georgian_knights_composition = {
 	levy_size = 1
 	archers = 50
 	heavy_infantry = 115
 	knights = 40
 }
 
-d_free_knights_of_alania_modifier = {
+d_free_knights_of_alania_composition = {
 	levy_size = 1
 	archers = 75
 	heavy_infantry = 125
@@ -557,7 +557,7 @@ d_free_knights_of_alania_modifier = {
 	light_cavalry = 45
 }
 
-d_wandering_horsemen_modifier = {
+d_wandering_horsemen_composition = {
 	levy_size = 1
 	archers = 25
 	heavy_infantry = 25
@@ -567,7 +567,7 @@ d_wandering_horsemen_modifier = {
 	horse_archers = 25
 }
 
-d_sleeping_giant_modifier = {
+d_sleeping_giant_composition = {
 	levy_size = 1
 	archers = 100
 	heavy_infantry = 275
@@ -577,42 +577,42 @@ d_sleeping_giant_modifier = {
 	horse_archers = 25
 }
 
-d_gallowglass_of_the_hebrides_modifier = {
+d_gallowglass_of_the_hebrides_composition = {
 	levy_size = 1
 	archers = 50
 	heavy_infantry = 150
 	pikemen = 50
 }
 
-d_kerns_of_connacht_modifier = {
+d_kerns_of_connacht_composition = {
 	levy_size = 1
 	archers = 25
 	light_infantry = 100
 	heavy_infantry = 25
 }
 
-d_clan_sweeney_modifier = {
+d_clan_sweeney_composition = {
 	levy_size = 1
 	archers = 50
 	light_infantry = 100
 	heavy_infantry = 100
 }
 
-d_clan_mccabe_modifier = {
+d_clan_mccabe_composition = {
 	levy_size = 1
 	archers = 50
 	light_infantry = 110
 	heavy_infantry = 90
 }
 
-d_clan_macdonnell_modifier = {
+d_clan_macdonnell_composition = {
 	levy_size = 1
 	archers = 55
 	light_infantry = 115
 	heavy_infantry = 75
 }
 
-d_knights_of_honour_modifier = {
+d_knights_of_honour_composition = {
 	levy_size = 1
 	archers = 25
 	light_infantry = 15
@@ -620,7 +620,7 @@ d_knights_of_honour_modifier = {
 	knights = 20
 }
 
-d_company_of_the_cat_modifier = {
+d_company_of_the_cat_composition = {
 	levy_size = 1
 	archers = 50
 	light_infantry = 75
@@ -628,14 +628,14 @@ d_company_of_the_cat_modifier = {
 	knights = 25
 }
 
-d_cawing_cockerel_modifier = {
+d_cawing_cockerel_composition = {
 	levy_size = 1
 	archers = 75
 	light_infantry = 200
 	light_cavalry = 65
 }
 
-d_brothers_of_the_sun_modifier = {
+d_brothers_of_the_sun_composition = {
 	levy_size = 1
 	archers = 145
 	light_infantry = 235
@@ -644,7 +644,7 @@ d_brothers_of_the_sun_modifier = {
 	knights = 10
 }
 
-d_horsemen_of_the_nile_modifier = {
+d_horsemen_of_the_nile_composition = {
 	levy_size = 1
 	archers = 20
 	light_infantry = 50
@@ -652,7 +652,7 @@ d_horsemen_of_the_nile_modifier = {
 	knights = 5
 }
 
-d_brothers_of_the_sacred_heart_modifier = {
+d_brothers_of_the_sacred_heart_composition = {
 	levy_size = 1
 	archers = 300
 	light_infantry = 205
@@ -662,7 +662,7 @@ d_brothers_of_the_sacred_heart_modifier = {
 	knights = 55
 }
 
-d_black_shirts_modifier = {
+d_black_shirts_composition = {
 	levy_size = 1
 	archers = 360
 	light_infantry = 320
@@ -672,7 +672,7 @@ d_black_shirts_modifier = {
 	knights = 50
 }
 
-d_horsemen_of_the_shifting_sand_modifier = {
+d_horsemen_of_the_shifting_sand_composition = {
 	levy_size = 1
 	archers = 25
 	light_infantry = 75
@@ -681,7 +681,7 @@ d_horsemen_of_the_shifting_sand_modifier = {
 	horse_archers = 30
 }
 
-d_wall_of_spears_modifier = {
+d_wall_of_spears_composition = {
 	levy_size = 1
 	archers = 155
 	light_infantry = 125
@@ -689,7 +689,7 @@ d_wall_of_spears_modifier = {
 	pikemen = 350
 }
 
-d_guards_of_aleppo_modifier = {
+d_guards_of_aleppo_composition = {
 	levy_size = 1
 	archers = 105
 	light_infantry = 60
@@ -697,7 +697,7 @@ d_guards_of_aleppo_modifier = {
 	pikemen = 60
 }
 
-d_guards_of_baghdad_modifier = {
+d_guards_of_baghdad_composition = {
 	levy_size = 1
 	archers = 100
 	light_infantry = 65
@@ -705,7 +705,7 @@ d_guards_of_baghdad_modifier = {
 	pikemen = 105
 }
 
-d_screaming_skull_modifier = {
+d_screaming_skull_composition = {
 	levy_size = 1
 	archers = 45
 	light_infantry = 85
@@ -713,7 +713,7 @@ d_screaming_skull_modifier = {
 	light_cavalry = 25
 }
 
-d_kurd_company_modifier = {
+d_kurd_company_composition = {
 	levy_size = 1
 	archers = 110
 	light_infantry = 215
@@ -722,7 +722,7 @@ d_kurd_company_modifier = {
 	knights = 5
 }
 
-d_turkmen_company_modifier = {
+d_turkmen_company_composition = {
 	levy_size = 1
 	archers = 65
 	light_infantry = 195
@@ -731,7 +731,7 @@ d_turkmen_company_modifier = {
 	horse_archers = 75
 }
 
-d_company_of_the_cauldron_modifier = {
+d_company_of_the_cauldron_composition = {
 	levy_size = 1
 	archers = 275
 	light_infantry = 245
@@ -741,14 +741,14 @@ d_company_of_the_cauldron_modifier = {
 	horse_archers = 55
 }
 
-d_berber_camel_raiders_modifier = {
+d_berber_camel_raiders_composition = {
 	levy_size = 1
 	archers = 25
 	light_infantry = 55
 	light_cavalry = 35
 }
 
-d_devout_modifier = {
+d_devout_composition = {
 	levy_size = 1
 	archers = 135
 	light_infantry = 435
@@ -757,7 +757,7 @@ d_devout_modifier = {
 	knights = 45
 }
 
-d_horsemen_of_the_storm_modifier = {
+d_horsemen_of_the_storm_composition = {
 	levy_size = 1
 	archers = 35
 	light_infantry = 65
@@ -766,7 +766,7 @@ d_horsemen_of_the_storm_modifier = {
 	knights = 10
 }
 
-d_chariots_of_fire_modifier = {
+d_chariots_of_fire_composition = {
 	levy_size = 1
 	archers = 15
 	light_infantry = 45
@@ -775,7 +775,7 @@ d_chariots_of_fire_modifier = {
 	knights = 20
 }
 
-d_golden_bow_modifier = {
+d_golden_bow_composition = {
 	levy_size = 1
 	archers = 65
 	light_infantry = 145
@@ -784,7 +784,7 @@ d_golden_bow_modifier = {
 	horse_archers = 60
 }
 
-d_charging_bull_modifier = {
+d_charging_bull_composition = {
 	levy_size = 1
 	archers = 50
 	light_infantry = 100
@@ -793,7 +793,7 @@ d_charging_bull_modifier = {
 	horse_archers = 55
 }
 
-d_great_wolverine_modifier = {
+d_great_wolverine_composition = {
 	levy_size = 1
 	archers = 150
 	light_infantry = 130
@@ -804,7 +804,7 @@ d_great_wolverine_modifier = {
 	horse_archers = 20
 }
 
-d_chosen_modifier = {
+d_chosen_composition = {
 	levy_size = 1
 	archers = 185
 	light_infantry = 230
@@ -814,7 +814,7 @@ d_chosen_modifier = {
 	knights = 45
 }
 
-d_falling_stone_modifier = {
+d_falling_stone_composition = {
 	levy_size = 1
 	archers = 25
 	light_infantry = 55
@@ -822,7 +822,7 @@ d_falling_stone_modifier = {
 	knights = 10
 }
 
-d_proud_kesterel_modifier = {
+d_proud_kesterel_composition = {
 	levy_size = 1
 	archers = 30
 	light_infantry = 50
@@ -831,7 +831,7 @@ d_proud_kesterel_modifier = {
 	knights = 10
 }
 
-d_ancient_cataphract_alliance_modifier = {
+d_ancient_cataphract_alliance_composition = {
 	levy_size = 1
 	archers = 25
 	light_infantry = 10
@@ -840,7 +840,7 @@ d_ancient_cataphract_alliance_modifier = {
 	knights = 35
 }
 
-d_sweeping_scythe_modifier = {
+d_sweeping_scythe_composition = {
 	levy_size = 1
 	archers = 180
 	light_infantry = 120
@@ -850,7 +850,7 @@ d_sweeping_scythe_modifier = {
 	knights = 15
 }
 
-d_knights_of_the_fox_modifier = {
+d_knights_of_the_fox_composition = {
 	levy_size = 1
 	archers = 20
 	light_infantry = 35
@@ -859,7 +859,7 @@ d_knights_of_the_fox_modifier = {
 	knights = 5
 }
 
-d_knights_of_the_wooden_spoon_modifier = {
+d_knights_of_the_wooden_spoon_composition = {
 	levy_size = 1
 	archers = 25
 	light_infantry = 40
@@ -868,7 +868,7 @@ d_knights_of_the_wooden_spoon_modifier = {
 	knights = 15
 }
 
-d_knights_of_the_breaking_dawn_modifier = {
+d_knights_of_the_breaking_dawn_composition = {
 	levy_size = 1
 	archers = 25
 	light_infantry = 20
@@ -876,7 +876,7 @@ d_knights_of_the_breaking_dawn_modifier = {
 	knights = 25
 }
 
-d_knights_of_the_falling_star_modifier = {
+d_knights_of_the_falling_star_composition = {
 	levy_size = 1
 	archers = 10
 	light_infantry = 20
@@ -884,7 +884,7 @@ d_knights_of_the_falling_star_modifier = {
 	knights = 15
 }
 
-d_knights_of_the_fiery_heart_modifier = {
+d_knights_of_the_fiery_heart_composition = {
 	levy_size = 1
 	archers = 30
 	light_infantry = 25
@@ -892,7 +892,7 @@ d_knights_of_the_fiery_heart_modifier = {
 	knights = 25
 }
 
-d_horsemen_of_the_flying_stallion_modifier = {
+d_horsemen_of_the_flying_stallion_composition = {
 	levy_size = 1
 	archers = 25
 	light_infantry = 25
@@ -901,7 +901,7 @@ d_horsemen_of_the_flying_stallion_modifier = {
 	light_cavalry = 20
 }
 
-d_horsemen_of_the_smiling_elephant_modifier = {
+d_horsemen_of_the_smiling_elephant_composition = {
 	levy_size = 1
 	archers = 35
 	light_infantry = 55
@@ -909,7 +909,7 @@ d_horsemen_of_the_smiling_elephant_modifier = {
 	knights = 20
 }
 
-d_horsemen_of_the_beating_drum_modifier = {
+d_horsemen_of_the_beating_drum_composition = {
 	levy_size = 1
 	archers = 25
 	light_infantry = 15
@@ -917,7 +917,7 @@ d_horsemen_of_the_beating_drum_modifier = {
 	knights = 25
 }
 
-d_horsemen_of_the_serpent_modifier = {
+d_horsemen_of_the_serpent_composition = {
 	levy_size = 1
 	archers = 25
 	light_infantry = 35
@@ -926,28 +926,28 @@ d_horsemen_of_the_serpent_modifier = {
 	light_cavalry = 30
 }
 
-d_band_of_the_snake_modifier = {
+d_band_of_the_snake_composition = {
 	levy_size = 1
 	archers = 35
 	light_infantry = 90
 	heavy_infantry = 35
 }
 
-d_red_band_modifier = {
+d_red_band_composition = {
 	levy_size = 1
 	archers = 45
 	light_infantry = 75
 	heavy_infantry = 55
 }
 
-d_company_of_the_roaring_lion_modifier = {
+d_company_of_the_roaring_lion_composition = {
 	levy_size = 1
 	archers = 85
 	light_infantry = 150
 	heavy_infantry = 50
 }
 
-d_company_of_the_cheetah_modifier = {
+d_company_of_the_cheetah_composition = {
 	levy_size = 1
 	archers = 55
 	light_infantry = 105
@@ -955,14 +955,14 @@ d_company_of_the_cheetah_modifier = {
 	light_cavalry = 40
 }
 
-d_roaming_camel_riders_modifier = {
+d_roaming_camel_riders_composition = {
 	levy_size = 1
 	archers = 25
 	light_infantry = 65
 	light_cavalry = 45
 }
 
-d_brave_ones_modifier = {
+d_brave_ones_composition = {
 	levy_size = 1
 	archers = 140
 	light_infantry = 105
@@ -970,27 +970,27 @@ d_brave_ones_modifier = {
 	light_cavalry = 55
 }
 
-d_band_of_skulls_modifier = {
+d_band_of_skulls_composition = {
 	levy_size = 1
 	archers = 45
 	light_infantry = 125
 }
 
-d_brothers_of_islam_modifier = {
+d_brothers_of_islam_composition = {
 	levy_size = 1
 	archers = 55
 	light_infantry = 145
 	heavy_infantry = 20
 }
 
-d_winds_of_the_east_modifier = {
+d_winds_of_the_east_composition = {
 	levy_size = 1
 	archers = 70
 	light_infantry = 130
 	heavy_infantry = 60
 }
 
-d_wroth_of_tengri_modifier = {
+d_wroth_of_tengri_composition = {
 	levy_size = 1
 	archers = 25
 	light_infantry = 65
@@ -998,7 +998,7 @@ d_wroth_of_tengri_modifier = {
 	horse_archers = 25
 }
 
-d_coming_storm_modifier = {
+d_coming_storm_composition = {
 	levy_size = 1
 	archers = 35
 	light_infantry = 85
@@ -1006,14 +1006,14 @@ d_coming_storm_modifier = {
 	horse_archers = 35
 }
 
-d_shiite_berber_company_modifier = {
+d_shiite_berber_company_composition = {
 	levy_size = 1
 	light_cavalry = 110
 	light_infantry = 225
 	archers = 85
 }
 
-d_shiite_turkic_company_modifier = {
+d_shiite_turkic_company_composition = {
 	levy_size = 3
 	light_infantry = 100
 	archers = 30
@@ -1023,14 +1023,14 @@ d_shiite_turkic_company_modifier = {
 
 ######
 
-d_papuan_claws_modifier = {
+d_papuan_claws_composition = {
 	levy_size = 2
 	archers = 300
 	light_infantry = 150
 	heavy_infantry = 50
 }
 
-d_unbreakable_wings_modifier = {
+d_unbreakable_wings_composition = {
 	levy_size = 2
 	archers = 125
 	heavy_infantry = 150
@@ -1038,35 +1038,35 @@ d_unbreakable_wings_modifier = {
 	light_cavalry = 75
 }
 
-d_sakasanusa_warriors_modifier = {
+d_sakasanusa_warriors_composition = {
 	levy_size = 2
 	archers = 200
 	heavy_infantry = 75
 	pikemen = 75
 }
 
-d_komodo_dragons_modifier = {
+d_komodo_dragons_composition = {
 	levy_size = 4
 	light_infantry = 100
 	knights = 20
 	light_cavalry = 40
 }
 
-d_jungle_swords_modifier = {
+d_jungle_swords_composition = {
 	levy_size = 2
 	archers = 150
 	light_infantry = 300
 	heavy_infantry = 50
 }
 
-d_jaws_of_mindanao_modifier = {
+d_jaws_of_mindanao_composition = {
 	levy_size = 2
 	archers = 150
 	light_infantry = 300
 	heavy_infantry = 50
 }
 
-d_luzon_band_modifier = {
+d_luzon_band_composition = {
 	levy_size = 2
 	archers = 150
 	light_infantry = 75
@@ -1074,35 +1074,35 @@ d_luzon_band_modifier = {
 	galleys = 40
 }
 
-d_highland_raiders_modifier = {
+d_highland_raiders_composition = {
 	levy_size = 2
 	archers = 150
 	light_infantry = 300
 	heavy_infantry = 50
 }
 
-d_taiwanese_lightning_modifier = {
+d_taiwanese_lightning_composition = {
 	levy_size = 2
 	archers = 300
 	light_infantry = 150
 	heavy_infantry = 50
 }
 
-d_green_spirit_modifier = {
+d_green_spirit_composition = {
 	levy_size = 2
 	archers = 300
 	light_infantry = 150
 	heavy_infantry = 50
 }
 
-d_minahasa_company_modifier = {
+d_minahasa_company_composition = {
 	levy_size = 2
 	archers = 150
 	light_infantry = 300
 	heavy_infantry = 50
 }
 
-d_world_conquerors_modifier = {
+d_world_conquerors_composition = {
 	levy_size = 2
 	archers = 125
 	heavy_infantry = 150
@@ -1110,7 +1110,7 @@ d_world_conquerors_modifier = {
 	galleys = 40
 }
 
-d_javanese_band_modifier = {
+d_javanese_band_composition = {
 	levy_size = 2
 	archers = 125
 	heavy_infantry = 150
@@ -1119,14 +1119,14 @@ d_javanese_band_modifier = {
 	galleys = 40
 }
 
-d_sundanese_brothers_modifier = {
+d_sundanese_brothers_composition = {
 	levy_size = 2
 	archers = 150
 	light_infantry = 75
 	heavy_infantry = 150
 }
 
-d_palembang_crocodiles_modifier = {
+d_palembang_crocodiles_composition = {
 	levy_size = 2
 	archers = 50
 	light_infantry = 150
@@ -1134,35 +1134,35 @@ d_palembang_crocodiles_modifier = {
 	galleys = 40
 }
 
-d_faithful_husbands_modifier = {
+d_faithful_husbands_composition = {
 	levy_size = 2
 	archers = 150
 	light_infantry = 300
 	heavy_infantry = 50
 }
 
-d_blood_eruption_modifier = {
+d_blood_eruption_composition = {
 	levy_size = 2
 	archers = 150
 	light_infantry = 300
 	pikemen = 50
 }
 
-d_berserk_brothers_modifier = {
+d_berserk_brothers_composition = {
 	levy_size = 2
 	archers = 300
 	light_infantry = 150
 	heavy_infantry = 50
 }
 
-d_samudran_rhinos_modifier = {
+d_samudran_rhinos_composition = {
 	levy_size = 2
 	archers = 150
 	light_infantry = 75
 	heavy_infantry = 150
 }
 
-d_islamic_front_modifier = {
+d_islamic_front_composition = {
 	levy_size = 2
 	archers = 125
 	heavy_infantry = 150
@@ -1171,7 +1171,7 @@ d_islamic_front_modifier = {
 	knights = 50
 }
 
-d_malay_company_modifier = {
+d_malay_company_composition = {
 	levy_size = 2
 	archers = 125
 	heavy_infantry = 150
@@ -1180,14 +1180,14 @@ d_malay_company_modifier = {
 	knights = 50
 }
 
-d_malay_band_modifier = {
+d_malay_band_composition = {
 	levy_size = 2
 	archers = 150
 	light_infantry = 300
 	heavy_infantry = 50
 }
 
-d_khmer_company_modifier = {
+d_khmer_company_composition = {
 	levy_size = 2
 	archers = 150
 	light_infantry = 300
@@ -1195,7 +1195,7 @@ d_khmer_company_modifier = {
 	war_elephants = 10
 }
 
-d_chamic_tides_modifier = {
+d_chamic_tides_composition = {
 	levy_size = 2
 	archers = 125
 	heavy_infantry = 150
@@ -1203,14 +1203,14 @@ d_chamic_tides_modifier = {
 	galleys = 40
 }
 
-d_viet_warriors_modifier = {
+d_viet_warriors_composition = {
 	levy_size = 2
 	archers = 100
 	light_infantry = 175
 	heavy_infantry = 100
 }
 
-d_blades_of_death_modifier = {
+d_blades_of_death_composition = {
 	levy_size = 2
 	archers = 75
 	light_infantry = 150
@@ -1218,49 +1218,49 @@ d_blades_of_death_modifier = {
 	pikemen = 75
 }
 
-d_thai_band_modifier = {
+d_thai_band_composition = {
 	levy_size = 2
 	archers = 200
 	light_infantry = 175
 	heavy_infantry = 75
 }
 
-d_venomous_arrows_modifier = {
+d_venomous_arrows_composition = {
 	levy_size = 2
 	archers = 300
 	light_infantry = 150
 	heavy_infantry = 50
 }
 
-d_constricting_branches_modifier = {
+d_constricting_branches_composition = {
 	levy_size = 2
 	archers = 150
 	light_infantry = 250
 	pikemen = 100
 }
 
-d_mountain_wall_modifier = {
+d_mountain_wall_composition = {
 	levy_size = 2
 	archers = 125
 	heavy_infantry = 150
 	pikemen = 100
 }
 
-d_chinese_flame_modifier = {
+d_chinese_flame_composition = {
 	levy_size = 3
 	archers = 150
 	light_infantry = 300
 	heavy_infantry = 50
 }
 
-d_merciful_swords_modifier = {
+d_merciful_swords_composition = {
 	levy_size = 3
 	archers = 100
 	light_infantry = 300
 	heavy_infantry = 100
 }
 
-d_dragon_company_modifier = {
+d_dragon_company_composition = {
 	levy_size = 3
 	archers = 125
 	heavy_infantry = 150
@@ -1268,7 +1268,7 @@ d_dragon_company_modifier = {
 	light_cavalry = 75
 }
 
-d_river_band_modifier = {
+d_river_band_composition = {
 	levy_size = 3
 	archers = 300
 	light_infantry = 150
@@ -1276,35 +1276,35 @@ d_river_band_modifier = {
 	galleys = 40
 }
 
-d_fertile_anger_modifier = {
+d_fertile_anger_composition = {
 	levy_size = 3
 	archers = 150
 	light_infantry = 300
 	light_cavalry = 50
 }
 
-d_rocky_band_modifier = {
+d_rocky_band_composition = {
 	levy_size = 2
 	archers = 150
 	light_infantry = 75
 	heavy_infantry = 150
 }
 
-d_ember_company_modifier = {
+d_ember_company_composition = {
 	levy_size = 3
 	archers = 300
 	light_infantry = 150
 	pikemen = 50
 }
 
-d_sands_of_murder_modifier = {
+d_sands_of_murder_composition = {
 	levy_size = 3
 	archers = 125
 	light_infantry = 300
 	light_cavalry = 75
 }
 
-d_jurchen_company_modifier = {
+d_jurchen_company_composition = {
 	levy_size = 4
 	archers = 50
 	light_infantry = 50
@@ -1313,27 +1313,27 @@ d_jurchen_company_modifier = {
 	horse_archers = 75
 }
 
-d_willful_bow_modifier = {
+d_willful_bow_composition = {
 	levy_size = 3
 	archers = 300
 	light_infantry = 50
 	pikemen = 150
 }
 
-d_lightning_tachi_modifier = {
+d_lightning_tachi_composition = {
 	levy_size = 4
 	heavy_infantry = 100
 	knights = 50
 }
 
-d_ainu_band_modifier = {
+d_ainu_band_composition = {
 	levy_size = 2
 	archers = 150
 	light_infantry = 300
 	heavy_infantry = 50
 }
 
-d_steppe_storm_modifier = {
+d_steppe_storm_composition = {
 	levy_size = 4
 	archers = 25
 	light_infantry = 25
@@ -1342,7 +1342,7 @@ d_steppe_storm_modifier = {
 	horse_archers = 150
 }
 
-d_chilling_roar_modifier = {
+d_chilling_roar_composition = {
 	levy_size = 4
 	archers = 25
 	light_infantry = 25
@@ -1350,14 +1350,14 @@ d_chilling_roar_modifier = {
 	horse_archers = 150
 }
 
-d_silky_death_modifier = {
+d_silky_death_composition = {
 	levy_size = 2
 	archers = 125
 	light_infantry = 150
 	light_cavalry = 100
 }
 
-d_riders_of_kimek_modifier = {
+d_riders_of_kimek_composition = {
 	levy_size = 2
 	light_infantry = 25
 	light_cavalry = 125
@@ -1365,21 +1365,21 @@ d_riders_of_kimek_modifier = {
 	horse_archers = 75
 }
 
-d_pashtun_footmen_modifier = {
+d_pashtun_footmen_composition = {
 	levy_size = 3
 	archers = 50
 	light_infantry = 200
 	pikemen = 75
 }
 
-d_ferghana_brotherhood_modifier = {
+d_ferghana_brotherhood_composition = {
 	levy_size = 3
 	light_infantry = 100
 	light_cavalry = 100
 	heavy_infantry = 75
 }
 
-d_kashmiri_thunder_modifier = {
+d_kashmiri_thunder_composition = {
 	levy_size = 3
 	archers = 150
 	light_infantry = 75
@@ -1387,28 +1387,28 @@ d_kashmiri_thunder_modifier = {
 	pikemen = 75
 }
 
-d_bodpa_company_modifier = {
+d_bodpa_company_composition = {
 	levy_size = 3
 	archers = 150
 	light_infantry = 100
 	pikemen = 75
 }
 
-d_unforgiving_blizzard_modifier = {
+d_unforgiving_blizzard_composition = {
 	levy_size = 3
 	archers = 100
 	light_infantry = 150
 	heavy_infantry = 75
 }
 
-d_xangxung_band_modifier = {
+d_xangxung_band_composition = {
 	levy_size = 3
 	archers = 75
 	light_infantry = 175
 	heavy_infantry = 75
 }
 
-d_rajput_wrath_modifier = {
+d_rajput_wrath_composition = {
 	levy_size = 3
 	archers = 100
 	light_infantry = 150
@@ -1417,7 +1417,7 @@ d_rajput_wrath_modifier = {
 	war_elephants = 10
 }
 
-d_merciless_wave_modifier = {
+d_merciless_wave_composition = {
 	levy_size = 3
 	archers = 100
 	light_infantry = 150
@@ -1426,7 +1426,7 @@ d_merciless_wave_modifier = {
 	war_elephants = 10
 }
 
-d_lions_of_mathura_modifier = {
+d_lions_of_mathura_composition = {
 	levy_size = 3
 	archers = 100
 	light_infantry = 150
@@ -1435,7 +1435,7 @@ d_lions_of_mathura_modifier = {
 	war_elephants = 10
 }
 
-d_nepalese_company_modifier = {
+d_nepalese_company_composition = {
 	levy_size = 3
 	archers = 75
 	light_infantry = 100
@@ -1443,27 +1443,27 @@ d_nepalese_company_modifier = {
 	pikemen = 75
 }
 
-d_kamarupi_nagas_modifier = {
+d_kamarupi_nagas_composition = {
 	levy_size = 3
 	archers = 75
 	light_infantry = 200
 	pikemen = 75
 }
 
-d_sword_monsoon_modifier = {
+d_sword_monsoon_composition = {
 	levy_size = 3
 	heavy_infantry = 50
 	light_infantry = 200
 	pikemen = 75
 }
 
-d_dandaka_arrows_modifier = {
+d_dandaka_arrows_composition = {
 	levy_size = 3
 	archers = 300
 	light_infantry = 100
 }
 
-d_kannada_band_modifier = {
+d_kannada_band_composition = {
 	levy_size = 3
 	archers = 50
 	light_infantry = 50
@@ -1472,7 +1472,7 @@ d_kannada_band_modifier = {
 	knights = 50
 }
 
-d_fury_of_the_coromandel_modifier = {
+d_fury_of_the_coromandel_composition = {
 	levy_size = 3
 	archers = 50
 	light_infantry = 50
@@ -1480,14 +1480,14 @@ d_fury_of_the_coromandel_modifier = {
 	galleys = 40
 }
 
-d_oriya_blades_modifier = {
+d_oriya_blades_composition = {
 	levy_size = 3
 	archers = 50
 	light_infantry = 125
 	heavy_infantry = 100
 }
 
-d_malabar_warriors_modifier = {
+d_malabar_warriors_composition = {
 	levy_size = 3
 	archers = 150
 	light_infantry = 150
@@ -1496,14 +1496,14 @@ d_malabar_warriors_modifier = {
 	galleys = 40
 }
 
-d_tamil_tigers_modifier = {
+d_tamil_tigers_composition = {
 	levy_size = 3
 	archers = 75
 	light_infantry = 125
 	heavy_infantry = 125
 }
 
-d_sinhala_lions_modifier = {
+d_sinhala_lions_composition = {
 	levy_size = 3
 	archers = 200
 	light_infantry = 100
@@ -1511,14 +1511,14 @@ d_sinhala_lions_modifier = {
 	war_elephants = 10
 }
 
-d_elephant_brotherhood_modifier = {
+d_elephant_brotherhood_composition = {
 	levy_size = 3
 	heavy_infantry = 200
 	pikemen = 200
 	war_elephants = 20
 }
 
-d_dhivehi_pirates_modifier = {
+d_dhivehi_pirates_composition = {
 	levy_size = 3
 	archers = 100
 	light_infantry = 200

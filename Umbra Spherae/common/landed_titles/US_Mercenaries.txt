@@ -31,7 +31,7 @@ d_irish_company = {
 
 	strength_growth_per_century = 1.00
 
-	modifier = d_irish_company_modifier
+	mercenary_type = d_irish_company_composition
 }
 
 d_humble_hedge_knights = {
@@ -71,7 +71,7 @@ d_humble_hedge_knights = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_humble_hedge_knights_modifier
+	mercenary_type = d_humble_hedge_knights_composition
 }
 
 d_brotherhood_of_the_shield = {
@@ -111,7 +111,7 @@ d_brotherhood_of_the_shield = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_brotherhood_of_the_shield_modifier
+	mercenary_type = d_brotherhood_of_the_shield_composition
 }
 
 d_the_legendary_longbowmen = {
@@ -152,7 +152,7 @@ d_the_legendary_longbowmen = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_the_legendary_longbowmen_modifier
+	mercenary_type = d_the_legendary_longbowmen_composition
 }
 
 d_sons_of_ireland = {
@@ -193,7 +193,7 @@ d_sons_of_ireland = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_sons_of_ireland_modifier
+	mercenary_type = d_sons_of_ireland_composition
 }
 
 d_the_lost_company = {
@@ -234,7 +234,7 @@ d_the_lost_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_the_lost_company_modifier
+	mercenary_type = d_the_lost_company_composition
 }
 
 d_the_foresters = {
@@ -275,7 +275,7 @@ d_the_foresters = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_the_foresters_modifier
+	mercenary_type = d_the_foresters_composition
 }
 
 d_genovese_crossbow_contingent = {
@@ -315,7 +315,7 @@ d_genovese_crossbow_contingent = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_genovese_crossbow_contingent_modifier
+	mercenary_type = d_genovese_crossbow_contingent_composition
 }
 
 d_ventura_company = {
@@ -355,7 +355,7 @@ d_ventura_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_ventura_company_modifier
+	mercenary_type = d_ventura_company_composition
 }
 
 d_free_company = {
@@ -396,7 +396,7 @@ d_free_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_free_company_modifier
+	mercenary_type = d_free_company_composition
 }
 
 d_novgorod_guard = {
@@ -436,7 +436,7 @@ d_novgorod_guard = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_novgorod_guard_modifier
+	mercenary_type = d_novgorod_guard_composition
 }
 
 d_ukko's_thunder = {
@@ -477,7 +477,7 @@ d_ukko's_thunder = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_ukko's_thunder_modifier
+	mercenary_type = d_ukko's_thunder_composition
 }
 
 d_the_messengers_of_loki = {
@@ -518,7 +518,7 @@ d_the_messengers_of_loki = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_the_messengers_of_loki_modifier
+	mercenary_type = d_the_messengers_of_loki_composition
 }
 
 d_the_weeping_blade = {
@@ -558,7 +558,7 @@ d_the_weeping_blade = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_the_weeping_blade_modifier
+	mercenary_type = d_the_weeping_blade_composition
 }
 
 d_the_howling_wind = {
@@ -598,7 +598,7 @@ d_the_howling_wind = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_the_howling_wind_modifier
+	mercenary_type = d_the_howling_wind_composition
 }
 
 d_friends_of_dorothy = {
@@ -638,7 +638,7 @@ d_friends_of_dorothy = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_friends_of_dorothy_modifier
+	mercenary_type = d_friends_of_dorothy_composition
 }
 
 d_band_of_the_hawk = {
@@ -678,7 +678,7 @@ d_band_of_the_hawk = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_band_of_the_hawk_modifier
+	mercenary_type = d_band_of_the_hawk_composition
 }
 
 d_grand_alliance = {
@@ -718,7 +718,7 @@ d_grand_alliance = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_grand_alliance_modifier
+	mercenary_type = d_grand_alliance_composition
 }
 
 d_lettigalian_alliance = {
@@ -759,7 +759,7 @@ d_lettigalian_alliance = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_lettigalian_alliance_modifier
+	mercenary_type = d_lettigalian_alliance_composition
 }
 
 d_blue_company = {
@@ -800,7 +800,7 @@ d_blue_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_blue_company_modifier
+	mercenary_type = d_blue_company_composition
 }
 
 d_worthy_disciples = {
@@ -841,7 +841,7 @@ d_worthy_disciples = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_worthy_disciples_modifier
+	mercenary_type = d_worthy_disciples_composition
 }
 
 d_trusty_swords = {
@@ -882,7 +882,7 @@ d_trusty_swords = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_trusty_swords_modifier
+	mercenary_type = d_trusty_swords_composition
 }
 
 d_danzig_pact = {
@@ -923,7 +923,7 @@ d_danzig_pact = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_danzig_pact_modifier
+	mercenary_type = d_danzig_pact_composition
 }
 
 d_white_russians = {
@@ -964,7 +964,7 @@ d_white_russians = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_white_russians_modifier
+	mercenary_type = d_white_russians_composition
 }
 
 d_merry_footmen = {
@@ -1004,7 +1004,7 @@ d_merry_footmen = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_merry_footmen_modifier
+	mercenary_type = d_merry_footmen_composition
 }
 
 d_polish_cavalrymen = {
@@ -1044,7 +1044,7 @@ d_polish_cavalrymen = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_polish_cavalrymen_modifier
+	mercenary_type = d_polish_cavalrymen_composition
 }
 
 d_mountain_band = {
@@ -1085,7 +1085,7 @@ d_mountain_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_mountain_band_modifier
+	mercenary_type = d_mountain_band_composition
 }
 
 d_dnieper_alliance = {
@@ -1126,7 +1126,7 @@ d_dnieper_alliance = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_dnieper_alliance_modifier
+	mercenary_type = d_dnieper_alliance_composition
 }
 
 d_night_patrol = {
@@ -1166,7 +1166,7 @@ d_night_patrol = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_night_patrol_modifier
+	mercenary_type = d_night_patrol_composition
 }
 
 d_company_of_the_bear = {
@@ -1206,7 +1206,7 @@ d_company_of_the_bear = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_company_of_the_bear_modifier
+	mercenary_type = d_company_of_the_bear_composition
 }
 
 d_snow_warriors = {
@@ -1247,7 +1247,7 @@ d_snow_warriors = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_snow_warriors_modifier
+	mercenary_type = d_snow_warriors_composition
 }
 
 d_bowmen_of_the_valley = {
@@ -1288,7 +1288,7 @@ d_bowmen_of_the_valley = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_bowmen_of_the_valley_modifier
+	mercenary_type = d_bowmen_of_the_valley_composition
 }
 
 d_pikes_of_geneve = {
@@ -1328,7 +1328,7 @@ d_pikes_of_geneve = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_pikes_of_geneve_modifier
+	mercenary_type = d_pikes_of_geneve_composition
 }
 
 d_titans_of_lorraine = {
@@ -1369,7 +1369,7 @@ d_titans_of_lorraine = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_titans_of_lorraine_modifier
+	mercenary_type = d_titans_of_lorraine_composition
 }
 
 d_dutch_freemen = {
@@ -1410,7 +1410,7 @@ d_dutch_freemen = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_dutch_freemen_modifier
+	mercenary_type = d_dutch_freemen_composition
 }
 
 d_footmen_of_the_owl = {
@@ -1450,7 +1450,7 @@ d_footmen_of_the_owl = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_footmen_of_the_owl_modifier
+	mercenary_type = d_footmen_of_the_owl_composition
 }
 
 d_knights_of_the_golden_circle = {
@@ -1490,7 +1490,7 @@ d_knights_of_the_golden_circle = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_knights_of_the_golden_circle_modifier
+	mercenary_type = d_knights_of_the_golden_circle_composition
 }
 
 d_mercantile_guard = {
@@ -1531,7 +1531,7 @@ d_mercantile_guard = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_mercantile_guard_modifier
+	mercenary_type = d_mercantile_guard_composition
 }
 
 d_knights_of_the_iron_gauntlet = {
@@ -1571,7 +1571,7 @@ d_knights_of_the_iron_gauntlet = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_knights_of_the_iron_gauntlet_modifier
+	mercenary_type = d_knights_of_the_iron_gauntlet_composition
 }
 
 d_knights_of_the_crescent_moon = {
@@ -1612,7 +1612,7 @@ d_knights_of_the_crescent_moon = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_knights_of_the_crescent_moon_modifier
+	mercenary_type = d_knights_of_the_crescent_moon_composition
 }
 
 d_knights_of_the_radiant_sun = {
@@ -1652,7 +1652,7 @@ d_knights_of_the_radiant_sun = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_knights_of_the_radiant_sun_modifier
+	mercenary_type = d_knights_of_the_radiant_sun_composition
 }
 
 d_christian_horsemen = {
@@ -1692,7 +1692,7 @@ d_christian_horsemen = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_christian_horsemen_modifier
+	mercenary_type = d_christian_horsemen_composition
 }
 
 d_lombardy_knightly_union = {
@@ -1732,7 +1732,7 @@ d_lombardy_knightly_union = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_lombardy_knightly_union_modifier
+	mercenary_type = d_lombardy_knightly_union_composition
 }
 
 d_horsemen_of_the_burning_stag = {
@@ -1773,7 +1773,7 @@ d_horsemen_of_the_burning_stag = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_horsemen_of_the_burning_stag_modifier
+	mercenary_type = d_horsemen_of_the_burning_stag_composition
 }
 
 d_highland_band = {
@@ -1814,7 +1814,7 @@ d_highland_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_highland_band_modifier
+	mercenary_type = d_highland_band_composition
 }
 
 d_neapolitan_company = {
@@ -1855,7 +1855,7 @@ d_neapolitan_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_neapolitan_company_modifier
+	mercenary_type = d_neapolitan_company_composition
 }
 
 d_sicilian_company = {
@@ -1896,7 +1896,7 @@ d_sicilian_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_sicilian_company_modifier
+	mercenary_type = d_sicilian_company_composition
 }
 
 d_lisboa_faithful = {
@@ -1937,7 +1937,7 @@ d_lisboa_faithful = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_lisboa_faithful_modifier
+	mercenary_type = d_lisboa_faithful_composition
 }
 
 d_iberian_knights = {
@@ -1978,7 +1978,7 @@ d_iberian_knights = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_iberian_knights_modifier
+	mercenary_type = d_iberian_knights_composition
 }
 
 d_castillian_band = {
@@ -2018,7 +2018,7 @@ d_castillian_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_castillian_band_modifier
+	mercenary_type = d_castillian_band_composition
 }
 
 d_knights_of_al_andalus = {
@@ -2058,7 +2058,7 @@ d_knights_of_al_andalus = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_knights_of_al_andalus_modifier
+	mercenary_type = d_knights_of_al_andalus_composition
 }
 
 d_plains_band = {
@@ -2098,7 +2098,7 @@ d_plains_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_plains_band_modifier
+	mercenary_type = d_plains_band_composition
 }
 
 d_berber_camel_riders = {
@@ -2138,7 +2138,7 @@ d_berber_camel_riders = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_berber_camel_riders_modifier
+	mercenary_type = d_berber_camel_riders_composition
 }
 
 d_maniots = {
@@ -2178,7 +2178,7 @@ d_maniots = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_maniots_modifier
+	mercenary_type = d_maniots_composition
 }
 
 d_norman_armoured_horse_company = {
@@ -2218,7 +2218,7 @@ d_norman_armoured_horse_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_norman_armoured_horse_company_modifier
+	mercenary_type = d_norman_armoured_horse_company_composition
 }
 
 d_disciples_of_johan = {
@@ -2259,7 +2259,7 @@ d_disciples_of_johan = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_disciples_of_johan_modifier
+	mercenary_type = d_disciples_of_johan_composition
 }
 
 d_knights_of_the_wounded_boar = {
@@ -2300,7 +2300,7 @@ d_knights_of_the_wounded_boar = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_knights_of_the_wounded_boar_modifier
+	mercenary_type = d_knights_of_the_wounded_boar_composition
 }
 
 d_retainers = {
@@ -2341,7 +2341,7 @@ d_retainers = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_retainers_modifier
+	mercenary_type = d_retainers_composition
 }
 
 d_scarred_mountain = {
@@ -2382,7 +2382,7 @@ d_scarred_mountain = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_scarred_mountain_modifier
+	mercenary_type = d_scarred_mountain_composition
 }
 
 d_ancient_spear = {
@@ -2422,7 +2422,7 @@ d_ancient_spear = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_ancient_spear_modifier
+	mercenary_type = d_ancient_spear_composition
 }
 
 d_hillside_tribe = {
@@ -2463,7 +2463,7 @@ d_hillside_tribe = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_hillside_tribe_modifier
+	mercenary_type = d_hillside_tribe_composition
 }
 
 d_minotaurs = {
@@ -2503,7 +2503,7 @@ d_minotaurs = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_minotaurs_modifier
+	mercenary_type = d_minotaurs_composition
 }
 
 d_flaming_arrow = {
@@ -2544,7 +2544,7 @@ d_flaming_arrow = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_flaming_arrow_modifier
+	mercenary_type = d_flaming_arrow_composition
 }
 
 d_armenian_band = {
@@ -2584,7 +2584,7 @@ d_armenian_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_armenian_band_modifier
+	mercenary_type = d_armenian_band_composition
 }
 
 d_georgian_knights = {
@@ -2624,7 +2624,7 @@ d_georgian_knights = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_georgian_knights_modifier
+	mercenary_type = d_georgian_knights_composition
 }
 
 d_free_knights_of_alania = {
@@ -2665,7 +2665,7 @@ d_free_knights_of_alania = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_free_knights_of_alania_modifier
+	mercenary_type = d_free_knights_of_alania_composition
 }
 
 d_wandering_horsemen = {
@@ -2706,7 +2706,7 @@ d_wandering_horsemen = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_wandering_horsemen_modifier
+	mercenary_type = d_wandering_horsemen_composition
 }
 
 d_sleeping_giant = {
@@ -2747,7 +2747,7 @@ d_sleeping_giant = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_sleeping_giant_modifier
+	mercenary_type = d_sleeping_giant_composition
 }
 
 d_gallowglass_of_the_hebrides = {
@@ -2787,7 +2787,7 @@ d_gallowglass_of_the_hebrides = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_gallowglass_of_the_hebrides_modifier
+	mercenary_type = d_gallowglass_of_the_hebrides_composition
 }
 
 d_kerns_of_connacht = {
@@ -2827,7 +2827,7 @@ d_kerns_of_connacht = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_kerns_of_connacht_modifier
+	mercenary_type = d_kerns_of_connacht_composition
 }
 
 d_clan_sweeney = {
@@ -2867,7 +2867,7 @@ d_clan_sweeney = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_kerns_of_connacht_modifier
+	mercenary_type = d_kerns_of_connacht_composition
 }
 
 d_clan_mccabe = {
@@ -2907,7 +2907,7 @@ d_clan_mccabe = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_clan_mccabe_modifier
+	mercenary_type = d_clan_mccabe_composition
 }
 
 d_clan_macdonnell = {
@@ -2947,7 +2947,7 @@ d_clan_macdonnell = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_clan_macdonnell_modifier
+	mercenary_type = d_clan_macdonnell_composition
 }
 
 d_knights_of_honour = {
@@ -2988,7 +2988,7 @@ d_knights_of_honour = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_knights_of_honour_modifier
+	mercenary_type = d_knights_of_honour_composition
 }
 
 d_company_of_the_cat = {
@@ -3028,7 +3028,7 @@ d_company_of_the_cat = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_company_of_the_cat_modifier
+	mercenary_type = d_company_of_the_cat_composition
 }
 
 d_cawing_cockerel = {
@@ -3068,7 +3068,7 @@ d_cawing_cockerel = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_cawing_cockerel_modifier
+	mercenary_type = d_cawing_cockerel_composition
 }
 
 d_brothers_of_the_sun = {
@@ -3109,7 +3109,7 @@ d_brothers_of_the_sun = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_brothers_of_the_sun_modifier
+	mercenary_type = d_brothers_of_the_sun_composition
 }
 
 d_horsemen_of_the_nile = {
@@ -3150,7 +3150,7 @@ d_horsemen_of_the_nile = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_horsemen_of_the_nile_modifier
+	mercenary_type = d_horsemen_of_the_nile_composition
 }
 
 d_brothers_of_the_sacred_heart = {
@@ -3190,7 +3190,7 @@ d_brothers_of_the_sacred_heart = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_brothers_of_the_sacred_heart_modifier
+	mercenary_type = d_brothers_of_the_sacred_heart_composition
 }
 
 d_black_shirts = {
@@ -3230,7 +3230,7 @@ d_black_shirts = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_black_shirts_modifier
+	mercenary_type = d_black_shirts_composition
 }
 
 d_horsemen_of_the_shifting_sand = {
@@ -3271,7 +3271,7 @@ d_horsemen_of_the_shifting_sand = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_horsemen_of_the_shifting_sand_modifier
+	mercenary_type = d_horsemen_of_the_shifting_sand_composition
 }
 
 d_wall_of_spears = {
@@ -3312,7 +3312,7 @@ d_wall_of_spears = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_wall_of_spears_modifier
+	mercenary_type = d_wall_of_spears_composition
 }
 
 d_guards_of_aleppo = {
@@ -3353,7 +3353,7 @@ d_guards_of_aleppo = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_guards_of_aleppo_modifier
+	mercenary_type = d_guards_of_aleppo_composition
 }
 
 d_guards_of_baghdad = {
@@ -3393,7 +3393,7 @@ d_guards_of_baghdad = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_guards_of_baghdad_modifier
+	mercenary_type = d_guards_of_baghdad_composition
 }
 
 d_screaming_skull = {
@@ -3433,7 +3433,7 @@ d_screaming_skull = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_screaming_skull_modifier
+	mercenary_type = d_screaming_skull_composition
 }
 
 d_kurd_company = {
@@ -3473,7 +3473,7 @@ d_kurd_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_kurd_company_modifier
+	mercenary_type = d_kurd_company_composition
 }
 
 d_turkmen_company = {
@@ -3513,7 +3513,7 @@ d_turkmen_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_turkmen_company_modifier
+	mercenary_type = d_turkmen_company_composition
 }
 
 d_company_of_the_cauldron = {
@@ -3554,7 +3554,7 @@ d_company_of_the_cauldron = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_company_of_the_cauldron_modifier
+	mercenary_type = d_company_of_the_cauldron_composition
 }
 
 d_berber_camel_raiders = {
@@ -3595,7 +3595,7 @@ d_berber_camel_raiders = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_berber_camel_raiders_modifier
+	mercenary_type = d_berber_camel_raiders_composition
 }
 
 d_devout = {
@@ -3630,7 +3630,7 @@ d_devout = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_devout_modifier
+	mercenary_type = d_devout_composition
 }
 
 d_horsemen_of_the_storm = {
@@ -3670,7 +3670,7 @@ d_horsemen_of_the_storm = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_horsemen_of_the_storm_modifier
+	mercenary_type = d_horsemen_of_the_storm_composition
 }
 
 d_chariots_of_fire = {
@@ -3710,7 +3710,7 @@ d_chariots_of_fire = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_chariots_of_fire_modifier
+	mercenary_type = d_chariots_of_fire_composition
 }
 
 d_golden_bow = {
@@ -3751,7 +3751,7 @@ d_golden_bow = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_golden_bow_modifier
+	mercenary_type = d_golden_bow_composition
 }
 
 d_charging_bull = {
@@ -3792,7 +3792,7 @@ d_charging_bull = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_charging_bull_modifier
+	mercenary_type = d_charging_bull_composition
 }
 
 d_great_wolverine = {
@@ -3832,7 +3832,7 @@ d_great_wolverine = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_great_wolverine_modifier
+	mercenary_type = d_great_wolverine_composition
 }
 
 d_chosen = {
@@ -3867,7 +3867,7 @@ d_chosen = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_chosen_modifier
+	mercenary_type = d_chosen_composition
 }
 
 d_falling_stone = {
@@ -3907,7 +3907,7 @@ d_falling_stone = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_falling_stone_modifier
+	mercenary_type = d_falling_stone_composition
 }
 
 d_proud_kesterel = {
@@ -3947,7 +3947,7 @@ d_proud_kesterel = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_proud_kesterel_modifier
+	mercenary_type = d_proud_kesterel_composition
 }
 
 d_ancient_cataphract_alliance = {
@@ -3987,7 +3987,7 @@ d_ancient_cataphract_alliance = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_ancient_cataphract_alliance_modifier
+	mercenary_type = d_ancient_cataphract_alliance_composition
 }
 
 d_sweeping_scythe = {
@@ -4027,7 +4027,7 @@ d_sweeping_scythe = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_sweeping_scythe_modifier
+	mercenary_type = d_sweeping_scythe_composition
 }
 
 d_knights_of_the_fox = {
@@ -4067,7 +4067,7 @@ d_knights_of_the_fox = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_knights_of_the_fox_modifier
+	mercenary_type = d_knights_of_the_fox_composition
 }
 
 d_knights_of_the_wooden_spoon = {
@@ -4107,7 +4107,7 @@ d_knights_of_the_wooden_spoon = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_knights_of_the_wooden_spoon_modifier
+	mercenary_type = d_knights_of_the_wooden_spoon_composition
 }
 
 d_knights_of_the_breaking_dawn = {
@@ -4147,7 +4147,7 @@ d_knights_of_the_breaking_dawn = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_knights_of_the_breaking_dawn_modifier
+	mercenary_type = d_knights_of_the_breaking_dawn_composition
 }
 
 d_knights_of_the_falling_star = {
@@ -4187,7 +4187,7 @@ d_knights_of_the_falling_star = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_knights_of_the_falling_star_modifier
+	mercenary_type = d_knights_of_the_falling_star_composition
 }
 
 d_knights_of_the_fiery_heart = {
@@ -4227,7 +4227,7 @@ d_knights_of_the_fiery_heart = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_knights_of_the_fiery_heart_modifier
+	mercenary_type = d_knights_of_the_fiery_heart_composition
 }
 
 d_horsemen_of_the_flying_stallion = {
@@ -4267,7 +4267,7 @@ d_horsemen_of_the_flying_stallion = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_horsemen_of_the_flying_stallion_modifier
+	mercenary_type = d_horsemen_of_the_flying_stallion_composition
 }
 
 d_horsemen_of_the_smiling_elephant = {
@@ -4307,7 +4307,7 @@ d_horsemen_of_the_smiling_elephant = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_horsemen_of_the_smiling_elephant_modifier
+	mercenary_type = d_horsemen_of_the_smiling_elephant_composition
 }
 
 d_horsemen_of_the_beating_drum = {
@@ -4347,7 +4347,7 @@ d_horsemen_of_the_beating_drum = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_horsemen_of_the_beating_drum_modifier
+	mercenary_type = d_horsemen_of_the_beating_drum_composition
 }
 
 d_horsemen_of_the_serpent = {
@@ -4388,7 +4388,7 @@ d_horsemen_of_the_serpent = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_horsemen_of_the_serpent_modifier
+	mercenary_type = d_horsemen_of_the_serpent_composition
 }
 
 d_band_of_the_snake = {
@@ -4428,7 +4428,7 @@ d_band_of_the_snake = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_band_of_the_snake_modifier
+	mercenary_type = d_band_of_the_snake_composition
 }
 
 d_red_band = {
@@ -4468,7 +4468,7 @@ d_red_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_red_band_modifier
+	mercenary_type = d_red_band_composition
 }
 
 d_company_of_the_roaring_lion = {
@@ -4508,7 +4508,7 @@ d_company_of_the_roaring_lion = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_company_of_the_roaring_lion_modifier
+	mercenary_type = d_company_of_the_roaring_lion_composition
 }
 
 d_company_of_the_cheetah = {
@@ -4548,7 +4548,7 @@ d_company_of_the_cheetah = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_company_of_the_cheetah_modifier
+	mercenary_type = d_company_of_the_cheetah_composition
 }
 
 d_roaming_camel_riders = {
@@ -4588,7 +4588,7 @@ d_roaming_camel_riders = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_roaming_camel_riders_modifier
+	mercenary_type = d_roaming_camel_riders_composition
 }
 
 d_brave_ones = {
@@ -4628,7 +4628,7 @@ d_brave_ones = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_brave_ones_modifier
+	mercenary_type = d_brave_ones_composition
 }
 
 d_band_of_skulls = {
@@ -4668,7 +4668,7 @@ d_band_of_skulls = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_band_of_skulls_modifier
+	mercenary_type = d_band_of_skulls_composition
 }
 
 d_brothers_of_islam = {
@@ -4703,7 +4703,7 @@ d_brothers_of_islam = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_brothers_of_islam_modifier
+	mercenary_type = d_brothers_of_islam_composition
 }
 
 d_winds_of_the_east = {
@@ -4743,7 +4743,7 @@ d_winds_of_the_east = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_winds_of_the_east_modifier
+	mercenary_type = d_winds_of_the_east_composition
 }
 
 d_wroth_of_tengri = {
@@ -4784,7 +4784,7 @@ d_wroth_of_tengri = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_wroth_of_tengri_modifier
+	mercenary_type = d_wroth_of_tengri_composition
 }
 
 d_coming_storm = {
@@ -4825,7 +4825,7 @@ d_coming_storm = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_coming_storm_modifier
+	mercenary_type = d_coming_storm_composition
 }
 
 d_papuan_claws = {
@@ -4858,7 +4858,7 @@ d_papuan_claws = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_papuan_claws_modifier
+	mercenary_type = d_papuan_claws_composition
 }
 
 d_unbreakable_wings = {
@@ -4891,7 +4891,7 @@ d_unbreakable_wings = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_unbreakable_wings_modifier
+	mercenary_type = d_unbreakable_wings_composition
 }
 
 d_sakasanusa_warriors = {
@@ -4924,7 +4924,7 @@ d_sakasanusa_warriors = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_sakasanusa_warriors_modifier
+	mercenary_type = d_sakasanusa_warriors_composition
 }
 
 d_komodo_dragons = {
@@ -4957,7 +4957,7 @@ d_komodo_dragons = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_komodo_dragons_modifier
+	mercenary_type = d_komodo_dragons_composition
 }
 
 d_jungle_swords = {
@@ -4990,7 +4990,7 @@ d_jungle_swords = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_jungle_swords_modifier
+	mercenary_type = d_jungle_swords_composition
 }
 
 d_jaws_of_mindanao = {
@@ -5023,7 +5023,7 @@ d_jaws_of_mindanao = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_jaws_of_mindanao_modifier
+	mercenary_type = d_jaws_of_mindanao_composition
 }
 
 d_luzon_band = {
@@ -5056,7 +5056,7 @@ d_luzon_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_luzon_band_modifier
+	mercenary_type = d_luzon_band_composition
 }
 
 d_highland_raiders = {
@@ -5089,7 +5089,7 @@ d_highland_raiders = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_highland_raiders_modifier
+	mercenary_type = d_highland_raiders_composition
 }
 
 d_taiwanese_lightning = {
@@ -5122,7 +5122,7 @@ d_taiwanese_lightning = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_taiwanese_lightning_modifier
+	mercenary_type = d_taiwanese_lightning_composition
 }
 
 d_green_spirit = {
@@ -5155,7 +5155,7 @@ d_green_spirit = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_green_spirit_modifier
+	mercenary_type = d_green_spirit_composition
 }
 
 d_minahasa_company = {
@@ -5188,7 +5188,7 @@ d_minahasa_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_minahasa_company_modifier
+	mercenary_type = d_minahasa_company_composition
 }
 
 d_world_conquerors = {
@@ -5221,7 +5221,7 @@ d_world_conquerors = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_world_conquerors_modifier
+	mercenary_type = d_world_conquerors_composition
 }
 
 d_javanese_band = {
@@ -5254,7 +5254,7 @@ d_javanese_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_javanese_band_modifier
+	mercenary_type = d_javanese_band_composition
 }
 
 d_sundanese_brothers = {
@@ -5287,7 +5287,7 @@ d_sundanese_brothers = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_sundanese_brothers_modifier
+	mercenary_type = d_sundanese_brothers_composition
 }
 
 d_palembang_crocodiles = {
@@ -5320,7 +5320,7 @@ d_palembang_crocodiles = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_palembang_crocodiles_modifier
+	mercenary_type = d_palembang_crocodiles_composition
 }
 
 d_faithful_husbands = {
@@ -5353,7 +5353,7 @@ d_faithful_husbands = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_faithful_husbands_modifier
+	mercenary_type = d_faithful_husbands_composition
 }
 
 d_blood_eruption = {
@@ -5386,7 +5386,7 @@ d_blood_eruption = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_blood_eruption_modifier
+	mercenary_type = d_blood_eruption_composition
 }
 
 d_berserk_brothers = {
@@ -5419,7 +5419,7 @@ d_berserk_brothers = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_berserk_brothers_modifier
+	mercenary_type = d_berserk_brothers_composition
 }
 
 d_samudran_rhinos = {
@@ -5452,7 +5452,7 @@ d_samudran_rhinos = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_samudran_rhinos_modifier
+	mercenary_type = d_samudran_rhinos_composition
 }
 
 d_islamic_front = {
@@ -5485,7 +5485,7 @@ d_islamic_front = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_islamic_front_modifier
+	mercenary_type = d_islamic_front_composition
 }
 
 d_malay_company = {
@@ -5518,7 +5518,7 @@ d_malay_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_malay_company_modifier
+	mercenary_type = d_malay_company_composition
 }
 
 d_malay_band = {
@@ -5551,7 +5551,7 @@ d_malay_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_malay_band_modifier
+	mercenary_type = d_malay_band_composition
 }
 
 d_khmer_company = {
@@ -5584,7 +5584,7 @@ d_khmer_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_khmer_company_modifier
+	mercenary_type = d_khmer_company_composition
 }
 
 d_chamic_tides = {
@@ -5617,7 +5617,7 @@ d_chamic_tides = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_chamic_tides_modifier
+	mercenary_type = d_chamic_tides_composition
 }
 
 d_viet_warriors = {
@@ -5650,7 +5650,7 @@ d_viet_warriors = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_viet_warriors_modifier
+	mercenary_type = d_viet_warriors_composition
 }
 
 d_blades_of_death = {
@@ -5683,7 +5683,7 @@ d_blades_of_death = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_blades_of_death_modifier
+	mercenary_type = d_blades_of_death_composition
 }
 
 d_thai_band = {
@@ -5716,7 +5716,7 @@ d_thai_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_thai_band_modifier
+	mercenary_type = d_thai_band_composition
 }
 
 d_venomous_arrows = {
@@ -5749,7 +5749,7 @@ d_venomous_arrows = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_venomous_arrows_modifier
+	mercenary_type = d_venomous_arrows_composition
 }
 
 d_constricting_branches = {
@@ -5782,7 +5782,7 @@ d_constricting_branches = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_constricting_branches_modifier
+	mercenary_type = d_constricting_branches_composition
 }
 
 d_mountain_wall = {
@@ -5815,7 +5815,7 @@ d_mountain_wall = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_mountain_wall_modifier
+	mercenary_type = d_mountain_wall_composition
 }
 
 d_chinese_flame = {
@@ -5848,7 +5848,7 @@ d_chinese_flame = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_chinese_flame_modifier
+	mercenary_type = d_chinese_flame_composition
 }
 
 d_merciful_swords = {
@@ -5881,7 +5881,7 @@ d_merciful_swords = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_merciful_swords_modifier
+	mercenary_type = d_merciful_swords_composition
 }
 
 d_dragon_company = {
@@ -5914,7 +5914,7 @@ d_dragon_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_dragon_company_modifier
+	mercenary_type = d_dragon_company_composition
 }
 
 d_river_band = {
@@ -5947,7 +5947,7 @@ d_river_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_river_band_modifier
+	mercenary_type = d_river_band_composition
 }
 
 d_fertile_anger = {
@@ -5980,7 +5980,7 @@ d_fertile_anger = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_fertile_anger_modifier
+	mercenary_type = d_fertile_anger_composition
 }
 
 d_rocky_band = {
@@ -6013,7 +6013,7 @@ d_rocky_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_rocky_band_modifier
+	mercenary_type = d_rocky_band_composition
 }
 
 d_ember_company = {
@@ -6046,7 +6046,7 @@ d_ember_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_ember_company_modifier
+	mercenary_type = d_ember_company_composition
 }
 
 d_sands_of_murder = {
@@ -6079,7 +6079,7 @@ d_sands_of_murder = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_sands_of_murder_modifier
+	mercenary_type = d_sands_of_murder_composition
 }
 
 d_jurchen_company = {
@@ -6112,7 +6112,7 @@ d_jurchen_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_jurchen_company_modifier
+	mercenary_type = d_jurchen_company_composition
 }
 
 d_willful_bow = {
@@ -6145,7 +6145,7 @@ d_willful_bow = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_willful_bow_modifier
+	mercenary_type = d_willful_bow_composition
 }
 
 d_lightning_tachi = {
@@ -6178,7 +6178,7 @@ d_lightning_tachi = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_lightning_tachi_modifier
+	mercenary_type = d_lightning_tachi_composition
 }
 
 d_ainu_band = {
@@ -6211,7 +6211,7 @@ d_ainu_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_ainu_band_modifier
+	mercenary_type = d_ainu_band_composition
 }
 
 d_steppe_storm = {
@@ -6244,7 +6244,7 @@ d_steppe_storm = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_steppe_storm_modifier
+	mercenary_type = d_steppe_storm_composition
 }
 
 d_chilling_roar = {
@@ -6277,7 +6277,7 @@ d_chilling_roar = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_chilling_roar_modifier
+	mercenary_type = d_chilling_roar_composition
 }
 
 d_silky_death = {
@@ -6310,7 +6310,7 @@ d_silky_death = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_silky_death_modifier
+	mercenary_type = d_silky_death_composition
 }
 
 d_riders_of_kimek = {
@@ -6343,7 +6343,7 @@ d_riders_of_kimek = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_riders_of_kimek_modifier
+	mercenary_type = d_riders_of_kimek_composition
 }
 
 d_pashtun_footmen = {
@@ -6376,7 +6376,7 @@ d_pashtun_footmen = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_pashtun_footmen_modifier
+	mercenary_type = d_pashtun_footmen_composition
 }
 
 d_ferghana_brotherhood = {
@@ -6409,7 +6409,7 @@ d_ferghana_brotherhood = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_ferghana_brotherhood_modifier
+	mercenary_type = d_ferghana_brotherhood_composition
 }
 
 d_kashmiri_thunder = {
@@ -6442,7 +6442,7 @@ d_kashmiri_thunder = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_kashmiri_thunder_modifier
+	mercenary_type = d_kashmiri_thunder_composition
 }
 
 d_bodpa_company = {
@@ -6475,7 +6475,7 @@ d_bodpa_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_bodpa_company_modifier
+	mercenary_type = d_bodpa_company_composition
 }
 
 d_unforgiving_blizzard = {
@@ -6508,7 +6508,7 @@ d_unforgiving_blizzard = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_unforgiving_blizzard_modifier
+	mercenary_type = d_unforgiving_blizzard_composition
 }
 
 d_xangxung_band = {
@@ -6541,7 +6541,7 @@ d_xangxung_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_xangxung_band_modifier
+	mercenary_type = d_xangxung_band_composition
 }
 
 d_rajput_wrath = {
@@ -6574,7 +6574,7 @@ d_rajput_wrath = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_rajput_wrath_modifier
+	mercenary_type = d_rajput_wrath_composition
 }
 
 d_merciless_wave = {
@@ -6607,7 +6607,7 @@ d_merciless_wave = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_merciless_wave_modifier
+	mercenary_type = d_merciless_wave_composition
 }
 
 d_lions_of_mathura = {
@@ -6640,7 +6640,7 @@ d_lions_of_mathura = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_lions_of_mathura_modifier
+	mercenary_type = d_lions_of_mathura_composition
 }
 
 d_nepalese_company = {
@@ -6673,7 +6673,7 @@ d_nepalese_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_nepalese_company_modifier
+	mercenary_type = d_nepalese_company_composition
 }
 
 d_kamarupi_nagas = {
@@ -6706,7 +6706,7 @@ d_kamarupi_nagas = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_kamarupi_nagas_modifier
+	mercenary_type = d_kamarupi_nagas_composition
 }
 
 d_sword_monsoon = {
@@ -6739,7 +6739,7 @@ d_sword_monsoon = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_sword_monsoon_modifier
+	mercenary_type = d_sword_monsoon_composition
 }
 
 d_dandaka_arrows = {
@@ -6772,7 +6772,7 @@ d_dandaka_arrows = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_dandaka_arrows_modifier
+	mercenary_type = d_dandaka_arrows_composition
 }
 
 d_kannada_band = {
@@ -6805,7 +6805,7 @@ d_kannada_band = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_kannada_band_modifier
+	mercenary_type = d_kannada_band_composition
 }
 
 d_fury_of_the_coromandel = {
@@ -6838,7 +6838,7 @@ d_fury_of_the_coromandel = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_fury_of_the_coromandel_modifier
+	mercenary_type = d_fury_of_the_coromandel_composition
 }
 
 d_oriya_blades = {
@@ -6871,7 +6871,7 @@ d_oriya_blades = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_oriya_blades_modifier
+	mercenary_type = d_oriya_blades_composition
 }
 
 d_malabar_warriors = {
@@ -6904,7 +6904,7 @@ d_malabar_warriors = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_malabar_warriors_modifier
+	mercenary_type = d_malabar_warriors_composition
 }
 
 d_tamil_tigers = {
@@ -6937,7 +6937,7 @@ d_tamil_tigers = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_tamil_tigers_modifier
+	mercenary_type = d_tamil_tigers_composition
 }
 
 d_sinhala_lions = {
@@ -6970,7 +6970,7 @@ d_sinhala_lions = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_sinhala_lions_modifier
+	mercenary_type = d_sinhala_lions_composition
 }
 
 d_elephant_brotherhood = {
@@ -7003,7 +7003,7 @@ d_elephant_brotherhood = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_elephant_brotherhood_modifier
+	mercenary_type = d_elephant_brotherhood_composition
 }
 
 d_dhivehi_pirates = {
@@ -7036,5 +7036,5 @@ d_dhivehi_pirates = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_dhivehi_pirates_modifier
+	mercenary_type = d_dhivehi_pirates_composition
 }

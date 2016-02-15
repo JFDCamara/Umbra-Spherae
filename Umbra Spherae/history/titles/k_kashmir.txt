@@ -70,9 +70,6 @@
 937.1.1={
 	holder=188404 # Unmattavanti
 }
-939.1.1={
-	holder=1000083358 #Suravarman II
-}
 
 #Kutumbi Dynasty
 939.1.5={

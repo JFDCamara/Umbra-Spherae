@@ -19,8 +19,8 @@
 1243.1.1={
 	holder=1000077275
 } # Regent
-1251.1.1={
-	liege="e_mongol_empire"
+1251.1.1 = {
+	set_tribute_suzerain = { who = k_mongolia percentage = 0.40 }
 }
 1264.1.1={
 	holder=1000077276
@@ -32,6 +32,7 @@
 	holder=1000077276
 }
 1279.3.19={
+	clear_tribute_suzerain = k_mongolia
 	liege="e_china"
 }
 1280.1.1={

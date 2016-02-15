@@ -59,13 +59,14 @@
 }
 
 #Fictional placeholders
-1251.1.1={
-	liege="e_mongol_empire"
+1251.1.1 = {
+	set_tribute_suzerain = { who = k_mongolia percentage = 0.40 }
 }
 1262.1.1={
 	holder=1000203804 #Pelgyi Tsemo
 }
 1279.3.19={
+	clear_tribute_suzerain = k_mongolia
 	liege="e_china"
 }
 1290.1.1={
