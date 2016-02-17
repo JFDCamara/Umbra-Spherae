@@ -1,0 +1,15 @@
+# c_pampan
+
+# County Title
+title = c_pampan
+
+# Settlements
+max_settlements = 1
+
+b_pampan = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

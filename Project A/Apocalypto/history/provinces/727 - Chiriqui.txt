@@ -1,0 +1,15 @@
+# c_chiriqui
+
+# County Title
+title = c_chiriqui
+
+# Settlements
+max_settlements = 1
+
+b_chiriqui = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

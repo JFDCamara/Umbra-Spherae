@@ -1,0 +1,15 @@
+# c_atakapa
+
+# County Title
+title = c_atakapa
+
+# Settlements
+max_settlements = 1
+
+b_atakapa = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

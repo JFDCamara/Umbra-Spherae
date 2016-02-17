@@ -1,0 +1,17 @@
+# c_mississauga
+
+# County Title
+title = c_mississauga
+
+# Settlements
+max_settlements = 3
+
+b_mississauga = castle
+#b_tisagechroamis = city
+#b_zisaugeghroanu = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

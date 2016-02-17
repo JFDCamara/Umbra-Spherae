@@ -1,0 +1,15 @@
+# c_ozita
+
+# County Title
+title = c_ozita
+
+# Settlements
+max_settlements = 1
+
+b_ozita = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

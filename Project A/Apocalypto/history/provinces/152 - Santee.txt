@@ -1,0 +1,17 @@
+# c_santee
+
+# County Title
+title = c_santee
+
+# Settlements
+max_settlements = 3
+
+b_santee = castle
+#b_keyauwee = city
+#b_ilasi = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

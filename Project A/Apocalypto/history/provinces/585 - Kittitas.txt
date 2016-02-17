@@ -1,0 +1,15 @@
+# c_kittitas
+
+# County Title
+title = c_kittitas
+
+# Settlements
+max_settlements = 1
+
+b_kittitas = castle
+
+# Misc
+culture = salish
+religion = numa
+
+#History

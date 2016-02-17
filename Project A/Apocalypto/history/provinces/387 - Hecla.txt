@@ -1,0 +1,15 @@
+# c_hecla
+
+# County Title
+title = c_hecla
+
+# Settlements
+max_settlements = 1
+
+b_hecla = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

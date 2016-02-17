@@ -1,0 +1,19 @@
+# c_edzna
+
+# County Title
+title = c_edzna
+
+# Settlements
+max_settlements = 5
+
+b_edzna = castle
+b_tabasqueno = city
+b_chenes = temple
+#b_xtampak = castle
+#b_xlapak = city
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

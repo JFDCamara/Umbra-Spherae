@@ -1,0 +1,15 @@
+# c_panismaha
+
+# County Title
+title = c_panismaha
+
+# Settlements
+max_settlements = 1
+
+b_panismaha = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

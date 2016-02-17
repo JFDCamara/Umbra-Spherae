@@ -1,0 +1,15 @@
+# c_ixtapa
+
+# County Title
+title = c_ixtapa
+
+# Settlements
+max_settlements = 1
+
+b_ixtapa = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

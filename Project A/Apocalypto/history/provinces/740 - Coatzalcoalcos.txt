@@ -1,0 +1,15 @@
+# c_coatzalcoalcos
+
+# County Title
+title = c_coatzalcoalcos
+
+# Settlements
+max_settlements = 1
+
+b_coatzalcoalcos = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

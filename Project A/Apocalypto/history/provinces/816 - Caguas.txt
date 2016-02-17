@@ -1,0 +1,15 @@
+# c_caguas
+
+# County Title
+title = c_caguas
+
+# Settlements
+max_settlements = 1
+
+b_caguas = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

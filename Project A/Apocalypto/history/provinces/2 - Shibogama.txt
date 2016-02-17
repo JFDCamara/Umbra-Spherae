@@ -1,0 +1,15 @@
+# c_shibogama
+
+# County Title
+title = c_shibogama
+
+# Settlements
+max_settlements = 1
+
+b_shibogama = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

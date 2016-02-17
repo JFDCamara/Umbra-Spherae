@@ -1,0 +1,15 @@
+# c_tocoa
+
+# County Title
+title = c_tocoa
+
+# Settlements
+max_settlements = 1
+
+b_tocoa = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

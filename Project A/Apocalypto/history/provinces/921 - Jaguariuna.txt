@@ -1,0 +1,15 @@
+# c_jaguariuna
+
+# County Title
+title = c_jaguariuna
+
+# Settlements
+max_settlements = 1
+
+b_jaguariuna = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

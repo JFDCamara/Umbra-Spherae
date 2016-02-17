@@ -1,0 +1,15 @@
+# c_ponca
+
+# County Title
+title = c_ponca
+
+# Settlements
+max_settlements = 1
+
+b_ponca = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

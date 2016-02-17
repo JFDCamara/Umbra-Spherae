@@ -1,0 +1,15 @@
+# c_imataca
+
+# County Title
+title = c_imataca
+
+# Settlements
+max_settlements = 1
+
+b_imataca = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

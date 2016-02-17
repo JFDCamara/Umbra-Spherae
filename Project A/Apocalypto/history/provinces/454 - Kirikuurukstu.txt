@@ -1,0 +1,15 @@
+# c_kirikuurukstu
+
+# County Title
+title = c_kirikuurukstu
+
+# Settlements
+max_settlements = 1
+
+b_kirikuurukstu = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

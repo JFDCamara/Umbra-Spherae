@@ -1,0 +1,18 @@
+# c_dzidzantun
+
+# County Title
+title = c_dzidzantun
+
+# Settlements
+max_settlements = 4
+
+b_dzidzantun = castle
+b_dzilam = city
+b_motul = temple
+#b_xcambo = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

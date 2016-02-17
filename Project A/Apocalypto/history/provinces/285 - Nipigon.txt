@@ -1,0 +1,15 @@
+# c_nipigon
+
+# County Title
+title = c_nipigon
+
+# Settlements
+max_settlements = 1
+
+b_nipigon = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

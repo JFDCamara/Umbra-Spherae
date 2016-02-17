@@ -1,0 +1,9 @@
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+1040.1.1={
+	holder=480029
+	law = succ_feudal_elective
+	law = cognatic_succession
+}

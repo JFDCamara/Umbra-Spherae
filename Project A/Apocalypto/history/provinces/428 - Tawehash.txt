@@ -1,0 +1,15 @@
+# c_tawehash
+
+# County Title
+title = c_tawehash
+
+# Settlements
+max_settlements = 1
+
+b_tawehash = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

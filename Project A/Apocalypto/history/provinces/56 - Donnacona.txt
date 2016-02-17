@@ -1,0 +1,15 @@
+# c_donnacona
+
+# County Title
+title = c_donnacona
+
+# Settlements
+max_settlements = 1
+
+b_donnacona = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

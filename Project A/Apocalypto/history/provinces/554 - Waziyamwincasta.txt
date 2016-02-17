@@ -1,0 +1,15 @@
+# c_waziyamwincasta
+
+# County Title
+title = c_waziyamwincasta
+
+# Settlements
+max_settlements = 1
+
+b_waziyamwincasta = castle
+
+# Misc
+culture = illinois
+religion = midewiwin
+
+#History

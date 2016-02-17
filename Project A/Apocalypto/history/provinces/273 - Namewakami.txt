@@ -1,0 +1,15 @@
+# c_namewakami
+
+# County Title
+title = c_namewakami
+
+# Settlements
+max_settlements = 1
+
+b_namewakami = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

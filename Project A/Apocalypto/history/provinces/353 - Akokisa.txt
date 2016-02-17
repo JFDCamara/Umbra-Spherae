@@ -1,0 +1,15 @@
+# c_akokisa
+
+# County Title
+title = c_akokisa
+
+# Settlements
+max_settlements = 1
+
+b_akokisa = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

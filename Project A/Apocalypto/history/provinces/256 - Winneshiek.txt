@@ -1,0 +1,18 @@
+# c_winneshiek
+
+# County Title
+title = c_winneshiek
+
+# Settlements
+max_settlements = 4
+
+b_winneshiek = castle
+#b_albiui = city
+#b_espeminkia = temple
+#b_maroa = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

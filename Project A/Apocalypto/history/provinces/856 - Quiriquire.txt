@@ -1,0 +1,15 @@
+# c_quiriquire
+
+# County Title
+title = c_quiriquire
+
+# Settlements
+max_settlements = 1
+
+b_quiriquire = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

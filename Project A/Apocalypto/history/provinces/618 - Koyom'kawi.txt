@@ -1,0 +1,15 @@
+# c_koyomkawi
+
+# County Title
+title = c_koyomkawi
+
+# Settlements
+max_settlements = 1
+
+b_koyomkawi = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

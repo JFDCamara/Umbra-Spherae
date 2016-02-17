@@ -1,0 +1,15 @@
+# c_ay-ay
+
+# County Title
+title = c_ay-ay
+
+# Settlements
+max_settlements = 1
+
+b_ay-ay = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

@@ -1,0 +1,15 @@
+# c_wabakimi
+
+# County Title
+title = c_wabakimi
+
+# Settlements
+max_settlements = 1
+
+b_wabakimi = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

@@ -1,0 +1,15 @@
+# c_algonac
+
+# County Title
+title = c_algonac
+
+# Settlements
+max_settlements = 1
+
+b_algonac = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

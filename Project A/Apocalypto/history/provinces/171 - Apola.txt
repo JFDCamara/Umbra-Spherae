@@ -1,0 +1,17 @@
+# c_apola
+
+# County Title
+title = c_apola
+
+# Settlements
+max_settlements = 3
+
+b_apola = castle
+#b_anhaica  = city
+#b_ibitachuco = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

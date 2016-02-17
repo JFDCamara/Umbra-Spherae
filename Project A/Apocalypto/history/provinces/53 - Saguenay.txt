@@ -1,0 +1,15 @@
+# c_saguenay
+
+# County Title
+title = c_saguenay
+
+# Settlements
+max_settlements = 1
+
+b_saguenay = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

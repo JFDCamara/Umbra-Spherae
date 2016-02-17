@@ -1,0 +1,586 @@
+14750 = {
+	name="Alboin"
+	dynasty=1100119
+	religion="arian"
+	culture="lombard"
+	530.1.1={
+		birth="530.1.1"
+	}
+	572.6.28={
+		death="572.6.28"
+	}
+}
+
+14751 = {
+	name="Cleph"
+	dynasty=1100119
+	religion="arian"
+	culture="lombard"
+	520.1.1={
+		birth="520.1.1"
+	}
+	574.1.1={
+		death="574.1.1"
+	}
+}
+
+14752 = {
+	name="Authari"
+	dynasty=1100119
+	religion="arian"
+	culture="lombard"
+	father=14751
+	540.1.1={
+		birth="540.1.1"
+	}
+	590.9.5={
+		death="590.9.5"
+	}
+}
+
+14753 = {
+	name="Agoilof"
+	dynasty=1100119
+	religion="arian"
+	culture="lombard"
+	550.1.1={
+		birth="550.1.1"
+	}
+	616.1.1={
+		death="616.1.1"
+	}
+}
+
+14754 = {
+	name="Adaload"
+	dynasty=1100119
+	religion="arian"
+	culture="lombard"
+	father=14753
+	add_trait="lunatic"
+	575.1.1={
+		birth="575.1.1"
+	}
+	626.1.1={
+		death="626.1.1"
+	}
+}
+
+14755 = {
+	name="Arioald"
+	dynasty=1100119
+	religion="arian"
+	culture="lombard"
+	585.1.1={
+		birth="585.1.1"
+	}
+	636.1.1={
+		death="636.1.1"
+	}
+}
+
+14756 = {
+	name="Rotari"
+	dynasty=1100119
+	religion="arian"
+	culture="lombard"
+	592.1.1={
+		birth="592.1.1"
+	}
+	652.1.1={
+		death="652.1.1"
+	}
+}
+
+14757 = {
+	name="Rodoald"
+	dynasty=1100119
+	religion="arian"
+	culture="lombard"
+	father=14756
+	628.1.1={
+		birth="628.1.1"
+	}
+	653.1.1={
+		death="653.1.1"
+	}
+}
+
+14758 = {
+	name="Aripert"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	626.1.1={
+		birth="626.1.1"
+	}
+	661.1.1={
+		death="661.1.1"
+	}
+}
+
+14759 = {
+	name="Godepert"
+	dynasty=1100119
+	religion="arian"
+	culture="lombard"
+	father=14758
+	642.1.1={
+		birth="642.1.1"
+	}
+	662.1.1={
+		death="662.1.1"
+	}
+}
+
+14760 = {
+	name="Grimoald"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	610.1.1={
+		birth="610.1.1"
+	}
+	671.1.1={
+		death="671.1.1"
+	}
+}
+
+14761 = {
+	name="Garibald"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14760
+	635.1.1={
+		birth="635.1.1"
+	}
+	671.1.1={
+		death="671.1.1"
+	}
+}
+
+14762 = {
+	name="Perctarit"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14758
+	644.1.1={
+		birth="644.1.1"
+	}
+	688.1.1={
+		death="688.1.1"
+	}
+}
+
+14763 = {
+	name="Cunincpert"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14762
+	668.1.1={
+		birth="668.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+
+14764 = {
+	name="Alahis"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	652.1.1={
+		birth="652.1.1"
+	}
+	688.1.1={
+		death="688.1.1"
+	}
+}
+
+14765 = {
+	name="Liutpert"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14763
+	686.1.1={
+		birth="686.1.1"
+	}
+	702.1.1={
+		death="702.1.1"
+	}
+}
+
+14766 = {
+	name="Aripert"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14767
+	686.1.1={
+		birth="686.1.1"
+	}
+	712.1.1={
+		death="712.1.1"
+	}
+}
+
+14767 = {
+	name="Raginpert"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14759
+	656.1.1={
+		birth="656.1.1"
+	}
+	701.1.1={
+		death="701.1.1"
+	}
+}
+
+14768 = {
+	name="Ansprand"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	657.1.1={
+		birth="657.1.1"
+	}
+	712.1.1={
+		death="712.1.1"
+	}
+}
+
+14769 = {
+	name="Liutprand"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14768
+	687.1.1={
+		birth="687.1.1"
+	}
+	744.1.1={
+		death="744.1.1"
+	}
+}
+
+14770 = {
+	name="Hildeprand"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	720.1.1={
+		birth="720.1.1"
+	}
+	744.1.1={
+		death="744.1.1"
+	}
+}
+
+14771 = {
+	name="Ratchis"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	703.1.1={
+		birth="703.1.1"
+	}
+	749.1.1={
+		death="749.1.1"
+	}
+}
+
+14772 = {
+	name="Aistulf"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	708.1.1={
+		birth="708.1.1"
+	}
+	756.1.1={
+		death="756.1.1"
+	}
+}
+
+14773 = {
+	name="Desiderius"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	722.1.1={
+		birth="722.1.1"
+	}
+	786.1.1={
+		death="786.1.1"
+	}
+}
+
+14774 = {
+	name="Adelchis"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14773
+	751.1.1={
+		birth="751.1.1"
+	}
+	788.1.1={
+		death="788.1.1"
+	}
+}
+
+14775 = {
+	name="Anselperga"
+	female=yes
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14773
+	747.1.1={
+		birth="747.1.1"
+	}
+	802.1.1={
+		death="802.1.1"
+	}
+}
+
+14776 = {
+	name="Authari"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=11753
+	mother=14775
+	add_trait="bastard"
+	786.1.1={
+		birth="786.1.1"
+	}
+	855.1.1={
+		death="855.1.1"
+	}
+}
+
+14777 = {
+	name="Hucbert"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14776
+	809.1.1={
+		birth="809.1.1"
+	}
+	863.1.1={
+		death="863.1.1"
+	}
+}
+
+14778 = {
+	name="Hucbert"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14777
+	841.1.1={
+		birth="841.1.1"
+	}
+	887.1.1={
+		death="887.1.1"
+	}
+}
+
+14779 = {
+	name="Adhemar"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14778
+	870.1.1={
+		birth="870.1.1"
+	}
+	902.1.1={
+		death="902.1.1"
+	}
+}
+
+14780 = {
+	name="Adaload"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14779
+	895.1.1={
+		birth="895.1.1"
+	}
+	924.1.1={
+		death="924.1.1"
+	}
+}
+
+14781 = {
+	name="Berin"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14780
+	915.1.1={
+		birth="915.1.1"
+	}
+	966.1.1={
+		death="966.1.1"
+	}
+}
+
+14782 = {
+	name="Bernard"
+	dynasty=100322
+	religion="catholic"
+	culture="lombard"
+	father=14780
+	916.1.1={
+		birth="916.1.1"
+	}
+	966.1.1={
+		death="966.1.1"
+	}
+}
+
+14783 = {
+	name="Alboin"
+	dynasty=1100143
+	religion="catholic"
+	culture="lombard"
+	father=14780
+	917.1.1={
+		birth="917.1.1"
+	}
+	966.1.1={
+		death="966.1.1"
+	}
+}
+
+14784 = {
+	name="Adalold"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14781
+	919.1.1={
+		birth="919.1.1"
+	}
+	934.1.1={
+		add_spouse=11800
+	}
+	975.1.1={
+		death="975.1.1"
+	}
+}
+
+14785 = {
+	name="Desiderius"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14781
+	923.1.1={
+		birth="923.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+14786 = {
+	name="Odilo"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14784
+	mother=11800
+	936.1.1={
+		birth="936.1.1"
+	}
+	1024.1.1={
+		death="1024.1.1"
+	}
+}
+
+
+14787 = {
+	name="Gisulf"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14786
+	975.1.1={
+		birth="975.1.1"
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+
+14788 = {
+	name="Rotari"
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14786
+	978.1.1={
+		birth="978.1.1"
+	}
+	1057.1.1={
+		death="1057.1.1"
+	}
+}
+
+14789 = {
+	name="Menia"
+	female=yes
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14786
+	999.1.1={
+		birth="999.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+14790 = {
+	name="Gaitelgrima"
+	female=yes
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14786
+	1003.1.1={
+		birth="1003.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+14791 = {
+	name="Aurona"
+	female=yes
+	dynasty=1100119
+	religion="catholic"
+	culture="lombard"
+	father=14786
+	1007.1.1={
+		birth="1007.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}

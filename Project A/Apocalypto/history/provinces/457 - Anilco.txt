@@ -1,0 +1,15 @@
+# c_anilco
+
+# County Title
+title = c_anilco
+
+# Settlements
+max_settlements = 1
+
+b_anilco = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

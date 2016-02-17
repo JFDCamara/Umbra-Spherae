@@ -1,0 +1,15 @@
+# c_paraiba
+
+# County Title
+title = c_paraiba
+
+# Settlements
+max_settlements = 1
+
+b_paraiba = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

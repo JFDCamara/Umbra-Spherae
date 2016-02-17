@@ -1,0 +1,15 @@
+# c_baniwa
+
+# County Title
+title = c_baniwa
+
+# Settlements
+max_settlements = 1
+
+b_baniwa = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

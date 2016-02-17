@@ -1,0 +1,15 @@
+# c_brokopondo
+
+# County Title
+title = c_brokopondo
+
+# Settlements
+max_settlements = 1
+
+b_brokopondo = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

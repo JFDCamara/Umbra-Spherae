@@ -1,0 +1,15 @@
+# c_aguacane
+
+# County Title
+title = c_aguacane
+
+# Settlements
+max_settlements = 1
+
+b_aguacane = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

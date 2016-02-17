@@ -1,0 +1,15 @@
+# c_pariaguan
+
+# County Title
+title = c_pariaguan
+
+# Settlements
+max_settlements = 1
+
+b_pariaguan = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

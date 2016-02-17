@@ -1,0 +1,16 @@
+# c_mingo
+
+# County Title
+title = c_mingo
+
+# Settlements
+max_settlements = 2
+
+b_mingo = castle
+#b_joara = city
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

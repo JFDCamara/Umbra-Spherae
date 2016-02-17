@@ -1,0 +1,15 @@
+# c_meelpeag
+
+# County Title
+title = c_meelpeag
+
+# Settlements
+max_settlements = 1
+
+b_meelpeag = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

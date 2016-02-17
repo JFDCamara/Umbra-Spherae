@@ -1,0 +1,15 @@
+# c_camagueey
+
+# County Title
+title = c_camagueey
+
+# Settlements
+max_settlements = 1
+
+b_camagueey = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

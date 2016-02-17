@@ -1,0 +1,15 @@
+# c_para
+
+# County Title
+title = c_para
+
+# Settlements
+max_settlements = 1
+
+b_para = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

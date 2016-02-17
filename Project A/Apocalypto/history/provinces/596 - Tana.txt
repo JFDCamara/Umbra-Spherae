@@ -1,0 +1,15 @@
+# c_tana
+
+# County Title
+title = c_tana
+
+# Settlements
+max_settlements = 1
+
+b_tana = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

@@ -1,0 +1,15 @@
+# c_acolhuacan
+
+# County Title
+title = c_acolhuacan
+
+# Settlements
+max_settlements = 1
+
+b_acolhuacan = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

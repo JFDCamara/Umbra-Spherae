@@ -1,0 +1,15 @@
+# c_mayeye
+
+# County Title
+title = c_mayeye
+
+# Settlements
+max_settlements = 1
+
+b_mayeye = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

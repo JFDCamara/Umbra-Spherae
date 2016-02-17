@@ -1,0 +1,15 @@
+# c_yurubi
+
+# County Title
+title = c_yurubi
+
+# Settlements
+max_settlements = 1
+
+b_yurubi = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

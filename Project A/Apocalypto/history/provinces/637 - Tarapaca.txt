@@ -1,0 +1,15 @@
+# c_tarapaca
+
+# County Title
+title = c_tarapaca
+
+# Settlements
+max_settlements = 1
+
+b_tarapaca = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

@@ -1,0 +1,17 @@
+# c_catawba
+
+# County Title
+title = c_catawba
+
+# Settlements
+max_settlements = 3
+
+b_catawba = castle
+#b_nauvasa = city
+#b_usherys = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

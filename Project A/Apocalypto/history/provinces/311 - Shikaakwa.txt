@@ -1,0 +1,16 @@
+# c_shikaakwa
+
+# County Title
+title = c_shikaakwa
+
+# Settlements
+max_settlements = 2
+
+b_shikaakwa = castle
+#b_kilatika = city
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

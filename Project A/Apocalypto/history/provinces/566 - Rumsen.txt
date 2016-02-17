@@ -1,0 +1,15 @@
+# c_rumsen
+
+# County Title
+title = c_rumsen
+
+# Settlements
+max_settlements = 1
+
+b_rumsen = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

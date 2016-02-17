@@ -1,0 +1,15 @@
+# c_nokomis
+
+# County Title
+title = c_nokomis
+
+# Settlements
+max_settlements = 1
+
+b_nokomis = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

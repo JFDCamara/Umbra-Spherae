@@ -1,0 +1,15 @@
+# c_grigra
+
+# County Title
+title = c_grigra
+
+# Settlements
+max_settlements = 1
+
+b_grigra = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

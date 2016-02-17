@@ -1,0 +1,15 @@
+# c_temagami
+
+# County Title
+title = c_temagami
+
+# Settlements
+max_settlements = 1
+
+b_temagami = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

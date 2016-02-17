@@ -1,0 +1,15 @@
+# c_bannock
+
+# County Title
+title = c_bannock
+
+# Settlements
+max_settlements = 1
+
+b_bannock = castle
+
+# Misc
+culture = shoshone
+religion = numa
+
+#History

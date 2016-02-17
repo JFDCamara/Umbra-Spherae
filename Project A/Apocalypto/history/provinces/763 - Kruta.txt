@@ -1,0 +1,15 @@
+# c_kruta
+
+# County Title
+title = c_kruta
+
+# Settlements
+max_settlements = 1
+
+b_kruta = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

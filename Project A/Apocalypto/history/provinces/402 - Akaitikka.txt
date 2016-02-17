@@ -1,0 +1,15 @@
+# c_akaitikka
+
+# County Title
+title = c_akaitikka
+
+# Settlements
+max_settlements = 1
+
+b_akaitikka = castle
+
+# Misc
+culture = salish
+religion = numa
+
+#History

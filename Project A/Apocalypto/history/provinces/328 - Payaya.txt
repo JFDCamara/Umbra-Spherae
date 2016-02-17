@@ -1,0 +1,15 @@
+# c_payaya
+
+# County Title
+title = c_payaya
+
+# Settlements
+max_settlements = 1
+
+b_payaya = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

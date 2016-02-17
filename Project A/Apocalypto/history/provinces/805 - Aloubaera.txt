@@ -1,0 +1,15 @@
+# c_aloubaera
+
+# County Title
+title = c_aloubaera
+
+# Settlements
+max_settlements = 1
+
+b_aloubaera = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

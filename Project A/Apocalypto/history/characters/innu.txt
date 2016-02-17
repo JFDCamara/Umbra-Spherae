@@ -1,0 +1,505 @@
+640000 = {
+	name="Atika"
+	dynasty=1043005
+	religion="midewiwin"
+	culture="innu"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+640001 = {
+	name="Etutikueu"
+	dynasty=1043006
+	religion="midewiwin"
+	culture="innu"
+	father=640022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+640002 = {
+	name="Kanikuen"
+	dynasty=1043007 
+	religion="midewiwin"
+	culture="innu"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+640003 = {
+	name="Kaniuekutat"
+	dynasty=1043007
+	religion="midewiwin"
+	culture="innu"
+	father=640002 #Kanikuen
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+640004 = {
+	name="Katshituask"
+	dynasty=1043009
+	religion="midewiwin"
+	culture="innu"
+	father=640005 #Kenussemu
+	mother=640029 #Sharika
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+640005 = {
+	name="Kenussemu"
+	dynasty=1043009
+	religion="midewiwin"
+	culture="innu"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=640029 #Sharika
+    }
+
+}
+
+640006 = {
+	name="Kueskapeu"
+	dynasty=1043011
+	religion="midewiwin"
+	culture="innu"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=640030 #Uapukun
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+640007 = {
+	name="Manish"
+	dynasty=1043011
+	religion="midewiwin"
+	culture="innu"
+	father=640006 #Kueskapeu
+	mother=640030 #Uapukun
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+640008 = {
+	name="Manteskueu"
+	dynasty=1043012
+	religion="midewiwin"
+	culture="innu"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+640009 = {
+	name="Mistipinip"
+	dynasty=1043002
+	religion="midewiwin"
+	culture="innu"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+640010 = {
+	name="Muskushish"
+	dynasty=1043013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="midewiwin"
+	culture="innu"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+640011 = {
+	name="Nashitt"
+	dynasty=1043014
+	religion="midewiwin"
+	culture="innu"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+640012 = {
+	name="Ninitshitau"
+	dynasty=1043005
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="midewiwin"
+	culture="innu"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+640013 = {
+	name="Petapanu"
+	dynasty=1043001
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="midewiwin"
+	culture="innu"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+640014 = {
+	name="Pineshikan"
+	dynasty=1043003
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="midewiwin"
+	culture="innu"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+640015 = {
+	name="Ponas"
+	dynasty=1043006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="midewiwin"
+	culture="innu"
+	father=640022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+640016 = {
+	name="Shenakuteu"
+	dynasty=1043011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="midewiwin"
+	culture="innu"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+640017 = {
+	name="Shimish"
+	dynasty=1043004
+	religion="midewiwin"
+	culture="innu"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+640018 = {
+	name="Shinapiu"
+	dynasty=1043004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="midewiwin"
+	culture="innu"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+640019 = {
+	name="Shushepis"
+	dynasty=1043008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="midewiwin"
+	culture="innu"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+640020 = {
+	name="Tshenish"
+	dynasty=1043003
+	religion="midewiwin"
+	culture="innu"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+640021 = {
+	name="Tshetshepateu"
+	dynasty=1043002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="midewiwin"
+	culture="innu"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+640022 = {
+	name="Tshishennish"
+	dynasty=1043006
+	religion="midewiwin"
+	culture="innu"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+640023 = {
+	name="Ahapiskueu"
+	female=yes
+	dynasty=1043007	
+	religion="midewiwin"
+	culture="innu"
+	father=640002 #Kanikuen
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+640024 = {
+	name="Âpikusîs"
+	female=yes
+	dynasty=1043011
+	religion="midewiwin"
+	culture="innu"
+	father=640006 #Kueskapeu
+	mother=640030 #Uapukun
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+640025 = {
+	name="Ustinitshu"
+	dynasty=1043010
+	religion="midewiwin"
+	culture="innu"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+640026 = {
+	name="Kutshake"
+	female=yes
+	dynasty=1043010
+	religion="midewiwin"
+	culture="innu"
+	father=640025 #Ustinitshu
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+640027 = {
+	name="Neskueu"
+	female=yes
+	dynasty=1043001	
+	religion="midewiwin"
+	culture="innu"
+	father=640013 #Petapanu
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+640028 = {
+	name="Pishum"
+	female=yes
+	dynasty=1043008	
+	religion="midewiwin"
+	culture="innu"
+	father=640019 #Shushepis
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+640029 = {
+	name="Sharika"
+	female=yes
+	dynasty=1043001	
+	religion="midewiwin"
+	culture="innu"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=640005 #Kenussemu
+    	}
+}
+
+640030 = {
+	name="Uapukun"
+	female=yes
+	dynasty=1043014
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="midewiwin"
+	culture="innu"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=640006 #Kueskapeu
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

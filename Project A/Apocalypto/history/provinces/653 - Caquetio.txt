@@ -1,0 +1,15 @@
+# c_caquetio
+
+# County Title
+title = c_caquetio
+
+# Settlements
+max_settlements = 1
+
+b_caquetio = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

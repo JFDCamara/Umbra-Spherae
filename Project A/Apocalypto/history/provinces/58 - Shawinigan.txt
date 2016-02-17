@@ -1,0 +1,15 @@
+# c_shawinigan
+
+# County Title
+title = c_shawinigan
+
+# Settlements
+max_settlements = 1
+
+b_shawinigan = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

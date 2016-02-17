@@ -1,0 +1,15 @@
+# c_neosho
+
+# County Title
+title = c_neosho
+
+# Settlements
+max_settlements = 1
+
+b_neosho = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

@@ -1,0 +1,15 @@
+# c_yekuana
+
+# County Title
+title = c_yekuana
+
+# Settlements
+max_settlements = 1
+
+b_yekuana = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

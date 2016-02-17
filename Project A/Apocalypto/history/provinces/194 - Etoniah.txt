@@ -1,0 +1,15 @@
+# c_etoniah
+
+# County Title
+title = c_etoniah
+
+# Settlements
+max_settlements = 1
+
+b_etoniah = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

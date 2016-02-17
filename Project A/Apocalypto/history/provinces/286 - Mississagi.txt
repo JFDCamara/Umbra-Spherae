@@ -1,0 +1,15 @@
+# c_mississagi
+
+# County Title
+title = c_mississagi
+
+# Settlements
+max_settlements = 1
+
+b_mississagi = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

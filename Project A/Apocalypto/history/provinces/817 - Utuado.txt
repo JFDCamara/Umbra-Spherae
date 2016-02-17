@@ -1,0 +1,15 @@
+# c_utuado
+
+# County Title
+title = c_utuado
+
+# Settlements
+max_settlements = 1
+
+b_utuado = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

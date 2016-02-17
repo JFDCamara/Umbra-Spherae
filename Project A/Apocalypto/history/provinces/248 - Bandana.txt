@@ -1,0 +1,15 @@
+# c_bandana
+
+# County Title
+title = c_bandana
+
+# Settlements
+max_settlements = 1
+
+b_bandana = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

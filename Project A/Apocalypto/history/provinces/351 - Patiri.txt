@@ -1,0 +1,15 @@
+# c_patiri
+
+# County Title
+title = c_patiri
+
+# Settlements
+max_settlements = 1
+
+b_patiri = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

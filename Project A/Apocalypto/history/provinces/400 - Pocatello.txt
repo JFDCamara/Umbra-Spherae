@@ -1,0 +1,15 @@
+# c_pocatello
+
+# County Title
+title = c_pocatello
+
+# Settlements
+max_settlements = 1
+
+b_pocatello = castle
+
+# Misc
+culture = shoshone
+religion = numa
+
+#History

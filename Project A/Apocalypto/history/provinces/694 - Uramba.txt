@@ -1,0 +1,15 @@
+# c_uramba
+
+# County Title
+title = c_uramba
+
+# Settlements
+max_settlements = 1
+
+b_uramba = castle
+
+# Misc
+culture = carib
+religion = inca
+
+#History

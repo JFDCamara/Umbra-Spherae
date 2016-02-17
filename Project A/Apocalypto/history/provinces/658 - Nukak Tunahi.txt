@@ -1,0 +1,15 @@
+# c_nukak_tunahi
+
+# County Title
+title = c_nukak_tunahi
+
+# Settlements
+max_settlements = 1
+
+b_nukak_tunahi = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

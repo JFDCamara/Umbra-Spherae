@@ -1,0 +1,15 @@
+# c_yaguana
+
+# County Title
+title = c_yaguana
+
+# Settlements
+max_settlements = 1
+
+b_yaguana = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

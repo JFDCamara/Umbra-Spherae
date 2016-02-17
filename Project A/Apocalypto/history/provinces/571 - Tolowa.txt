@@ -1,0 +1,15 @@
+# c_tolowa
+
+# County Title
+title = c_tolowa
+
+# Settlements
+max_settlements = 1
+
+b_tolowa = castle
+
+# Misc
+culture = salish
+religion = shikla
+
+#History

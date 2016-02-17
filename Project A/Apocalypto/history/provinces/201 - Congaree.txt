@@ -1,0 +1,16 @@
+# c_congaree
+
+# County Title
+title = c_congaree
+
+# Settlements
+max_settlements = 2
+
+b_congaree = castle
+#b_tadirighrones = city
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

@@ -1,0 +1,15 @@
+# c_pachaconas
+
+# County Title
+title = c_pachaconas
+
+# Settlements
+max_settlements = 1
+
+b_pachaconas = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

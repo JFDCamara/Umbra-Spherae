@@ -1,0 +1,505 @@
+320000 = {
+	name="Ahmok"
+	dynasty=1038005
+	religion="itzamna"
+	culture="maya"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+320001 = {
+	name="Ahpop-Achi"
+	dynasty=1038006
+	religion="itzamna"
+	culture="maya"
+	father=320022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+320002 = {
+	name="Akhal"
+	dynasty=1038007 
+	religion="itzamna"
+	culture="maya"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+320003 = {
+	name="Aphu"
+	dynasty=1038007u
+	religion="itzamna"
+	culture="maya"
+	father=320002 #Akhal
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+320004 = {
+	name="Ayiin"
+	dynasty=1038009
+	religion="itzamna"
+	culture="maya"
+	father=320005 #Balanque
+	mother=320029 #Yaxchel
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+320005 = {
+	name="Balanque"
+	dynasty=1038009
+	religion="itzamna"
+	culture="maya"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=320029 #Yaxchel
+    }
+
+}
+
+320006 = {
+	name="Boxkan"
+	dynasty=1038011
+	religion="itzamna"
+	culture="maya"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=320030 #Zac-Kuk
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+320007 = {
+	name="Boxne"
+	dynasty=1038011
+	religion="itzamna"
+	culture="maya"
+	father=320006 #Boxkan
+	mother=320030 #Zac-Kuk
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+320008 = {
+	name="Butz"
+	dynasty=1038012
+	religion="itzamna"
+	culture="maya"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+320009 = {
+	name="Chantan"
+	dynasty=1038002
+	religion="itzamna"
+	culture="maya"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+320010 = {
+	name="Chok"
+	dynasty=1038013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="itzamna"
+	culture="maya"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+320011 = {
+	name="Cu"
+	dynasty=1038014
+	religion="itzamna"
+	culture="maya"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+320012 = {
+	name="Eeb"
+	dynasty=1038015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="itzamna"
+	culture="maya"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+320013 = {
+	name="Ek"
+	dynasty=1038016
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="itzamna"
+	culture="maya"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+320014 = {
+	name="Hau"
+	dynasty=1038017
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="itzamna"
+	culture="maya"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+320015 = {
+	name="Itzamnaaj"
+	dynasty=1038006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="itzamna"
+	culture="maya"
+	father=320022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+320016 = {
+	name="Ixchel"
+	dynasty=1038011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="itzamna"
+	culture="maya"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+320017 = {
+	name="Janaab"
+	dynasty=1038004
+	religion="itzamna"
+	culture="maya"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+320018 = {
+	name="Kabah"
+	dynasty=1038004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="itzamna"
+	culture="maya"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+320019 = {
+	name="Kan-Tuun"
+	dynasty=1038008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="itzamna"
+	culture="maya"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+320020 = {
+	name="Kawil"
+	dynasty=1038003
+	religion="itzamna"
+	culture="maya"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+320021 = {
+	name="Nicte-Ha"
+	dynasty=1038002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="itzamna"
+	culture="maya"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+320022 = {
+	name="Xib-Chaac"
+	dynasty=1038006
+	religion="itzamna"
+	culture="maya"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+320023 = {
+	name="Muwaan"
+	female=yes
+	dynasty=1038007	
+	religion="itzamna"
+	culture="maya"
+	father=320002 #Akhal
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+320024 = {
+	name="Itzel"
+	female=yes
+	dynasty=1038011
+	religion="itzamna"
+	culture="maya"
+	father=320006 #Boxkan
+	mother=320030 #Zac-Kuk
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+320025 = {
+	name="Yuknoom"
+	dynasty=1038010
+	religion="itzamna"
+	culture="maya"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+320026 = {
+	name="Shana'Kin"
+	female=yes
+	dynasty=1038010
+	religion="itzamna"
+	culture="maya"
+	father=320025 #Yuknoom
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+320027 = {
+	name="Wak-Chanil"
+	female=yes
+	dynasty=1038016	
+	religion="itzamna"
+	culture="maya"
+	father=320013 #Ek
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+320028 = {
+	name="Xibalba"
+	female=yes
+	dynasty=1038008	
+	religion="itzamna"
+	culture="maya"
+	father=320019 #Kan-Tuun
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+320029 = {
+	name="Yaxchel"
+	female=yes
+	dynasty=1038001	
+	religion="itzamna"
+	culture="maya"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=320005 #Balanque
+    	}
+}
+
+320030 = {
+	name="Zac-Kuk"
+	female=yes
+	dynasty=1038017
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="itzamna"
+	culture="maya"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=320006 #Boxkan
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

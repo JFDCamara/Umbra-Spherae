@@ -1,0 +1,15 @@
+# c_guanacaste
+
+# County Title
+title = c_guanacaste
+
+# Settlements
+max_settlements = 1
+
+b_guanacaste = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

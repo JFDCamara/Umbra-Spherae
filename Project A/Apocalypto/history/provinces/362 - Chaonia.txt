@@ -1,0 +1,15 @@
+# c_chaonia
+
+# County Title
+title = c_chaonia
+
+# Settlements
+max_settlements = 1
+
+b_chaonia = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

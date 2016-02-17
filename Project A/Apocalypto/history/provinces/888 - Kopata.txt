@@ -1,0 +1,15 @@
+# c_kopata
+
+# County Title
+title = c_kopata
+
+# Settlements
+max_settlements = 1
+
+b_kopata = castle
+
+# Misc
+culture = shoshone
+religion = numa
+
+#History

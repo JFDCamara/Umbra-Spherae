@@ -1,0 +1,15 @@
+# c_cundinamarca
+
+# County Title
+title = c_cundinamarca
+
+# Settlements
+max_settlements = 1
+
+b_cundinamarca = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

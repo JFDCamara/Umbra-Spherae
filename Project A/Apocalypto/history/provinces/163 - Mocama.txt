@@ -1,0 +1,15 @@
+# c_mocama
+
+# County Title
+title = c_mocama
+
+# Settlements
+max_settlements = 1
+
+b_mocama = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

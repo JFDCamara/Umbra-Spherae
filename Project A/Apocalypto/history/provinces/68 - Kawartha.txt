@@ -1,0 +1,15 @@
+# c_kawartha
+
+# County Title
+title = c_kawartha
+
+# Settlements
+max_settlements = 1
+
+b_kawartha = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

@@ -1,0 +1,16 @@
+# c_shiawassee
+
+# County Title
+title = c_shiawassee
+
+# Settlements
+max_settlements = 2
+
+b_shiawassee = castle
+#b_wacousta = city
+
+# Misc
+culture = illinois
+religion = gagohsa
+
+#History

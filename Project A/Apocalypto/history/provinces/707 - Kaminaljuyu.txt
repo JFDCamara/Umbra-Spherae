@@ -1,0 +1,17 @@
+# c_kaminaljuyu
+
+# County Title
+title = c_kaminaljuyu
+
+# Settlements
+max_settlements = 3
+
+b_kaminaljuyu = castle
+b_quetzal = temple
+#b_escuintla = temple
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

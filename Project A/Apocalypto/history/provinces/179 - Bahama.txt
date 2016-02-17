@@ -1,0 +1,15 @@
+# c_bahama
+
+# County Title
+title = c_bahama
+
+# Settlements
+max_settlements = 1
+
+b_bahama = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

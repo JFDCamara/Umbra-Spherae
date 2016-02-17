@@ -1,0 +1,505 @@
+520000 = {
+	name="Washakie"
+	dynasty=1050005
+	religion="numa"
+	culture="shoshone"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+520001 = {
+	name="Pocatello"
+	dynasty=1050006
+	religion="numa"
+	culture="shoshone"
+	father=520022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+520002 = {
+	name="Sagwitch"
+	dynasty=1050007 
+	religion="numa"
+	culture="shoshone"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+520003 = {
+	name="Timbimboo"
+	dynasty=1050007
+	religion="numa"
+	culture="shoshone"
+	father=520002 #Sagwitch
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+520004 = {
+	name="Sanpitch"
+	dynasty=1050009
+	religion="numa"
+	culture="shoshone"
+	father=520005 #Lehi
+	mother=520029 #Mojoguitch
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+520005 = {
+	name="Lehi"
+	dynasty=1050009
+	religion="numa"
+	culture="shoshone"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=520029 #Mojoguitch
+    }
+
+}
+
+520006 = {
+	name="Warareeka"
+	dynasty=1050011
+	religion="numa"
+	culture="shoshone"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=520030 #Sacagawea
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+520007 = {
+	name="Shirrydika"
+	dynasty=1050011
+	religion="numa"
+	culture="shoshone"
+	father=520006 #Warareeka
+	mother=520030 #Sacagawea
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+520008 = {
+	name="Banattee"
+	dynasty=1050012
+	religion="numa"
+	culture="shoshone"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+520009 = {
+	name="Tukaduka"
+	dynasty=1050002
+	religion="numa"
+	culture="shoshone"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+520010 = {
+	name="Tagi"
+	dynasty=1050013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="numa"
+	culture="shoshone"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+520011 = {
+	name="Cameahwait"
+	dynasty=1050014
+	religion="numa"
+	culture="shoshone"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+520012 = {
+	name="Banattee"
+	dynasty=1050015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="numa"
+	culture="shoshone"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+520013 = {
+	name="Zeecoo-Chee"
+	dynasty=1050001
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="numa"
+	culture="shoshone"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+520014 = {
+	name="Quahadadocoowat"
+	dynasty=1050003
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="numa"
+	culture="shoshone"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+520015 = {
+	name="Tindup"
+	dynasty=1050006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="numa"
+	culture="shoshone"
+	father=520022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+520016 = {
+	name="Tindup"
+	dynasty=1050011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="numa"
+	culture="shoshone"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+520017 = {
+	name="Daboozee"
+	dynasty=1050004
+	religion="numa"
+	culture="shoshone"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+520018 = {
+	name="Soquitch"
+	dynasty=1050004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="numa"
+	culture="shoshone"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+520019 = {
+	name="Wirasuap"
+	dynasty=1050008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="numa"
+	culture="shoshone"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+520020 = {
+	name="Tonaioza"
+	dynasty=1050003
+	religion="numa"
+	culture="shoshone"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+520021 = {
+	name="Dakayivani"
+	dynasty=1050002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="numa"
+	culture="shoshone"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+520022 = {
+	name="Tukaduka"
+	dynasty=1050006
+	religion="numa"
+	culture="shoshone"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+520023 = {
+	name="Anzeechee"
+	female=yes
+	dynasty=1050007	
+	religion="numa"
+	culture="shoshone"
+	father=520002 #Sagwitch
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+520024 = {
+	name="Quehegup"
+	female=yes
+	dynasty=1050011
+	religion="numa"
+	culture="shoshone"
+	father=520006 #Warareeka
+	mother=520030 #Sacagawea
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+520025 = {
+	name="Snagg"
+	dynasty=1050010
+	religion="numa"
+	culture="shoshone"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+520026 = {
+	name="Bia-Wuutsee"
+	female=yes
+	dynasty=1050010
+	religion="numa"
+	culture="shoshone"
+	father=520025 #Snagg
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+520027 = {
+	name="Towenge"
+	female=yes
+	dynasty=1050001	
+	religion="numa"
+	culture="shoshone"
+	father=520013 #Zeecoo-Chee
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+520028 = {
+	name="Poebehup"
+	female=yes
+	dynasty=1050008	
+	religion="numa"
+	culture="shoshone"
+	father=520019 #Wirasuap
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+520029 = {
+	name="Mojoguitch"
+	female=yes
+	dynasty=1050001	
+	religion="numa"
+	culture="shoshone"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=520005 #Lehi
+    	}
+}
+
+520030 = {
+	name="Sacagawea"
+	female=yes
+	dynasty=1050014
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="numa"
+	culture="shoshone"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=520006 #Warareeka
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

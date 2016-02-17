@@ -1,0 +1,17 @@
+# c_choppatee
+
+# County Title
+title = c_choppatee
+
+# Settlements
+max_settlements = 3
+
+b_choppatee = castle
+#b_mingo = city
+#b_mekoche = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

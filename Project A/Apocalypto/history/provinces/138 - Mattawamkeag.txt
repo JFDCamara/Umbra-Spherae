@@ -1,0 +1,15 @@
+# c_mattawamkeag
+
+# County Title
+title = c_mattawamkeag
+
+# Settlements
+max_settlements = 1
+
+b_mattawamkeag = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

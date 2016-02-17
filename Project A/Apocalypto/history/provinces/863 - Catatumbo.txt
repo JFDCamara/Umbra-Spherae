@@ -1,0 +1,15 @@
+# c_catatumbo
+
+# County Title
+title = c_catatumbo
+
+# Settlements
+max_settlements = 1
+
+b_catatumbo = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

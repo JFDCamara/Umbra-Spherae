@@ -1,0 +1,15 @@
+# c_metabetchouan
+
+# County Title
+title = c_metabetchouan
+
+# Settlements
+max_settlements = 1
+
+b_metabetchouan = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

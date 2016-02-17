@@ -1,0 +1,15 @@
+# c_jobabo
+
+# County Title
+title = c_jobabo
+
+# Settlements
+max_settlements = 1
+
+b_jobabo = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

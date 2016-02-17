@@ -1,0 +1,17 @@
+# c_opalaca
+
+# County Title
+title = c_opalaca
+
+# Settlements
+max_settlements = 3
+
+b_opalaca = castle
+#b_metapan = city
+#b_cihuatan = temple
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

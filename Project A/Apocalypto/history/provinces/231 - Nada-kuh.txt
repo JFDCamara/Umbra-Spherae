@@ -1,0 +1,15 @@
+# c_nada-kuh
+
+# County Title
+title = c_nada-kuh
+
+# Settlements
+max_settlements = 1
+
+b_nada-kuh = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

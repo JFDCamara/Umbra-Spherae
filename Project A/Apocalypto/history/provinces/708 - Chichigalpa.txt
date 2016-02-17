@@ -1,0 +1,17 @@
+# c_chichigalpa
+
+# County Title
+title = c_chichigalpa
+
+# Settlements
+max_settlements = 3
+
+b_chichigalpa = castle
+b_chinandega = city
+#b_posoltega = temple
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

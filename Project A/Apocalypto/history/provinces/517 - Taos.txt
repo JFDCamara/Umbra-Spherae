@@ -1,0 +1,15 @@
+# c_taos
+
+# County Title
+title = c_taos
+
+# Settlements
+max_settlements = 1
+
+b_taos = castle
+
+# Misc
+culture = navajo
+religion = kachina
+
+#History

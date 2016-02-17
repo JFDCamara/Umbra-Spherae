@@ -1,0 +1,15 @@
+# c_oskanondonha
+
+# County Title
+title = c_oskanondonha
+
+# Settlements
+max_settlements = 1
+
+b_oskanondonha = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

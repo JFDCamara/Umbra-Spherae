@@ -1,0 +1,15 @@
+# c_akukameskesich
+
+# County Title
+title = c_akukameskesich
+
+# Settlements
+max_settlements = 1
+
+b_akukameskesich = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

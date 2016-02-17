@@ -1,0 +1,15 @@
+# c_kourou
+
+# County Title
+title = c_kourou
+
+# Settlements
+max_settlements = 1
+
+b_kourou = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

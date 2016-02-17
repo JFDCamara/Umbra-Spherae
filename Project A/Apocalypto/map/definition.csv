@@ -1,0 +1,1073 @@
+province;red;green;blue;x;x
+1;42;3;128;Wawiyusis;x
+2;84;6;1;Shibogama;x
+3;126;9;129;Wabana;x
+4;168;12;2;Toulinquet;x
+5;0;15;130;Demas;x
+6;168;45;177;Manitowoc;x
+7;84;21;131;Shanaw;x
+8;126;24;4;Nonos;x
+9;168;27;132;Freydis;x
+10;0;30;5;Moomesh;x
+11;42;33;133;Doodebew;x
+12;84;36;6;Leifsbúðir;x
+13;126;39;134;Thorvald;x
+14;168;42;7;Meelpeag;x
+15;0;45;135;Thorstein;x
+16;42;48;8;Aguathuna;x
+17;84;51;136;Mattawa;x
+18;126;54;9;Makada;x
+19;168;57;137;Wikwemikong;x
+20;0;60;10;Penetanguishene;x
+21;42;63;138;Algonac;x
+22;84;66;11;Mississauga;x
+23;126;69;139;Ohsweken;x
+24;168;72;12;Scugog;x
+25;0;75;140;Tyendinaga;x
+26;42;78;13;Toronto;x
+27;126;84;14;Komoka;x
+28;84;81;141;Bkejwanong;x
+29;168;87;142;Oshawa;x
+30;0;90;15;Nipissing;x
+31;42;93;143;Saugeen;x
+32;84;96;16;Petawawa;x
+33;126;99;144;Thorfinn;x
+34;168;102;17;Straumfjord;x
+35;0;105;145;Sheshatshiu;x
+36;42;108;18;Straumsöy;x
+37;84;111;146;Karlsefni;x
+38;126;114;19;Manicouagan;x
+39;168;117;147;Joswi;x
+40;0;120;20;Kakatshihip;x
+41;42;123;148;Anticosti;x
+42;84;126;21;Chicoutimi;x
+43;126;129;149;Cacaoni;x
+44;168;132;22;Brule;x
+45;0;135;150;Wabush;x
+46;42;138;23;Manitowik;x
+47;84;141;151;Manouane;x
+48;126;144;24;Pipmuacan;x
+49;168;147;152;Manicouagan;x
+50;0;150;25;Chicomo;x
+51;42;153;153;Metabetchouan;x
+52;84;156;26;Kenogami;x
+53;126;159;154;Saguenay;x
+54;168;162;27;Aguanish;x
+55;0;165;155;Yamachiche;x
+56;42;168;28;Donnacona;x
+57;84;171;156;Stadacona;x
+58;126;174;29;Shawinigan;x
+59;168;177;157;Sayabec;x
+60;0;180;30;Wahnapitae;x
+61;42;183;158;Kahnawake;x
+62;84;186;31;Squatec;x
+63;126;189;159;Akukameskesich;x
+64;168;192;32;Manitoulin;x
+65;0;195;160;Wanapitei;x
+66;42;198;33;Témiscamingue;x
+67;84;201;161;Missisquoi;x
+68;126;204;34;Kawartha;x
+69;168;207;162;Ottawa;x
+70;0;210;35;Maskinongé;x
+71;42;0;163;Etobicoke;x
+72;84;3;36;Oka;x
+73;126;6;164;Gananoque;x
+74;168;9;37;Conshohocken;x
+75;0;12;165;Munsi;x
+76;42;15;38;Lycomink;x
+77;84;18;166;Pepacton;x
+78;126;21;39;Taughannock;x
+79;168;24;167;Oswego;x
+80;0;27;40;Cheektowaga;x
+81;42;30;168;Canandaigua;x
+82;84;33;41;Conesus;x
+83;126;36;169;Chautauqua;x
+84;168;39;42;Kithanink;x
+85;0;42;170;Pymatuning;x
+86;42;45;43;Tonguish;x
+87;84;48;171;Piqua;x
+88;126;51;44;Ashtabula;x
+89;168;54;172;Aliquippa;x
+90;0;57;45;Sandusky;x
+91;42;60;173;Coshocton;x
+92;84;63;46;Punxsutawney;x
+93;126;66;174;Otisco;x
+94;168;69;47;Sinnemahoning;x
+95;0;72;175;Penobscot;x
+96;42;75;48;Ascutney;x
+97;84;78;176;Saranac;x
+98;126;81;49;Niskayuna;x
+99;168;84;177;Haderonda;x
+100;0;87;50;Adirondack;x
+101;42;90;178;Kwesomalegek;x
+102;84;93;51;Jipugtug;x
+103;126;96;179;Wagobagitik;x
+104;168;99;52;Keespongwitk;x
+105;0;102;180;Epekwitk;x
+106;42;105;53;Únamakika;x
+107;84;108;181;Umbagog;x
+108;126;111;54;Nipmuk;x
+109;168;114;182;Orono;x
+110;0;117;55;Aroostook;x
+111;42;120;183;Millinocket;x
+112;84;123;56;Damariscotta;x
+113;126;126;184;Pennacook;x
+114;168;129;57;Pohénégamook;x
+115;0;132;185;Quittapahilla;x
+116;42;135;58;Conemaugh;x
+117;84;138;186;Allegany;x
+118;126;141;59;Shahan;x
+119;168;144;187;Tuscarawas;x
+120;0;147;60;Kekiongo;x
+121;42;150;188;Choppatee;x
+122;84;153;61;Chipuaw;x
+123;126;156;189;Kankakee;x
+124;168;159;62;Monogahela;x
+125;0;162;190;Olentangy;x
+126;42;165;63;Arminta;x
+127;84;168;191;Scioto;x
+128;126;171;64;Oskanondonha;x
+129;168;174;192;Muskingum;x
+130;0;177;65;Coös;x
+131;42;180;193;Etchemin;x
+132;84;183;66;Madawaska;x
+133;126;186;194;Fonzo;x
+134;168;189;67;Thegnehoaca ;x
+135;0;192;195;Bybee;x
+136;42;195;68;Miramichi;x
+137;84;198;196;Gaspé;x
+138;126;201;69;Mattawamkeag;x
+139;168;204;197;Chiputneticook;x
+140;0;207;70;Kouchibouguac;x
+141;42;210;198;Pedee;x
+142;84;0;71;Sewee;x
+143;126;3;199;Coree;x
+144;168;6;72;Saponi;x
+145;0;9;200;Tutelo;x
+146;42;12;73;Manahoac;x
+147;84;15;201;Monacan;x
+148;126;18;74;Quinnipiac;x
+149;168;21;202;Montauk;x
+150;0;24;75;Appomattox;x
+151;42;27;203;Weabemeoc;x
+152;84;30;76;Santee;x
+153;126;33;204;Catawba;x
+154;168;36;77;Hohliwahali;x
+155;0;39;205;Kealedji;x
+156;42;42;78;Edisto;x
+157;84;45;206;Stono;x
+158;126;48;79;Cusabo;x
+159;168;51;207;Chiaba;x
+160;0;54;80;Yamasee;x
+161;42;57;208;Guale;x
+162;84;60;81;Capachequi;x
+163;126;63;209;Mocama;x
+164;168;66;82;Tamiami;x
+165;0;69;210;Tequesta;x
+166;42;72;83;Matecumbes;x
+167;84;75;211;Guacara;x
+168;126;78;84;Jaega;x
+169;168;81;212;Lucayas;x
+170;0;84;85;Hitchiti;x
+171;42;87;213;Apola;x
+172;84;90;86;Sawokli;x
+173;126;93;214;Pensacola;x
+174;168;96;87;Apalachicoli;x
+175;0;99;215;Chatot;x
+176;42;102;88;Uzachile;x
+177;84;105;216;Napituca;x
+178;126;108;89;Tocaste;x
+179;168;111;217;Bahamá;x
+180;0;114;90;Ais;x
+181;42;117;218;Ozita;x
+182;84;120;91;Calusa;x
+183;126;123;219;Muspa;x
+184;168;126;92;Palatka;x
+185;0;129;220;Tacatacuru;x
+186;42;132;93;Tamahli;x
+187;84;135;221;Hilibi;x
+188;126;138;94;Kasihta;x
+189;168;141;222;Oconee;x
+190;0;144;95;Coweta;x
+191;42;147;223;Talulla;x
+192;84;150;96;Etowah;x
+193;126;153;224;Utina;x
+194;168;156;97;Etoniah;x
+195;0;159;225;Mayaca;x
+196;42;162;98;Mocozo;x
+197;84;165;226;Potano;x
+198;126;168;99;Okfuskee;x
+199;168;171;227;Okmulgee;x
+200;0;174;0;Koasati;x
+201;42;177;128;Congaree;x
+202;84;180;1;Pakana;x
+203;126;183;129;Pawokti;x
+204;168;186;2;Bilocci;x
+205;0;189;130;Pascagoula;x
+206;42;192;3;Tawasa;x
+207;84;195;131;Maubila;x
+208;126;198;4;Woccon;x
+209;168;201;132;Pamlico;x
+210;0;204;5;Tuscarora;x
+211;42;207;133;Itumbi;x
+212;84;210;6;Nanticoke;x
+213;126;0;134;Susquehannah;x
+214;168;3;7;Conoy;x
+215;0;6;135;Naugatuck;x
+216;42;9;8;Wampanoag;x
+217;84;12;136;Unami;x
+218;126;15;9;Powhatan;x
+219;168;18;137;Unalachtigo;x
+220;0;21;10;Delaware;x
+221;42;24;138;Mingo;x
+222;84;27;11;Ingo;x
+223;126;30;139;Manayunk;x
+224;168;33;12;Tasqui;x
+225;0;36;140;Katahdin;x
+226;42;39;13;Caraquet;x
+227;84;42;141;Swannanoa;x
+228;126;45;14;Unicoi;x
+229;168;48;142;Saara;x
+230;0;51;15;Kohani;x
+231;42;54;143;Nadá-kuh;x
+232;84;57;16;Nasoni;x
+233;126;60;144;Karankawa;x
+234;168;63;17;Acolapisa;x
+235;0;66;145;Houma;x
+236;42;69;18;Háynay;x
+237;84;72;146;Chattanooga;x
+238;126;75;19;Ooltewah;x
+239;168;78;147;Cullowhee;x
+240;0;81;20;Causapscal;x
+241;42;84;148;Atoka;x
+242;84;87;21;Muldraw;x
+243;126;138;49;Cotoname;x
+244;168;93;22;Obion;x
+245;0;96;150;Lecta;x
+246;42;99;23;Tullahoma;x
+247;84;102;151;Wiklif;x
+248;126;105;24;Bandana;x
+249;168;108;152;Tamaroa;x
+250;0;111;25;Latonia;x
+251;42;114;153;Chippekawkay;x
+252;84;117;26;Wayatanoke;x
+253;126;120;154;Wabash;x
+254;168;123;27;Saingueemon;x
+255;0;126;155;Wapakoneta;x
+256;42;129;28;Winneshiek;x
+257;84;132;156;Matchebenashshewish;x
+258;126;135;29;Pokagon;x
+259;168;138;157;Natowasepe;x
+260;0;141;30;Gawakia;x
+261;42;144;158;Missaukee;x
+262;84;147;31;Ministigweyaa;x
+263;126;150;159;Shiawassee;x
+264;168;153;32;Negwegon;x
+265;0;156;160;Saginaw;x
+266;42;159;33;Seginsavin;x
+267;84;162;161;Cheboygan;x
+268;126;165;34;Matagami;x
+269;168;168;162;Kesagami;x
+270;0;171;35;Nemiscau;x
+271;42;174;163;Attawapiskat;x
+272;84;177;36;Waskaganish;x
+273;126;180;164;Namewakami;x
+274;168;183;37;Kaamiskutu;x
+275;0;186;165;Cabonga;x
+276;42;189;38;Temagami;x
+277;84;192;166;Abitibi;x
+278;126;195;39;Timiskaming;x
+279;168;198;167;Otoskwin;x
+280;0;201;40;Eabamet;x
+281;42;204;168;Ogoki;x
+282;84;207;41;Chatawapisshkag;x
+283;126;210;169;Kohler;x
+284;168;0;42;Fushimi;x
+285;0;3;170;Nipigon;x
+286;42;6;43;Mississagi;x
+287;84;9;171;Longlac;x
+288;126;12;44;Manitouwadge;x
+289;168;15;172;Pukaskwa;x
+290;0;18;45;Aubinadong;x
+291;42;21;173;Nushatogani;x
+292;84;24;46;Wawa;x
+293;126;27;174;Missinaibi;x
+294;168;30;47;Algoma;x
+295;0;33;175;Megasan;x
+296;42;36;48;Nagagamisis;x
+297;84;39;176;Esnagi;x
+298;126;42;49;Ishpeming;x
+299;43;81;138;Cahuinari;x
+300;0;48;50;Negaunee;x
+301;42;51;178;Keweenaw;x
+302;84;54;51;Escanaba;x
+303;126;57;179;Mackinac;x
+304;168;60;52;Peno;x
+305;0;63;180;Kalkaska;x
+306;42;66;53;Latoh;x
+307;84;69;181;Mineola;x
+308;126;72;54;Musquaque;x
+309;168;75;182;Kaskaskia;x
+310;0;78;55;Waukegan;x
+311;42;81;183;Shikaakwa;x
+312;84;84;56;Peoria;x
+313;126;87;184;Kokomo;x
+314;168;90;57;Menorkenut;x
+315;0;93;185;Quapaw;x
+316;42;96;58;Nodena;x
+317;84;99;186;Taeba;x
+318;126;102;59;Avoyel;x
+319;168;105;187;Bayougoula;x
+320;0;108;60;Grigra;x
+321;42;111;188;Eyeish;x
+322;84;114;61;Adai;x
+323;126;117;189;Aranama;x
+324;168;120;62;Anoixi;x
+325;0;123;190;Yatasi;x
+326;42;126;63;Oachita;x
+327;84;129;191;Orejon;x
+328;126;132;64;Payaya;x
+329;168;135;192;Kitsai;x
+330;0;138;65;Lipan;x
+331;42;141;193;Kopano;x
+332;84;144;66;Atanaguaypacam;x
+333;126;147;194;Matamoros;x
+334;168;150;67;Chichén Itzá;x
+335;0;153;195;Tulum;x
+336;42;156;68;Dzidzantún;x
+337;84;159;196;Cetumal;x
+338;126;162;69;Tzucacab;x
+339;168;165;197;Becán;x
+340;0;168;70;Altun Ha;x
+341;42;171;198;Tikal;x
+342;84;174;71;Xunantunich;x
+343;126;177;199;Uaxactun;x
+344;168;180;72;Dzibilchaltún;x
+345;0;183;200;Edzná;x
+346;42;186;73;Uxmal;x
+347;84;189;201;Mayapan;x
+348;126;192;74;Okop;x
+349;168;195;202;Mamulique;x
+350;0;198;75;Caddo;x
+351;42;201;203;Patiri;x
+352;84;204;76;Bidai;x
+353;126;207;204;Akokisa;x
+354;168;210;77;Okelusa;x
+355;0;0;205;Atakapa;x
+356;42;3;78;Kinipisa;x
+357;84;6;206;Chitimacha;x
+358;126;9;79;Tunica;x
+359;168;12;207;Paducah;x
+360;0;15;80;Osceola;x
+361;42;18;208;Nogo;x
+362;84;21;81;Chaonia;x
+363;126;24;209;Mokita;x
+364;168;27;82;Saukenuk;x
+365;0;30;210;Nokomis;x
+366;42;33;83;Ottumwa;x
+367;84;36;211;Makataimeshe;x
+368;126;39;84;Taimah;x
+369;168;42;212;Meskwaki;x
+370;0;45;85;Milwaukee;x
+371;42;48;213;Oshkosh;x
+372;84;51;86;Knierim;x
+373;126;54;214;Chequamegon;x
+374;168;57;87;Nantounagon;x
+375;0;60;215;Kanabec;x
+376;42;63;88;Ahgwahching;x
+377;84;66;216;Nebagamon;x
+378;126;69;89;Pembina;x
+379;168;72;217;Oulu;x
+380;0;75;90;Waubun;x
+381;42;78;218;Uskabwanka;x
+382;84;81;91;Quetico;x
+383;126;84;219;Kabetogama;x
+384;168;87;92;Kamanistigouian;x
+385;0;90;220;Kakagi;x
+386;42;93;93;Wabakimi;x
+387;84;96;221;Hecla;x
+388;126;99;94;Misepawistik;x
+389;168;102;222;Assinica;x
+390;0;105;95;Atikaki;x
+391;42;108;223;Chibougamau;x
+392;84;111;96;Wapusk;x
+393;126;114;224;Manitoba;x
+394;168;117;97;Weippe;x
+395;0;120;225;Kootenai;x
+396;42;123;98;Kalispel;x
+397;84;126;226;Osoyoos;x
+398;126;129;99;Wasatch;x
+399;168;132;227;Bannock;x
+400;0;135;0;Pocatello;x
+401;42;138;128;Piegan;x
+402;84;141;1;Akaitikka;x
+403;126;144;129;Schitsu'umish;x
+404;168;147;2;Notus;x
+405;0;150;130;Spokane;x
+406;42;153;3;Borah;x
+407;84;156;131;Okanogan;x
+408;126;159;4;Tucannon;x
+409;168;162;132;Quatsino;x
+410;0;165;5;Kitsilano;x
+411;42;168;133;Keewatin;x
+412;84;171;6;Skagit;x
+413;126;174;134;Coweliske;x
+414;168;177;7;Kitsap;x
+415;0;180;135;Kalaloch;x
+416;42;183;8;Titonka;x
+417;84;186;136;Etzanoa;x
+418;126;189;9;Kitkehakhi;x
+419;168;192;137;Amaqua;x
+420;0;195;10;Meenon;x
+421;42;198;138;Wausau;x
+422;84;201;11;Maquoketa;x
+423;126;204;139;Anoka;x
+424;168;207;12;Okabena;x
+425;0;210;140;Minisose Swnkeebi;x
+426;42;0;13;Otsego;x
+427;84;3;141;Kakä'nikone;x
+428;126;6;14;Tawehash;x
+429;168;9;142;Wahkaw;x
+430;0;12;15;Omaha;x
+431;42;15;143;Ptegabina;x
+432;84;18;16;Ponca;x
+433;42;87;63;Nodaway;x
+434;168;24;17;Monona;x
+435;0;27;145;Winnetonka;x
+436;42;30;18;Cato;x
+437;84;33;146;Kuggaho;x
+438;126;36;19;Tanico;x
+439;168;39;147;Ozark;x
+440;0;42;20;Pocola;x
+441;42;45;148;Palisema;x
+442;84;48;21;Tuetinini;x
+443;126;51;149;Teya;x
+444;168;54;22;Indeislun Nakah;x
+445;0;57;150;Yojuane;x
+446;42;60;23;Koroa;x
+447;84;63;151;Hachcha Osi;x
+448;126;66;24;Natchitoches;x
+449;168;69;152;Tiou;x
+450;0;72;25;Ndáwe Qóha;x
+451;42;75;153;Tawakoni;x
+452;84;78;26;Kadawdáachuh;x
+453;126;81;154;Ammitaalasshé;x
+454;168;84;27;Kirikuúrukstu;x
+455;0;87;155;Nanih Waiya;x
+456;42;90;28;Tutilpinco;x
+457;84;93;156;Anilco;x
+458;126;96;29;Wapanocca;x
+459;168;99;157;Coahuiltecan;x
+460;0;102;30;Deadose;x
+461;42;105;158;Tonkawa;x
+462;84;108;31;Mayeye;x
+463;126;111;159;Tomoacas;x
+464;168;114;32;Sana;x
+465;0;117;160;Anáhuac;x
+466;42;120;33;Solano;x
+467;84;123;161;Guachichil;x
+468;126;126;34;Axocopan;x
+469;168;129;162;Xilotepec;x
+470;0;132;35;Tepeacac;x
+471;42;135;163;Quiauhteopan;x
+472;84;138;36;Tlatlauhquitepec;x
+473;126;141;164;Quauhtochco;x
+474;168;144;37;Tuchpa;x
+475;0;147;165;Orizaba;x
+476;42;150;38;Coatlicamac;x
+477;84;153;166;Minatitlan;x
+478;126;156;39;Tontontepec;x
+479;168;159;167;Ctzicoac;x
+480;0;162;40;Tlapacoyan;x
+481;42;165;168;Oaxaca;x
+482;84;168;41;Cuetlaxtlan;x
+483;126;171;169;Tamaholipa;x
+484;168;174;42;Acolhuacan;x
+485;0;177;170;Tlaxcala;x
+486;42;180;43;Xabizende;x
+487;84;183;171;Metztitlan;x
+488;126;186;44;Tochtepec;x
+489;168;189;172;Acapulco;x
+490;0;192;45;Chilpancinco;x
+491;42;195;173;Tututepaque;x
+492;84;198;46;Huaxtepec;x
+493;126;201;174;Yopitzinco;x
+494;168;204;47;Tlapan;x
+495;0;207;175;Tulancingo;x
+496;42;210;48;Teotitlan;x
+497;84;0;176;Coayxtlahuacan;x
+498;126;3;49;Tlachco;x
+499;168;6;177;Cihuatlan;x
+500;0;9;50;Tepequacuilco;x
+501;42;12;178;Ixtapa;x
+502;84;15;51;Quauhnahuac;x
+503;126;18;179;Quahuacan;x
+504;168;21;52;Palaú;x
+505;0;24;180;Petlacalco;x
+506;42;27;53;Colima;x
+507;84;30;181;Tlalcocauhtitlan;x
+508;126;33;54;Apatzingán;x
+509;168;36;182;Zacatlan;x
+510;0;39;55;Ocuilan;x
+511;42;42;183;Quaymas;x
+512;84;45;56;Pitic;x
+513;126;48;184;Tehuima;x
+514;168;51;57;Ures;x
+515;0;54;185;Ostimura;x
+516;42;57;58;Nuri;x
+517;84;60;186;Taos;x
+518;126;63;59;Ka'igwu;x
+519;168;66;187;Oóhenungpa;x
+520;0;69;60;Panismaha;x
+521;42;72;188;Jumano;x
+522;84;75;61;Tanpachoas;x
+523;126;78;189;Caguate;x
+524;168;81;62;Querecho;x
+525;0;84;190;Haisndayin;x
+526;126;21;144;Otoe;x
+527;84;90;191;Neosho;x
+528;126;93;64;Skiri;x
+529;168;96;192;Hanska;x
+530;0;99;65;Chokio;x
+531;42;102;193;Wichita;x
+532;84;105;66;Tó Pee Kuh;x
+533;126;108;194;Aguacane;x
+534;168;111;67;Otahkoiitahtayi;x
+535;0;114;195;Baahpuuo;x
+536;42;117;68;Kwantuqnu;x
+537;84;120;196;Natagé;x
+538;126;123;69;Tabas;x
+539;168;126;197;Nokoni;x
+540;0;129;70;Arapaho;x
+541;42;132;198;Hiakim;x
+542;84;135;71;Socaaix;x
+543;126;138;199;Cochimí;x
+544;168;141;72;Ashshipíte;x
+545;0;144;200;Kawulk;x
+546;42;147;73;Niitsítapi;x
+547;84;150;201;Bilapchashee;x
+548;126;153;74;Ashalaho;x
+549;168;156;202;Pembina;x
+550;0;159;75;Chaui;x
+551;42;162;203;Wadopahnatonwan;x
+552;84;165;76;Oglala;x
+553;126;168;204;Canhewincasta;x
+554;168;171;77;Waziyamwincasta;x
+555;0;174;205;Shasta;x
+556;42;177;78;Ochoco;x
+557;84;180;206;Kumeyaay;x
+558;126;183;79;Kiliwa;x
+559;168;186;207;Payomkowishum;x
+560;0;189;80;Pericú;x
+561;42;192;208;Waikuri;x
+562;84;195;81;Monqui;x
+563;126;198;209;Paipai;x
+564;168;201;82;Tachi;x
+565;0;204;210;Lesamo;x
+566;42;207;83;Rumsen;x
+567;84;210;211;Indogahwincasta;x
+568;126;0;84;Winona;x
+569;168;3;212;Shuswap;x
+570;0;6;85;Benewah;x
+571;42;9;213;Tolowa;x
+572;84;12;86;Washtucna;x
+573;126;15;214;Tualatin;x
+574;168;18;87;Karuk;x
+575;0;21;215;Olekwo'l;x
+576;42;24;88;Echeedickarshahshay;x
+577;84;27;216;Cheetiish;x
+578;126;30;89;Absaroka;x
+579;168;33;217;Manso;x
+580;0;36;90;Miniconjou;x
+581;42;39;218;Sahnish;x
+582;84;42;91;Yakima;x
+583;126;45;219;Walla Walla;x
+584;168;48;92;Wallowa;x
+585;0;51;220;Kittitas;x
+586;42;54;93;Umatilla;x
+587;84;57;221;Ni'ekeni;x
+588;126;60;94;Ópata;x
+589;168;63;222;Jova;x
+590;0;66;95;Concho;x
+591;42;69;223;Suma;x
+592;84;72;96;Cananea;x
+593;126;75;224;Chukchansi;x
+594;168;78;97;Chumash;x
+595;0;81;225;Tihachipia;x
+596;42;84;98;Tana;x
+597;84;87;226;Taaqtam;x
+598;126;90;99;Mulegé;x
+599;168;93;227;Tantáwats;x
+600;0;96;0;Altamura;x
+601;42;99;128;Mazatlan;x
+602;84;102;1;Ocoroni;x
+603;126;105;129;U'uvak;x
+604;168;108;2;Cuk Son;x
+605;0;111;130;Cuk Do'ag;x
+606;42;114;3;Yuum;x
+607;84;117;131;Cocopa;x
+608;126;120;4;Miwok;x
+609;168;123;132;Zacatecos;x
+610;0;126;5;Tlahualilo;x
+611;42;129;133;Chihuahua;x
+612;84;132;6;Moanunt;x
+613;126;135;134;Parral;x
+614;168;138;7;Acuna;x
+615;0;141;135;O'ob No'ok;x
+616;42;144;8;Patwin;x
+617;84;147;136;Wintu;x
+618;126;150;9;Koyom'kawi;x
+619;168;153;137;Karkin;x
+620;0;156;10;Pomo;x
+621;42;159;138;Maidu;x
+622;84;162;11;Ajúmmááwí;x
+623;126;165;139;Goshute;x
+624;168;168;12;Wasco-Wishram;x
+625;0;171;140;Ute;x
+626;42;174;13;Talca;x
+627;84;177;141;Tucuman;x
+628;126;180;14;Aconcagua;x
+629;168;183;142;Oruro;x
+630;0;186;15;Curva;x
+631;42;189;143;Yacuma;x
+632;84;192;16;Abuna;x
+633;126;195;144;Cuzco;x
+634;168;198;17;Yurimaguas;x
+635;0;201;145;Tarapoto;x
+636;42;204;18;Tocache;x
+637;84;207;146;Tarapacá;x
+638;126;210;19;Cundinamarca;x
+639;168;0;147;Bucaramanga;x
+640;0;3;20;Mitu;x
+641;42;6;148;Yopal;x
+642;84;9;21;Boyacá;x
+643;126;12;149;Tamshiyaca;x
+644;168;15;22;Tolima;x
+645;0;18;150;Ampiyacu;x
+646;42;21;23;Hunza;x
+647;84;24;151;Bocata;x
+648;126;27;24;Iquitos;x
+649;168;30;152;Abancay;x
+650;0;33;25;Nazca;x
+651;42;36;153;Yurubi;x
+652;84;39;26;Mariche;x
+653;126;42;154;Caquetio;x
+654;168;45;27;Pachaconas;x
+655;0;48;155;Chan Chan;x
+656;42;51;28;Fusagasuga;x
+657;84;54;156;Tumbes;x
+658;126;57;29;Nukak Tunahi;x
+659;168;60;157;Calamar;x
+660;0;63;30;Aruwage;x
+661;42;66;158;Potosi;x
+662;84;69;31;Incallacta;x
+663;126;72;159;Sumapaz;x
+664;168;75;32;Piura;x
+665;0;78;160;Limaq;x
+666;42;81;33;Cajamarca;x
+667;84;84;161;Chachapoyas;x
+668;126;87;34;Tocoa;x
+669;168;90;162;Jutiapa;x
+670;0;93;35;Catacamas;x
+671;42;96;163;Comayagua;x
+672;84;99;36;Choluteca;x
+673;126;102;164;Terreon;x
+674;168;105;37;Caliacan;x
+675;0;108;165;Guamuchil;x
+676;42;111;38;Matehuala;x
+677;84;114;166;Canatlán;x
+678;126;117;39;Izapa;x
+679;168;120;167;Topia;x
+680;0;123;40;Tepehuán;x
+681;42;126;168;Usulutan;x
+682;84;129;41;Cubulero;x
+683;126;132;169;Petoa;x
+684;168;135;42;Cuyamel;x
+685;0;138;170;Popayan;x
+686;42;141;43;Huarango;x
+687;84;144;171;Sanquianga;x
+688;126;147;44;Motupe;x
+689;168;150;172;Tungurahua;x
+690;0;153;45;Guataqui;x
+691;42;156;173;Cotopaxi;x
+692;84;159;46;Mosquera;x
+693;126;162;174;Quibdo;x
+694;168;165;47;Uramba;x
+695;0;168;175;Cali;x
+696;42;171;48;Ibagué;x
+697;84;174;176;Azogues;x
+698;126;177;49;Pasto;x
+699;168;180;177;Masaya;x
+700;0;183;50;Tumaco;x
+701;42;186;178;Ouitiguá;x
+702;84;189;51;Opalaca;x
+703;126;192;179;Copán;x
+704;168;195;52;Tonalá;x
+705;0;198;180;Chantuto;x
+706;42;201;53;Abaj Takalik;x
+707;84;204;181;Kaminaljuyú;x
+708;126;207;54;Chichigalpa;x
+709;168;210;182;Siquirres;x
+710;0;0;55;Chulcanas;x
+711;42;3;183;Guayaquil;x
+712;84;6;56;Sixaola;x
+713;126;9;184;Gualaca;x
+714;168;12;57;Tocumen;x
+715;0;15;185;Itagui;x
+716;42;18;58;Süchiimma;x
+717;84;21;186;Pampán;x
+718;126;24;59;Coro;x
+719;168;27;187;Tamaca;x
+720;0;30;60;Churuguara;x
+721;42;33;188;Wayúu;x
+722;84;36;61;Cabimas;x
+723;126;39;189;Quillacingas;x
+724;168;42;62;Chitre;x
+725;0;45;190;Canazas;x
+726;42;48;63;Pinogana;x
+727;84;51;191;Chiriqui;x
+728;126;54;64;Gatún;x
+729;168;57;192;Guácimo;x
+730;0;60;65;Hojancha;x
+731;42;63;193;Jacó;x
+732;84;66;66;Upala;x
+733;126;69;194;Guanacaste;x
+734;168;72;67;Ocotal;x
+735;0;75;195;Senahú;x
+736;42;78;68;Ahuachapan;x
+737;84;81;196;Macuspana;x
+738;126;84;69;Tuxtla;x
+739;168;87;197;Chankultic;x
+740;0;90;70;Coatzalcoalcos;x
+741;42;93;198;Coyolapan;x
+742;84;96;71;Yoaltepec;x
+743;126;99;199;Sultepec;x
+744;168;102;72;Hualahuises;x
+745;0;105;200;Ixhuatán;x
+746;42;108;73;Huatulco;x
+747;84;111;201;Sepinpacam;x
+748;126;114;74;Xicalanco;x
+749;168;117;202;Yaxchilán;x
+750;0;120;75;Tlachquiauco;x
+751;42;123;203;Tecpatán;x
+752;84;126;76;Palenque;x
+753;126;129;204;Acayucan;x
+754;168;132;77;Calákmul;x
+755;0;135;205;Cantú;x
+756;42;138;78;Anaya;x
+757;84;141;206;Guatibacoa;x
+758;126;144;79;Iximche;x
+759;168;147;207;Lacanhá;x
+760;0;150;80;Comalcalco;x
+761;42;153;208;Salama;x
+762;84;156;81;Zacatecoluca;x
+763;126;159;209;Kruta;x
+764;168;162;82;Caratasca;x
+765;0;165;210;Tawahka;x
+766;42;168;83;Yulu;x
+767;84;171;211;Cayo;x
+768;126;174;84;Julgalpa;x
+769;168;177;212;Tibú;x
+770;0;180;85;Guajiro;x
+771;42;183;213;Arhuaco;x
+772;84;186;86;Pongueyca;x
+773;126;189;214;Panzenú;x
+774;168;192;87;Zenú;x
+775;0;195;215;Sahagún;x
+776;42;198;88;Finzenú;x
+777;84;201;216;Yurbaco;x
+778;126;204;89;Achagua;x
+779;168;207;217;Yarumal;x
+780;0;210;90;Ayapel;x
+781;42;0;218;Mompos;x
+782;84;3;91;Magangué;x
+783;126;6;219;Yukpa;x
+784;168;9;92;Macuira;x
+785;0;12;220;Maracay;x
+786;42;15;93;Curacoa;x
+787;84;18;221;Yanomami;x
+788;126;21;94;Tocuyito;x
+789;168;24;222;Canaima;x
+790;0;27;95;Sarisarinama;x
+791;42;30;223;Aguaro;x
+792;84;33;96;Roraima;x
+793;126;36;224;Brokopondo;x
+794;168;39;97;Guyana;x
+795;0;42;225;Pariaguán;x
+796;42;45;98;Caracas;x
+797;84;48;226;Imataca;x
+798;126;51;99;Warao;x
+799;168;54;227;Marahuaca;x
+800;0;57;0;Anaco;x
+801;42;60;128;Tipuro;x
+802;84;63;1;Carupano;x
+803;126;66;129;Tucupita;x
+804;168;69;2;Kairi;x
+805;0;72;130;Aloubaéra;x
+806;42;75;3;Camerhorne;x
+807;84;78;131;Hiroon;x
+808;126;81;4;Hewanorra;x
+809;168;84;132;Madinina;x
+810;0;87;5;Waitbuli;x
+811;42;90;133;Karoukera;x
+812;84;93;6;Kùutsmil;x
+813;126;96;134;Ichirouagana;x
+814;168;99;7;Alliouagana;x
+815;0;102;135;Waladli;x
+816;42;105;8;Caguas;x
+817;84;108;136;Utuado;x
+818;126;111;9;Liamuiga;x
+819;168;114;137;Ay-ay;x
+820;0;117;10;Caicos;x
+821;42;120;138;Mayaguana;x
+822;84;123;11;Guanahaní;x
+823;126;126;139;Bayaquitiri;x
+824;168;129;12;Iabaquen;x
+825;0;132;140;Abaco;x
+826;42;135;13;Anhaica;x
+827;84;138;141;Asile;x
+828;126;141;14;Ocamanirí;x
+829;168;144;142;Ajaruco;x
+830;0;147;15;Guanajatabey;x
+831;42;150;143;Mayabeque;x
+832;84;153;16;Chambas;x
+833;126;156;144;Bayamo;x
+834;168;159;17;Cabaiguan;x
+835;0;162;145;Camagüey;x
+836;42;165;18;Jobabo;x
+837;84;168;146;Higüey;x
+838;126;171;19;Cotui;x
+839;168;174;147;Niquero;x
+840;0;177;20;Bayaguana;x
+841;42;180;148;Guantanamo;x
+842;84;183;21;Baracoa;x
+843;126;186;149;Yaguana;x
+844;168;189;22;Xaragua;x
+845;0;192;150;Neyba;x
+846;42;195;23;Mombin-Crochu;x
+847;84;198;151;Maguana;x
+848;0;3;225;Kalamazoo;x
+849;126;201;24;Babeque;x
+850;168;96;42;Souris;x
+851;84;9;226;Xcaret;x
+852;85;84;11;Yaguas;x
+853;127;87;139;Pacaya;x
+854;169;90;12;Ambato;x
+855;126;135;84;Baniwa;x
+856;168;138;212;Quiriquire;x
+857;0;141;85;Auaké;x
+858;42;144;213;Timotes;x
+859;84;147;86;Orinoco;x
+860;126;150;214;Motilon;x
+861;168;153;87;Tucacas;x
+862;0;156;215;Jirajara;x
+863;42;159;88;Catatumbo;x
+864;84;162;216;Guyabo;x
+865;126;165;89;Chariguana;x
+866;168;168;217;Migures;x
+867;0;171;90;Ayacucho;x
+868;42;174;218;Cuicas;x
+869;84;177;91;Mucuchíe;x
+870;126;180;219;Ye'kuana;x
+871;168;183;92;Uiramutá;x
+872;0;186;220;Mucajai;x
+873;42;189;93;Kumake;x
+874;84;192;221;Sipaliwini;x
+875;126;195;94;Amapá;x
+876;168;198;222;Paramaribo;x
+877;0;201;95;Pracuúba;x
+878;42;204;223;Kourou;x
+879;84;207;96;Oiapoque;x
+880;126;210;224;Macapá;x
+881;168;0;97;Itapipoca;x
+882;168;123;82;Chapadinha;x
+883;126;120;209;Piracuruca;x
+884;126;3;154;Ceará;x
+885;84;117;81;Pará;x
+886;168;15;227;Taviwatsiu;x
+887;1;18;0;Cassia;x
+888;43;21;128;Kopata;x
+889;85;24;1;Yantarii;x
+890;127;27;129;Nambe;x
+891;169;30;2;Hwalbáy;x
+892;1;33;130;Hawikku;x
+893;43;36;3;Tée-wah;x
+894;43;96;13;Guaviare;x
+895;127;42;4;Orayvi;x
+896;169;45;132;Chemehuevi;x
+897;1;48;5;Numa;x
+898;43;51;133;Moapa;x
+899;1;93;140;Moyobamba;x
+900;127;57;134;Arequipa;x
+901;169;60;7;Tiahuanacu;x
+902;1;63;135;Tacna;x
+903;43;66;8;Iquique;x
+904;85;69;136;Chipaya;x
+905;127;72;9;Cotahuasi;x
+906;169;75;137;Chiribiquete;x
+907;1;78;10;Puinawai;x
+908;84;132;211;Gespeg;x
+909;0;126;210;Amazonia;x
+910;42;129;83;Nunavut;x
+911;0;207;25;Sergipe;x
+912;84;0;26;Xique-Xique;x
+913;126;48;34;Itaúna;x
+914;84;45;161;Itanagra;x
+915;85;39;131;Iguaçu;x
+916;126;105;79;Paraiba;x
+917;42;99;78;Pernambuco;x
+918;168;93;77;Azua;x
+919;126;90;204;Tocantins;x
+920;85;99;141;Igarapé;x
+921;127;102;14;Jaguariúna;x
+922;169;105;142;Goiás;x
+923;1;108;15;Pampas;x
+924;43;111;143;Cerrado;x
+925;85;114;16;Pacaembu;x
+926;127;117;144;Itaquaquecetuba;x
+927;17;40;240;Tanhaçu;x
+928;169;120;17;Ipatinga;x
+929;1;123;145;Pakawa;x
+930;0;21;65;Lake Superior;x
+931;42;24;193;Gichigami;x
+932;84;27;66;Lake Michigan;x
+933;126;30;194;Lake Huron;x
+934;168;33;67;Karegnondi;x
+935;0;36;195;Lake Erie;x
+936;42;39;68;Lake Ontario;x
+937;84;42;196;Kahnawá'kye;x
+938;126;45;69;Kaniatarowanenneh;x
+939;168;48;197;Gaspé Coast;x
+940;0;51;70;Anticosti Coast;x
+941;42;54;198;South Vinland Coast;x
+942;0;54;35;North Vinland Coast;x
+943;42;18;3;Epekwitk Coast;x
+944;168;63;72;West Beothuk Coast;x
+945;0;66;200;Únamakika Coast;x
+946;42;69;73;Wagobagitik Bay;x
+947;84;72;201;Keespongwitk Cape;x
+948;126;75;74;Penobscot Bay;x
+949;168;78;202;Montauk Coast;x
+950;0;81;75;Chesapeake Bay;x
+951;42;84;203;Cape Hatteras;x
+952;0;96;205;Sewee Coast;x
+953;84;180;56;Guale Coast;x
+954;126;183;184;Mayaca Coast;x
+955;126;33;159;Calusa Coast;x
+956;84;15;156;Lucayan Archipelago;x
+957;168;204;152;Caicos Sea;x
+958;42;132;48;Bayamo Coast;x
+959;84;135;176;Calusa Coast;x
+960;168;171;182;Tocaste Coast;x
+961;168;141;177;Apalachicoli Coast;x
+962;0;144;50;Mouth of the Mississippi;x
+963;42;147;178;Chitimacha Coast;x
+964;84;150;51;Karankawa Coast;x
+965;126;153;179;Tamaholipa Coast;x
+966;168;156;52;Tochtepec Coast;x
+967;0;159;180;Xicalanco Coast;x
+968;42;162;53;Chichén Itzá Coast;x
+969;84;87;76;Yucatán Cape;x
+970;168;21;157;Mayabeque Coast;x
+971;126;90;149;Gulf of Mexico;x
+972;168;108;207;Gulf of Mexico;x
+973;126;78;39;Gulf of Mexico;x
+974;42;27;158;Cetumal Coast;x
+975;126;168;54;Gulf of Honduras;x
+976;42;210;153;Cayman Islands;x
+977;168;36;32;Ajaruco Coast;x
+978;0;39;160;Cabaiguan Coast;x
+979;0;111;80;Miskito Coast;x
+980;42;12;28;Cayo Coast;x
+981;0;9;155;Chiriqui Coast;x
+982;168;51;162;Gulf of Darién;x
+983;42;114;208;Pongueyca Coast;x
+984;42;57;163;Gulf of Venezuela;x
+985;84;60;36;Lake Maracaibo;x
+986;126;63;164;Caracas Coast;x
+987;168;66;37;Kairi Coast;x
+988;0;69;165;Windward Islands;x
+989;42;72;38;Leeward Islands;x
+990;84;75;166;Caguas Coast;x
+991;42;6;98;Higüey Coast;x
+992;168;81;167;Maguana Coast;x
+993;0;84;40;Camagüey Coast;x
+994;42;87;168;Neyba Coast;x
+995;84;90;41;Guantanamo Coast;x
+996;126;93;169;The Wash;x
+997;126;12;99;Coast of Xaymaca;x
+998;0;99;170;Caribbean Sea;x
+999;42;102;43;Caribbean Sea;x
+1000;84;105;171;Caribbean Sea;x
+1001;126;108;44;Caribbean Sea;x
+1002;168;111;172;Kourou Coast;x
+1003;0;114;45;Chapadinha Coast;x
+1004;42;117;173;Cape Paraiba;x
+1005;84;120;46;Itanagra Coast;x
+1006;126;123;174;Ipatinga Coast;x
+1007;168;126;47;Iguaçu Coast;x
+1008;0;129;175;North Beothuk Coast;x
+1009;168;6;27;East Beothuk Coast;x
+1010;126;18;29;South Beothuk Coast;x
+1011;42;42;33;Gulf of Panamá;x
+1012;84;57;71;Uramba Coast;x
+1013;126;60;199;Guayaquil Coast;x
+1014;0;24;30;Limaq Coast;x
+1015;42;177;183;Arequipa Coast;x
+1016;0;174;55;Talca Coast;x
+1017;84;30;31;Canazas Coast;x
+1018;85;54;6;Hojancha Coast;x
+1019;84;165;181;Choluteca Coast;x
+1020;168;186;57;Izapa Coast;x
+1021;0;189;185;Ixhuatlán Coast;x
+1022;42;192;58;Acapulco Coast;x
+1023;84;195;186;Cihuatlan Coast;x
+1024;126;198;59;Zacatlan Coast;x
+1025;168;201;187;Ocoroni Coast;x
+1026;0;204;60;Gulf of California;x
+1027;42;207;188;Mouth of the Colorado;x
+1028;84;210;61;Pericú Coast;x
+1029;126;0;189;Waikuri Coast;x
+1030;168;3;62;Cochimi Coast;x
+1031;0;6;190;Chumash Coast;x
+1032;42;9;63;Karkin Coast;x
+1033;84;12;191;Pomo Coast;x
+1034;126;15;64;Tolowa Coast;x
+1035;168;18;192;Salish Sea;x
+1036;43;126;18;Mississippi Mouth;x
+1037;85;129;146;Mississippi River1;x
+1038;127;132;19;Mississippi River2;x
+1039;169;135;147;Red River;x
+1040;1;138;20;Mississippi River3;x
+1041;43;141;148;Arkansas River1;x
+1042;85;144;21;Arkansas River2;x
+1043;127;147;149;Mississippi River4;x
+1044;169;150;22;Mississippi River5;x
+1045;1;153;150;Mississippi River6;x
+1046;43;156;23;Ohio River;x
+1047;85;159;151;Ohio River;x
+1048;127;162;24;Missouri River;x
+1049;169;165;152;Missouri River;x
+1050;1;168;25;Alabama River;x
+1051;43;171;153;Hudson River;x
+1052;85;174;26;Connecticut River;x
+1053;127;177;154;Ottawa River;x
+1054;169;180;27;Sabine River;x
+1055;1;183;155;Rio Grande Mouth;x
+1056;43;186;28;Rio Grande River1;x
+1057;85;189;156;Rio Grande River2;x
+1058;127;192;29;Colorado Mouth;x
+1059;169;195;157;Colorado River;x
+1060;1;198;30;Sacramento River;x
+1061;43;201;158;Columbia Mouth;x
+1062;85;204;31;Columbia River;x
+1063;127;207;159;Panuco River;x
+1064;169;210;32;Santiago River;x
+1065;1;0;160;Balsas River;x
+1066;43;3;33;Usumacinta River;x
+1067;85;6;161;Grijalva River;x
+1068;127;9;34;Magdalena Mouth;x
+1069;169;12;162;Magdalena River;x
+1070;1;15;35;Orinoco Mouth;x
+1071;43;18;163;Orinoco River;x
+1072;85;21;36;Francisco River;x

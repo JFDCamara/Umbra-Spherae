@@ -1,0 +1,15 @@
+# c_thorfinn
+
+# County Title
+title = c_thorfinn
+
+# Settlements
+max_settlements = 1
+
+b_thorfinn = castle
+
+# Misc
+culture = norwegian
+religion = norse_pagan
+
+#History

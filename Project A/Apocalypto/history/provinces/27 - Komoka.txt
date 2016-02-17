@@ -1,0 +1,15 @@
+# c_komoka
+
+# County Title
+title = c_komoka
+
+# Settlements
+max_settlements = 1
+
+b_komoka = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

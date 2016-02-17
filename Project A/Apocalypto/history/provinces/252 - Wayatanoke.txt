@@ -1,0 +1,15 @@
+# c_wayatanoke
+
+# County Title
+title = c_wayatanoke
+
+# Settlements
+max_settlements = 1
+
+b_wayatanoke = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

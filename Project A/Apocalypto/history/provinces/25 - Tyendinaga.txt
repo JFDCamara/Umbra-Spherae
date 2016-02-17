@@ -1,0 +1,15 @@
+# c_tyendinaga
+
+# County Title
+title = c_tyendinaga
+
+# Settlements
+max_settlements = 1
+
+b_tyendinaga = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

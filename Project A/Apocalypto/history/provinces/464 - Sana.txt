@@ -1,0 +1,15 @@
+# c_sana
+
+# County Title
+title = c_sana
+
+# Settlements
+max_settlements = 1
+
+b_sana = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

@@ -1,0 +1,15 @@
+# c_arapaho
+
+# County Title
+title = c_arapaho
+
+# Settlements
+max_settlements = 1
+
+b_arapaho = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

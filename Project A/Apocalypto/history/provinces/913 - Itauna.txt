@@ -1,0 +1,15 @@
+# c_itauna
+
+# County Title
+title = c_itauna
+
+# Settlements
+max_settlements = 1
+
+b_itauna = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

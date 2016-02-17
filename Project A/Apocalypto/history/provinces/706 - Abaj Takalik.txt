@@ -1,0 +1,18 @@
+# c_abaj_takalik
+
+# County Title
+title = c_abaj_takalik
+
+# Settlements
+max_settlements = 4
+
+b_abaj_takalik = castle
+b_atitlan = city
+b_baul = temple
+#b_cotzumalguapa = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

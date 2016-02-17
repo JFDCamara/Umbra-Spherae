@@ -1,0 +1,17 @@
+# c_tawasa
+
+# County Title
+title = c_tawasa
+
+# Settlements
+max_settlements = 3
+
+b_tawasa = castle
+#b_tolentino = city
+#b_okchayutci = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

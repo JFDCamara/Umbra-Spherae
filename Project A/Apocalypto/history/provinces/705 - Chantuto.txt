@@ -1,0 +1,17 @@
+# c_chantuto
+
+# County Title
+title = c_chantuto
+
+# Settlements
+max_settlements = 3
+
+b_chantuto = castle
+#b_escuintla = city
+#b_mapastepec = temple
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

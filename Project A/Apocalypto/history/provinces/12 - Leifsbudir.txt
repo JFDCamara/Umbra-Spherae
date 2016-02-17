@@ -1,0 +1,15 @@
+# c_leifsbudir
+
+# County Title
+title = c_leifsbudir
+
+# Settlements
+max_settlements = 1
+
+b_leifsbudir = castle
+
+# Misc
+culture = norwegian
+religion = norse_pagan
+
+#History

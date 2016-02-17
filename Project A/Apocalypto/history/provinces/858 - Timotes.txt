@@ -1,0 +1,15 @@
+# c_timotes
+
+# County Title
+title = c_timotes
+
+# Settlements
+max_settlements = 1
+
+b_timotes = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

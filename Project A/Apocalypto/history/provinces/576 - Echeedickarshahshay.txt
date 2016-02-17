@@ -1,0 +1,15 @@
+# c_echeedickarshahshay
+
+# County Title
+title = c_echeedickarshahshay
+
+# Settlements
+max_settlements = 1
+
+b_echeedickarshahshay = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

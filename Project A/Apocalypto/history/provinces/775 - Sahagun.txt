@@ -1,0 +1,15 @@
+# c_sahagun
+
+# County Title
+title = c_sahagun
+
+# Settlements
+max_settlements = 1
+
+b_sahagun = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

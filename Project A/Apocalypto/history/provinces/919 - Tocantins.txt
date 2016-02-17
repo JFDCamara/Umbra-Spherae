@@ -1,0 +1,15 @@
+# c_tocantins
+
+# County Title
+title = c_tocantins
+
+# Settlements
+max_settlements = 1
+
+b_tocantins = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

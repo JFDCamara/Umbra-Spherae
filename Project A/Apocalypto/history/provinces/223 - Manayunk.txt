@@ -1,0 +1,17 @@
+# c_manayunk
+
+# County Title
+title = c_manayunk
+
+# Settlements
+max_settlements = 3
+
+b_manayunk = castle
+#b_conestoga = city
+#b_cepowig = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

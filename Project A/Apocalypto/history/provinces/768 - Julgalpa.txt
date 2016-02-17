@@ -1,0 +1,15 @@
+# c_julgalpa
+
+# County Title
+title = c_julgalpa
+
+# Settlements
+max_settlements = 1
+
+b_julgalpa = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

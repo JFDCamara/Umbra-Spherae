@@ -1,0 +1,15 @@
+# c_chumash
+
+# County Title
+title = c_chumash
+
+# Settlements
+max_settlements = 1
+
+b_chumash = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

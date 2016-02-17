@@ -1,0 +1,17 @@
+# c_etowah
+
+# County Title
+title = c_etowah
+
+# Settlements
+max_settlements = 3
+
+b_etowah = castle
+#b_altamaha  = city
+#b_hatche_thlucco = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

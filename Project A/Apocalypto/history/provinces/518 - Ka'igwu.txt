@@ -1,0 +1,15 @@
+# c_kaigwu
+
+# County Title
+title = c_kaigwu
+
+# Settlements
+max_settlements = 1
+
+b_kaigwu = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

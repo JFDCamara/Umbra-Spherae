@@ -1,0 +1,16 @@
+# c_taughannock
+
+# County Title
+title = c_taughannock
+
+# Settlements
+max_settlements = 2
+
+b_taughannock = castle
+#b_tekane-ada-he = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

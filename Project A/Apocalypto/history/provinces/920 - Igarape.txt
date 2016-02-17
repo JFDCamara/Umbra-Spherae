@@ -1,0 +1,15 @@
+# c_igarape
+
+# County Title
+title = c_igarape
+
+# Settlements
+max_settlements = 1
+
+b_igarape = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

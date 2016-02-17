@@ -1,0 +1,17 @@
+# c_ashtabula
+
+# County Title
+title = c_ashtabula
+
+# Settlements
+max_settlements = 3
+
+b_ashtabula = castle
+#b_cayahoga = city
+#b_arrigahaga = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

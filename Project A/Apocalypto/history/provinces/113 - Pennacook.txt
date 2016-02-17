@@ -1,0 +1,15 @@
+# c_pennacook
+
+# County Title
+title = c_pennacook
+
+# Settlements
+max_settlements = 1
+
+b_pennacook = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

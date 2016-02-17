@@ -1,0 +1,15 @@
+# c_aguaro
+
+# County Title
+title = c_aguaro
+
+# Settlements
+max_settlements = 1
+
+b_aguaro = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

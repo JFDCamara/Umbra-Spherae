@@ -1,0 +1,505 @@
+300000 = {
+	name="Abey"
+	dynasty=1037005
+	religion="zemi"
+	culture="taino"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+300001 = {
+	name="Acanorex"
+	dynasty=1037006
+	religion="zemi"
+	culture="taino"
+	father=300022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+300002 = {
+	name="Cotubanama"
+	dynasty=1037007 
+	religion="zemi"
+	culture="taino"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+300003 = {
+	name="Bagnamanay"
+	dynasty=1037007
+	religion="zemi"
+	culture="taino"
+	father=300002 #Cotubanama
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+300004 = {
+	name="Bojekio"
+	dynasty=1037009
+	religion="zemi"
+	culture="taino"
+	father=300005 #Brizuela
+	mother=300029 #Twengga
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+300005 = {
+	name="Brizuela"
+	dynasty=1037009
+	religion="zemi"
+	culture="taino"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=300029 #Twengga
+    }
+
+}
+
+300006 = {
+	name="Caguax"
+	dynasty=1037011
+	religion="zemi"
+	culture="taino"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=300030 #Yayama
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+300007 = {
+	name="Camaguebax"
+	dynasty=1037011
+	religion="zemi"
+	culture="taino"
+	father=300006 #Caguax
+	mother=300030 #Yayama
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+300008 = {
+	name="Canobana"
+	dynasty=1037012
+	religion="zemi"
+	culture="taino"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+300009 = {
+	name="Cotubanami"
+	dynasty=1037002
+	religion="zemi"
+	culture="taino"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+300010 = {
+	name="Daguao"
+	dynasty=1037013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="zemi"
+	culture="taino"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+300011 = {
+	name="Guababo"
+	dynasty=1037014
+	religion="zemi"
+	culture="taino"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+300012 = {
+	name="Guacanagari"
+	dynasty=1037015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="zemi"
+	culture="taino"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+300013 = {
+	name="Guamayry"
+	dynasty=1037001
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="zemi"
+	culture="taino"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+300014 = {
+	name="Guatiguana"
+	dynasty=1037003
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="zemi"
+	culture="taino"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+300015 = {
+	name="Haubey"
+	dynasty=1037006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="zemi"
+	culture="taino"
+	father=300022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+300016 = {
+	name="Iguanama"
+	dynasty=1037011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="zemi"
+	culture="taino"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+300017 = {
+	name="Jacaguax"
+	dynasty=1037004
+	religion="zemi"
+	culture="taino"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+300018 = {
+	name="Loquillo"
+	dynasty=1037004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="zemi"
+	culture="taino"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+300019 = {
+	name="Mabodomaca"
+	dynasty=1037008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="zemi"
+	culture="taino"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+300020 = {
+	name="Majagua"
+	dynasty=1037003
+	religion="zemi"
+	culture="taino"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+300021 = {
+	name="Naguabo"
+	dynasty=1037002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="zemi"
+	culture="taino"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+300022 = {
+	name="Oliguama"
+	dynasty=1037006
+	religion="zemi"
+	culture="taino"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+300023 = {
+	name="Anacaona"
+	female=yes
+	dynasty=1037007	
+	religion="zemi"
+	culture="taino"
+	father=300002 #Cotubanama
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+300024 = {
+	name="Bijirita"
+	female=yes
+	dynasty=1037011
+	religion="zemi"
+	culture="taino"
+	father=300006 #Caguax
+	mother=300030 #Yayama
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+300025 = {
+	name="Urayoan"
+	dynasty=1037010
+	religion="zemi"
+	culture="taino"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+300026 = {
+	name="Chinchilin"
+	female=yes
+	dynasty=1037010
+	religion="zemi"
+	culture="taino"
+	father=300025 #Urayoan
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+300027 = {
+	name="Fututo"
+	female=yes
+	dynasty=1037001	
+	religion="zemi"
+	culture="taino"
+	father=300013 #Guamayry
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+300028 = {
+	name="Jujabi"
+	female=yes
+	dynasty=1037008	
+	religion="zemi"
+	culture="taino"
+	father=300019 #Mabodomaca
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+300029 = {
+	name="Twengga"
+	female=yes
+	dynasty=1037001	
+	religion="zemi"
+	culture="taino"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=300005 #Brizuela
+    	}
+}
+
+300030 = {
+	name="Yayama"
+	female=yes
+	dynasty=1037014
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="zemi"
+	culture="taino"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=300006 #Caguax
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

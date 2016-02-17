@@ -1,0 +1,15 @@
+# c_tutelo
+
+# County Title
+title = c_tutelo
+
+# Settlements
+max_settlements = 1
+
+b_tutelo = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

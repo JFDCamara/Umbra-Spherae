@@ -1,0 +1,15 @@
+# c_scugog
+
+# County Title
+title = c_scugog
+
+# Settlements
+max_settlements = 1
+
+b_scugog = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

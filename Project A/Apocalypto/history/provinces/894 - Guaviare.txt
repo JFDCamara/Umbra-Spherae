@@ -1,0 +1,15 @@
+# c_guaviare
+
+# County Title
+title = c_guaviare
+
+# Settlements
+max_settlements = 1
+
+b_guaviare = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

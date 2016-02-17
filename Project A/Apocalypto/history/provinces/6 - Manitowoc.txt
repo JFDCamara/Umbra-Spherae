@@ -1,0 +1,16 @@
+# c_manitowoc
+
+# County Title
+title = c_manitowoc
+
+# Settlements
+max_settlements = 2
+
+b_manitowoc = castle
+#b_caromanie = city
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

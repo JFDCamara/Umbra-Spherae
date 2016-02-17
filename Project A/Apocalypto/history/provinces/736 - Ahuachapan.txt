@@ -1,0 +1,15 @@
+# c_ahuachapan
+
+# County Title
+title = c_ahuachapan
+
+# Settlements
+max_settlements = 1
+
+b_ahuachapan = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

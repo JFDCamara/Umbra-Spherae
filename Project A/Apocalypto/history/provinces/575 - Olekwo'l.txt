@@ -1,0 +1,15 @@
+# c_olekwol
+
+# County Title
+title = c_olekwol
+
+# Settlements
+max_settlements = 1
+
+b_olekwol = castle
+
+# Misc
+culture = salish
+religion = shikla
+
+#History

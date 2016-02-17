@@ -1,0 +1,18 @@
+# c_kalamazoo
+
+# County Title
+title = c_kalamazoo
+
+# Settlements
+max_settlements = 4
+
+b_kalamazoo = castle
+#b_mashkigong = city
+#b_kabogwashiingong = temple
+#b_mishiimini = castle
+
+# Misc
+culture = illinois
+religion = gagohsa
+
+#History

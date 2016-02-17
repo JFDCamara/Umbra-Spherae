@@ -1,0 +1,15 @@
+# c_assinica
+
+# County Title
+title = c_assinica
+
+# Settlements
+max_settlements = 1
+
+b_assinica = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

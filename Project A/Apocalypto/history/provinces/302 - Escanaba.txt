@@ -1,0 +1,17 @@
+# c_escanaba
+
+# County Title
+title = c_escanaba
+
+# Settlements
+max_settlements = 3
+
+b_escanaba = castle
+#b_zhooahkwaan = city
+#b_nahma = temple
+
+# Misc
+culture = illinois
+religion = midewiwin
+
+#History

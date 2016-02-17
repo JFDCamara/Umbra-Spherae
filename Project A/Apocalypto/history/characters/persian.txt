@@ -1,0 +1,800 @@
+901 = {
+	name="Shapur" #sassan
+	dynasty=1100159
+	dna="dqisfnylujn"
+	properties="am00a000000"
+	health=9
+	religion="zoroastrian"
+	culture="persian"
+	add_trait="hist_sassanid"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+902 = {
+	name="Sadashkana" #saka
+	dynasty=1100160
+	dna="yyimxzxavye"
+	properties="ac0bcc00000"
+	health=9
+	religion="indoh_bud"
+	culture="saka"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+903 = {
+	name="Archebios" #aria
+	dynasty=1100161
+	dna="xhjfunrybad"
+	properties="cgiced00000"
+	health=9
+	religion="indoh_bud"
+	culture="indohellenic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+904 = {
+	name="Telephos" #gedrosia
+	dynasty=1100162
+	dna="kjkqilmjabh"
+	properties="kibfah00000"
+	health=9
+	religion="indoh_zor"
+	culture="indohellenic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+905 = {
+	name="Lysias" #sindhia
+	dynasty=1100163
+	dna="anjtdwjvzhy"
+	properties="kl0fck00000"
+	health=9
+	religion="indoh_hindu"
+	culture="indohellenic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+906 = {
+	name="Alexandros" #bactria
+	dynasty=1100164
+	dna="aibflemdbcq"
+	properties="aivbac00000"
+	health=9
+	religion="indohelen"
+	culture="indohellenic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+907 = {
+	name="Bahram" #dailam
+	dynasty=1100165
+	dna="lwsktvlkaah"
+	properties="cc0hdf00000"
+	health=9
+	religion="mandaean"
+	culture="persian"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+908 = {
+	name="Kanishka" #qohistan
+	dynasty=1100166
+	dna="oqlmmngfvau"
+	properties="ceeccd00000"
+	health=9
+	religion="zoroastrian"
+	culture="saka"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+909 = {
+	name="Ibrahim" #basra
+	dynasty=792
+	dna="htkuyvzpqtf"
+	properties="njfeed00000"
+	health=9
+	religion="athari"
+	culture="bedouin_arabic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+910 = {
+	name="Shahrevar" #kermanshah
+	dynasty=1100167
+	dna="pgjnvkqewro"
+	properties="cm0cgd00000"
+	health=9
+	religion="zurvanism"
+	culture="persian"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+911 = {
+	name="Ali" #kufa
+	dynasty=587
+	dna="yiousdjpozv"
+	properties="ndqd0d00000"
+	health=9
+	religion="shiite"
+	culture="levantine_arabic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+912 = {
+	name="Nasraddin" #tigris
+	dynasty=101042
+	dna="xgmlboojjjh"
+	properties="mdre0d00000"
+	health=9
+	religion="sunni"
+	culture="levantine_arabic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+913 = {
+	name="Xshayârshan" #khwarezm
+	dynasty=1100168
+	dna="fexdihvvgor"
+	properties="ah0aac00000"
+	health=9
+	religion="zor_angra"
+	culture="parthian"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+914 = {
+	name="Eudoxios" #bukhara
+	dynasty=1100169
+	dna="jcuyemwiogy"
+	properties="kb0fde00000"
+	health=9
+	religion="nestorian"
+	culture="serindian"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+915 = {
+	name="Vahyavishdâpaya" #marakanda
+	dynasty=1100170
+	dna="jcpactjxaap"
+	properties="ccfhak00000"
+	health=9
+	religion="buddhist"
+	culture="serindian"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+916 = {
+	name="Alp-Arslan" #seljuk
+	dynasty=613
+	dna="shkdezbfaaw"
+	properties="ecwhbh00000"
+	health=9
+	religion="buddhist"
+	culture="turkish"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+917 = {
+	name="Bumin" #gokturk
+	dynasty=1100171
+	dna="dqxtkimufhf"
+	properties="ka0g0e00000"
+	health=9
+	religion="tengri_bud"
+	culture="turkish"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+918 = {
+	name="Bayan" #uyghur
+	dynasty=1100172
+	dna="nwbojwwitth"
+	properties="aj0a0b00000"
+	health=9
+	religion="mani"
+	culture="turkish"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+919 = {
+	name="Gamanulf" #gothia
+	dynasty=1100173
+	dna="rzdpcguygct"
+	properties="ckos0d00000"
+	health=9
+	religion="antinomian"
+	culture="teutonic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+920 = {
+	name="Philoxenus" #bosporan
+	dynasty=1100174
+	dna="jnmonrsfgml"
+	properties="abobbb00000"
+	health=9
+	religion="sol_boreas"
+	culture="hellenistic"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+921 = {
+	name="Chrysanthos" #cherson
+	dynasty=101085
+	dna="jhxjzrwpuna"
+	properties="0d0d0d00000"
+	health=9
+	religion="audianist"
+	culture="greek"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+922 = {
+	name="David" #khaz
+	dynasty=1100175
+	dna="fpubfvumsne"
+	properties="aiz0eb00000"
+	health=9
+	religion="judaism"
+	culture="khazar"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+923 = {
+	name="Yoshua" #yaik
+	dynasty=1100176
+	dna="xysdnpadjvd"
+	properties="ki0dgd00000"
+	health=9
+	religion="jud_sabaoth"
+	culture="khazar"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+924 = {
+	name="Kaytun" #oghuz
+	dynasty=7327
+	dna="iimjmqygllg"
+	properties="ab00cc00000"
+	health=9
+	religion="tengri_pagan"
+	culture="turkish"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+925 = {
+	name="Baytas" #bashkirs
+	dynasty=100615
+	dna="bkyjznloecc"
+	properties="kikdcd00000"
+	health=9
+	religion="tengri_pagan"
+	culture="turkish"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+926 = {
+	name="Gunduz" #kimek
+	dynasty=1100177
+	dna="cvksapmmovb"
+	properties="eirffk00000"
+	health=9
+	religion="tengri_mani"
+	culture="turkish"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+927 = {
+	name="Kai" #perm
+	dynasty=1100178
+	dna="lzjmbtoyabo"
+	properties="ej0ded00000"
+	health=9
+	religion="voipel"
+	culture="komi"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+928 = {
+	name="Artaxshasa" #merv
+	dynasty=1100179
+	dna="sazxurjbond"
+	properties="clweea00000"
+	health=9
+	religion="mazdakism"
+	culture="parthian"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+929 = {
+	name="Artaxshasa" #khorasan
+	dynasty=1100180
+	dna="mamxhmkflgj"
+	properties="ee0hdk00000"
+	health=9
+	religion="mazdakism"
+	culture="parthian"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+930 = {
+	name="Awar" #azerbaijan
+	dynasty=101868
+	dna="rboqvbxhfru"
+	properties="cegd0d00000"
+	health=9
+	religion="zor_angra"
+	culture="kurdish"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+931 = {
+	name="Behrouz" #shirvan
+	dynasty=1100181
+	dna="ckclpyheecm"
+	properties="oghedd00000"
+	health=9
+	religion="yazidi"
+	culture="persian"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+932 = {
+	name="Shayan" #albania
+	dynasty=1100182
+	dna="ptdnkspoxby"
+	properties="aj00ec00000"
+	health=9
+	religion="mani_mithra"
+	culture="aghbanian"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+933 = {
+	name="Itlar" #avars
+	dynasty=1100183
+	dna="exnrlktmkgr"
+	properties="kiieed00000"
+	health=9
+	religion="tengri_mani"
+	culture="avar"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+934 = {
+	name="Samoeli" #kartli
+	dynasty=1100184
+	dna="wtecabcnabe"
+	properties="cc0dbk00000"
+	health=9
+	religion="monophysite"
+	culture="georgian"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+935 = {
+	name="Durgulel" #alan
+	dynasty=100603
+	dna="xwjmveblniz"
+	properties="0e0dad00000"
+	health=9
+	religion="arian"
+	culture="alan"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+936 = {
+	name="Balgor" #crimea
+	dynasty=100599
+	dna="qhztkotyvsm"
+	properties="kl0gff00000"
+	health=9
+	religion="tengri_mani"
+	culture="pecheneg"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+937 = {
+	name="Kutan" #sarkel
+	dynasty=100614
+	dna="fkutiulpics"
+	properties="ce0dbd00000"
+	health=9
+	religion="tengri_pagan"
+	culture="cuman"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+938 = {
+	name="Saru" #cuman
+	dynasty=698
+	dna="wixoiyinomb"
+	properties="ga0bba00000"
+	health=9
+	religion="tengri_pagan"
+	culture="cuman"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+939 = {
+	name="Malyy" #mordva
+	dynasty=1100185
+	dna="feavutektgx"
+	properties="tiecbd00000"
+	health=9
+	religion="chumbylat"
+	culture="komi"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+940 = {
+	name="Aatos" #mari
+	dynasty=1100186
+	dna="lqqxxvzlbac"
+	properties="tj0egk00000"
+	health=9
+	religion="chumbylat"
+	culture="komi"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+941 = {
+	name="Hannu" #komi
+	dynasty=151
+	dna="rtsyjyuujjw"
+	properties="gdpccd00000"
+	health=9
+	religion="voipel"
+	culture="komi"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+942 = {
+	name="Arslan" #bulgar
+	dynasty=1100187
+	dna="dourginpbke"
+	properties="alqafb00000"
+	health=9
+	religion="vattisenyaly"
+	culture="bulgar"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+943 = {
+	name="Burzafrah" #hormouz
+	dynasty=1100253
+	dna="mrtaujfvsgb"
+	properties="cb0egd00000"
+	health=9
+	religion="zor_hindu"
+	culture="persian"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+944 = {
+	name="Khashayar" #fars
+	dynasty=1100254
+	dna="tuzrqtcubhu"
+	properties="ceacgd00000"
+	health=9
+	religion="zurvanism"
+	culture="persian"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+945 = {
+	name="Kaykaus" #mazandar
+	dynasty=1100255
+	dna="wdnljlaauyq"
+	properties="el0hbh00000"
+	health=9
+	religion="mand_ruha"
+	culture="persian"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+946 = {
+	name="Yunus" #tabriz
+	dynasty=1100256
+	dna="ytwbkfeicou"
+	properties="cjkgbk00000"
+	health=9
+	religion="nestorian"
+	culture="turkish"
+	add_trait="brilliant_strategist"
+	add_trait="ambitious"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+947 = {
+	name="Reswan" #mosul
+	dynasty=101686
+	dna="hupglfubgql"
+	properties="cmmdfd00000"
+	health=9
+	religion="yazdanism"
+	culture="kurdish"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+948 = {
+	name="Al-Qa'im" #baghdad
+	dynasty=101727
+	dna="jjgpofhvbls"
+	properties="ad0b0000000"
+	health=9
+	religion="sunni"
+	culture="levantine_arabic"
+	add_trait="sayyid"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+949 = {
+	name="Eskander" #hamadan
+	dynasty=1100258
+	dna="tmcheosqxoo"
+	properties="ce0ded00000"
+	health=9
+	religion="zoroastrian"
+	culture="persian"
+	add_trait="hist_parmenion"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+950 = {
+	name="Cyaxares" #rayy
+	dynasty=1100257
+	dna="aaegbsiphwg"
+	properties="chxead00000"
+	health=9
+	religion="zoroastrian"
+	culture="persian"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+951 = {
+	name="Menander" #amida
+	dynasty=1100259
+	dna="xcvzwekpabw"
+	properties="0m0sbd00000"
+	health=9
+	religion="nestorian"
+	culture="hellenistic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+952 = {
+	name="Thoros" #edessa
+	dynasty=1100260
+	dna="hxurbhgqaaa"
+	properties="cbzcdd00000"
+	health=9 
+	religion="melkite"
+	culture="armenian"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+953 = {
+	name="Vagharshak" #derbent
+	dynasty=1100383
+	dna="gllfzdoxvnk"
+	properties="cc0ebi00000"
+	health=9
+	religion="mani_mithra"
+	culture="aghbanian"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}

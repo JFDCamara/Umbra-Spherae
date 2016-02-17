@@ -1,0 +1,15 @@
+# c_damariscotta
+
+# County Title
+title = c_damariscotta
+
+# Settlements
+max_settlements = 1
+
+b_damariscotta = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

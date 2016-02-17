@@ -1,0 +1,505 @@
+480000 = {
+	name="Deganawida"
+	dynasty=1044005
+	religion="gagohsa"
+	culture="iroquois"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+480001 = {
+	name="Ayawentha"
+	dynasty=1044006
+	religion="gagohsa"
+	culture="iroquois"
+	father=480022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+480002 = {
+	name="Ganioda'yo"
+	dynasty=1044007 
+	religion="gagohsa"
+	culture="iroquois"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+480003 = {
+	name="Akiatonharónkwen"
+	dynasty=1044007
+	religion="gagohsa"
+	culture="iroquois"
+	father=480002 #Ganioda'yo
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+480004 = {
+	name="Canasatego"
+	dynasty=1044009
+	religion="gagohsa"
+	culture="iroquois"
+	father=480005 #Cogwagee
+	mother=480029 #Jigonsaseh
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+480005 = {
+	name="Cogwagee"
+	dynasty=1044009
+	religion="gagohsa"
+	culture="iroquois"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=480029 #Jigonsaseh
+    }
+
+}
+
+480006 = {
+	name="Sakayengwaraton"
+	dynasty=1044011
+	religion="gagohsa"
+	culture="iroquois"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=480030 #Aliquipiso
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+480007 = {
+	name="Teyoninhokovrawen"
+	dynasty=1044011
+	religion="gagohsa"
+	culture="iroquois"
+	father=480006 #Sakayengwaraton
+	mother=480030 #Aliquipiso
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+480008 = {
+	name="Sigwaahdohgwih"
+	dynasty=1044012
+	religion="gagohsa"
+	culture="iroquois"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+480009 = {
+	name="Thaonawyuthe"
+	dynasty=1044002
+	religion="gagohsa"
+	culture="iroquois"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+480010 = {
+	name="Oskanondonha"
+	dynasty=1044013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="gagohsa"
+	culture="iroquois"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+480011 = {
+	name="Sayenqueraghta"
+	dynasty=1044014
+	religion="gagohsa"
+	culture="iroquois"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+480012 = {
+	name="Kaieñãkwaahtoñ"
+	dynasty=1044015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="gagohsa"
+	culture="iroquois"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+480013 = {
+	name="Odeserundiye"
+	dynasty=1044001
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="gagohsa"
+	culture="iroquois"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+480014 = {
+	name="Tagaskouita"
+	dynasty=1044003
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="gagohsa"
+	culture="iroquois"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+480015 = {
+	name="Garakontié"
+	dynasty=1044006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="gagohsa"
+	culture="iroquois"
+	father=480022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+480016 = {
+	name="Ganeagowa"
+	dynasty=1044011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="gagohsa"
+	culture="iroquois"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+480017 = {
+	name="Kanungheritaws"
+	dynasty=1044004
+	religion="gagohsa"
+	culture="iroquois"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+480018 = {
+	name="Jeyunghehkwung"
+	dynasty=1044004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="gagohsa"
+	culture="iroquois"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+480019 = {
+	name="Hodegweh"
+	dynasty=1044008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="gagohsa"
+	culture="iroquois"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+480020 = {
+	name="Werdyasaha"
+	dynasty=1044003
+	religion="gagohsa"
+	culture="iroquois"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+480021 = {
+	name="Hernohngwesers"
+	dynasty=1044002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="gagohsa"
+	culture="iroquois"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+480022 = {
+	name="Joweese"
+	dynasty=1044006
+	religion="gagohsa"
+	culture="iroquois"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+480023 = {
+	name="Tekakwitha"
+	female=yes
+	dynasty=1044007	
+	religion="gagohsa"
+	culture="iroquois"
+	father=480002 #Ganioda'yo
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+480024 = {
+	name="Satékon"
+	female=yes
+	dynasty=1044011
+	religion="gagohsa"
+	culture="iroquois"
+	father=480006 #Sakayengwaraton
+	mother=480030 #Aliquipiso
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+480025 = {
+	name="Shagoyontha"
+	dynasty=1044010
+	religion="gagohsa"
+	culture="iroquois"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+480026 = {
+	name="Genessee"
+	female=yes
+	dynasty=1044010
+	religion="gagohsa"
+	culture="iroquois"
+	father=480025 #Shagoyontha
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+480027 = {
+	name="Orenda"
+	female=yes
+	dynasty=1044001	
+	religion="gagohsa"
+	culture="iroquois"
+	father=480013 #Odeserundiye
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+480028 = {
+	name="Jogehho"
+	female=yes
+	dynasty=1044008	
+	religion="gagohsa"
+	culture="iroquois"
+	father=480019 #Hodegweh
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+480029 = {
+	name="Jigonsaseh"
+	female=yes
+	dynasty=1044001	
+	religion="gagohsa"
+	culture="iroquois"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=480005 #Cogwagee
+    	}
+}
+
+480030 = {
+	name="Aliquipiso"
+	female=yes
+	dynasty=1044014
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="gagohsa"
+	culture="iroquois"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=480006 #Sakayengwaraton
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

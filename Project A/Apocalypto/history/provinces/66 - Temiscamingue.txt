@@ -1,0 +1,17 @@
+# c_temiscamingue
+
+# County Title
+title = c_temiscamingue
+
+# Settlements
+max_settlements = 3
+
+b_temiscamingue = castle
+#b_aanaawenh = city
+#b_khioetoa = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

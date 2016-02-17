@@ -1,0 +1,15 @@
+# c_goias
+
+# County Title
+title = c_goias
+
+# Settlements
+max_settlements = 1
+
+b_goias = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

@@ -1,0 +1,1785 @@
+1 = {
+	name="Flavius" #byz
+	dynasty=1100101
+	dna="jnroylomakr"
+	properties="cj00ad00000"
+	health=9
+	religion="sol"
+	culture="greek"
+	father=12550
+	add_trait="hist_julianos"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+2 = {
+	name="Belisarios" #nicae
+	dynasty=1100188
+	dna="csgdjvbhaju"
+	properties="0m0cad00000"
+	health=9
+	religion="jupiter"
+	culture="greek"
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+3 = {
+	name="Simeon" #bulg
+	dynasty=1100189
+	dna="zmvvkkfoahi"
+	properties="ce0ebd00000"
+	health=9
+	religion="bogomilist"
+	culture="bulgarian"
+	father=14013
+	1038.1.1={
+		birth="1038.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+4 = {
+	name="Samuil" #karv
+	dynasty=702
+	dna="yekuyobxvjx"
+	properties="cjks0d00000"
+	health=9
+	religion="bogomilist"
+	culture="bulgarian"
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+5 = {
+	name="Alexandru" #wal
+	dynasty=764
+	dna="glvqykkihzo"
+	properties="0jyeak00000"
+	health=9
+	religion="orthodox"
+	culture="romanian"
+        1045.1.1={
+		birth="1045.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+6 = {
+	name="Andronikos" #Epir
+	dynasty=633
+	dna="uscafeeoaxk"
+	properties="0c0dbd00000"
+	health=9
+	religion="orthodox"
+	culture="greek"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+7 = {
+	name="Nichomachus" #Athens
+	dynasty=1100284
+	dna="usjnwwllonz"
+	properties="cewscd00000"
+	health=9
+	religion="neoplato"
+	culture="greek"
+	1034.1.2={
+		birth="1034.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+8 = {
+	name="Theodore" #Achaia
+	dynasty=48
+	dna="imnmoittqgv"
+	properties="ej0cck00000"
+	health=9
+	religion="orthodox"
+	culture="greek"
+	1032.1.2={
+		birth="1032.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+9 = {
+	name="Lazar" #serb
+	dynasty=11001892
+	dna="edhobmeamdo"
+	properties="aj0afc00000"
+	health=9
+	religion="orthodox"
+	culture="serbian"
+	1032.1.2={
+		birth="1032.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+10 = {
+	name="Kaisarios" #trebiz
+	dynasty=11001890
+	dna="zekqhzqzfcl"
+	properties="cj0ehd00000"
+	health=9
+	religion="roman_imperial"
+	culture="greek"
+	1036.1.2={
+		birth="1036.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+11 = {
+	name="Leon" #isaur
+	dynasty=8646
+	dna="oqqhbbahtpx"
+	properties="ac0rac00000"
+	health=9
+	religion="luwian"
+	culture="greek"
+	1037.1.2={
+		birth="1037.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+12 = {
+	name="Lugios" #galatia
+	dynasty=11001891
+	dna="epicdsosscn"
+	properties="ce0eck00000"
+	health=9
+	religion="mithra_sol"
+	culture="galatian"
+	add_trait="hist_amyntas"
+	1035.1.2={
+		birth="1035.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+13 = {
+	name="Roupen" #armeni
+	dynasty=190
+	dna="ixulcmquhfn"
+	properties="cbucbk00000"
+	health=9
+	religion="monothelitist"
+	culture="armenian"
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+14 = {
+	name="Vaballathus" #palm
+	dynasty=11001893
+	dna="nuufnsevhyc"
+	properties="0k0dbd00000"
+	health=9
+	religion="beelshamen"
+	culture="greek"
+	add_trait = hist_zenobia
+	1035.1.2={
+		birth="1035.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+15 = {
+	name="Leontios" #laodi
+	dynasty=11001894
+	dna="dsgqdwhjljf"
+	properties="cbtc0d00000"
+	health=9
+	religion="apollinarist"
+	culture="greek"
+	1035.1.2={
+		birth="1035.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+16 = {
+	name="Eudoxios" #Colone
+	dynasty=11001895
+	dna="vyvjnezpcdh"
+	properties="0d0edd00000"
+	health=9
+	religion="graeco_roman"
+	culture="hellenistic"
+	1035.1.2={
+		birth="1035.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+17 = {
+	name="Stefan" #Dioclea
+	dynasty=1100242
+	dna="cagmybacfbq"
+	properties="clecak00000"
+	health=9
+	religion="bogomilist"
+	culture="serbian"
+	1035.1.2={
+		birth="1035.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+18 = {
+	name="Majorian" #Dalmatia
+	dynasty=1100243
+	dna="cgxfwmfuprn"
+	properties="cjed0d00000"
+	health=9
+	religion="mithra_christ"
+	culture="roman"
+	add_trait = "hist_diocletian"
+	1035.1.2={
+		birth="1035.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+19 = {
+	name="Philippos" #cypr
+	dynasty=1100244
+	dna="nxzuwwnbsgz"
+	properties="ea0ead00000"
+	health=9
+	religion="alexandros"
+	culture="hellenistic"
+	father=13106
+	add_trait="hist_alexandros"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+20 = {
+	name="Apollophanes" #krete
+	dynasty=1100245
+	dna="whnfiowwzzo"
+	properties="cb0scd00000"
+	health=9
+	religion="sol_apollo"
+	culture="hellenistic"
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+21 = {
+	name="Kresimir" #croatia
+	dynasty=512
+	dna="ddfhbnccccy"
+	properties="aj0bcb00000"
+	health=9
+	religion="catholic"
+	culture="croatian"
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+22 = {
+	name="Severus" #aquileia
+	dynasty=1100246
+	dna="wxdkkqmoxbv"
+	properties="cc0c0d00000"
+	health=9
+	religion="jupiter"
+	culture="roman"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+23 = {
+	name="Bagrat" #georgia
+	dynasty=507
+	dna="caihbmjjabi"
+	properties="ab0bbb00000"
+	health=9
+	religion="orthodox"
+	culture="georgian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+24 = {
+	name="Sevag" #armenminor
+	dynasty=1100261
+	dna="zmiblappqbd"
+	properties="0g0ead00000"
+	health=9
+	religion="docetist"
+	culture="armenian"
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+25 = {
+	name="Antiochus" #antioch
+	dynasty=1100262
+	dna="xxdtdaubatz"
+	properties="cd0ead00000"
+	health=9
+	religion="alexandros"
+	culture="hellenistic"
+	add_trait="hist_seleukos"
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+26 = {
+	name="Robert" #apulia
+	dynasty=678
+	dna="belfacmxgci"
+	properties="cc0jhj00000"
+	health=9
+	religion="catholic"
+	culture="norman"
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+27 = {
+	name="Landulf" #benevento
+	dynasty=1100263
+	dna="rynairkgucy"
+	properties="0i0dcd00000"
+	health=9
+	religion="catholic"
+	culture="lombard"
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+28 = {
+	name="Alboin" #spoleto
+	dynasty=1100264
+	dna="fckruaoegcq"
+	properties="0e0c0d00000"
+	health=9
+	religion="catholic"
+	culture="lombard"
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+29 = {
+	name="Honorius" #neapolis
+	dynasty=1100265
+	dna="dclflahsxki"
+	properties="0fyh0h00000"
+	health=9
+	religion="roman_imperial"
+	culture="roman"
+	add_trait = "hist_augustus"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1060.1.1={
+		add_claim = e_roman
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+30 = {
+	name="Ingvarr" #novgorod
+	dynasty=1100266
+	dna="nkdyubmxgcu"
+	properties="cj0ccd00000"
+	health=9
+	religion="sol_norse"
+	culture="varangian"
+	add_trait="hist_rurik"
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+31 = {
+	name="Ingjaldr" #belooz
+	dynasty=1100267
+	dna="uscrqjppgck"
+	properties="ci0ccd00000"
+	health=9
+	religion="norse_pagan"
+	culture="varangian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+32 = {
+	name="Hámundar" #polotsk
+	dynasty=1100268
+	dna="usjfzqzjgci"
+	properties="cjisbd00000"
+	health=9
+	religion="sol_slav"
+	culture="varangian"
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+33 = {
+	name="Valdamarr" #vitebsk
+	dynasty=1100269
+	dna="wseubyuhgcs"
+	properties="ti0fck00000"
+	health=9
+	religion="sol_slav"
+	culture="varangian"
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+34 = {
+	name="Davyd" #chernigov
+	dynasty=1100270
+	dna="qflufcmfnna"
+	properties="0djsad00000"
+	health=9
+	religion="orthodox"
+	culture="russian"
+	add_trait="hist_rurik"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+35 = {
+	name="Alexandr" #pereyas
+	dynasty=1100271
+	dna="fcdpwqmnjcj"
+	properties="0d0gbh00000"
+	health=9
+	religion="orthodox"
+	culture="russian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+36 = {
+	name="Igor" #kiev
+	dynasty=1100272
+	dna="fsgocjnwgcc"
+	properties="cj0dad00000"
+	health=9
+	religion="perun"
+	culture="russian"
+	add_trait="hist_oleg"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+37 = {
+	name="Gleb" #galych
+	dynasty=1100273
+	dna="ycympqzdzrm"
+	properties="cmvcbd00000"
+	health=9
+	religion="mani_slavic"
+	culture="russian"
+	add_trait="hist_rus"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+38 = {
+	name="Oleg" #volyn
+	dynasty=1100275
+	dna="udrmqzgircy"
+	properties="tjudck00000"
+	health=9
+	religion="rod"
+	culture="russian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+39 = {
+	name="Rodislav" #turov
+	dynasty=1100276
+	dna="empiyyvnxca"
+	properties="cijgck00000"
+	health=9
+	religion="perun"
+	culture="russian"
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+40 = {
+	name="Igor" #novgsever
+	dynasty=1100277
+	dna="scjuvrufbcg"
+	properties="gjgcbd00000"
+	health=9
+	religion="tengri_rod"
+	culture="russian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+41 = {
+	name="Vladislav" #smolensk
+	dynasty=705
+	dna="wqmcklnbgcl"
+	properties="ch0sdd00000"
+	health=9
+	religion="slavic_pagan"
+	culture="russian"
+	add_trait="hist_rurik"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+42 = {
+	name="Ragnvaldr" #tver
+	dynasty=1100278
+	dna="nflcdzhpgcf"
+	properties="ci0edd00000"
+	health=9
+	religion="slavic_pagan"
+	culture="varangian"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+43 = {
+	name="Boris" #ryazan
+	dynasty=1100279
+	dna="tpwdgjsficb"
+	properties="tdrdfd00000"
+	health=9
+	religion="tengri_rod"
+	culture="russian"
+	add_trait="hist_rurik"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+44 = {
+	name="Hróaldr" #vladimir
+	dynasty=1100280
+	dna="hceccnmhgcr"
+	properties="ti0cfd00000"
+	health=9
+	religion="norse_pagan"
+	culture="varangian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+45 = {
+	name="Ásmundr" #suzdal
+	dynasty=1100281
+	dna="hfpetetcgce"
+	properties="gmcdbd00000"
+	health=9
+	religion="norse_pagan"
+	culture="varangian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+46 = {
+	name="Ulfr" #yaroslavl
+	dynasty=1100282
+	dna="wmhpldnnyeq"
+	properties="ciccbd00000"
+	health=9
+	religion="norse_pagan"
+	culture="varangian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+47 = {
+	name="Halfdan" #rostov
+	dynasty=1100283
+	dna="odqjhevhulw"
+	properties="cc0ebd00000"
+	health=9
+	religion="norse_pagan"
+	culture="varangian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+48 = {
+	name="Isidoros" #adrian
+	dynasty=171
+	dna="ahibfyiiacg"
+	properties="0b0dad00000"
+	health=9
+	religion="sol"
+	culture="greek"
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+49 = {
+	name="Dorotheos" #thessa
+	dynasty=1100313
+	dna="aahkkmkdfbi"
+	properties="0h0dck00000"
+	health=9
+	religion="alexandros"
+	culture="hellenistic"
+	add_trait="ambitious"
+	add_trait="hist_alexandros"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+50 = {
+	name="Philaretos" #thrace
+	dynasty=627
+	dna="jcdtpcsbggp"
+	properties="ci0sfd00000"
+	health=9
+	religion="sol"
+	culture="greek"
+	add_trait="ambitious"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+51 = {
+	name="Theophylaktos" #dyrac
+	dynasty=631
+	dna="ingxpthknhe"
+	properties="ck0ecd00000"
+	health=9
+	religion="orthodox"
+	culture="greek"
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+52 = {
+	name="Radoslav" #vidin
+	dynasty=36
+	dna="fsnjmrwotnb"
+	properties="cb0ddd00000"
+	health=9
+	religion="orthodox"
+	culture="serbian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+53 = {
+	name="Docirix" #charsi
+	dynasty=1100304
+	dna="hznmiugticv"
+	properties="cd0ced00000"
+	health=9
+	religion="mithra_sol"
+	culture="galatian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+54 = {
+	name="Orgilos" #paph
+	dynasty=1100305
+	dna="hnjfwjfkecd"
+	properties="0c0dgk00000"
+	health=9
+	religion="mithra_sol"
+	culture="galatian"
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+55 = {
+	name="Narses" #arme
+	dynasty=632
+	dna="cxdwjxthmhq"
+	properties="cj0ded00000"
+	health=9
+	religion="marcionist"
+	culture="greek"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+56 = {
+	name="Anatolios" #dtreb
+	dynasty=1100102
+	dna="xrdrvqddobx"
+	properties="ch0f0k00000"
+	health=9
+	religion="roman_imperial"
+	culture="greek"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+57 = {
+	name="Shamir" #negev
+	dynasty=1100306
+	dna="haodjrpteim"
+	properties="mawe0k00000"
+	health=9
+	religion="ghazi_islam"
+	culture="bedouin_arabic"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+58 = {
+	name="Yakob" #beersheb
+	dynasty=1100307
+	dna="nxkcoylvihg"
+	properties="ce0cck00000"
+	health=9
+	religion="jud_sabaoth"
+	culture="jewish"
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+59 = {
+	name="Bahir" #irbid
+	dynasty=1100308
+	dna="hjmkskstyaq"
+	properties="mj0ggk00000"
+	health=9
+	religion="ghazi_islam"
+	culture="levantine_arabic"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+60 = {
+	name="David" #safed
+	dynasty=1100309
+	dna="oezqdfquaaf"
+	properties="jj0dck00000"
+	health=9
+	religion="judaism"
+	culture="jewish"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+61 = {
+	name="Acaymo" #canarias
+	dynasty=1100310
+	dna="hcibvkugaak"
+	properties="ce0cbk00000"
+	health=9
+	religion="berber_pagan"
+	culture="berber"
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+62 = {
+	name="Aylimas" #maghrawa
+	dynasty=1100311
+	dna="ylpywsfwvaq"
+	properties="cg0hck00000"
+	health=9
+	religion="gurzil"
+	culture="berber"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+63 = {
+	name="Eucratides" #sparta
+	dynasty=1100314
+	dna="oyccwoxwhmn"
+	properties="ah0rba00000"
+	health=9
+	religion="mithra_sol"
+	culture="hellenistic"
+	add_trait="hist_agiad"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+64 = {
+	name="Orgilos" #tylis
+	dynasty=1100373
+	dna="pmmhffvmecf"
+	properties="aj0aac00000"
+	health=9
+	religion="mithra_sol"
+	culture="galatian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+65 = {
+	name="Brennus" #singid
+	dynasty=1100372
+	dna="buevuwiisci"
+	properties="tiuhbk00000"
+	health=9
+	religion="zal_christ"
+	culture="galatian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+66 = {
+	name="Himerios" #pontus
+	dynasty=1100374
+	dna="yffrkivunhl"
+	properties="cl0hck00000"
+	health=9
+	religion="mithra"
+	culture="hellenistic"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+67 = {
+	name="Kainaxarthos" #sarmatia
+	dynasty=1100375
+	dna="hukqvsvivij"
+	properties="ki0cbk00000"
+	health=9
+	religion="zal_mani"
+	culture="sarmatian"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+68 = {
+	name="Artemidoros" #pergamon
+	dynasty=1100376
+	dna="faarzfowwik"
+	properties="cjrhck00000"
+	health=9
+	religion="cybele"
+	culture="hellenistic"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+69 = {
+	name="Zoilos" #osroene
+	dynasty=1100377
+	dna="uuojqgeeley"
+	properties="ch0eck00000"
+	health=9
+	religion="nestorian"
+	culture="hellenistic"
+	1044.1.1={
+		birth="1044.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+70 = {
+	name="Sindulf" #diocleia
+	dynasty=1100378
+	dna="dsviiiejurc"
+	properties="fi0jaj00000"
+	health=9
+	religion="sol_christ"
+	culture="teutonic"
+	add_trait="hist_theodemir"
+	add_trait="brilliant_strategist"
+	add_trait="ambitious"
+	add_trait="zealous"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+71 = {
+	name="Alexandros" #rhomania
+	dynasty=1100379
+	dna="dfgfecaeccs"
+	properties="aj0acb00000"
+	health=9
+	religion="sol"
+	culture="greek"
+	add_trait="ambitious"
+	add_trait = "hist_augustus"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1060.1.1={
+		add_claim = e_byzantium
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+72 = {
+	name="Teobaldus" #ancona
+	dynasty=1100380
+	dna="fxwldgpdiuz"
+	properties="cmdfck00000"
+	health=9
+	religion="mithra_christ"
+	culture="romanogothic"
+	add_trait="ambitious"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+73 = {
+	name="Uldin" #huns
+	dynasty=1100381
+	dna="jizmilpksaq"
+	properties="ai00gc00000"
+	health=9
+	religion="tengri_ahriman"
+	culture="hunnic"
+	add_trait = "hist_attila"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+74 = {
+	name="Titus" #africa
+	dynasty=1100491
+	dna="crrwepcykxw"
+	properties="cjve0i00000"
+	health=9
+	religion="mithra"
+	culture="roman"
+	add_trait="brilliant_strategist"
+	add_trait="hist_vespasian"
+	add_trait="ambitious"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+# Historical Makedonian rulers
+# IDs 13000-13099
+13000 = {
+	name="Karanos"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13001 = {
+	name="Koinos"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13000
+	1.1.3={
+		birth="1.1.3"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13002 = {
+	name="Tyrimmas"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13001
+	1.1.4={
+		birth="1.1.4"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13003 = {
+	name="Perdiccas"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13002
+	1.1.5={
+		birth="1.1.5"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13004 = {
+	name="Argaeos"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13003
+	1.1.6={
+		birth="1.1.6"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13005 = {
+	name="Philippos"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13004
+	1.1.7={
+		birth="1.1.7"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13006 = {
+	name="Aeropos"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13005
+	1.1.8={
+		birth="1.1.8"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13007 = {
+	name="Tyrimmas"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13006
+	1.1.9={
+		birth="1.1.9"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13008 = {
+	name="Alketas"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13007
+	1.1.10={
+		birth="1.1.10"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13009 = {
+	name="Tyrimmas"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13008
+	1.1.11={
+		birth="1.1.11"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13010 = {
+	name="Amyntas"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13009
+	1.1.12={
+		birth="1.1.12"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13011 = {
+	name="Alexandros"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13010
+	1.1.13={
+		birth="1.1.13"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13012 = {
+	name="Alketas"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13011
+	1.1.14={
+		birth="1.1.14"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13013 = {
+	name="Perdiccas"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13011
+	1.1.15={
+		birth="1.1.15"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13014 = {
+	name="Archelaos"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13013
+	1.1.16={
+		birth="1.1.16"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13015 = {
+	name="Craterus"
+	religion="graeco_roman"
+	culture="hellenistic"
+	1.1.17={
+		birth="1.1.17"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13016 = {
+	name="Orestes"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13014
+	1.1.18={
+		birth="1.1.18"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13017 = {
+	name="Archelaos"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13014
+	1.1.19={
+		birth="1.1.19"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13018 = {
+	name="Amyntas"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13013
+	1.1.20={
+		birth="1.1.20"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13019 = {
+	name="Aeropos"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13014
+	1.1.21={
+		birth="1.1.21"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13020 = {
+	name="Pausanias"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13019
+	1.1.22={
+		birth="1.1.22"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13021 = {
+	name="Amyntas"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	1.1.23={
+		birth="1.1.23"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13022 = {
+	name="Argaeos"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13023 = {
+	name="Alexandros"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13021
+	1.1.24={
+		birth="1.1.24"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13024 = {
+	name="Perdiccas"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13021
+	1.1.25={
+		birth="1.1.25"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13025 = {
+	name="Amyntas"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13024
+	1.1.26={
+		birth="1.1.26"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13026 = {
+	name="Philippos"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13025
+	1.1.27={
+		birth="1.1.27"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13027 = {
+	name="Alexandros"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13026
+	add_trait="hist_alexandros"
+	1.1.28={
+		birth="1.1.28"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13028 = {
+	name="Philippos"
+	dynasty=1100244
+	religion="graeco_roman"
+	culture="hellenistic"
+	father = 13026
+	1.1.29={
+		birth="1.1.29"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13029 = {
+	name="Alexandros" # Also Alexandros I of Kypros
+	dynasty=1100244
+	religion="alexandros"
+	culture="hellenistic"
+	father = 13027
+	add_trait="hist_alexandros"
+	1.1.30={
+		birth="1.1.30"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13030 = {
+	name="Demetrios"
+	dynasty=1100245
+	religion="graeco_roman"
+	culture="hellenistic"
+	1.1.31={
+		birth="1.1.31"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13031 = {
+	name="Pyrrhos"
+	religion="graeco_roman"
+	culture="hellenistic"
+	1.2.1={
+		birth="1.2.1"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13032 = {
+	name="Antigonos"
+	dynasty=1100245
+	religion="graeco_roman"
+	culture="hellenistic"
+	father=13030
+	1.2.2={
+		birth="1.2.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13033 = {
+	name="Philippos"
+	dynasty=1100221
+	religion="graeco_roman"
+	culture="hellenistic"
+	1.2.3={
+		birth="1.2.3"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13034 = {
+	name="Antigonos"
+	dynasty=1100245
+	religion="graeco_roman"
+	culture="hellenistic"
+	father=13037
+	1.2.4={
+		birth="1.2.4"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13035 = {
+	name="Philippos"
+	dynasty=1100245
+	religion="graeco_roman"
+	culture="hellenistic"
+	father=13034
+	1.2.5={
+		birth="1.2.5"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13036 = {
+	name="Perseus"
+	dynasty=1100245
+	religion="graeco_roman"
+	culture="hellenistic"
+	father=13035
+	1.2.6={
+		birth="1.2.6"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13037 = {
+	name="Demetrios" # of Cyrene
+	dynasty=1100245
+	religion="graeco_roman"
+	culture="hellenistic"
+	father=13030
+	1.2.7={
+		birth="1.2.7"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+# Rulers of Kypros
+13100 = {
+	name="Alexandros"
+	dynasty=1100244
+	religion="alexandros"
+	culture="hellenistic"
+	father = 13029
+	add_trait="hist_alexandros"
+	1.2.8={
+		birth="1.2.8"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13101 = {
+	name="Philippos"
+	dynasty=1100244
+	religion="alexandros"
+	culture="hellenistic"
+	father = 13100
+	add_trait="hist_alexandros"
+	1.2.9={
+		birth="1.2.9"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13102 = {
+	name="Perdiccas"
+	dynasty=1100244
+	religion="alexandros"
+	culture="hellenistic"
+	father = 13101
+	add_trait="hist_alexandros"
+	1.2.10={
+		birth="1.2.10"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13103 = {
+	name="Alexandros"
+	dynasty=1100244
+	religion="alexandros"
+	culture="hellenistic"
+	father = 13101
+	add_trait="hist_alexandros"
+	1.2.11={
+		birth="1.2.11"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13104 = {
+	name="Philippos"
+	dynasty=1100244
+	religion="alexandros"
+	culture="hellenistic"
+	father = 13103
+	add_trait="hist_alexandros"
+	1.2.12={
+		birth="1.2.12"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13105 = {
+	name="Nikephoros"
+	dynasty=1100244
+	religion="alexandros"
+	culture="hellenistic"
+	father = 13104
+	add_trait="hist_alexandros"
+	1.2.13={
+		birth="1.2.13"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+13106 = {
+	name="Nikephoros"
+	dynasty=1100244
+	religion="alexandros"
+	culture="hellenistic"
+	add_trait="hist_alexandros"
+	1003.1.1={
+		birth="1003.1.1"
+	}
+	1064.1.1={
+		death="1064.1.1"
+	}
+}

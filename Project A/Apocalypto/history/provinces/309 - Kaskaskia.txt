@@ -1,0 +1,15 @@
+# c_kaskaskia
+
+# County Title
+title = c_kaskaskia
+
+# Settlements
+max_settlements = 1
+
+b_kaskaskia = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

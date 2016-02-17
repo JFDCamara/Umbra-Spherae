@@ -1,0 +1,16 @@
+# c_missaukee
+
+# County Title
+title = c_missaukee
+
+# Settlements
+max_settlements = 2
+
+b_missaukee = castle
+#b_kchibaakting = city
+
+# Misc
+culture = illinois
+religion = gagohsa
+
+#History

@@ -1,0 +1,15 @@
+# c_muspa
+
+# County Title
+title = c_muspa
+
+# Settlements
+max_settlements = 1
+
+b_muspa = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

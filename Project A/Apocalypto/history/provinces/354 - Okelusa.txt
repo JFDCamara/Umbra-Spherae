@@ -1,0 +1,15 @@
+# c_okelusa
+
+# County Title
+title = c_okelusa
+
+# Settlements
+max_settlements = 1
+
+b_okelusa = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

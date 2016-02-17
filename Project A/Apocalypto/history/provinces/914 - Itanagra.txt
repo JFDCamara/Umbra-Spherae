@@ -1,0 +1,15 @@
+# c_itanagra
+
+# County Title
+title = c_itanagra
+
+# Settlements
+max_settlements = 1
+
+b_itanagra = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

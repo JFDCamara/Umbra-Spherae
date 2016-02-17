@@ -1,0 +1,15 @@
+# c_niquero
+
+# County Title
+title = c_niquero
+
+# Settlements
+max_settlements = 1
+
+b_niquero = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

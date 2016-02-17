@@ -1,0 +1,15 @@
+# c_osoyoos
+
+# County Title
+title = c_osoyoos
+
+# Settlements
+max_settlements = 1
+
+b_osoyoos = castle
+
+# Misc
+culture = salish
+religion = shikla
+
+#History

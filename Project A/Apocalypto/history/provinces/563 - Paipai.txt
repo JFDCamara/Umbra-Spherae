@@ -1,0 +1,15 @@
+# c_paipai
+
+# County Title
+title = c_paipai
+
+# Settlements
+max_settlements = 1
+
+b_paipai = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

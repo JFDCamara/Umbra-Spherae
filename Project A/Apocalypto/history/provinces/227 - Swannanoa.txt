@@ -1,0 +1,17 @@
+# c_swannanoa
+
+# County Title
+title = c_swannanoa
+
+# Settlements
+max_settlements = 3
+
+b_swannanoa = castle
+b_keowee = city
+#b_dugiluyi = temple
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

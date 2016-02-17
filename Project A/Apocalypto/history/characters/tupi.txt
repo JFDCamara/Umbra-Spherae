@@ -1,0 +1,505 @@
+620000 = {
+	name="Ari-Ku"
+	dynasty=1055005
+	religion="tupa"
+	culture="tupi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+620001 = {
+	name="Ari-Kuri"
+	dynasty=1055006
+	religion="tupa"
+	culture="tupi"
+	father=620022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+620002 = {
+	name="Ariapu"
+	dynasty=1055007 
+	religion="tupa"
+	culture="tupi"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+620003 = {
+	name="Aricayé"
+	dynasty=1055007
+	religion="tupa"
+	culture="tupi"
+	father=620002 #Ariapu
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+620004 = {
+	name="Aricutu"
+	dynasty=1055009
+	religion="tupa"
+	culture="tupi"
+	father=620005 #Ariña
+	mother=620029 #Jacaranda
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+620005 = {
+	name="Ariña"
+	dynasty=1055009
+	religion="tupa"
+	culture="tupi"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=620029 #Jacaranda
+    }
+
+}
+
+620006 = {
+	name="Ario"
+	dynasty=1055011
+	religion="tupa"
+	culture="tupi"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=620030 #Yrasama
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+620007 = {
+	name="Aripa"
+	dynasty=1055011
+	religion="tupa"
+	culture="tupi"
+	father=620006 #Ario
+	mother=620030 #Yrasama
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+620008 = {
+	name="Aripaktsa"
+	dynasty=1055012
+	religion="tupa"
+	culture="tupi"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+620009 = {
+	name="Arypy'i"
+	dynasty=1055002
+	religion="tupa"
+	culture="tupi"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+620010 = {
+	name="Cayapo"
+	dynasty=1055013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="tupa"
+	culture="tupi"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+620011 = {
+	name="Kreen"
+	dynasty=1055014
+	religion="tupa"
+	culture="tupi"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+620012 = {
+	name="Pinon"
+	dynasty=1055015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="tupa"
+	culture="tupi"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+620013 = {
+	name="Raini"
+	dynasty=1055016
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="tupa"
+	culture="tupi"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+620014 = {
+	name="Ubirajara"
+	dynasty=1055017
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="tupa"
+	culture="tupi"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+620015 = {
+	name="Ubiratan"
+	dynasty=1055006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="tupa"
+	culture="tupi"
+	father=620022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+620016 = {
+	name="Xavante"
+	dynasty=1055011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="tupa"
+	culture="tupi"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+620017 = {
+	name="Yaborai"
+	dynasty=1055004
+	religion="tupa"
+	culture="tupi"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+620018 = {
+	name="Yacare"
+	dynasty=1055004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="tupa"
+	culture="tupi"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+620019 = {
+	name="Yaci"
+	dynasty=1055008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="tupa"
+	culture="tupi"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+620020 = {
+	name="Yacuri"
+	dynasty=1055003
+	religion="tupa"
+	culture="tupi"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+620021 = {
+	name="Yaguague"
+	dynasty=1055002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="tupa"
+	culture="tupi"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+620022 = {
+	name="Yaguapi"
+	dynasty=1055006
+	religion="tupa"
+	culture="tupi"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+620023 = {
+	name="Amambay"
+	female=yes
+	dynasty=1055007	
+	religion="tupa"
+	culture="tupi"
+	father=620002 #Ariapu
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+620024 = {
+	name="Bartira"
+	female=yes
+	dynasty=1055011
+	religion="tupa"
+	culture="tupi"
+	father=620006 #Ario
+	mother=620030 #Yrasama
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+620025 = {
+	name="Yasyka"
+	dynasty=1055010
+	religion="tupa"
+	culture="tupi"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+620026 = {
+	name="Iara"
+	female=yes
+	dynasty=1055010
+	religion="tupa"
+	culture="tupi"
+	father=620025 #Yasyka
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+620027 = {
+	name="Iracema"
+	female=yes
+	dynasty=1055016	
+	religion="tupa"
+	culture="tupi"
+	father=620013 #Raini
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+620028 = {
+	name="Jeruti"
+	female=yes
+	dynasty=1055008	
+	religion="tupa"
+	culture="tupi"
+	father=620019 #Yaci
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+620029 = {
+	name="Jacaranda"
+	female=yes
+	dynasty=1055001	
+	religion="tupa"
+	culture="tupi"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=620005 #Ariña
+    	}
+}
+
+620030 = {
+	name="Yrasama"
+	female=yes
+	dynasty=1055017
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="tupa"
+	culture="tupi"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=620006 #Ario
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

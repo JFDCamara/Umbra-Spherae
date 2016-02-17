@@ -1,0 +1,15 @@
+# c_bayaquitiri
+
+# County Title
+title = c_bayaquitiri
+
+# Settlements
+max_settlements = 1
+
+b_bayaquitiri = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

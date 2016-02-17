@@ -1,0 +1,15 @@
+# c_mitu
+
+# County Title
+title = c_mitu
+
+# Settlements
+max_settlements = 1
+
+b_mitu = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

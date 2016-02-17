@@ -1,0 +1,922 @@
+401 = {
+	name="Eadgar" #kent
+	dynasty=1100208
+	dna="cgdlg0kbbc0"
+	properties="ab0cea00000"
+	health=9
+	religion="catholic"
+	culture="saxon"
+	add_trait="hist_hengist"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+402 = {
+	name="Eadweard"
+	dynasty=1100209
+	dna="zxobwjnxuci"
+	properties="adebeb00000"
+	health=9
+	religion="catholic"
+	culture="saxon"
+	add_trait="hist_aelle"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+403 = {
+	name="Eadmund" #wess
+	dynasty=100072
+	dna="cagig0jncc0"
+	properties="ai0beabebb0"
+	health=9
+	religion="german_pagan"
+	culture="saxon"
+	add_trait="hist_cerdic"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+404 = {
+	name="Aurelius" #Dumn
+	dynasty=1100210
+	dna="orblvhgxhub"
+	properties="ajpacc00000"
+	health=9
+	religion="sol_christ"
+	culture="romanobrython"
+	add_trait="hist_britconstantine"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+405 = {
+	name="Eanhere" #esse
+	dynasty=1100211
+	dna="gzgcergdzcs"
+	properties="amp0ea00000"
+	health=9
+	religion="pelagian"
+	culture="saxon"
+	add_trait="hist_aescwine"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+406 = {
+	name="Eardulf" #eangli
+	dynasty=1100212
+	dna="cgalcnadbch"
+	properties="0d0ded00000"
+	health=9
+	religion="catholic"
+	culture="saxon"
+	add_trait="hist_raedwald"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+407 = {
+	name="Ivar" #Daneland
+	dynasty=1100213
+	dna="ugacwcrwgcd"
+	properties="aeabab00000"
+	health=9
+	religion="pelagian"
+	culture="danish"
+	add_trait="hist_guthrum"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+408 = {
+	name="Sigfred" #york
+	dynasty=1100214
+	dna="djbfdkdagcv"
+	properties="0j0ddd00000"
+	health=9
+	religion="norse_pagan"
+	culture="danish"
+	add_trait="hist_halfdan"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+409 = {
+	name="Cynewulf" #mercia
+	dynasty=1100215
+	dna="yqxfsnivnca"
+	properties="al00eb00000"
+	health=9
+	religion="pelagian"
+	culture="saxon"
+	add_trait="hist_offa"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+410 = {
+	name="Maldred" #northumb
+	dynasty=1100216
+	dna="cmhmbkdadcw"
+	properties="0d0ddd00000"
+	health=9
+	religion="celtic_christ"
+	culture="saxon"
+	add_trait="hist_oswald"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+411 = {
+	name="Meirion" #strath
+	dynasty=1100217
+	dna="gzcjplkumbx"
+	properties="ad0adb00000"
+	health=9
+	religion="celtic_pagan"
+	culture="brython"
+	add_trait="hist_artgal"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+412 = {
+	name="Maximus" #Bryt
+	dynasty=1100408
+	dna="savfzbsdgbk"
+	properties="agm0aa00000"
+	health=9
+	religion="pelagian"
+	culture="brython"
+	add_trait="hist_artorius"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+413 = {
+	name="Harald" #Orkney
+	dynasty=461
+	dna="dgdcijcigcq"
+	properties="cc0ecd00000"
+	health=9
+	religion="norse_pagan"
+	culture="norwegian"
+	add_trait="hist_rognvald"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+414 = {
+	name="Macbethad" #Fortriu
+	dynasty=1100219
+	dna="eyocbqoxfzc"
+	properties="aj0bba00000"
+	health=9
+	religion="celtic_pagan"
+	culture="pictish"
+	add_trait="hist_findlaech"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+415 = {
+	name="Kenneth" #Alba
+	dynasty=1687
+	dna="vcjysizykzy"
+	properties="aayrdc00000"
+	health=9
+	religion="celtic_christ"
+	culture="scottish"
+	add_trait="hist_fergus"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+416 = {
+	name="Bleddyn" #powys
+	dynasty=548
+	dna="ceilfnidack"
+	properties="cj0ead00000"
+	health=9
+	religion="lugh"
+	culture="welsh"
+	add_trait="hist_mathrafal"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+417 = {
+	name="Gudrød" #westernisl
+	dynasty=556
+	dna="acilcdidbcd"
+	properties="cj0ecd00000"
+	health=9
+	religion="norse_pagan"
+	culture="norwegian"
+	add_trait="hist_ivar"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+418 = {
+	name="Murchad" #thomond
+	dynasty=695
+	dna="ykqzjltaebk"
+	properties="0h0ccd00000"
+	health=9
+	religion="celtic_pagan"
+	culture="irish"
+	add_trait="hist_brian"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+419 = {
+	name="Muiredach" #desmond
+	dynasty=197
+	dna="ryjxlgojebh"
+	properties="gh0efk00000"
+	health=9
+	religion="celtic_pagan"
+	culture="irish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+420 = {
+	name="Ruaidrí" #connacht
+	dynasty=201
+	dna="emqvjkyvbcg"
+	properties="gj0dbk00000"
+	health=9
+	religion="celtic_pagan"
+	culture="irish"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+421 = {
+	name="Bran" #ormond
+	dynasty=1100285
+	dna="fijfmpvteba"
+	properties="em0jbj00000"
+	health=9
+	religion="celtic_christ"
+	culture="irish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+422 = {
+	name="Domnall" #ossory
+	dynasty=101677
+	dna="mwpyihmnycc"
+	properties="ch0sek00000"
+	health=9
+	religion="celtic_christ"
+	culture="irish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+423 = {
+	name="Máél-Dúin" #kildare
+	dynasty=9205
+	dna="wdimsuudwch"
+	properties="0mfeck00000"
+	health=9
+	religion="celtic_christ"
+	culture="irish"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+424 = {
+	name="Áed" #breifne
+	dynasty=4044
+	dna="uuadavxrkox"
+	properties="0bfdbk00000"
+	health=9
+	religion="celtic_christ"
+	culture="irish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+425 = {
+	name="Íomhar" #leinster
+	dynasty=1100286
+	dna="khxilujmzcq"
+	properties="gb0cck00000"
+	health=9
+	religion="norse_pagan"
+	culture="norsegael"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+426 = {
+	name="Ragnar" #dublin
+	dynasty=1100287
+	dna="qqumxzulgcs"
+	properties="eg0cak00000"
+	health=9
+	religion="celtic_christ"
+	culture="norwegian"
+	add_trait="hist_ivar"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+427 = {
+	name="Torfinn" #oriel
+	dynasty=1100288
+	dna="aoegiorlgci"
+	properties="0grdfk00000"
+	health=9
+	religion="norse_pagan"
+	culture="norsegael"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+428 = {
+	name="Sigtryg" #ulster
+	dynasty=1100289
+	dna="epicdsossyn"
+	properties="ce0eck00000"
+	health=9
+	religion="norse_pagan"
+	culture="norsegael"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+429 = {
+	name="Lochlann" #tyrone
+	dynasty=1100290
+	dna="cgzujosigcs"
+	properties="0b0cbk00000"
+	health=9
+	religion="norse_pagan"
+	culture="norsegael"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+430 = {
+	name="Artgal" #tyrconn
+	dynasty=1100291
+	dna="adsuzewbeba"
+	properties="0d0cak00000"
+	health=9
+	religion="celtic_christ"
+	culture="norsegael"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+431 = {
+	name="Gunnar" #isleman
+	dynasty=1100292
+	dna="fkjnropqdqb"
+	properties="cj0sbk00000"
+	health=9
+	religion="norse_pagan"
+	culture="norwegian"
+	add_trait="hist_ivar"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+432 = {
+	name="Thorstein" #iceland
+	dynasty=1100293
+	dna="lsxchsvygcv"
+	properties="cindbd00000"
+	health=9
+	religion="norse_pagan"
+	culture="norwegian"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+433 = {
+	name="Orm" #gotland
+	dynasty=1100294
+	dna="tptoibnqbci"
+	properties="tm0dck00000"
+	health=9
+	religion="norse_war"
+	culture="geat"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+434 = {
+	name="Björn" #halsingl
+	dynasty=497
+	dna="jqfrowbogcl"
+	properties="ei0eck00000"
+	health=9
+	religion="norse_pagan"
+	culture="swedish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+435 = {
+	name="Kolbjörn" #medelpad
+	dynasty=100283
+	dna="krcfuggtlcu"
+	properties="gjzsfk00000"
+	health=9
+	religion="norse_pagan"
+	culture="swedish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+436 = {
+	name="Austmond" #jamtland
+	dynasty=444
+	dna="cecmhxghgcu"
+	properties="0i0ddk00000"
+	health=9
+	religion="norse_pagan"
+	culture="norwegian"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+437 = {
+	name="Thord" #angemarland
+	dynasty=100281
+	dna="fpfzbnqugcj"
+	properties="cj0efk00000"
+	health=9
+	religion="norse_pagan"
+	culture="swedish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+438 = {
+	name="Botulf" #vasterob
+	dynasty=100280
+	dna="uaeukwhogci"
+	properties="cj0dck00000"
+	health=9
+	religion="norse_pagan"
+	culture="swedish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+439 = {
+	name="Njuolla" #lappland
+	dynasty=100279
+	dna="kkdoleglacq"
+	properties="tj0dak00000"
+	health=9
+	religion="norse_pagan"
+	culture="lappish"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+440 = {
+	name="Rhaderic" #trapani
+	dynasty=1100295
+	dna="qnwpzpargct"
+	properties="cd0c0k00000"
+	health=9
+	religion="arian"
+	culture="vandal"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+441 = {
+	name="Witteric" #cagliari
+	dynasty=1100296
+	dna="ncbweqqbpho"
+	properties="cj0egk00000"
+	health=9
+	religion="arian"
+	culture="vandal"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+442 = {
+	name="Valerianus" #corsica
+	dynasty=1100297
+	dna="xrgiunbhtbi"
+	properties="ca0d0k00000"
+	health=9
+	religion="graeco_roman"
+	culture="roman"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+443 = {
+	name="Quintus" #arborea
+	dynasty=1100298
+	dna="tuoxovvgjil"
+	properties="cdws0k00000"
+	health=9
+	religion="graeco_roman"
+	culture="roman"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+444 = {
+	name="Tancred" #malta
+	dynasty=709
+	dna="gfquzxgxbcc"
+	properties="ch0e0k00000"
+	health=9
+	religion="catholic"
+	culture="norman"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+445 = {
+	name="Tariq" #agrigent
+	dynasty=1100299
+	dna="irjkhoyhtgm"
+	properties="nigeck00000"
+	health=9
+	religion="sunni"
+	culture="maghreb_arabic"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+446 = {
+	name="Polyxenios" #rhodos
+	dynasty=1100300
+	dna="qjtguakhaqz"
+	properties="ce0gck00000"
+	health=9
+	religion="sol_apollo"
+	culture="hellenistic"
+	1047.1.2={
+		birth="1047.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+447 = {
+	name="Euthydemus" #chios
+	dynasty=1100301
+	dna="czvfipzjsku"
+	properties="cb0sak00000"
+	health=9
+	religion="neoplato"
+	culture="hellenistic"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+448 = {
+	name="Eirenaios" #lesbos
+	dynasty=1100302
+	dna="gtkltjrdtbk"
+	properties="em0gae00000"
+	health=9
+	religion="graeco_roman"
+	culture="hellenistic"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+449 = {
+	name="Bohemund" #aegean
+	dynasty=362
+	dna="feobylmbkcj"
+	properties="ccychk00000"
+	health=9
+	religion="catholic"
+	culture="norman"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+450 = {
+	name="Járre" #bjarml
+	dynasty=1100303
+	dna="opljnojucdo"
+	properties="gj0ecd00000"
+	health=9
+	religion="finnish_pagan"
+	culture="lappish"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+451 = {
+	name="Arturus" #sarmatobrit
+	dynasty=1100406
+	dna="dfgfecaebcs"
+	properties="aj0aab00000"
+	health=9
+	religion="zal_christ"
+	culture="sarmatobrython"
+	add_trait="hist_artorius"
+	1049.1.2={
+		birth="1049.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+452 = {
+	name="Gudrød" #bernicia
+	dynasty=1100492
+	dna="bgkuoyfqgch"
+	properties="cj0ecd00000"
+	health=9
+	religion="norse_war"
+	culture="norwegian"
+	add_trait="brilliant_strategist"
+	add_trait="hist_ivar"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+453 = {
+	name="Ingvarr" #gilan
+	dynasty=1100493
+	dna="acilcdidgcd"
+	properties="cj0ead00000"
+	health=9
+	religion="norse_war"
+	culture="varangian"
+	add_trait="hist_rurik"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+454 = {
+	name="Magnus" #cornwall
+	dynasty=1100475
+	dna="bdcfegiibcm"
+	properties="aj0aaa00000"
+	health=9
+	religion="mithra_christ"
+	culture="romanobrython"
+	add_trait="hist_artorius"
+	add_trait="brilliant_strategist"
+	add_trait="ambitious"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+455 = {
+	name="Svend" #anglia
+	dynasty=1100494
+	dna="yekuyobxgcx"
+	properties="cjkscd00000"
+	health=9
+	religion="sowilo"
+	culture="danish"
+	add_trait="ambitious"
+	add_trait="hist_sweyn"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+456 = {
+	name="Duncan" #dalriada
+	dynasty=1100495
+	dna="tpeczzijlhk"
+	properties="aj0bbc00000"
+	health=9
+	religion="lugh"
+	culture="scottish"
+	add_trait="ambitious"
+	add_trait="hist_gabran"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+457 = {
+	name="Maelchon" #caledonia
+	dynasty=1100496
+	dna="zpafpmceqcy"
+	properties="gdsccd00000"
+	health=9
+	religion="lugh"
+	culture="pictish"
+	add_trait="hist_calgacus"
+	add_trait="ambitious"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+458 = {
+	name="Owain" #rheged
+	dynasty=1100511
+	dna="whnfiowwbco"
+	properties="cb0scd00000"
+	health=9
+	religion="lugh"
+	culture="brython"
+	add_trait="hist_urien"
+	add_trait="ambitious"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+459 = {
+	name="Rhun" #gwyned
+	dynasty=1100512
+	dna="fanfuqdeebu"
+	properties="cdqsdd00000"
+	health=9
+	religion="celtic_christ"
+	culture="welsh"
+	add_trait="hist_maelgwn"
+	add_trait="ambitious"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}

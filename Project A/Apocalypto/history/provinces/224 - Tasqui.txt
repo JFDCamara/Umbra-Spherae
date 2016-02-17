@@ -1,0 +1,19 @@
+# c_tasqui
+
+# County Title
+title = c_tasqui
+
+# Settlements
+max_settlements = 5
+
+b_tasqui = castle
+#b_tanasi = city
+#b_echota = temple
+#b_itsasa = castle
+#b_ka’nastv’yi = city
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

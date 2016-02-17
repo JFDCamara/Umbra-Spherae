@@ -1,0 +1,19 @@
+# c_uxmal
+
+# County Title
+title = c_uxmal
+
+# Settlements
+max_settlements = 5
+
+b_uxmal_b) = castle
+b_jaina = city
+b_nitun = temple
+#b_xcalumkin = castle
+#b_campeche = city
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

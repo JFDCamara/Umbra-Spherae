@@ -1,0 +1,15 @@
+# c_saugeen
+
+# County Title
+title = c_saugeen
+
+# Settlements
+max_settlements = 1
+
+b_saugeen = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

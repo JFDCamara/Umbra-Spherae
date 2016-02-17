@@ -1,0 +1,15 @@
+# c_chibougamau
+
+# County Title
+title = c_chibougamau
+
+# Settlements
+max_settlements = 1
+
+b_chibougamau = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

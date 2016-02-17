@@ -1,0 +1,15 @@
+# c_popayan
+
+# County Title
+title = c_popayan
+
+# Settlements
+max_settlements = 1
+
+b_popayan = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

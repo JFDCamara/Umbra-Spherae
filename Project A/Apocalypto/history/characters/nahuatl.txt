@@ -1,0 +1,505 @@
+700000 = {
+	name="Acalan"
+	dynasty=1035005
+	religion="aztec"
+	culture="nahuatl"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+700001 = {
+	name="Acolmiztli"
+	dynasty=1035006
+	religion="aztec"
+	culture="nahuatl"
+	father=700022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+700002 = {
+	name="Cacamatzin"
+	dynasty=1035007 
+	religion="aztec"
+	culture="nahuatl"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+700003 = {
+	name="Chimalpopoca"
+	dynasty=1035007
+	religion="aztec"
+	culture="nahuatl"
+	father=700002 #Cacamatzin
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+700004 = {
+	name="Cuetlachtli"
+	dynasty=1035009
+	religion="aztec"
+	culture="nahuatl"
+	father=700005 #Cuixtli
+	mother=700029 #Ohtli
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+700005 = {
+	name="Cuixtli"
+	dynasty=1035009
+	religion="aztec"
+	culture="nahuatl"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=700029 #Ohtli
+    }
+
+}
+
+700006 = {
+	name="Huitzilin"
+	dynasty=1035011
+	religion="aztec"
+	culture="nahuatl"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=700030 #Xocoyotl
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+700007 = {
+	name="Huitzitl"
+	dynasty=1035011
+	religion="aztec"
+	culture="nahuatl"
+	father=700006 #Huitzilin
+	mother=700030 #Xocoyotl
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+700008 = {
+	name="Iquehuacatzin"
+	dynasty=1035012
+	religion="aztec"
+	culture="nahuatl"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+700009 = {
+	name="Itzcoatl"
+	dynasty=1035002
+	religion="aztec"
+	culture="nahuatl"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+700010 = {
+	name="Itzli"
+	dynasty=1035013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="aztec"
+	culture="nahuatl"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+700011 = {
+	name="Matlalihuitl"
+	dynasty=1035014
+	religion="aztec"
+	culture="nahuatl"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+700012 = {
+	name="Maxtla"
+	dynasty=1035015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="aztec"
+	culture="nahuatl"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+700013 = {
+	name="Moctezuma"
+	dynasty=1035016
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="aztec"
+	culture="nahuatl"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+700014 = {
+	name="Necuametl"
+	dynasty=1035017
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="aztec"
+	culture="nahuatl"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+700015 = {
+	name="Nochehuatl"
+	dynasty=1035006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="aztec"
+	culture="nahuatl"
+	father=700022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+700016 = {
+	name="Opochtli"
+	dynasty=1035011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="aztec"
+	culture="nahuatl"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+700017 = {
+	name="Tapayaxi"
+	dynasty=1035004
+	religion="aztec"
+	culture="nahuatl"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+700018 = {
+	name="Tetlepanquetzaltzin"
+	dynasty=1035004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="aztec"
+	culture="nahuatl"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+700019 = {
+	name="Tezozomoc"
+	dynasty=1035008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="aztec"
+	culture="nahuatl"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+700020 = {
+	name="Topiltzin"
+	dynasty=1035003
+	religion="aztec"
+	culture="nahuatl"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+700021 = {
+	name="Yaotl"
+	dynasty=1035002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="aztec"
+	culture="nahuatl"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+700022 = {
+	name="Xicohtencatl"
+	dynasty=1035006
+	religion="aztec"
+	culture="nahuatl"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+700023 = {
+	name="Atotoztli"
+	female=yes
+	dynasty=1035007	
+	religion="aztec"
+	culture="nahuatl"
+	father=700002 #Cacamatzin
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+700024 = {
+	name="Chicahua"
+	female=yes
+	dynasty=1035011
+	religion="aztec"
+	culture="nahuatl"
+	father=700006 #Huitzilin
+	mother=700030 #Xocoyotl
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+700025 = {
+	name="Zipactonal"
+	dynasty=1035010
+	religion="aztec"
+	culture="nahuatl"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+700026 = {
+	name="Coaxoch"
+	female=yes
+	dynasty=1035010
+	religion="aztec"
+	culture="nahuatl"
+	father=700025 #Zipactonal
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+700027 = {
+	name="Etalpalli"
+	female=yes
+	dynasty=1035016	
+	religion="aztec"
+	culture="nahuatl"
+	father=700013 #Moctezuma
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+700028 = {
+	name="Miahuaxiuitl"
+	female=yes
+	dynasty=1035008	
+	religion="aztec"
+	culture="nahuatl"
+	father=700019 #Tezozomoc
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+700029 = {
+	name="Ohtli"
+	female=yes
+	dynasty=1035001	
+	religion="aztec"
+	culture="nahuatl"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=700005 #Cuixtli
+    	}
+}
+
+700030 = {
+	name="Xocoyotl"
+	female=yes
+	dynasty=1035017
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="aztec"
+	culture="nahuatl"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=700006 #Huitzilin
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

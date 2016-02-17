@@ -1,0 +1,15 @@
+# c_ocoroni
+
+# County Title
+title = c_ocoroni
+
+# Settlements
+max_settlements = 1
+
+b_ocoroni = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

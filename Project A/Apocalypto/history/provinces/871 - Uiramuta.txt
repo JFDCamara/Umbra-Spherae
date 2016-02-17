@@ -1,0 +1,15 @@
+# c_uiramuta
+
+# County Title
+title = c_uiramuta
+
+# Settlements
+max_settlements = 1
+
+b_uiramuta = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

@@ -1,0 +1,15 @@
+# c_xcaret
+
+# County Title
+title = c_xcaret
+
+# Settlements
+max_settlements = 1
+
+b_xcaret = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

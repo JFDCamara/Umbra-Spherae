@@ -1,0 +1,17 @@
+# c_hitchiti
+
+# County Title
+title = c_hitchiti
+
+# Settlements
+max_settlements = 3
+
+b_hitchiti = castle
+#b_hitchitudshi = city
+#b_tao = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

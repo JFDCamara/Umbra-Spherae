@@ -1,0 +1,15 @@
+# c_chiputneticook
+
+# County Title
+title = c_chiputneticook
+
+# Settlements
+max_settlements = 1
+
+b_chiputneticook = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

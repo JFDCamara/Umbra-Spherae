@@ -1,0 +1,15 @@
+# c_taviwatsiu
+
+# County Title
+title = c_taviwatsiu
+
+# Settlements
+max_settlements = 1
+
+b_taviwatsiu = castle
+
+# Misc
+culture = shoshone
+religion = numa
+
+#History

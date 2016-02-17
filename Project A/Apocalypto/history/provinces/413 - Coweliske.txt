@@ -1,0 +1,15 @@
+# c_coweliske
+
+# County Title
+title = c_coweliske
+
+# Settlements
+max_settlements = 1
+
+b_coweliske = castle
+
+# Misc
+culture = salish
+religion = shikla
+
+#History

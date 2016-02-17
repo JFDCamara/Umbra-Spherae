@@ -1,0 +1,15 @@
+# c_caguate
+
+# County Title
+title = c_caguate
+
+# Settlements
+max_settlements = 1
+
+b_caguate = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

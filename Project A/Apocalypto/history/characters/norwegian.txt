@@ -1,0 +1,53 @@
+14250 = {
+	name="Thorkell"
+	dynasty=1050000
+	religion="norse_pagan"
+	culture="norwegian"
+	850.1.1={
+		birth="850.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+14251 = {
+	name="Eirik"
+	dynasty=1050000
+	religion="norse_pagan"
+	culture="norwegian"
+	father=14250
+	885.1.1={
+		birth="885.1.1"
+	}
+	935.1.1={
+		death="935.1.1"
+	}
+}
+
+14252 = {
+	name="Håkon"
+	dynasty=1050000
+	religion="norse_pagan"
+	culture="norwegian"
+	father=14250
+	920.1.1={
+		birth="920.1.1"
+	}
+	961.1.1={
+		death="961.1.1"
+	}
+}
+
+14253 = {
+	name="Olav"
+	dynasty=1100137
+	religion="norse_pagan"
+	culture="norwegian"
+	962.1.1={
+		birth="962.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}

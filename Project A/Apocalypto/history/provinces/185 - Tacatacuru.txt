@@ -1,0 +1,15 @@
+# c_tacatacuru
+
+# County Title
+title = c_tacatacuru
+
+# Settlements
+max_settlements = 1
+
+b_tacatacuru = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

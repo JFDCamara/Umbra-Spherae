@@ -1,0 +1,15 @@
+# c_ceara
+
+# County Title
+title = c_ceara
+
+# Settlements
+max_settlements = 1
+
+b_ceara = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

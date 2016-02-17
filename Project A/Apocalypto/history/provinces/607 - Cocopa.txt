@@ -1,0 +1,15 @@
+# c_cocopa
+
+# County Title
+title = c_cocopa
+
+# Settlements
+max_settlements = 1
+
+b_cocopa = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

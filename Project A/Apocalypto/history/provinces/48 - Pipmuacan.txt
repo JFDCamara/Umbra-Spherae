@@ -1,0 +1,15 @@
+# c_pipmuacan
+
+# County Title
+title = c_pipmuacan
+
+# Settlements
+max_settlements = 1
+
+b_pipmuacan = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

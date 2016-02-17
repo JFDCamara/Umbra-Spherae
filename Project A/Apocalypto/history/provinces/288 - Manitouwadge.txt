@@ -1,0 +1,15 @@
+# c_manitouwadge
+
+# County Title
+title = c_manitouwadge
+
+# Settlements
+max_settlements = 1
+
+b_manitouwadge = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

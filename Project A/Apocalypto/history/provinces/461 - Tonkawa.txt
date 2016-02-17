@@ -1,0 +1,15 @@
+# c_tonkawa
+
+# County Title
+title = c_tonkawa
+
+# Settlements
+max_settlements = 1
+
+b_tonkawa = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

@@ -1,0 +1,15 @@
+# c_aruwage
+
+# County Title
+title = c_aruwage
+
+# Settlements
+max_settlements = 1
+
+b_aruwage = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

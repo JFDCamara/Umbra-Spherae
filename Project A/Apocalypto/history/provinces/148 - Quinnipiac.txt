@@ -1,0 +1,15 @@
+# c_quinnipiac
+
+# County Title
+title = c_quinnipiac
+
+# Settlements
+max_settlements = 1
+
+b_quinnipiac = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

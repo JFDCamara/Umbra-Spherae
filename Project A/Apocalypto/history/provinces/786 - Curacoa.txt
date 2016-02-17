@@ -1,0 +1,15 @@
+# c_curacoa
+
+# County Title
+title = c_curacoa
+
+# Settlements
+max_settlements = 1
+
+b_curacoa = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

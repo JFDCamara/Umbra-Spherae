@@ -1,0 +1,15 @@
+# c_kuggaho
+
+# County Title
+title = c_kuggaho
+
+# Settlements
+max_settlements = 1
+
+b_kuggaho = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

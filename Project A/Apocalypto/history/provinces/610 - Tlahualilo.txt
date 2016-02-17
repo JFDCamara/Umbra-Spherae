@@ -1,0 +1,15 @@
+# c_tlahualilo
+
+# County Title
+title = c_tlahualilo
+
+# Settlements
+max_settlements = 1
+
+b_tlahualilo = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

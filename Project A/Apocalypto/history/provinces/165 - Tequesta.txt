@@ -1,0 +1,15 @@
+# c_tequesta
+
+# County Title
+title = c_tequesta
+
+# Settlements
+max_settlements = 1
+
+b_tequesta = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

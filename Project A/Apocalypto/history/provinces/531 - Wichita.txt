@@ -1,0 +1,15 @@
+# c_wichita
+
+# County Title
+title = c_wichita
+
+# Settlements
+max_settlements = 1
+
+b_wichita = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

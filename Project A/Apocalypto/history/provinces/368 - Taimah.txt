@@ -1,0 +1,18 @@
+# c_taimah
+
+# County Title
+title = c_taimah
+
+# Settlements
+max_settlements = 4
+
+b_taimah = castle
+#b_cheghita = city
+#b_nachiche = temple
+#b_khrahune = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

@@ -1,0 +1,15 @@
+# c_tucupita
+
+# County Title
+title = c_tucupita
+
+# Settlements
+max_settlements = 1
+
+b_tucupita = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

@@ -1,0 +1,15 @@
+# c_ndawe_qoha
+
+# County Title
+title = c_ndawe_qoha
+
+# Settlements
+max_settlements = 1
+
+b_ndawe_qoha = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

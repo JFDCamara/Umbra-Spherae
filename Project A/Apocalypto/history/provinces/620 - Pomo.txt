@@ -1,0 +1,15 @@
+# c_pomo
+
+# County Title
+title = c_pomo
+
+# Settlements
+max_settlements = 1
+
+b_pomo = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

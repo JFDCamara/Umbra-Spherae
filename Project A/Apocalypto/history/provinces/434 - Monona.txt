@@ -1,0 +1,15 @@
+# c_monona
+
+# County Title
+title = c_monona
+
+# Settlements
+max_settlements = 1
+
+b_monona = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

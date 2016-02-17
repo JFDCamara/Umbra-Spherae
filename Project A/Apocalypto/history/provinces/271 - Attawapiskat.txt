@@ -1,0 +1,15 @@
+# c_attawapiskat
+
+# County Title
+title = c_attawapiskat
+
+# Settlements
+max_settlements = 1
+
+b_attawapiskat = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

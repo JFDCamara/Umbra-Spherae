@@ -1,0 +1,15 @@
+# c_suechiimma
+
+# County Title
+title = c_suechiimma
+
+# Settlements
+max_settlements = 1
+
+b_suechiimma = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

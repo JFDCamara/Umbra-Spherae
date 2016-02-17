@@ -1,0 +1,18 @@
+# c_niskayuna
+
+# County Title
+title = c_niskayuna
+
+# Settlements
+max_settlements = 4
+
+b_niskayuna = castle
+#b_schanidisse  = city
+#b_osquage  = temple
+#b_schoharie = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

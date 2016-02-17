@@ -1,0 +1,15 @@
+# c_chokio
+
+# County Title
+title = c_chokio
+
+# Settlements
+max_settlements = 1
+
+b_chokio = castle
+
+# Misc
+culture = illinois
+religion = midewiwin
+
+#History

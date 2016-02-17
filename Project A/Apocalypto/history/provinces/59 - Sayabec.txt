@@ -1,0 +1,15 @@
+# c_sayabec
+
+# County Title
+title = c_sayabec
+
+# Settlements
+max_settlements = 1
+
+b_sayabec = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

@@ -1,0 +1,15 @@
+# c_chambas
+
+# County Title
+title = c_chambas
+
+# Settlements
+max_settlements = 1
+
+b_chambas = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

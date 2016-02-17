@@ -1,0 +1,15 @@
+# c_manicouagan
+
+# County Title
+title = c_manicouagan
+
+# Settlements
+max_settlements = 1
+
+b_manicouagan = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

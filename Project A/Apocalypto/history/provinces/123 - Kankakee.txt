@@ -1,0 +1,18 @@
+# c_kankakee
+
+# County Title
+title = c_kankakee
+
+# Settlements
+max_settlements = 4
+
+b_kankakee = castle
+#b_mengakonia = city
+#b_wea = temple
+#b_ouiatenon = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

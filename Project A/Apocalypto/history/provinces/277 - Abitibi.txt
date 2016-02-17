@@ -1,0 +1,15 @@
+# c_abitibi
+
+# County Title
+title = c_abitibi
+
+# Settlements
+max_settlements = 1
+
+b_abitibi = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

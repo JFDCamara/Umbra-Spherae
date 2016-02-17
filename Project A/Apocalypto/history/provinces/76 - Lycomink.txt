@@ -1,0 +1,17 @@
+# c_lycomink
+
+# County Title
+title = c_lycomink
+
+# Settlements
+max_settlements = 3
+
+b_lycomink = castle
+#b_na-tadunk = city
+#b_gawa-no-wananeh = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

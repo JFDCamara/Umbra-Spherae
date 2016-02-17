@@ -1,0 +1,17 @@
+# c_salama
+
+# County Title
+title = c_salama
+
+# Settlements
+max_settlements = 3
+
+b_salama = castle
+b_coban = city
+#b_zacualpa = temple
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

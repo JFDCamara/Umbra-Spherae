@@ -1,0 +1,15 @@
+# c_otoskwin
+
+# County Title
+title = c_otoskwin
+
+# Settlements
+max_settlements = 1
+
+b_otoskwin = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

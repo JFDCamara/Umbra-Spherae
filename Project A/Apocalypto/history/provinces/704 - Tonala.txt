@@ -1,0 +1,17 @@
+# c_tonala
+
+# County Title
+title = c_tonala
+
+# Settlements
+max_settlements = 3
+
+b_tonala = castle
+#b_arriaga = city
+#b_pijijiapan = temple
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

@@ -1,0 +1,16 @@
+# c_seginsavin
+
+# County Title
+title = c_seginsavin
+
+# Settlements
+max_settlements = 2
+
+b_seginsavin = castle
+#b_sanilac = city
+
+# Misc
+culture = illinois
+religion = gagohsa
+
+#History

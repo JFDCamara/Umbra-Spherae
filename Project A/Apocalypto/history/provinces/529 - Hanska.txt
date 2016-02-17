@@ -1,0 +1,15 @@
+# c_hanska
+
+# County Title
+title = c_hanska
+
+# Settlements
+max_settlements = 1
+
+b_hanska = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

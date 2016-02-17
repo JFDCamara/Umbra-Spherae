@@ -1,0 +1,70 @@
+# Exarchate of Ravenna
+# IDs: 11750-11999
+11750 = {
+	name="Honorius"
+	dynasty=1100140
+	religion="mithra_christ"
+	culture="roman"
+	father=11508
+	435.1.1={
+		birth="435.1.1"
+	}
+	487.1.1={
+		death="487.1.1"
+	}
+}
+
+11751= {
+	name="Quintus"
+	dynasty=1100140
+	religion="mithra_christ"
+	culture="roman"
+	471.1.1={
+		birth="471.1.1"
+	}
+	543.1.1={
+		death="543.1.1"
+	}
+}
+
+11752= {
+	name="Marcus"
+	dynasty=1100140
+	religion="mithra_christ"
+	culture="roman"
+	569.1.1={
+		birth="569.1.1"
+	}
+	631.1.1={
+		death="631.1.1"
+	}
+}
+
+11753= {
+	name="Mithraius"
+	dynasty=1100140
+	religion="mithra_christ"
+	culture="roman"
+	734.1.1={
+		birth="734.1.1"
+	}
+	803.1.1={
+		death="803.1.1"
+	}
+}
+
+# Additional Valentinian characters
+11800 = {
+	name="Julia"
+	female=yes
+	dynasty=1100100
+	religion="catholic"
+	culture="roman"
+	add_trait = "hist_valentinian"
+	916.1.1={
+		birth="916.1.1"
+	}
+	959.1.1={
+		death="959.1.1"
+	}
+}

@@ -1,0 +1,17 @@
+# c_cusabo
+
+# County Title
+title = c_cusabo
+
+# Settlements
+max_settlements = 3
+
+b_cusabo = castle
+#b_cheraw = city
+#b_peedee = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

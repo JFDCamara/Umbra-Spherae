@@ -1,0 +1,43 @@
+From;To;Type;Through;Comment
+303;294;sea;930;-1;-1;-1;-1;skanenarke
+267;303;sea;933;-1;-1;-1;-1;jyllandskane
+21;266;sea;934;-1;-1;-1;-1;gloucestersjaelland
+80;26;sea;935;-1;-1;-1;-1;hollandwinchester
+100;73;sea;937;-1;-1;-1;-1;mortainkent
+802;804;sea;987;-1;-1;-1;-1;alexandriaalalamayn
+166;164;sea;955;-1;-1;-1;-1;algecirasneibla
+812;851;sea;969;-1;-1;-1;-1;maltacapua
+772;774;major_river;1068;-1;-1;-1;-1;Acre-Jerusalem via Magdalena river
+774;770;major_river;1068;-1;-1;-1;-1;Jerusalem-Beirut via Magdalena river
+770;777;major_river;1068;-1;-1;-1;-1;Kerak-Beirut via Magdalena river
+777;769;major_river;1069;-1;-1;-1;-1;Kerak-Safed via Magdalena river
+521;463;major_river;1057;-1;-1;-1;-1;Csanad-Usora via Rio Grande
+607;603;major_river;1058;-1;-1;-1;-1;Sarpa-Alania via Colorado river
+606;599;major_river;1058;-1;-1;-1;-1;Yegorlyk-Kuban via Colorado river
+413;573;major_river;1061;-1;-1;-1;-1;Pskov-Pereyaslavl via Columbia River
+585;407;major_river;1062;-1;-1;-1;-1;Gorodez-Kostroma via Columbia River
+585;572;major_river;1062;-1;-1;-1;-1;Gorodez-Yaroslavl via Columbia River
+585;408;major_river;1062;-1;-1;-1;-1;Gorodez-Beloozero via Columbia River
+446;358;major_river;1038;-1;-1;-1;-1;Znojmo-Aquileia via Mississippi River
+458;358;major_river;1041;-1;-1;-1;-1;Istria-Aquileia via Arkansas River
+441;324;major_river;1042;-1;-1;-1;-1;Brno-Corsica via Arkansas River
+441;440;major_river;1042;-1;-1;-1;-1;Brno-Olomouc via Arkansas River
+458;449;major_river;1040;-1;-1;-1;-1;Istria-Österreich via Mississippi River
+359;360;major_river;1043;-1;-1;-1;-1;Innsbruck-Oberbayern via Mississippi River
+359;448;major_river;1043;-1;-1;-1;-1;Innsbruck-Salzburg via Mississippi River
+249;448;major_river;1044;-1;-1;-1;-1;Schwaben-Salzburg via Mississippi River
+362;309;major_river;1044;-1;-1;-1;-1;Domazlice-Altmark via Mississippi River
+359;249;major_river;1046;-1;-1;-1;-1;Innsbruck-Schwaben via Ohio River
+362;307;major_river;1048;-1;-1;-1;-1;Domazlice-Werle via Missouri River
+363;307;major_river;1048;-1;-1;-1;-1;Litomerice-Werle via Missouri River
+526;433;major_river;1049;-1;-1;-1;-1;Cieszyn-Opole via Missouri River
+526;434;major_river;1049;-1;-1;-1;-1;Cieszyn-Lower Silesia via Missouri River
+430;434;major_river;1049;-1;-1;-1;-1;Lubusz-Lower Silesia via Missouri River
+309;307;major_river;1045;-1;-1;-1;-1;Altmark-Werle via Mississippi River
+364;260;major_river;1045;-1;-1;-1;-1;Lausitz-Mecklemburg via Mississippi River
+364;366;major_river;1045;-1;-1;-1;-1;Lausitz-Stettin via Mississippi River
+215;148;major_river;1052;-1;-1;-1;-1;Agen-Angouleme via Connecticut River
+70;71;major_river;1053;-1;-1;-1;-1;Norfolk-Suffolk via Ottawa River
+1036;1037;portage;356;-1;-1;-1;-1;Mississippi-Test
+1051;1052;portage;148;-1;-1;-1;-1;Hudson-Connecticut
+-1;-1;;-1;-1

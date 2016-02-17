@@ -1,0 +1,15 @@
+# c_guacimo
+
+# County Title
+title = c_guacimo
+
+# Settlements
+max_settlements = 1
+
+b_guacimo = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

@@ -1,0 +1,15 @@
+# c_acolapisa
+
+# County Title
+title = c_acolapisa
+
+# Settlements
+max_settlements = 1
+
+b_acolapisa = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

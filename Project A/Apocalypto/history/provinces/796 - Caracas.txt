@@ -1,0 +1,15 @@
+# c_caracas
+
+# County Title
+title = c_caracas
+
+# Settlements
+max_settlements = 1
+
+b_caracas = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

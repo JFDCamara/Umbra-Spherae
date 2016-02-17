@@ -1,0 +1,15 @@
+# c_winona
+
+# County Title
+title = c_winona
+
+# Settlements
+max_settlements = 1
+
+b_winona = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

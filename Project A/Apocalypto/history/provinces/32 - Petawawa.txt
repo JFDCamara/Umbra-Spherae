@@ -1,0 +1,17 @@
+# c_petawawa
+
+# County Title
+title = c_petawawa
+
+# Settlements
+max_settlements = 3
+
+b_petawawa = castle
+#b_awaazisii = city
+#b_wenro  = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

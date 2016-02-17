@@ -1,0 +1,15 @@
+# c_tochtepec
+
+# County Title
+title = c_tochtepec
+
+# Settlements
+max_settlements = 1
+
+b_tochtepec = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

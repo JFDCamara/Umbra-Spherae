@@ -1,0 +1,15 @@
+# c_ammitaalasshe
+
+# County Title
+title = c_ammitaalasshe
+
+# Settlements
+max_settlements = 1
+
+b_ammitaalasshe = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

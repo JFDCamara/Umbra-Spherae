@@ -1,0 +1,15 @@
+# c_karlsefni
+
+# County Title
+title = c_karlsefni
+
+# Settlements
+max_settlements = 1
+
+b_karlsefni = castle
+
+# Misc
+culture = norwegian
+religion = norse_pagan
+
+#History

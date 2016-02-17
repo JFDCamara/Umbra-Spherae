@@ -1,0 +1,15 @@
+# c_finzenu
+
+# County Title
+title = c_finzenu
+
+# Settlements
+max_settlements = 1
+
+b_finzenu = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

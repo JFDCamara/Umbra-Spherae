@@ -1,0 +1,390 @@
+12000 = {
+	name="Aryu"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12001 = {
+	name="Abdu"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12000
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12002 = {
+	name="Fradhasht"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12001
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12003 = {
+	name="Bakru"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12002
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12004 = {
+	name="Bakru"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12003
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12005 = {
+	name="Ma'nu"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12004
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12006 = {
+	name="Abgar"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12005
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12007 = {
+	name="Abgar"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12006
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12008 = {
+	name="Ma'nu"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12007
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12009 = {
+	name="Paqor"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12008
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12010 = {
+	name="Abgar"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12009
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12011 = {
+	name="Abgar"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12010
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12012 = {
+	name="Ma'nu"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12011
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12013 = {
+	name="Abgar"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12012
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12014 = {
+	name="Ma'nu"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12012
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12015 = {
+	name="Abgar"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12014
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12016 = {
+	name="Ma'nu"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12015
+	10.1.1={
+		birth="10.1.1"
+	}
+	57.1.1={
+		death="57.1.1"
+	}
+}
+
+12017 = {
+	name="Ma'nu"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12015
+	25.1.1={
+		birth="25.1.1"
+	}
+	71.1.1={
+		death="71.1.1"
+	}
+}
+
+12018 = {
+	name="Abgar"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12017
+	52.1.1={
+		birth="52.1.1"
+	}
+	91.1.1={
+		death="91.1.1"
+	}
+}
+
+12019 = {
+	name="Abgar"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12018
+	68.1.1={
+		birth="68.1.1"
+	}
+	116.1.1={
+		death="116.1.1"
+	}
+}
+
+12020 = {
+	name="Yalur"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12019
+	90.1.1={
+		birth="90.1.1"
+	}
+	122.1.1={
+		death="122.1.1"
+	}
+}
+
+12021 = {
+	name="Ma'nu"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12020
+	100.1.1={
+		birth="100.1.1"
+	}
+	139.1.1={
+		death="139.1.1"
+	}
+}
+
+12022 = {
+	name="Ma'nu"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12021
+	118.1.1={
+		birth="118.1.1"
+	}
+	163.1.1={
+		death="163.1.1"
+	}
+}
+
+12023 = {
+	name="Wa'il"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12022
+	140.1.1={
+		birth="140.1.1"
+	}
+	165.1.1={
+		death="165.1.1"
+	}
+}
+
+12024 = {
+	name="Ma'nu"
+	dynasty=1100377
+	religion="beelshamen"
+	culture="syroaramean"
+	father=12022
+	159.1.1={
+		birth="159.1.1"
+	}
+	167.1.1={
+		death="167.1.1"
+	}
+}
+
+12025 = {
+	name="Abgar"
+	dynasty=1100377
+	religion="nestorian"
+	culture="syroaramean"
+	father=12022
+	160.1.1={
+		birth="160.1.1"
+	}
+	177.1.1={
+		death="177.1.1"
+	}
+}
+
+12026 = {
+	name="Abgar"
+	dynasty=1100377
+	religion="nestorian"
+	culture="syroaramean"
+	father=12022
+	162.1.1={
+		birth="162.1.1"
+	}
+	212.1.1={
+		death="212.1.1"
+	}
+}
+
+12027 = {
+	name="Abgar"
+	dynasty=1100237
+	religion="nestorian"
+	culture="syroaramean"
+	father=12022
+	163.1.1={
+		birth="163.1.1"
+	}
+	225.1.1={
+		death="225.1.1"
+	}
+}

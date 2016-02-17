@@ -1,0 +1,15 @@
+# c_orayvi
+
+# County Title
+title = c_orayvi
+
+# Settlements
+max_settlements = 1
+
+b_orayvi = castle
+
+# Misc
+culture = navajo
+religion = kachina
+
+#History

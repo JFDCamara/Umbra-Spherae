@@ -1,0 +1,15 @@
+# c_baahpuuo
+
+# County Title
+title = c_baahpuuo
+
+# Settlements
+max_settlements = 1
+
+b_baahpuuo = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

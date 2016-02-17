@@ -1,0 +1,15 @@
+# c_mokita
+
+# County Title
+title = c_mokita
+
+# Settlements
+max_settlements = 1
+
+b_mokita = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

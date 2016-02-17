@@ -1,0 +1,18 @@
+# c_dzibilchaltun
+
+# County Title
+title = c_dzibilchaltun
+
+# Settlements
+max_settlements = 4
+
+b_dzibilchaltun = castle
+b_komchen = city
+b_merida = temple
+#b_chochola = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

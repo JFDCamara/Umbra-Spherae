@@ -1,0 +1,20 @@
+# c_copan
+
+# County Title
+title = c_copan
+
+# Settlements
+max_settlements = 6
+
+b_copan = castle
+b_macuelizo = city
+b_zacapa = temple
+#b_chiquimula = castle
+#b_oxwitiki = city
+#b_towitiki = temple
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

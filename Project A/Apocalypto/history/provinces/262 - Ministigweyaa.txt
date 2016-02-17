@@ -1,0 +1,17 @@
+# c_ministigweyaa
+
+# County Title
+title = c_ministigweyaa
+
+# Settlements
+max_settlements = 3
+
+b_ministigweyaa = castle
+#b_waabgankiishk = city
+#b_mtigoonong = temple
+
+# Misc
+culture = illinois
+religion = gagohsa
+
+#History

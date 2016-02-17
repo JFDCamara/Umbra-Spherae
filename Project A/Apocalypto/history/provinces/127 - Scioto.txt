@@ -1,0 +1,17 @@
+# c_scioto
+
+# County Title
+title = c_scioto
+
+# Settlements
+max_settlements = 3
+
+b_scioto = castle
+#b_chillicothe = city
+#b_coongalees = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

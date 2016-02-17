@@ -1,0 +1,15 @@
+# c_yanomami
+
+# County Title
+title = c_yanomami
+
+# Settlements
+max_settlements = 1
+
+b_yanomami = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

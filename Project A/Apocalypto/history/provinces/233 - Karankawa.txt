@@ -1,0 +1,15 @@
+# c_karankawa
+
+# County Title
+title = c_karankawa
+
+# Settlements
+max_settlements = 1
+
+b_karankawa = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

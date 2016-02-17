@@ -1,0 +1,998 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+
+north_germanic = {
+	graphical_culture = westerngfx
+
+	swedish = {
+		graphical_culture = norsegfx
+		
+		color = { 0.25 0.5 0.75 }
+		
+		male_names = {
+			Albrikt_Albert Alf_Alf Algot Anders_Andrew Anund_Anund Arnbjörn Arne_Arne Arnfast Asbjörn_Asbjörn Astrad Azur Bagge Balder_Balder Bengt_Benedict Bertil Birger Björn_Beorn Bo Borkvard Botulf Brage_Brage Bror 
+			Brynjolf Dag Dan Dyre Egil_Egil Einar_Einar Emund Erik_Erik Eskild Faste Fredrik_Frederick Filip_Philip Folke_Folke Frej_Frej Georg_George Greger_Gregory Grim_Grim Gudröd_Gudröd Gunnar_Gunnar Gustav Halsten Hans_Hans Harald_Harold
+			Helgi_Helge Henrik_Henry Hjalmar_Hjalmar Holmger Håkan_Hakon Inge Ingemar Ingvar_Ingvar Jedvard_Edward Johan_John Karl_Charles Kettil Kettilmund Klas Knut_Knut Kol Kolbjörn Lars_Laurence Magnus_Magnus Markus_Marcus 
+			Mats_Matthew Nils_Nicholas Niklas_Nicholas Odd_Odd Olaf_Olaf Orvar_Orvar Peder_Peter Ragnar_Ragnar Rolf_Rolf Rörek_Rurik Ragnvald_Ragnvald Sämund_Sämund Sörkver Sigbjörn Sigtrygg Sigurd_Sigurd Starkad_Starkad Sten_Sten Styrbjörn Sune_Sune Sven_Sven
+			Sverker Sölvi_Sölve Thomas_Thomas Tjudmund_Tjudmund Toke_Toke Tolir Torbjörn_Torbjörn Tord_Tord Torbrand_Torbrand Torfinn_Torfinn Torkel_Torkel Torolf_Thorolf Torsten_Torsten Toste Totil Tyke Ulf_Ulf Valdemar_Vladimir Åke Östen_Eysteinn
+		}
+		female_names = {
+			Aleta Alfhild Alfridh_Alfridh Anna_Anna Asta_Asta Astrid_Astrid Beata Birgitta_Brigid Bothild_Bothild Cecilia_Cecilia Edla Elin Elisabet_Elisabeth Freja_Freja Gunhild_Gunhild Gyla Gurli Gytha_Gytha Hafrid 
+			Helena_Helen Holmfrid Iliana Inga_Inge Ingeborg_Ingeborg Ingegerd_Ingegerd Ingfrid Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kristina_Christina Linda Maer Malmfrid_Malmfrid
+			Margareta_Margaret Märta_Martha Ragnfrid_Ragnfrid Ragnhild_Ragnhild Rikissa Saga Sara_Sarah Sigrid_Sigrid Sofia_Sophia Svanhild_Svanhild Thordis_Thordis Ulvhilde Ylva Åsa_Åsa
+		}
+
+		from_dynasty_prefix = "af "
+		
+		male_patronym = "sson"
+		female_patronym = "sdotter"
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	norwegian = {
+		graphical_culture = norsegfx
+		
+		color = { 0.2 0.45 0.65 }
+		
+		male_names = {
+			Åle Åmund Ølver Alv_Alf Arne Arnfinn Arnkjell Arnmod Arnvid Aslak Audun Bård Bjørn_Beorn Eigil_Egil Eilif Einar Eirik_Erik Erlend Erling Eystein_Eysteinn Finn
+			Grim Gudbrand Gudleik Gudmund Gudrød Gunnar Guttorm Håkon_Hakon Håvard Haldor Halfdan Halkjell Harald_Harold Helge_Helge Inge Ivar Jon_John Kåre Kolbein Lodin
+			Magnus_Magnus Ogmund Olav_Olaf Orm Ossor Ottar Pål_Paul Ragnvald Sigurd Skjalg Skofte Skule Svein_Sven Sverre Torbjørn_Torbjörn Tore Torfinn Torgeir Torgil_Torkel
+			Tormod Torstein Trond Tryggve Ulv_Ulf Vigleik Øystein_Eysteinn
+		}
+		female_names = {
+			Åshild Åsta_Asta Astrid_Astrid Brigida_Brigid Cecilia_Cecilia Eldrid Gjertrud_Gertrude Gudrid Gudrun_Gudrun Gunnhild_Gunhild Gyda Gyrid Haldora Homlaug Ingebjørg Ingjerd Ingrid_Ingrid Jorunn
+			Karin_Catherine Kristina_Christina Margrete_Margaret Maria_Maria Ragna Ragnhild Rannveig Sigrid_Sigrid Snøfrid Sunniva Svanhild Thora_Thora Thorborg
+		}
+		
+		from_dynasty_prefix = "av "
+		
+		male_patronym = "sson"
+		female_patronym = "sdatter"
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	danish = {
+		graphical_culture = norsegfx
+		
+		color = { 0.15 0.4 0.55 }
+		
+		male_names = {
+			Abel Anders_Andrew Anund_Anund Asger Balder_Balder Benedikt_Benedict Bjørn_Beorn Bo Christian_Christian Christoffer_Christopher Edvard_Edward Einar_Einar Erik_Erik Ernst_Ernest Esben Fredrik_Frederick Frej_Frej Frode_Frode Glum Gnupa_Gnupa Gorm_Gorm Gotfred_Godfrey Gregers_Gregory Grim_Grim Gunnar_Gunnar
+			Hårik Halfdan Halvor Hans_Hans Harald_Harold Helge_Helge Hemming Henrik_Henry Hjalmar Holger Inge Ingolf Jørgen Jørn Jakob_Jacob Jens Joakim Johann_John Karl_Charles Knud_Knut
+			Kristian_Christian Leif Lennart Ludvig_Louis Malthe Mads_Matthew Mikkel_Michael Mogens Niels_Nicholas Odd_Odd Olav_Olaf Oluf_Olaf Peder_Peter Poul Pridbjørn Ragnar_Ragnar Ragnvald_Ragnvald Rolf_Rolf Rune Rørik_Rurik Severin Sigfred Sigtryg Sigurd_Sigurd 
+			Sivard Steen Svend_Sven Sämund_Sämund Thorolf_Thorolf Thorvald Torben Torbjørn_Torbjörn Tord_Tord Torfinn_Torfinn Torgils_Torkel Ture Ubbe Uffe Ulf_Ulf Valdemar_Vladimir Valentin_Valentin Vilfred Yngvar_Ingvar
+		}
+		female_names = {
+			Agnethe Anna_Anna Asta_Asta Benedikte_Benedicta Birgitta_Brigid Bodil Cecilie_Cecilia Christina_Christina Dagmar Dorothea_Dorothy Elisabeth_Elisabeth Ellinor_Eleanor Emilie_Emily Erika Ester Estrid_Astrid Frederikke_Frederique Freja_Freja
+			Grethe Gudrun_Gudrun Gunhild_Gunhild Gyda_Gytha Helena_Helen Ida_Ida Ingeborg_Ingeborg Ingegerd_Ingegerd Ingrid_Ingrid Johanne Jutta Karin_Catherine Karoline Katarina_Catherine Katrine_Catherine Kirsten Klara Lise_Elisabeth Luitgard Lykke
+			Magdalene_Magdalena Maren Margrethe_Margaret Maria_Maria Martha_Martha Ragnfrid_Ragnfrid Ragnhild_Ragnhild Rikissa Runa Sanna Signe Sigrid_Sigrid Silje Sofie_Sophia Svanhild_Svanhild Thyra_Thyra Tora_Thora Thordis_Thordis Åse_Åsa
+		}
+	
+		from_dynasty_prefix = "af "
+		
+		male_patronym = "sen"
+		female_patronym = "sdatter"
+		prefix = no
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+	}
+}
+
+west_germanic = {
+	graphical_culture = westerngfx
+
+	english = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+		male_names = {
+			Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher David_David Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Geoffrey George_George Gerald_Gerald Gilbert_Gilbert
+			Gregory_Gregory Guy_Guy Henry_Henry Hugh_Hugh Humphrey John_John Jordan_Jordan Laurence_Laurence Lionel Mark_Marcus Martin_Martin Matthew_Matthew Maurice Michael_Michael Nicholas_Nicholas Paul_Paul Peter_Peter Philip_Philip
+			Ralph_Ralph Randolph_Ralph Reginald Richard_Richard Robert_Robert Roger_Roger Simon_Simon Stephen_Stephen Theobald_Theobald Thomas_Thomas Walter_Walter William_William
+		}
+		female_names = {
+			Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia Charity Constance_Constance Dorothy_Dorothy Edith_Edith Eleanor_Eleanor Elizabeth_Elisabeth Emma_Emma Grace Isabel_Elisabeth
+			Isabella_Elisabeth Joan_Joan Joanna_Joan Juliana_Juliana Margaret_Margaret Mary_Maria Matilda_Matilda Maud_Matilda Philippa_Philippa Sybilla_Sibylla
+		}
+		from_dynasty_prefix = "of "
+		bastard_dynasty_prefix = "Fitz"
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	dutch = {
+		graphical_culture = germangfx
+		graphical_unit_culture = western
+		
+		color = { 0.8 0.4 0.2 }
+		
+		male_names = {
+			Adriaen Albrecht_Albert Alwin Ambroos Antoon Arnold_Arnold Arnulf_Arnulf Balderik Barend Barnaerd_Bernard Bartolomeus_Bartolomeus
+			Bertold Boudewijn_Baldwin Claes_Nicholas Claeuwaert Daevit_David Damaes Diederick_Thierry Dirk_Thierry Douwe Eduard_Edward Egmund
+			Emmo Engelbrecht Filips_Philip Floris Frans_Francis Frederik_Frederick Gerard_Gerard Gerolt Gerulf
+			Gerrit Gijsbrecht Giselbert_Gilbert Godfried_Godfrey Godschalk Guij_Guy Gwijde_Gwijde Hendrik_Henry Herman_Herman Hubert
+			Hugo_Hugh Ijsbrand Ijsbrecht Jacco_Jacob Jacob_Jacob Jan_John Karel_Charles Koenraad_Konrad
+			Kristof_Christopher Lambert_Lambert Lodewijk_Louis Ludewijn Lutbert Luthard Maertijn_Martin Niclaes_Nicholas
+			Olivier_Oliver Otto_Otto Otwin Onno Pieter_Peter Reinaerd Reinoud_Reinhold Robrecht_Robert Robert_Robert Rodulf 
+			Roelof Roland Rutger Sebastiaen_Sebastian Simon_Simon Steven_Stephen Steyn_Sten Theodolf Waelram Walter_Walter
+			Willem_William Wolfard
+		}
+		female_names = {
+			Ada Adela_Adela Adelheid_Adelaide Aechte Agaete Aleid Alijse_Alice Aliken Anna_Anna Annelies Badeloge Bava Beatrijs_Beatrice Benedicta_Benedicta
+			Blanca_Blanche Blanceflore Cecily_Cecilia Cille Clara_Clara Clementia Elisabeth_Elisabeth Ellijnore_Eleanor Emma_Emma Ermingarde_Ermengarde Fenne
+			Filippa_Philippa Frida Gheertrude_Gertrude Gerda Godila Haduwijn Helena_Helen Herlinda Hilligonda Ide_Ida Imagina Irene_Irene Isabelle_Elisabeth Iudith
+			Jacoba Jaccobijn Jasminne Johanna_Joan Jolanda Juliana_Juliana Jutte Kathrijne_Catherine Katrien_Catherine Liedwin Lisebet_Elisabeth Machtelt Margareta_Margaret
+			Maria_Maria Mathilde_Matilda Oda Odelt Olinde Onna Pieternelle_Petronilla Reynilde Sanne Sigerda Sophie_Sophia Swanhildis Thetburga_Tiburge Waltrud
+			Wila Wendelmoet Wenna Willemine Yonefij Yvonne_Yvonne Zoete
+		}
+		
+		from_dynasty_prefix = "van "
+		
+		male_patronym = "szoon"
+		female_patronym = "sdochter"
+		prefix = no
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+	german = {
+		graphical_culture = germangfx
+		
+		color = { 0.5 0.5 0.5 }
+
+		male_names = {
+			Adam_Adam Adolf Albrecht_Albert Amadeus Andreas_Andrew Anselm Arnold_Arnold Arnulf_Arnulf Augustin 
+			Baldemar Baldewin_Baldwin Berengar_Berengar Bernhard_Bernard Berthold Bruno Burchard Caspar Christopher_Christopher
+			Diether Dietmar Dietpold Dietrich_Thierry Dietwin Eberhard Eckhard Ehrenfried Ekbert
+			Engelbrecht Erich_Erik Ernst_Ernest Folkmar Franz_Francis Friedrich_Frederick Gebhard Georg_George
+			Gerhard Gerlach Giselbert_Gilbert Gottfried_Godfrey Gotthard Gottschalk Gotzelo Guntram Günzel Hartmann Hartwig 
+			Heinrich_Henry Herbert Hermann_Herman Hesso Hugo_Hugh Humbert_Humbert Jakob_Jacob Johann_John Karl_Charles Karloman
+			Konrad_Konrad Kuno_Konrad Lambert_Lambert Leopold Lothar_Lothaire Ludolf Ludwig_Louis Magnus_Magnus
+			Manfred Markward Martin_Martin Mathias_Matthew Meinhard Michael_Michael Nikolaus_Nicholas Norbert Ordulf Otto_Otto
+			Peter_Peter Philipp_Philip Poppo Rudger_Roger Reinhard Rudolf Ruprecht_Robert Siegfried Sieghard Siegmund_Sigmund
+			Simon_Simon Stefan_Stephen Theodorich_Theodore Thietmar Thomas_Thomas Udo Ulrich_Ulrich Viktor Waldemar_Vladimir Walram
+			Walther_Walter Wenzel_Vaclav Werner Wilhelm_William Wolfgang Wolfram
+		}
+		female_names = {
+			Adela_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalie_Amelia 
+			Barbara Beatrix_Beatrice Benedicta_Benedicta Berchte Berta Binhilde Brunhilde_Brunhilda Cecilie_Cecilia Cothilda_Clotilde Christine_Christina
+			Dorothea_Dorothy Elisabeth_Elisabeth Emma_Emma Engeltraud Ermengard_Ermengarde Eufemia Friedrica_Frederique Frida 
+			Gerberga_Gerberga Gerhild Gertrude_Gertrude Gisela_Gisela Gudrun_Gudrun Gunhilda_Gunhild Hedwig Heilwiva Heike Helene_Helen 
+			Helga Henrike Hildeburg Hildegard_Hildegard Ida_Ida Ilsa Inge_Inge Irmele Irmeltrud Irmgard_Ermengarde Isentrude
+			Judith_Judith Jutte Katharina_Catherine Karlotte Klara Klementia_Clementia Konstanze_Constance
+			Margarete_Margaret Maria_Maria Mathilde_Matilda Oda Richara_Ricarda Richenza Romilda 
+			Serhilda Sofie_Sophia Sybille_Sibylla Trude Ulrike Ursula Ute Walpurga Wilhelmina Winfrida Wulfhilde
+		}
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+}
+
+latin = {
+	graphical_culture = westerngfx
+
+	frankish = {
+		graphical_culture = frankishgfx
+		
+		color = { 0.8 0.8 0.2 }
+		male_names = {
+			Édouard_Edward Érrard Étienne_Stephen Adémar Adrien Aimery_Aymeric Alain_Alan Aldebert_Albert Aldéric Alphonse_Alphonse
+			Amédée Ancel André_Andrew Antoine_Antoninus Archambaud_Archibald Arnaud_Arnold Arnault_Arnold Aubry Barthélémi_Bartolomeus
+			Benoît_Benedict Bérenger_Berengar Bernard_Bernard Bertrand_Bertrand Bouchard Centule_Centule Charles_Charles
+			Enguerrand Eudes_Otto Eustache_Eustace Evrard Foulques_Folke François_Francis Frédéric_Frederick Géraud_Gerald Gargamel Gaucher Gaucelin_Joscelin
+			Gauthier_Walter Geoffroy_Godfrey Géraud_Gerard Gelduin Gilbert_Gilbert Gilles_Egidius Godefroy_Godfrey Guichard Guiges Guillaume_William
+			Guy_Guy Hélie Henri_Henry Herbert Hugues_Hugh Humbert_Humbert Jacques_Jacob Jaufré_Godfrey Jaspert Jean_John Josselin_Joscelin
+			Jourdain_Jordan Julien_Julian Léon Léonard Louis_Louis Loup_Lupo Manassès Mathieu_Matthew Maurice Nicolas_Nicholas Ogier Onfroy Orson
+			Payen_Pagan Philippe_Philip Pierre_Peter Raimbaut Raoul_Ralph Raymond_Raymond Raynaud_Reinhold Renaud_Reinhold Richard_Richard Robert_Robert Robin Roger_Roger
+			Rorgon Rorgues Roubaud Savary Simon_Simon Thibault_Theobald Thiébaut_Theobald Thierry_Thierry Thomas_Thomas Valeran Yves
+		}
+		female_names = {
+			Éléonore_Eleanor Élodie Étiennette Adèle_Adela Adalmode_Almodis Adelaide_Adelaide Adelinde Agathe_Agatha Agnès_Agnes Aléarde Alice_Alice Aliénor_Eleanor
+			Alix_Alice Almodis_Almodis Amelie_Amelia Anne_Anna Antoinette Arsinde_Arsenda Aude Béatrice_Beatrice Béatrix_Beatrice Benoîte Bérengère
+			Berthe Blanche_Blanche Bonne_Bonne Cécile_Cecilia Cathèrine_Catherine Charlotte Constance_Constance Denise Douce_Douce Echive Eglantine
+			Elisabeth_Elisabeth Emma_Emma Ermengarde_Ermengarde Ermessinde_Ermesinda Esclarmonde_Esclarmunda Euphrosine_Euphrosyne Eustachie Eve_Eva Gerberge_Gerberga
+			Gisèle_Gisela Guillaumette Héloise_Eloise Helvis Hodierne Ide_Ida Ida_Ida Ildégarde_Hildegard Isabeau_Elisabeth Isabelle_Elisabeth Jeanne_Joan Judith_Judith
+			Julienne_Juliana Mafalda Mahaut_Mahaut Margot Marguerite_Margaret Marie_Maria Marthe_Martha Mascarose_Mascarosa Mathilde_Matilda Mélisande_Melisende
+			Mélisende_Melisende Mélusine Péronelle_Peronella Pernelle_Peronella Perinne Pernette Plaisance_Plaisance Raymonde Sarrazine Solène Sophie_Sophia
+			Stéphanie_Stephania Sybille_Sibylla Tiburge_Tiburge Valence_Yolanda Yolande_Yolanda 
+		}
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+
+		modifier = default_culture_modifier
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+	italian = {
+		graphical_culture = southerngfx
+		second_graphical_culture = occitangfx # Fallback type
+		
+		color = { 0.7 0.7 0.1 }
+
+		male_names = {
+			Abbondanzio Abbondio Abelino Achille Adalberto_Albert Adelfo Adelmio Adelmo Adone Adriano Agapito Agostino Aimone Alamanno
+			Albano Alberico Alberto_Albert Albino Alboino Alcide Aldobrandino Aleardo Aleramo Alessandro_Alexander Alessio Alighiero Alvise Ambrogio Amedeo Anastasio  Andrea_Andrew Angelo_Angel Annibale Anselmo Antonino_Antoninus Antonio_Antoninus Antoniotto Arcibaldo Artemio Ascanio
+			Attilio Augusto Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino_Baldwin Barnaba Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso
+			Battista Beltrano Benedetto_Benedict Benvenuto Berardo Bernabò_Bernard Bernardo_Bernard Berto Bertoldo Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno Bruto Buonconte
+			Buoso Callisto Camillo_Camillus Candido Cangrande Carlo Cassio Castore Cataldo Cesare Chiaffredo Chiano Ciuccio Claudio Clemente_Clement
+			Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma Costante Costantino Costanzo Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Doménico_Dominic
+			Durante Eduardo_Edward Elio Emmanuele_Manuel Ennio Enrico_Henry Enzio Enzo Ercole Eriprando Ermenegildo Ettore Eugenio_Eugene Ezio Ezzelino Fabrizio Federigo_Frederick
+			Felice_Felix Ferdinando_Ferdinand Ferruccio Filippo_Philip Fiorello Flavio Folco_Folke Fortunato Fosco Francesco_Francis Fresco Gabriele Gabrino Gaetano Galasso Galeazzo
+			Galeotto Gaspare Gastone_Gaston Gelasio Gentile Geraldo_Gerald Gerardo_Gerard Germano Gerolamo Gherardo Giacinto Giacomo Gian Gianfranco Gianleone Giano
+			Giberto Gilberto_Gilbert Giolio Giordano Giorgio_George Giovanni Giulio Giuseppe Goffredo_Godfrey Gregorio_Gregory Gualtiero Guarnito Guerrino Guglielmo Guido_Guy Guidone_Guy
+			Guigliadore Iacopo Igino Innocenzo Ippolito Jacopo_Jacob Lamberto_Lambert Landolfo Landone Lanfranco Lattanzio Lazzarino Lazzaro
+			Lealdo Leonardo Leone_Leo Leonello Leopoldo Libero Lionello Livio Lodovico Lorenzo Luca Luchino Lucio_Lucius Luigi Malacresta Manfredo Manuele_Manuel
+			Marco_Marcus Mariano_Marius Marino Mario_Marius Marsiglio Martino_Martin Massimo Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno Nestore Niccolò Nicola
+			Nolfo Oberto Obizzo Omero Onorio Oreste Orlando Ottavio Ottobono Ottone_Otto Pagano Pancrazio Pandolfo Paolo Pasquale_Pascal
+			Patrizio_Patrick Pellegrino Pericle Pietro_Peter Pio Prospero Rafaello Radul Raimondo_Raymond Rainero Raineri Riccardo_Richard Rinaldo_Reinhold Rizzardo Roberto_Robert Rodolfo Rolando
+			Rosso Ruggiero Salinguerra Salvatore Salvestro Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino Sergio Sesto Settimio Severino Severo
+			Silvano Silvestro Simone_Simon Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano_Stephen Stentore Taddeo Tedaldo Tedice Teodoro Tibaldo_Theobald Tiziano Tommaso
+			Torgodorio Torquato Ubaldo Uberto Ugo_Hugh Ugoccione Ugolino Umberto_Humbert Urbano Valentino_Valentin Valerio Vincentello Vincenzo_Vincent Virginio Vitale Vittore Vittorio Zaccaria
+		}
+		female_names = {
+			Abelina Adalberta Adalgisa Adelaida_Adelaide Adelasia Adelia_Adela Adriana Agalina Agnese_Agnes Agostina Albina Alda Alessandra Alfonsina Alisia_Alice Aloisia
+			Amalia_Amelia Ambrosia Anastasia_Anastasia Anna_Anna Antonella Antonia Argentina Augusta Aurelia Ausilia Ausonia Beatrice_Beatrice Benedetta_Benedicta Benilde Berenice
+			Berta Bianca_Blanche Bona_Bonne Camilla Candida Caracosa Carla Carola Caterina_Catherine Cecilia_Cecilia Clara_Clara Claudia Clorinda 
+			Clotilde_Clotilde Constanza_Constance Cornelia Delinda Dora Edda Elena_Helen Eleonora_Eleanor Elisa_Elisabeth Elisabetta_Elisabeth Ermenegilda Eudossia Eugenia
+			Fausta Felicia Felicita Filippa_Philippa Filomena Flavia Flora_Flora Fortunata Fosca Francesca_Francesca Froizza Giacinta Ginevra Giovanna Giuditta Giulia_Juliana 
+			Giuseppa Ippolita Isabella_Elisabeth Joscella Laura_Laura Lavinia Leonide Letizia Lidia Livia Lodovica Lucia_Lucia Lucinetta Lucrezia Maddalena_Magdalena Marcella 
+			Margherita_Margaret Maria_Maria Mariana Marietta Martina Matilda_Matilda Micaela Nunzia Paola_Paula Patrizia_Patricia Renata Ricciarda_Ricarda Silvana
+			Sofia_Sophia Stefania_Stephania Tiziana Tomasina Valentina Violante_Yolanda Virginia
+		}
+		from_dynasty_prefix = "di "
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+iberian = {
+	graphical_culture = occitangfx
+
+	castillan = {
+		graphical_culture = southerngfx
+		
+		color = { 0.4 0.7 0.5 }
+
+		male_names = {
+			Alfonso_Alphonse Alonso_Alphonse Álvar_Oliver Álvaro_Oliver Andrés_Andrew Ansur Antonio_Antoninus Antonino_Antoninus Arias Artal_Artal Aurelio_Aurelius Aznar_Aznar Beltrán_Bertrand Benito_Benedict Berenguel_Berengar Bernardo_Bernard Blasco_Vasco Diego_Jacob Domingo_Dominic Enrique_Henry Esteban_Stephen Facundo Fadrique_Frederick
+			Felipe_Philip Fernán_Ferdinand Fernando_Ferdinand Flaín Fruela Galindo_Galindo García_Garcia Gil_Egidius Gómez_Gomez Gonzalo_Gonzalo Gundemaro Guillén_William Guillermo_William Gustio
+			Gutierre Guzmán Hermenegildo Jacobo_Jacob Jaime_Jacob Jimeno_Simon Juan_John Juan-Alfonso_John-Alphonse Julián_Julian Lorenzo_Laurence Lope_Lupo Luis_Louis Manrique_Amalric Manuel_Manuel
+			Martín_Martin Menendo_Mendo Mendo_Mendo Muño_Munio Nuño_Nuno Osorio Ordoño_Ordono Oveco Pedro_Peter Pelayo_Pelagius Piñolo Ponce_Pons Raimundo_Raymond Ramiro_Ramiro Ramón_Raymond Rodrigo_Roderick Román_Roman Rosendo Salvador_Salvador Sancho_Sancho
+			Sebastián_Sebastian Tello_Tello Teobaldo_Theobald Vela Velasco_Vasco Vermudo_Vermudo
+		}
+		female_names = {
+			Adosinda Aldonza_Aldonza Alduara_Alduara Anderquina Andregoto Aragonta Argilo Arsenda_Arsenda Aurovita Ava Beatriz_Beatrice Benita Berenguela Blanca_Blanche Brígida_Brigid Constanza_Constance Corexia Cristina_Christina Dalia Dueña Dulce_Douce Elvira Emilia_Emily Ermengarda_Ermengarde Ermesinda_Ermesinda Eslonza Estefanía_Stephania Eulalia Eva_Eva Eylo Fronilda_Fronilde Gaudiosa Godo Gontroda Gotina_Gotina Guina Guiomar Inés_Agnes Isabel_Elisabeth Jimena Juana Juliana_Juliana Justa Leonor_Eleanor
+			Lopa_Lopa Mafalda Margarita_Margaret María_Maria Marina_Marine Marquesa Matrona
+			Mayor_Mayor Mencía_Mencia Milia Muña Muñadona_Mumadona Nicor Nuñadona Ónega Petronila_Petronilla Sancha_Sancha Sol Tegridia Teresa_Teresa Toda_Toda Urraca_Urraca
+			Usenda Varela Velasquita Viscavlara
+			Violante_Yolanda
+		}
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "ez"
+		female_patronym = "ez"
+		grammar_transform = spanish
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+		modifier = default_culture_modifier
+	}
+	portuguese = {
+		graphical_culture = southerngfx
+		
+		color = { 0.4 0.7 0.3 }
+
+		male_names = {
+			Abril Álvaro_Oliver Ângelo_Angel Abel Afonso_Alphonse Aires Alexandre_Alexander Alvito António_Antoninus Bermudo_Vermudo Bernardo_Bernard Damião_Damian Dinis_Dionysus Diogo_Jacob Duarte_Edward Egas Estêvão_Stephen Eugénio_Eugene Filipe_Philip Fernão_Ferdinand Fernando_Ferdinand Francisco_Francis
+			Frederico_Frederick Garcia_Garcia Gil_Egidius Gomes_Gomez Gonçalo_Gonzalo Gregório_Gregory Guilherme_William Heitor Henrique_Henry Hermenegildo Hermígio Hugo_Hugh Igor_Ingvar Inácio_Ignatius Júlio_Julian Jerónimo João_John José_Joseph Julião_Julian Lopo_Lupo Lucídio Luís_Louis Manoel_Manuel Manuel_Manuel Marcelo
+			Marco_Marcus Martim_Martin Martinho_Martin Mem_Mendo Mendo_Mendo Miguel_Michael Monio_Munio Muno_Munio Nuno_Nuno Octávio Ordonho_Ordono Paio_Pagan Pedro_Peter Pero_Peter Raimundo_Raymond Ramiro_Ramiro Ricardo_Richard Roberto_Robert Rodrigo_Roderick Rui Sancho_Sancho Sebastião_Sebastian Soeiro Telmo Tiago_Jacob Tomás_Thomas Vasco_Vasco Vicente_Vincent Vímara Xelmirio
+		}
+		female_names = {
+			Ágata_Agatha Alda_Alduara Aldara_Alduara Aldonça_Aldonza Ana_Anna Beatriz_Beatrice Berengária Branca Brites_Beatrice Camila Carol Carolina Catarina_Catherine Chamoa Conceição Constança_Constance Cristina_Christina Dórdia Elisabete_Elisabeth Elvira Esmeralda
+			Esperança Estefânia_Stephania Estevainha Fátima Filipa_Philippa Fruilhe_Fronilde Gonçinha_Gotina Gontinha_Gotina Gregória Guiomar Ilduara_Alduara Inês_Agnes Isabel_Isabella Jacinta Joana_Joan Leonor_Eleanor Loba_Lopa Lúcia_Lucia Lucinda Luísa Madalena_Magdalena Maior_Mayor Mafalda Margarida_Margaret Maria_Maria Marinha_Marine Marquesa Marta_Martha Matilde_Matilda Mécia_Mencia Moninha Mor_Mayor Mumadona_Mumadona Ouroana Ourtigueira Paula_Paula
+			Raquel_Rachel Rita Sónia Sancha_Sancha Sandra Sofia_Sophia Teresa_Teresa Tota_Toda Totadona_Toda Urraca_Urraca Usco Vela Violante_Yolanda Ximena
+		}
+		from_dynasty_prefix = "de "
+		male_patronym = "es"
+		female_patronym = "es"
+		grammar_transform = spanish
+
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 55
+		mat_grf_name_chance = 5
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 60
+		mat_grm_name_chance = 15
+		mother_name_chance = 15
+	}
+}
+
+east_slavic = {
+	graphical_culture = easterngfx
+
+	russian = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Afanasiy_Athanasius Alexandr_Alexander Alexei_Alexis Andrei_Andrew Boris Briachislav_Bretislaus Daniil_Daniel Davyd_David Demid Dmitriy_Demetrius Dobrynia Fedot_Theodat Feodor_Theodore Gavriil_Gabriel Gleb
+			Grigoriy_Gregory Iakov_Jacob Igor Iliya Ingvar_Ingvar Ivan_John Iziaslav Kirill_Cyril Konstantin_Constantine Koz'ma_Cosma Lev_Leo Matfei_Matthew Mikhail_Michael Mitrofan Mstislav_Mstislav
+			Nikita Oleg_Helge Pavel_Paul Putiata Radoslav Rodislav Rogvolod Roman_Roman Rostislav Rurik_Rurik Ruslan Simeon_Simon Stanislav_Stanislav Stepan_Stephen Sudislav
+			Svetozar Sviatopolk_Svatopluk Sviatoslav_Sviatoslav Terentiy Trifon Vasiliy_Basil Vasilko Viacheslav Vladimir_Vladimir Vladislav_Vladislav Voislav Volodar Vseslav
+			Vsevolod Vyshata Vysheslav Yaropolk Yaroslav_Jaroslav Yefimiy Yelisey Yemelyan_Emil Yeremey Yevstafiy Yuriy_George
+		}
+		female_names = {
+			Agafya_Agatha Agrafena Alexandra Anastasia_Anastasia Anna_Anna Boleslava Darya Dobrava Dobronega Dobroslava Yefimia_Euphemia Yefrosinia_Euphrosyne Yekaterina_Catherine
+			Yelizaveta_Elisabeth Yevdokia_Eudocia Yevpraxia Feodora_Theodora Feodosia_Theodosia Fevronia Gorislava Gradislava Gremislava Irina_Irene Xenia Liubava
+			Liudmila Malfrida Malusha Maria_Maria Marina Olena_Helen Olga Pereyaslava Praskovya Praxida Prebrana Predslava Premyslava
+			Pribislava Rogneda Rostislava Sbyslava Sofia_Sophia Sviatoslava Tatyana Ulita Ulyana Varvara Vasilisa Veleslava Verkhoslava
+			Vseslava Viacheslava Yaroslava Zabava Zvenislava
+		}
+		from_dynasty_prefix = "of "
+		
+		male_patronym = "ovich"
+		female_patronym = "ovna"
+		prefix = no
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 40
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}	
+
+caribbean = {
+	graphical_culture = mesoamericangfx
+
+	taino = {
+		graphical_culture = mesoamericangfx
+		color = { 0.6 0.1 0.3 }
+
+		male_names = {
+			Abey Acanorex Amanex Ameyro Aramaná Aramoca Arasibo Aymamón Ayraguay Ayamuynuex Bagnamanay Baguanao Biautex Bojékio Brizuela Cacimar Caguax Camagwebax Canimao Canóbana Caonabo Caracamisa Cayacoa Comerío Cotubanami Dagüao Guababo Guacabo Guacanagari Guacumao Guaicaba Guamá Gwamaní Guamayry Guaoconel Guaora Gwaraca Guarionex Guatiguaná Guayacayex Guayaney Habaguanex Hatuey Haübey Hayuya Huarea Imotonex Iguanamá Inamoca Jacaguax Jaragua Jibacoa Jumacao Loquillo Mabey Mabó Mabodomaca Macaca Macuya Majagua Majúbiatibirí Manatiguahuraguana Maniabón Maniquatex Manicatoex Maragüay Maynerí Mayobanex Naguabo Nibagua Oliguama Orocobix Ornofay Tinima Urayoán Yacagüex Yacahwey Yaureibo Yuquibo
+		}
+		female_names = {
+			Abama Anacaona Ara Asu Bijirita Boniata Caguama Casiguaya Chinchilin Cibayara Colibri Fututo Higuaca Ipire Jujabi Kokuyo Laliwa Maguayo Mamey Mini Sabantho Takuiba Tanama Twengga Yahíma Yahutia Yari Yayama Yu-Ni Yuisa 
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 20
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+
+
+mesoamerican = {
+	graphical_culture = mesoamericangfx
+
+	nahuatl = { #aztec 
+		graphical_culture = mesoamericangfx
+		color = { 0.8 0.2 0.2 }
+
+		male_names = {
+			Acalan Acacitli Acamapichtli Acolmiztli Aculnahuacatl Ahuiliztli Ahuitzotl Atl Axayacatl Cacamatzin Chimalli Chimalpilli Chimalpopoca Cipac Coanacoch Coatl Cozahtli Cuauhtemoc Cuauhtl Cuetlachtli Cuetzpalli Cuixtli Cuitlahuac 
+			Huitzilin Huitzilihuitl Huitzitl Huitztecol Iquehuacatzin Itzcoatl Itzli Itzcuintli Ixtlilxochitl Mahchimaleh Matlal Mazatl Matlalihuitl Matlatzincatzin Maxtla Miztli Moctezuma Moquihuix Necuametl Nezahualcoyotl Nezahualpilli Nochehuatl 
+			Ocuil Olli Opochtli Ozomatli Quauhtli Tapayaxi Tecocoltzin Tecolotl Tetlepanquetzaltzin Tezozomoc Tizoc Tizocic Tlacaelel Tlacaeleltzin Tlalli Tlaloc Tochtli Tototl Tzompantzin Tlilpotonqui Topiltzin Totoquihuaztli 
+			Ueman Yaotl Yayauhqui Yolotli Yolyamanitzin Xicohtencatl Xiuhpilli Xihuitl Xipil Xipilli Xochitl Xochipepe Xochipilli Yaotl Zipactonal Zolin
+		}
+		female_names = {
+			Achcauhtli Acxocueitl Ahuiliztli Amoxtli Atl Atotoztli Ayauhcihuatl Azcalxochitzin Centehua Cihuaton Citlalmina Chalchiuitl Chicahua Chichimecacihuatzin Chipahua Chicomecoatl Chimalma Cihuaton Citlali Citlalli Citlalmina Coaxoch Coszcatl 
+			Cozamalotl Cuicatl Eleuia Eloxochitl Etalpalli Eztli Huehue-Zaca Itotia Iuitl Ixcatzin Izel Malinalxochitl Manauia Matlalatzin Mecatl Meztli Miahuaxiuitl Miyaoaxochitl Mizquixahual Momoztli Nahuatl Necahual Nelli Ohtli Papa Patli
+			Quiauhxochitl Sacnite Techichpotzin Tezozomoc Tziquetzalpoztectzin Teiuc Teicuih Teyacapan Tepin Tezcatlan Tlacotl Tlahco Tlahcoehua Toltecatl Tonalnan Tlazozomizqui
+			Yoltzin Xilonen Xiloxoch Xiuhtomiyauhtzin Xochitl Xocoh Xocoyotl Yaretzi Zeltzin Zyanya
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	maya = {
+		graphical_culture = mesoamericangfx
+		color = { 0.555 0.9 0.25 }
+		
+		male_names = {
+			Ahmok Ahpop-Achi Akhal Aphu Ayiin Balanque Boxkan Boxne Butz Chantan Chok Cu Eeb Ek Hau Itzamnaaj Ixchel Janaab Kabah Kan Kan-Tuun Kawil Kiinich Ku Kuhul Kutz Lolha Mowan Mucame Naab Namcor Nicte-Ha Pakal Piyacoc Poot Siyaj Tiliw Tutul Votan Witz Xib-Chaac Xooc Yax Yaxha Yaxun Yich-Kaak Yikin Yuknoom 
+		}
+		female_names = {
+			Muwaan Itzel Sak Shana'Kin Wak-Chanil Xibalba Xoc Yaxchel Yohl Yohl-Ik'nal Zac-Kuk 
+		}
+		
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+
+northamerican = {
+	graphical_culture = mesoamericangfx
+
+	algonquin = {
+		graphical_culture = mesoamericangfx
+		color = { 0.7 0.5 0 }
+
+		male_names = {
+			Abukcheech Achak Ahanu Anakausuen Aranck Askook Askuwheteau Chansomps Chogan lusilussit Enkoodabaoo Etchemin Etlelooat Hassun Huritt Keme Kesegowaase Kestejoo Kitchi Machk Makkapitew Matchitehew Matchitisiw Matunaaga Matwau Megedagik Melkedoodum Mukki Nootau Nonosbawsut Nosh Noshi Pajackok Pannoowau Powwaw Rowtag Segenam Sucki Sunukkuhkau Taregan Tihkoosue Togquos Wematin
+		}
+		female_names = {
+			Alawa Alsoomse Anna Chepi Dabun Demasduit Hausis Hausisse Hurit Kanti Keegsquaw Kimi Makkitotosimew Nadie Nijlon Nittawosew Numees Nuttah Odina Oota Shanawdithit Pauwau Pules Sokanon Sokw Sooleawa Takhi Wikimak Winona
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+
+	cherokee = {
+		graphical_culture = mesoamericangfx
+		color = { 0.25 0.5 0.75 }
+
+		male_names = {
+			Ashwin Asija Asim Adahy Atohi Atsadi Attakullakulla Austenaco Chea-Sequah Chuquilatague Degataga Diwali Dustu Galegenoh Gawonii Mohe Oukonunaka Sequoyah Waya Kanagagota Kanuna Koatohee Oconostota Rayetayah Salal Tsiyi Unaduti Yonaguska
+		}
+		female_names = {
+			Adsila Ahyoka Ama Amadahy Askini Asmita Awenasa Awinita Ayita Galilahi Ghigau Hiawassee Hialeah Immookalee Inola Knasgowa Nanye-hi Ninovan Salali Leotie Tayanita Tsistunagiska Tsula Usdi Yona
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	comanche = {
+		graphical_culture = mesoamericangfx
+		color = { 0.9 0.6 0.3 }
+
+		male_names = {
+			Povea Cuchantica Ecueracapa Paranuarimuco Cabaza-Rapada Pisuni-Napu Paruaquipits Tosacondata Encanaguane Chihuahua Esazat Pareiya Paruaquita Oso-Ballo Esaconi Pahayuca Queenashano Pohowetowshah Shabbakasha Neraquassi Toshapappy Pahohsareya Pahkah Witsitony Leahwiddikah Esharsotsiki Pahtrisula Tennowikah Kowa Soko Muguara Tabbaquena Sanaco Poechna-Quahip Chomoparua Chu-Cope Peta-Nocona Kiwatchee Hainickseu Parusawano Warakonalta Kanaretah Nobah Esahabbe Kotsoteka Queenahevah Hotoyokohwot Parrywahsaymer Boyahwahtoyehe Bowahquasuh Tosawi Pernerney Tabbananica Parraocoom Mow-Way Howeah Tosacowadi Eschiti Ohma-Tai
+		}
+		female_names = {
+			Addapah Addochinah Aerwoothky Ase Aumapappy Bisetah Chahkobitty Chahmenny Chassequan Dauwanah Eckawipe Erkanah Hani Hedoko Ipitty Kahho Kostchidah Madomoko Miyevah Moquahrah Nahsuquas Nahker Nimsey Ohawifeper Pahawsooah Quanah-Tseeta Quitahri Kumaquai Toyackoahdor Sapsuah Tabbonoid Takewahcony Waddischy Wahahwithka
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	cree = {
+		graphical_culture = mesoamericangfx
+		color = { 0.4 0.8 0.8 }
+
+		male_names = {
+			Abooksigun Abukcheech Achachak Ahanu Anakausuen Aranck Askook Askuwheteau Chansomps Chogan Enkoodabaoo Etchemin Etlelooaat Hassun Huritt Keme Kitchi Machk Matchitehew Matunaagd Matwau Megedagik Mekledoodum Mingan Mukki Nixkamich Nootau Pannoowau Powaw Samoset Segenam Sucki Sunukkuhkau Tihkoosue Wematin
+		}
+		female_names = {
+			Alawa Alsoomse Hausis Hurit Kanti Keegsquaw Kimi Nadie Nijlon Numees Nuna Nuttah Oota-dabun Pules Sokanon Sokw Tahki Wapun Wawetseka Wikimak
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	illinois = {
+		graphical_culture = mesoamericangfx
+		color = { 0.75 0.35 0.75 }
+
+		male_names = {
+			Agothea Ahmackkoneyaw Ameghqua Angatoka Annawaba Archekatauh Ashenonquah Baraboe Cabanokay Caranquar Cawkamag Chappeen Chechauquaw Goteecoupwow Hibon Joteekoteah Kaghkaghkeah Kakonweconner Keeaohsacaun Keelsonzau Lagro Latappant Mackawtamaunggoaw Ngotaykawpoaw Nowtaukashinggaw Nagohquamgogh Macatamongquah Matautsswauk Okawea Okemabenaseh Pacahn Pahpawkachah Quawkaumekawtwau Sanamahhonga Tackkeeaw Wansepea
+		}
+		female_names = {
+			Ahkoolayquay Ahsausawmoquay Ampeenshah quay Aronzon Aughuamauda Awpishahquay Ausowacautow Camachaky Cauposhshenoqui Checomick Chekonnokee Indoshshemuqui Joquo Kaweesah Keekawnnaukomoqui Keenquatakqua Keelsoquay Lenneepeesheequi Miaghqua Mashkoquay Massequawnggau Piconbequ Paucawndauneoaw Tassameenah Wanogapata
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	innu = {
+		graphical_culture = mesoamericangfx
+		color = { 0.2 0.7 0.7 }
+
+		male_names = {
+			Atika Etutikueu Kanikuen Kaniuekutat Katshituask Kenussemu Kueskapeu Manish Manteskueu Manuk Mistipinip Muskushish Nashitt Ninitshitau Nuke Petapanu Pineshikan Ponas Shenakuteu Shimish Shinapiu Shushepis Tshenish Tshetshepateu Tshishennish Uapannish Uitshitshimushish Ustinitshu Wâpaskw 
+		}
+		female_names = {
+			Ahapiskueu Âpikusîs Ashenik Kaiekuskakut Kasseukanit Kauinimishit Keuapakanaskueu Kutesh Kutshake Maniteu Matanueskueu Miniskuesh Mushuau Muskumin Nashape Nenuskueu Neskueu Niakau Pishum Pishumuskuess Shanipiash Sharika Shekau Shunne Skueu Uapan Uapukun Uashamamou Ueuetimiskueu Utshimaskues Wîskacân 
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	iroquois = {
+		graphical_culture = mesoamericangfx
+		color = { 0.3 0.2 0.1 }
+
+		male_names = {
+			Deganawida Ayawentha Ganioda'yo Akiatonharónkwen Canasatego Cogwagee Sakayengwaraton Teyoninhokovrawen Sigwaahdohgwih Thaonawyuthe Oskanondonha Sayenqueraghta Kaieñãkwaahtoñ Odeserundiye Tagaskouita Garakontié Ganeagowa Kanungheritaws Jeyunghehkwung Hodegweh Werdyasaha Hernohngwesers Joweese Nishoanyahnant Dehahteh Hodoehjiah Daquartoranh Garstorodo Tadadaho Shagoyontha 
+		}
+		female_names = {
+			Tekakwitha Satékon Tegonhatsiongo Tegaiaguenta Genessee Orenda Skenandoa Onatah Jogehho Dinah Jigonsaseh Hanyost Tyonajanegen Aliquipiso Kauquatau Iagen'tci Dehgewanus
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	muscogee = {
+		graphical_culture = mesoamericangfx
+		color = { 0.29 0.21 0.67 }
+
+		male_names = {
+			Estajoca Tomochichi Chebona Bula Chiggilli Chitto Emistesigo Hasse-Ola Hothlepoya Huhuewahehle Kikikwawason Lamochattee Malatche Menewa Opothleyaholo Osceola Ossiolachiih Talof-Harjo Tchikilli Yaholo Yayatustenuggee Tiole Fallinniche Fiksoomikey Ubullartkar
+		}
+		female_names = {
+			Char Mar Nan Par Sum Cocheta Dela Eyota Halona Mausi Nila Onawa Scenanki Sehoy Talisa 
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	navajo = {
+		graphical_culture = mesoamericangfx
+		color = { 0.49 0.45 0.15 }
+
+		male_names = {
+			Ahiga Ashkii Ashkii Dighin Ata'halne Atsa Atsidi Bidziil Bisahalani Gaagii Gad Hashkeh Naabah Hastiin Hok'ee Kilchii Klah Naalnish Naalyeheyasidahi Nastas Niichaad Niyol Sani Shilah Shiye Sicheii Sike Tahoma Toh-Yah Tse Tsela Tsiishch'ili Yas Yiska 
+		}
+		female_names = {
+			Ajei Awee Asdza Chooli Dezba Dibe Doba Doli Haseya Haloke Kai Iina Johona Mai Manaba Mosi Nascha Ooljee Sahkyo Sialea-lea Tibah Tsintah Yanaha 
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	hopi = {
+		graphical_culture = mesoamericangfx
+		color = { 0.2 0.45 0.65 }
+
+		male_names = {
+			Ahiliya	Ahote Aponivi Ayawamat Chaakmongwi Chatima Chavatangakwunua Cheveyo	Chochmo Chochokpi Chochuschuvio Choovio Choviohoya Chowilawu Chua Chuchip Chunta Honani Honaw Hototo Istaqa Kachada Kele Kolichiyaw Kwahu Kwatoko Lansa Lapu Lomahongyoma Lomanakcu Loololma Machakw Makya Mochni Moki Mongwau Nakwaiyamtewa Omawnakw Pachua Pahana Pimne Pivane Qaletaqa Qochata Sikyahonaw Sikyatavo Sowingwa Tangakwunu Tohopka Tokori Wikvaya Hawiovi Masichuvio Tocho Tuvi
+		}
+		female_names = {
+			Angwusnasomtaqa	Ankti Catori Charisa Chochmingwu Chosovi Chosposi Chumana Chusi Hakidonmuya Hehewuti Honovi Humita Kachina Kakawangwa Kasa Kaya Kayah Kokyangwuti Kuwanlelenta Kuwanyamtiwa Kuwanyauma Lenmana Lomahongva Mansi Muna Pakwa Pamuya Pavati Polikwaptiwa Powaqa Shuman Soyala Sunki Tablita Takala Talasi Tiponi Tiva Totsi Tuwa Waki Wuti Yamka YokiZihna
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	penutian = {
+		graphical_culture = mesoamericangfx
+		color = { 0.2 0.45 0.65 }
+
+		male_names = {
+			Alast-Sauked Allalimya-Takanin Apash-Wyakaikt Elotsonse Hahtalekin Heinmot-Hihhih Hemene-Moxmox Hinmahtooyahlatkekt Hototo Husis-Owyeen Husishusis-Kute Ippakness-Wayhayken Jlppilp Ollokot	Pahkar Peopeohixhiix Sarpsis-Ilppilp Sousouquee Taktsoukt Teyohyohshin Toohoolhoolzote Tuekakas Wahlitits Walammottinin Wetyetmas-Wahyakt 
+		}
+		female_names = {
+			Alikkees Ayatootonmi ChellooyeenHahots Chickamohpeo Epu-tepkoset Heyoon-Yoyikt Khapkhaponimi Lautiss Lepeet-Hessemdook Notah-Chee Petolvonnanick Shebala Tamalwinonmi Timina Yiyik-Wasumwah 
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	salish = {
+		graphical_culture = mesoamericangfx
+		color = { 0.15 0.65 0.15 }
+
+		male_names = {
+			Aiksa Loma Isseedar Anssinpooepeek Tjolzhitsay Slemcrycre Wolwillock Kakashe Patee-Quootiepoop Somyahwemoo Ne-Nemae Chil-Lum Skaleetehillemekuhm Quo-Lonpao Pateenenimae Skalko-Orne Latattee Pateenenemae Lhekakah Kul-Kununcha Inpelpooplapel Sinsela Ikaubut Slepstoc
+		}
+		female_names = {
+			Atalaee Kutenai Kaekaeshe Sousazu Uluemcece Colla Latati Mosee Kumkumpoo Patter Tusett Inhoosta Chinis Incashola Mali-Supi Clala Manamee Natgatmashighhi
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	shoshone = {
+		graphical_culture = mesoamericangfx
+		color = { 0.3 0.45 0.15 }
+
+		male_names = {
+			Washakie Pocatello Sagwitch Timbimboo Sanpitch Lehi Warareeka Shirrydika Banattee Tukaduka Tagi Cameahwait Snagg Zeecoo-Chee Quahadadocoowat Tindup Daboozee Soquitch Wirasuap Tonaioza Dakayivani
+		}
+		female_names = {
+			Anzeechee Quehegup Bia-Wuutsee Towenge Poebehup Techamodakey Mojoguitch 0haqasue Mudawaaze Kymanah Sacagawea Mugwayan
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	sioux = {
+		graphical_culture = mesoamericangfx
+		color = { 0.1 0.35 0.55 }
+
+		male_names = {
+			Akecheta Appanoose Canowicakte Chankoowashtay Chatan Chayton Ciqala Dakotah Enapay Hanska Hotah Kangee Kohana Lootah Mahkah Mahpee Mato Matoskah Mika Napayshni Odakotah Ogaleesha Ohanzee Ohiyesa Otaktay Takoda Tashunka Teetonka Wahkan Wambleeska Wicasa Chaska Makhpia-Luta Mankato Mato-Watakpe Sintay-Galeska Tahatan Tatanka-Ptecila Wapasha 
+		}
+		female_names = {
+			Chapa Chapawee Chumani Dowanhowee Ehawee Hantaywee Kimimela Macha Magaskawee Makawee Mika Ojinjintka Ptaysanwee Shappa Skah Wichahpi Winona Zitkala Zonta Mina Tahcawin Talutah Wachiwi Wasula Weayaya Wichapi
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	timucua = {
+		graphical_culture = mesoamericangfx
+		color = { 0.15 0.35 0.65 }
+
+		male_names = {
+			Amiro Atimucu Biro Chulusi Efa Eyolehecote Hapu Michu Noronoromota Ocho Quana Taca Ucunu Yaha Yaruru Yobo 
+		}
+		female_names = {
+			Acu Becha Bequestela Caquencha Ela Hachipileco Hinino Ibine Na Nia Nipita Pesolo Pu Tulu Yucha
+		}
+
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+
+southamerican = {
+	graphical_culture = mesoamericangfx
+
+	carib = {
+		graphical_culture = mesoamericangfx
+		color = { 0.1 0.8 0.4 }
+
+		male_names = {
+			Achuchi Ake Awe Iawi Jabuti Maoira Mapi Moie Pacon Qircamo Quando Rapau Tari Trumak Uluiru Wanadi Jakaraw Pero Oto Iwoi Kaikusi Rere Piriki'ki Kujari	
+		}
+		female_names = {
+			Boro Kaba Kachiri Mandu Matcha Nakwatcha Potichaua Pucu Samampo Tatuie Tuia
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	quechua = { #inca
+		graphical_culture = mesoamericangfx
+		color = { 0.001 0.5 0.8 }
+
+		male_names = {
+			Anquimarca Anta-Accla Apo Apu Atahualpa Atoc Atoc-Sopa Atoc-Suqui Auqui-Huaman Canchari Capac-Tupac Cariapata Cayo-Topa Chalcuchima Challco Chiaquitinta Chiguan-Topa Chilche Chunchos Colla-Topa Condorcanqui Coyllas Curi-Paucar Curiatao Cusi Cusichaca Guacra Guaman-Poma Guaritito Guaritopa Huachuri Hualpa Huaman Huaritico Huascar Huayna-Capac Huaypalcon Illa Illaquita Inquill Ispaca Llicllic Luyes Maila Manco Maras Marcavilca Mayta Ninan-Cuyuchi Ninancoro Orco-Varanca Ozcoc Pachacuti Parinango Pascac Paucar Paullu Pomacapi Pomaguala Puma Pumi-Sopa Pusca Puyu-Vilca Quilaco Quillis-Sacha Quingallumbo Quintiraura Quispe-Titu Quispe-Tupac Quisquis Quizo Rimac Roca Ronpa Ruminavi Sahuaraura Sayri-Tupac Sotaurco Sullca-Yanac Surandaman Taipi Tanqui Taraque Tiso Titu-Atauchi Titu-Cusi Torinaseo Tucuycuyche Tupac Tupac-Amaru Tupac-Hualpa Usca-Curiatao Villac-Umu Yamqui-Mayta Yuncailo Yupanqui Zambiza Zopahua Zope
+		}
+		female_names = {
+			Anahuarque Anas-Collque Anta-Anclla Cava Chic'ya Chimbo Aca Chimbo-Ocllo Urma Chimpu Choque-Suyo Chumbi-Carua Cura-Ocllo Curicuillor Cusi-Huarcay Cusirimay Inguill Mama-Runtu Marca-Chimbo Maxi-Coca Micay Pinca-Huaco Polan-Quilaco Quispe-Cusi Quispe-Sisa Runtu Siza-Ocllo Toctollssica
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	tupi = {
+		graphical_culture = mesoamericangfx
+		color = { 0.3 0.5 0.1 }
+
+		male_names = {
+			Ari-Ku Ari-Kuri Ariapu Aricayé Aricutu Ariña Ario Aripa Aripaktsa Arypy'i Cayapo Kreen Pinon Raini Ubirajara Ubiratan Xavante Yaborai Yacare Yaci Yacuri Yaguague Yaguapi Yasyka
+		}
+		female_names = {
+			Araci Amambay Anaha Angá Ãra Arami Arasa Bartira Caá-Yarîi Iara Iracema Irati Irupé Itatay Jacaranda Jaci Janaina Jasuka Jeruti Kava Kerana Manduvi Moema Mu-Ash Narasha Pakova Potira Uira Yara Yrasama Ysapy Ysyry Yvajga 	
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}

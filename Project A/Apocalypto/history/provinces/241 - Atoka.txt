@@ -1,0 +1,17 @@
+# c_atoka
+
+# County Title
+title = c_atoka
+
+# Settlements
+max_settlements = 3
+
+b_atoka = castle
+#b_talikwa = city
+#b_sitiku = temple
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

@@ -1,0 +1,15 @@
+# c_tolima
+
+# County Title
+title = c_tolima
+
+# Settlements
+max_settlements = 1
+
+b_tolima = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

@@ -1,0 +1,15 @@
+# c_kumeyaay
+
+# County Title
+title = c_kumeyaay
+
+# Settlements
+max_settlements = 1
+
+b_kumeyaay = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

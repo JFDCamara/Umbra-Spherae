@@ -1,0 +1,15 @@
+# c_cuzco
+
+# County Title
+title = c_cuzco
+
+# Settlements
+max_settlements = 1
+
+b_cuzco = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

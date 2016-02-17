@@ -1,0 +1,18 @@
+# c_conshohocken
+
+# County Title
+title = c_conshohocken
+
+# Settlements
+max_settlements = 4
+
+b_conshohocken = castle
+#b_skaneateles = city
+#b_gehunda = temple
+#b_newtychanning = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

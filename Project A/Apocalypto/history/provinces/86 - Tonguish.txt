@@ -1,0 +1,17 @@
+# c_tonguish
+
+# County Title
+title = c_tonguish
+
+# Settlements
+max_settlements = 3
+
+b_tonguish = castle
+#b_lenawee  = city
+#b_washtenaw  = temple
+
+# Misc
+culture = illinois
+religion = gagohsa
+
+#History

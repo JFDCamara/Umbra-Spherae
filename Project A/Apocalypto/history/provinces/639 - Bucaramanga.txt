@@ -1,0 +1,15 @@
+# c_bucaramanga
+
+# County Title
+title = c_bucaramanga
+
+# Settlements
+max_settlements = 1
+
+b_bucaramanga = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

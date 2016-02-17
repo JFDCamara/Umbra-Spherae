@@ -1,0 +1,15 @@
+# c_oohenungpa
+
+# County Title
+title = c_oohenungpa
+
+# Settlements
+max_settlements = 1
+
+b_oohenungpa = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

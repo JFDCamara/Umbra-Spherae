@@ -1,0 +1,15 @@
+# c_apatzingan
+
+# County Title
+title = c_apatzingan
+
+# Settlements
+max_settlements = 1
+
+b_apatzingan = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

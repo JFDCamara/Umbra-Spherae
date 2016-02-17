@@ -1,0 +1,17 @@
+# c_ottumwa
+
+# County Title
+title = c_ottumwa
+
+# Settlements
+max_settlements = 3
+
+b_ottumwa = castle
+#b_chedtokhanye = city
+#b_khrapathan = temple
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

@@ -1,0 +1,17 @@
+# c_susquehannah
+
+# County Title
+title = c_susquehannah
+
+# Settlements
+max_settlements = 3
+
+b_susquehannah = castle
+#b_oscalui = city
+#b_utchowig = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

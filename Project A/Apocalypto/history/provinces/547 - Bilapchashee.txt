@@ -1,0 +1,15 @@
+# c_bilapchashee
+
+# County Title
+title = c_bilapchashee
+
+# Settlements
+max_settlements = 1
+
+b_bilapchashee = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

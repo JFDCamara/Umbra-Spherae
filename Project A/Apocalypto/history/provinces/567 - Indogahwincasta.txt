@@ -1,0 +1,15 @@
+# c_indogahwincasta
+
+# County Title
+title = c_indogahwincasta
+
+# Settlements
+max_settlements = 1
+
+b_indogahwincasta = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

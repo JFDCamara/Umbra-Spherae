@@ -1,0 +1,15 @@
+# c_algoma
+
+# County Title
+title = c_algoma
+
+# Settlements
+max_settlements = 1
+
+b_algoma = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

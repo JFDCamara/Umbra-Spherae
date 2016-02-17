@@ -1,0 +1,17 @@
+# c_sandusky
+
+# County Title
+title = c_sandusky
+
+# Settlements
+max_settlements = 3
+
+b_sandusky = castle
+#b_wauseon = city
+#b_gentaguehronon = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

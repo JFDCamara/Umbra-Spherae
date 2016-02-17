@@ -1,0 +1,15 @@
+# c_moyobamba
+
+# County Title
+title = c_moyobamba
+
+# Settlements
+max_settlements = 1
+
+b_moyobamba = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

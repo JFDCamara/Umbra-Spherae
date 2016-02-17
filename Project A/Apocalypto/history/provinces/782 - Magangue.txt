@@ -1,0 +1,15 @@
+# c_magangue
+
+# County Title
+title = c_magangue
+
+# Settlements
+max_settlements = 1
+
+b_magangue = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

@@ -1,0 +1,15 @@
+# c_anhaica
+
+# County Title
+title = c_anhaica
+
+# Settlements
+max_settlements = 1
+
+b_anhaica = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

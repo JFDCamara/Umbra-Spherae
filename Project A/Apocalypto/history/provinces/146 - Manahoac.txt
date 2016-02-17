@@ -1,0 +1,16 @@
+# c_manahoac
+
+# County Title
+title = c_manahoac
+
+# Settlements
+max_settlements = 2
+
+b_manahoac = castle
+#b_gahontoto = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

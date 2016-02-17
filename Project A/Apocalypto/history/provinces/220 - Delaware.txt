@@ -1,0 +1,15 @@
+# c_delaware
+
+# County Title
+title = c_delaware
+
+# Settlements
+max_settlements = 1
+
+b_delaware = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

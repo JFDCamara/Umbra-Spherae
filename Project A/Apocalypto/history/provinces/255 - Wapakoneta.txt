@@ -1,0 +1,16 @@
+# c_wapakoneta
+
+# County Title
+title = c_wapakoneta
+
+# Settlements
+max_settlements = 2
+
+b_wapakoneta = castle
+#b_chilohocki = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

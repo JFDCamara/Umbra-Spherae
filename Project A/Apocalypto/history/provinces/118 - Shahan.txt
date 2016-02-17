@@ -1,0 +1,15 @@
+# c_shahan
+
+# County Title
+title = c_shahan
+
+# Settlements
+max_settlements = 1
+
+b_shahan = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

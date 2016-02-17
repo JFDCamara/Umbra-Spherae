@@ -1,0 +1,18 @@
+# c_knierim
+
+# County Title
+title = c_knierim
+
+# Settlements
+max_settlements = 4
+
+b_knierim = castle
+#b_cheposhkeyine = city
+#b_homayine = temple
+#b_hotachi = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

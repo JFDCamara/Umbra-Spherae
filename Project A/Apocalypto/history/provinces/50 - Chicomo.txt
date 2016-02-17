@@ -1,0 +1,15 @@
+# c_chicomo
+
+# County Title
+title = c_chicomo
+
+# Settlements
+max_settlements = 1
+
+b_chicomo = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

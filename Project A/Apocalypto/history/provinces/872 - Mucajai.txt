@@ -1,0 +1,15 @@
+# c_mucajai
+
+# County Title
+title = c_mucajai
+
+# Settlements
+max_settlements = 1
+
+b_mucajai = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

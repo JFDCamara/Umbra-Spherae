@@ -1,0 +1,15 @@
+# c_arhuaco
+
+# County Title
+title = c_arhuaco
+
+# Settlements
+max_settlements = 1
+
+b_arhuaco = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

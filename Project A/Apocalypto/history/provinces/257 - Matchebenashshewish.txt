@@ -1,0 +1,17 @@
+# c_matchebenashshewish
+
+# County Title
+title = c_matchebenashshewish
+
+# Settlements
+max_settlements = 3
+
+b_matchebenashshewish = castle
+#b_kalamo  = city
+#b_tekonsha = temple
+
+# Misc
+culture = illinois
+religion = gagohsa
+
+#History

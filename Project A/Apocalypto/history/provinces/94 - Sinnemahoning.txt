@@ -1,0 +1,16 @@
+# c_sinnemahoning
+
+# County Title
+title = c_sinnemahoning
+
+# Settlements
+max_settlements = 2
+
+b_sinnemahoning = castle
+#b_gwe-ugweh-ono = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

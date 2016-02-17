@@ -1,0 +1,17 @@
+# c_tullahoma
+
+# County Title
+title = c_tullahoma
+
+# Settlements
+max_settlements = 3
+
+b_tullahoma = castle
+#b_waucheesi = city
+#b_natsi = temple
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

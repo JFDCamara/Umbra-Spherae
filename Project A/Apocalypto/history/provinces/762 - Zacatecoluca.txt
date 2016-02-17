@@ -1,0 +1,15 @@
+# c_zacatecoluca
+
+# County Title
+title = c_zacatecoluca
+
+# Settlements
+max_settlements = 1
+
+b_zacatecoluca = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

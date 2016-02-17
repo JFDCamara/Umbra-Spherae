@@ -1,0 +1,15 @@
+# c_potano
+
+# County Title
+title = c_potano
+
+# Settlements
+max_settlements = 1
+
+b_potano = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

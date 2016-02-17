@@ -1,0 +1,16 @@
+# c_musquaque
+
+# County Title
+title = c_musquaque
+
+# Settlements
+max_settlements = 2
+
+b_musquaque = castle
+#b_iotan = city
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

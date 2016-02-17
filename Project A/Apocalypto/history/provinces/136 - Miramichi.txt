@@ -1,0 +1,15 @@
+# c_miramichi
+
+# County Title
+title = c_miramichi
+
+# Settlements
+max_settlements = 1
+
+b_miramichi = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

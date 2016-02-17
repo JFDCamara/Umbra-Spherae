@@ -1,0 +1,15 @@
+# c_toulinquet
+
+# County Title
+title = c_toulinquet
+
+# Settlements
+max_settlements = 1
+
+b_toulinquet = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

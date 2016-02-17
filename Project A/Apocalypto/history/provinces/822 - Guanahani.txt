@@ -1,0 +1,15 @@
+# c_guanahani
+
+# County Title
+title = c_guanahani
+
+# Settlements
+max_settlements = 1
+
+b_guanahani = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

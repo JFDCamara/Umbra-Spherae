@@ -1,0 +1,15 @@
+# c_chiribiquete
+
+# County Title
+title = c_chiribiquete
+
+# Settlements
+max_settlements = 1
+
+b_chiribiquete = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

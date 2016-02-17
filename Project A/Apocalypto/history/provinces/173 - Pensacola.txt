@@ -1,0 +1,18 @@
+# c_pensacola
+
+# County Title
+title = c_pensacola
+
+# Settlements
+max_settlements = 4
+
+b_pensacola = castle
+#b_ayanahi = city
+#b_hyukkeni = temple
+#b_okalusa = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

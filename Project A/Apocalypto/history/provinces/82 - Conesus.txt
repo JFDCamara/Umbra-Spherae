@@ -1,0 +1,16 @@
+# c_conesus
+
+# County Title
+title = c_conesus
+
+# Settlements
+max_settlements = 2
+
+b_conesus = castle
+#b_tioga = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

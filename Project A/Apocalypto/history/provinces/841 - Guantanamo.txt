@@ -1,0 +1,15 @@
+# c_guantanamo
+
+# County Title
+title = c_guantanamo
+
+# Settlements
+max_settlements = 1
+
+b_guantanamo = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

@@ -1,0 +1,15 @@
+# c_tanico
+
+# County Title
+title = c_tanico
+
+# Settlements
+max_settlements = 1
+
+b_tanico = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

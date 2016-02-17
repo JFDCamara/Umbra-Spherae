@@ -1,0 +1,15 @@
+# c_thorvald
+
+# County Title
+title = c_thorvald
+
+# Settlements
+max_settlements = 1
+
+b_thorvald = castle
+
+# Misc
+culture = norwegian
+religion = norse_pagan
+
+#History

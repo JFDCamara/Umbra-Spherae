@@ -1,0 +1,15 @@
+# c_anaya
+
+# County Title
+title = c_anaya
+
+# Settlements
+max_settlements = 1
+
+b_anaya = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

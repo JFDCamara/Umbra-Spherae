@@ -1,0 +1,15 @@
+# c_liamuiga
+
+# County Title
+title = c_liamuiga
+
+# Settlements
+max_settlements = 1
+
+b_liamuiga = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

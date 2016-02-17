@@ -1,0 +1,15 @@
+# c_tucacas
+
+# County Title
+title = c_tucacas
+
+# Settlements
+max_settlements = 1
+
+b_tucacas = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

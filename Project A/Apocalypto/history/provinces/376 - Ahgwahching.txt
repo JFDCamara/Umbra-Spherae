@@ -1,0 +1,15 @@
+# c_ahgwahching
+
+# County Title
+title = c_ahgwahching
+
+# Settlements
+max_settlements = 1
+
+b_ahgwahching = castle
+
+# Misc
+culture = cree
+religion = mississippian
+
+#History

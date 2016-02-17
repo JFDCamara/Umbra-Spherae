@@ -1,0 +1,15 @@
+# c_tepehuan
+
+# County Title
+title = c_tepehuan
+
+# Settlements
+max_settlements = 1
+
+b_tepehuan = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

@@ -1,0 +1,15 @@
+# c_kalaloch
+
+# County Title
+title = c_kalaloch
+
+# Settlements
+max_settlements = 1
+
+b_kalaloch = castle
+
+# Misc
+culture = salish
+religion = shikla
+
+#History

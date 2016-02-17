@@ -1,0 +1,17 @@
+# c_saukenuk
+
+# County Title
+title = c_saukenuk
+
+# Settlements
+max_settlements = 3
+
+b_saukenuk = castle
+#b_michigamea = city
+#b_chepoussa = temple
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

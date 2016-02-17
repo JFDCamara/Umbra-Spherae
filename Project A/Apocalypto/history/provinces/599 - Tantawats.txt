@@ -1,0 +1,15 @@
+# c_tantawats
+
+# County Title
+title = c_tantawats
+
+# Settlements
+max_settlements = 1
+
+b_tantawats = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

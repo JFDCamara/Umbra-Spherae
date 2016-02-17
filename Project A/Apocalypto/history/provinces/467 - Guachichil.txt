@@ -1,0 +1,15 @@
+# c_guachichil
+
+# County Title
+title = c_guachichil
+
+# Settlements
+max_settlements = 1
+
+b_guachichil = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

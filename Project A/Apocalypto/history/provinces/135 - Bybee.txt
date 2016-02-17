@@ -1,0 +1,17 @@
+# c_bybee
+
+# County Title
+title = c_bybee
+
+# Settlements
+max_settlements = 3
+
+b_bybee = castle
+#b_dakwa = city
+#b_amayelegwa = temple
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

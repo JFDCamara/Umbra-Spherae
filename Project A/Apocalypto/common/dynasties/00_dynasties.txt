@@ -1,0 +1,6614 @@
+1 = {
+	name="Gårdske"
+	culture = swedish
+}
+2 = {
+	name="Grip"
+	culture = swedish
+}
+3 = {
+	name="de Villeneuve"
+	culture = frankish
+}
+4 = {
+	name="von Neuenburg"
+	culture = german
+}
+5 = {
+	name="Müller"
+	culture = german
+}
+6 = {
+	name="von Rendsburg"
+	culture = german
+}
+7 = {
+	name="Porse"
+	culture = danish
+}
+8 = {
+	name="Svarte"
+	culture = swedish
+}
+9 = {
+	name="Skancke"
+	culture = swedish
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 6
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+10 = {
+	name="Mikhailovich"
+	culture = russian
+}
+11 = {
+	name="Chirikov"
+	culture = russian
+}
+12 = {
+	name="Dezhynov"
+	culture = russian
+}
+13 = {
+	name="Fyodyorov"
+	culture = russian
+}
+14 = {
+	name="Lukinich"
+	culture = russian
+}
+15 = {
+	name="Stadukhin"
+	culture = russian
+}
+16 = {
+	name="Otlasov"
+	culture = russian
+}
+17 = {
+	name="Popov"
+	culture = russian
+}
+18 = {
+	name="Thornberg"
+	culture = swedish
+}
+19 = {
+	name="Ribbing"
+	culture = swedish
+}
+20 = {
+	name="de Matienzo"
+	culture = castillan
+}
+45 = {
+	name="di Castalnasetta"
+	culture = italian
+}
+46 = {
+	name="Sormella"
+	culture = italian
+}
+47 = {
+	name="di Chiaramonte"
+	culture = italian
+}
+48 = {
+	name="Palizzi"
+	culture = italian
+}
+49 = {
+	name="Ventimiglia"
+	culture = italian
+}
+50 = {
+	name="Spinola"
+	culture = italian
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+52 = {
+	name="von Diepholz"
+	culture = german
+}
+53 = {
+	name="Moncada"
+	culture = italian
+}
+54 = {
+	name="du Dros"
+	culture = frankish
+}
+59 = {
+	name="de Bage"
+	culture = frankish
+}
+60 = {
+	name="de Montferrat"
+	culture = frankish
+}
+61 = {
+	name="de Contreras"
+	culture = castillan
+}
+62 = {
+	name="de Montúfar"
+	culture = castillan
+}
+63 = {
+	name="de Mendoza"
+	culture = castillan
+}
+64 = {
+	name="de Fuenleal"
+	culture = castillan
+}
+65 = {
+	name="de Albornoz"
+	culture = castillan
+}
+66 = {
+	name="de Estrada"
+	culture = castillan
+}
+67 = {
+	name="de Zumárraga"
+	culture = castillan
+}
+68 = {
+	name="Paredes"
+	culture = castillan
+}
+69 = {
+	name="de Benavente"
+	culture = castillan
+}
+70 = {
+	name="de Acevedo"
+	culture = castillan
+}
+71 = {
+	name="de las Casas"
+	culture = castillan
+}
+72 = {
+	name="de la Cruz"
+	culture = castillan
+}
+73 = {
+	name="de la Espira"
+	culture = castillan
+}
+74 = {
+	name="de Fuca"
+	culture = castillan
+}
+75 = {
+	name="de Coimbra"
+	culture = portuguese
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 8 1 2 2
+		}
+		religion=catholic
+	}
+}
+76 = {
+	name="Núñez"
+	culture = castillan
+}
+77 = {
+	name="de la Cerda"
+	culture = castillan
+}
+78 = {
+	name="van Gelre"
+	culture = dutch
+}
+79 = {
+	name="de Thouars"
+	culture = frankish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 1 0 1 2 0 3
+		}
+		religion=catholic
+	}
+}
+80 = {
+	name="de Brienne"
+	culture = frankish
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+81 = {
+	name="de Coulonge"
+	culture = frankish
+}
+82 = {
+	name="Chamillart"
+	culture = frankish
+}
+83 = {
+	name="de Châtillion"
+	culture = frankish
+}
+84 = {
+	name="d'Avaugour"
+	culture = frankish
+}
+85 = {
+	name="de La Rocque de Roberval"
+	culture = frankish
+}
+86 = {
+	name="Champlain"
+	culture = frankish
+}
+87 = {
+	name="de Rigaud"
+	culture = frankish
+}
+88 = {
+	name="de Montmagny"
+	culture = frankish
+}
+89 = {
+	name="de Clermont"
+	culture = frankish
+}
+90 = {
+	name="de Vitry"
+	culture = frankish
+}
+91 = {
+	name="de Rodez"
+	culture = frankish
+}
+92 = {
+	name="de Dampierre"
+	culture = frankish
+}
+93 = {
+	name="Cartier"
+	culture = frankish
+}
+94 = {
+	name="de Sully"
+	culture = frankish
+}
+95 = {
+	name="de Bourg"
+	culture = frankish
+}
+96 = {
+	name="de Gironde"
+	culture = frankish
+}
+97 = {
+	name="de Bergerac"
+	culture = frankish
+}
+98 = {
+	name="de Marigny"
+	culture = frankish
+}
+99 = {
+	name="de L'isle Jourdain"
+	culture = frankish
+}
+100 = {
+	name="d'Artois"
+	culture = frankish
+}
+101 = {
+	name="de Valois"
+	culture = frankish
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 7
+			texture_internal = 32
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+102 = {
+	name="de Guines"
+	culture = frankish
+}
+103 = {
+	name="Calvert"
+	culture = english
+}
+104 = {
+	name="Hayles"
+	culture = english
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 5 3 5 5
+		}
+		religion=catholic
+	}
+}
+105 = {
+	name="Walker"
+	culture = english
+}
+106 = {
+	name="Gosnold"
+	culture = english
+}
+107 = {
+	name="Scrivener"
+	culture = english
+}
+108 = {
+	name="Bolt"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+109 = {
+	name="Brusastad"
+	culture = norwegian
+}
+110 = {
+	name="Raleigh"
+	culture = english
+}
+111 = {
+	name="Somers"
+	culture = english
+}
+112 = {
+	name="Newport"
+	culture = english
+}
+113 = {
+	name="Gates"
+	culture = english
+}
+114 = {
+	name="Strachey"
+	culture = english
+}
+115 = {
+	name="Rolfe"
+	culture = english
+}
+116 = {
+	name="West"
+	culture = english
+}
+117 = {
+	name="Ratcliffe"
+	culture = english
+}
+118 = {
+	name="Shirley"
+	culture = english
+}
+119 = {
+	name="Darnall"
+	culture = english
+}
+120 = {
+	name="Coode"
+	culture = english
+}
+121 = {
+	name="Carroll"
+	culture = english
+}
+122 = {
+	name="Archer"
+	culture = english
+}
+123 = {
+	name="Brereton"
+	culture = english
+}
+124 = {
+	name="Brent"
+	culture = english
+}
+125 = {
+	name="Brooke"
+	culture = english
+}
+126 = {
+	name="Berkeley"
+	culture = english
+}
+127 = {
+	name="Hyde"
+	culture = english
+}
+128 = {
+	name="Nicolls"
+	culture = english
+}
+129 = {
+	name="Giske"
+	culture = norwegian
+}
+130 = {
+	name="Rose"
+	culture = english
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 21 3 1 1
+		}
+		religion=catholic
+	}
+}
+132 = {
+	name="Raud"
+	culture = norwegian
+}
+133 = {
+	name="Gullbjelke"
+	culture = norwegian
+}
+135 = {
+	name="Hesby"
+	culture = norwegian
+}
+136 = {
+	name="Ulv"
+	culture = swedish
+}
+137 = {
+	name="Sparre"
+	culture = swedish
+}
+138 = {
+	name="Färla"
+	culture = swedish
+}
+140 = {
+	name="Brahe"
+	culture = swedish
+}
+141 = {
+	name="af Rumby"
+	culture = swedish
+}
+142 = {
+	name="af Brunnsholm"
+	culture = swedish
+}
+143 = {
+	name="af Ulvåsa"
+	culture = swedish
+}
+144 = {
+	name="Sjöblad"
+	culture = swedish
+}
+145 = {
+	name="av Sudreim"
+	culture = norwegian
+}
+146 = {
+	name="Skarsholm"
+	culture = swedish
+}
+147 = {
+	name="Blå"
+	culture = swedish
+}
+148 = {
+	name="Printz"
+	culture = swedish
+}
+149 = {
+	name="Griphuvud"
+	culture = swedish
+}
+150 = {
+	name="Lejon"
+	culture = swedish
+}
+152 = {
+	name="Glysing"
+	culture = danish
+}
+153 = {
+	name="Bielke"
+	culture = swedish
+}
+156 = {
+	name="di Crivelli"
+	culture = italian
+}
+160 = {
+	name="Saint-Gilles"
+	culture = frankish
+}
+161 = {
+	name="de Montjoy"
+	culture = english
+}
+162 = {
+	name="Hudson"
+	culture = english
+}
+167 = {
+	name="Montferrato"
+	culture = italian
+}
+168 = {
+	name="Andreievich"
+	culture = russian
+}
+169 = {
+	name="Dobrynich"
+	culture = russian
+}
+172 = {
+	name="Petrilov"
+	culture = russian
+}
+173 = {
+	name="Borisov"
+	culture = russian
+}
+181 = {
+	name="Kievskiy"
+	culture = russian
+}
+186 = {
+	name="Kholmsky"
+	culture = russian
+}
+202 = {
+	name="Mastropiero"
+	culture = italian
+}
+207 = {
+	name="von Plain"
+	culture = german
+}
+208 = {
+	name="Luneville"
+	culture = frankish
+}
+212 = {
+	name="von Lengenfeld"
+	culture = german
+}
+213 = {
+	name="von Eberstein"
+	culture = german
+}
+214 = {
+	name="von Heinsberg"
+	culture = german
+}
+218 = {
+	name="von Andechs"
+	culture = german
+}
+219 = {
+	name="von Sulzbach"
+	culture = german
+}
+220 = {
+	name="van Serooskerken"
+	culture = dutch
+}
+221 = {
+	name="Ehinger"
+	culture = german
+}
+222 = {
+	name="von Versfleth"
+	culture = german
+}
+223 = {
+	name="von Wickerode"
+	culture = german
+}
+224 = {
+	name="Welser"
+	culture = german
+}
+225 = {
+	name="von Winzenburg"
+	culture = german
+}
+228 = {
+	name="von Bogen"
+	culture = german
+}
+231 = {
+	name="de Cleriuex"
+	culture = frankish
+}
+233 = {
+	name="de Poitiers-Valentinois"
+	culture = frankish
+}
+235 = {
+	name="de Valpergue"
+	culture = frankish
+}
+236 = {
+	name="de Cuiseaux"
+	culture = frankish
+}
+237 = {
+	name="von Genf"
+	culture = german
+}
+238 = {
+	name="von Arstein"
+	culture = german
+}
+241 = {
+	name="de Joinville"
+	culture = frankish
+}
+242 = {
+	name="de Vaudemont"
+	culture = frankish
+}
+243 = {
+	name="von Veldenz"
+	culture = german
+}
+244 = {
+	name="von Landsberg"
+	culture = german
+}
+248 = {
+	name="von Berg"
+	culture = german
+}
+251 = {
+	name="von Speyer"
+	culture = german
+}
+252 = {
+	name="von Saarbrucken"
+	culture = german
+}
+253 = {
+	name="Becher"
+	culture = german
+}
+254 = {
+	name="von Henneberg"
+	culture = german
+}
+255 = {
+	name="von Nörvenich"
+	culture = german
+}
+256 = {
+	name="von Jülich"
+	culture = german
+}
+257 = {
+	name="Federmann"
+	culture = german
+}
+258 = {
+	name="von Kirchberg"
+	culture = german
+}
+259 = {
+	name="von Heimbach"
+	culture = german
+}
+262 = {
+	name="von Raabs"
+	culture = german
+}
+270 = {
+	name="Fogaça"
+	culture = portuguese
+}
+271 = {
+	name="Nunes"
+	culture = portuguese
+}
+272 = {
+	name="de Bragança"
+	culture = portuguese
+	coat_of_arms=
+	{
+		data=
+		{
+			0 1 0 10 0 3 5
+		}
+		religion=catholic
+	}
+}
+273 = {
+	name="de Borgonha"
+	culture = portuguese
+}
+274 = {
+	name="de Deza"
+	culture = castillan
+}
+275 = {
+	name="de Borgona"
+	culture = castillan
+}
+276 = {
+	name="Alonso"
+	culture = castillan
+}
+278 = {
+	name="de Traba"
+	culture = castillan
+}
+279 = {
+	name="de Castro"
+	culture = castillan
+}
+280 = {
+	name="de Narbonne"
+	culture = frankish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 2 0 2 0 3 2
+		}
+		religion=catholic
+	}
+}
+281 = {
+	name="de Bourgogne-Comté"
+	culture = frankish
+}
+282 = {
+	name="Pauw"
+	culture = dutch
+}
+283 = {
+	name="Kieft"
+	culture = dutch
+}
+284 = {
+	name="Plockhoy"
+	culture = dutch
+}
+285 = {
+	name="van Rensselaer"
+	culture = dutch
+}
+286 = {
+	name="van Bonen"
+	culture = dutch
+}
+287 = {
+	name="Minuit"
+	culture = dutch
+}
+288 = {
+	name="de Vries"
+	culture = dutch
+}
+289 = {
+	name="Stuyvesant"
+	culture = dutch
+}
+290 = {
+	name="van Rheineck"
+	culture = dutch
+}
+291 = {
+	name="van Wassemberg"
+	culture = dutch
+}
+292 = {
+	name="van Geldern"
+	culture = dutch
+}
+293 = {
+	name="van Bergh"
+	culture = dutch
+}
+295 = {
+	name="de l'Aigle"
+	culture = frankish
+}
+296 = {
+	name="del Carpio"
+	culture = castillan
+}
+298 = {
+	name="de Flotte"
+	culture = frankish
+}
+300 = {
+	name="de Vendome"
+	culture = frankish
+}
+301 = {
+	name="de Champagne"
+	culture = frankish
+}
+302 = {
+	name="de Namur"
+	culture = frankish
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 11
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+303 = {
+	name="de Bissy"
+	culture = frankish
+}
+304 = {
+	name="d'Eu"
+	culture = frankish
+}
+306 = {
+	name="du Perche"
+	culture = frankish
+}
+307 = {
+	name="van Brabant"
+	culture = dutch
+}
+309 = {
+	name="de Dinan"
+	culture = frankish
+
+}
+310 = {
+	name="de Vitré"
+	culture = frankish
+}
+314 = {
+	name="Puy du Fou"
+	culture = frankish
+}
+315 = {
+	name="de Preuilly"
+	culture = frankish
+}
+316 = {
+	name="de Guingamp"
+	culture = frankish
+}
+317 = {
+	name="de Penthièvre"
+	culture = frankish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 4 0 9 1 5 5
+		}
+		religion=catholic
+	}
+}
+318 = {
+	name="de Châtellerault"
+	culture = frankish
+}
+319 = {
+	name="de Laval"
+	culture = frankish
+}
+321 = {
+	name="de Salins"
+	culture = frankish
+}
+322 = {
+	name="de Méziriac"
+	culture = frankish
+}
+323 = {
+	name="d'Oisy"
+	culture = frankish
+}
+324 = {
+	name="de Barthe"
+	culture = frankish
+}
+325 = {
+	name="de Fezensac"
+	culture = frankish
+}
+326 = {
+	name="de Brézé"
+	culture = frankish
+}
+327 = {
+	name="de Rancon"
+	culture = frankish
+}
+328 = {
+	name="de Boisrobert"
+	culture = frankish
+}
+329 = {
+	name="Dupont"
+	culture = frankish
+}
+330 = {
+	name="d'Angoulême"
+	culture = frankish
+}
+331 = {
+	name="de Guyenne"
+	culture = frankish
+}
+332 = {
+	name="Le Tellier"
+	culture = frankish
+}
+333 = {
+	name="de Talleyrand"
+	culture = frankish
+}
+334 = {
+	name="de Batarnay"
+	culture = frankish
+}
+335 = {
+	name="de Beaumont-au-Maine"
+	culture = frankish
+}
+336 = {
+	name="de Montcada"
+	culture = castillan
+}
+337 = {
+	name="de Béarn"
+	culture = frankish
+}
+338 = {
+	name="de Hainaut"
+	culture = frankish
+}
+339 = {
+	name="de Crecy"
+	culture = frankish
+}
+340 = {
+	name="de Bellegarde"
+	culture = frankish
+}
+341 = {
+	name="de St. Hilary"
+	culture = frankish
+}
+342 = {
+	name="d'Aubigny"
+	culture = frankish
+}
+343 = {
+	name="de Albemarle"
+	culture = frankish
+}
+344 = {
+	name="de Mandeville"
+	culture = english
+}
+345 = {
+	name="de Verre"
+	culture = frankish
+}
+347 = {
+	name="de Warren"
+	culture = english
+}
+348 = {
+	name="de Newburgh"
+	culture = english
+}
+349 = {
+	name="Peveral"
+	culture = english
+}
+355 = {
+	name="de Mellent"
+	culture = frankish
+}
+357 = {
+	name="de Vernon"
+	culture = frankish
+}
+360 = {
+	name="Estouteville"
+	culture = frankish
+}
+361 = {
+	name="Dodington"
+	culture = english
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 21 1 11 11
+		}
+		religion=catholic
+	}
+}
+363 = {
+	name="de Gaunt"
+	culture = english
+}
+364 = {
+	name="de Clare"
+	culture = english
+}
+365 = {
+	name="de Vere"
+	culture = english
+}
+366 = {
+	name="Stawell"
+	culture = english
+}
+367 = {
+	name="Nicolay"
+	culture = frankish
+}
+368 = {
+	name="de Morville"
+	culture = frankish
+}
+374 = {
+	name="Huntingdon"
+	culture = english
+}
+375 = {
+	name="Gates"
+	culture = english
+}
+376 = {
+	name="av Norge"
+	culture = norwegian
+}
+377 = {
+	name="King"
+	culture = frankish
+}
+379 = {
+	name="Ulfhilde"
+	culture = norwegian
+}
+380 = {
+	name="Roes"
+	culture = german
+}
+382 = {
+	name="Lockhart"
+	culture = english
+}
+384 = {
+	name="de Bolea"
+	culture = castillan
+}
+385 = {
+	name="de Tosny"
+	culture = frankish
+}
+386 = {
+	name="de Comminges"
+	culture = frankish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 2 0 1 1 3 5
+		}
+		religion=catholic
+	}
+}
+389 = {
+	name="de Nimes"
+	culture = frankish
+}
+390 = {
+	name="de Acuña"
+	culture = castillan
+}
+391 = {
+	name="de Bezieres"
+	culture = frankish
+}
+394 = {
+	name="de Ribera"
+	culture = castillan
+}
+397 = {
+	name="Ramírez"
+	culture = castillan
+}
+398 = {
+	name="Ochoa"
+	culture = castillan
+}
+399 = {
+	name="de Agurto"
+	culture = castillan
+}
+400 = {
+	name="de Menezes"
+	culture = castillan
+}
+402 = {
+	name="de Oviedo"
+	culture = castillan
+	coat_of_arms=
+	{
+		data=
+		{
+			0 1 0 16 0 2 1
+		}
+		religion=catholic
+	}
+}
+403 = {
+	name="de Alba de Liste"
+	culture = castillan
+}
+404 = {
+	name="de Tilly"
+	culture = frankish
+}
+405 = {
+	name="Ansúrez"
+	culture = castillan
+	coat_of_arms=
+	{
+		data=
+		{
+			0 1 0 8 3 0 5
+		}
+		religion=catholic
+	}
+}
+406 = {
+	name="de Castrogeriz"
+	culture = castillan
+}
+407 = {
+	name="de Balboa"
+	culture = castillan
+}
+408 = {
+	name="de Alencastre"
+	culture = castillan
+}
+409 = {
+	name="de Ovando"
+	culture = castillan
+}
+410 = {
+	name="de Vizcaya"
+	culture = castillan
+}
+411 = {
+	name="de Viguera"
+	culture = castillan
+}
+412 = {
+	name="d'Ávalos"
+	culture = castillan
+}
+414 = {
+	name="de Mons"
+	culture = frankish
+}
+415 = {
+	name="de Hainault"
+	culture = frankish
+}
+417 = {
+	name="van Teisterbant"
+	culture = dutch
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 22 0 3 3
+		}
+		religion=catholic
+	}
+}
+419 = {
+	name="van Leuven"
+	culture = dutch
+}
+421 = {
+	name="van Gent"
+	culture = dutch
+}
+422 = {
+	name="von Hornes"
+	culture = german
+}
+423 = {
+	name="van Namen"
+	culture = dutch
+}
+424 = {
+	name="van Loon"
+	culture = dutch
+}
+425 = {
+	name="van Heinsberg"
+	culture = dutch
+}
+426 = {
+	name="de Montaigu"
+	culture = frankish
+}
+428 = {
+	name="d'Alsace"
+	culture = frankish
+}
+429 = {
+	name="van de Veluwe"
+	culture = dutch
+}
+430 = {
+	name="De Graeff"
+	culture = dutch
+}
+437 = {
+	name="de Aza"
+	culture = castillan
+}
+438 = {
+	name="de Bazán"
+	culture = castillan
+}
+439 = {
+	name="de Aybar"
+	culture = castillan
+}
+440 = {
+	name="de Nájera"
+	culture = castillan
+}
+441 = {
+	name="de Benavides"
+	culture = castillan
+}
+443 = {
+	name="de Benserade"
+	culture = frankish
+}
+444 = {
+	name="av Freysey"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 132
+			emblem = 0
+			color = 1
+			color = 7
+			color = 0
+		}
+	}
+}
+445 = {
+	name="av Sudrey"
+	culture = norwegian
+}
+446 = {
+	name="av Sola"
+	culture = norwegian
+}
+447 = {
+	name="av Aurland"
+	culture = norwegian
+}
+448 = {
+	name="Briem" #Thordardottir
+	culture = norwegian
+}
+449 = {
+	name="Kormákur" #Folesson
+	culture = norwegian
+}
+450 = {
+	name="Gautur" #Einarsdottir
+	culture = norwegian
+}
+451 = {
+	name="Örn" #Einridesson
+	culture = norwegian
+}
+452 = {
+	name="Laxness" #Thorsteinsdottir
+	culture = norwegian
+}
+453 = {
+	name="Gisking"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 87
+			emblem = 0
+			color = 1
+			color = 7
+			color = 0
+		}
+	}
+}
+454 = {
+	name="Kvaran" #Eilifsson
+	culture = norwegian
+}
+455 = {
+	name="Hagalín" #Ormsson
+	culture = norwegian
+}
+456 = {
+	name="Eldjárn" #Tryggvadottir
+	culture = norwegian
+}
+457 = {
+	name="Mjøll" #Tryggvasson
+	culture = norwegian
+}
+458 = {
+	name="Nótt" #Olafsson
+	culture = norwegian
+}
+459 = {
+	name="Huld" #Eriksdottir
+	culture = norwegian
+}
+460 = {
+	name="Hafstein" #Sumarlididottir
+	culture = norwegian
+}
+461 = {
+	name="Leifson"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 171
+			emblem = 0
+			color = 4
+			color = 1
+			color = 0
+		}
+	}
+}
+462 = {
+	name="Bløndal" #Magnussdottir
+	culture = norwegian
+}
+463 = {
+	name="Finne" #Olafsson
+	culture = norwegian
+}
+464 = {
+	name="Orri" #Olafsdottir
+	culture = norwegian
+}
+465 = {
+	name="Grønske"
+	culture = norwegian
+}
+466 = {
+	name="Ómar" #Hakonardottir
+	culture = norwegian
+}
+467 = {
+	name="Nordal" #Ivarsson
+	culture = norwegian
+}
+468 = {
+	name="Trætte"
+	culture = norwegian
+}
+469 = {
+	name="Kjærnested" #Skoftesson
+	culture = norwegian
+}
+470 = {
+	name="Icey" #Skagesdottir
+	culture = norwegian
+}
+471 = {
+	name="Mule"
+	culture = norwegian
+}
+472 = {
+	name="Bjørk" #Haraldsdottir
+	culture = norwegian
+}
+473 = {
+	name="Dosenrode" #Eriksson
+	culture = norwegian
+}
+474 = {
+	name="Haarde" #Haraldsson
+	culture = norwegian
+}
+478 = {
+	name="Ásbrningar" #Vagnsdottir
+	culture = norwegian
+}
+479 = {
+	name="Haukdaelir" #Torkelsdottir
+	culture = norwegian
+}
+480 = {
+	name="Oddaverjar" #Åkesson
+	culture = norwegian
+}
+481 = {
+	name="af Viborg"
+	culture = danish
+}
+483 = {
+	name="Sprakalegg"
+	culture = danish
+}
+484 = {
+	name="Sturlung"
+	culture = danish
+}
+485 = {
+	name="Svínfelling"
+	culture = danish
+}
+486 = {
+	name="Vatnsfirðing"
+	culture = danish
+}
+488 = {
+	name="Ormslev" #Olofsdottir
+	culture = norwegian
+}
+489 = {
+	name="Gnarr" #Klacksdottir
+	culture = norwegian
+}
+491 = {
+	name="Egede"
+	culture = danish
+}
+492 = {
+	name="af Tofta"
+	culture = swedish
+}
+493 = {
+	name="af Hamra"
+	culture = swedish
+}
+494 = {
+	name="af Akebäck"
+	culture = swedish
+}
+495 = {
+	name="Stenkyrka"
+	culture = swedish
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+497 = {
+	name="Horn"
+	culture = swedish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 18 5 1 1
+		}
+		religion=norse_pagan
+	}
+}
+499 = {
+	name="Yngling"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 49
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+503 = {
+	name="Izyaslavich"
+	culture = russian
+}
+513 = {
+	name="Ordelaffo"
+	culture = italian
+}
+514 = {
+	name="Colombo"
+	culture = italian
+}
+515 = {
+	name="Silvio"
+	culture = italian
+}
+518 = {
+	name="Henry"
+	culture = english
+}
+521 = {
+	name="von Beilstein"
+	culture = german
+}
+527 = {
+	name="Orlamunde"
+	culture = german
+}
+530 = {
+	name="de Harcourt"
+	culture = frankish
+}
+534 = {
+	name="de Crepon"
+	culture = english
+}
+535 = {
+	name="de Châtillon"
+	culture = frankish
+}
+539 = {
+	name="de Bougency"
+	culture = frankish
+}
+540 = {
+	name="Hastings"
+	culture = english
+}
+544 = {
+	name="de Soissons"
+	culture = frankish
+}
+545 = {
+	name="Tudor"
+	culture = english
+}
+558 = {
+	name="de Mowbray"
+	culture = english
+}
+561 = {
+	name="de Puiset"
+	culture = frankish
+}
+563 = {
+	name="d'Escures"
+	culture = frankish
+}
+564 = {
+	name="de Jumièges"
+	culture = frankish
+}
+621 = {
+	name="Scannabecchi"
+	culture = italian
+}
+623 = {
+	name="de Lagery"
+	culture = frankish
+}
+646 = {
+	name="Weimar"
+	culture = german
+}
+649 = {
+	name="Oeningen"
+	culture = german
+}
+652 = {
+	name="von Haldensleben"
+	culture = german
+}
+653 = {
+	name="von Schweinfurt"
+	culture = german
+}
+660 = {
+	name="de Maine"
+	culture = frankish
+}
+662 = {
+	name="de Moselle"
+	culture = frankish
+}
+668 = {
+	name="von Ringelheim"
+	culture = german
+}
+673 = {
+	name="de Maurienne"
+	culture = frankish
+}
+674 = {
+	name="de Mouzay"
+	culture = frankish
+}
+675 = {
+	name="de Vienne"
+	culture = frankish
+}
+676 = {
+	name="de Lauson"
+	culture = frankish
+}
+678 = {
+	name="d'Avaugour"
+	culture = frankish
+}
+683 = {
+	name="Menéndez"
+	culture = castillan
+}
+683 = {
+	name="Cortés"
+	culture = castillan
+}
+684 = {
+	name="Menéndez"
+	culture = castillan
+}
+685 = {
+	name="Cortés"
+	culture = castillan
+}
+686 = {
+	name="Díaz del Castillo"
+	culture = frankish
+}
+687 = {
+	name="Díaz"
+	culture = castillan
+}
+688 = {
+	name="Velázquez"
+	culture = castillan
+}
+689 = {
+	name="Velázquez de Cuéllar"
+	culture = castillan
+}
+690 = {
+	name="Pizarro"
+	culture = castillan
+}
+704 = {
+	name="Lyubechanin"
+	culture = russian
+}
+705 = {
+	name="Rurikovich"
+	culture = russian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 39
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+}
+709 = {
+	name="Gravé du Pont"
+	culture = frankish
+}
+710 = {
+	name="de Beaumont"
+	culture = frankish
+}
+711 = {
+	name="de Vielles"
+	culture = frankish
+}
+712 = {
+	name="d'Archiac"
+	culture = frankish
+}
+713 = {
+	name="de Ponthieu"
+	culture = frankish
+}
+714 = {
+	name="d'Aumale"
+	culture = frankish
+}
+715 = {
+	name="de Lorraine"
+	culture = frankish
+}
+716 = {
+	name="la Belle"
+	culture = frankish
+}
+717 = {
+	name="de Bar-Sur-Seine"
+	culture = frankish
+}
+718 = {
+	name="de Vermandois"
+	culture = frankish
+}
+719 = {
+	name="Cavanez"
+	culture = castillan
+}
+720 = {
+	name="de Provence"
+	culture = frankish
+}
+721 = {
+	name="de Courcelle"
+	culture = frankish
+}
+722 = {
+	name="de Gastinois"
+	culture = frankish
+}
+723 = {
+	name="de Frontenac"
+	culture = frankish
+}
+724 = {
+	name="van Vlaanderen"
+	culture = dutch
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+725 = {
+	name="de Guincamp"
+	culture = frankish
+}
+726 = {
+	name="de Bretagne"
+	culture = frankish
+}
+727 = {
+	name="de Saffray de Mésy"
+	culture = frankish
+}
+728 = {
+	name="de Montignac"
+	culture = frankish
+}
+729 = {
+	name="de Limoges"
+	culture = frankish
+}
+730 = {
+	name="Bontemps"
+	culture = frankish
+}
+731 = {
+	name="de Boullion"
+	culture = frankish
+}
+732 = {
+	name="de la Barre"
+	culture = frankish
+}
+733 = {
+	name="de Denonville"
+	culture = frankish
+}
+734 = {
+	name="de Callière"
+	culture = frankish
+}
+735 = {
+	name="de Vergy"
+	culture = frankish
+}
+736 = {
+	name="de Chalon"
+	culture = frankish
+}
+737 = {
+	name="de Macon"
+	culture = frankish
+}
+738 = {
+	name="de Roucy"
+	culture = frankish
+}
+739 = {
+	name="de la Jonquière"
+	culture = frankish
+}
+740 = {
+	name="de Vaudreuil"
+	culture = frankish
+}
+741 = {
+	name="de Beauharnois"
+	culture = frankish
+}
+742 = {
+	name="de Sémur-en-Brionnais"
+	culture = frankish
+}
+747 = {
+	name="Gerbod"
+	culture = german
+}
+748 = {
+	name="de Warenne"
+	culture = english
+}
+749 = {
+	name="de Brevere"
+	culture = english
+}
+750 = {
+	name="Amherst"
+	culture = english
+}
+751 = {
+	name="de Montgomery"
+	culture = english
+}
+758 = {
+	name="Bjering"
+	culture = swedish
+}
+759 = {
+	name="Rothén"
+	culture = swedish
+}
+760 = {
+	name="Galen"
+	culture = danish
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 22
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+761 = {
+	name="Läma"
+	culture = swedish
+}
+762 = {
+	name="Kling"
+	culture = swedish
+}
+763 = {
+	name="Rumby"
+	culture = swedish
+}
+767 = {
+	name="de Albuquerque"
+	culture = portuguese
+}
+768 = {
+	name="de Bolougne"
+	culture = frankish
+}
+769 = {
+	name="de Ribeira"
+	culture = portuguese
+}
+770 = {
+	name="de Sousa"
+	culture = portuguese
+	coat_of_arms=
+	{
+		data=
+		{
+			0 1 0 10 1 3 0
+		}
+		religion=catholic
+	}
+}
+771 = {
+	name="de Noboa"
+	culture = castillan
+}
+772 = {
+	name="Pacheco"
+	culture = portuguese
+}
+773 = {
+	name="de Briteiros"
+	culture = portuguese
+}
+774 = {
+	name="de Trastámara"
+	culture = castillan
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 43
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+}
+775 = {
+	name="de Cavagnal"
+	culture = frankish
+}
+776 = {
+	name="de Lara"
+	culture = castillan
+}
+778 = {
+	name="de Haro"
+	culture = castillan
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 4 1 8 8
+		}
+		religion=catholic
+	}
+}
+779 = {
+	name="de Valencia"
+	culture = castillan
+}
+780 = {
+	name="de Briteirose"
+	culture = portuguese
+}
+781 = {
+	name="de Castañeda"
+	culture = castillan
+}
+782 = {
+	name="de Molina"
+	culture = castillan
+}
+783 = {
+	name="Guerrero"
+	culture = castillan
+}
+784 = {
+	name="de Gandia"
+	culture = castillan
+}
+785 = {
+	name="de Vidaure"
+	culture = castillan
+}
+786 = {
+	name="Álvarez de Azagra"
+	culture = castillan
+}
+801 = {
+	name="Djäkn"
+	culture = swedish
+}
+802 = {
+	name="Svärd"
+	culture = swedish
+}
+815 = {
+	name="Bagge"
+	culture = swedish
+}
+1002 = {
+	name="Banner"
+	culture = danish
+}
+1003 = {
+	name="Bese"
+	culture = swedish
+}
+1004 = {
+	name="Boberg"
+	culture = swedish
+}
+1005 = {
+	name="Bragde"
+	culture = swedish
+}
+1007 = {
+	name="Bure"
+	culture = swedish
+}
+1008 = {
+	name="Eka"
+	culture = swedish
+}
+1009 = {
+	name="Fargalt"
+	culture = swedish
+}
+1010 = {
+	name="af Fånö"
+	culture = swedish
+}
+1011 = {
+	name="Forsa"
+	culture = swedish
+}
+1012 = {
+	name="Get"
+	culture = swedish
+}
+1013 = {
+	name="Gedda"
+	culture = swedish
+}
+1014 = {
+	name="af Hafrid"
+	culture = swedish
+}
+1015 = {
+	name="Hatt"
+	culture = swedish
+}
+1016 = {
+	name="af Hålbonäs"
+	culture = swedish
+}
+1017 = {
+	name="Hästhuvud"
+	culture = swedish
+}
+1018 = {
+	name="Knoppe"
+	culture = swedish
+}
+1019 = {
+	name="Kraam"
+	culture = swedish
+}
+1020 = {
+	name="Lake"
+	culture = swedish
+}
+1021 = {
+	name="Lejonansikte"
+	culture = swedish
+}
+1022 = {
+	name="Lejonbalk"
+	culture = swedish
+}
+1023 = {
+	name="Marsvin"
+	culture = swedish
+}
+1024 = {
+	name="Oxhufvud"
+	culture = swedish
+}
+1025 = {
+	name="Oxpanna"
+	culture = swedish
+}
+1026 = {
+	name="Pik"
+	culture = swedish
+}
+1029 = {
+	name="Skytte"
+	culture = swedish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 7 1 7 7
+		}
+		religion="tengri_pagan"
+	}
+}
+1030 = {
+	name="Stake"
+	culture = swedish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 15 1 2 2
+		}
+		religion="norse_pagan"
+	}
+}
+1031 = {
+	name="Stenbock"
+	culture = swedish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 1 1 7 7
+		}
+		religion="norse_pagan"
+	}
+}
+1032 = {
+	name="Sture"
+	culture = swedish
+}
+1033 = {
+	name="Svan"
+	culture = swedish
+}
+1034 = {
+	name="Svinhufvud"
+	culture = swedish
+}
+1035 = {
+	name="Thott"
+	culture = danish
+}
+1036 = {
+	name="Tott"
+	culture = swedish
+}
+1037 = {
+	name="Tre Rosor"
+	culture = swedish
+}
+1038 = {
+	name="Tre Rutor"
+	culture = swedish
+}
+1040 = {
+	name="Trolle"
+	culture = danish
+}
+1042 = {
+	name="Vasa"
+	culture = swedish
+}
+1043 = {
+	name="Vinstorpa" # Vinstorpaätten
+	culture = swedish
+}
+1044 = {
+	name="Virske"
+	culture = swedish
+}
+1045 = {
+	name="Vingad Pil"
+	culture = swedish
+}
+1046 = {
+	name="Vingad Lilja"
+	culture = swedish
+}
+1047 = {
+	name="Hästesko"
+	culture = swedish
+}
+1048 = {
+	name="Örnsparre"
+	culture = swedish
+}
+1049 = {
+	name="Snedbielke"
+	culture = swedish
+}
+1050 = {
+	name="Läma"
+	culture = swedish
+}
+1052 = {
+	name="Fluga"
+	culture = swedish
+}
+1057 = {
+	name = "Guldtupp"
+	culture = swedish
+}
+1058 = {
+	name = "Ulfsax"
+	culture = swedish
+}
+1151 = {
+	name = "Myall"
+	culture = english
+}
+1153 = {
+	name = "Stjerne"
+	culture = swedish
+}
+1154 = {
+	name = "Schmollinger"
+	culture = german
+}
+1155 = {
+	name = "Witte"
+	culture = german
+}
+1156 = {
+	name = "Wullenpund"
+	culture = german
+}
+1158 = {
+	name = "von Hagen"
+	culture = german
+}
+1161 = {
+	name = "Steneke"
+	culture = german
+}
+1162 = {
+	name = "Schmidt"
+	culture = german
+}
+1163 = {
+	name = "von Mölln"
+	culture = german
+}
+1164 = {
+	name = "Runese"
+	culture = german
+}
+1166 = {
+	name = "Pleskow"
+	culture = german
+}
+2001 = {
+	name="Benkestokk"
+	culture = norwegian
+}
+2002 = {
+	name="Handingmann"
+	culture = norwegian
+}
+2003 = {
+	name="Aspa"
+	culture = norwegian
+}
+2004 = {
+	name="Aurland"
+	culture = norwegian
+}
+2005 = {
+	name="Bjarkøy"
+	culture = norwegian
+}
+2006 = {
+	name="Andenes"
+	culture = norwegian
+}
+2007 = {
+	name="Blakar"
+	culture = norwegian
+}
+2008 = {
+	name="Blindheim"
+	culture = norwegian
+}
+2009 = {
+	name="Botner"
+	culture = danish
+}
+2010 = {
+	name="Bratt"
+	culture = swedish
+}
+2011 = {
+	name="Darre"
+	culture = danish
+}
+2012 = {
+	name="Egge"
+	culture = danish
+}
+2015 = {
+	name="Asdal"
+	culture = norwegian
+}
+2016 = {
+	name="Hudfat"
+	culture = norwegian
+}
+2017 = {
+	name="Hård"
+	culture = norwegian
+}
+2018 = {
+	name="Kane"
+	culture = norwegian
+}
+2021 = {
+	name="Losna"
+	culture = norwegian
+}
+2024 = {
+	name="Ringnes"
+	culture = norwegian
+}
+2025 = {
+	name="Semeleng"
+	culture = norwegian
+}
+2026 = {
+	name="Spånheim"
+	culture = norwegian
+}
+2027 = {
+	name="Gjesling"
+	culture = norwegian
+}
+2028 = {
+	name="Sudrheim"
+	culture = norwegian
+}
+2029 = {
+	name="Talgje"
+	culture = norwegian
+}
+2030 = {
+	name="Teiste"
+	culture = norwegian
+}
+2031 = {
+	name="Østby"
+	culture = norwegian
+}
+2032 = {
+	name="Østråt"
+	culture = norwegian
+}
+2033 = {
+	name="Rein"
+	culture = norwegian
+}
+2034 = {
+	name="Giske"
+	culture = norwegian
+}
+2035 = {
+	name="Kamp"
+	culture = norwegian
+}
+2036 = {
+	name="Nordhagen"
+	culture = norwegian
+}
+2038 = {
+	name="Bjelke"
+	culture = swedish
+}
+2039 = {
+	name="Bolt"
+	culture = norwegian
+}
+2040 = {
+	name="Galle"
+	culture = norwegian
+}
+2041 = {
+	name="Galtung"
+	culture = norwegian
+}
+2042 = {
+	name="Hjerne"
+	culture = norwegian
+}
+2043 = {
+	name="Kamp"
+	culture = norwegian
+}
+2044 = {
+	name="Rømer"
+	culture = norwegian
+}
+2045 = {
+	name="Skanke"
+	culture = norwegian
+}
+2046 = {
+	name="Smør"
+	culture = norwegian
+}
+2047 = {
+	name="Staur"
+	culture = norwegian
+}
+2050 = {
+	name="Skjegge"
+	culture = norwegian
+}
+3110 = {
+	name="Gunn"
+	culture = norwegian
+}
+3146 = {
+	name="Randolph"
+	culture = english
+}
+3811 = {
+	name="Bonde"
+	culture = swedish
+}
+3951 = {
+	name="Wester"
+	culture = swedish
+}
+3952 = {
+	name="Helmehytte"
+	culture = norwegian
+}
+3953 = {
+	name="Pilhufvud"
+	culture = swedish
+}
+4000 = {
+	name="Percy"
+	culture = english
+}
+4001 = {
+	name="Mortimer"
+	culture = english
+}
+4003 = {
+	name="de Montfort"
+	culture = frankish
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 29
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+4004 = {
+	name="Neville"
+	culture = english
+}
+4005 = {
+	name="Scrope"
+	culture = english
+}
+4007 = {
+	name="Bacon"
+	culture = english
+}
+4008 = {
+	name="Reresby"
+	culture = english
+}
+4009 = {
+	name="Cornwallis"
+	culture = english
+}
+4010 = {
+	name="Clifford"
+	culture = english
+}
+4011 = {
+	name="Giffard"
+	culture = english
+}
+4012 = {
+	name="Crispin"
+	culture = english
+}
+4013 = {
+	name="Carew"
+	culture = english
+}
+4014 = {
+	name="Maddock"
+	culture = english
+}
+4015 = {
+	name="de Turberville"
+	culture = english
+}
+4016 = {
+	name="Fortescue"
+	culture = english
+}
+4017 = {
+	name="Bourchier"
+	culture = english
+}
+4018 = {
+	name="Stanley"
+	culture = english
+}
+4020 = {
+	name="Talbot"
+	culture = english
+}
+4021 = {
+	name="Howard"
+	culture = english
+}
+4024 = {
+	name="Berkeley"
+	culture = english
+}
+4025 = {
+	name="Barton"
+	culture = english
+}
+4027 = {
+	name="de Seagrave"
+	culture = english
+}
+4028 = {
+	name="Colville"
+	culture = english
+}
+4031 = {
+	name="Grey"
+	culture = english
+}
+4032 = {
+	name="de Greystock"
+	culture = english
+}
+4037 = {
+	name="de Lacy"
+	culture = english
+}
+4039 = {
+	name="Darcy"
+	culture = english
+}
+4040 = {
+	name="Butler"
+	culture = english
+}
+4041 = {
+	name="FitzGerald"
+	culture = english
+}
+4042 = {
+	name="de Cherleton"
+	culture = english
+}
+5001 = {
+	name="de Rochechouart"
+	culture = frankish
+}
+5002 = {
+	name="de Mortemart"
+	culture = frankish
+}
+5003 = {
+	name="de Gramont"
+	culture = frankish
+}
+5004 = {
+	name="de la Rochefoucauld"
+	culture = frankish
+}
+5005 = {
+	name="de Caumont"
+	culture = frankish
+}
+5006 = {
+	name="de Serrant"
+	culture = frankish
+}
+5007 = {
+	name="de la Roche Aymon"
+	culture = frankish
+}
+5008 = {
+	name="de Lévis"
+	culture = frankish
+}
+5009 = {
+	name="Duquesne de Menneville"
+	culture = frankish
+}
+5010 = {
+	name="de Villeneuve"
+	culture = frankish
+}
+5011 = {
+	name="de Beaufort"
+	culture = frankish
+}
+5013 = {
+	name="de Beauffremont"
+	culture = frankish
+}
+5014 = {
+	name="de Chalencon"
+	culture = frankish
+}
+5015 = {
+	name="de Polignac"
+	culture = frankish
+}
+5016 = {
+	name="de Riencourt"
+	culture = frankish
+}
+5017 = {
+	name="de Matignon"
+	culture = frankish
+}
+5020 = {
+	name="de Crussol"
+	culture = frankish
+}
+5021 = {
+	name="de Quatrebarbes"
+	culture = frankish
+}
+5022 = {
+	name="de Menthon"
+	culture = frankish
+}
+5023 = {
+	name="d'Argouges"
+	culture = frankish
+}
+5024 = {
+	name="de Noailles"
+	culture = frankish
+}
+5025 = {
+	name="de Mostuejouls"
+	culture = frankish
+}
+5026 = {
+	name="de Briey"
+	culture = frankish
+}
+5027 = {
+	name="de Vogué"
+	culture = frankish
+}
+5028 = {
+	name="de la Panouse"
+	culture = frankish
+}
+5029 = {
+	name="de Tournemire"
+	culture = frankish
+}
+5030 = {
+	name="de Curières"
+	culture = frankish
+}
+5031 = {
+	name="de Lévezou"
+	culture = frankish
+}
+5032 = {
+	name="de Beauvau"
+	culture = frankish
+}
+5034 = {
+	name="Chabot"
+	culture = frankish
+}
+5035 = {
+	name="de Menou"
+	culture = frankish
+}
+5036 = {
+	name="de la Rochelambert"
+	culture = frankish
+}
+5037 = {
+	name="de Cadoine"
+	culture = frankish
+}
+5038 = {
+	name="de Saint-Gilles"
+	culture = frankish
+}
+5039 = {
+	name="de Montrichard"
+	culture = frankish
+}
+5040 = {
+	name="d'Abzac"
+	culture = frankish
+}
+5041 = {
+	name="de Loubens"
+	culture = frankish
+}
+5042 = {
+	name="de Vergor"
+	culture = frankish
+}
+5044 = {
+	name="de Donges"
+	culture = frankish
+}
+5045 = {
+	name="de Pontchâteau"
+	culture = frankish
+}
+5046 = {
+	name="de Vitré"
+	culture = frankish
+}
+5047 = {
+	name="d'Estouville"
+	culture = frankish
+}
+5049 = {
+	name="de Mauvoisin"
+	culture = frankish
+}
+5051 = {
+	name="de Rouvray"
+	culture = frankish
+}
+5053 = {
+	name="de Blaison"
+	culture = frankish
+}
+5054 = {
+	name="de Craon"
+	culture = frankish
+}
+5055 = {
+	name="de l'Isle"
+	culture = frankish
+}
+5056 = {
+	name="de Mayenne"
+	culture = frankish
+}
+5057 = {
+	name="de Mello"
+	culture = frankish
+}
+5058 = {
+	name="des Roches"
+	culture = frankish
+}
+5059 = {
+	name="de Sablé"
+	culture = frankish
+}
+5061 = {
+	name="de Beaumont"
+	culture = frankish
+}
+5062 = {
+	name="Clément"
+	culture = frankish
+}
+5063 = {
+	name="du Perche"
+	culture = frankish
+}
+5064 = {
+	name="des Barres"
+	culture = frankish
+}
+5065 = {
+	name="de Senlis"
+	culture = frankish
+}
+5066 = {
+	name="de Campistron"
+	culture = frankish
+}
+5067 = {
+	name="de Corbeil"
+	culture = frankish
+}
+5068 = {
+	name="de Dreux"
+	culture = frankish
+}
+5070 = {
+	name="de Marly"
+	culture = frankish
+}
+5071 = {
+	name="de Melun"
+	culture = frankish
+}
+5072 = {
+	name="de Meulan"
+	culture = frankish
+}
+5073 = {
+	name="de Montmorency"
+	culture = frankish
+}
+5074 = {
+	name="de Nanteuil"
+	culture = frankish
+}
+5075 = {
+	name="de Chauvin"
+	culture = frankish
+}
+5076 = {
+	name="de Poissy"
+	culture = frankish
+}
+5077 = {
+	name="de Saint-Denis"
+	culture = frankish
+}
+5078 = {
+	name="de Voisins"
+	culture = frankish
+}
+5079 = {
+	name="de Boves"
+	culture = frankish
+}
+5080 = {
+	name="de Cayeux"
+	culture = frankish
+}
+5081 = {
+	name="de Coucy"
+	culture = frankish
+}
+5082 = {
+	name="de Fontaines"
+	culture = frankish
+}
+5083 = {
+	name="de Nesle"
+	culture = frankish
+}
+5084 = {
+	name="de Picquigny"
+	culture = frankish
+}
+5085 = {
+	name="de Roucy"
+	culture = frankish
+}
+5086 = {
+	name="de Saint-Valéry"
+	culture = frankish
+}
+5089 = {
+	name="de Grandpré"
+	culture = frankish
+}
+5090 = {
+	name="de Joigny"
+	culture = frankish
+}
+5092 = {
+	name="de Beaujeu"
+	culture = frankish
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 26
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+5095 = {
+	name="de Vergy"
+	culture = frankish
+}
+5096 = {
+	name="de Gourdon"
+	culture = frankish
+}
+5097 = {
+	name="de Mauléon"
+	culture = frankish
+}
+5098 = {
+	name="de Turenne"
+	culture = frankish
+}
+5099 = {
+	name="d'Astarac"
+	culture = frankish
+}
+5100 = {
+	name="de Lomagne"
+	culture = frankish
+}
+5101 = {
+	name="de Montesquiou"
+	culture = frankish
+}
+5102 = {
+	name="de Alfaro"
+	culture = castillan
+}
+5104 = {
+	name="de Cardaillac"
+	culture = frankish
+}
+5105 = {
+	name="de Gontaut"
+	culture = frankish
+}
+5106 = {
+	name="de Puylaurens"
+	culture = frankish
+}
+5107 = {
+	name="de Roquefeuil"
+	culture = frankish
+}
+5111 = {
+	name="de Laurac"
+	culture = frankish
+}
+5112 = {
+	name="de Saissac"
+	culture = frankish
+}
+5113 = {
+	name="de Termes"
+	culture = frankish
+}
+5114 = {
+	name="de Castelbon"
+	culture = frankish
+}
+5117 = {
+	name="des Baux"
+	culture = frankish
+}
+6000 = {
+	name="van Egmond"
+	culture = dutch
+}
+6001 = {
+	name="van Amstel"
+	culture = dutch
+}
+6002 = {
+	name="van Arkel"
+	culture = dutch
+}
+6003 = {
+	name="van Boutershem"
+	culture = dutch
+}
+6004 = {
+	name="van Brederode"
+	culture = dutch
+}
+6005 = {
+	name="van Brunesheim"
+	culture = dutch
+}
+6006 = {
+	name="van Breda"
+	culture = dutch
+}
+6007 = {
+	name="van Heemskerk"
+	culture = dutch
+}
+6008 = {
+	name="van Gaveren"
+	culture = dutch
+}
+6009 = {
+	name="van Glymes"
+	culture = dutch
+}
+6010 = {
+	name="van Grimberghe"
+	culture = dutch
+}
+6011 = {
+	name="van Hurne"
+	culture = dutch
+}
+6012 = {
+	name="van Renesse"
+	culture = dutch
+}
+6013 = {
+	name="van Wesemael"
+	culture = dutch
+}
+6014 = {
+	name="van Wassenaer"
+	culture = dutch
+}
+6015 = {
+	name="van Rheden"
+	culture = dutch
+}
+6016 = {
+	name="van Bronckhorst"
+	culture = dutch
+}
+6017 = {
+	name="van Keppel"
+	culture = dutch
+}
+6018 = {
+	name="van Voorst"
+	culture = dutch
+}
+6019 = {
+	name="van Lathum"
+	culture = dutch
+}
+6021 = {
+	name="van Swane"
+	culture = dutch
+}
+6022 = {
+	name="van Wisch"
+	culture = dutch
+	
+}
+7000 = {
+	name="de Amaya"
+	culture = castillan
+}
+7001 = {
+	name="de Azagra"
+	culture = castillan
+}
+7002 = {
+	name="Benavides"
+	culture = castillan
+}
+7003 = {
+	name="Ponce de León"
+	culture = castillan
+}
+7004 = {
+	name="Barrientos"
+	culture = castillan
+}
+7005 = {
+	name="de Ceballos"
+	culture = castillan
+}
+7006 = {
+	name="de Toledo"
+	culture = castillan
+}
+7007 = {
+	name="de Córdoba"
+	culture = castillan
+}
+7008 = {
+	name="de Godoy"
+	culture = castillan
+}
+7009 = {
+	name="de la Vega"
+	culture = castillan
+}
+7010 = {
+	name="de Guzmán"
+	culture = castillan
+}
+7011 = {
+	name="de Villalobos"
+	culture = castillan
+}
+7012 = {
+	name="de Castilla"
+	culture = castillan
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 11 0 3 3
+		}
+		religion=catholic
+	}
+}
+7013 = {
+	name="de Noreña"
+	culture = castillan
+}
+7014 = {
+	name="de Gijón"
+	culture = castillan
+}
+7015 = {
+	name="de Sotomayor"
+	culture = castillan
+}
+7016 = {
+	name="de Zúñiga"
+	culture = castillan
+}
+7017 = {
+	name="de Cáceres"
+	culture = castillan
+}
+7018 = {
+	name="de Solís"
+	culture = castillan
+}
+7019 = {
+	name="de Siones"
+	culture = portuguese
+}
+7020 = {
+	name="de Quiñones"
+	culture = castillan
+}
+7021 = {
+	name="de Quintana"
+	culture = castillan
+}
+7022 = {
+	name="de Padilla"
+	culture = castillan
+}
+7023 = {
+	name="de Pereira"
+	culture = portuguese
+}
+7024 = {
+	name="de Villena"
+	culture = castillan
+}
+7025 = {
+	name="de Girón"
+	culture = castillan
+}
+7026 = {
+	name="de Marañón"
+	culture = castillan
+}
+7027 = {
+	name="de Candamio"
+	culture = castillan
+}
+7028 = {
+	name="Barragán"
+	culture = castillan
+}
+7029 = {
+	name="Mejía"
+	culture = castillan
+}
+7030 = {
+	name="Cabeza de Vaca"
+	culture = castillan
+}
+7031 = {
+	name="de Villagarcía"
+	culture = castillan
+}
+7032 = {
+	name="de Figueroa"
+	culture = castillan
+}
+7033 = {
+	name="de Luna"
+	culture = castillan
+}
+70434 = {
+	name="de la Cueva"
+	culture = castillan
+}
+7035 = {
+	name="de Pacheco"
+	culture = castillan
+}
+7036 = {
+	name="de Cárdenas"
+	culture = castillan
+}
+7037 = {
+	name="Fernández"
+	culture = castillan
+}
+7038 = {
+	name="Pérez"
+	culture = castillan
+}
+7039 = {
+	name="Ruíz"
+	culture = castillan
+}
+7040 = {
+	name="López"
+	culture = castillan
+}
+7042 = {
+	name="Alonso"
+	culture = castillan
+}
+7043 = {
+	name="Sánchez"
+	culture = castillan
+}
+7044 = {
+	name="Láinez"
+	culture = castillan
+}
+7045 = {
+	name="de Aviz"
+	culture = portuguese
+}
+7046 = {
+	name="de Prado"
+	culture = castillan
+}
+7047 = {
+	name="de Fonseca"
+	culture = portuguese
+}
+7048 = {
+	name="da Cunha"
+	culture = portuguese
+}
+7049 = {
+	name="Coronel"
+	culture = castillan
+}
+7102 = {
+	name = "van Kamerijk"
+	culture = dutch
+}
+7105 = {
+	name = "von Katlenburg"
+	culture = german
+}
+7106 = {
+	name = "von Goslar"
+	culture = german
+}
+7109 = {
+	name = "von Wunstorf"
+	culture = german
+}
+7110 = {
+	name = "von Goltern"
+	culture = german
+}
+7111 = {
+	name = "von Wölpe"
+	culture = german
+}
+7112 = {
+	name = "Grand"
+	culture = danish
+}
+7113 = {
+	name = "von Holte"
+	culture = german
+}
+7116 = {
+	name = "von Isenberg"
+	culture = german
+}
+7118 = {
+	name = "von Diest"
+	culture = german
+}
+7119 = {
+	name = "von Rietberg"
+	culture = german
+}
+7120 = {
+	name = "von Löningen"
+	culture = german
+}
+7122 = {
+	name = "von Steinfurt"
+	culture = german
+}
+7123 = {
+	name = "von Tecklenburg"
+	culture = german
+}
+7124 = {
+	name = "von Rüssel"
+	culture = german
+}
+7128 = {
+	name = "Cirksena"
+	culture = dutch
+}
+7129 = {
+	name = "van Visquard"
+	culture = dutch
+}
+7130 = {
+	name = "van Groothusen"
+	culture = dutch
+}
+7133 = {
+	name = "von Bassenheim"
+	culture = german
+}
+7143 = {
+	name = "von Schwanden"
+	culture = german
+}
+7144 = {
+	name = "von Feuchtwangen"
+	culture = german
+}
+7146 = {
+	name = "von Orseln"
+	culture = german
+}
+7157 = {
+	name = "van Vyshusen"
+	culture = dutch
+}
+7168 = {
+	name = "van Cuijck"
+	culture = dutch
+}
+7169 = {
+	name = "van Bierum"
+	culture = dutch
+}
+7170 = {
+	name = "van Rhenen"
+	culture = dutch
+}
+7171 = {
+	name = "van Are"
+	culture = dutch
+}
+7172 = {
+	name = "van Randerath"
+	culture = dutch
+}
+7174 = {
+	name = "van Sierck"
+	culture = dutch
+}
+7175 = {
+	name = "van Berthout"
+	culture = dutch
+}
+7176 = {
+	name = "van Oudshoorn"
+	culture = dutch
+}
+
+7177 = {
+	name = "van Diest"
+	culture = dutch
+}
+7192 = {
+	name = "de Bassonville"
+	culture = frankish
+}
+7196 = {
+	name = "Ledur"
+	culture = frankish
+}
+7200 = {
+	name = "van Naaldwijk"
+	culture = dutch
+}
+7210 = {
+	name = "de Chappes"
+	culture = frankish
+}
+7211 = {
+	name = "de Toucy"
+	culture = frankish
+}
+7224 = {
+	name = "d'Apremont"
+	culture = frankish
+}
+7229 = {
+	name = "de Monteil"
+	culture = frankish
+}
+7239 = {
+	name = "de Grimmingen"
+	culture = dutch
+}
+7248 = {
+	name="van Oranje"
+	culture = dutch
+	coat_of_arms=
+	{
+		data=
+		{
+			0 2 0 10 3 1 5
+		}
+		religion=catholic
+	}
+}
+7250 = {
+	name="Tocco"
+	culture = italian
+}
+7251 = {
+	name="di Licinardo"
+	culture = italian
+}
+7252 = {
+	name="di Leone"
+	culture = italian
+}
+7253 = {
+	name="di San Lucido"
+	culture = italian
+}
+7254 = {
+	name="Torda"
+	culture = italian
+}
+7255 = {
+	name="Scripari"
+	culture = italian
+}
+7256 = {
+	name="d'Erville"
+	culture = frankish
+}
+7257 = {
+	name="von Greyerz"
+	culture = german
+}
+7260 = {
+	name="d'Apchier"
+	culture = frankish
+}
+7262 = {
+	name="de Messines"
+	culture = frankish
+}
+7264 = {
+	name="La Ferté"
+	culture = frankish
+}
+7265 = {
+	name="Grenier"
+	culture = frankish
+}
+7280 = {
+	name="van Aarschot"
+	culture = dutch
+}
+7281 = {
+	name="de Chiny"
+	culture = frankish
+}
+8602 = {
+	name="Gutiérrez"
+	culture = castillan
+}
+8603 = {
+	name="de Saldaña"
+	culture = castillan
+}
+8604 = {
+	name="de Liébana"
+	culture = castillan
+}
+8606 = {
+	name="de Lugo"
+	culture = castillan
+}
+8607 = {
+	name="de Bergido"
+	culture = castillan
+}
+8608 = {
+	name="de Peñalba"
+	culture = castillan
+}
+8609 = {
+	name="Muñoz"
+	culture = castillan
+}
+8610 = {
+	name="Velaz"
+	culture = castillan
+}
+8611 = {
+	name="de Miravalles"
+	culture = castillan
+}
+8612 = {
+	name="de Cisneros"
+	culture = castillan
+}
+8613 = {
+	name="de Oca"
+	culture = castillan
+}
+8614 = {
+	name="de Tafalla"
+	culture = castillan
+}
+8615 = {
+	name="de Narváez"
+	culture = castillan
+}
+8616 = {
+	name="de Cea"
+	culture = castillan
+}
+8617 = {
+	name="Íñiga"
+	culture = castillan
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 7
+			texture_internal = 27
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+8618 = {
+	name="Gundemáriz"
+	culture = castillan
+}
+8619 = {
+	name="Peláez"
+	culture = castillan
+}
+8620 = {
+	name="Osorio"
+	culture = castillan
+}
+8621 = {
+	name="de Sahagún"
+	culture = castillan
+}
+8622 = {
+	name="Alfonso"
+	culture = castillan
+}
+8623 = {
+	name="Rodríguez"
+	culture = castillan
+}
+8624 = {
+	name="Bermúdez"
+	culture = castillan
+}
+8625 = {
+	name="de Pravia"
+	culture = castillan
+}
+8627 = {
+	name="de Braga"
+	culture = portuguese
+}
+8628 = {
+	name="Froilies"
+	culture = portuguese
+}
+8629 = {
+	name="Velasques"
+	culture = portuguese
+}
+8630 = {
+	name="de Manzanedo"
+	culture = castillan
+}
+8664 = {
+	name="de Mousson"
+	culture = frankish
+}
+8685 = {
+	name="de Alagón"
+	culture = castillan
+}
+8696 = {
+	name="de Valromey"
+	culture = frankish
+}
+8738 = {
+	name="de Bembimbre"
+	culture = castillan
+}
+8739 = {
+	name="de Villacorta"
+	culture = castillan
+}
+8740 = {
+	name="de Santibáñez"
+	culture = castillan
+}
+8741 = {
+	name="Herrámeliz"
+	culture = castillan
+}
+8742 = {
+	name="Carracedo"
+	culture = castillan
+}
+8743 = {
+	name="de Silos"
+	culture = castillan
+}
+8744 = {
+	name="de Quintanilla"
+	culture = castillan
+}
+8745 = {
+	name="de Aguilar"
+	culture = castillan
+}
+8746 = {
+	name="de Toro"
+	culture = castillan
+}
+8747 = {
+	name="de Segovia"
+	culture = castillan
+}
+8748 = {
+	name="de Biedma"
+	culture = castillan
+}
+8749 = {
+	name="de Cabra"
+	culture = castillan
+}
+8750 = {
+	name="de Álava"
+	culture = castillan
+}
+8752 = {
+	name="de Lacarra"
+	culture = castillan
+}
+8754 = {
+	name="Cajal"
+	culture = castillan
+}
+8758 = {
+	name="de Cervera"
+	culture = castillan
+}
+8759 = {
+	name="de Torroja"
+	culture = castillan
+}
+8765 = {
+	name="de Pinós"
+	culture = castillan
+}
+8771 = {
+	name="de Castre"
+	culture = castillan
+}
+8773 = {
+	name="de Híjar"
+	culture = castillan
+}
+8779 = {
+	name="Vela"
+	culture = castillan
+}
+8780 = {
+	name="de Risnal"
+	culture = castillan
+}
+8781 = {
+	name="Furtado"
+	culture = castillan
+}
+8782 = {
+	name="de Castro Urdiales"
+	culture = castillan
+}
+8793 = {
+	name="Faucoi"
+	culture = frankish
+}
+8795 = {
+	name="Hispano"
+	culture = portuguese
+}
+9006 = {
+	name="de Távora"
+	culture = portuguese
+}
+9007 = {
+	name="Moniz"
+	culture = portuguese
+}
+9008 = {
+	name="Pais"
+	culture = portuguese
+}
+9009 = {
+	name="de Sá"
+	culture = portuguese
+}
+9010 = {
+	name="Martins"
+	culture = portuguese
+}
+9011 = {
+	name="de Melo"
+	culture = portuguese
+}
+9213 = {
+	name="av Dyflinn"
+	culture = norwegian
+}
+100001 = {
+	name="Akeleye"
+	culture = norwegian
+}
+100002 = {
+	name="Brockenhuus"
+	culture = norwegian
+}
+100033 = {
+	name="Kamban"
+	culture = norwegian
+}
+100034 = {
+	name="af Shetland"
+	culture = norwegian
+}
+100035 = {
+	name="Somerled"
+	culture = norwegian
+}
+100036 = {
+	name="Møre"
+	culture = norwegian
+}
+100263 = {
+	name="Gøye"
+	culture = danish
+}
+100264 = {
+	name="Grøn"
+	culture = danish
+}
+100265 = {
+	name="Friis"
+	culture = danish
+}
+100266 = {
+	name="Daa"
+	culture = danish
+}
+100267 = {
+	name="Ryning"
+	culture = danish
+}
+100268 = {
+	name="Bille"
+	culture = norwegian
+}
+100269 = {
+	name="Krabbe"
+	culture = norwegian
+}
+100270 = {
+	name="Blixen"
+	culture = norwegian
+}
+100271 = {
+	name="Lodehat"
+	culture = norwegian
+}
+100272 = {
+	name="Pagh"
+	culture = norwegian
+}
+100273 = {
+	name="Stibolt"
+	culture = norwegian
+}
+100274 = {
+	name="Vedel"
+	culture = norwegian
+}
+100275 = {
+	name="Rosenkrantz"
+	culture = norwegian
+}
+100276 = {
+	name="Kaas"
+	culture = norwegian
+}
+100277 = {
+	name="Juel"
+	culture = norwegian
+}
+100278 = {
+	name="Bildt"
+	culture = norwegian
+}
+100280 = {
+	name="Frille"
+	culture = swedish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 0 5 3 3
+		}
+		religion=norse_pagan
+	}
+}
+100281 = {
+	name="Eketrä"
+	culture = swedish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 15 11 0 0
+		}
+		religion=norse_pagan
+	}
+}
+100282 = {
+	name="Galte"
+	culture = norwegian
+}
+100283 = {
+	name="Ekeblad"
+	culture = swedish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 16 0 11 11
+		}
+		religion=norse_pagan
+	}
+}
+100284 = {
+	name="And"
+	culture = swedish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 12 0 5 5
+		}
+		religion="catholic"
+	}
+}
+100285 = {
+	name="Gera"
+	culture = swedish
+}
+100286 = {
+	name="Soop"
+	culture = swedish
+}
+100287 = {
+	name="Hiort"
+	culture = swedish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 4 5 1 1
+		}
+		religion=norse_pagan
+	}
+}
+100288 = {
+	name="Gylta"
+	culture = swedish
+}
+100289 = {
+	name="Kärling"
+	culture = swedish
+}
+100290 = {
+	name="af Finsta"
+	culture = swedish
+}
+100291 = {
+	name="Gren"
+	culture = swedish
+}
+100292 = {
+	name="Leijonhufvud"
+	culture = swedish
+}
+100293 = {
+	name="af Aspenäs"
+	culture = swedish
+}
+100294 = {
+	name="Rosenstråle"
+	culture = swedish
+}
+100295 = {
+	name="Gälta"
+	culture = swedish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 1 3 1 1
+		}
+		religion=catholic
+	}
+}
+100296 = {
+	name="af Hammersta"
+	culture = swedish
+}
+100297 = {
+	name="Lilliehöök"
+	culture = swedish
+}
+100298 = {
+	name="af Malsta"
+	culture = swedish
+}
+100299 = {
+	name="Puke"
+	culture = swedish
+}
+100300 = {
+	name="Slatte"
+	culture = swedish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 15 1 2 2
+		}
+		religion=catholic
+	}
+}
+100301 = {
+	name="Ängel"
+	culture = swedish
+}
+100302 = {
+	name="Reventlow"
+	culture = danish
+}
+100303 = {
+	name="af Torestorp"
+	culture = danish
+}
+100305 = {
+	name="Ulfstand"
+	culture = danish
+}
+100395 = {
+	name="Oksakov"
+	culture = russian
+}
+100396 = {
+	name="Ovinov"
+	culture = russian
+}
+100397 = {
+	name="Romanov"
+	culture = russian
+}
+100398 = {
+	name="Okolnichy"
+	culture = russian
+}
+100399 = {
+	name="Yenikeyev"
+	culture = russian
+}
+100400 = {
+	name="Bakunin"
+	culture = russian
+}
+100401 = {
+	name="Balashov"
+	culture = russian
+}
+100402 = {
+	name="Rumyanets"
+	culture = russian
+}
+100403 = {
+	name="Matveev"
+	culture = russian
+}
+100404 = {
+	name="Artamonovich"
+	culture = russian
+}
+100405 = {
+	name="Osipovich"
+	culture = russian
+}
+100406 = {
+	name="Ignatiev"
+	culture = russian
+}
+100407 = {
+	name="Bestuzhev-Ryumin"
+	culture = russian
+}
+100408 = {
+	name="Cherkassky"
+	culture = russian
+}
+100409 = {
+	name="Chernyshev"
+	culture = russian
+}
+100410 = {
+	name="Galitsyn"
+	culture = russian
+}
+100411 = {
+	name="Shelikhov"
+	culture = russian
+}
+100412 = {
+	name="Dashkov"
+	culture = russian
+}
+100413 = {
+	name="Demidov"
+	culture = russian
+}
+100414 = {
+	name="Alexandrov"
+	culture = russian
+}
+100415 = {
+	name="Sobakin"
+	culture = russian
+}
+100416 = {
+	name="Delarov"
+	culture = russian
+}
+100417 = {
+	name="Glinsky"
+	culture = russian
+}
+100449 = {
+	name="Boeselager"
+	culture = german
+}
+100456 = {
+	name="Brauchitsch"
+	culture = german
+}
+100473 = {
+	name="Clavelli"
+	culture = italian
+}
+100474 = {
+	name="Sommaripa"
+	culture = italian
+}
+100536 = {
+	name="Khitrov"
+	culture = russian
+}
+100544 = {
+	name="Khovansky"
+	culture = russian
+}
+100547 = {
+	name="Kikin"
+	culture = russian
+}
+100548 = {
+	name="Kobylin"
+	culture = russian
+}
+100550 = {
+	name="Lopukhin"
+	culture = russian
+}
+100551 = {
+	name="Lvov"
+	culture = russian
+}
+100552 = {
+	name="Rumyantsev"
+	culture = russian
+}
+100553 = {
+	name="Matveyev"
+	culture = russian
+}
+100554 = {
+	name="Menshikov"
+	culture = russian
+}
+100555 = {
+	name="Meshchersky"
+	culture = russian
+}
+100556 = {
+	name="Kunev"
+	culture = russian
+}
+100564 = {
+	name="Polovtsy"
+	culture = russian
+}
+100565 = {
+	name="Miloslavsky"
+	culture = russian
+}
+100567 = {
+	name="Morozov"
+	culture = russian
+}
+100568 = {
+	name="Naryshkin"
+	culture = russian
+}
+100569 = {
+	name="Poluektovich"
+	culture = russian
+}
+100570 = {
+	name="Neplyuyev"
+	culture = russian
+}
+100571 = {
+	name="Obolensky"
+	culture = russian
+}
+100572 = {
+	name="Panin"
+	culture = russian
+}
+100573 = {
+	name="Pankeyev"
+	culture = russian
+}
+100574 = {
+	name="Paskevich"
+	culture = russian
+}
+100575 = {
+	name="Potyomkin"
+	culture = russian
+}
+100576 = {
+	name="Pushkin"
+	culture = russian
+}
+100577 = {
+	name="Bogolyubsky"
+	culture = russian
+}
+100578 = {
+	name="Rtishchev"
+	culture = russian
+}
+100580 = {
+	name="Shafirov"
+	culture = russian
+}
+100581 = {
+	name="Shchenya"
+	culture = russian
+}
+100582 = {
+	name="Shein"
+	culture = russian
+}
+100583 = {
+	name="Shemyachich"
+	culture = russian
+}
+100584 = {
+	name="Shemyaka"
+	culture = russian
+}
+100585 = {
+	name="Sheremetev"
+	culture = russian
+}
+100586 = {
+	name="Shuvalov"
+	culture = russian
+}
+100588 = {
+	name="Fleming"
+	culture = swedish
+}
+100589 = {
+	name="Bidz"
+	culture = swedish
+}
+100590 = {
+	name="Diekn"
+	culture = swedish
+}
+100592 = {
+	name="Stiernkors"
+	culture = swedish
+}
+100594 = {
+	name="Skuratov"
+	culture = russian
+}
+100595 = {
+	name="Stolnik"
+	culture = russian
+}
+100609 = {
+	name="Uvarov"
+	culture = russian
+}
+100610 = {
+	name="Turgenev"
+	culture = russian
+}
+100611 = {
+	name="Valuyev"
+	culture = russian
+}
+100612 = {
+	name="Vogak"
+	culture = russian
+}
+100613 = {
+	name="Volynsky"
+	culture = russian
+}
+101562 = {
+	name="Orseolo"
+	culture = italian
+}
+101601 = {
+	name="Crawford"
+	culture = english
+}
+101602 = {
+	name="de Molle"
+	culture = frankish
+}
+101603 = {
+	name="Tynedale"
+	culture = english
+}
+101706 = {
+	name="Drotning"
+	culture = norwegian
+}
+101708 = {
+	name="Pudsey"
+	culture = english
+}
+101709 = {
+	name="Marshal"
+	culture = english
+}
+101715 = {
+	name="Camelo"
+	culture = portuguese
+}
+101716 = {
+	name="Pires"
+	culture = portuguese
+}
+101734 = {
+	name="de Montreuil"
+	culture = frankish
+}
+101757 = {
+	name="Kjarval" #Flosason
+	culture = norwegian
+}
+101758 = {
+	name="Ekeh" #Thorgrimsson
+	culture = norwegian
+}
+101759 = {
+	name="Löve" #Thorgeirsson
+	culture = norwegian
+}
+101760 = {
+	name="Ormstunga" #Bölverksson
+	culture = norwegian
+}
+101761 = {
+	name="Goði" #Surtsson
+	culture = norwegian
+}
+101762 = {
+	name="Gautur" #Sturluson
+	culture = norwegian
+}
+101763 = {
+	name="Eyfells" #Ulfhedinsson
+	culture = norwegian
+}
+101764 = {
+	name="Ásgeir" #Ketilsson
+	culture = norwegian
+}
+101765 = {
+	name="Kamban" #Thorvaldsson
+	culture = norwegian
+}
+101766 = {
+	name="Braghde" #Gissurarson
+	culture = norwegian
+}
+101767 = {
+	name="Banér" #Sigurdsson
+	culture = norwegian
+}
+101768 = {
+	name="Wrede" #Thorsteinsson
+	culture = norwegian
+}
+101769 = {
+	name="Balk" #Jonsson
+	culture = norwegian
+}
+101770 = {
+	name="Taube" #Eyjolfsson
+	culture = norwegian
+}
+101771 = {
+	name="Creutz" #Skeggjason"
+	culture = norwegian
+}
+101772 = {
+	name="Wrangel" #Einarsson
+	culture = norwegian
+}
+101773 = {
+	name="Sporre" #Isleifsson
+	culture = norwegian
+}
+101774 = {
+	name="Ehrensvärd" #Runolfsson
+	culture = norwegian
+}
+101775 = {
+	name="Aldersparre" #Thorlaksson
+	culture = norwegian
+}
+101776 = {
+	name="Adelswärd" #Saemundarson
+	culture = norwegian
+}
+101797 = {
+	name="Andreievich"
+	culture = russian
+}
+101798 = {
+	name="Bryachislavich"
+	culture = russian
+}
+101799 = {
+	name="Igorevich"
+	culture = russian
+}
+101800 = {
+	name="Ivanovich"
+	culture = russian
+}
+101801 = {
+	name="Iziaslavich"
+	culture = russian
+}
+101802 = {
+	name="Mikhailovich"
+	culture = russian
+}
+101803 = {
+	name="Mstislavich"
+	culture = russian
+}
+101804 = {
+	name="Nikitich"
+	culture = russian
+}
+101805 = {
+	name="Rostislavich"
+	culture = russian
+}
+101806 = {
+	name="Sviatoslavich"
+	culture = russian
+}
+101807 = {
+	name="Vasilievich"
+	culture = russian
+}
+101808 = {
+	name="Viacheslavich"
+	culture = russian
+}
+101809 = {
+	name="Vladimirovich"
+	culture = russian
+}
+101810 = {
+	name="Vseslavich"
+	culture = russian
+}
+101811 = {
+	name="Vsevolodovich"
+	culture = russian
+}
+101812 = {
+	name="Vysheslavich"
+	culture = russian
+}
+101813 = {
+	name="Yaroslavich"
+	culture = russian
+}
+101814 = {
+	name="Yurievich"
+	culture = russian
+}
+101815 = {
+	name="Dmitrievich"
+	culture = russian
+}
+101816 = {
+	name="Fedorovich"
+	culture = russian
+}
+101817 = {
+	name="Antelminelli"
+	culture = italian
+}
+101827 = {
+	name="da Intimiano"
+	culture = italian
+}
+101830 = {
+	name="di Malaspina"
+	culture = italian
+}
+101831 = {
+	name="Malipiero"
+	culture = italian
+}
+101832 = {
+	name="Maggi"
+	culture = italian
+}
+101834 = {
+	name="Pico di Mirandola"
+	culture = italian
+}
+101835 = {
+	name="Polentano"
+	culture = italian
+}
+101836 = {
+	name="da Ponte"
+	culture = italian
+}
+101837 = {
+	name="da Promontorio"
+	culture = italian
+}
+101838 = {
+	name="Rainalducci"
+	culture = italian
+}
+101839 = {
+	name="Razzi"
+	culture = italian
+}
+101840 = {
+	name="della Rocca"
+	culture = italian
+}
+101841 = {
+	name="Rossi"
+	culture = italian
+}
+101842 = {
+	name="di San Bonifazio"
+	culture = italian
+}
+101843 = {
+	name="de Sanseverino"
+	culture = italian
+}
+101844 = {
+	name="Scoto"
+	culture = italian
+}
+101845 = {
+	name="Sommariva"
+	culture = italian
+}
+101846 = {
+	name="Terzi"
+	culture = italian
+}
+101847 = {
+	name="Tizzone"
+	culture = italian
+}
+101848 = {
+	name="Torelli"
+	culture = italian
+}
+101849 = {
+	name="della Torre"
+	culture = italian
+}
+101850 = {
+	name="di Torres"
+	culture = italian
+}
+101851 = {
+	name="Traversari"
+	culture = italian
+}
+101852 = {
+	name="di Valenti"
+	culture = italian
+}
+101853 = {
+	name="da Velate"
+	culture = italian
+}
+101854 = {
+	name="da Verucchio"
+	culture = italian
+}
+101855 = {
+	name="Vistarini"
+	culture = italian
+}
+101856 = {
+	name="Zoagli"
+	culture = italian
+}
+101861 = {
+	name="de Montoire"
+	culture = frankish
+}
+101891 = {
+	name="af Haukadalur"
+	culture = norwegian
+}
+101892 = {
+	name="af Oddi"
+	culture = norwegian
+}
+101908 = {
+	name="Hlidarendi"
+	culture = norwegian
+}
+101910 = {
+	name="Martínez de Oviedo"
+	culture = castillan
+}
+101911 = {
+	name="de Peralta"
+	culture = castillan
+}
+101917 = {
+	name="Pérez de Zamora"
+	culture = castillan
+}
+1030031 = {
+	name="Skakke"
+	culture = norwegian
+}
+1030030 = {
+	name="Østman"
+	culture = norwegian
+}
+1100136 = {
+	name="Garmrson"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 139
+			emblem = 0
+			color = 6
+			color = 8
+			color = 0
+		}
+	}
+}
+1100137 = {
+	name="Tryggvason"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 1
+			emblem = 0
+			color = 1
+			color = 7
+			color = 0
+		}
+	}
+}
+1100138 = {
+	name="Lade"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 122
+			emblem = 0
+			color = 8
+			color = 1
+			color = 0
+		}
+	}
+}
+1100287 = {
+	name="Ivarring"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 227
+			emblem = 0
+			color = 8
+			color = 3
+			color = 0
+		}
+	}
+}
+1100293 = {
+	name="Ingólfring"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 87
+			emblem = 0
+			color = 6
+			color = 2
+			color = 0
+		}
+	}
+}
+1100492 = {
+	name="Ragnalling"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 103
+			emblem = 0
+			color = 9
+			color = 3
+			color = 0
+		}
+	}
+}
+1100518 = {
+	name="Bagsecging"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 117
+			emblem = 0
+			color = 5
+			color = 7
+			color = 0
+		}
+	}
+}
+1100519 = {
+	name="Eysteinsson"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 118
+			emblem = 0
+			color = 7
+			color = 2
+			color = 0
+		}
+	}
+}
+1100520 = {
+	name="Rognvaldson"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 119
+			emblem = 0
+			color = 6
+			color = 4
+			color = 0
+		}
+	}
+}
+1100521 = {
+	name="Onundsson"
+	culture = norwegian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 120
+			emblem = 0
+			color = 1
+			color = 8
+			color = 0
+		}
+	}
+}
+102001 = {
+	name="Davidov"
+	culture = russian
+}
+102013 = {
+	name="Skiolding"
+	culture = swedish
+}
+102015 = {
+	name="Cronstedt"
+	culture = swedish
+}
+102016 = {
+	name="Saint-Menehould"
+	culture = frankish
+}
+102017 = {
+	name="Massa"
+	culture = italian
+}
+102019 = {
+	name="Navigaiozi"
+	culture = italian
+}
+102021 = {
+	name="Vetrano"
+	culture = italian
+}
+102022 = {
+	name="della Carceri"
+	culture = italian
+}
+102034 = {
+	name="Pescatore"
+	culture = italian
+}
+102035 = {
+	name="Avogadro"
+	culture = italian
+}
+102036 = {
+	name="de Moncade"
+	culture = italian
+}
+102037 = {
+	name="Vsevolodich"
+	culture = russian
+}
+1020110 = {
+	name = "de Barbosa"
+	culture = portuguese
+}
+1020111 = {
+	name = "de Ribadouro"
+	culture = portuguese
+}
+1020112 = {
+	name = "de Vasconcelos"
+	culture = portuguese
+}
+1020113 = {
+	name = "de Lumiares"
+	culture = portuguese
+}
+1020114 = {
+	name = "de Aboim"
+	culture = portuguese
+}
+1020115 = {
+	name = "de Valadares"
+	culture = portuguese
+}
+1020116 = {
+	name = "de Riba Vizela"
+	culture = portuguese
+}
+1020120 = {
+	name = "de Soverosa"
+	culture = portuguese
+}
+1020121 = {
+	name = "da Maia"
+	culture = portuguese
+}
+1020122 = {
+	name = "de Baião"
+	culture = portuguese
+}
+1020123 = {
+	name = "de Alvarenga"
+	culture = portuguese
+}
+1020124 = {
+	name = "Coelho"
+	culture = portuguese
+}
+1020125 = {
+	name = "da Fonseca"
+	culture = portuguese
+}
+1020126 = {
+	name = "de Sande"
+	culture = portuguese
+}
+1020127 = {
+	name = "de Melo"
+	culture = portuguese
+}
+1020128 = {
+	name = "de Azevedo"
+	culture = portuguese
+}
+1020129 = {
+	name = "da Nóbrega"
+	culture = portuguese
+}
+1020130 = {
+	name = "Velho"
+	culture = portuguese
+}
+1025000 = {
+	name="Thrugot"
+	culture = danish
+}
+1025001 = {
+	name="Hack"
+	culture = danish
+}
+1025002 = {
+	name="Juul"
+	culture = danish
+}
+1025003 = {
+	name="Ulfeldt"
+	culture = danish
+}
+1025004 = {
+	name="Bang"
+	culture = danish
+}
+1027025 = {
+	name="de Pontigny"
+	culture = frankish
+}
+1027026 = {
+	name="de Beauvoir"
+	culture = frankish
+}
+1029994 = {
+	name="de Sarvay"
+	culture = frankish
+}
+1029995 = {
+	name="de Ruvigny"
+	culture = frankish
+}
+1029996 = {
+	name="de Richercourt"
+	culture = frankish
+}
+1029997 = {
+	name="de Blâmont"
+	culture = frankish
+}
+1029998 = {
+	name="de Neuville"
+	culture = frankish
+}
+1029999 = {
+	name="de Traînel"
+	culture = frankish
+}
+
+1029115 = {
+	name="Volhynsky"
+	culture = russian
+}
+1031002 = {
+	name="Rübsamen"
+	culture = german
+}
+1031006 = {
+	name="Karpivin"
+	culture = russian
+}
+1031007 = {
+	name="Berglen"
+	culture = swedish
+}
+1031009 = {
+	name="Munthe"
+	culture = dutch
+}
+1031013 = {
+	name="Kiby"
+	culture = swedish
+}
+1031014 = {
+	name="Wendel"
+	culture = swedish
+}
+1031015 = {
+	name="Toll"
+	culture = danish
+}
+1031018 = {
+	name="Lerström"
+	culture = swedish
+}
+1031021 = {
+	name="Björk"
+	culture = swedish
+}
+1031022 = {
+	name="Zetterman"
+	culture = swedish
+}
+1031023 = {
+	name="Eklund"
+	culture = swedish
+}
+1031024 = {
+	name="Lind"
+	culture = swedish
+}
+1031026 = {
+	name="Hoving"
+	culture = dutch
+}
+1031027 = {
+	name="Gunlycke"
+	culture = swedish
+}
+1035000 = {
+	name="Acatl"
+	culture = nahuatl
+}
+1035001 = {
+	name="Atl"
+	culture = nahuatl
+}
+1035002 = {
+	name="Calli"
+	culture = nahuatl
+}
+1035003 = {
+	name="Cipactli"
+	culture = nahuatl
+}
+1035004 = {
+	name="Coatl"
+	culture = nahuatl
+}
+1035005 = {
+	name="Coyotl"
+	culture = nahuatl
+}
+1035006 = {
+	name="Cozcaquauhtli"
+	culture = nahuatl
+}
+1035007 = {
+	name="Cuetzpalin"
+	culture = nahuatl
+}
+1035008 = {
+	name="Ehecatl"
+	culture = nahuatl
+}
+1035009 = {
+	name="Icpalli"
+	culture = nahuatl
+}
+1035010 = {
+	name="Itz"
+	culture = nahuatl
+}
+1035011 = {
+	name="Itzcuintli"
+	culture = nahuatl
+}
+1035012 = {
+	name="Macehualli"
+	culture = nahuatl
+}
+1035013 = {
+	name="Malinalli"
+	culture = nahuatl
+}
+1035014 = {
+	name="Mazatl"
+	culture = nahuatl
+}
+1035015 = {
+	name="Miquiztli"
+	culture = nahuatl
+}
+1035016 = {
+	name="Nezahual"
+	culture = nahuatl
+}
+1035017 = {
+	name="Nochtli"
+	culture = nahuatl
+}
+1035018 = {
+	name="Ocelotl"
+	culture = nahuatl
+}
+1035019 = {
+	name="Ollin"
+	culture = nahuatl
+}
+1035020 = {
+	name="Otli"
+	culture = nahuatl
+}
+1035021 = {
+	name="Ozomatli"
+	culture = nahuatl
+}
+1035022 = {
+	name="Pipiltin"
+	culture = nahuatl
+}
+1035023 = {
+	name="Pochtecatl"
+	culture = nahuatl
+}
+1035024 = {
+	name="Quauhtli"
+	culture = nahuatl
+}
+1035025 = {
+	name="Quauitl"
+	culture = nahuatl
+}
+1035026 = {
+	name="Quiautl"
+	culture = nahuatl
+}
+1035027 = {
+	name="Tecpatl"
+	culture = nahuatl
+}
+1035028 = {
+	name="Tecuhtli"
+	culture = nahuatl
+}
+1035029 = {
+	name="Tepetl"
+	culture = nahuatl
+}
+1035030 = {
+	name="Tetl"
+	culture = nahuatl
+}
+1035031 = {
+	name="Tlantli"
+	culture = nahuatl
+}
+1035032 = {
+	name="Tochtli"
+	culture = nahuatl
+}
+1035033 = {
+	name="Toltecatl"
+	culture = nahuatl
+}
+1035034 = {
+	name="Xochitl"
+	culture = nahuatl
+}
+1036001 = {
+	name="Beothuk"
+	culture="beothuk"
+}
+1036011 = {
+	name="Onamag" #Algonquin group
+	culture="algonquin"
+}
+1036012 = {
+	name="Esgigeoag"
+	culture="algonquin"
+}
+1036013 = {
+	name="Segepenegetig"
+	culture="algonquin"
+}
+1036014 = {
+	name="Gespogoitnag"
+	culture="algonquin"
+}
+1036015 = {
+	name="Epegoitnag"
+	culture="algonquin"
+}
+1036016 = {
+	name="Pigtogeoag"
+	culture="algonquin"
+}
+1036017 = {
+	name="Sigenigteoag"
+	culture="algonquin"
+}
+1036018 = {
+	name="Gespegeoag"
+	culture="algonquin"
+}
+1037001 = {
+	name="Agueybana" #Arawak or Tiano
+	culture="taino"
+}
+1037002 = {
+	name="Anacaona"
+	culture="taino"
+}
+1037003 = {
+	name="Cariafudo"
+	culture="taino"
+}
+1037004 = {
+	name="Daguao"
+	culture="taino"
+}
+1037005 = {
+	name="Dakamokana"
+	culture="taino"
+}
+1037006 = {
+	name="Demarena"
+	culture="taino"
+}
+1037007 = {
+	name="Ebesowana"
+	culture="taino"
+}
+1037008 = {
+	name="Gimragi"
+	culture="taino"
+}
+1037009 = {
+	name="Jacaguax"
+	culture="taino"
+}
+1037010 = {
+	name="Jatibonicu"
+	culture="taino"
+}
+1037011 = {
+	name="Korobahado"
+	culture="taino"
+}
+1037012 = {
+	name="Maguya"
+	culture="taino"
+}
+1037013 = {
+	name="Naguake"
+	culture="taino"
+}
+1037014 = {
+	name="Onishido"
+	culture="taino"
+}
+1037015 = {
+	name="Yabokaquana"
+	culture="taino"
+}
+1037015 = {
+	name="Yobotana"
+	culture="taino"
+}
+1038001 = {
+	name="Ak" #Mayan group
+	culture="maya"
+}
+1038002 = {
+	name="Balam"
+	culture="maya"
+}
+1038003 = {
+	name="Be"
+	culture="maya"
+}
+1038004 = {
+	name="Camal"
+	culture="maya"
+}
+1038005 = {
+	name="Can"
+	culture="maya"
+}
+1038006 = {
+	name="Canche"
+	culture="maya"
+}
+1038007 = {
+	name="Cantun"
+	culture="maya"
+}
+1038008 = {
+	name="Canul"
+	culture="maya"
+}
+1038009 = {
+	name="Chi"
+	culture="maya"
+}
+1038010 = {
+	name="Chuc"
+	culture="maya"
+}
+1038011 = {
+	name="Cocom"
+	culture="maya"
+}
+1038012 = {
+	name="Coyoc"
+	culture="maya"
+}
+1038013 = {
+	name="Dzib"
+	culture="maya"
+}
+1038014 = {
+	name="Dzul"
+	culture="maya"
+}
+1038015 = {
+	name="Ehuan"
+	culture="maya"
+}
+1038016 = {
+	name="Hau"
+	culture="maya"
+}
+1038017 = {
+	name="Hoil"
+	culture="maya"
+}
+1038018 = {
+	name="May"
+	culture="maya"
+}
+1038019 = {
+	name="Mo"
+	culture="maya"
+}
+1038020 = {
+	name="Pech"
+	culture="maya"
+}
+1038021 = {
+	name="Pool"
+	culture="maya"
+}
+1038022 = {
+	name="Tamay"
+	culture="maya"
+}
+1038023 = {
+	name="Tun"
+	culture="maya"
+}
+1038024 = {
+	name="Ucan"
+	culture="maya"
+}
+1038025 = {
+	name="Xiu"
+	culture="maya"
+}
+1038026 = {
+	name="Xukpi"
+	culture="maya"
+}
+1038027 = {
+	name="Zapo"
+	culture="maya"
+}
+1039001 = {
+	name="Awneeyuhlah" #Cherokee group
+	culture="cherokee"
+}
+1039002 = {
+	name="Aygayuhlee"
+	culture="cherokee"
+}
+1039003 = {
+	name="Clogoittah"
+	culture="cherokee"
+}
+1039004 = {
+	name="Dalondeegah"
+	culture="cherokee"
+}
+1039005 = {
+	name="Ghigooie"
+	culture="cherokee"
+}
+1039006 = {
+	name="Guneega"
+	culture="cherokee"
+}
+1039007 = {
+	name="Hiwone-heeskee"
+	culture="cherokee"
+}
+1039008 = {
+	name="Kagama"
+	culture="cherokee"
+}
+1039009 = {
+	name="Kitegista"
+	culture="cherokee"
+}
+1039010 = {
+	name="Ooneeghdeehee"
+	culture="cherokee"
+}
+1039011 = {
+	name="Ooweena"
+	culture="cherokee"
+}
+1039012 = {
+	name="Sasadeehee"
+	culture="cherokee"
+}
+1039013 = {
+	name="Tsiyugigaghy"
+	culture="cherokee"
+}
+1039014 = {
+	name="Talontaskee"
+	culture="cherokee"
+}
+1039015 = {
+	name="Quayugi"
+	culture="cherokee"
+}
+1040001 = {
+	name="Hanitaibo" #Comanche group
+	culture="comanche"
+}
+1040002 = {
+	name="Huuzinuu"
+	culture="comanche"
+}
+1040003 = {
+	name="Kutsutuuka"
+	culture="comanche"
+}
+1040004 = {
+	name="Kwaharu"
+	culture="comanche"
+}
+1040005 = {
+	name="Kwahihuuki"
+	culture="comanche"
+}
+1040006 = {
+	name="Nokoni"
+	culture="comanche"
+}
+1040007 = {
+	name="Noyuhkanuu"
+	culture="comanche"
+}
+1040008 = {
+	name="Ohnonuu"
+	culture="comanche"
+}
+1040009 = {
+	name="Pekwituka"
+	culture="comanche"
+}
+1040010 = {
+	name="Sariituka"
+	culture="comanche"
+}
+1040011 = {
+	name="Tutsanoo-Yehku"
+	culture="comanche"
+}
+1040012 = {
+	name="Wianu"
+	culture="comanche"
+}
+1040013 = {
+	name="Parukaa"
+	culture="comanche"
+}
+1040014 = {
+	name="Taninuu"
+	culture="comanche"
+}
+1040015 = {
+	name="Yaparuka"
+	culture="comanche"
+}
+1041001 = {
+	name="Alimibequek" #Cree group
+	culture="cree"
+}
+1041002 = {
+	name="Ayapaskwa"
+	culture="cree"
+}
+1041003 = {
+	name="Chemawawin"
+	culture="cree"
+}
+1041004 = {
+	name="Katepwe"
+	culture="cree"
+}
+1041005 = {
+	name="Kilistinonos"
+	culture="cree"
+}
+1041006 = {
+	name="Kinistino"
+	culture="cree"
+}
+1041007 = {
+	name="Kirinowak"
+	culture="cree"
+}
+1041008 = {
+	name="Mistassini"
+	culture="cree"
+}
+1041009 = {
+	name="Monson"
+	culture="cree"
+}
+1041010 = {
+	name="Nisibourounik"
+	culture="cree"
+}
+1041011 = {
+	name="Wapoos"
+	culture="cree"
+}
+1041012 = {
+	name="Waskaganish"
+	culture="cree"
+}
+1041013 = {
+	name="Waswanipi" 
+	culture="cree"
+}
+1041014 = {
+	name="Atikamekw"
+	culture="cree"
+}
+1042001 = {
+	name="Aamaawia" #Illinois group
+	culture="illinois"
+}
+1042002 = {
+	name="Aanteekwa"
+	culture="illinois"
+}
+1042003 = {
+	name="Akooka"
+	culture="illinois"
+}
+1042004 = {
+	name="Alemwa"
+	culture="illinois"
+}
+1042005 = {
+	name="Anikwa"
+	culture="illinois"
+}
+1042006 = {
+	name="Eehsipana"
+	culture="illinois"
+}
+1042007 = {
+	name="Kiihkoneehsa"
+	culture="illinois"
+}
+1042008 = {
+	name="Kineepikwa"
+	culture="illinois"
+}
+1042009 = {
+	name="Koohsia"
+	culture="illinois"
+}
+1042010 = {
+	name="Lenaswa"
+	culture="illinois"
+}
+1042011 = {
+	name="Mahweewa"
+	culture="illinois"
+}
+1042012 = {
+	name="Miintikwa"
+	culture="illinois"
+}
+1042013 = {
+	name="Paapankamwa"
+	culture="illinois"
+}
+1042014 = {
+	name="Moohswa"
+	culture="illinois"
+}
+1042015 = {
+	name="Shikaakwa"
+	culture="illinois"
+}
+1042016 = {
+	name="Weehseenswa"
+	culture="illinois"
+}
+1042017 = {
+	name="Waapanswa"
+	culture="illinois"
+}
+1043001 = {
+	name="Ashini" #Innu group
+	culture="innu"
+}
+1043002 = {
+	name="Asta"
+	culture="innu"
+}
+1043003 = {
+	name="Iskueu"
+	culture="innu"
+}
+1043004 = {
+	name="Katshinak"
+	culture="innu"
+}
+1043005 = {
+	name="Manaupesh"
+	culture="innu"
+}
+1043006 = {
+	name="Misenapeu"
+	culture="innu"
+}
+1043007 = {
+	name="Neeposh"
+	culture="innu"
+}
+1043008 = {
+	name="Nui"
+	culture="innu"
+}
+1043009 = {
+	name="Pastitshi"
+	culture="innu"
+}
+1043010 = {
+	name="Pastiwet"
+	culture="innu"
+}
+1043011 = {
+	name="Piwas"
+	culture="innu"
+}
+1043012 = {
+	name="Pokue"
+	culture="innu"
+}
+1043013 = {
+	name="Toma"
+	culture="innu"
+}
+1043014 = {
+	name="Tshakapesh"
+	culture="innu"
+}
+1044001 = {
+	name="Anonkeriska" #Iroquois group
+	culture="iroquois"
+}
+1044002 = {
+	name="Arerhon"
+	culture="iroquois"
+}
+1044003 = {
+	name="Arissakxka"
+	culture="iroquois"
+}
+1044004 = {
+	name="Hanówa"
+	culture="iroquois"
+}
+1044005 = {
+	name="Hyacinthe"
+	culture="iroquois"
+}
+1044006 = {
+	name="Kahónnwes"
+	culture="iroquois"
+}
+1044007 = {
+	name="Kanerahtíio"
+	culture="iroquois"
+}
+1044008 = {
+	name="Kanónhsase"
+	culture="iroquois"
+}
+1044009 = {
+	name="Katorontie"
+	culture="iroquois"
+}
+1044010 = {
+	name="Nanticoke"
+	culture="iroquois"
+}
+1044011 = {
+	name="Ohgwáaih"
+	culture="iroquois"
+}
+1044012 = {
+	name="Oronhiatékha"
+	culture="iroquois"
+}
+1044013 = {
+	name="Sahanatien"
+	culture="iroquois"
+}
+1044014 = {
+	name="Sgeenhneenhdu"
+	culture="iroquois"
+}
+1044015 = {
+	name="Teakentati"
+	culture="iroquois"
+}
+1044016 = {
+	name="Tormiskakon"
+	culture="iroquois"
+}
+1045001 = {
+	name="Ahalagu" #Muscogee group
+	culture="muscogee"
+}
+1045002 = {
+	name="Aktayatcha"
+	culture="muscogee"
+}
+1045003 = {
+	name="Fuswa"
+	culture="muscogee"
+}
+1045004 = {
+	name="Halpata"
+	culture="muscogee"
+}
+1045005 = {
+	name="Hota'lga"
+	culture="muscogee"
+}
+1045006 = {
+	name="Itchaswa"
+	culture="muscogee"
+}
+1045007 = {
+	name="Itcoa"
+	culture="muscogee"
+}
+1045008 = {
+	name="Katca"
+	culture="muscogee"
+}
+1045009 = {
+	name="Kona"
+	culture="muscogee"
+}
+1045010 = {
+	name="Kowakatcu"
+	culture="muscogee"
+}
+1045011 = {
+	name="Nokosa"
+	culture="muscogee"
+}
+1045012 = {
+	name="Sopakta"
+	culture="muscogee"
+}
+1045013 = {
+	name="Tcla"
+	culture="muscogee"
+}
+1045014 = {
+	name="Wotka"
+	culture="muscogee"
+}
+1045015 = {
+	name="Yaha"
+	culture="muscogee"
+}
+1046001 = {
+	name="Azee'tsohdine'e" #Navajo group
+	culture="navajo"
+}
+1046002 = {
+	name="Bit'ahnii"
+	culture="navajo"
+}
+1046003 = {
+	name="Dziltl'ahnii"
+	culture="navajo"
+}
+1046004 = {
+	name="Gahdine'e"
+	culture="navajo"
+}
+1046005 = {
+	name="Haltsooi"
+	culture="navajo"
+}
+1046006 = {
+	name="Hashk'aahadzohi"
+	culture="navajo"
+}
+1046007 = {
+	name="Hooghanlani"
+	culture="navajo"
+}
+1046008 = {
+	name="Kinyaa'aanii"
+	culture="navajo"
+}
+1046009 = {
+	name="Lokaadinee"
+	culture="navajo"
+}
+1046010 = {
+	name="Nihoobaanii"
+	culture="navajo"
+}
+1046011 = {
+	name="Tl'ogi"
+	culture="navajo"
+}
+1046012 = {
+	name="Ta'neeszahnii"
+	culture="navajo"
+}
+1046013 = {
+	name="Tabaaha"
+	culture="navajo"
+}
+1046014 = {
+	name="Todik'ozhi"
+	culture="navajo"
+}
+1046015 = {
+	name="Tsahyisk'idnii"
+	culture="navajo"
+}
+1046016 = {
+	name="Tseikeehee"
+	culture="navajo"
+}
+1046017 = {
+	name="Yoo'odinee"
+	culture="navajo"
+}
+1047001 = {
+	name="Aiyaho" #Hopi group
+	culture="hopi"
+}
+1047002 = {
+	name="Ala"
+	culture="hopi"
+}
+1047003 = {
+	name="Ami"
+	culture="hopi"
+}
+1047004 = {
+	name="Bachipkwasi"
+	culture="hopi"
+}
+1047005 = {
+	name="Buliso"
+	culture="hopi"
+}
+1047006 = {
+	name="Chakwaina"
+	culture="hopi"
+}
+1047007 = {
+	name="Chinunga"
+	culture="hopi"
+}
+1047008 = {
+	name="Chongyo"
+	culture="hopi"
+}
+1047009 = {
+	name="Chua"
+	culture="hopi"
+}
+1047010 = {
+	name="Chubio"
+	culture="hopi"
+}
+1047011 = {
+	name="Chukai"
+	culture="hopi"
+}
+1047012 = {
+	name="Eototo"
+	culture="hopi"
+}
+1047013 = {
+	name="Gyazru"
+	culture="hopi"
+}
+1047014 = {
+	name="Hekpa"
+	culture="hopi"
+}
+1047015 = {
+	name="Hoko"
+	culture="hopi"
+}
+1047016 = {
+	name="Honani"
+	culture="hopi"
+}
+1047017 = {
+	name="Hosboa"
+	culture="hopi"
+}
+1047018 = {
+	name="Huwi"
+	culture="hopi"
+}
+1047019 = {
+	name="Ishauu"
+	culture="hopi"
+}
+1047020 = {
+	name="Tokonabi"
+	culture="hopi"
+}
+1048001 = {
+	name="Asotin" #Penutian group
+	culture="penutian"
+}
+1048002 = {
+	name="Alpowa"
+	culture="penutian"
+}
+1048003 = {
+	name="Eskawin"
+	culture="penutian"
+}
+1048004 = {
+	name="Hasenahamahkikt"
+	culture="penutian"
+}
+1048005 = {
+	name="Inneecheekoostin"
+	culture="penutian"
+}
+1048006 = {
+	name="Kopkoppalihkin"
+	culture="penutian"
+}
+1048007 = {
+	name="Lahmatta"
+	culture="penutian"
+}
+1048008 = {
+	name="Lapweme"
+	culture="penutian"
+}
+1048009 = {
+	name="Malihkin"
+	culture="penutian"
+}
+1048010 = {
+	name="Nuksiwepu"
+	culture="penutian"
+}
+1048011 = {
+	name="Sapachesap"
+	culture="penutian"
+}
+1048012 = {
+	name="Saxsano"
+	culture="penutian"
+}
+1048013 = {
+	name="Slickpoo"
+	culture="penutian"
+}
+1048014 = {
+	name="Tamkikeechet"
+	culture="penutian"
+}
+1048015 = {
+	name="Toolakasson"
+	culture="penutian"
+}
+1048016 = {
+	name="Wallamwatkain"
+	culture="penutian"
+}
+1048017 = {
+	name="Wallowa"
+	culture="penutian"
+}
+1048018 = {
+	name="Yakto'inu"
+	culture="penutian"
+}
+1049001 = {
+	name="Ahkaipokaks" #Salish group
+	culture="salish"
+}
+1049002 = {
+	name="Ahkotashiks"
+	culture="salish"
+}
+1049003 = {
+	name="Ahkwonistsists"
+	culture="salish"
+}
+1049004 = {
+	name="Anepo"
+	culture="salish"
+}
+1049005 = {
+	name="Apikaiyiks"
+	culture="salish"
+}
+1049006 = {
+	name="Aputosikainah"
+	culture="salish"
+}
+1049007 = {
+	name="Emitahpahksaiyiks"
+	culture="salish"
+}
+1049008 = {
+	name="Inuhksoyistamiks"
+	culture="salish"
+}
+1049009 = {
+	name="Isisokasimiks"
+	culture="salish"
+}
+1049010 = {
+	name="Mameoya"
+	culture="salish"
+}
+1049011 = {
+	name="Motahtosiks"
+	culture="salish"
+}
+1049012 = {
+	name="Nitikskiks"
+	culture="salish"
+}
+1049013 = {
+	name="Puhksinahmahyiks"
+	culture="salish"
+}
+1049014 = {
+	name="Saksinahinahyiks"
+	culture="salish"
+}
+1049015 = {
+	name="Siksahpuniks"
+	culture="salish"
+}
+1049016 = {
+	name="Tsiniktsistsoyiks"
+	culture="salish"
+}
+1050001 = {
+	name="Bai'ya" #shoshone group
+	culture="shoshone"
+}
+1050002 = {
+	name="Baingwi"
+	culture="shoshone"
+}
+1050003 = {
+	name="Biagwi'yaa"
+	culture="shoshone"
+}
+1050004 = {
+	name="Bo'nai"
+	culture="shoshone"
+}
+1050005 = {
+	name="Bozheena"
+	culture="shoshone"
+}
+1050006 = {
+	name="Buhni'atsi"
+	culture="shoshone"
+}
+1050007 = {
+	name="Bungu"
+	culture="shoshone"
+}
+1050008 = {
+	name="Daa'bu"
+	culture="shoshone"
+}
+1050009 = {
+	name="Doyadukubichi"
+	culture="shoshone"
+}
+1050010 = {
+	name="Haih"
+	culture="shoshone"
+}
+1050011 = {
+	name="Huchuu"
+	culture="shoshone"
+}
+1050012 = {
+	name="Kempai"
+	culture="shoshone"
+}
+1050013 = {
+	name="Kikah"
+	culture="shoshone"
+}
+1050014 = {
+	name="Mumbichi"
+	culture="shoshone"
+}
+1050015 = {
+	name="Waahni"
+	culture="shoshone"
+}
+1050016 = {
+	name="Yagwatsa"
+	culture="shoshone"
+}
+1051001 = {
+	name="Hunkpapa" #Sioux group
+	culture="sioux"
+}
+1051002 = {
+	name="Ihanktonwana"
+	culture="sioux"
+}
+1051003 = {
+	name="Itazipacola"
+	culture="sioux"
+}
+1051004 = {
+	name="Itesica"
+	culture="sioux"
+}
+1051005 = {
+	name="Kaposia"
+	culture="sioux"
+}
+1051006 = {
+	name="Kiyaksa"
+	culture="sioux"
+}
+1051007 = {
+	name="Mdewakantonwan"
+	culture="sioux"
+}
+1051008 = {
+	name="Miniconjou"
+	culture="sioux"
+}
+1051009 = {
+	name="Oglala"
+	culture="sioux"
+}
+1051010 = {
+	name="Oohenonpa"
+	culture="sioux"
+}
+1051011 = {
+	name="Oyuhpe"
+	culture="sioux"
+}
+1051012 = {
+	name="Payabya"
+	culture="sioux"
+}
+1051013 = {
+	name="Sichangu"
+	culture="sioux"
+}
+1051014 = {
+	name="Sihasapa"
+	culture="sioux"
+}
+1051015 = {
+	name="Sisitonwan"
+	culture="sioux"
+}
+1051016 = {
+	name="Tapisleca"
+	culture="sioux"
+}
+1051017 = {
+	name="Titonwan"
+	culture="sioux"
+}
+1051018 = {
+	name="Wagluhe"
+	culture="sioux"
+}
+1051019 = {
+	name="Wahpetonwan"
+	culture="sioux"
+}
+1051020 = {
+	name="Wajaje"
+	culture="sioux"
+}
+1052001 = {
+	name="Acuera" #Timacua group
+	culture="timacua"
+}
+1052002 = {
+	name="Cascange"
+	culture="timacua"
+}
+1052003 = {
+	name="Icafui"
+	culture="timacua"
+}
+1052004 = {
+	name="Mocama"
+	culture="timacua"
+}
+1052005 = {
+	name="Ocale"
+	culture="timacua"
+}
+1052006 = {
+	name="Oconi"
+	culture="timacua"
+}
+1052007 = {
+	name="Okefenokee"
+	culture="timacua"
+}
+1052008 = {
+	name="Potano"
+	culture="timacua"
+}
+1052009 = {
+	name="Saturiwa"
+	culture="timacua"
+}
+1052010 = {
+	name="Tacatacuru"
+	culture="timacua"
+}
+1052011 = {
+	name="Tucururu"
+	culture="timacua"
+}
+1052012 = {
+	name="Utina"
+	culture="timacua"
+}
+1052013 = {
+	name="Uzachile"
+	culture="timacua"
+}
+1052014 = {
+	name="Yufera"
+	culture="timacua"
+}
+1052015 = {
+	name="Yui"
+	culture="timacua"
+}
+1052016 = {
+	name="Yustaga"
+	culture="timacua"
+}
+1053001 = {
+	name="Aitij" #Carib group
+	culture="carib"
+}
+1053002 = {
+	name="Alliouagana"
+	culture="carib"
+}
+1053003 = {
+	name="Bekuya"
+	culture="carib"
+}
+1053004 = {
+	name="Couloubera"
+	culture="carib"
+}
+1053005 = {
+	name="Hewanorra"
+	culture="carib"
+}
+1053006 = {
+	name="Kamukali"
+	culture="carib"
+}
+1053007 = {
+	name="Malliouhana"
+	culture="carib"
+}
+1053008 = {
+	name="Ouabo"
+	culture="carib"
+}
+1053009 = {
+	name="Oualie"
+	culture="carib"
+}
+1053010 = {
+	name="Oudouton"
+	culture="carib"
+}
+1053011 = {
+	name="Timani"
+	culture="carib"
+}
+1053012 = {
+	name="Ubuemoin"
+	culture="carib"
+}
+1053013 = {
+	name="Waradli"
+	culture="carib"
+}
+1053014 = {
+	name="Kuwata"
+	culture="carib"
+}
+1054001 = {
+	name="Canari" #Inca group
+	culture="quechua"
+}
+1054002 = {
+	name="Capac"
+	culture="quechua"
+}
+1054003 = {
+	name="Chachapoya"
+	culture="quechua"
+}
+1054004 = {
+	name="Chanca"
+	culture="quechua"
+}
+1054005 = {
+	name="Charcas"
+	culture="quechua"
+}
+1054006 = {
+	name="Chichas"
+	culture="quechua"
+}
+1054007 = {
+	name="Hanan"
+	culture="quechua"
+}
+1054008 = {
+	name="Conchuca"
+	culture="quechua"
+}
+1054009 = {
+	name="Huallpa"
+	culture="quechua"
+}
+1054010 = {
+	name="Huarica"
+	culture="quechua"
+}
+1054011 = {
+	name="Hurin"
+	culture="quechua"
+}
+1054012 = {
+	name="Lupaca"
+	culture="quechua"
+}
+1054013 = {
+	name="Moyo"
+	culture="quechua"
+}
+1054014 = {
+	name="Roca"
+	culture="quechua"
+}
+1054015 = {
+	name="Viracocha"
+	culture="quechua"
+}
+1054016 = {
+	name="Yarivilca"
+	culture="quechua"
+}
+1054017 = {
+	name="Yupanqui"
+	culture="quechua"
+}
+1055001 = {
+	name="Caetés" #Tupi group
+	culture="tupi"
+}
+1055002 = {
+	name="Caruaru"
+	culture="tupi"
+}
+1055003 = {
+	name="Ipanema"
+	culture="tupi"
+}
+1055004 = {
+	name="Itaquaquecetuba"
+	culture="tupi"
+}
+1055005 = {
+	name="Janaína"
+	culture="tupi"
+}
+1055006 = {
+	name="Jurema"
+	culture="tupi"
+}
+1055007 = {
+	name="Jussara"
+	culture="tupi"
+}
+1055008 = {
+	name="Moema"
+	culture="tupi"
+}
+1055009 = {
+	name="Pindamonhangaba"
+	culture="tupi"
+}
+1055010 = {
+	name="Potiguara"
+	culture="tupi"
+}
+1055011 = {
+	name="Potowomeck"
+	culture="tupi"
+}
+1055012 = {
+	name="Tabajara"
+	culture="tupi"
+}
+1055013 = {
+	name="Tamoios"
+	culture="tupi"
+}
+1055014 = {
+	name="Temiminó"
+	culture="tupi"
+}
+1055015 = {
+	name="Tupiniquim"
+	culture="tupi"
+}
+1055016 = {
+	name="Ubirajara"
+	culture="tupi"
+}
+1055017 = {
+	name="Ubiratã"
+	culture="tupi"
+}
+200005 = {
+	name="Villnäs"
+	culture = swedish
+}
+200078 = {
+	name="Mercadier"
+	culture = frankish
+}
+200079 = {
+	name="Walter"
+	culture = german
+}
+200008 = {
+	name="Fincke"
+	culture = swedish
+}
+200009 = {
+	name="Dufva"
+	culture = swedish
+}
+200012 = {
+	name="Mäkelä"
+	culture = swedish
+}
+200014 = {
+	name="Jägerhorn af Spurila"
+	culture = swedish
+}
+200016 = {
+	name="Gesterby"
+	culture = swedish
+}
+20086 = {
+	name="Evans"
+	culture = english
+}
+20088 = {
+	name="Rowe"
+	culture = english
+}
+200061 = {
+	name="Grelle"
+	culture = german
+}

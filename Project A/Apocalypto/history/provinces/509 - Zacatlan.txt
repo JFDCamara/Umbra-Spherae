@@ -1,0 +1,15 @@
+# c_zacatlan
+
+# County Title
+title = c_zacatlan
+
+# Settlements
+max_settlements = 1
+
+b_zacatlan = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

@@ -1,0 +1,15 @@
+# c_palenque
+
+# County Title
+title = c_palenque
+
+# Settlements
+max_settlements = 1
+
+b_palenque = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

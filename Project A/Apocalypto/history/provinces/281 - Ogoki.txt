@@ -1,0 +1,15 @@
+# c_ogoki
+
+# County Title
+title = c_ogoki
+
+# Settlements
+max_settlements = 1
+
+b_ogoki = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

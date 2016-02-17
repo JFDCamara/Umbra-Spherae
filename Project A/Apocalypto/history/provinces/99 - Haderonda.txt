@@ -1,0 +1,18 @@
+# c_haderonda
+
+# County Title
+title = c_haderonda
+
+# Settlements
+max_settlements = 4
+
+b_haderonda = castle
+#b_ganasowadi = city
+#b_unadilla = temple
+#b_caneseraga = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

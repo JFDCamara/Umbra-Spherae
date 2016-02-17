@@ -1,0 +1,15 @@
+# c_caddo
+
+# County Title
+title = c_caddo
+
+# Settlements
+max_settlements = 1
+
+b_caddo = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

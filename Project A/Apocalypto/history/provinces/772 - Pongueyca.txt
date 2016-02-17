@@ -1,0 +1,15 @@
+# c_pongueyca
+
+# County Title
+title = c_pongueyca
+
+# Settlements
+max_settlements = 1
+
+b_pongueyca = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

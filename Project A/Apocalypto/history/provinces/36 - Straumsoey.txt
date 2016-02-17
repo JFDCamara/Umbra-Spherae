@@ -1,0 +1,15 @@
+# c_straumsoey
+
+# County Title
+title = c_straumsoey
+
+# Settlements
+max_settlements = 1
+
+b_straumsoey = castle
+
+# Misc
+culture = norwegian
+religion = norse_pagan
+
+#History

@@ -1,0 +1,59 @@
+# IDs 13500-13749
+13500 = {
+	name="Rurik"
+	dynasty=1100266
+	religion="norse_war"
+	culture="varangian"
+	add_trait="hist_rurik"
+	830.1.2={
+		birth="830.1.2"
+	}
+	879.1.1={
+		death="879.1.1"
+	}
+}
+
+13501 = {
+	name="Ingvarr"
+	dynasty=1100266
+	religion="norse_war"
+	culture="varangian"
+	father=13500
+	add_trait="hist_rurik"
+	875.1.2={
+		birth="875.1.2"
+	}
+	945.1.1={
+		death="945.1.1"
+	}
+}
+
+# Gilan
+13511 = {
+	name="Oleg"
+	dynasty=1100266
+	religion="norse_war"
+	culture="varangian"
+	add_trait="hist_rurik"
+	908.1.1={
+		birth="908.1.1"
+	}
+	948.1.1={
+		death="948.1.1"
+	}
+}
+
+13512 = {
+	name="Ingvarr"
+	dynasty=1100493
+	religion="norse_war"
+	culture="varangian"
+	father=13511
+	add_trait="hist_rurik"
+	923.1.1={
+		birth="923.1.1"
+	}
+	969.1.1={
+		death="969.1.1"
+	}
+}

@@ -1,0 +1,15 @@
+# c_wampanoag
+
+# County Title
+title = c_wampanoag
+
+# Settlements
+max_settlements = 1
+
+b_wampanoag = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

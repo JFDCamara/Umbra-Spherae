@@ -1,0 +1,15 @@
+# c_axocopan
+
+# County Title
+title = c_axocopan
+
+# Settlements
+max_settlements = 1
+
+b_axocopan = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

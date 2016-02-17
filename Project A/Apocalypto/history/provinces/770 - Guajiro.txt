@@ -1,0 +1,15 @@
+# c_guajiro
+
+# County Title
+title = c_guajiro
+
+# Settlements
+max_settlements = 1
+
+b_guajiro = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

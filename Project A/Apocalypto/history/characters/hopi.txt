@@ -1,0 +1,505 @@
+460000 = {
+	name="Ahote"
+	dynasty=1047005
+	religion="kachina"
+	culture="hopi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+460001 = {
+	name="Chaakmongwi"
+	dynasty=1047006
+	religion="kachina"
+	culture="hopi"
+	father=460022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+460002 = {
+	name="Chochmo"
+	dynasty=1047007 
+	religion="kachina"
+	culture="hopi"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+460003 = {
+	name="Chua"
+	dynasty=1047007
+	religion="kachina"
+	culture="hopi"
+	father=460002 #Chochmo
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+460004 = {
+	name="Hototo"
+	dynasty=1047009
+	religion="kachina"
+	culture="hopi"
+	father=460005 #Kele
+	mother=460029 #Sunki
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+460005 = {
+	name="Kele"
+	dynasty=1047009
+	religion="kachina"
+	culture="hopi"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=460029 #Sunki
+    }
+
+}
+
+460006 = {
+	name="Kwatoko"
+	dynasty=1047011
+	religion="kachina"
+	culture="hopi"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=460030 #Lenmana
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+460007 = {
+	name="Lapu"
+	dynasty=1047011
+	religion="kachina"
+	culture="hopi"
+	father=460006 #Kwatoko
+	mother=460030 #Lenmana
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+460008 = {
+	name="Loololma"
+	dynasty=1047012
+	religion="kachina"
+	culture="hopi"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+460009 = {
+	name="Machakw"
+	dynasty=1047002
+	religion="kachina"
+	culture="hopi"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+460010 = {
+	name="Mochni"
+	dynasty=1047013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="kachina"
+	culture="hopi"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+460011 = {
+	name="Moki"
+	dynasty=1047014
+	religion="kachina"
+	culture="hopi"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+460012 = {
+	name="Omawnakw"
+	dynasty=1047015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="kachina"
+	culture="hopi"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+460013 = {
+	name="Pimne"
+	dynasty=1047016
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="kachina"
+	culture="hopi"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+460014 = {
+	name="Qochata"
+	dynasty=1047017
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="kachina"
+	culture="hopi"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+460015 = {
+	name="Sikyahonaw"
+	dynasty=1047006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="kachina"
+	culture="hopi"
+	father=460022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+460016 = {
+	name="Tangakwunu"
+	dynasty=1047011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="kachina"
+	culture="hopi"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+460017 = {
+	name="Tohopka"
+	dynasty=1047004
+	religion="kachina"
+	culture="hopi"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+460018 = {
+	name="Wikvaya"
+	dynasty=1047004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="kachina"
+	culture="hopi"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+460019 = {
+	name="Masichuvio"
+	dynasty=1047008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="kachina"
+	culture="hopi"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+460020 = {
+	name="Istaqa"
+	dynasty=1047003
+	religion="kachina"
+	culture="hopi"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+460021 = {
+	name="Tuvi"
+	dynasty=1047002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="kachina"
+	culture="hopi"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+460022 = {
+	name="Chuchip"
+	dynasty=1047006
+	religion="kachina"
+	culture="hopi"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+460023 = {
+	name="Hehewuti"
+	female=yes
+	dynasty=1047007	
+	religion="kachina"
+	culture="hopi"
+	father=460002 #Chochmo
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+460024 = {
+	name="Mansi"
+	female=yes
+	dynasty=1047011
+	religion="kachina"
+	culture="hopi"
+	father=460006 #Kwatoko
+	mother=460030 #Lenmana
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+460025 = {
+	name="Aponivi"
+	dynasty=1047010
+	religion="kachina"
+	culture="hopi"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+460026 = {
+	name="Ankti"
+	female=yes
+	dynasty=1047010
+	religion="kachina"
+	culture="hopi"
+	father=460025 #Aponivi
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+460027 = {
+	name="Yokizihna"
+	female=yes
+	dynasty=1047016	
+	religion="kachina"
+	culture="hopi"
+	father=460013 #Pimne
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+460028 = {
+	name="Catori"
+	female=yes
+	dynasty=1047008	
+	religion="kachina"
+	culture="hopi"
+	father=460019 #Masichuvio
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+460029 = {
+	name="Sunki"
+	female=yes
+	dynasty=1047001	
+	religion="kachina"
+	culture="hopi"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=460005 #Kele
+    	}
+}
+
+460030 = {
+	name="Lenmana"
+	female=yes
+	dynasty=1047017
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="kachina"
+	culture="hopi"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=460006 #Kwatoko
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

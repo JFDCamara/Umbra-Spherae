@@ -1,0 +1,17 @@
+# c_cullowhee
+
+# County Title
+title = c_cullowhee
+
+# Settlements
+max_settlements = 3
+
+b_cullowhee = castle
+#b_tsulunwe = city
+#b_skwan’-digu_gun’yi = temple
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

@@ -1,0 +1,15 @@
+# c_guyana
+
+# County Title
+title = c_guyana
+
+# Settlements
+max_settlements = 1
+
+b_guyana = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

@@ -1,0 +1,15 @@
+# c_chilpancinco
+
+# County Title
+title = c_chilpancinco
+
+# Settlements
+max_settlements = 1
+
+b_chilpancinco = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

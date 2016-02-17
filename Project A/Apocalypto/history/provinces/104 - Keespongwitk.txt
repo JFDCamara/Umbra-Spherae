@@ -1,0 +1,15 @@
+# c_keespongwitk
+
+# County Title
+title = c_keespongwitk
+
+# Settlements
+max_settlements = 1
+
+b_keespongwitk = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

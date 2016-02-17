@@ -1,0 +1,430 @@
+# IDs 707 + 14500-14749
+707 = {
+	name="Theodemar" #galicia
+	dynasty=1050025
+	dna="bafkdeacgcp"
+	properties="0i0dak0000"
+	health=9
+	religion="allfather"
+	culture="suevic"
+	father=14528
+	1041.1.2={
+		birth="1041.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+14500 = {
+	name="Hermeric"
+	dynasty=1100230
+	religion="allfather"
+	culture="suevic"
+	376.1.1={
+		birth="376.1.1"
+	}
+	443.1.1={
+		death="443.1.1"
+	}
+}
+
+14501 = {
+	name="Rechila"
+	dynasty=1100230
+	religion="allfather"
+	culture="suevic"
+	father=14500
+	399.1.1={
+		birth="399.1.1"
+	}
+	448.1.1={
+		death="448.1.1"
+	}
+}
+
+14502 = {
+	name="Rechiar"
+	dynasty=1100230
+	religion="catholic"
+	culture="suevic"
+	father=14501
+	415.1.1={
+		birth="415.1.1"
+	}
+	456.12.1={
+		death="456.12.1"
+	}
+}
+
+14503 = {
+	name="Framta"
+	dynasty=1100230
+	religion="allfather"
+	culture="suevic"
+	417.1.1={
+		birth="417.1.1"
+	}
+	457.1.1={
+		death="457.1.1"
+	}
+}
+
+14504 = {
+	name="Remismund"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	432.1.1={
+		birth="432.1.1"
+	}
+	469.1.1={
+		death="469.1.1"
+	}
+}
+
+14505 = {
+	name="Theodemund"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14504
+	463.1.1={
+		birth="463.1.1"
+	}
+	550.1.1={
+		death="550.1.1"
+	}
+}
+
+14506 = {
+	name="Chararic"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14505
+	499.1.1={
+		birth="499.1.1"
+	}
+	559.1.1={
+		death="559.1.1"
+	}
+}
+
+14507 = {
+	name="Ariamir"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14506
+	522.1.1={
+		birth="522.1.1"
+	}
+	561.1.1={
+		death="561.1.1"
+	}
+}
+
+14508 = {
+	name="Theodemar"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14506
+	529.1.1={
+		birth="529.1.1"
+	}
+	570.1.1={
+		death="570.1.1"
+	}
+}
+
+14509 = {
+	name="Miro"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14508
+	552.1.1={
+		birth="552.1.1"
+	}
+	583.1.1={
+		death="583.1.1"
+	}
+}
+
+14510 = {
+	name="Eboric"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14509
+	570.1.1={
+		birth="570.1.1"
+	}
+	610.1.1={
+		death="610.1.1"
+	}
+}
+
+14511 = {
+	name="Gundivaldo"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14510
+	589.1.1={
+		birth="589.1.1"
+	}
+	633.1.1={
+		death="633.1.1"
+	}
+}
+
+14512 = {
+	name="Agriulfum"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14511
+	607.1.1={
+		birth="607.1.1"
+	}
+	659.1.1={
+		death="659.1.1"
+	}
+}
+
+14513 = {
+	name="Quidemero"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14512
+	631.1.1={
+		birth="631.1.1"
+	}
+	678.1.1={
+		death="678.1.1"
+	}
+}
+
+14514 = {
+	name="Remismund"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14513
+	650.1.1={
+		birth="650.1.1"
+	}
+	709.1.1={
+		death="709.1.1"
+	}
+}
+
+14515 = {
+	name="Cagildo"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14514
+	683.1.1={
+		birth="683.1.1"
+	}
+	711.1.1={
+		death="711.1.1"
+	}
+}
+
+14516 = {
+	name="Froatingus"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14514
+	687.1.1={
+		birth="687.1.1"
+	}
+	715.1.1={
+		death="715.1.1"
+	}
+}
+
+14517 = {
+	name="Lallina"
+	female=yes
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14514
+	680.1.1={
+		birth="680.1.1"
+	}
+	722.1.1={
+		death="722.1.1"
+	}
+}
+
+14518 = {
+	name="Cagildo"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	mother=14517
+	add_trait="legit_bastard"
+	702.1.1={
+		birth="702.1.1"
+	}
+	758.1.1={
+		death="758.1.1"
+	}
+}
+
+14519 = {
+	name="Theodemar"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14518
+	729.1.1={
+		birth="729.1.1"
+	}
+	789.1.1={
+		death="789.1.1"
+	}
+}
+
+14520 = {
+	name="Veremund"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14519
+	765.1.1={
+		birth="765.1.1"
+	}
+	815.1.1={
+		death="815.1.1"
+	}
+}
+
+
+14521 = {
+	name="Trasoldi"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14520
+	791.1.1={
+		birth="791.1.1"
+	}
+	847.1.1={
+		death="847.1.1"
+	}
+}
+
+
+14522 = {
+	name="Remismund"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14521
+	820.1.1={
+		birth="820.1.1"
+	}
+	875.1.1={
+		death="875.1.1"
+	}
+}
+
+
+14523 = {
+	name="Teoderedus"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14522
+	845.1.1={
+		birth="845.1.1"
+	}
+	907.1.1={
+		death="907.1.1"
+	}
+}
+
+
+14524 = {
+	name="Theodemund"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14523
+	888.1.1={
+		birth="888.1.1"
+	}
+	941.1.1={
+		death="941.1.1"
+	}
+}
+
+
+14525 = {
+	name="Otualdo"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14524
+	903.1.1={
+		birth="903.1.1"
+	}
+	977.1.1={
+		death="977.1.1"
+	}
+}
+
+
+14526 = {
+	name="Theodemar"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14525
+	930.1.1={
+		birth="930.1.1"
+	}
+	1011.1.1={
+		death="1011.1.1"
+	}
+}
+
+
+14527 = {
+	name="Remismund"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14526
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1046.1.1={
+		death="1046.1.1"
+	}
+}
+
+
+14528 = {
+	name="Cagildo"
+	dynasty=1050025
+	religion="allfather"
+	culture="suevic"
+	father=14527
+	1023.1.1={
+		birth="1023.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}

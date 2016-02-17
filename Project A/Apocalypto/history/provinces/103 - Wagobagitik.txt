@@ -1,0 +1,15 @@
+# c_wagobagitik
+
+# County Title
+title = c_wagobagitik
+
+# Settlements
+max_settlements = 1
+
+b_wagobagitik = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

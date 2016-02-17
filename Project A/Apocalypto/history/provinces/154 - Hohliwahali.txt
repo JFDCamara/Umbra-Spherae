@@ -1,0 +1,18 @@
+# c_hohliwahali
+
+# County Title
+title = c_hohliwahali
+
+# Settlements
+max_settlements = 4
+
+b_hohliwahali = castle
+#b_autauga = city
+#b_wetumpka = temple
+#b_ulibahali = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

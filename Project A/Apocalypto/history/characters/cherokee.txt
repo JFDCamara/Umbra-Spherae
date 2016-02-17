@@ -1,0 +1,505 @@
+340000 = {
+	name="Ashwin"
+	dynasty=1039005
+	religion="mississippian"
+	culture="cherokee"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+340001 = {
+	name="Asija"
+	dynasty=1039006
+	religion="mississippian"
+	culture="cherokee"
+	father=340022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+340002 = {
+	name="Asim"
+	dynasty=1039007 
+	religion="mississippian"
+	culture="cherokee"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+340003 = {
+	name="Chea-Sequah"
+	dynasty=1039007
+	religion="mississippian"
+	culture="cherokee"
+	father=340002 #Asim
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+340004 = {
+	name="Chuquilatague"
+	dynasty=1039009
+	religion="mississippian"
+	culture="cherokee"
+	father=340005 #Degataga
+	mother=340029 #Usdi
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+340005 = {
+	name="Degataga"
+	dynasty=1039009
+	religion="mississippian"
+	culture="cherokee"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=340029 #Usdi
+    }
+
+}
+
+340006 = {
+	name="Diwali"
+	dynasty=1039011
+	religion="mississippian"
+	culture="cherokee"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=340030 #Leotie
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+340007 = {
+	name="Galegenoh"
+	dynasty=1039011
+	religion="mississippian"
+	culture="cherokee"
+	father=340006 #Diwali
+	mother=340030 #Leotie
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+340008 = {
+	name="Gawonii"
+	dynasty=1039012
+	religion="mississippian"
+	culture="cherokee"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+340009 = {
+	name="Mohe"
+	dynasty=1039002
+	religion="mississippian"
+	culture="cherokee"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+340010 = {
+	name="Oukonunaka"
+	dynasty=1039013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="mississippian"
+	culture="cherokee"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+340011 = {
+	name="Sequoyah"
+	dynasty=1039014
+	religion="mississippian"
+	culture="cherokee"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+340012 = {
+	name="Waya"
+	dynasty=1039015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="mississippian"
+	culture="cherokee"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+340013 = {
+	name="Kanagagota"
+	dynasty=1039001
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="mississippian"
+	culture="cherokee"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+340014 = {
+	name="Kanuna"
+	dynasty=1039003
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="mississippian"
+	culture="cherokee"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+340015 = {
+	name="Koatohee"
+	dynasty=1039006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="mississippian"
+	culture="cherokee"
+	father=340022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+340016 = {
+	name="Oconostota"
+	dynasty=1039011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="mississippian"
+	culture="cherokee"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+340017 = {
+	name="Rayetayah"
+	dynasty=1039004
+	religion="mississippian"
+	culture="cherokee"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+340018 = {
+	name="Salal"
+	dynasty=1039004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="mississippian"
+	culture="cherokee"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+340019 = {
+	name="Tsiyi"
+	dynasty=1039008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="mississippian"
+	culture="cherokee"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+340020 = {
+	name="Unaduti"
+	dynasty=1039003
+	religion="mississippian"
+	culture="cherokee"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+340021 = {
+	name="Yonaguska"
+	dynasty=1039002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="mississippian"
+	culture="cherokee"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+340022 = {
+	name="Atohi"
+	dynasty=1039006
+	religion="mississippian"
+	culture="cherokee"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+340023 = {
+	name="Ahyoka"
+	female=yes
+	dynasty=1039007	
+	religion="mississippian"
+	culture="cherokee"
+	father=340002 #Asim
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+340024 = {
+	name="Galilahi"
+	female=yes
+	dynasty=1039011
+	religion="mississippian"
+	culture="cherokee"
+	father=340006 #Diwali
+	mother=340030 #Leotie
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+340025 = {
+	name="Dustu"
+	dynasty=1039010
+	religion="mississippian"
+	culture="cherokee"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+340026 = {
+	name="Immookalee"
+	female=yes
+	dynasty=1039010
+	religion="mississippian"
+	culture="cherokee"
+	father=340025 #Dustu
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+340027 = {
+	name="Hialeah"
+	female=yes
+	dynasty=1039001	
+	religion="mississippian"
+	culture="cherokee"
+	father=340013 #Kanagagota
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+340028 = {
+	name="Salali"
+	female=yes
+	dynasty=1039008	
+	religion="mississippian"
+	culture="cherokee"
+	father=340019 #Tsiyi
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+340029 = {
+	name="Usdi"
+	female=yes
+	dynasty=1039001	
+	religion="mississippian"
+	culture="cherokee"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=340005 #Degataga
+    	}
+}
+
+340030 = {
+	name="Leotie"
+	female=yes
+	dynasty=1039014
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="mississippian"
+	culture="cherokee"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=340006 #Diwali
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

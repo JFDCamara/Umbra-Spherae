@@ -1,0 +1,15 @@
+# c_ozark
+
+# County Title
+title = c_ozark
+
+# Settlements
+max_settlements = 1
+
+b_ozark = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

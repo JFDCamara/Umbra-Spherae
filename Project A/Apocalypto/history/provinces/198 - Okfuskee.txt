@@ -1,0 +1,17 @@
+# c_okfuskee
+
+# County Title
+title = c_okfuskee
+
+# Settlements
+max_settlements = 3
+
+b_okfuskee = castle
+#b_likatcka = city
+#b_chisse_hulcuh = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

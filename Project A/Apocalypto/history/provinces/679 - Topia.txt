@@ -1,0 +1,15 @@
+# c_topia
+
+# County Title
+title = c_topia
+
+# Settlements
+max_settlements = 1
+
+b_topia = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

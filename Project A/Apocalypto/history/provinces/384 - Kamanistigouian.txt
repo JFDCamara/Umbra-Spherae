@@ -1,0 +1,15 @@
+# c_kamanistigouian
+
+# County Title
+title = c_kamanistigouian
+
+# Settlements
+max_settlements = 1
+
+b_kamanistigouian = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

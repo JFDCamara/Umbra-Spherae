@@ -1,0 +1,19 @@
+# c_kealedji
+
+# County Title
+title = c_kealedji
+
+# Settlements
+max_settlements = 5
+
+b_kealedji = castle
+#b_wetumpka = city
+#b_cussetuh = temple
+#b_chelucin-tigetuh = castle
+#b_itaba = city
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

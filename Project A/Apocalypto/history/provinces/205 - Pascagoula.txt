@@ -1,0 +1,17 @@
+# c_pascagoula
+
+# County Title
+title = c_pascagoula
+
+# Settlements
+max_settlements = 3
+
+b_pascagoula = castle
+#b_chishafoka = city
+#b_imongalasha = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

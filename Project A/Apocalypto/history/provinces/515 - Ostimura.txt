@@ -1,0 +1,15 @@
+# c_ostimura
+
+# County Title
+title = c_ostimura
+
+# Settlements
+max_settlements = 1
+
+b_ostimura = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

@@ -1,0 +1,15 @@
+# c_cuk_son
+
+# County Title
+title = c_cuk_son
+
+# Settlements
+max_settlements = 1
+
+b_cuk_son = castle
+
+# Misc
+culture = navajo
+religion = kachina
+
+#History

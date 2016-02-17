@@ -1,0 +1,15 @@
+# c_sergipe
+
+# County Title
+title = c_sergipe
+
+# Settlements
+max_settlements = 1
+
+b_sergipe = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

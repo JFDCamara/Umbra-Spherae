@@ -1,0 +1,15 @@
+# c_tutilpinco
+
+# County Title
+title = c_tutilpinco
+
+# Settlements
+max_settlements = 1
+
+b_tutilpinco = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

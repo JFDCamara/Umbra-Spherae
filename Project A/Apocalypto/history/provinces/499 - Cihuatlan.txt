@@ -1,0 +1,15 @@
+# c_cihuatlan
+
+# County Title
+title = c_cihuatlan
+
+# Settlements
+max_settlements = 1
+
+b_cihuatlan = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

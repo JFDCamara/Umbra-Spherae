@@ -1,0 +1,15 @@
+# c_anticosti
+
+# County Title
+title = c_anticosti
+
+# Settlements
+max_settlements = 1
+
+b_anticosti = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

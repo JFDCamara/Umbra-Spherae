@@ -1,0 +1,17 @@
+# c_lecta
+
+# County Title
+title = c_lecta
+
+# Settlements
+max_settlements = 3
+
+b_lecta = castle
+#b_tama’si = city
+#b_wa’sulu = temple
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

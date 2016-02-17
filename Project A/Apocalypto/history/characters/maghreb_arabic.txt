@@ -1,0 +1,598 @@
+301 = {
+	name="Huneric"
+	dynasty=1100103
+	dna="ckkddumcgcy"
+	properties="aj0bcb00000"
+	health=9
+	religion="arian"
+	culture="vandal"
+	add_trait="brilliant_strategist"
+	add_trait="hist_gelimer"
+	add_trait="poet"
+	add_trait="kinslayer"
+	add_trait="brave"
+	add_trait="ambitious"
+	add_trait="leper"
+	1035.1.2={
+		birth="1035.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+801 = {
+	name="Amezwar" #sanhaja
+	dynasty=1100145
+	dna="agvbsppnzoy"
+	properties="ac0bbc00000"
+	health=9
+	religion="gurzil"
+	culture="berber"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+802 = {
+	name="Yusuf" #almorav
+	dynasty=7274
+	dna="dckuxcumxoy"
+	properties="agi0aa00000"
+	health=9
+	religion="ghazi_islam"
+	culture="berber"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+803 = {
+	name="Abdul-Azeem" #Idris
+	dynasty=1100146
+	dna="odpbiplbhix"
+	properties="ah0bcc00000"
+	health=9
+	religion="sunni"
+	culture="maghreb_arabic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+804 = {
+	name="Hassan" #Tahert
+	dynasty=1100147
+	dna="qstkzqrxqjr"
+	properties="alu0ca00000"
+	health=9
+	religion="ibadi"
+	culture="berber"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+805 = {
+	name="Haidar" #Mzab
+	dynasty=1027000
+	dna="yazxzpkdlal"
+	properties="obudad00000"
+	health=9
+	religion="mutazil"
+	culture="berber"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+806 = {
+	name="Abdullah" #hamm
+	dynasty=575
+	dna="guzfahepewl"
+	properties="od0egd00000"
+	health=9
+	religion="sunni"
+	culture="maghreb_arabic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+807 = {
+	name="Sayyid" #zirid
+	dynasty=595
+	dna="sxafeerihqb"
+	properties="egvgbk00000"
+	health=9
+	religion="sunni"
+	culture="maghreb_arabic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+808 = {
+	name="Izdarasen" #numidia
+	dynasty=1100148
+	dna="gxdeybuggvb"
+	properties="aj0bcc00000"
+	health=9
+	religion="donatist"
+	culture="berber"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+809 = {
+	name="Abbas" #aghlab
+	dynasty=1100149
+	dna="eprryseidni"
+	properties="ma0cbd00000"
+	health=9
+	religion="ilm_islam"
+	culture="maghreb_arabic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+810 = {
+	name="Apollonios" #kyrene
+	dynasty=1100150
+	dna="cmgfekebacs"
+	properties="0j0dad00000"
+	health=9
+	religion="sol_apollo"
+	culture="greek"
+	add_trait="hist_ptolemaios"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+811 = {
+	name="Abbas" #siwa
+	dynasty=576
+	dna="nzduavczfvy"
+	properties="ogkg0f00000"
+	health=9
+	religion="kharijite"
+	culture="egyptian_arabic"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+812 = {
+	name="Alam" #tulun
+	dynasty=1100151
+	dna="rogwycesocn"
+	properties="kh0h0e00000"
+	health=9
+	religion="ashari"
+	culture="turkish"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+813 = {
+	name="Al-Mustansir" #shiia
+	dynasty=589
+	dna="kqyikvkhmev"
+	properties="albb0000000"
+	health=9
+	religion="shiite"
+	culture="egyptian_arabic"
+	add_trait="sayyid"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+814 = {
+	name="Aaron" #nubia
+	dynasty=101777
+	dna="okfmaemcpdb"
+	properties="am0acc00000"
+	health=9
+	religion="monophysite"
+	culture="nubian"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+815 = {
+	name="Azmera" #aksum
+	dynasty=1100152
+	dna="genkglmmlpk"
+	properties="cd0fdk00000"
+	health=9
+	religion="sol_tsahay"
+	culture="ethiopian"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+816 = {
+	name="Yakrib" #saba
+	dynasty=1100153
+	dna="wauuhisjvnb"
+	properties="ca0gge00000"
+	health=9
+	religion="almaqah"
+	culture="sabaean"
+	add_trait="hist_almaqah"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+817 = {
+	name="Watar" #mahra
+	dynasty=1100154
+	dna="kylbepnmcum"
+	properties="mbpfbk00000"
+	health=9
+	religion="shams"
+	culture="sabaean"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+818 = {
+	name="Ali" #oman
+	dynasty=582
+	dna="mkbaaihvbwy"
+	properties="mjghfk00000"
+	health=9
+	religion="ibadi"
+	culture="bedouin_arabic"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+819 = {
+	name="Muhammad" #hedjaz
+	dynasty=100695
+	dna="vlqzapulndm"
+	properties="ab0agb00000"
+	health=9
+	religion="sunni"
+	culture="bedouin_arabic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+820 = {
+	name="Muhammad" #nefoud
+	dynasty=100687
+	dna="qnyhtyvumxe"
+	properties="je0e0d00000"
+	health=9
+	religion="kharijite"
+	culture="bedouin_arabic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+821 = {
+	name="Bailshar" #aqaba
+	dynasty=1100155
+	dna="psasgvwafsr"
+	properties="ea0hbe0b000"
+	health=9
+	religion="shams"
+	culture="nabatean"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+822 = {
+	name="Theoma" #nabatea
+	dynasty=1100156
+	dna="jlmvqulzmuy"
+	properties="ai0afa00000"
+	health=9
+	religion="palmyran_pagan"
+	culture="nabatean"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+823 = {
+	name="Malichus" #amman
+	dynasty=1100157
+	dna="wmjnuixjpkv"
+	properties="aak00b00000"
+	health=9
+	religion="sol_islam"
+	culture="nabatean"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+824 = {
+	name="Menahilim" #syria
+	dynasty=580
+	dna="cxnyxosobdr"
+	properties="ndkdgd00000"
+	health=9
+	religion="druze"
+	culture="syroaramean"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+825 = {
+	name="Arun" #euphrates
+	dynasty=1100158
+	dna="gzncfhttagh"
+	properties="cbrhgf00000"
+	health=9
+	religion="yahyanism"
+	culture="kurdish"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+826 = {
+	name="Hakam" #damasc
+	dynasty=597
+	dna="kefxfbrdcpu"
+	properties="mhvc0d00000"
+	health=9
+	religion="murjiah"
+	culture="levantine_arabic"
+	add_trait="hist_muawiyah"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+827 = {
+	name="Mustafa" #cyrenaica
+	dynasty=101671
+	dna="rpziiqrnsun"
+	properties="jmwedd00000"
+	health=9
+	religion="shiite"
+	culture="maghreb_arabic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+828 = {
+	name="Dawit" #abyss
+	dynasty=7246
+	dna="oapqkudumcn"
+	properties="ac00eb00000"
+	health=9
+	religion="solomonic_christ"
+	culture="ethiopian"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+829 = {
+	name="Bayin" #harer
+	dynasty=1100222
+	dna="ycffrchmkbk"
+	properties="ccgdgd00000"
+	health=9
+	religion="attar"
+	culture="sabaean"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+830 = {
+	name="Aarif" #asir
+	dynasty=581
+	dna="sdjknbsgcwt"
+	properties="mjzfek00000"
+	health=9
+	religion="hubal"
+	culture="bedouin_arabic"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+831 = {
+	name="Husam" #d_amanqar
+	dynasty=1100223
+	dna="ffwyktxdazn"
+	properties="mj0d0d00000"
+	health=9
+	religion="qarmatian"
+	culture="bedouin_arabic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+832 = {
+	name="Latif" #alexandria
+	dynasty=1100224
+	dna="xjrivvmddlb"
+	properties="caseak00000"
+	health=9
+	religion="plato_islam"
+	culture="egyptian_arabic"
+	add_trait="hist_alexandros"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+833 = {
+	name="Anamar" #tripolit
+	dynasty=1100225
+	dna="whnxeadakmn"
+	properties="cllfdk00000"
+	health=9
+	religion="amanai"
+	culture="berber"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+834 = {
+	name="Thrasamund" #orania
+	dynasty=1100226
+	dna="udrmqzgibcy"
+	properties="tjudck00000"
+	health=9
+	religion="sunni"
+	culture="vandal"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+835 = {
+	name="Amnay" #rif
+	dynasty=1100227
+	dna="bdjwjokzsyq"
+	properties="chccgk00000"
+	health=9
+	religion="gurzil"
+	culture="berber"
+	add_trait="hist_kahina"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+836 = {
+	name="Solomon" #sinai
+	dynasty=1100382
+	dna="srrbpuvcdtn"
+	properties="cj0d0d00000"
+	health=9
+	religion="judaism"
+	culture="jewish"
+	1048.1.2={
+		birth="1048.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+837 = {
+	name="Ala'i" #ascalon
+	dynasty=1100229
+	dna="pcharmdmsnq"
+	properties="00eegd00000"
+	health=9
+	religion="sethian"
+	culture="levantine_arabic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+838 = {
+	name="Imamaddin" #haruri
+	dynasty=101023
+	dna="fqgchfrvnna"
+	properties="jcoc0d00000"
+	health=9
+	religion="haruri"
+	culture="bedouin_arabic"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}

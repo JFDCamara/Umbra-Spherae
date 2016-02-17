@@ -1,0 +1,15 @@
+# c_wiklif
+
+# County Title
+title = c_wiklif
+
+# Settlements
+max_settlements = 1
+
+b_wiklif = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

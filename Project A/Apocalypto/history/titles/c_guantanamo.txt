@@ -1,0 +1,13 @@
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+
+1061.1.1=
+{
+liege="d_guantanamo"
+}
+1061.1.1=
+{
+holder=300010
+}

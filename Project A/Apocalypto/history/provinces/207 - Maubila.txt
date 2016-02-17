@@ -1,0 +1,17 @@
+# c_maubila
+
+# County Title
+title = c_maubila
+
+# Settlements
+max_settlements = 3
+
+b_maubila = castle
+#b_abeika = city
+#b_talpahoka = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

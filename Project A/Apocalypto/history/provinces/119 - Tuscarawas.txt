@@ -1,0 +1,16 @@
+# c_tuscarawas
+
+# County Title
+title = c_tuscarawas
+
+# Settlements
+max_settlements = 2
+
+b_tuscarawas = castle
+#b_ayanamon = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

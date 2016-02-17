@@ -1,0 +1,15 @@
+# c_waladli
+
+# County Title
+title = c_waladli
+
+# Settlements
+max_settlements = 1
+
+b_waladli = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

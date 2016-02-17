@@ -1,0 +1,15 @@
+# c_oka
+
+# County Title
+title = c_oka
+
+# Settlements
+max_settlements = 1
+
+b_oka = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

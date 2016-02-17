@@ -1,0 +1,15 @@
+# c_nanih_waiya
+
+# County Title
+title = c_nanih_waiya
+
+# Settlements
+max_settlements = 1
+
+b_nanih_waiya = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

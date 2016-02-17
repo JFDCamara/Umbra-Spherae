@@ -1,0 +1,15 @@
+# c_colima
+
+# County Title
+title = c_colima
+
+# Settlements
+max_settlements = 1
+
+b_colima = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

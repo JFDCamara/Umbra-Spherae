@@ -1,0 +1,17 @@
+# c_coshocton
+
+# County Title
+title = c_coshocton
+
+# Settlements
+max_settlements = 3
+
+b_coshocton = castle
+#b_custaloga = city
+#b_unalachtigo = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

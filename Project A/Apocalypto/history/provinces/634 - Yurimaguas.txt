@@ -1,0 +1,15 @@
+# c_yurimaguas
+
+# County Title
+title = c_yurimaguas
+
+# Settlements
+max_settlements = 1
+
+b_yurimaguas = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

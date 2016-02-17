@@ -1,0 +1,15 @@
+# c_paducah
+
+# County Title
+title = c_paducah
+
+# Settlements
+max_settlements = 1
+
+b_paducah = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

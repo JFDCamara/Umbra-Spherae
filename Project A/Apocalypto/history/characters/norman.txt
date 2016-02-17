@@ -1,0 +1,75 @@
+101 = {
+	name="Robert" #cephalonia
+	dynasty=559
+	dna="oxnpmgdvbcl"
+	properties="cc0g0k00000"
+	health=9
+	religion="catholic"
+	culture="norman"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+102 = {
+	name="Tancred" #tripol
+	dynasty=347
+	dna="jwynepalfca"
+	properties="cm0s0d00000"
+	health=9
+	religion="catholic"
+	culture="norman"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+103 = {
+	name="Alexandros" #tyrus
+	dynasty=1100221
+	dna="dhlfaygiacq"
+	properties="cg0eck00000"
+	health=9
+	religion="porphyryan"
+	culture="hellenistic"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+104 = {
+	name="Antiochos" #beirut
+	dynasty=1100220
+	dna="delkgbmhacr"
+	properties="0j0dcd00000"
+	health=9
+	religion="neoplato"
+	culture="hellenistic"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+105 = {
+	name="William" #norma
+	dynasty=752
+	dna="olvygcitgca"
+	properties="0i0s0d00000"
+	health=9
+	religion="catholic"
+	culture="norman"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}

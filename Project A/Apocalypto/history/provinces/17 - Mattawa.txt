@@ -1,0 +1,15 @@
+# c_mattawa
+
+# County Title
+title = c_mattawa
+
+# Settlements
+max_settlements = 1
+
+b_mattawa = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

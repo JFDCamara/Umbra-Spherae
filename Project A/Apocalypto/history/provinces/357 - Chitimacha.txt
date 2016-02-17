@@ -1,0 +1,15 @@
+# c_chitimacha
+
+# County Title
+title = c_chitimacha
+
+# Settlements
+max_settlements = 1
+
+b_chitimacha = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

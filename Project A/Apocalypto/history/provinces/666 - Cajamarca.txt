@@ -1,0 +1,15 @@
+# c_cajamarca
+
+# County Title
+title = c_cajamarca
+
+# Settlements
+max_settlements = 1
+
+b_cajamarca = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

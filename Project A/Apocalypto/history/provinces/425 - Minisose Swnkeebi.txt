@@ -1,0 +1,15 @@
+# c_minisose_swnkeebi
+
+# County Title
+title = c_minisose_swnkeebi
+
+# Settlements
+max_settlements = 1
+
+b_minisose_swnkeebi = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

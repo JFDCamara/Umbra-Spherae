@@ -1,0 +1,16 @@
+# c_chiaba
+
+# County Title
+title = c_chiaba
+
+# Settlements
+max_settlements = 2
+
+b_chiaba = castle
+#b_oyadagahrcenes = city
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

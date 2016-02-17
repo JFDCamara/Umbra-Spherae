@@ -1,0 +1,15 @@
+# c_huatulco
+
+# County Title
+title = c_huatulco
+
+# Settlements
+max_settlements = 1
+
+b_huatulco = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

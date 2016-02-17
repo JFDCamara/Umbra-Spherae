@@ -1,0 +1,15 @@
+# c_tamaca
+
+# County Title
+title = c_tamaca
+
+# Settlements
+max_settlements = 1
+
+b_tamaca = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

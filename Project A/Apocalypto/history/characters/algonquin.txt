@@ -1,0 +1,133 @@
+41001 = {
+	name="Nonosbawsut" #Beothuk
+	dynasty=1036001
+	health=9
+	fertility=0.7
+	religion="midewiwin"
+	culture="algonquin"
+	1042.1.2={
+		birth="1042.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+41011 = {
+	name="Kitchi" #Onamag
+	dynasty=1036011
+	health=9
+	fertility=0.7
+	religion="midewiwin"
+	culture="algonquin"
+	1042.1.2={
+		birth="1042.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+41012 = {
+	name="Keme" #Mikmaq
+	dynasty=1036012
+	health=9
+	fertility=0.7
+	religion="midewiwin"
+	culture="algonquin"
+	1042.1.2={
+		birth="1042.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+41013 = {
+	name="Achaq" #Mikmaq
+	dynasty=1036013
+	health=9
+	fertility=0.7
+	religion="midewiwin"
+	culture="algonquin"
+	1042.1.2={
+		birth="1042.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+41014 = {
+	name="Abooksigun" #Mikmaq
+	dynasty=1036014
+	health=9
+	fertility=0.7
+	religion="midewiwin"
+	culture="algonquin"
+	1042.1.2={
+		birth="1042.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+41015 = {
+	name="Tihkoosue" #Mikmaq
+	dynasty=1036015
+	health=9
+	fertility=0.7
+	religion="midewiwin"
+	culture="algonquin"
+	1042.1.2={
+		birth="1042.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+41016 = {
+	name="Nootau" #Mikmaq
+	dynasty=1036016
+	health=9
+	fertility=0.7
+	religion="midewiwin"
+	culture="algonquin"
+	1042.1.2={
+		birth="1042.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+41017 = {
+	name="Noshi" #Mikmaq
+	dynasty=1036017
+	health=9
+	fertility=0.7
+	religion="midewiwin"
+	culture="algonquin"
+	1042.1.2={
+		birth="1042.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+41018 = {
+	name="Mukki" #Mikmaq
+	dynasty=1036018
+	health=9
+	fertility=0.7
+	religion="midewiwin"
+	culture="algonquin"
+	1042.1.2={
+		birth="1042.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}

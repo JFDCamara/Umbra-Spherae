@@ -1,0 +1,15 @@
+# c_iabaquen
+
+# County Title
+title = c_iabaquen
+
+# Settlements
+max_settlements = 1
+
+b_iabaquen = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

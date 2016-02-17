@@ -1,0 +1,17 @@
+# c_saara
+
+# County Title
+title = c_saara
+
+# Settlements
+max_settlements = 3
+
+b_saara = castle
+#b_keetoowah = city
+#b_tugaloo = temple
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

@@ -1,0 +1,15 @@
+# c_etzanoa
+
+# County Title
+title = c_etzanoa
+
+# Settlements
+max_settlements = 1
+
+b_etzanoa = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

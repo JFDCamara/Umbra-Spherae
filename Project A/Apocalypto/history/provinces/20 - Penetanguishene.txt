@@ -1,0 +1,15 @@
+# c_penetanguishene
+
+# County Title
+title = c_penetanguishene
+
+# Settlements
+max_settlements = 1
+
+b_penetanguishene = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

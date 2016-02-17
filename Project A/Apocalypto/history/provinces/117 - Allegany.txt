@@ -1,0 +1,19 @@
+# c_allegany
+
+# County Title
+title = c_allegany
+
+# Settlements
+max_settlements = 5
+
+b_allegany = castle
+b_canisteo = city
+#b_tiadaghton = temple
+#b_diondaga = castle
+#b_jenuchshadega = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

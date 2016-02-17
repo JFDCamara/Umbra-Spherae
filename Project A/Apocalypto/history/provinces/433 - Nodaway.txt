@@ -1,0 +1,15 @@
+# c_nodaway
+
+# County Title
+title = c_nodaway
+
+# Settlements
+max_settlements = 1
+
+b_nodaway = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

@@ -1,0 +1,15 @@
+# c_quibdo
+
+# County Title
+title = c_quibdo
+
+# Settlements
+max_settlements = 1
+
+b_quibdo = castle
+
+# Misc
+culture = carib
+religion = inca
+
+#History

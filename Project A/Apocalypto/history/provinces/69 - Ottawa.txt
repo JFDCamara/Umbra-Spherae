@@ -1,0 +1,16 @@
+# c_ottawa
+
+# County Title
+title = c_ottawa
+
+# Settlements
+max_settlements = 2
+
+b_ottawa = castle
+#b_moozoonii = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

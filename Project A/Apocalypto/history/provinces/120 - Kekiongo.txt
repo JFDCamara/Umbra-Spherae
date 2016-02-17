@@ -1,0 +1,16 @@
+# c_kekiongo
+
+# County Title
+title = c_kekiongo
+
+# Settlements
+max_settlements = 2
+
+b_kekiongo = castle
+#b_shipshewana = city
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

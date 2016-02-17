@@ -1,0 +1,15 @@
+# c_sumapaz
+
+# County Title
+title = c_sumapaz
+
+# Settlements
+max_settlements = 1
+
+b_sumapaz = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

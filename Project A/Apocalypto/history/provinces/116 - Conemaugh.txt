@@ -1,0 +1,17 @@
+# c_conemaugh
+
+# County Title
+title = c_conemaugh
+
+# Settlements
+max_settlements = 3
+
+b_conemaugh = castle
+#b_carantouan = city
+#b_attaock = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

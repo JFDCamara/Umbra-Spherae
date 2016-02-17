@@ -1,0 +1,15 @@
+# c_aranama
+
+# County Title
+title = c_aranama
+
+# Settlements
+max_settlements = 1
+
+b_aranama = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

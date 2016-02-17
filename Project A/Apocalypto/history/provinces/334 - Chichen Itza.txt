@@ -1,0 +1,20 @@
+# c_chichen_itza
+
+# County Title
+title = c_chichen_itza
+
+# Settlements
+max_settlements = 6
+
+b_chichen_itza = castle
+b_uucyabnal = city
+b_coluba = temple
+b_cerritos = castle
+b_tizimin = castle
+#b_holchit = temple
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

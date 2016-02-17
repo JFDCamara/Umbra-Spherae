@@ -1,0 +1,17 @@
+# c_pawokti
+
+# County Title
+title = c_pawokti
+
+# Settlements
+max_settlements = 3
+
+b_pawokti = castle
+#b_ivitachuco = city
+#b_palachees = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

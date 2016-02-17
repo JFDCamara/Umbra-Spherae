@@ -1,0 +1,15 @@
+# c_ocamaniri
+
+# County Title
+title = c_ocamaniri
+
+# Settlements
+max_settlements = 1
+
+b_ocamaniri = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

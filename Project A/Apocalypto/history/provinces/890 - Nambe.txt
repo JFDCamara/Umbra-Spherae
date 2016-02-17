@@ -1,0 +1,15 @@
+# c_nambe
+
+# County Title
+title = c_nambe
+
+# Settlements
+max_settlements = 1
+
+b_nambe = castle
+
+# Misc
+culture = navajo
+religion = kachina
+
+#History

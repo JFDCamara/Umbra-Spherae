@@ -1,0 +1,18 @@
+# c_ishpeming
+
+# County Title
+title = c_ishpeming
+
+# Settlements
+max_settlements = 4
+
+b_ishpeming = castle
+#b_niigaanii = city
+#b_madaabiimong = temple
+#b_kchiminishing = castle
+
+# Misc
+culture = illinois
+religion = midewiwin
+
+#History

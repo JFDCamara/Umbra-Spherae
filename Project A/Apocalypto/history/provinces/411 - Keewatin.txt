@@ -1,0 +1,15 @@
+# c_keewatin
+
+# County Title
+title = c_keewatin
+
+# Settlements
+max_settlements = 1
+
+b_keewatin = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

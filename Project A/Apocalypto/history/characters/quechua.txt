@@ -1,0 +1,505 @@
+600000 = {
+	name="Anquimarca"
+	dynasty=1054005
+	religion="inca"
+	culture="quechua"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+600001 = {
+	name="Anta-Accla"
+	dynasty=1054006
+	religion="inca"
+	culture="quechua"
+	father=600022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+600002 = {
+	name="Apo"
+	dynasty=1054007 
+	religion="inca"
+	culture="quechua"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+600003 = {
+	name="AtaSurandaman"
+	dynasty=1054007
+	religion="inca"
+	culture="quechua"
+	father=600002 #Apo
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+600004 = {
+	name="Atoc-Sopa"
+	dynasty=1054009
+	religion="inca"
+	culture="quechua"
+	father=600005 #Canchari
+	mother=600029 #Chic'ya
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+600005 = {
+	name="Canchari"
+	dynasty=1054009
+	religion="inca"
+	culture="quechua"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=600029 #Chic'ya
+    }
+
+}
+
+600006 = {
+	name="Capac-Tupac"
+	dynasty=1054011
+	religion="inca"
+	culture="quechua"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=600030 #Toctollssica
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+600007 = {
+	name="Cariapata"
+	dynasty=1054011
+	religion="inca"
+	culture="quechua"
+	father=600006 #Capac-Tupac
+	mother=600030 #Toctollssica
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+600008 = {
+	name="Cayo-Topa"
+	dynasty=1054012
+	religion="inca"
+	culture="quechua"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+600009 = {
+	name="Chalcuchima"
+	dynasty=1054002
+	religion="inca"
+	culture="quechua"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+600010 = {
+	name="Challco"
+	dynasty=1054013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="inca"
+	culture="quechua"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+600011 = {
+	name="Chiaquitinta"
+	dynasty=1054014
+	religion="inca"
+	culture="quechua"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+600012 = {
+	name="Chilche"
+	dynasty=1054015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="inca"
+	culture="quechua"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+600013 = {
+	name="Condorcanqui"
+	dynasty=1054016
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="inca"
+	culture="quechua"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+600014 = {
+	name="Guaritito"
+	dynasty=1054017
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="inca"
+	culture="quechua"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+600015 = {
+	name="Huachuri"
+	dynasty=1054006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="inca"
+	culture="quechua"
+	father=600022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+600016 = {
+	name="Surandaman"
+	dynasty=1054011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="inca"
+	culture="quechua"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+600017 = {
+	name="Huaritico"
+	dynasty=1054004
+	religion="inca"
+	culture="quechua"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+600018 = {
+	name="Huascar"
+	dynasty=1054004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="inca"
+	culture="quechua"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+600019 = {
+	name="Huaypalcon"
+	dynasty=1054008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="inca"
+	culture="quechua"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+600020 = {
+	name="Illaquita"
+	dynasty=1054003
+	religion="inca"
+	culture="quechua"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+600021 = {
+	name="Ispaca"
+	dynasty=1054002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="inca"
+	culture="quechua"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+600022 = {
+	name="Llicllic"
+	dynasty=1054006
+	religion="inca"
+	culture="quechua"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+600023 = {
+	name="Chimpu"
+	female=yes
+	dynasty=1054007	
+	religion="inca"
+	culture="quechua"
+	father=600002 #Apo
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+600024 = {
+	name="Maxi-Coca"
+	female=yes
+	dynasty=1054011
+	religion="inca"
+	culture="quechua"
+	father=600006 #Capac-Tupac
+	mother=600030 #Toctollssica
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+600025 = {
+	name="Quizo"
+	dynasty=1054010
+	religion="inca"
+	culture="quechua"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+600026 = {
+	name="Urma"
+	female=yes
+	dynasty=1054010
+	religion="inca"
+	culture="quechua"
+	father=600025 #Quizo
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+600027 = {
+	name="Anas-Collque"
+	female=yes
+	dynasty=1054016	
+	religion="inca"
+	culture="quechua"
+	father=600013 #Condorcanqui
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+600028 = {
+	name="Mama-Runtu"
+	female=yes
+	dynasty=1054008	
+	religion="inca"
+	culture="quechua"
+	father=600019 #Huaypalcon
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+600029 = {
+	name="Chic'ya"
+	female=yes
+	dynasty=1054001	
+	religion="inca"
+	culture="quechua"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=600005 #Canchari
+    	}
+}
+
+600030 = {
+	name="Toctollssica"
+	female=yes
+	dynasty=1054017
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="inca"
+	culture="quechua"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=600006 #Capac-Tupac
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

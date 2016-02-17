@@ -1,0 +1,20 @@
+# c_uaxactun
+
+# County Title
+title = c_uaxactun
+
+# Settlements
+max_settlements = 6
+
+b_uaxactunrb) = castle
+b_tayasal = city
+b_eckixil = temple
+b_alacranes = castle
+#b_milpa = city
+#b_azul = temple
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

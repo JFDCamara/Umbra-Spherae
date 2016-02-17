@@ -1,0 +1,15 @@
+# c_nazca
+
+# County Title
+title = c_nazca
+
+# Settlements
+max_settlements = 1
+
+b_nazca = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

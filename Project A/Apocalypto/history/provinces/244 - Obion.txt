@@ -1,0 +1,17 @@
+# c_obion
+
+# County Title
+title = c_obion
+
+# Settlements
+max_settlements = 3
+
+b_obion = castle
+#b_no’natlugv’yi = city
+#b_u’lana’wa = temple
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

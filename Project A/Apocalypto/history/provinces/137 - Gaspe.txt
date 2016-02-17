@@ -1,0 +1,15 @@
+# c_gaspe
+
+# County Title
+title = c_gaspe
+
+# Settlements
+max_settlements = 1
+
+b_gaspe = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

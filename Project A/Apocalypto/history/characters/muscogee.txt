@@ -1,0 +1,505 @@
+420000 = {
+	name="Estajoca"
+	dynasty=1045005
+	religion="mississippian"
+	culture="muscogee"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+420001 = {
+	name="Tomochichi"
+	dynasty=1045006
+	religion="mississippian"
+	culture="muscogee"
+	father=420022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+420002 = {
+	name="Chebona"
+	dynasty=1045007 
+	religion="mississippian"
+	culture="muscogee"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+420003 = {
+	name="Chiggilli"
+	dynasty=1045007
+	religion="mississippian"
+	culture="muscogee"
+	father=420002 #Chebona
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+420004 = {
+	name="Hasse-Ola"
+	dynasty=1045009
+	religion="mississippian"
+	culture="muscogee"
+	father=420005 #Yaholo
+	mother=420029 #Onawa
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+420005 = {
+	name="Yaholo"
+	dynasty=1045009
+	religion="mississippian"
+	culture="muscogee"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=420029 #Onawa
+    }
+
+}
+
+420006 = {
+	name="Opothleyaholo"
+	dynasty=1045011
+	religion="mississippian"
+	culture="muscogee"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=420030 #Sum
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+420007 = {
+	name="Osceola"
+	dynasty=1045011
+	religion="mississippian"
+	culture="muscogee"
+	father=420006 #Opothleyaholo
+	mother=420030 #Sum
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+420008 = {
+	name="Hothlepoya"
+	dynasty=1045012
+	religion="mississippian"
+	culture="muscogee"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+420009 = {
+	name="Lamochattee"
+	dynasty=1045002
+	religion="mississippian"
+	culture="muscogee"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+420010 = {
+	name="Yayatustenuggee"
+	dynasty=1045013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="mississippian"
+	culture="muscogee"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+420011 = {
+	name="Talof-Harjo"
+	dynasty=1045014
+	religion="mississippian"
+	culture="muscogee"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+420012 = {
+	name="Tchikilli"
+	dynasty=1045015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="mississippian"
+	culture="muscogee"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+420013 = {
+	name="Kikikwawason"
+	dynasty=1045001
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="mississippian"
+	culture="muscogee"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+420014 = {
+	name="Menewa"
+	dynasty=1045003
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="mississippian"
+	culture="muscogee"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+420015 = {
+	name="Malatche"
+	dynasty=1045006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="mississippian"
+	culture="muscogee"
+	father=420022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+420016 = {
+	name="Bula"
+	dynasty=1045011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="mississippian"
+	culture="muscogee"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+420017 = {
+	name="Emistesigo"
+	dynasty=1045004
+	religion="mississippian"
+	culture="muscogee"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+420018 = {
+	name="Ossiolachiih"
+	dynasty=1045004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="mississippian"
+	culture="muscogee"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+420019 = {
+	name="Huhuewahehle"
+	dynasty=1045008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="mississippian"
+	culture="muscogee"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+420020 = {
+	name="Tiole"
+	dynasty=1045003
+	religion="mississippian"
+	culture="muscogee"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+420021 = {
+	name="Fallinniche"
+	dynasty=1045002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="mississippian"
+	culture="muscogee"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+420022 = {
+	name="Fiksoomikey"
+	dynasty=1045006
+	religion="mississippian"
+	culture="muscogee"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+420023 = {
+	name="Mar"
+	female=yes
+	dynasty=1045007	
+	religion="mississippian"
+	culture="muscogee"
+	father=420002 #Chebona
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+420024 = {
+	name="Cocheta"
+	female=yes
+	dynasty=1045011
+	religion="mississippian"
+	culture="muscogee"
+	father=420006 #Opothleyaholo
+	mother=420030 #Sum
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+420025 = {
+	name="Ubullartkar"
+	dynasty=1045010
+	religion="mississippian"
+	culture="muscogee"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+420026 = {
+	name="Eyota"
+	female=yes
+	dynasty=1045010
+	religion="mississippian"
+	culture="muscogee"
+	father=420025 #Ubullartkar
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+420027 = {
+	name="Talisa"
+	female=yes
+	dynasty=1045001	
+	religion="mississippian"
+	culture="muscogee"
+	father=420013 #Kikikwawason
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+420028 = {
+	name="Nila"
+	female=yes
+	dynasty=1045008	
+	religion="mississippian"
+	culture="muscogee"
+	father=420019 #Huhuewahehle
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+420029 = {
+	name="Onawa"
+	female=yes
+	dynasty=1045001	
+	religion="mississippian"
+	culture="muscogee"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=420005 #Yaholo
+    	}
+}
+
+420030 = {
+	name="Sum"
+	female=yes
+	dynasty=1045014
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="mississippian"
+	culture="muscogee"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=420006 #Opothleyaholo
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

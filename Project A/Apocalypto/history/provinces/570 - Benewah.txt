@@ -1,0 +1,15 @@
+# c_benewah
+
+# County Title
+title = c_benewah
+
+# Settlements
+max_settlements = 1
+
+b_benewah = castle
+
+# Misc
+culture = salish
+religion = shikla
+
+#History

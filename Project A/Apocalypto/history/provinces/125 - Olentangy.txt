@@ -1,0 +1,16 @@
+# c_olentangy
+
+# County Title
+title = c_olentangy
+
+# Settlements
+max_settlements = 2
+
+b_olentangy = castle
+#b_hockhocken = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

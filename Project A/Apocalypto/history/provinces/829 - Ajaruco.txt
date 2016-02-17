@@ -1,0 +1,15 @@
+# c_ajaruco
+
+# County Title
+title = c_ajaruco
+
+# Settlements
+max_settlements = 1
+
+b_ajaruco = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

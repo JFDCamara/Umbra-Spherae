@@ -1,0 +1,15 @@
+# c_tachi
+
+# County Title
+title = c_tachi
+
+# Settlements
+max_settlements = 1
+
+b_tachi = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

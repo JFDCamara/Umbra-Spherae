@@ -1,0 +1,15 @@
+# c_guayaquil
+
+# County Title
+title = c_guayaquil
+
+# Settlements
+max_settlements = 1
+
+b_guayaquil = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

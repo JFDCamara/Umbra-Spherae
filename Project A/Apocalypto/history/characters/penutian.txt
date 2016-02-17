@@ -1,0 +1,505 @@
+560000 = {
+	name="Alast-Sauked"
+	dynasty=1048005
+	religion="tipashumashwish"
+	culture="penutian"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+560001 = {
+	name="Allalimya-Takanin"
+	dynasty=1048006
+	religion="tipashumashwish"
+	culture="penutian"
+	father=560022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+560002 = {
+	name="Apash-Wyakaikt"
+	dynasty=1048007 
+	religion="tipashumashwish"
+	culture="penutian"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+560003 = {
+	name="Elotsonse"
+	dynasty=1048007
+	religion="tipashumashwish"
+	culture="penutian"
+	father=560002 #Apash-Wyakaikt
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+560004 = {
+	name="Hahtalekin"
+	dynasty=1048009
+	religion="tipashumashwish"
+	culture="penutian"
+	father=560005 #Heinmot-Hihhih
+	mother=560029 #Tamalwinonmi
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+560005 = {
+	name="Heinmot-Hihhih"
+	dynasty=1048009
+	religion="tipashumashwish"
+	culture="penutian"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=560029 #Tamalwinonmi
+    }
+
+}
+
+560006 = {
+	name="Hemene-Moxmox"
+	dynasty=1048011
+	religion="tipashumashwish"
+	culture="penutian"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=560030 #Yiyik-Wasumwah
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+560007 = {
+	name="Hinmahtooyahlatkekt"
+	dynasty=1048011
+	religion="tipashumashwish"
+	culture="penutian"
+	father=560006 #Hemene-Moxmox
+	mother=560030 #Yiyik-Wasumwah
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+560008 = {
+	name="Hototo"
+	dynasty=1048012
+	religion="tipashumashwish"
+	culture="penutian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+560009 = {
+	name="Husis-Owyeen"
+	dynasty=1048002
+	religion="tipashumashwish"
+	culture="penutian"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+560010 = {
+	name="Husishusis-Kute"
+	dynasty=1048013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="tipashumashwish"
+	culture="penutian"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+560011 = {
+	name="Ippakness-Wayhayken"
+	dynasty=1048014
+	religion="tipashumashwish"
+	culture="penutian"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+560012 = {
+	name="Jlppilp"
+	dynasty=1048015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="tipashumashwish"
+	culture="penutian"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+560013 = {
+	name="Ollokot"
+	dynasty=1048016
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="tipashumashwish"
+	culture="penutian"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+560014 = {
+	name="Pahkar"
+	dynasty=1048017
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="tipashumashwish"
+	culture="penutian"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+560015 = {
+	name="Peopeohixhiix"
+	dynasty=1048006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="tipashumashwish"
+	culture="penutian"
+	father=560022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+560016 = {
+	name="Sarpsis-Ilppilp"
+	dynasty=1048011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="tipashumashwish"
+	culture="penutian"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+560017 = {
+	name="Sousouquee"
+	dynasty=1048004
+	religion="tipashumashwish"
+	culture="penutian"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+560018 = {
+	name="Taktsoukt"
+	dynasty=1048004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="tipashumashwish"
+	culture="penutian"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+560019 = {
+	name="Teyohyohshin"
+	dynasty=1048008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="tipashumashwish"
+	culture="penutian"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+560020 = {
+	name="Toohoolhoolzote"
+	dynasty=1048003
+	religion="tipashumashwish"
+	culture="penutian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+560021 = {
+	name="Tuekakas"
+	dynasty=1048002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="tipashumashwish"
+	culture="penutian"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+560022 = {
+	name="Wahlitits"
+	dynasty=1048006
+	religion="tipashumashwish"
+	culture="penutian"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+560023 = {
+	name="Alikkees"
+	female=yes
+	dynasty=1048007	
+	religion="tipashumashwish"
+	culture="penutian"
+	father=560002 #Apash-Wyakaikt
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+560024 = {
+	name="Chickamohpeo"
+	female=yes
+	dynasty=1048011
+	religion="tipashumashwish"
+	culture="penutian"
+	father=560006 #Hemene-Moxmox
+	mother=560030 #Yiyik-Wasumwah
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+560025 = {
+	name="Walammottinin"
+	dynasty=1048010
+	religion="tipashumashwish"
+	culture="penutian"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+560026 = {
+	name="Heyoon-Yoyikt"
+	female=yes
+	dynasty=1048010
+	religion="tipashumashwish"
+	culture="penutian"
+	father=560025 #Walammottinin
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+560027 = {
+	name="Khapkhaponimi"
+	female=yes
+	dynasty=1048016	
+	religion="tipashumashwish"
+	culture="penutian"
+	father=560013 #Ollokot
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+560028 = {
+	name="Notah-Chee"
+	female=yes
+	dynasty=1048008	
+	religion="tipashumashwish"
+	culture="penutian"
+	father=560019 #Teyohyohshin
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+560029 = {
+	name="Tamalwinonmi"
+	female=yes
+	dynasty=1048001	
+	religion="tipashumashwish"
+	culture="penutian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=560005 #Heinmot-Hihhih
+    	}
+}
+
+560030 = {
+	name="Yiyik-Wasumwah"
+	female=yes
+	dynasty=1048017
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="tipashumashwish"
+	culture="penutian"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=560006 #Hemene-Moxmox
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

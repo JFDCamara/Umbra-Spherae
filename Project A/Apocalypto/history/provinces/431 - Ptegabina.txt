@@ -1,0 +1,15 @@
+# c_ptegabina
+
+# County Title
+title = c_ptegabina
+
+# Settlements
+max_settlements = 1
+
+b_ptegabina = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

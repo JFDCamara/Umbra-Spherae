@@ -1,0 +1,15 @@
+# c_patwin
+
+# County Title
+title = c_patwin
+
+# Settlements
+max_settlements = 1
+
+b_patwin = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

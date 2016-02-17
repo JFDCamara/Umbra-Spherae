@@ -1,0 +1,15 @@
+# c_weippe
+
+# County Title
+title = c_weippe
+
+# Settlements
+max_settlements = 1
+
+b_weippe = castle
+
+# Misc
+culture = salish
+religion = numa
+
+#History

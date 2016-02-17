@@ -1,0 +1,15 @@
+# c_kakatshihip
+
+# County Title
+title = c_kakatshihip
+
+# Settlements
+max_settlements = 1
+
+b_kakatshihip = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

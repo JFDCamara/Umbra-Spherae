@@ -1,0 +1,15 @@
+# c_quaymas
+
+# County Title
+title = c_quaymas
+
+# Settlements
+max_settlements = 1
+
+b_quaymas = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

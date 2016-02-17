@@ -1,0 +1,15 @@
+# c_pacaembu
+
+# County Title
+title = c_pacaembu
+
+# Settlements
+max_settlements = 1
+
+b_pacaembu = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

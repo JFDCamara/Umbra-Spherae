@@ -1,0 +1,16 @@
+# c_ingo
+
+# County Title
+title = c_ingo
+
+# Settlements
+max_settlements = 2
+
+b_ingo = castle
+#b_tagwa’hi = city
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

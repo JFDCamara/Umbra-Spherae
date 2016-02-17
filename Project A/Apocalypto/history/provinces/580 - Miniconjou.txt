@@ -1,0 +1,15 @@
+# c_miniconjou
+
+# County Title
+title = c_miniconjou
+
+# Settlements
+max_settlements = 1
+
+b_miniconjou = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

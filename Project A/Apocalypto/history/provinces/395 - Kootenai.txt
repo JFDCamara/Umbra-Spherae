@@ -1,0 +1,15 @@
+# c_kootenai
+
+# County Title
+title = c_kootenai
+
+# Settlements
+max_settlements = 1
+
+b_kootenai = castle
+
+# Misc
+culture = salish
+religion = numa
+
+#History

@@ -1,0 +1,505 @@
+540000 = {
+	name="Akecheta"
+	dynasty=1051005
+	religion="animist"
+	culture="sioux"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+540001 = {
+	name="Appanoose"
+	dynasty=1051006
+	religion="animist"
+	culture="sioux"
+	father=540022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+540002 = {
+	name="Canowicakte"
+	dynasty=1051007 
+	religion="animist"
+	culture="sioux"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+540003 = {
+	name="Chankoowashtay"
+	dynasty=1051007
+	religion="animist"
+	culture="sioux"
+	father=540002 #Canowicakte
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+540004 = {
+	name="Chatan"
+	dynasty=1051009
+	religion="animist"
+	culture="sioux"
+	father=540005 #Ciqala
+	mother=540029 #Ptaysanwee
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+540005 = {
+	name="Ciqala"
+	dynasty=1051009
+	religion="animist"
+	culture="sioux"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=540029 #Ptaysanwee
+    }
+
+}
+
+540006 = {
+	name="Enapay"
+	dynasty=1051011
+	religion="animist"
+	culture="sioux"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=540030 #Talutah
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+540007 = {
+	name="Hanska"
+	dynasty=1051011
+	religion="animist"
+	culture="sioux"
+	father=540006 #Enapay
+	mother=540030 #Talutah
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+540008 = {
+	name="Hotah"
+	dynasty=1051012
+	religion="animist"
+	culture="sioux"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+540009 = {
+	name="Kangee"
+	dynasty=1051002
+	religion="animist"
+	culture="sioux"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+540010 = {
+	name="Kohana"
+	dynasty=1051013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="animist"
+	culture="sioux"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+540011 = {
+	name="Lootah"
+	dynasty=1051014
+	religion="animist"
+	culture="sioux"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+540012 = {
+	name="Mahkah"
+	dynasty=1051015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="animist"
+	culture="sioux"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+540013 = {
+	name="Mahpee"
+	dynasty=1051016
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="animist"
+	culture="sioux"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+540014 = {
+	name="Mato"
+	dynasty=1051017
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="animist"
+	culture="sioux"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+540015 = {
+	name="Matoskah"
+	dynasty=1051006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="animist"
+	culture="sioux"
+	father=540022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+540016 = {
+	name="Napayshni"
+	dynasty=1051011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="animist"
+	culture="sioux"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+540017 = {
+	name="Odakotah"
+	dynasty=1051004
+	religion="animist"
+	culture="sioux"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+540018 = {
+	name="Ogaleesha"
+	dynasty=1051004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="animist"
+	culture="sioux"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+540019 = {
+	name="Ohanzee"
+	dynasty=1051008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="animist"
+	culture="sioux"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+540020 = {
+	name="Ohiyesa"
+	dynasty=1051003
+	religion="animist"
+	culture="sioux"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+540021 = {
+	name="Teetonka"
+	dynasty=1051002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="animist"
+	culture="sioux"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+540022 = {
+	name="Wambleeska"
+	dynasty=1051006
+	religion="animist"
+	culture="sioux"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+540023 = {
+	name="Chapawee"
+	female=yes
+	dynasty=1051007	
+	religion="animist"
+	culture="sioux"
+	father=540002 #Canowicakte
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+540024 = {
+	name="Magaskawee"
+	female=yes
+	dynasty=1051011
+	religion="animist"
+	culture="sioux"
+	father=540006 #Enapay
+	mother=540030 #Talutah
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+540025 = {
+	name="Tahatan"
+	dynasty=1051010
+	religion="animist"
+	culture="sioux"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+540026 = {
+	name="Ehawee"
+	female=yes
+	dynasty=1051010
+	religion="animist"
+	culture="sioux"
+	father=540025 #Tahatan
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+540027 = {
+	name="Hantaywee"
+	female=yes
+	dynasty=1051016	
+	religion="animist"
+	culture="sioux"
+	father=540013 #Mahpee
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+540028 = {
+	name="Ojinjintka"
+	female=yes
+	dynasty=1051008	
+	religion="animist"
+	culture="sioux"
+	father=540019 #Ohanzee
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+540029 = {
+	name="Ptaysanwee"
+	female=yes
+	dynasty=1051001	
+	religion="animist"
+	culture="sioux"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=540005 #Ciqala
+    	}
+}
+
+540030 = {
+	name="Talutah"
+	female=yes
+	dynasty=1051017
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="animist"
+	culture="sioux"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=540006 #Enapay
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

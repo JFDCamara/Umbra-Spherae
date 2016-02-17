@@ -1,0 +1,17 @@
+# c_pokagon
+
+# County Title
+title = c_pokagon
+
+# Settlements
+max_settlements = 3
+
+b_pokagon = castle
+#b_gabaakogoning = city
+#b_wiikakwedang = temple
+
+# Misc
+culture = illinois
+religion = gagohsa
+
+#History

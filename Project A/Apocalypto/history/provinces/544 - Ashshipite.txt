@@ -1,0 +1,15 @@
+# c_ashshipite
+
+# County Title
+title = c_ashshipite
+
+# Settlements
+max_settlements = 1
+
+b_ashshipite = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

@@ -1,0 +1,15 @@
+# c_eabamet
+
+# County Title
+title = c_eabamet
+
+# Settlements
+max_settlements = 1
+
+b_eabamet = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

@@ -1,0 +1,15 @@
+# c_cheetiish
+
+# County Title
+title = c_cheetiish
+
+# Settlements
+max_settlements = 1
+
+b_cheetiish = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

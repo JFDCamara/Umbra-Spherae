@@ -1,0 +1,15 @@
+# c_motupe
+
+# County Title
+title = c_motupe
+
+# Settlements
+max_settlements = 1
+
+b_motupe = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

@@ -1,0 +1,36 @@
+# Island regions - no land path from the continent
+# The AI needs these to optimize path finding
+#
+# NOTE: do not add any regions here that are NOT islands
+
+region_cuba = {
+	provinces = { 842 841 836 835 832 834 823 833 829 831 830 828 }
+}
+
+region_hispaniola = {
+	provinces = { 837 839 840 838 918 847 845 844 843 846 }
+}
+
+region_puertorico = {
+	provinces = { 817 816 }
+}
+
+region_southernislands = {
+	provinces = { 819 818 815 814 811 810 809 808 807 806 805 813 }
+}
+
+region_northernislands = {
+	provinces = { 849 820 821 822 825 824 179 169 }
+}
+
+region_eilat = {
+	provinces = { 786 }
+}
+
+region_pei = {
+	provinces = { 105 }
+}
+
+region_ireland = {
+	provinces = { 3 4 5 7 8 9 11 10 13 12 16 15 14 }
+}

@@ -1,0 +1,15 @@
+# c_titonka
+
+# County Title
+title = c_titonka
+
+# Settlements
+max_settlements = 1
+
+b_titonka = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

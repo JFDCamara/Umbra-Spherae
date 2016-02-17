@@ -1,0 +1,15 @@
+# c_kwantuqnu
+
+# County Title
+title = c_kwantuqnu
+
+# Settlements
+max_settlements = 1
+
+b_kwantuqnu = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

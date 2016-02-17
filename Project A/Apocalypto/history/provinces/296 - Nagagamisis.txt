@@ -1,0 +1,15 @@
+# c_nagagamisis
+
+# County Title
+title = c_nagagamisis
+
+# Settlements
+max_settlements = 1
+
+b_nagagamisis = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

@@ -1,0 +1,15 @@
+# c_xique-xique
+
+# County Title
+title = c_xique-xique
+
+# Settlements
+max_settlements = 1
+
+b_xique-xique = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

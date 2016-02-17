@@ -1,0 +1,16 @@
+# c_thegnehoaca
+
+# County Title
+title = c_thegnehoaca
+
+# Settlements
+max_settlements = 2
+
+b_thegnehoaca = castle
+#b_kispoko = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

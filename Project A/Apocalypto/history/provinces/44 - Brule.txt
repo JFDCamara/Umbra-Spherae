@@ -1,0 +1,15 @@
+# c_brule
+
+# County Title
+title = c_brule
+
+# Settlements
+max_settlements = 1
+
+b_brule = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

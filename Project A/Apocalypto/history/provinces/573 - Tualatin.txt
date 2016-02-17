@@ -1,0 +1,15 @@
+# c_tualatin
+
+# County Title
+title = c_tualatin
+
+# Settlements
+max_settlements = 1
+
+b_tualatin = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

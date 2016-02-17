@@ -1,0 +1,15 @@
+# c_upala
+
+# County Title
+title = c_upala
+
+# Settlements
+max_settlements = 1
+
+b_upala = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

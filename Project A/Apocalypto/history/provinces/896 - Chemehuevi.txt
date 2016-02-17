@@ -1,0 +1,15 @@
+# c_chemehuevi
+
+# County Title
+title = c_chemehuevi
+
+# Settlements
+max_settlements = 1
+
+b_chemehuevi = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

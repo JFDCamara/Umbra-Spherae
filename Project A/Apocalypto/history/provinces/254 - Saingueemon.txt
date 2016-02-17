@@ -1,0 +1,15 @@
+# c_saingueemon
+
+# County Title
+title = c_saingueemon
+
+# Settlements
+max_settlements = 1
+
+b_saingueemon = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

@@ -1,0 +1,15 @@
+# c_piqua
+
+# County Title
+title = c_piqua
+
+# Settlements
+max_settlements = 1
+
+b_piqua = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

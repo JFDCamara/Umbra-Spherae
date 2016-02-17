@@ -1,0 +1,15 @@
+# c_nanticoke
+
+# County Title
+title = c_nanticoke
+
+# Settlements
+max_settlements = 1
+
+b_nanticoke = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

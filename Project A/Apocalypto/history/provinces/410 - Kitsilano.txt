@@ -1,0 +1,15 @@
+# c_kitsilano
+
+# County Title
+title = c_kitsilano
+
+# Settlements
+max_settlements = 1
+
+b_kitsilano = castle
+
+# Misc
+culture = salish
+religion = shikla
+
+#History

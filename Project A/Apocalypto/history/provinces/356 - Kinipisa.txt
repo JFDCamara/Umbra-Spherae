@@ -1,0 +1,15 @@
+# c_kinipisa
+
+# County Title
+title = c_kinipisa
+
+# Settlements
+max_settlements = 1
+
+b_kinipisa = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

@@ -1,0 +1,16 @@
+# c_missisquoi
+
+# County Title
+title = c_missisquoi
+
+# Settlements
+max_settlements = 2
+
+b_missisquoi = castle
+#b_nooke = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

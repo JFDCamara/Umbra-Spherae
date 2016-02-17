@@ -1,0 +1,16 @@
+# c_gawakia
+
+# County Title
+title = c_gawakia
+
+# Settlements
+max_settlements = 2
+
+b_gawakia = castle
+#b_chote = city
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

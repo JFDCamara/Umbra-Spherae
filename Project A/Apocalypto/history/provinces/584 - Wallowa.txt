@@ -1,0 +1,15 @@
+# c_wallowa
+
+# County Title
+title = c_wallowa
+
+# Settlements
+max_settlements = 1
+
+b_wallowa = castle
+
+# Misc
+culture = salish
+religion = numa
+
+#History

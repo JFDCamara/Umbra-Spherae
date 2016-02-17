@@ -1,0 +1,15 @@
+# c_haynay
+
+# County Title
+title = c_haynay
+
+# Settlements
+max_settlements = 1
+
+b_haynay = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

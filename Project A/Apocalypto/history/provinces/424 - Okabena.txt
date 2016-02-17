@@ -1,0 +1,15 @@
+# c_okabena
+
+# County Title
+title = c_okabena
+
+# Settlements
+max_settlements = 1
+
+b_okabena = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

@@ -1,0 +1,15 @@
+# c_canaima
+
+# County Title
+title = c_canaima
+
+# Settlements
+max_settlements = 1
+
+b_canaima = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

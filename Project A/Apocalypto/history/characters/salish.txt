@@ -1,0 +1,505 @@
+500000 = {
+	name="Aiksa"
+	dynasty=1049005
+	religion="shikla"
+	culture="salish"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+500001 = {
+	name="Loma"
+	dynasty=1049006
+	religion="shikla"
+	culture="salish"
+	father=500022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+500002 = {
+	name="Isseedar"
+	dynasty=1049007 
+	religion="shikla"
+	culture="salish"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+500003 = {
+	name="Anssinpooepeek"
+	dynasty=1049007
+	religion="shikla"
+	culture="salish"
+	father=500002 #Isseedar
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+500004 = {
+	name="Tjolzhitsay"
+	dynasty=1049009
+	religion="shikla"
+	culture="salish"
+	father=500005 #Slemcrycre
+	mother=500029 #Kumkumpoo
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+500005 = {
+	name="Slemcrycre"
+	dynasty=1049009
+	religion="shikla"
+	culture="salish"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=500029 #Kumkumpoo
+    }
+
+}
+
+500006 = {
+	name="Wolwillock"
+	dynasty=1049011
+	religion="shikla"
+	culture="salish"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=500030 #Inhoosta
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+500007 = {
+	name="Kakashe"
+	dynasty=1049011
+	religion="shikla"
+	culture="salish"
+	father=500006 #Wolwillock
+	mother=500030 #Inhoosta
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+500008 = {
+	name="Patee-Quootiepoop"
+	dynasty=1049012
+	religion="shikla"
+	culture="salish"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+500009 = {
+	name="Somyahwemoo"
+	dynasty=1049002
+	religion="shikla"
+	culture="salish"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+500010 = {
+	name="Ne-Nemae"
+	dynasty=1049013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="shikla"
+	culture="salish"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+500011 = {
+	name="Chil-Lum"
+	dynasty=1049014
+	religion="shikla"
+	culture="salish"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+500012 = {
+	name="Skaleetehillemekuhm"
+	dynasty=1049015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="shikla"
+	culture="salish"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+500013 = {
+	name="Quo-Lonpao"
+	dynasty=1049001
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="shikla"
+	culture="salish"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+500014 = {
+	name="Pateenenimae"
+	dynasty=1049003
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="shikla"
+	culture="salish"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+500015 = {
+	name="Skalko-Orne"
+	dynasty=1049006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="shikla"
+	culture="salish"
+	father=500022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+500016 = {
+	name="Latattee"
+	dynasty=1049011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="shikla"
+	culture="salish"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+500017 = {
+	name="Lhekakah"
+	dynasty=1049004
+	religion="shikla"
+	culture="salish"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+500018 = {
+	name="Kul-Kununcha"
+	dynasty=1049004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="shikla"
+	culture="salish"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+500019 = {
+	name="Inpelpooplapel"
+	dynasty=1049008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="shikla"
+	culture="salish"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+500020 = {
+	name="Sinsela"
+	dynasty=1049003
+	religion="shikla"
+	culture="salish"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+500021 = {
+	name="Ikaubut"
+	dynasty=1049002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="shikla"
+	culture="salish"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+500022 = {
+	name="Slepstoc"
+	dynasty=1049006
+	religion="shikla"
+	culture="salish"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+500023 = {
+	name="Atalaee"
+	female=yes
+	dynasty=1049007	
+	religion="shikla"
+	culture="salish"
+	father=500002 #Isseedar
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+500024 = {
+	name="Kutenai"
+	female=yes
+	dynasty=1049011
+	religion="shikla"
+	culture="salish"
+	father=500006 #Wolwillock
+	mother=500030 #Inhoosta
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+500025 = {
+	name="Tjolzhitsay"
+	dynasty=1049010
+	religion="shikla"
+	culture="salish"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+500026 = {
+	name="Sousazu"
+	female=yes
+	dynasty=1049010
+	religion="shikla"
+	culture="salish"
+	father=500025 #Tjolzhitsay
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+500027 = {
+	name="Uluemcece"
+	female=yes
+	dynasty=1049001	
+	religion="shikla"
+	culture="salish"
+	father=500013 #Quo-Lonpao
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+500028 = {
+	name="Colla"
+	female=yes
+	dynasty=1049008	
+	religion="shikla"
+	culture="salish"
+	father=500019 #Inpelpooplapel
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+500029 = {
+	name="Kumkumpoo"
+	female=yes
+	dynasty=1049001	
+	religion="shikla"
+	culture="salish"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=500005 #Slemcrycre
+    	}
+}
+
+500030 = {
+	name="Inhoosta"
+	female=yes
+	dynasty=1049014
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="shikla"
+	culture="salish"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=500006 #Wolwillock
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

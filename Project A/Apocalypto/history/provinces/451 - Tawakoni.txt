@@ -1,0 +1,15 @@
+# c_tawakoni
+
+# County Title
+title = c_tawakoni
+
+# Settlements
+max_settlements = 1
+
+b_tawakoni = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

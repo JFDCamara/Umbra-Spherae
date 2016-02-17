@@ -1,0 +1,16 @@
+# c_stono
+
+# County Title
+title = c_stono
+
+# Settlements
+max_settlements = 2
+
+b_stono = castle
+#b_saxapahaw = city
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

@@ -1,0 +1,15 @@
+# c_panzenu
+
+# County Title
+title = c_panzenu
+
+# Settlements
+max_settlements = 1
+
+b_panzenu = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

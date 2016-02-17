@@ -1,0 +1,18 @@
+# c_tulum
+
+# County Title
+title = c_tulum
+
+# Settlements
+max_settlements = 4
+
+b_tulum = castle
+b_mayil = temple
+b_coba = city
+#b_tancah = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

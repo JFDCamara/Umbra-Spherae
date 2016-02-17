@@ -1,0 +1,18 @@
+# c_kithanink
+
+# County Title
+title = c_kithanink
+
+# Settlements
+max_settlements = 4
+
+b_kithanink = castle
+#b_canacadea = city
+#b_canaserage = temple
+#b_juniata = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

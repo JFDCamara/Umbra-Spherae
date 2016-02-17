@@ -1,0 +1,15 @@
+# c_lacanha
+
+# County Title
+title = c_lacanha
+
+# Settlements
+max_settlements = 1
+
+b_lacanha = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

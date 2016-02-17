@@ -1,0 +1,31 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+k_tiwanaku;Tiwanaku;Tiwanaku;Tiwanaku;;Tiwanaku;;;;;;;;;x
+k_tiwanaku_adj;Tiwanakun;Tiwanakun;Tiwanakun;;Tiwanakun;;;;;;;;;x
+k_cuzco;Cuzco;Cuzco;Cuzco;;Cuzco;;;;;;;;;x
+k_cuzco_adj;Cuzcon;Cuzcon;Cuzcon;;Cuzcon;;;;;;;;;x
+k_wari;Wari;Wari;Wari;;Wari;;;;;;;;;x
+k_wari_adj;Warian;Warian;Warian;;Warian;;;;;;;;;x
+e_tawantinsuyu;Tawantinsuyu;Tawantinsuyu;Tawantinsuyu;;Tawantinsuyu;;;;;;;;;x
+e_tawantinsuyu_adj;Tawantinsuyun;Tawantinsuyun;Tawantinsuyun;;Tawantinsuyun;;;;;;;;;x
+count_quechua;Kurakakuna;Kurakakuna;Kurakakuna;;Kurakakuna;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#count_female_quechua;Ix-Yajaw;Ix-Yajaw;Ix-Yajaw;;Ix-Yajaw;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+county_of_quechua;Ayllu of;Ayllu de;Ayllu von;;Ayllu del Jeque;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+duke_quechua;Toqrikoq;Toqrikoq;Toqrikoq;;Toqrikoq;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#duke_female_quechua;Ix-Ajaw;Ix-Ajaw;Ix-Ajaw;;Ix-Ajaw;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+duchy_of_quechua;Wamani of;Wamani de;Wamani von;;Wamani de;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+king_quechua;Apu;Apu;Apu;;Apu;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+king_female_quechua;Qoya;Qoya;Qoya;;Qoya;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+emperor_quechua;Sapa Inca;Sapa Inca;Sapa Inca;;Sapa Inca;;;;;;;;;x
+#emperor_female_quechua;Ixik-Kaloomte;Ixik-Kaloomte;Ixik-Kaloomte;;Ixik-Kaloomte;;;;;;;;;x
+baron_quechua;Mallku;Mallku;Mallku;;Mallku;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#baron_female_quechua;Batabob;Batabob;Batabob;;Batabob;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+barony_of_quechua;Pucara of;Pucara de;Pucara von;;Pucara de;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+job_spiritual_quechua;Villac-umu;Villac-umu;Villac-umu;;Villac-umu;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+job_chancellor_quechua;Amawtakuna;Amawtakuna;Amawtakuna;;Amawtakuna;;;;;;;;;x
+job_marshal_quechua;Apusquispay;Apusquispay;Apusquispay;;Apusquispay;;;;;;;;;x
+#job_treasurer_quechua;Ihcamcavil;Ihcamcavil;Ihcamcavil;;Ihcamcavil;;;;;;;;;x
+#job_spymaster_quechua;Kakzik;Kakzik;Kakzik;;Kakzik;;;;;;;;;x
+temple_barony_of_quechua;Kancha of;Kancha de;Kancha von;;Kancha de;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#city_barony_of_quechua;Ayllu of;Ayllu de;Stadt;;Ayllu de;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#city_baron_quechua;Holpopob;Holpopob;Holpopob;;Holpopob;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#temple_baron_inca;Ahk'in;Ahk'in;Ahk'in;;Ahk'in;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

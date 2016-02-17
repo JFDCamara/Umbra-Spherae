@@ -1,0 +1,15 @@
+# c_otahkoiitahtayi
+
+# County Title
+title = c_otahkoiitahtayi
+
+# Settlements
+max_settlements = 1
+
+b_otahkoiitahtayi = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

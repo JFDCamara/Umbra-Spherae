@@ -1,0 +1,15 @@
+# c_comayagua
+
+# County Title
+title = c_comayagua
+
+# Settlements
+max_settlements = 1
+
+b_comayagua = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

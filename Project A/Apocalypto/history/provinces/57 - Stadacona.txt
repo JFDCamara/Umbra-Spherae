@@ -1,0 +1,15 @@
+# c_stadacona
+
+# County Title
+title = c_stadacona
+
+# Settlements
+max_settlements = 1
+
+b_stadacona = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

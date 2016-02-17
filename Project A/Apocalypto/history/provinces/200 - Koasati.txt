@@ -1,0 +1,18 @@
+# c_koasati
+
+# County Title
+title = c_koasati
+
+# Settlements
+max_settlements = 4
+
+b_koasati = castle
+#b_nitahauritz = city
+#b_apica = temple
+#b_abhika = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

@@ -1,0 +1,16 @@
+# c_cheboygan
+
+# County Title
+title = c_cheboygan
+
+# Settlements
+max_settlements = 2
+
+b_cheboygan = castle
+#b_keewiwainoning = city
+
+# Misc
+culture = illinois
+religion = gagohsa
+
+#History

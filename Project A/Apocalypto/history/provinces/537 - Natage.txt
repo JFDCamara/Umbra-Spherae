@@ -1,0 +1,15 @@
+# c_natage
+
+# County Title
+title = c_natage
+
+# Settlements
+max_settlements = 1
+
+b_natage = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

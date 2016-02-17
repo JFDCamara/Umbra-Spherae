@@ -1,0 +1,18 @@
+# c_cheektowaga
+
+# County Title
+title = c_cheektowaga
+
+# Settlements
+max_settlements = 4
+
+b_cheektowaga = castle
+#b_canandaigua = city
+#b_chemung = temple
+#b_cowanesque = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

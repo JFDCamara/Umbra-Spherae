@@ -1,0 +1,15 @@
+# c_tocaste
+
+# County Title
+title = c_tocaste
+
+# Settlements
+max_settlements = 1
+
+b_tocaste = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

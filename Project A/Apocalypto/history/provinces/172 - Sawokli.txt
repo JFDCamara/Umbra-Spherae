@@ -1,0 +1,17 @@
+# c_sawokli
+
+# County Title
+title = c_sawokli
+
+# Settlements
+max_settlements = 3
+
+b_sawokli = castle
+#b_avavalla = city
+#b_chiaha = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

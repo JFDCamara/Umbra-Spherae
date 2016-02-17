@@ -1,0 +1,15 @@
+# c_wabash
+
+# County Title
+title = c_wabash
+
+# Settlements
+max_settlements = 1
+
+b_wabash = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

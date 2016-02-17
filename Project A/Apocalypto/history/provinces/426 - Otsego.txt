@@ -1,0 +1,15 @@
+# c_otsego
+
+# County Title
+title = c_otsego
+
+# Settlements
+max_settlements = 1
+
+b_otsego = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

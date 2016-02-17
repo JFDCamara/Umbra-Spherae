@@ -1,0 +1,15 @@
+# c_macapa
+
+# County Title
+title = c_macapa
+
+# Settlements
+max_settlements = 1
+
+b_macapa = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

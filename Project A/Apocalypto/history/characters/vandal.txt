@@ -1,0 +1,123 @@
+# IDs 10000-10249
+10000 = {
+	name="Gunderic"
+	dynasty=1100238
+	religion="arian"
+	culture="vandal"
+	379.1.2={
+		birth="379.1.2"
+	}
+	428.1.1={
+		death="428.1.1"
+	}
+}
+
+10001 = {
+	name="Genseric"
+	dynasty=1100238
+	religion="arian"
+	culture="vandal"
+	father = 10000
+	389.1.2={
+		birth="389.1.2"
+	}
+	477.1.25={
+		death="477.1.25"
+	}
+}
+
+10002 = {
+	name="Huneric"
+	dynasty=1100238
+	religion="arian"
+	culture="vandal"
+	father = 10001
+	420.1.2={
+		birth="420.1.2"
+	}
+	484.12.23={
+		death="484.12.23"
+	}
+}
+
+10003 = {
+	name="Gento"
+	dynasty=1100238
+	religion="arian"
+	culture="vandal"
+	father = 10001
+	422.1.2={
+		birth="422.1.2"
+	}
+	470.1.1={
+		death="470.1.1"
+	}
+}
+
+10004 = {
+	name="Gunthamund"
+	dynasty=1100238
+	religion="arian"
+	culture="vandal"
+	father = 10003
+	449.1.2={
+		birth="449.1.2"
+	}
+	496.1.1={
+		death="496.1.1"
+	}
+}
+
+10005 = {
+	name="Tharsamund"
+	dynasty=1100238
+	religion="arian"
+	culture="vandal"
+	father = 10003
+	450.1.2={
+		birth="450.1.2"
+	}
+	523.1.1={
+		death="523.1.1"
+	}
+}
+
+10006 = {
+	name="Hilderic"
+	dynasty=1100238
+	religion="arian"
+	culture="vandal"
+	father = 10002
+	460.1.2={
+		birth="460.1.2"
+	}
+	532.1.1={
+		death="532.1.1"
+	}
+}
+
+10007 = {
+	name="Gelimer"
+	dynasty=1100238
+	religion="arian"
+	culture="vandal"
+	480.1.2={
+		birth="480.1.2"
+	}
+	547.1.1={
+		death="547.1.1"
+	}
+}
+
+10008 = {
+	name="Gaiseric"
+	dynasty=1100205
+	religion="arian"
+	culture="vandal"
+	503.1.2={
+		birth="503.1.2"
+	}
+	575.1.1={
+		death="575.1.1"
+	}
+}

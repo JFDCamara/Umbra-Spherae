@@ -1,0 +1,17 @@
+# c_chatot
+
+# County Title
+title = c_chatot
+
+# Settlements
+max_settlements = 3
+
+b_chatot = castle
+#b_hogologes = city
+#b_asile = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

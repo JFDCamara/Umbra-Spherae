@@ -1,0 +1,15 @@
+# c_mompos
+
+# County Title
+title = c_mompos
+
+# Settlements
+max_settlements = 1
+
+b_mompos = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

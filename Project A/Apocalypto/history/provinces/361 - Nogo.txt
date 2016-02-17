@@ -1,0 +1,15 @@
+# c_nogo
+
+# County Title
+title = c_nogo
+
+# Settlements
+max_settlements = 1
+
+b_nogo = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

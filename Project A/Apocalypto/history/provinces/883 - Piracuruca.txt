@@ -1,0 +1,15 @@
+# c_piracuruca
+
+# County Title
+title = c_piracuruca
+
+# Settlements
+max_settlements = 1
+
+b_piracuruca = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

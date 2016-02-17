@@ -1,0 +1,15 @@
+# c_wadopahnatonwan
+
+# County Title
+title = c_wadopahnatonwan
+
+# Settlements
+max_settlements = 1
+
+b_wadopahnatonwan = castle
+
+# Misc
+culture = illinois
+religion = midewiwin
+
+#History

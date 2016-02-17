@@ -1,0 +1,15 @@
+# c_cuyamel
+
+# County Title
+title = c_cuyamel
+
+# Settlements
+max_settlements = 1
+
+b_cuyamel = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

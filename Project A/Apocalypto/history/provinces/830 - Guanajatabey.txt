@@ -1,0 +1,15 @@
+# c_guanajatabey
+
+# County Title
+title = c_guanajatabey
+
+# Settlements
+max_settlements = 1
+
+b_guanajatabey = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

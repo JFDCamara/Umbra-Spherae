@@ -1,0 +1,15 @@
+# c_nemiscau
+
+# County Title
+title = c_nemiscau
+
+# Settlements
+max_settlements = 1
+
+b_nemiscau = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

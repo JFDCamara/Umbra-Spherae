@@ -1,0 +1,19 @@
+# c_becan
+
+# County Title
+title = c_becan
+
+# Settlements
+max_settlements = 5
+
+b_becan = castle
+b_xpujil = city
+b_kohunlich = temple
+#b_chicanna = castle
+#b_dzibilnocac = city
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

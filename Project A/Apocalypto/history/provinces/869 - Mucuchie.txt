@@ -1,0 +1,15 @@
+# c_mucuchie
+
+# County Title
+title = c_mucuchie
+
+# Settlements
+max_settlements = 1
+
+b_mucuchie = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

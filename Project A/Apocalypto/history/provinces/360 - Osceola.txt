@@ -1,0 +1,15 @@
+# c_osceola
+
+# County Title
+title = c_osceola
+
+# Settlements
+max_settlements = 1
+
+b_osceola = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

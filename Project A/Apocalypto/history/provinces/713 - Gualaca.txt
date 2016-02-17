@@ -1,0 +1,15 @@
+# c_gualaca
+
+# County Title
+title = c_gualaca
+
+# Settlements
+max_settlements = 1
+
+b_gualaca = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

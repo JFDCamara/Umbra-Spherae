@@ -1,0 +1,18 @@
+# c_ocotal
+
+# County Title
+title = c_ocotal
+
+# Settlements
+max_settlements = 4
+
+b_ocotal = castle
+b_somoto = city
+#b_jinotega = temple
+#b_palacaguina = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

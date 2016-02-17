@@ -1,0 +1,16 @@
+# c_arminta
+
+# County Title
+title = c_arminta
+
+# Settlements
+max_settlements = 2
+
+b_arminta = castle
+#b_hathawekela = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

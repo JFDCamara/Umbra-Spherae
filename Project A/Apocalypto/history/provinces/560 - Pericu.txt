@@ -1,0 +1,15 @@
+# c_pericu
+
+# County Title
+title = c_pericu
+
+# Settlements
+max_settlements = 1
+
+b_pericu = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

@@ -1,0 +1,17 @@
+# c_milwaukee
+
+# County Title
+title = c_milwaukee
+
+# Settlements
+max_settlements = 3
+
+b_milwaukee = castle
+#b_cheikikarachada = city
+#b_huwanikikarachada = temple
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

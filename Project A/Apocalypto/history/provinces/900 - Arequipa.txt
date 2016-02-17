@@ -1,0 +1,15 @@
+# c_arequipa
+
+# County Title
+title = c_arequipa
+
+# Settlements
+max_settlements = 1
+
+b_arequipa = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

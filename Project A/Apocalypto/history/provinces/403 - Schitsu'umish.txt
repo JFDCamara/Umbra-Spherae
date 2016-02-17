@@ -1,0 +1,15 @@
+# c_schitsuumish
+
+# County Title
+title = c_schitsuumish
+
+# Settlements
+max_settlements = 1
+
+b_schitsuumish = castle
+
+# Misc
+culture = salish
+religion = numa
+
+#History

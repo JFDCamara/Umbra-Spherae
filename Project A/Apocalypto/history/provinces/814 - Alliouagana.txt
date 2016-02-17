@@ -1,0 +1,15 @@
+# c_alliouagana
+
+# County Title
+title = c_alliouagana
+
+# Settlements
+max_settlements = 1
+
+b_alliouagana = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

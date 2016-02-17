@@ -1,0 +1,15 @@
+# c_fonzo
+
+# County Title
+title = c_fonzo
+
+# Settlements
+max_settlements = 1
+
+b_fonzo = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

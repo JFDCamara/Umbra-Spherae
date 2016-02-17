@@ -1,0 +1,15 @@
+# c_sahnish
+
+# County Title
+title = c_sahnish
+
+# Settlements
+max_settlements = 1
+
+b_sahnish = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

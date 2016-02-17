@@ -1,0 +1,15 @@
+# c_maguana
+
+# County Title
+title = c_maguana
+
+# Settlements
+max_settlements = 1
+
+b_maguana = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

@@ -1,0 +1,15 @@
+# c_hiroon
+
+# County Title
+title = c_hiroon
+
+# Settlements
+max_settlements = 1
+
+b_hiroon = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

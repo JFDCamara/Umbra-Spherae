@@ -1,0 +1,15 @@
+# c_babeque
+
+# County Title
+title = c_babeque
+
+# Settlements
+max_settlements = 1
+
+b_babeque = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

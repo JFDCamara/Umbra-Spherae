@@ -1,0 +1,15 @@
+# c_to_pee_kuh
+
+# County Title
+title = c_to_pee_kuh
+
+# Settlements
+max_settlements = 1
+
+b_to_pee_kuh = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

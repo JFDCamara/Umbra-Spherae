@@ -1,0 +1,17 @@
+# c_ascutney
+
+# County Title
+title = c_ascutney
+
+# Settlements
+max_settlements = 3
+
+b_ascutney = castle
+#b_onekagoncka  = city
+#b_canawarode  = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

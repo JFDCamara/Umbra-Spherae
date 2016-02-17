@@ -1,0 +1,15 @@
+# c_coahuiltecan
+
+# County Title
+title = c_coahuiltecan
+
+# Settlements
+max_settlements = 1
+
+b_coahuiltecan = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

@@ -1,0 +1,18 @@
+# c_chautauqua
+
+# County Title
+title = c_chautauqua
+
+# Settlements
+max_settlements = 4
+
+b_chautauqua = castle
+#b_donata-gwenda = city
+#b_skwedo-wa = temple
+#b_kanawlohalla = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

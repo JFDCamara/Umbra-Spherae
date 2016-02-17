@@ -1,0 +1,15 @@
+# c_megasan
+
+# County Title
+title = c_megasan
+
+# Settlements
+max_settlements = 1
+
+b_megasan = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

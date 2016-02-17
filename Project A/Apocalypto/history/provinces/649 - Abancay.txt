@@ -1,0 +1,15 @@
+# c_abancay
+
+# County Title
+title = c_abancay
+
+# Settlements
+max_settlements = 1
+
+b_abancay = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

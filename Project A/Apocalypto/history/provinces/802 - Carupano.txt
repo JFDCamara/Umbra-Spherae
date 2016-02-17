@@ -1,0 +1,15 @@
+# c_carupano
+
+# County Title
+title = c_carupano
+
+# Settlements
+max_settlements = 1
+
+b_carupano = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

@@ -1,0 +1,17 @@
+# c_ooltewah
+
+# County Title
+title = c_ooltewah
+
+# Settlements
+max_settlements = 3
+
+b_ooltewah = castle
+#b_gugu = city
+#b_tsistetsi’yi = temple
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

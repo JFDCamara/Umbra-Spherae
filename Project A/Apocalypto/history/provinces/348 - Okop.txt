@@ -1,0 +1,18 @@
+# c_okop
+
+# County Title
+title = c_okop
+
+# Settlements
+max_settlements = 4
+
+b_okop = castle
+b_ek-balam = city
+b_valladolid = temple
+#b_ikil = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

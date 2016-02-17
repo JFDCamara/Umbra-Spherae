@@ -1,0 +1,505 @@
+440000 = {
+	name="Ahiga"
+	dynasty=1046005
+	religion="kachina"
+	culture="navajo"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+440001 = {
+	name="Dighin"
+	dynasty=1046006
+	religion="kachina"
+	culture="navajo"
+	father=440022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+440002 = {
+	name="Bidziil"
+	dynasty=1046007 
+	religion="kachina"
+	culture="navajo"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+440003 = {
+	name="Gaagii"
+	dynasty=1046007
+	religion="kachina"
+	culture="navajo"
+	father=440002 #Bidziil
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+440004 = {
+	name="Hashkeh"
+	dynasty=1046009
+	religion="kachina"
+	culture="navajo"
+	father=440005 #Niichaad
+	mother=440029 #Ooljee
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+440005 = {
+	name="Niichaad"
+	dynasty=1046009
+	religion="kachina"
+	culture="navajo"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=440029 #Ooljee
+    }
+
+}
+
+440006 = {
+	name="Tahoma"
+	dynasty=1046011
+	religion="kachina"
+	culture="navajo"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=440030 #Sialea-lea
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+440007 = {
+	name="Yiska"
+	dynasty=1046011
+	religion="kachina"
+	culture="navajo"
+	father=440006 #Tahoma
+	mother=440030 #Sialea-lea
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+440008 = {
+	name="Hok'ee"
+	dynasty=1046012
+	religion="kachina"
+	culture="navajo"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+440009 = {
+	name="Sicheii"
+	dynasty=1046002
+	religion="kachina"
+	culture="navajo"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+440010 = {
+	name="Naabah"
+	dynasty=1046013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="kachina"
+	culture="navajo"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+440011 = {
+	name="Gad"
+	dynasty=1046014
+	religion="kachina"
+	culture="navajo"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+440012 = {
+	name="Ashkii"
+	dynasty=1046015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="kachina"
+	culture="navajo"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+440013 = {
+	name="Tsiishch'ili"
+	dynasty=1046016
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="kachina"
+	culture="navajo"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+440014 = {
+	name="Yas"
+	dynasty=1046017
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="kachina"
+	culture="navajo"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+440015 = {
+	name="Tsela"
+	dynasty=1046006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="kachina"
+	culture="navajo"
+	father=440022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+440016 = {
+	name="Naalnish"
+	dynasty=1046011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="kachina"
+	culture="navajo"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+440017 = {
+	name="Bisahalani"
+	dynasty=1046004
+	religion="kachina"
+	culture="navajo"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+440018 = {
+	name="Shiye"
+	dynasty=1046004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="kachina"
+	culture="navajo"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+440019 = {
+	name="Ata'halne"
+	dynasty=1046008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="kachina"
+	culture="navajo"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+440020 = {
+	name="Toh-Yah"
+	dynasty=1046003
+	religion="kachina"
+	culture="navajo"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+440021 = {
+	name="Klah"
+	dynasty=1046002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="kachina"
+	culture="navajo"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+440022 = {
+	name="Niyol"
+	dynasty=1046006
+	religion="kachina"
+	culture="navajo"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+440023 = {
+	name="Chooli"
+	female=yes
+	dynasty=1046007	
+	religion="kachina"
+	culture="navajo"
+	father=440002 #Bidziil
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+440024 = {
+	name="Iina"
+	female=yes
+	dynasty=1046011
+	religion="kachina"
+	culture="navajo"
+	father=440006 #Tahoma
+	mother=440030 #Sialea-lea
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+440025 = {
+	name="Atsidi"
+	dynasty=1046010
+	religion="kachina"
+	culture="navajo"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+440026 = {
+	name="Doba"
+	female=yes
+	dynasty=1046010
+	religion="kachina"
+	culture="navajo"
+	father=440025 #Atsidi
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+440027 = {
+	name="Tsintah"
+	female=yes
+	dynasty=1046016	
+	religion="kachina"
+	culture="navajo"
+	father=440013 #Tsiishch'ili
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+440028 = {
+	name="Johona"
+	female=yes
+	dynasty=1046008	
+	religion="kachina"
+	culture="navajo"
+	father=440019 #Ata'halne
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+440029 = {
+	name="Ooljee"
+	female=yes
+	dynasty=1046001	
+	religion="kachina"
+	culture="navajo"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=440005 #Niichaad
+    	}
+}
+
+440030 = {
+	name="Sialea-lea"
+	female=yes
+	dynasty=1046017
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="kachina"
+	culture="navajo"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=440006 #Tahoma
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

@@ -1,0 +1,15 @@
+# c_chan_chan
+
+# County Title
+title = c_chan_chan
+
+# Settlements
+max_settlements = 1
+
+b_chan_chan = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

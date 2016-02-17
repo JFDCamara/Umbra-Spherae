@@ -1,0 +1,15 @@
+# c_squatec
+
+# County Title
+title = c_squatec
+
+# Settlements
+max_settlements = 1
+
+b_squatec = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

@@ -1,0 +1,15 @@
+# c_caicos
+
+# County Title
+title = c_caicos
+
+# Settlements
+max_settlements = 1
+
+b_caicos = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

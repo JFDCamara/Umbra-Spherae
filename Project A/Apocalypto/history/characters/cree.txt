@@ -1,0 +1,505 @@
+380000 = {
+	name="Abooksigun"
+	dynasty=1041005
+	religion="midewiwin"
+	culture="cree"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+380001 = {
+	name="Abukcheech"
+	dynasty=1041006
+	religion="midewiwin"
+	culture="cree"
+	father=380022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+380002 = {
+	name="Achachak"
+	dynasty=1041007 
+	religion="midewiwin"
+	culture="cree"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+380003 = {
+	name="Ahanu"
+	dynasty=1041007
+	religion="midewiwin"
+	culture="cree"
+	father=380002 #Achachak
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+380004 = {
+	name="Anakausuen"
+	dynasty=1041009
+	religion="midewiwin"
+	culture="cree"
+	father=380005 #Aranck
+	mother=380029 #Tahki
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+380005 = {
+	name="Aranck"
+	dynasty=1041009
+	religion="midewiwin"
+	culture="cree"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=380029 #Tahki
+    }
+
+}
+
+380006 = {
+	name="Askook"
+	dynasty=1041011
+	religion="midewiwin"
+	culture="cree"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=380030 #Wikimak
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+380007 = {
+	name="Askuwheteau"
+	dynasty=1041011
+	religion="midewiwin"
+	culture="cree"
+	father=380006 #Askook
+	mother=380030 #Wikimak
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+380008 = {
+	name="Chansomps"
+	dynasty=1041012
+	religion="midewiwin"
+	culture="cree"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+380009 = {
+	name="Chogan"
+	dynasty=1041002
+	religion="midewiwin"
+	culture="cree"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+380010 = {
+	name="Enkoodabaoo"
+	dynasty=1041013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="midewiwin"
+	culture="cree"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+380011 = {
+	name="Etchemin"
+	dynasty=1041014
+	religion="midewiwin"
+	culture="cree"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+380012 = {
+	name="Etlelooaat"
+	dynasty=1041005
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="midewiwin"
+	culture="cree"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+380013 = {
+	name="Hassun"
+	dynasty=1041001
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="midewiwin"
+	culture="cree"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+380014 = {
+	name="Huritt"
+	dynasty=1041003
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="midewiwin"
+	culture="cree"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+380015 = {
+	name="Keme"
+	dynasty=1041006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="midewiwin"
+	culture="cree"
+	father=380022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+380016 = {
+	name="Kitchi"
+	dynasty=1041011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="midewiwin"
+	culture="cree"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+380017 = {
+	name="Machk"
+	dynasty=1041004
+	religion="midewiwin"
+	culture="cree"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+380018 = {
+	name="Matchitehew"
+	dynasty=1041004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="midewiwin"
+	culture="cree"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+380019 = {
+	name="Matunaagd"
+	dynasty=1041008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="midewiwin"
+	culture="cree"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+380020 = {
+	name="Nixkamich"
+	dynasty=1041003
+	religion="midewiwin"
+	culture="cree"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+380021 = {
+	name="Nootau"
+	dynasty=1041002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="midewiwin"
+	culture="cree"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+380022 = {
+	name="Samoset"
+	dynasty=1041006
+	religion="midewiwin"
+	culture="cree"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+380023 = {
+	name="Alsoomse"
+	female=yes
+	dynasty=1041007	
+	religion="midewiwin"
+	culture="cree"
+	father=380002 #Achachak
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+380024 = {
+	name="Hausis"
+	female=yes
+	dynasty=1041011
+	religion="midewiwin"
+	culture="cree"
+	father=380006 #Askook
+	mother=380030 #Wikimak
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+380025 = {
+	name="Sucki"
+	dynasty=1041010
+	religion="midewiwin"
+	culture="cree"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+380026 = {
+	name="Keegsquaw"
+	female=yes
+	dynasty=1041010
+	religion="midewiwin"
+	culture="cree"
+	father=380025 #Sucki
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+380027 = {
+	name="Nijlon"
+	female=yes
+	dynasty=1041001	
+	religion="midewiwin"
+	culture="cree"
+	father=380013 #Hassun
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+380028 = {
+	name="Oota-dabun"
+	female=yes
+	dynasty=1041008	
+	religion="midewiwin"
+	culture="cree"
+	father=380019 #Matunaagd
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+380029 = {
+	name="Tahki"
+	female=yes
+	dynasty=1041001	
+	religion="midewiwin"
+	culture="cree"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=380005 #Aranck
+    	}
+}
+
+380030 = {
+	name="Wikimak"
+	female=yes
+	dynasty=1041014
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="midewiwin"
+	culture="cree"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=380006 #Askook
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

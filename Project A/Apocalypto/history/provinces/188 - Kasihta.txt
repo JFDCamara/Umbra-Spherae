@@ -1,0 +1,18 @@
+# c_kasihta
+
+# County Title
+title = c_kasihta
+
+# Settlements
+max_settlements = 4
+
+b_kasihta = castle
+#b_hymahi = city
+#b_cofitachakii = temple
+#b_talimeco = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

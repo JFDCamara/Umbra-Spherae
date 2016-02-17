@@ -1,0 +1,15 @@
+# c_wasatch
+
+# County Title
+title = c_wasatch
+
+# Settlements
+max_settlements = 1
+
+b_wasatch = castle
+
+# Misc
+culture = shoshone
+religion = numa
+
+#History

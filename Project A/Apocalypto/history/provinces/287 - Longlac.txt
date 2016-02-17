@@ -1,0 +1,15 @@
+# c_longlac
+
+# County Title
+title = c_longlac
+
+# Settlements
+max_settlements = 1
+
+b_longlac = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

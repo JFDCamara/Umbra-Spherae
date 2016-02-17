@@ -1,0 +1,17 @@
+# c_adirondack
+
+# County Title
+title = c_adirondack
+
+# Settlements
+max_settlements = 3
+
+b_adirondack = castle
+#b_oneonta = city
+#b_kakon = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

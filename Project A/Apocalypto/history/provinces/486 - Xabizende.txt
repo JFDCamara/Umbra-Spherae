@@ -1,0 +1,15 @@
+# c_xabizende
+
+# County Title
+title = c_xabizende
+
+# Settlements
+max_settlements = 1
+
+b_xabizende = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

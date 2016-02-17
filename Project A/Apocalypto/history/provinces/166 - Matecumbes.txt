@@ -1,0 +1,15 @@
+# c_matecumbes
+
+# County Title
+title = c_matecumbes
+
+# Settlements
+max_settlements = 1
+
+b_matecumbes = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

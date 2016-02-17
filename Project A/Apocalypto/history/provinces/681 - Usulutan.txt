@@ -1,0 +1,15 @@
+# c_usulutan
+
+# County Title
+title = c_usulutan
+
+# Settlements
+max_settlements = 1
+
+b_usulutan = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

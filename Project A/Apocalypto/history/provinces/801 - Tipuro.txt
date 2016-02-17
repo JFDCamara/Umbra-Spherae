@@ -1,0 +1,15 @@
+# c_tipuro
+
+# County Title
+title = c_tipuro
+
+# Settlements
+max_settlements = 1
+
+b_tipuro = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

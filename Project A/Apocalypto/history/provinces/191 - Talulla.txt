@@ -1,0 +1,16 @@
+# c_talulla
+
+# County Title
+title = c_talulla
+
+# Settlements
+max_settlements = 2
+
+b_talulla = castle
+#b_palachacola = city
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

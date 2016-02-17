@@ -1,0 +1,15 @@
+# c_itaquaquecetuba
+
+# County Title
+title = c_itaquaquecetuba
+
+# Settlements
+max_settlements = 1
+
+b_itaquaquecetuba = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

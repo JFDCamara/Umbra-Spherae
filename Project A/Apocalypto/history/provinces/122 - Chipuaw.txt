@@ -1,0 +1,16 @@
+# c_chipuaw
+
+# County Title
+title = c_chipuaw
+
+# Settlements
+max_settlements = 2
+
+b_chipuaw = castle
+#b_kithtippecanuck = city
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

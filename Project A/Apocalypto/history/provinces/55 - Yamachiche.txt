@@ -1,0 +1,17 @@
+# c_yamachiche
+
+# County Title
+title = c_yamachiche
+
+# Settlements
+max_settlements = 3
+
+b_yamachiche = castle
+#b_baswenaazhi = city
+#b_ahouenrochrhonons  = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

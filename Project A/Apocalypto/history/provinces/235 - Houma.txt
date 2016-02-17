@@ -1,0 +1,15 @@
+# c_houma
+
+# County Title
+title = c_houma
+
+# Settlements
+max_settlements = 1
+
+b_houma = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

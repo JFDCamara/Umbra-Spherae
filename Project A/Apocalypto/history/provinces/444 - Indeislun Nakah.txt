@@ -1,0 +1,15 @@
+# c_indeislun_nakah
+
+# County Title
+title = c_indeislun_nakah
+
+# Settlements
+max_settlements = 1
+
+b_indeislun_nakah = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

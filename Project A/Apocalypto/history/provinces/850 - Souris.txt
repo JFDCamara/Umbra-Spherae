@@ -1,0 +1,15 @@
+# c_souris
+
+# County Title
+title = c_souris
+
+# Settlements
+max_settlements = 1
+
+b_souris = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

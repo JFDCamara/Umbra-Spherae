@@ -1,0 +1,15 @@
+# c_eyeish
+
+# County Title
+title = c_eyeish
+
+# Settlements
+max_settlements = 1
+
+b_eyeish = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

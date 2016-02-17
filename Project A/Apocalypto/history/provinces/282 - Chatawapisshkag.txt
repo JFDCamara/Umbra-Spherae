@@ -1,0 +1,15 @@
+# c_chatawapisshkag
+
+# County Title
+title = c_chatawapisshkag
+
+# Settlements
+max_settlements = 1
+
+b_chatawapisshkag = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

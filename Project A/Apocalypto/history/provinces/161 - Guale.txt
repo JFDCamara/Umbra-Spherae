@@ -1,0 +1,17 @@
+# c_guale
+
+# County Title
+title = c_guale
+
+# Settlements
+max_settlements = 3
+
+b_guale = castle
+#b_apalatchukla = city
+#b_kinchafoonee  = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

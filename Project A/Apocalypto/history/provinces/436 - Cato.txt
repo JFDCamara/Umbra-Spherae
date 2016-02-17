@@ -1,0 +1,15 @@
+# c_cato
+
+# County Title
+title = c_cato
+
+# Settlements
+max_settlements = 1
+
+b_cato = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

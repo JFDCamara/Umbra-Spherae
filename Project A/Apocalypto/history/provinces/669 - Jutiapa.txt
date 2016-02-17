@@ -1,0 +1,15 @@
+# c_jutiapa
+
+# County Title
+title = c_jutiapa
+
+# Settlements
+max_settlements = 1
+
+b_jutiapa = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

@@ -1,0 +1,15 @@
+# c_bayaguana
+
+# County Title
+title = c_bayaguana
+
+# Settlements
+max_settlements = 1
+
+b_bayaguana = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

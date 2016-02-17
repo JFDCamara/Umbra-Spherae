@@ -1,0 +1,15 @@
+# c_tamshiyaca
+
+# County Title
+title = c_tamshiyaca
+
+# Settlements
+max_settlements = 1
+
+b_tamshiyaca = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

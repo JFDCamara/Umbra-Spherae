@@ -1,0 +1,15 @@
+# c_karuk
+
+# County Title
+title = c_karuk
+
+# Settlements
+max_settlements = 1
+
+b_karuk = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

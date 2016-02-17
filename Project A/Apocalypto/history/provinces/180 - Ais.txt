@@ -1,0 +1,15 @@
+# c_ais
+
+# County Title
+title = c_ais
+
+# Settlements
+max_settlements = 1
+
+b_ais = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

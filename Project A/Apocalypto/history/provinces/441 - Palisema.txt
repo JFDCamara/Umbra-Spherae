@@ -1,0 +1,15 @@
+# c_palisema
+
+# County Title
+title = c_palisema
+
+# Settlements
+max_settlements = 1
+
+b_palisema = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

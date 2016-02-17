@@ -1,0 +1,15 @@
+# c_kenogami
+
+# County Title
+title = c_kenogami
+
+# Settlements
+max_settlements = 1
+
+b_kenogami = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

@@ -1,0 +1,15 @@
+# c_skagit
+
+# County Title
+title = c_skagit
+
+# Settlements
+max_settlements = 1
+
+b_skagit = castle
+
+# Misc
+culture = salish
+religion = shikla
+
+#History

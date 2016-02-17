@@ -1,0 +1,15 @@
+# c_haisndayin
+
+# County Title
+title = c_haisndayin
+
+# Settlements
+max_settlements = 1
+
+b_haisndayin = castle
+
+# Misc
+culture = navajo
+religion = kachina
+
+#History

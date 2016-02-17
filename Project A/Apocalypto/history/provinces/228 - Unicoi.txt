@@ -1,0 +1,18 @@
+# c_unicoi
+
+# County Title
+title = c_unicoi
+
+# Settlements
+max_settlements = 4
+
+b_unicoi = castle
+b_hiwassee = city
+#b_tomotley = temple
+#b_ayouwasi = castle
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

@@ -1,0 +1,15 @@
+# c_mocozo
+
+# County Title
+title = c_mocozo
+
+# Settlements
+max_settlements = 1
+
+b_mocozo = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

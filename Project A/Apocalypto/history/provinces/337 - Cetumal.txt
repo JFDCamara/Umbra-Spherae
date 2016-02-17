@@ -1,0 +1,18 @@
+# c_cetumal
+
+# County Title
+title = c_cetumal
+
+# Settlements
+max_settlements = 4
+
+b_b_cetumal = castle
+b_herradura = temple
+b_cerros = city
+#b_hondo = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

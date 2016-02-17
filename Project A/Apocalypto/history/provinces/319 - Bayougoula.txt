@@ -1,0 +1,15 @@
+# c_bayougoula
+
+# County Title
+title = c_bayougoula
+
+# Settlements
+max_settlements = 1
+
+b_bayougoula = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

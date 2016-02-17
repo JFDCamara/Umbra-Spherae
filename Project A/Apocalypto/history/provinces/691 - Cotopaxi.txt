@@ -1,0 +1,15 @@
+# c_cotopaxi
+
+# County Title
+title = c_cotopaxi
+
+# Settlements
+max_settlements = 1
+
+b_cotopaxi = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

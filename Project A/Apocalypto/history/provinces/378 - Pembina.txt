@@ -1,0 +1,15 @@
+# c_pembina
+
+# County Title
+title = c_pembina
+
+# Settlements
+max_settlements = 1
+
+b_pembina = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

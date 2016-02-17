@@ -1,0 +1,15 @@
+# c_wapusk
+
+# County Title
+title = c_wapusk
+
+# Settlements
+max_settlements = 1
+
+b_wapusk = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

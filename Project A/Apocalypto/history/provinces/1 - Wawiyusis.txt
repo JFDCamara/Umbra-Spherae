@@ -1,0 +1,15 @@
+# c_wawiyusis
+
+# County Title
+title = c_wawiyusis
+
+# Settlements
+max_settlements = 1
+
+b_wawiyusis = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

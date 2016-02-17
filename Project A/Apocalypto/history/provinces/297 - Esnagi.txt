@@ -1,0 +1,15 @@
+# c_esnagi
+
+# County Title
+title = c_esnagi
+
+# Settlements
+max_settlements = 1
+
+b_esnagi = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

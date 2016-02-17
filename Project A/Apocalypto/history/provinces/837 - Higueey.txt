@@ -1,0 +1,15 @@
+# c_higueey
+
+# County Title
+title = c_higueey
+
+# Settlements
+max_settlements = 1
+
+b_higueey = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

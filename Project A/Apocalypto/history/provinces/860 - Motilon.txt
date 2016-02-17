@@ -1,0 +1,15 @@
+# c_motilon
+
+# County Title
+title = c_motilon
+
+# Settlements
+max_settlements = 1
+
+b_motilon = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

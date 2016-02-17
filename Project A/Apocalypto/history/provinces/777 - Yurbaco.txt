@@ -1,0 +1,15 @@
+# c_yurbaco
+
+# County Title
+title = c_yurbaco
+
+# Settlements
+max_settlements = 1
+
+b_yurbaco = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

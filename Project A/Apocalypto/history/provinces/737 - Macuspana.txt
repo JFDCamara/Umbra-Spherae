@@ -1,0 +1,15 @@
+# c_macuspana
+
+# County Title
+title = c_macuspana
+
+# Settlements
+max_settlements = 1
+
+b_macuspana = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

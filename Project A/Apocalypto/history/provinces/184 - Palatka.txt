@@ -1,0 +1,15 @@
+# c_palatka
+
+# County Title
+title = c_palatka
+
+# Settlements
+max_settlements = 1
+
+b_palatka = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

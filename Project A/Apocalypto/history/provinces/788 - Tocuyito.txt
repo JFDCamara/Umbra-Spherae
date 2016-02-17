@@ -1,0 +1,15 @@
+# c_tocuyito
+
+# County Title
+title = c_tocuyito
+
+# Settlements
+max_settlements = 1
+
+b_tocuyito = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

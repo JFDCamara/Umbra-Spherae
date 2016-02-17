@@ -1,0 +1,15 @@
+# c_pernambuco
+
+# County Title
+title = c_pernambuco
+
+# Settlements
+max_settlements = 1
+
+b_pernambuco = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

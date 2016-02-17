@@ -1,0 +1,15 @@
+# c_itagui
+
+# County Title
+title = c_itagui
+
+# Settlements
+max_settlements = 1
+
+b_itagui = castle
+
+# Misc
+culture = carib
+religion = inca
+
+#History

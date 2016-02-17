@@ -1,0 +1,15 @@
+# c_cubulero
+
+# County Title
+title = c_cubulero
+
+# Settlements
+max_settlements = 1
+
+b_cubulero = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

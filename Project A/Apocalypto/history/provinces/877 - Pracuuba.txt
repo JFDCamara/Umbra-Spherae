@@ -1,0 +1,15 @@
+# c_pracuuba
+
+# County Title
+title = c_pracuuba
+
+# Settlements
+max_settlements = 1
+
+b_pracuuba = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

@@ -1,0 +1,15 @@
+# c_amapa
+
+# County Title
+title = c_amapa
+
+# Settlements
+max_settlements = 1
+
+b_amapa = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

@@ -1,0 +1,18 @@
+# c_muldraw
+
+# County Title
+title = c_muldraw
+
+# Settlements
+max_settlements = 4
+
+b_muldraw = castle
+#b_kai-a-tee = city
+#b_wa’ya = temple
+#b_dagunawelohi = castle
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

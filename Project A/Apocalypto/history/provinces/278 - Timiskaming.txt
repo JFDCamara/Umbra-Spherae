@@ -1,0 +1,15 @@
+# c_timiskaming
+
+# County Title
+title = c_timiskaming
+
+# Settlements
+max_settlements = 1
+
+b_timiskaming = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

@@ -1,0 +1,17 @@
+# c_tamahli
+
+# County Title
+title = c_tamahli
+
+# Settlements
+max_settlements = 3
+
+b_tamahli = castle
+#b_yguala = city
+#b_aymay = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

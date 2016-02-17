@@ -1,0 +1,15 @@
+# c_kiliwa
+
+# County Title
+title = c_kiliwa
+
+# Settlements
+max_settlements = 1
+
+b_kiliwa = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

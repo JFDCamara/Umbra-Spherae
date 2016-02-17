@@ -1,0 +1,16 @@
+# c_latonia
+
+# County Title
+title = c_latonia
+
+# Settlements
+max_settlements = 2
+
+b_latonia = castle
+#b_pellewomhsoomi  = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

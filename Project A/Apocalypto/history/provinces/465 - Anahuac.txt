@@ -1,0 +1,15 @@
+# c_anahuac
+
+# County Title
+title = c_anahuac
+
+# Settlements
+max_settlements = 1
+
+b_anahuac = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

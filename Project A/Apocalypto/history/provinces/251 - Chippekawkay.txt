@@ -1,0 +1,15 @@
+# c_chippekawkay
+
+# County Title
+title = c_chippekawkay
+
+# Settlements
+max_settlements = 1
+
+b_chippekawkay = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

@@ -1,0 +1,15 @@
+# c_tanpachoas
+
+# County Title
+title = c_tanpachoas
+
+# Settlements
+max_settlements = 1
+
+b_tanpachoas = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

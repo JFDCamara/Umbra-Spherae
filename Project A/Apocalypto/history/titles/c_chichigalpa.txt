@@ -1,0 +1,10 @@
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+=
+1060.1.1=
+{
+	holder=320014
+	law = agnatic_succession
+}

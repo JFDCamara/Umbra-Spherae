@@ -1,0 +1,18 @@
+# c_tzucacab
+
+# County Title
+title = c_tzucacab
+
+# Settlements
+max_settlements = 4
+
+b_tzucacab = castle
+b_chunhuhub = city
+b_quintana = temple
+#b_roo = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

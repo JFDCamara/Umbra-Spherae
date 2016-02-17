@@ -1,0 +1,15 @@
+# c_cabaiguan
+
+# County Title
+title = c_cabaiguan
+
+# Settlements
+max_settlements = 1
+
+b_cabaiguan = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

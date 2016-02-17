@@ -1,0 +1,15 @@
+# c_mulege
+
+# County Title
+title = c_mulege
+
+# Settlements
+max_settlements = 1
+
+b_mulege = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

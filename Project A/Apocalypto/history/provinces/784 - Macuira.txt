@@ -1,0 +1,15 @@
+# c_macuira
+
+# County Title
+title = c_macuira
+
+# Settlements
+max_settlements = 1
+
+b_macuira = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

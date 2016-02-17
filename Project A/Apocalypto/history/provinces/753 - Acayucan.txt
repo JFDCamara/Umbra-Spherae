@@ -1,0 +1,15 @@
+# c_acayucan
+
+# County Title
+title = c_acayucan
+
+# Settlements
+max_settlements = 1
+
+b_acayucan = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

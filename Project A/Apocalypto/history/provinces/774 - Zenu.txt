@@ -1,0 +1,15 @@
+# c_zenu
+
+# County Title
+title = c_zenu
+
+# Settlements
+max_settlements = 1
+
+b_zenu = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

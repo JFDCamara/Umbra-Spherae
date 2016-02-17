@@ -1,0 +1,17 @@
+# c_punxsutawney
+
+# County Title
+title = c_punxsutawney
+
+# Settlements
+max_settlements = 3
+
+b_punxsutawney = castle
+#b_owasco = city
+#b_tganaday = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

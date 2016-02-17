@@ -1,0 +1,17 @@
+# c_latoh
+
+# County Title
+title = c_latoh
+
+# Settlements
+max_settlements = 3
+
+b_latoh = castle
+#b_wahtoh-tona = city
+#b_schingesinkinee  = temple
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

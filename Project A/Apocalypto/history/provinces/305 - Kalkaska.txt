@@ -1,0 +1,18 @@
+# c_kalkaska
+
+# County Title
+title = c_kalkaska
+
+# Settlements
+max_settlements = 4
+
+b_kalkaska = castle
+#b_pakweyaashkiing = city
+#b_gizhiiseing = temple
+#b_digmegonbiz = castle
+
+# Misc
+culture = illinois
+religion = gagohsa
+
+#History

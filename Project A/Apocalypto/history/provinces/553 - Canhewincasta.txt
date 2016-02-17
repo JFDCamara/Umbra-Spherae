@@ -1,0 +1,15 @@
+# c_canhewincasta
+
+# County Title
+title = c_canhewincasta
+
+# Settlements
+max_settlements = 1
+
+b_canhewincasta = castle
+
+# Misc
+culture = illinois
+religion = midewiwin
+
+#History

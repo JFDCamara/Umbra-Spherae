@@ -1,0 +1,18 @@
+# c_canandaigua
+
+# County Title
+title = c_canandaigua
+
+# Settlements
+max_settlements = 4
+
+b_canandaigua = castle
+#b_dwahyayetweh = city
+#b_ahkwesahsne = temple
+#b_wahta = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

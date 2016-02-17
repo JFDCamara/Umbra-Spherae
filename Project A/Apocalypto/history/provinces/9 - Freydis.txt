@@ -1,0 +1,15 @@
+# c_freydis
+
+# County Title
+title = c_freydis
+
+# Settlements
+max_settlements = 1
+
+b_freydis = castle
+
+# Misc
+culture = norwegian
+religion = norse_pagan
+
+#History

@@ -1,0 +1,18 @@
+# c_ouitigua
+
+# County Title
+title = c_ouitigua
+
+# Settlements
+max_settlements = 4
+
+b_ouitigua = castle
+b_higos = city
+b_estor = temple
+#b_quimistan = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

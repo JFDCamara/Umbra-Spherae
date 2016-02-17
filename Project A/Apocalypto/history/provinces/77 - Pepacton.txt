@@ -1,0 +1,17 @@
+# c_pepacton
+
+# County Title
+title = c_pepacton
+
+# Settlements
+max_settlements = 3
+
+b_pepacton = castle
+#b_chenango = city
+#b_ganadadele = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

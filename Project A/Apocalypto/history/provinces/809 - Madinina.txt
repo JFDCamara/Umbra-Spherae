@@ -1,0 +1,15 @@
+# c_madinina
+
+# County Title
+title = c_madinina
+
+# Settlements
+max_settlements = 1
+
+b_madinina = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

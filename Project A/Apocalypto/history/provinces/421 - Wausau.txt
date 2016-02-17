@@ -1,0 +1,15 @@
+# c_wausau
+
+# County Title
+title = c_wausau
+
+# Settlements
+max_settlements = 1
+
+b_wausau = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

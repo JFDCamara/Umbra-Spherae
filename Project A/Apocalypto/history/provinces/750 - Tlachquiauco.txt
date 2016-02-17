@@ -1,0 +1,15 @@
+# c_tlachquiauco
+
+# County Title
+title = c_tlachquiauco
+
+# Settlements
+max_settlements = 1
+
+b_tlachquiauco = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

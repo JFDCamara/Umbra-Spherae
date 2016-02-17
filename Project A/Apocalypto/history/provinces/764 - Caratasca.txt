@@ -1,0 +1,15 @@
+# c_caratasca
+
+# County Title
+title = c_caratasca
+
+# Settlements
+max_settlements = 1
+
+b_caratasca = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

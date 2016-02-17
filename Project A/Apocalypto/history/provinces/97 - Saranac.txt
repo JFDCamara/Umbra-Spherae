@@ -1,0 +1,17 @@
+# c_saranac
+
+# County Title
+title = c_saranac
+
+# Settlements
+max_settlements = 3
+
+b_saranac = castle
+#b_schatsyerosry  = city
+#b_canagere  = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

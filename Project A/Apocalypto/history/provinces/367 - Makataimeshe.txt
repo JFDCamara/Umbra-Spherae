@@ -1,0 +1,17 @@
+# c_makataimeshe
+
+# County Title
+title = c_makataimeshe
+
+# Settlements
+max_settlements = 3
+
+b_makataimeshe = castle
+#b_arukhwa = city
+#b_cheyinye = temple
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

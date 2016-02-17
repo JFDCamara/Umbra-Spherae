@@ -1,0 +1,15 @@
+# c_taaqtam
+
+# County Title
+title = c_taaqtam
+
+# Settlements
+max_settlements = 1
+
+b_taaqtam = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

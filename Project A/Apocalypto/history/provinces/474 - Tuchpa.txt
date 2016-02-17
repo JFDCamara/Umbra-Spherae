@@ -1,0 +1,15 @@
+# c_tuchpa
+
+# County Title
+title = c_tuchpa
+
+# Settlements
+max_settlements = 1
+
+b_tuchpa = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

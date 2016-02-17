@@ -1,0 +1,1314 @@
+501 = {
+	name="Traianus" #rome
+	dynasty=1100100
+	dna="bhlfacmaaai"
+	properties="cc0ead00000"
+	health=9
+	religion="catholic"
+	culture="roman"
+	add_trait = "hist_valentinian"
+	father=11522
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+502 = {
+	name="Demetrios" #siracusa
+	dynasty=1100200
+	dna="bgkuoyfqzih"
+	properties="cj0ecd00000"
+	health=9
+	religion="graeco_roman"
+	culture="greek"
+	1033.1.2={
+		birth="1033.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+503 = {
+	name="Christophoros" #calabria
+	dynasty=639
+	dna="nbuylwxeaac"
+	properties="0deefd00000"
+	health=9
+	religion="orthodox"
+	culture="greek"
+	1033.1.2={
+		birth="1033.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+504 = {
+	name="Richard" #capua
+	dynasty=676
+	dna="dlmajvbiccn"
+	properties="cc0ehk00000"
+	health=9
+	religion="catholic"
+	culture="norman"
+	1033.1.2={
+		birth="1033.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+505 = {
+	name="Maximus" #panormus
+	dynasty=1100240
+	dna="galokzlwayc"
+	properties="ei0jhj00000"
+	health=9
+	religion="mithra"
+	culture="roman"
+	add_trait="hist_aetius"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+506 = {
+	name="Gisulf" #salerno
+	dynasty=1100241
+	dna="srdjkobkbct"
+	properties="cbsgck00000"
+	health=9
+	religion="catholic"
+	culture="lombard"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+# Historical Roman characters
+1500 = {
+	name="Lucius" # Aquilea
+	dynasty=1100246 # Traianus
+	religion="jupiter"
+	culture="roman"
+	372.1.1={
+		birth="372.1.1"
+	}
+	419.1.1={
+		death="419.1.1"
+	}
+}
+
+1501 = {
+	name="Publius" # Venetia
+	dynasty=1100144 # Aurelius
+	religion="sol_christ"
+	culture="roman"
+	421.1.1={
+		birth="421.1.1"
+	}
+	459.1.1={
+		death="459.1.1"
+	}
+}
+
+1502 = {
+	name="Teobaldus" #Ancona
+	dynasty=1100380
+	religion="mithra_christ"
+	culture="romanogothic"
+	535.1.1={
+		birth="535.1.1"
+	}
+	589.1.2={
+		death="589.1.2"
+	}
+}
+
+# SPQR
+
+11500 = {
+	name="Clodius"
+	dynasty=1100498
+	religion="graeco_roman"
+	culture="roman"
+	164.1.1={
+		birth="164.1.1"
+	}
+	208.1.1={
+		death="208.1.1"
+	}
+}
+
+11501 = {
+	name="Lucius"
+	dynasty=1100105
+	religion="graeco_roman"
+	culture="roman"
+	198.1.1={
+		birth="198.1.1"
+	}
+	245.1.1={
+		death="245.1.1"
+	}
+}
+
+11502 = {
+	name="Marcus"
+	dynasty=1100246
+	religion="graeco_roman"
+	culture="roman"
+	209.1.1={
+		birth="209.1.1"
+	}
+	251.1.1={
+		death="251.1.1"
+	}
+}
+
+11503 = {
+	name="Valentinianus"
+	dynasty=1100100
+	religion="catholic"
+	culture="roman"
+	add_trait = "hist_valentinian"
+	321.1.1={
+		birth="321.1.1"
+	}
+	380.1.1={
+		death="380.1.1"
+	}
+}
+
+11504 = {
+	name="Valentinianus"
+	dynasty=1100100
+	religion="catholic"
+	culture="roman"
+	father=11503
+	add_trait = "hist_valentinian"
+	371.1.1={
+		birth="371.1.1"
+	}
+	411.1.1={
+		death="411.1.1"
+	}
+}
+
+11505 = {
+	name="Flavianus"
+	dynasty=1100141
+	religion="catholic"
+	culture="roman"
+	347.1.11={
+		birth="347.1.11"
+	}
+	395.1.17={
+		death="395.1.17"
+	}
+}
+
+11506 = {
+	name="Honorius"
+	dynasty=1100141
+	religion="catholic"
+	culture="roman"
+	father=11505
+	384.9.9={
+		birth="384.9.9"
+	}
+	423.8.15={
+		death="423.8.15"
+	}
+}
+
+11507 = {
+	name="Valentinianus"
+	dynasty=1100100
+	religion="catholic"
+	culture="roman"
+	father=11504
+	add_trait = "hist_valentinian"
+	396.1.1={
+		birth="396.1.1"
+	}
+	432.5.15={
+		death="432.5.15"
+	}
+}
+
+11508 = {
+	name="Honorius"
+	dynasty=1100141
+	religion="catholic"
+	culture="roman"
+	father=11506
+	418.1.1={
+		birth="418.1.1"
+	}
+	444.1.1={
+		death="444.1.1"
+	}
+}
+
+11509 = {
+	name="Valentinianus"
+	dynasty=1100100
+	religion="catholic"
+	culture="roman"
+	father=11507
+	add_trait = "hist_valentinian"
+	416.1.1={
+		birth="416.1.1"
+	}
+	451.1.1={
+		death="451.1.1"
+	}
+}
+
+11510 = {
+	name="Flavianus"
+	dynasty=1100240
+	religion="catholic"
+	culture="roman"
+	396.1.1={
+		birth="396.1.1"
+	}
+	454.1.1={
+		death="454.1.1"
+	}
+}
+
+11511 = {
+	name="Valentinianus"
+	dynasty=1100100
+	religion="catholic"
+	culture="roman"
+	father=11509
+	add_trait = "hist_valentinian"
+	433.1.1={
+		birth="433.1.1"
+	}
+	477.1.1={
+		death="477.1.1"
+	}
+}
+
+11512 = {
+	name="Valentinianus"
+	dynasty=1100100
+	religion="catholic"
+	culture="roman"
+	father=11511
+	add_trait = "hist_valentinian"
+	438.1.1={
+		birth="438.1.1"
+	}
+	521.1.1={
+		death="521.1.1"
+	}
+}
+
+11513 = {
+	name="Valentinianus"
+	dynasty=1100100
+	religion="catholic"
+	culture="roman"
+	father=11512
+	add_trait = "hist_valentinian"
+	472.1.1={
+		birth="472.1.1"
+	}
+	538.1.1={
+		death="538.1.1"
+	}
+}
+
+11514 = {
+	name="Valentinianus"
+	dynasty=1100100
+	religion="catholic"
+	culture="roman"
+	father=11513
+	add_trait = "hist_valentinian"
+	504.1.1={
+		birth="504.1.1"
+	}
+	556.1.1={
+		death="556.1.1"
+	}
+}
+
+11515 = {
+	name="Maximus"
+	dynasty=1100384
+	religion="catholic"
+	culture="galloroman"
+	571.1.1={
+		birth="571.1.1"
+	}
+	628.1.1={
+		death="628.1.1"
+	}
+}
+
+11516 = {
+	name="Maximus"
+	dynasty=1100384
+	religion="catholic"
+	culture="galloroman"
+	father=11515
+	599.1.1={
+		birth="599.1.1"
+	}
+	657.1.1={
+		death="657.1.1"
+	}
+}
+
+11517 = {
+	name="Tetricus"
+	dynasty=1100385
+	religion="catholic"
+	culture="galloroman"
+	631.1.1={
+		birth="631.1.1"
+	}
+	686.1.1={
+		death="686.1.1"
+	}
+}
+
+11518 = {
+	name="Alexander" # Grandson of Alexandros XVII
+	dynasty=1100379
+	religion="catholic"
+	culture="roman"
+	add_trait="hist_augustus"
+	701.1.1={
+		birth="701.1.1"
+	}
+	735.1.1={
+		death="735.1.1"
+	}
+}
+
+11519 = {
+	name="Theodosius"
+	dynasty=1100100
+	religion="catholic"
+	culture="roman"
+	add_trait = "hist_valentinian"
+	694.1.1={
+		birth="694.1.1"
+	}
+	744.1.1={
+		death="744.1.1"
+	}
+}
+
+11520 = {
+	name="Theodosius"
+	dynasty=1100100
+	religion="catholic"
+	culture="roman"
+	add_trait = "hist_valentinian"
+	785.1.1={
+		birth="785.1.1"
+	}
+	842.1.1={
+		death="842.1.1"
+	}
+}
+
+11521 = {
+	name="Marcianus"
+	dynasty=1100100
+	religion="catholic"
+	culture="roman"
+	father=11520
+	add_trait = "hist_valentinian"
+	818.1.1={
+		birth="818.1.1"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+11522 = {
+	name="Evangelus"
+	dynasty=1100100
+	religion="catholic"
+	culture="roman"
+	add_trait = "hist_valentinian"
+	992.1.1={
+		birth="992.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+# Imperium Romanum characters
+# IDs 12500-12599
+
+12500 = {
+	name="Octavianus"
+	dynasty=1100379
+	religion="graeco_roman"
+	culture="roman"
+	add_trait = "hist_augustus"
+	1.1.2={
+		birth="1.1.2"
+	}
+	40.1.1={
+		death="40.1.1"
+	}
+}
+
+12501 = {
+	name="Alexander"
+	dynasty=1100379
+	religion="graeco_roman"
+	culture="roman"
+	father=12500
+	add_trait = "hist_augustus"
+	1.1.2={
+		birth="1.1.2"
+	}
+	36.1.1={
+		death="36.1.1"
+	}
+}
+
+12502 = {
+	name="Alexander"
+	dynasty=1100379
+	religion="graeco_roman"
+	culture="roman"
+	father=12501
+	add_trait="zealous"
+	add_trait="cruel"
+	add_trait="proud"
+	add_trait = "hist_augustus"
+	16.1.1={
+		birth="16.1.1"
+	}
+	69.1.1={
+		death="69.1.1"
+	}
+}
+
+12503 = {
+	name="Vespasianus"
+	dynasty=1100318
+	religion="graeco_roman"
+	culture="roman"
+	9.11.17={
+		birth="9.11.17"
+	}
+	79.6.23={
+		death="79.6.23"
+	}
+}
+
+12504 = {
+	name="Titus"
+	dynasty=1100318
+	religion="graeco_roman"
+	culture="roman"
+	father=12503
+	39.12.30={
+		birth="39.12.30"
+	}
+	81.9.13={
+		death="81.9.13"
+	}
+}
+
+12505 = {
+	name="Domitianus"
+	dynasty=1100318
+	religion="graeco_roman"
+	culture="roman"
+	father=12503
+	51.10.24={
+		birth="51.10.24"
+	}
+	96.9.18={
+		death="96.9.18"
+	}
+}
+
+12506 = {
+	name="Nerva"
+	dynasty=1100315
+	religion="graeco_roman"
+	culture="roman"
+	30.11.8={
+		birth="30.11.8"
+	}
+	98.1.27={
+		death="98.1.27"
+	}
+}
+
+12507 = {
+	name="Traianus"
+	dynasty=1100315
+	religion="graeco_roman"
+	culture="roman"
+	58.9.18={
+		birth="58.9.18"
+	}
+	117.8.9={
+		death="117.8.9"
+	}
+}
+
+12508 = {
+	name="Hadrianus"
+	dynasty=1100315
+	religion="graeco_roman"
+	culture="roman"
+	76.1.24={
+		birth="76.1.24"
+	}
+	135.1.1={
+		death="135.1.1"
+	}
+}
+
+12509 = {
+	name="Antoninus"
+	dynasty=1100327
+	religion="graeco_roman"
+	culture="roman"
+	86.9.19={
+		birth="86.9.19"
+	}
+	161.3.7={
+		death="161.3.7"
+	}
+}
+
+12510 = {
+	name="Marcus"
+	dynasty=1100327
+	religion="graeco_roman"
+	culture="roman"
+	121.4.26={
+		birth="121.4.26"
+	}
+	181.1.1={
+		death="181.1.1"
+	}
+}
+
+12511 = {
+	name="Commodus"
+	dynasty=1100327
+	religion="sol"
+	culture="roman"
+	father=12510
+	161.8.30={
+		birth="161.8.30"
+	}
+	192.12.30={
+		death="192.12.30"
+	}
+}
+
+12512 = {
+	name="Septimus" # Also Septimus I of Hispania
+	dynasty=1100237
+	religion="sol"
+	culture="roman"
+	145.4.11={
+		birth="145.4.11"
+	}
+	211.2.4={
+		death="211.2.4"
+	}
+}
+
+12513 = {
+	name="Alexander" # Also Alexander of Neapolis
+	dynasty=1100265
+	religion="sol"
+	culture="roman"
+	add_trait = "hist_augustus"
+	147.1.1={
+		birth="147.1.1"
+	}
+	216.1.1={
+		death="216.1.1"
+	}
+}
+
+12514 = {
+	name="Alexander"
+	dynasty=1100265
+	religion="sol"
+	culture="roman"
+	add_trait = "hist_augustus"
+	father=12513
+	204.1.1={
+		birth="204.1.1"
+	}
+	235.1.1={
+		death="235.1.1"
+	}
+}
+
+12515 = {
+	name="Alexander"
+	dynasty=1100265
+	religion="sol"
+	culture="roman"
+	add_trait = "hist_augustus"
+	father=12514
+	228.1.1={
+		birth="228.1.1"
+	}
+	280.1.1={
+		death="280.1.1"
+	}
+}
+
+12516 = {
+	name="Alexander"
+	dynasty=1100265
+	religion="sol"
+	culture="roman"
+	father=12515
+	add_trait="blinded"
+	add_trait = "hist_augustus"
+	258.1.1={
+		birth="258.1.1"
+	}
+	310.1.1={
+		death="310.1.1"
+	}
+}
+
+
+12517 = {
+	name="Alexander"
+	dynasty=1100265
+	religion="sol"
+	culture="roman"
+	add_trait = "hist_augustus"
+	father=12516
+	289.1.1={
+		birth="289.1.1"
+	}
+	344.1.1={
+		death="344.1.1"
+	}
+}
+
+12518 = {
+	name="Alexandros"
+	dynasty=1100265
+	religion="sol"
+	culture="greek"
+	add_trait = "hist_augustus"
+	father=12517
+	322.1.1={
+		birth="322.1.1"
+	}
+	381.1.1={
+		death="381.1.1"
+	}
+}
+
+12519 = {
+	name="Ioulianos"
+	dynasty=1100101
+	religion="sol"
+	culture="greek"
+	add_trait="hist_julianos"
+	305.1.1={
+		birth="305.1.1"
+	}
+	389.1.1={
+		death="389.1.1"
+	}
+}
+
+12520 = {
+	name="Alexandros"
+	dynasty=1100265
+	religion="sol"
+	culture="greek"
+	add_trait = "hist_augustus"
+	father=12518
+	342.1.1={
+		birth="342.1.1"
+	}
+	412.1.1={
+		death="412.1.1"
+	}
+}
+
+12521 = {
+	name="Alexandros"
+	dynasty=1100265
+	religion="sol"
+	culture="greek"
+	add_trait = "hist_augustus"
+	father=12520
+	398.1.1={
+		birth="398.1.1"
+	}
+	440.1.1={
+		death="440.1.1"
+	}
+}
+
+12522 = {
+	name="Ioulianos"
+	dynasty=1100101
+	religion="sol"
+	culture="greek"
+	add_trait="hist_julianos"
+	387.1.1={
+		birth="387.1.1"
+	}
+	442.1.1={
+		death="442.1.1"
+	}
+}
+
+12523 = {
+	name="Alexandros"
+	dynasty=1100265
+	religion="sol"
+	culture="greek"
+	add_trait = "hist_augustus"
+	father=12521
+	409.1.1={
+		birth="409.1.1"
+	}
+	467.1.1={
+		death="467.1.1"
+	}
+}
+
+12524 = {
+	name="Leon"
+	dynasty=8646
+	religion="sol"
+	culture="greek"
+	431.1.1={
+		birth="431.1.1"
+	}
+	474.1.1={
+		death="474.1.1"
+	}
+}
+
+12525 = {
+	name="Alexandros"
+	dynasty=1100265
+	religion="sol"
+	culture="greek"
+	add_trait = "hist_augustus"
+	father=12523
+	465.1.1={
+		birth="465.1.1"
+	}
+	502.12.25={
+		death="502.12.25"
+	}
+}
+
+12526 = {
+	name="Leon"
+	dynasty=8646
+	religion="sol"
+	culture="greek"
+	458.1.1={
+		birth="458.1.1"
+	}
+	518.1.1={
+		death="518.1.1"
+	}
+}
+
+12527 = {
+	name="Alexandros"
+	dynasty=1100265
+	religion="sol"
+	culture="greek"
+	add_trait = "hist_augustus"
+	father=12525
+	502.1.1={
+		birth="502.1.1"
+	}
+	571.1.1={
+		death="571.1.1"
+	}
+}
+
+12528 = {
+	name="Alexandros"
+	dynasty=1100265
+	religion="sol"
+	culture="greek"
+	add_trait = "hist_augustus"
+	father=12527
+	547.1.1={
+		birth="547.1.1"
+	}
+	579.1.1={
+		death="579.1.1"
+	}
+}
+
+12529 = {
+	name="Maurikios"
+	dynasty=1100188
+	religion="sol"
+	culture="greek"
+	539.1.1={
+		birth="539.1.1"
+	}
+	609.1.1={
+		death="609.1.1"
+	}
+}
+
+12530 = {
+	name="Heraklios"
+	dynasty=100493
+	religion="sol"
+	culture="greek"
+	575.1.1={
+		birth="575.1.1"
+	}
+	640.1.1={
+		death="640.1.1"
+	}
+}
+
+12531 = {
+	name="Alexandros"
+	dynasty=1100265
+	religion="sol"
+	culture="greek"
+	add_trait = "hist_augustus"
+	582.1.1={
+		birth="582.1.1"
+	}
+	642.1.1={
+		death="642.1.1"
+	}
+}
+
+12532 = {
+	name="Alexandros"
+	dynasty=1100379
+	religion="sol"
+	culture="greek"
+	add_trait = "hist_augustus"
+	618.1.1={
+		birth="618.1.1"
+	}
+	681.1.1={
+		death="681.1.1"
+	}
+}
+
+12533 = {
+	name="Alexandros"
+	dynasty=1100379
+	religion="sol"
+	culture="greek"
+	father=12532
+	add_trait = "hist_augustus"
+	642.1.1={
+		birth="642.1.1"
+	}
+	682.1.1={
+		death="682.1.1"
+	}
+}
+
+12534 = {
+	name="Ioustinianos" # Also Justinian of Nicomedia
+	dynasty=1100188
+	religion="jupiter"
+	culture="greek"
+	668.1.1={
+		birth="668.1.1"
+	}
+	711.12.11={
+		death="711.12.11"
+	}
+}
+
+12535 = {
+	name="Maurikios"
+	dynasty=11001894
+	religion="sol"
+	culture="greek"
+	668.1.1={
+		birth="668.1.1"
+	}
+	707.1.1={
+		death="707.1.1"
+	}
+}
+
+12536 = {
+	name="Leon"
+	dynasty=8646
+	religion="sol"
+	culture="greek"
+	676.1.1={
+		birth="676.1.1"
+	}
+	740.12.25={
+		death="740.12.25"
+	}
+}
+
+12537 = {
+	name="Leon"
+	dynasty=8646
+	religion="sol"
+	culture="greek"
+	father=12536
+	712.1.1={
+		birth="712.1.1"
+	}
+	775.1.1={
+		death="775.1.1"
+	}
+}
+
+12538 = {
+	name="Leon"
+	dynasty=8646
+	religion="sol"
+	culture="greek"
+	father=12537
+	753.1.1={
+		birth="753.1.1"
+	}
+	772.1.1 = {
+		add_spouse=12539
+	}
+	795.1.1={
+		death="795.1.1"
+	}
+}
+
+12539 = {
+	name="Eirene"
+	female=yes
+	dynasty=1100376
+	religion="luwian"
+	culture="greek"
+	752.1.1={
+		birth="752.1.1"
+	}
+	809.1.1={
+		death="809.1.1"
+	}
+}
+
+12540 = {
+	name="Nikephoros"
+	dynasty=8645
+	religion="sol"
+	culture="greek"
+	775.1.1={
+		birth="775.1.1"
+	}
+	813.1.1={
+		death="813.1.1"
+	}
+}
+
+
+12541 = {
+	name="Leon"
+	dynasty=8642
+	religion="sol"
+	culture="greek"
+	775.1.1={
+		birth="775.1.1"
+	}
+	835.1.1={
+		death="835.1.1"
+	}
+}
+
+12542 = {
+	name="Philippos"
+	dynasty=1100313
+	religion="sol"
+	culture="greek"
+	add_trait="hist_alexandros"
+	792.1.1={
+		birth="792.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+}
+
+12543 = {
+	name="Basileios"
+	dynasty=1100313
+	religion="sol"
+	culture="greek"
+	father=12542
+	add_trait="hist_alexandros"
+	832.1.1={
+		birth="832.1.1"
+	}
+	887.1.1={
+		death="887.1.1"
+	}
+}
+
+12544 = {
+	name="Leon"
+	dynasty=1100313
+	religion="sol"
+	culture="greek"
+	father=12543
+	add_trait="hist_alexandros"
+	854.1.1={
+		birth="854.1.1"
+	}
+	909.1.1={
+		death="909.1.1"
+	}
+}
+
+12545 = {
+	name="Leon"
+	dynasty=1100313
+	religion="sol"
+	culture="greek"
+	father=12544
+	add_trait="hist_alexandros"
+	add_trait="blinded"
+	add_trait="eunuch"
+	880.1.1={
+		birth="880.1.1"
+	}
+	946.1.1={
+		death="946.1.1"
+	}
+}
+
+12546 = {
+	name="Aurelianos"
+	dynasty=1100101
+	religion="sol"
+	culture="greek"
+	add_trait="hist_julianos"
+	889.1.1={
+		birth="889.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+12547 = {
+	name="Ioulianos"
+	dynasty=1100101
+	religion="sol"
+	culture="greek"
+	father=12546
+	add_trait="hist_julianos"
+	933.1.1={
+		birth="933.1.1"
+	}
+	993.1.1={
+		death="993.1.1"
+	}
+}
+
+12548 = {
+	name="Ioulianos"
+	dynasty=1100101
+	religion="sol"
+	culture="greek"
+	father=12547
+	add_trait="hist_julianos"
+	968.1.1={
+		birth="968.1.1"
+	}
+	1018.1.1={
+		death="1018.1.1"
+	}
+}
+
+12549 = {
+	name="Ioulianos"
+	dynasty=1100101
+	religion="sol"
+	culture="greek"
+	father=12548
+	add_trait="hist_julianos"
+	999.1.1={
+		birth="999.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+12550 = {
+	name="Ioulianos"
+	dynasty=1100101
+	religion="sol"
+	culture="greek"
+	father=12548
+	add_trait="hist_julianos"
+	1017.1.1={
+		birth="1017.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+# Italian characters
+276 = {
+	name="Ascanio" #pisa
+	dynasty=1100142
+	dna="awpqgejafyh"
+	properties="cladbd0000"
+	health=9
+	religion="catholic"
+	culture="italian"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+277 = {
+	name="Anselmo" #modena
+	dynasty=100322
+	dna="zhprtsuwaxl"
+	properties="cd0cak0000"
+	health=9
+	religion="catholic"
+	culture="italian"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+278 = {
+	name="Alberto" #verona
+	dynasty=1100143
+	dna="rjvisswwjag"
+	properties="cb0cak0000"
+	health=9
+	religion="catholic"
+	culture="italian"
+	1044.1.2={
+		birth="1044.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+279 = {
+	name="Bonifacio" #toscana
+	dynasty=101556
+	dna="wjgqzkeafjj"
+	properties="cgmecd0000"
+	health=9
+	religion="catholic"
+	culture="italian"
+	father=15002
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+
+15000 = {
+	name="Adalberto"
+	dynasty=101556
+	religion="catholic"
+	culture="italian"
+	919.1.1={
+		birth="919.1.1"
+	}
+	957.1.1={
+		add_spouse=11800
+	}
+	988.2.13={
+		death="988.2.13"
+	}
+}
+
+15001 = {
+	name="Tedaldo"
+	dynasty=101556
+	religion="catholic"
+	culture="italian"
+	father=15000
+	mother=11800
+	958.1.1={
+		birth="958.1.1"
+	}
+	1012.1.1={
+		death="1012.1.1"
+	}
+}
+
+15002 = {
+	name="Bonifacio"
+	dynasty=101556
+	religion="catholic"
+	culture="italian"
+	father=15001
+	982.1.1={
+		birth="982.1.1"
+	}
+	1052.1.1={
+		death="1052.1.1"
+	}
+}
+
+15003 = {
+	name="Matilda"
+	female=yes
+	dynasty=101556
+	religion="catholic"
+	culture="italian"
+	father=15002
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}

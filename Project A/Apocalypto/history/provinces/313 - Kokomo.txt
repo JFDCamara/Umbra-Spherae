@@ -1,0 +1,17 @@
+# c_kokomo
+
+# County Title
+title = c_kokomo
+
+# Settlements
+max_settlements = 3
+
+b_kokomo = castle
+#b_atchatchakangouen = city
+#b_piankeshaw = temple
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

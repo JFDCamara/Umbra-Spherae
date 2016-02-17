@@ -1,0 +1,505 @@
+580000 = {
+	name="Achuchi"
+	dynasty=1053005
+	religion="zemi"
+	culture="carib"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+580001 = {
+	name="Ake"
+	dynasty=1053006
+	religion="zemi"
+	culture="carib"
+	father=580022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+580002 = {
+	name="Awe"
+	dynasty=1053007 
+	religion="zemi"
+	culture="carib"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+580003 = {
+	name="Iawi"
+	dynasty=1053007
+	religion="zemi"
+	culture="carib"
+	father=580002 #Awe
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+580004 = {
+	name="Jabuti"
+	dynasty=1053009
+	religion="zemi"
+	culture="carib"
+	father=580005 #Maoira
+	mother=580029 #Tatuie
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+580005 = {
+	name="Maoira"
+	dynasty=1053009
+	religion="zemi"
+	culture="carib"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1058.1.1={
+         	add_spouse=580029 #Tatuie
+    }
+	1100.1.1={
+		death="1100.1.1"
+	}
+
+}
+
+580006 = {
+	name="Mapi"
+	dynasty=1053011
+	religion="zemi"
+	culture="carib"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=580030 #Mandu
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+580007 = {
+	name="Moie"
+	dynasty=1053011
+	religion="zemi"
+	culture="carib"
+	father=580006 #Mapi
+	mother=580030 #Mandu
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+580008 = {
+	name="Pacon"
+	dynasty=1053012
+	religion="zemi"
+	culture="carib"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+580009 = {
+	name="Qircamo"
+	dynasty=1053002
+	religion="zemi"
+	culture="carib"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+580010 = {
+	name="Quando"
+	dynasty=1053013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="zemi"
+	culture="carib"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+580011 = {
+	name="Rapau"
+	dynasty=1053014
+	religion="zemi"
+	culture="carib"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+580012 = {
+	name="Tari"
+	dynasty=1053005
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="zemi"
+	culture="carib"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+580013 = {
+	name="Trumak"
+	dynasty=1053001
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="zemi"
+	culture="carib"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+580014 = {
+	name="Uluiru"
+	dynasty=1053003
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="zemi"
+	culture="carib"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+580015 = {
+	name="Wanadi"
+	dynasty=1053006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="zemi"
+	culture="carib"
+	father=580022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+580016 = {
+	name="Jakaraw"
+	dynasty=1053011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="zemi"
+	culture="carib"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+580017 = {
+	name="Pero"
+	dynasty=1053004
+	religion="zemi"
+	culture="carib"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+580018 = {
+	name="Oto"
+	dynasty=1053004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="zemi"
+	culture="carib"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+580019 = {
+	name="Iwoi"
+	dynasty=1053008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="zemi"
+	culture="carib"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+580020 = {
+	name="Kaikusi"
+	dynasty=1053003
+	religion="zemi"
+	culture="carib"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+580021 = {
+	name="Rere"
+	dynasty=1053002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="zemi"
+	culture="carib"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+580022 = {
+	name="Piriki'ki"
+	dynasty=1053006
+	religion="zemi"
+	culture="carib"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+580023 = {
+	name="Boro"
+	female=yes
+	dynasty=1053007	
+	religion="zemi"
+	culture="carib"
+	father=580002 #Awe
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+580024 = {
+	name="Kachiri"
+	female=yes
+	dynasty=1053011
+	religion="zemi"
+	culture="carib"
+	father=580006 #Mapi
+	mother=580030 #Mandu
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+580025 = {
+	name="Kujari"
+	dynasty=1053010
+	religion="zemi"
+	culture="carib"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+580026 = {
+	name="Nakwatcha"
+	female=yes
+	dynasty=1053010
+	religion="zemi"
+	culture="carib"
+	father=580025 #Kujari
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+580027 = {
+	name="Potichaua"
+	female=yes
+	dynasty=1053001	
+	religion="zemi"
+	culture="carib"
+	father=580013 #Trumak
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+580028 = {
+	name="Samampo"
+	female=yes
+	dynasty=1053008	
+	religion="zemi"
+	culture="carib"
+	father=580019 #Iwoi
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+580029 = {
+	name="Tatuie"
+	female=yes
+	dynasty=1053001	
+	religion="zemi"
+	culture="carib"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1058.1.1={
+         	add_spouse=580005 #Maoira
+    	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+580030 = {
+	name="Mandu"
+	female=yes
+	dynasty=1053014
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="zemi"
+	culture="carib"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=580006 #Mapi
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

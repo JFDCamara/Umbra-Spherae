@@ -1,0 +1,16 @@
+# c_pymatuning
+
+# County Title
+title = c_pymatuning
+
+# Settlements
+max_settlements = 2
+
+b_pymatuning = castle
+#b_geauga  = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

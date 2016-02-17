@@ -1,0 +1,15 @@
+# c_manitoba
+
+# County Title
+title = c_manitoba
+
+# Settlements
+max_settlements = 1
+
+b_manitoba = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

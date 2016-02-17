@@ -1,0 +1,15 @@
+# c_tocumen
+
+# County Title
+title = c_tocumen
+
+# Settlements
+max_settlements = 1
+
+b_tocumen = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

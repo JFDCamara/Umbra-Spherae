@@ -1,0 +1,15 @@
+# c_lesamo
+
+# County Title
+title = c_lesamo
+
+# Settlements
+max_settlements = 1
+
+b_lesamo = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

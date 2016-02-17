@@ -1,0 +1,17 @@
+# c_etchemin
+
+# County Title
+title = c_etchemin
+
+# Settlements
+max_settlements = 3
+
+b_etchemin = castle
+#b_cawaoge  = city
+#b_tenotoge  = temple
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

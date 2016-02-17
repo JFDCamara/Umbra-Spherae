@@ -1,0 +1,15 @@
+# c_tabas
+
+# County Title
+title = c_tabas
+
+# Settlements
+max_settlements = 1
+
+b_tabas = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

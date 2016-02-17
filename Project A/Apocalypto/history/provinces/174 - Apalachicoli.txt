@@ -1,0 +1,18 @@
+# c_apalachicoli
+
+# County Title
+title = c_apalachicoli
+
+# Settlements
+max_settlements = 4
+
+b_apalachicoli = castle
+#b_yustaga = city
+#b_talua_lako = temple
+#b_vasisa = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

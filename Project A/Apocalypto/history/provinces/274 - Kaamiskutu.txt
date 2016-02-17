@@ -1,0 +1,15 @@
+# c_kaamiskutu
+
+# County Title
+title = c_kaamiskutu
+
+# Settlements
+max_settlements = 1
+
+b_kaamiskutu = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

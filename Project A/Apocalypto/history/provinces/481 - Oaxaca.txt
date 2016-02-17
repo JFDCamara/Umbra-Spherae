@@ -1,0 +1,15 @@
+# c_oaxaca
+
+# County Title
+title = c_oaxaca
+
+# Settlements
+max_settlements = 1
+
+b_oaxaca = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

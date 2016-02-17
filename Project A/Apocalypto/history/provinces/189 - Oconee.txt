@@ -1,0 +1,18 @@
+# c_oconee
+
+# County Title
+title = c_oconee
+
+# Settlements
+max_settlements = 4
+
+b_oconee = castle
+#b_chisi = city
+#b_ichisi = temple
+#b_ochisi  = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

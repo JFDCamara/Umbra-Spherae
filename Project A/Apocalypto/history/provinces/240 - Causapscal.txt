@@ -1,0 +1,15 @@
+# c_causapscal
+
+# County Title
+title = c_causapscal
+
+# Settlements
+max_settlements = 1
+
+b_causapscal = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

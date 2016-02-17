@@ -1,0 +1,15 @@
+# c_maskinonge
+
+# County Title
+title = c_maskinonge
+
+# Settlements
+max_settlements = 1
+
+b_maskinonge = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

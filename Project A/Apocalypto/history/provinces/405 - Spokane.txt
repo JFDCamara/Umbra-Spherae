@@ -1,0 +1,15 @@
+# c_spokane
+
+# County Title
+title = c_spokane
+
+# Settlements
+max_settlements = 1
+
+b_spokane = castle
+
+# Misc
+culture = salish
+religion = numa
+
+#History

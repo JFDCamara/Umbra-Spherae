@@ -1,0 +1,17 @@
+# c_okmulgee
+
+# County Title
+title = c_okmulgee
+
+# Settlements
+max_settlements = 3
+
+b_okmulgee = castle
+#b_kantcati = city
+#b_ulibahali = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

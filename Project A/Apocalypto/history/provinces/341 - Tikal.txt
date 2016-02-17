@@ -1,0 +1,21 @@
+# c_tikal
+
+# County Title
+title = c_tikal
+
+# Settlements
+max_settlements = 7
+
+b_tikal_b) = castle
+b_xultun = city
+b_caracol = temple
+#b_nakum = castle
+#b_yaxha = city
+#b_sacul = temple
+#b_ixkun = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

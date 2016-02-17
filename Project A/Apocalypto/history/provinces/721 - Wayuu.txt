@@ -1,0 +1,15 @@
+# c_wayuu
+
+# County Title
+title = c_wayuu
+
+# Settlements
+max_settlements = 1
+
+b_wayuu = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

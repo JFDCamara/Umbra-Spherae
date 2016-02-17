@@ -1,0 +1,17 @@
+# c_meskwaki
+
+# County Title
+title = c_meskwaki
+
+# Settlements
+max_settlements = 3
+
+b_meskwaki = castle
+#b_moingwena = city
+#b_chinkoa = temple
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

@@ -1,0 +1,15 @@
+# c_hachcha_osi
+
+# County Title
+title = c_hachcha_osi
+
+# Settlements
+max_settlements = 1
+
+b_hachcha_osi = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

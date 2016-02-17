@@ -1,0 +1,15 @@
+# c_monqui
+
+# County Title
+title = c_monqui
+
+# Settlements
+max_settlements = 1
+
+b_monqui = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

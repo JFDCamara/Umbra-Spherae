@@ -1,0 +1,67 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+castillan;Spanish;Espagnol;Spanisch;;Espanol;;;;;;;;;x
+frankish;French;Francais;Frankisch;;Francese;;;;;;;;;x
+emperor_castillan;King;Roi;König;;Rey;;;;;;;;;x
+emperor_female_castillan;Queen;Reine;Königin;;Reina;;;;;;;;;x
+emperor_dutch;Stadhouder;Stadhouder;Stadhouder;;Stadhouder;;;;;;;;;x
+emperor_female_dutch;Queen;Reine;Königin;;Reina;;;;;;;;;x
+emperor_english;King;Roi;König;;Rey;;;;;;;;;x
+emperor_female_english;Queen;Reine;Königin;;Reina;;;;;;;;;x
+emperor_french;King;Roi;König;;Rey;;;;;;;;;x
+emperor_female_french;Queen;Reine;Königin;;Reina;;;;;;;;;x
+emperor_portuguese;King;Roi;König;;Rey;;;;;;;;;x
+emperor_female_portuguese;Queen;Reine;Königin;;Reina;;;;;;;;;x
+king_castillan;Viceroy;Vice-Roi;Vizekönig;;Virrey;;;;;;;;;x
+king_dutch;Governor-General;Gouverneur-Général;Generalgouverneur;;Gobernador-General;;;;;;;;;x
+king_english;Governor-General;Gouverneur-Général;Generalgouverneur;;Gobernador-General;;;;;;;;;x
+king_french;Viceroy;Vice-Roi;Vizekönig;;Virrey;;;;;;;;;x
+king_portuguese;Viceroy;Vice-Roi;Vizekönig;;Virrey;;;;;;;;;x
+duke_castillan;Captain-General;Captitaine-Général;Kapitangouverneur;;Capitan-General;;;;;;;;;x
+duke_dutch;Governor;Gouverneur;Gouverneur;;Gobernador;;;;;;;;;x
+duke_english;Lord Governor;Gouverneur;Gouverneur;;Gobernador;;;;;;;;;x
+duke_french;Governor;Gouverneur;Gouverneur;;Gobernador;;;;;;;;;x
+duke_portuguese;Captain-Major;Captitaine-Général;Kapitangouverneur;;Capitan-General;;;;;;;;;x
+count_castillan;Corregidor;Corregidor;Corregidor;;Corregidor;;;;;;;;;x
+count_dutch;Patroon;Patroon;Patroon;;Patroon;;;;;;;;;x
+count_english;Count;Comte;Graf;;Conde;;;;;;;;;x
+count_french;Sieur;Sieur;Sieur;;Sieur;;;;;;;;;x
+count_portuguese;Count;Comte;Graf;;Conde;;;;;;;;;x
+baron_castillan;Capitán;Capitán;Capitán;;Capitán;;;;;;;;;x
+baron_dutch;Kapitein;Kapitein;Kapitein;;Kapitein;;;;;;;;;x
+baron_english;Captain;Captain;Captain;;Captain;;;;;;;;;x
+baron_french;Capitaine;Capitaine;Capitaine;;Capitaine;;;;;;;;;x
+baron_portuguese;Capitão;Capitão;Capitão;;Capitão;;;;;;;;;x
+temple_baron_christian;Priest;Prêtre;Priest;;Padre;;;;;;;;;x
+city_duke_christian;Governor;Gouverneur;Gouverneur;;Gobernador;;;;;;;;;x
+city_count_christian;Lord Mayor;Seigneur-Maire;Oberbürgermeister;;Gran Alcalde;;;;;;;;;x
+empire_of_christian;Kingdom of;Royaume de;Königreich von;;Reino de;;;;;;;;;x
+kingdom_of_castillan;Viceroyalty of;Vice-royauté de;Vizekönigreich von;;Virreino de;;;;;;;;;x
+kingdom_of_english;Dominion of;Dominion de;Dominion von;;Dominion de;;;;;;;;;x
+kingdom_of_french;Viceroyalty of;Vice-royauté de;Vizekönigreich von;;Virreino de;;;;;;;;;x
+kingdom_of_portuguese;Viceroyalty of;Viceroyaume de;Vizekönigreich von;;Virreino de;;;;;;;;;x
+duchy_of_castillan;Province of;Province de;Provinz von;;Provincia de;;;;;;;;;x
+duchy_of_english;Province of;Province de;Provinz von;;Provincia de;;;;;;;;;x
+duchy_of_french;Colony of;Colonie de;Kolonie von;;Colonia de;;;;;;;;;x
+duchy_of_portuguese;Captaincy of;Province de;Provinz von;;Provincia de;;;;;;;;;x
+county_of_castillan;District of;District de;Distrikt von;;Corregimiento de;;;;;;;;;x
+county_of_dutch;Patroonship of;Comté de;Grafschaft von;;Condado de;;;;;;;;;x
+county_of_english;County of;Comté de;Grafschaft von;;Condado de;;;;;;;;;x
+county_of_french;Parish of;Paroisse de;Parisch von;;Parroquia de;;;;;;;;;x
+barony_of_christian;Fort;Seigneurie de;Hauptmannsgrad von;;Capitanía de;;;;;;;;;x
+city_duchy_of_christian;Proprietary Colony of;République de;Republik von;;República de;;;;;;;;;x
+city_barony_of_christian;Township of;Cité de;Stadt;;Villa de;;;;;;;;;x
+temple_barony_of_christian;Mission of;Mission de;Mission von;;Mission de;;;;;;;;;x
+temple_barony_of_castillan;Mission of;Mission de;Mission von;;Mission de;;;;;;;;;x
+temple_barony_of_kachina;Kiva of;Kiva de;Kiva;;Kiva de;;;;;;;;;x
+emperor_foa_christian;Your Majesty;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+king_foa_christian;Your Excellency;Votre Excellence;Eure Exzellenz;;Su Excelencia;;;;;;;;;x
+duke_foa_christian;Your Excellency;Votre Excellence;Eure Exzellenz;;Su Excelencia;;;;;;;;;x
+count_foa_christian;Your honor;Votre Honneur;Euer Ehren;;Su Honor;;;;;;;;;x
+baron_foa_christian;Your honor;Votre Honneur;Euer Ehren;;Su Honor;;;;;;;;;x
+employ_missionary;Employ Missionary;Présenter une coloniste;Kolonist präsentieren;;Presentar colonisto;;;;;;;;;x
+employ_missionary_desc;Invite a missionary from the homeland join my court and advise me on religious matters.;Invitez une jeune femme issue de la noblesse à participer à un bal.;Eine junge Adlige, die Euch auffiel, gibt ihr Debüt auf einem formellen Ball.;;Una joven noble a la que has echado el ojo debuta en una celebración formal.;;;;;;;;;x
+employ_colonist;Employ Colonist;Présenter une coloniste;Kolonist präsentieren;;Presentar colonisto;;;;;;;;;x
+employ_colonist_desc;Invite a promising colonist to court, to aid with matters of administration.;Invitez une jeune femme issue de la noblesse à participer à un bal.;Eine junge Adlige, die Euch auffiel, gibt ihr Debüt auf einem formellen Ball.;;Una joven noble a la que has echado el ojo debuta en una celebración formal.;;;;;;;;;x
+present_european_debutante;Employ Colonist Woman;Présenter une débutante;Debütantin präsentieren;;Presentar debutante;;;;;;;;;x
+present_european_debutante_desc;A young woman has been brought over from the homeland.;Invitez une jeune femme issue de la noblesse à participer à un bal.;Eine junge Adlige, die Euch auffiel, gibt ihr Debüt auf einem formellen Ball.;;Una joven noble a la que has echado el ojo debuta en una celebración formal.;;;;;;;;;x
+

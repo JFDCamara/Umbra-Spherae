@@ -1,0 +1,15 @@
+# c_menorkenut
+
+# County Title
+title = c_menorkenut
+
+# Settlements
+max_settlements = 1
+
+b_menorkenut = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

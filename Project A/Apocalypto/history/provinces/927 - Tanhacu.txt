@@ -1,0 +1,15 @@
+# c_tanhacu
+
+# County Title
+title = c_tanhacu
+
+# Settlements
+max_settlements = 1
+
+b_tanhacu = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

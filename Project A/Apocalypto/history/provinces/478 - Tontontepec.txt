@@ -1,0 +1,15 @@
+# c_tontontepec
+
+# County Title
+title = c_tontontepec
+
+# Settlements
+max_settlements = 1
+
+b_tontontepec = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

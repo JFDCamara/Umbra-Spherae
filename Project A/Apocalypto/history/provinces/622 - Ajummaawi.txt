@@ -1,0 +1,15 @@
+# c_ajummaawi
+
+# County Title
+title = c_ajummaawi
+
+# Settlements
+max_settlements = 1
+
+b_ajummaawi = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

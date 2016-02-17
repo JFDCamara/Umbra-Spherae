@@ -1,0 +1,15 @@
+# c_sixaola
+
+# County Title
+title = c_sixaola
+
+# Settlements
+max_settlements = 1
+
+b_sixaola = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

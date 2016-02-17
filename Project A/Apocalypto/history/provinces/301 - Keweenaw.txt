@@ -1,0 +1,18 @@
+# c_keweenaw
+
+# County Title
+title = c_keweenaw
+
+# Settlements
+max_settlements = 4
+
+b_keweenaw = castle
+#b_migiziwi = city
+#b_ginoozhegoong = temple
+#b_amik = castle
+
+# Misc
+culture = illinois
+religion = midewiwin
+
+#History

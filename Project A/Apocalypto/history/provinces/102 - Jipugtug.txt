@@ -1,0 +1,15 @@
+# c_jipugtug
+
+# County Title
+title = c_jipugtug
+
+# Settlements
+max_settlements = 1
+
+b_jipugtug = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

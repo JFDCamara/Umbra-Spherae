@@ -1,0 +1,15 @@
+# c_xaragua
+
+# County Title
+title = c_xaragua
+
+# Settlements
+max_settlements = 1
+
+b_xaragua = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

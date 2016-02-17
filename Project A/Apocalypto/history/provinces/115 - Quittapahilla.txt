@@ -1,0 +1,16 @@
+# c_quittapahilla
+
+# County Title
+title = c_quittapahilla
+
+# Settlements
+max_settlements = 2
+
+b_quittapahilla = castle
+#b_minquas = city
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

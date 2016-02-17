@@ -1,0 +1,505 @@
+400000 = {
+	name="Cabanokay"
+	dynasty=1042005
+	religion="mississippian"
+	culture="illinois"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+400001 = {
+	name="Ahmackkoneyaw"
+	dynasty=1042006
+	religion="mississippian"
+	culture="illinois"
+	father=400022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+400002 = {
+	name="Angatoka"
+	dynasty=1042007 
+	religion="mississippian"
+	culture="illinois"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+400003 = {
+	name="Baraboe"
+	dynasty=1042007
+	religion="mississippian"
+	culture="illinois"
+	father=400002 #Angatoka
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+400004 = {
+	name="Goteecoupwow"
+	dynasty=1042009
+	religion="mississippian"
+	culture="illinois"
+	father=400005 #Hibon
+	mother=400029 #Aronzon
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+400005 = {
+	name="Hibon"
+	dynasty=1042009
+	religion="mississippian"
+	culture="illinois"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=400029 #Aronzon
+    }
+
+}
+
+400006 = {
+	name="Joteekoteah"
+	dynasty=1042011
+	religion="mississippian"
+	culture="illinois"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=400030 #Indoshshemuqui
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+400007 = {
+	name="Lagro"
+	dynasty=1042011
+	religion="mississippian"
+	culture="illinois"
+	father=400006 #Joteekoteah
+	mother=400030 #Indoshshemuqui
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+400008 = {
+	name="Mackawtamaunggoaw"
+	dynasty=1042012
+	religion="mississippian"
+	culture="illinois"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+400009 = {
+	name="Ngotaykawpoaw"
+	dynasty=1042002
+	religion="mississippian"
+	culture="illinois"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+400010 = {
+	name="Matautsswauk"
+	dynasty=1042013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="mississippian"
+	culture="illinois"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+400011 = {
+	name="Okawea"
+	dynasty=1042014
+	religion="mississippian"
+	culture="illinois"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+400012 = {
+	name="Pacahn"
+	dynasty=1042015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="mississippian"
+	culture="illinois"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+400013 = {
+	name="Wansepea"
+	dynasty=1042016
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="mississippian"
+	culture="illinois"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+400014 = {
+	name="Sanamahhonga"
+	dynasty=1042017
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="mississippian"
+	culture="illinois"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+400015 = {
+	name="Quawkaumekawtwau"
+	dynasty=1042006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="mississippian"
+	culture="illinois"
+	father=400022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+400016 = {
+	name="Latappant"
+	dynasty=1042011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="mississippian"
+	culture="illinois"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+400017 = {
+	name="Chechauquaw"
+	dynasty=1042004
+	religion="mississippian"
+	culture="illinois"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+400018 = {
+	name="Agothea"
+	dynasty=1042004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="mississippian"
+	culture="illinois"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+400019 = {
+	name="Annawaba"
+	dynasty=1042008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="mississippian"
+	culture="illinois"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+400020 = {
+	name="Keelsonzau"
+	dynasty=1042003
+	religion="mississippian"
+	culture="illinois"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+400021 = {
+	name="Cawkamag"
+	dynasty=1042002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="mississippian"
+	culture="illinois"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+400022 = {
+	name="Nowtaukashinggaw"
+	dynasty=1042006
+	religion="mississippian"
+	culture="illinois"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+400023 = {
+	name="Joquo"
+	female=yes
+	dynasty=1042007	
+	religion="mississippian"
+	culture="illinois"
+	father=400002 #Angatoka
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+400024 = {
+	name="Keenquatakqua"
+	female=yes
+	dynasty=1042011
+	religion="mississippian"
+	culture="illinois"
+	father=400006 #Joteekoteah
+	mother=400030 #Indoshshemuqui
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+400025 = {
+	name="Kakonweconner"
+	dynasty=1042010
+	religion="mississippian"
+	culture="illinois"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+400026 = {
+	name="Tassameenah"
+	female=yes
+	dynasty=1042010
+	religion="mississippian"
+	culture="illinois"
+	father=400025 #Kakonweconner
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+400027 = {
+	name="Piconbequ"
+	female=yes
+	dynasty=1042016	
+	religion="mississippian"
+	culture="illinois"
+	father=400013 #Wansepea
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+400028 = {
+	name="Wanogapata"
+	female=yes
+	dynasty=1042008	
+	religion="mississippian"
+	culture="illinois"
+	father=400019 #Annawaba
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+400029 = {
+	name="Aronzon"
+	female=yes
+	dynasty=1042001	
+	religion="mississippian"
+	culture="illinois"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=400005 #Hibon
+    	}
+}
+
+400030 = {
+	name="Indoshshemuqui"
+	female=yes
+	dynasty=1042017
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="mississippian"
+	culture="illinois"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=400006 #Joteekoteah
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

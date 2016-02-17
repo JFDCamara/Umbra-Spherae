@@ -1,0 +1,15 @@
+# c_yopal
+
+# County Title
+title = c_yopal
+
+# Settlements
+max_settlements = 1
+
+b_yopal = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

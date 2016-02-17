@@ -1,0 +1,15 @@
+# c_ochoco
+
+# County Title
+title = c_ochoco
+
+# Settlements
+max_settlements = 1
+
+b_ochoco = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

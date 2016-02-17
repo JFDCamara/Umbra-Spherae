@@ -1,0 +1,15 @@
+# c_oiapoque
+
+# County Title
+title = c_oiapoque
+
+# Settlements
+max_settlements = 1
+
+b_oiapoque = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

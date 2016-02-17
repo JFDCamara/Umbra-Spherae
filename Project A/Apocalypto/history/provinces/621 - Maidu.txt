@@ -1,0 +1,15 @@
+# c_maidu
+
+# County Title
+title = c_maidu
+
+# Settlements
+max_settlements = 1
+
+b_maidu = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

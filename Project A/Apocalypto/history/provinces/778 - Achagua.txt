@@ -1,0 +1,15 @@
+# c_achagua
+
+# County Title
+title = c_achagua
+
+# Settlements
+max_settlements = 1
+
+b_achagua = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

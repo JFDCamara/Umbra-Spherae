@@ -1,0 +1,15 @@
+# c_avoyel
+
+# County Title
+title = c_avoyel
+
+# Settlements
+max_settlements = 1
+
+b_avoyel = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

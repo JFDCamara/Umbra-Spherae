@@ -1,0 +1,15 @@
+# c_thorstein
+
+# County Title
+title = c_thorstein
+
+# Settlements
+max_settlements = 1
+
+b_thorstein = castle
+
+# Misc
+culture = norwegian
+religion = norse_pagan
+
+#History

@@ -1,0 +1,18 @@
+# c_muskingum
+
+# County Title
+title = c_muskingum
+
+# Settlements
+max_settlements = 4
+
+b_muskingum = castle
+#b_achsinnink = city
+#b_gekelemukpechuenk = temple
+#b_netawatwees  = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

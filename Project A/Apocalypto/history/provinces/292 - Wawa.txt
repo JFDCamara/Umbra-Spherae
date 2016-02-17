@@ -1,0 +1,15 @@
+# c_wawa
+
+# County Title
+title = c_wawa
+
+# Settlements
+max_settlements = 1
+
+b_wawa = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

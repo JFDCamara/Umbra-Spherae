@@ -1,0 +1,15 @@
+# c_concho
+
+# County Title
+title = c_concho
+
+# Settlements
+max_settlements = 1
+
+b_concho = castle
+
+# Misc
+culture = navajo
+religion = kachina
+
+#History

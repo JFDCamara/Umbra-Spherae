@@ -1,0 +1,15 @@
+# c_pukaskwa
+
+# County Title
+title = c_pukaskwa
+
+# Settlements
+max_settlements = 1
+
+b_pukaskwa = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

@@ -1,0 +1,18 @@
+# c_munsi
+
+# County Title
+title = c_munsi
+
+# Settlements
+max_settlements = 4
+
+b_munsi = castle
+#b_daudenosagwanose = city
+#b_sode-ahlowa-nake = temple
+#b_swatara = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

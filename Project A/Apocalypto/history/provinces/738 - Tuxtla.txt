@@ -1,0 +1,15 @@
+# c_tuxtla
+
+# County Title
+title = c_tuxtla
+
+# Settlements
+max_settlements = 1
+
+b_tuxtla = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

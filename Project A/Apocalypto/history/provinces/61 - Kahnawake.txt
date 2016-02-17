@@ -1,0 +1,15 @@
+# c_kahnawake
+
+# County Title
+title = c_kahnawake
+
+# Settlements
+max_settlements = 1
+
+b_kahnawake = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

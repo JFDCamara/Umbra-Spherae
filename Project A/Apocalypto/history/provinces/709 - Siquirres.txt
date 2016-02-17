@@ -1,0 +1,15 @@
+# c_siquirres
+
+# County Title
+title = c_siquirres
+
+# Settlements
+max_settlements = 1
+
+b_siquirres = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

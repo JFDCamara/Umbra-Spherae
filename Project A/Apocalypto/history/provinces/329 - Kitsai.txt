@@ -1,0 +1,15 @@
+# c_kitsai
+
+# County Title
+title = c_kitsai
+
+# Settlements
+max_settlements = 1
+
+b_kitsai = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

@@ -1,0 +1,15 @@
+# c_missinaibi
+
+# County Title
+title = c_missinaibi
+
+# Settlements
+max_settlements = 1
+
+b_missinaibi = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

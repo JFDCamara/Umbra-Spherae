@@ -1,0 +1,15 @@
+# c_maracay
+
+# County Title
+title = c_maracay
+
+# Settlements
+max_settlements = 1
+
+b_maracay = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

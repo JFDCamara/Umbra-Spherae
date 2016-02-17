@@ -1,0 +1,15 @@
+# c_taeba
+
+# County Title
+title = c_taeba
+
+# Settlements
+max_settlements = 1
+
+b_taeba = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

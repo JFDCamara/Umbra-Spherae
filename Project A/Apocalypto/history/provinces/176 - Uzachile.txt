@@ -1,0 +1,15 @@
+# c_uzachile
+
+# County Title
+title = c_uzachile
+
+# Settlements
+max_settlements = 1
+
+b_uzachile = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

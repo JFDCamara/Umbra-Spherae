@@ -1,0 +1,15 @@
+# c_waskaganish
+
+# County Title
+title = c_waskaganish
+
+# Settlements
+max_settlements = 1
+
+b_waskaganish = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

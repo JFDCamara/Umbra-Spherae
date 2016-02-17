@@ -1,0 +1,15 @@
+# c_maquoketa
+
+# County Title
+title = c_maquoketa
+
+# Settlements
+max_settlements = 1
+
+b_maquoketa = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

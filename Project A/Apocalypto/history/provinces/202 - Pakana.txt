@@ -1,0 +1,17 @@
+# c_pakana
+
+# County Title
+title = c_pakana
+
+# Settlements
+max_settlements = 3
+
+b_pakana = castle
+#b_chacato = city
+#b_tukabatchee = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

@@ -1,0 +1,17 @@
+# c_negwegon
+
+# County Title
+title = c_negwegon
+
+# Settlements
+max_settlements = 3
+
+b_negwegon = castle
+#b_oscoda = city
+#b_ogema = temple
+
+# Misc
+culture = illinois
+religion = gagohsa
+
+#History

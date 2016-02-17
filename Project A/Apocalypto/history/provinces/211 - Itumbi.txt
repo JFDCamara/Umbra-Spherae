@@ -1,0 +1,18 @@
+# c_itumbi
+
+# County Title
+title = c_itumbi
+
+# Settlements
+max_settlements = 4
+
+b_itumbi = castle
+b_nanih_waiya = temple
+#b_escooba = temple
+#b_oony = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

@@ -1,0 +1,15 @@
+# c_sipaliwini
+
+# County Title
+title = c_sipaliwini
+
+# Settlements
+max_settlements = 1
+
+b_sipaliwini = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

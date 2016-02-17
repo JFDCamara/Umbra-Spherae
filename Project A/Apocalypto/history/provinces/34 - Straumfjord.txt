@@ -1,0 +1,15 @@
+# c_straumfjord
+
+# County Title
+title = c_straumfjord
+
+# Settlements
+max_settlements = 1
+
+b_straumfjord = castle
+
+# Misc
+culture = norwegian
+religion = norse_pagan
+
+#History

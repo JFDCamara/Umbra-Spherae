@@ -1,0 +1,15 @@
+# c_aguanish
+
+# County Title
+title = c_aguanish
+
+# Settlements
+max_settlements = 1
+
+b_aguanish = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

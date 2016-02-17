@@ -1,0 +1,15 @@
+# c_calusa
+
+# County Title
+title = c_calusa
+
+# Settlements
+max_settlements = 1
+
+b_calusa = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

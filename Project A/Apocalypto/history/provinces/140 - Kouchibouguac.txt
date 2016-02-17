@@ -1,0 +1,15 @@
+# c_kouchibouguac
+
+# County Title
+title = c_kouchibouguac
+
+# Settlements
+max_settlements = 1
+
+b_kouchibouguac = castle
+
+# Misc
+culture = algonquin
+religion = midewiwin
+
+#History

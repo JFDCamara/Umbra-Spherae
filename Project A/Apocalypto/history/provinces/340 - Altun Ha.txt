@@ -1,0 +1,19 @@
+# c_altun_ha
+
+# County Title
+title = c_altun_ha
+
+# Settlements
+max_settlements = 5
+
+b_altun_ha = castle
+b_colha = temple
+b_moho = city
+b_lamanai = castle
+#b_noh-mul = city
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

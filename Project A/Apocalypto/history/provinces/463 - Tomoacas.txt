@@ -1,0 +1,15 @@
+# c_tomoacas
+
+# County Title
+title = c_tomoacas
+
+# Settlements
+max_settlements = 1
+
+b_tomoacas = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

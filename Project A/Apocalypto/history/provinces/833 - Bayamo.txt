@@ -1,0 +1,15 @@
+# c_bayamo
+
+# County Title
+title = c_bayamo
+
+# Settlements
+max_settlements = 1
+
+b_bayamo = castle
+
+# Misc
+culture = taino
+religion = zemi
+
+#History

@@ -1,0 +1,15 @@
+# c_quapaw
+
+# County Title
+title = c_quapaw
+
+# Settlements
+max_settlements = 1
+
+b_quapaw = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

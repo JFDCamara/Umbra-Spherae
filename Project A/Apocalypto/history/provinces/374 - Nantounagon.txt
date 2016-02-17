@@ -1,0 +1,15 @@
+# c_nantounagon
+
+# County Title
+title = c_nantounagon
+
+# Settlements
+max_settlements = 1
+
+b_nantounagon = castle
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

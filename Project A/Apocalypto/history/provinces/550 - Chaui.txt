@@ -1,0 +1,15 @@
+# c_chaui
+
+# County Title
+title = c_chaui
+
+# Settlements
+max_settlements = 1
+
+b_chaui = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

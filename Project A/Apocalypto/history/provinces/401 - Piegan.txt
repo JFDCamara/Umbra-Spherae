@@ -1,0 +1,15 @@
+# c_piegan
+
+# County Title
+title = c_piegan
+
+# Settlements
+max_settlements = 1
+
+b_piegan = castle
+
+# Misc
+culture = salish
+religion = numa
+
+#History

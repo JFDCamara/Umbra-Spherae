@@ -1,0 +1,15 @@
+# c_quatsino
+
+# County Title
+title = c_quatsino
+
+# Settlements
+max_settlements = 1
+
+b_quatsino = castle
+
+# Misc
+culture = salish
+religion = shikla
+
+#History

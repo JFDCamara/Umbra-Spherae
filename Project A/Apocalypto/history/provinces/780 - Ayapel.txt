@@ -1,0 +1,15 @@
+# c_ayapel
+
+# County Title
+title = c_ayapel
+
+# Settlements
+max_settlements = 1
+
+b_ayapel = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

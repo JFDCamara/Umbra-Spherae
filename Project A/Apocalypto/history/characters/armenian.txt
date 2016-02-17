@@ -1,0 +1,37 @@
+41518 = {
+	name="Mara"
+	female = yes
+	dynasty=507
+	martial=8
+	diplomacy=4
+	intrigue=10
+	stewardship=8
+	religion="orthodox"
+	culture="armenian"
+	add_trait="elusive_shadow"
+	father=41521
+	1027.1.1={
+		birth="1027.1.1"
+	}
+	1092.1.1={
+		death="1092.1.1"
+	}
+}
+
+41521 = {
+	name="Ashot"
+	dynasty=507
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="armenian"
+#	father=41519
+	997.1.1={
+		birth="997.1.1"
+	}
+	1041.9.1={
+		death="1041.9.1"
+	}
+}

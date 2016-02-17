@@ -1,0 +1,15 @@
+# c_auake
+
+# County Title
+title = c_auake
+
+# Settlements
+max_settlements = 1
+
+b_auake = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

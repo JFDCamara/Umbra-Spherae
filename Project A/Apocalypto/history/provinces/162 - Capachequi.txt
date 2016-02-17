@@ -1,0 +1,15 @@
+# c_capachequi
+
+# County Title
+title = c_capachequi
+
+# Settlements
+max_settlements = 1
+
+b_capachequi = castle
+
+# Misc
+culture = timucua
+religion = mississippian
+
+#History

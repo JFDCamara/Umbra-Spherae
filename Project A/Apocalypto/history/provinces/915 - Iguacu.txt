@@ -1,0 +1,15 @@
+# c_iguacu
+
+# County Title
+title = c_iguacu
+
+# Settlements
+max_settlements = 1
+
+b_iguacu = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

@@ -1,0 +1,15 @@
+# c_churuguara
+
+# County Title
+title = c_churuguara
+
+# Settlements
+max_settlements = 1
+
+b_churuguara = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

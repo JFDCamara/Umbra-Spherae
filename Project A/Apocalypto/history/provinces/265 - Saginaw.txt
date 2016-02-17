@@ -1,0 +1,17 @@
+# c_saginaw
+
+# County Title
+title = c_saginaw
+
+# Settlements
+max_settlements = 3
+
+b_saginaw = castle
+#b_genesee  = city
+#b_arenac = temple
+
+# Misc
+culture = illinois
+religion = gagohsa
+
+#History

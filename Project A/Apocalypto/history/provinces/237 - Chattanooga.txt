@@ -1,0 +1,19 @@
+# c_chattanooga
+
+# County Title
+title = c_chattanooga
+
+# Settlements
+max_settlements = 5
+
+b_chattanooga = castle
+b_oga’na = temple
+#b_duksa’i = temple
+#b_daguno’hi = castle
+#b_elawo’diyi = city
+
+# Misc
+culture = cherokee
+religion = mississippian
+
+#History

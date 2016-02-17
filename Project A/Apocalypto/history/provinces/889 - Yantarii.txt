@@ -1,0 +1,15 @@
+# c_yantarii
+
+# County Title
+title = c_yantarii
+
+# Settlements
+max_settlements = 1
+
+b_yantarii = castle
+
+# Misc
+culture = shoshone
+religion = numa
+
+#History

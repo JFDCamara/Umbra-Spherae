@@ -1,0 +1,15 @@
+# c_marahuaca
+
+# County Title
+title = c_marahuaca
+
+# Settlements
+max_settlements = 1
+
+b_marahuaca = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

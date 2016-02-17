@@ -1,0 +1,15 @@
+# c_sheshatshiu
+
+# County Title
+title = c_sheshatshiu
+
+# Settlements
+max_settlements = 1
+
+b_sheshatshiu = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

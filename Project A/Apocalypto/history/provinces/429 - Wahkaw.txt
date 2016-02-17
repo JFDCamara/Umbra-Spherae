@@ -1,0 +1,15 @@
+# c_wahkaw
+
+# County Title
+title = c_wahkaw
+
+# Settlements
+max_settlements = 1
+
+b_wahkaw = castle
+
+# Misc
+culture = sioux
+religion = animist
+
+#History

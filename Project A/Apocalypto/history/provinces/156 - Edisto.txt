@@ -1,0 +1,17 @@
+# c_edisto
+
+# County Title
+title = c_edisto
+
+# Settlements
+max_settlements = 3
+
+b_edisto = castle
+#b_suwaii = city
+#b_yadkin = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

@@ -1,0 +1,15 @@
+# c_koroa
+
+# County Title
+title = c_koroa
+
+# Settlements
+max_settlements = 1
+
+b_koroa = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

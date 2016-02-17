@@ -1,0 +1,15 @@
+# c_walla_walla
+
+# County Title
+title = c_walla_walla
+
+# Settlements
+max_settlements = 1
+
+b_walla_walla = castle
+
+# Misc
+culture = salish
+religion = numa
+
+#History

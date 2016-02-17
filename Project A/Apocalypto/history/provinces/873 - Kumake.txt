@@ -1,0 +1,15 @@
+# c_kumake
+
+# County Title
+title = c_kumake
+
+# Settlements
+max_settlements = 1
+
+b_kumake = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

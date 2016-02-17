@@ -1,0 +1,17 @@
+# c_coweta
+
+# County Title
+title = c_coweta
+
+# Settlements
+max_settlements = 3
+
+b_coweta = castle
+#b_chattahoochee = city
+#b_ocowocuhhatche = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

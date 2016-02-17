@@ -1,0 +1,15 @@
+# c_tlapan
+
+# County Title
+title = c_tlapan
+
+# Settlements
+max_settlements = 1
+
+b_tlapan = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

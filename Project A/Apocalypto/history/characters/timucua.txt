@@ -1,0 +1,505 @@
+720000 = {
+	name="Amiro"
+	dynasty=1052005
+	religion="mississippian"
+	culture="timucua"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+720001 = {
+	name="Atimucu"
+	dynasty=1052006
+	religion="mississippian"
+	culture="timucua"
+	father=720022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+720002 = {
+	name="Biro"
+	dynasty=1052007 
+	religion="mississippian"
+	culture="timucua"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+720003 = {
+	name="Chulusi"
+	dynasty=1052007
+	religion="mississippian"
+	culture="timucua"
+	father=720002 #Biro
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+720004 = {
+	name="Efa"
+	dynasty=1052009
+	religion="mississippian"
+	culture="timucua"
+	father=720005 #Eyolehecote
+	mother=720029 #Yucha
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+720005 = {
+	name="Eyolehecote"
+	dynasty=1052009
+	religion="mississippian"
+	culture="timucua"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=720029 #Yucha
+    }
+
+}
+
+720006 = {
+	name="Hapu"
+	dynasty=1052011
+	religion="mississippian"
+	culture="timucua"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=720030 #Ibine
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+720007 = {
+	name="Michu"
+	dynasty=1052011
+	religion="mississippian"
+	culture="timucua"
+	father=720006 #Hapu
+	mother=720030 #Ibine
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+720008 = {
+	name="Noronoromota"
+	dynasty=1052012
+	religion="mississippian"
+	culture="timucua"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+720009 = {
+	name="Ocho"
+	dynasty=1052002
+	religion="mississippian"
+	culture="timucua"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+720010 = {
+	name="Quana"
+	dynasty=1052013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="mississippian"
+	culture="timucua"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+720011 = {
+	name="Taca"
+	dynasty=1052014
+	religion="mississippian"
+	culture="timucua"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+720012 = {
+	name="Ucunu"
+	dynasty=1052015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="mississippian"
+	culture="timucua"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+720013 = {
+	name="Yaha"
+	dynasty=1052001
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="mississippian"
+	culture="timucua"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+720014 = {
+	name="Yaruru"
+	dynasty=1052003
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="mississippian"
+	culture="timucua"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+720015 = {
+	name="Yobo"
+	dynasty=1052006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="mississippian"
+	culture="timucua"
+	father=720022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+720016 = {
+	name="Amiro"
+	dynasty=1052011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="mississippian"
+	culture="timucua"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+720017 = {
+	name="Atimucu"
+	dynasty=1052004
+	religion="mississippian"
+	culture="timucua"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+720018 = {
+	name="Michu"
+	dynasty=1052004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="mississippian"
+	culture="timucua"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+720019 = {
+	name="Taca"
+	dynasty=1052008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="mississippian"
+	culture="timucua"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+720020 = {
+	name="Quana"
+	dynasty=1052003
+	religion="mississippian"
+	culture="timucua"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+720021 = {
+	name="Ocho"
+	dynasty=1052002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="mississippian"
+	culture="timucua"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+720022 = {
+	name="Yaha"
+	dynasty=1052006
+	religion="mississippian"
+	culture="timucua"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+720023 = {
+	name="Acu"
+	female=yes
+	dynasty=1052007	
+	religion="mississippian"
+	culture="timucua"
+	father=720002 #Biro
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+720024 = {
+	name="Bequestela"
+	female=yes
+	dynasty=1052011
+	religion="mississippian"
+	culture="timucua"
+	father=720006 #Hapu
+	mother=720030 #Ibine
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+720025 = {
+	name="Efa"
+	dynasty=1052010
+	religion="mississippian"
+	culture="timucua"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+720026 = {
+	name="Nipita"
+	female=yes
+	dynasty=1052010
+	religion="mississippian"
+	culture="timucua"
+	father=720025 #Efa
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+720027 = {
+	name="Pesolo"
+	female=yes
+	dynasty=1052001	
+	religion="mississippian"
+	culture="timucua"
+	father=720013 #Yaha
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+720028 = {
+	name="Tulu"
+	female=yes
+	dynasty=1052008	
+	religion="mississippian"
+	culture="timucua"
+	father=720019 #Taca
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+720029 = {
+	name="Yucha"
+	female=yes
+	dynasty=1052001	
+	religion="mississippian"
+	culture="timucua"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=720005 #Eyolehecote
+    	}
+}
+
+720030 = {
+	name="Ibine"
+	female=yes
+	dynasty=1052014
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="mississippian"
+	culture="timucua"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=720006 #Hapu
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

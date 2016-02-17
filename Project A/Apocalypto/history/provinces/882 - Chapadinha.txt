@@ -1,0 +1,15 @@
+# c_chapadinha
+
+# County Title
+title = c_chapadinha
+
+# Settlements
+max_settlements = 1
+
+b_chapadinha = castle
+
+# Misc
+culture = tupi
+religion = tupa
+
+#History

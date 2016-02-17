@@ -1,0 +1,15 @@
+# c_atikaki
+
+# County Title
+title = c_atikaki
+
+# Settlements
+max_settlements = 1
+
+b_atikaki = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

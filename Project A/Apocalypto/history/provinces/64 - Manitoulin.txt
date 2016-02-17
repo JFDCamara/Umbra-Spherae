@@ -1,0 +1,15 @@
+# c_manitoulin
+
+# County Title
+title = c_manitoulin
+
+# Settlements
+max_settlements = 1
+
+b_manitoulin = castle
+
+# Misc
+culture = iroquois
+religion = gagohsa
+
+#History

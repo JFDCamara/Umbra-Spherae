@@ -1,0 +1,15 @@
+# c_ambato
+
+# County Title
+title = c_ambato
+
+# Settlements
+max_settlements = 1
+
+b_ambato = castle
+
+# Misc
+culture = quechua
+religion = inca
+
+#History

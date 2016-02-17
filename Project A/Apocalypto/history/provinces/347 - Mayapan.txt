@@ -1,0 +1,21 @@
+# c_mayapan
+
+# County Title
+title = c_mayapan
+
+# Settlements
+max_settlements = 7
+
+b_mayapan = castle
+b_kabah = city
+b_sayil = temple
+b_ticul = castle
+b_mani = city
+#b_acanceh = temple
+#b_ake = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

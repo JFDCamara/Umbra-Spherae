@@ -1,0 +1,16 @@
+# c_oshkosh
+
+# County Title
+title = c_oshkosh
+
+# Settlements
+max_settlements = 2
+
+b_oshkosh = castle
+#b_chonakera = city
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History

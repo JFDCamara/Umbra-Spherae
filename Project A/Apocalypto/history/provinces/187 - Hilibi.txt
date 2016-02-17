@@ -1,0 +1,17 @@
+# c_hilibi
+
+# County Title
+title = c_hilibi
+
+# Settlements
+max_settlements = 3
+
+b_hilibi = castle
+#b_iswa = city
+#b_anitagua = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

@@ -1,0 +1,15 @@
+# c_catacamas
+
+# County Title
+title = c_catacamas
+
+# Settlements
+max_settlements = 1
+
+b_catacamas = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

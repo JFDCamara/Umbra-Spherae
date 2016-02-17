@@ -1,0 +1,15 @@
+# c_waubun
+
+# County Title
+title = c_waubun
+
+# Settlements
+max_settlements = 1
+
+b_waubun = castle
+
+# Misc
+culture = cree
+religion = midewiwin
+
+#History

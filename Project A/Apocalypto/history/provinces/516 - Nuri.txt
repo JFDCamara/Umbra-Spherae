@@ -1,0 +1,15 @@
+# c_nuri
+
+# County Title
+title = c_nuri
+
+# Settlements
+max_settlements = 1
+
+b_nuri = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

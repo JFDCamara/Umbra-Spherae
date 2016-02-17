@@ -1,0 +1,17 @@
+# c_mackinac
+
+# County Title
+title = c_mackinac
+
+# Settlements
+max_settlements = 3
+
+b_mackinac = castle
+#b_giiwetaaonaning = city
+#b_amaazising = temple
+
+# Misc
+culture = illinois
+religion = midewiwin
+
+#History

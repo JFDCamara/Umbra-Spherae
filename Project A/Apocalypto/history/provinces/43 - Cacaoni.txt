@@ -1,0 +1,15 @@
+# c_cacaoni
+
+# County Title
+title = c_cacaoni
+
+# Settlements
+max_settlements = 1
+
+b_cacaoni = castle
+
+# Misc
+culture = innu
+religion = midewiwin
+
+#History

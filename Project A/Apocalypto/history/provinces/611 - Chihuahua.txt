@@ -1,0 +1,15 @@
+# c_chihuahua
+
+# County Title
+title = c_chihuahua
+
+# Settlements
+max_settlements = 1
+
+b_chihuahua = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+#History

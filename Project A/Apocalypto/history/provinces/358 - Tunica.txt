@@ -1,0 +1,15 @@
+# c_tunica
+
+# County Title
+title = c_tunica
+
+# Settlements
+max_settlements = 1
+
+b_tunica = castle
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

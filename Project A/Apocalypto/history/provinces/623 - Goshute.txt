@@ -1,0 +1,15 @@
+# c_goshute
+
+# County Title
+title = c_goshute
+
+# Settlements
+max_settlements = 1
+
+b_goshute = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

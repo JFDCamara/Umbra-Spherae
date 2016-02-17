@@ -1,0 +1,16 @@
+# c_negaunee
+
+# County Title
+title = c_negaunee
+
+# Settlements
+max_settlements = 2
+
+b_negaunee = castle
+#b_wewendjisek = city
+
+# Misc
+culture = illinois
+religion = midewiwin
+
+#History

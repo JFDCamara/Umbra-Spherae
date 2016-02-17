@@ -1,0 +1,17 @@
+# c_bilocci
+
+# County Title
+title = c_bilocci
+
+# Settlements
+max_settlements = 3
+
+b_bilocci = castle
+#b_bissasha = city
+#b_olitassa = temple
+
+# Misc
+culture = muscogee
+religion = mississippian
+
+#History

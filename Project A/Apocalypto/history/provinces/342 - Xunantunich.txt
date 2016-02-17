@@ -1,0 +1,18 @@
+# c_xunantunich
+
+# County Title
+title = c_xunantunich
+
+# Settlements
+max_settlements = 4
+
+b_xunantunich_b) = castle
+b_naj_tunich = city
+b_dangriga = temple
+#b_belmopan = castle
+
+# Misc
+culture = maya
+religion = itzamna
+
+#History

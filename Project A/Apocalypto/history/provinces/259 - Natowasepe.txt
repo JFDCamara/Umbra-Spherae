@@ -1,0 +1,16 @@
+# c_natowasepe
+
+# County Title
+title = c_natowasepe
+
+# Settlements
+max_settlements = 2
+
+b_natowasepe = castle
+#b_nottawa  = city
+
+# Misc
+culture = illinois
+religion = gagohsa
+
+#History

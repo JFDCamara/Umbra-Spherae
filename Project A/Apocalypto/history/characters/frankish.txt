@@ -1,0 +1,1266 @@
+201 = {
+	name="Robert" #Jerus
+	dynasty=308
+	dna="danvmyombcz"
+	properties="0c0e0k00000"
+	health=9
+	religion="catholic"
+	culture="frankish"
+	add_trait="skilled_tactician"
+	add_trait="crusader"
+	1042.1.2={
+		birth="1042.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+202 = {
+	name="Foulques" #anjou
+	dynasty=81
+	dna="jdwpezrdgcu"
+	properties="cd0c0d00000"
+	health=9
+	religion="semipelagian"
+	culture="frankish"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+203 = {
+	name="Guillaume" #berry
+	dynasty=1100104
+	dna="jxbctqeohcs"
+	properties="ehog0k00000"
+	health=9
+	religion="semipelagian"
+	culture="frankish"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+204 = {
+	name="Gauthier" #orleans
+	dynasty=100138
+	dna="xyyyhrktlwq"
+	properties="cb0egd00000"
+	health=9
+	religion="catholic"
+	culture="frankish"
+	1041.1.2={
+		birth="1041.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+205 = {
+	name="Robert" #neustrcap
+	dynasty=743
+	dna="ksqydhfgbcz"
+	properties="aeaadb00000"
+	health=9
+	religion="semipelagian"
+	culture="frankish"
+	add_trait="hist_capet"
+	1042.1.2={
+		birth="1042.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+206 = {
+	name="Adhémar" #bourblamarche
+	dynasty=100145
+	dna="suyzujeifkf"
+	properties="0i0c0d00000"
+	health=9
+	religion="catholic"
+	culture="occitan"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+207 = {
+	name="Arias" #aqui
+	dynasty=740
+	dna="afbfemgbbcq"
+	properties="cc0ehd00000"
+	health=9
+	religion="arian"
+	culture="romanogothic"
+	1041.1.2={
+		birth="1041.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+208 = {
+	name="Laurentius" #arles
+	dynasty=1100105
+	dna="bwwpsdigkag"
+	properties="aa0aaa00000"
+	health=9
+	religion="arian"
+	culture="roman"
+	add_trait="hist_verus"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+209 = {
+	name="Thierry" #dburg
+	dynasty=741
+	dna="gxrenvjpykl"
+	properties="cd0c0d00000"
+	health=9
+	religion="catholic"
+	culture="frankish"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+210 = {
+	name="Clotaire" #framerov
+	dynasty=1100106
+	dna="behlksaukfz"
+	properties="ahwr0a00000"
+	health=9
+	religion="unctionist"
+	culture="frankish"
+	add_trait="hist_merovingian"
+	1042.1.2={
+		birth="1042.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+211 = {
+	name="Aymar" #champag
+	dynasty=301
+	dna="ahkcruwqhkl"
+	properties="cl0e0d00000"
+	health=9
+	religion="unctionist"
+	culture="frankish"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+212 = {
+	name="Henri" #valois
+	dynasty=101
+	dna="cmihxlqkrnk"
+	properties="cmhd0d00000"
+	health=9
+	religion="unctionist"
+	culture="frankish"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+213 = {
+	name="Gozewijn" #flandr
+	dynasty=1100107
+	dna="omtyctqkgcq"
+	properties="0chead00000"
+	health=9
+	religion="pelagian"
+	culture="dutch"
+	1044.1.2={
+		birth="1044.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+214 = {
+	name="Raimon" #toul
+	dynasty=727
+	dna="cabmeelifbj"
+	properties="cd0edd00000"
+	health=9
+	religion="cathar"
+	culture="occitan"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+215 = {
+	name="Walaric" #burgking
+	dynasty=377
+	dna="bpjpvjhhgcn"
+	properties="agi0ec00000"
+	health=9
+	religion="catholic"
+	culture="burgundian"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+216 = {
+	name="Karl Albrecht" #hre
+	dynasty=25061
+	dna="mddlfocggce"
+	properties="0d00a000000"
+	health=9
+	religion="catholic"
+	culture="german"
+	add_trait="brilliant_strategist"
+	add_trait="hist_karling"
+	add_trait="ambitious"
+	add_trait="diligent"
+	add_trait="brave"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+217 = {
+	name="Adolf" #tirol
+	dynasty=1100108
+	dna="rgbpjnmggcu"
+	properties="ca0e0d00000"
+	health=9
+	religion="antinomian"
+	culture="bavarian"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+218 = {
+	name="Wolfram" #badenwsb
+	dynasty=1100109
+	dna="ktreblclgcd"
+	properties="gjuc0d00000"
+	health=9
+	religion="allfather"
+	culture="teutonic"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+219 = {
+	name="Laudus" #lyon
+	dynasty=1100110
+	dna="bluuizwjgco"
+	properties="ec0d0d00000"
+	health=9
+	religion="sol_christ"
+	culture="burgundian"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+220 = {
+	name="Pieter" #brabant
+	dynasty=307
+	dna="zrbyckjmgci"
+	properties="0i0ebd00000"
+	health=9
+	religion="catholic"
+	culture="dutch"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+221 = {
+	name="Wolfard" #holland
+	dynasty=432
+	dna="wcfklgeegcv"
+	properties="0d0edd00000"
+	health=9
+	religion="allfather"
+	culture="frisian"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+222 = {
+	name="Arnulf" #frisia
+	dynasty=1100111
+	dna="pjkwmmijscb"
+	properties="aj00cc00000"
+	health=9
+	religion="allfather"
+	culture="frisian"
+	1044.1.2={
+		birth="1044.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+223 = {
+	name="Heinrich" #nordmark
+	dynasty=651
+	dna="fanfuqdebcu"
+	properties="cdqsdd00000"
+	health=9
+	religion="catholic"
+	culture="german"
+	1044.1.2={
+		birth="1044.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+224 = {
+	name="Isebrecht" #saxons
+	dynasty=1100112
+	dna="immkjrehgcc"
+	properties="gjqcfd00000"
+	health=9
+	religion="irminsul"
+	culture="teutonic"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+225 = {
+	name="Wihtred" #thuringia
+	dynasty=1100113
+	dna="hfttkomzgce"
+	properties="ca0cad00000"
+	health=9
+	religion="allfather"
+	culture="teutonic"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+226 = {
+	name="Teutgaud" #franco
+	dynasty=1100114
+	dna="gmloakqzrto"
+	properties="cibdad00000"
+	health=9
+	religion="teiwaz"
+	culture="teutonic"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+227 = {
+	name="Isenhart" #schw
+	dynasty=1100115
+	dna="rtekymlvzxi"
+	properties="td0dcd00000"
+	health=9
+	religion="german_pagan"
+	culture="teutonic"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+228 = {
+	name="Gotthard" #lothar
+	dynasty=1100206
+	dna="lanfkndggnl"
+	properties="0j00a00000"
+	health=9
+	religion="antinomian"
+	culture="german"
+	add_trait="hist_karling"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+229 = {
+	name="Herbert" #alsace
+	dynasty=428
+	dna="usqfbwdabbs"
+	properties="cjmd0d00000"
+	health=9
+	religion="antinomian"
+	culture="german"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+230 = {
+	name="Engelbrecht" #upperlor
+	dynasty=100127
+	dna="mhrcqsaazwv"
+	properties="gi0hch00000"
+	health=9
+	religion="antinomian"
+	culture="german"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+231 = {
+	name="Manfred" #lowerlor
+	dynasty=7145
+	dna="tjldhdetlco"
+	properties="ca0c0d00000"
+	health=9
+	religion="antinomian"
+	culture="german"
+	1044.1.2={
+		birth="1044.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+232 = {
+	name="Karl" #austrasia
+	dynasty=1100207
+	dna="dedjlqozfcz"
+	properties="ai0baa00000`"
+	health=9
+	religion="catholic"
+	culture="german"
+	add_trait="hist_karling"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+233 = {
+	name="Konrad" #luxemb
+	dynasty=420
+	dna="gryzixnzgce"
+	properties="ch0d0d00000"
+	health=9
+	religion="catholic"
+	culture="german"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+234 = {
+	name="Aquilinus" #poitou
+	dynasty=1100384
+	dna="uxajkhiwfoj"
+	properties="ci0h0e00000"
+	health=9
+	religion="semipelagian"
+	culture="galloroman"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+235 = {
+	name="Odericus" #septima
+	dynasty=1100116
+	dna="iyszuctsiex"
+	properties="cm0f0f00000"
+	health=9
+	religion="cathar"
+	culture="romanogothic"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+236 = {
+	name="Lucentius" #savoi
+	dynasty=1100117
+	dna="wxdkkqmoxbv"
+	properties="cc0chd00000"
+	health=9
+	religion="sol_christ"
+	culture="romanogothic"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+237 = {
+	name="Marcus" #genoa
+	dynasty=1100118
+	dna="mkflcdfvxbk"
+	properties="cgkshd00000"
+	health=9
+	religion="mithra_christ"
+	culture="roman"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+238 = {
+	name="Agelmund" #lombardia
+	dynasty=1100119
+	dna="ohchjhyqlja"
+	properties="ch0ebd00000"
+	health=9
+	religion="catholic"
+	culture="lombard"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+239 = {
+	name="Ordulf" #bavaria
+	dynasty=1100120
+	dna="zzcbcdqzgcx"
+	properties="ejng0h00000"
+	health=9
+	religion="mani_germanic"
+	culture="bavarian"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+240 = {
+	name="Mjecislaw" #sorbs
+	dynasty=1100121
+	dna="ekdzkxsomcc"
+	properties="cj0hck00000"
+	health=9
+	religion="dazhbog"
+	culture="sorbian"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+241 = {
+	name="Dobieslaw" #pomeran
+	dynasty=1100122
+	dna="grmjzumetch"
+	properties="gb0ead00000"
+	health=9
+	religion="slavic_pagan"
+	culture="pommeranian"
+	add_trait = "hist_warcislaw"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+242 = {
+	name="Wizlaw" #polab
+	dynasty=1100123
+	dna="osvlkpjbgep"
+	properties="ce0dad00000"
+	health=9
+	religion="svaroh"
+	culture="polabian"
+	1044.1.2={
+		birth="1044.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+243 = {
+	name="Ordulf" #osterreic
+	dynasty=1100124
+	dna="icsnxbmabcv"
+	properties="cjgc0d00000"
+	health=9
+	religion="mani"
+	culture="bavarian"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+244 = {
+	name="Petronius" #auverg
+	dynasty=1100385
+	dna="begqubmzzso"
+	properties="0m0sad00000"
+	health=9
+	religion="catholic"
+	culture="galloroman"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+245 = {
+	name="Chindasuinth" #gascogn
+	dynasty=1100125
+	dna="ewtgrmiidcw"
+	properties="cbsebd00000"
+	health=9
+	religion="arian"
+	culture="visigothic"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+246 = {
+	name="Kolli" #estnarva
+	dynasty=1100126
+	dna="zpafpmceqcy"
+	properties="gdscbd00000"
+	health=9
+	religion="jumala"
+	culture="finnish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+247 = {
+	name="Giemund" #leti
+	dynasty=1100127
+	dna="lkfioceasch"
+	properties="cj0eed00000"
+	health=9
+	religion="saule"
+	culture="lettigallish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+248 = {
+	name="Gauronas" #pruthen
+	dynasty=1100128
+	dna="ukgpjqkobhp"
+	properties="tecced00000"
+	health=9
+	religion="peckols"
+	culture="prussian"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+249 = {
+	name="Ringaudas" #zemga
+	dynasty=1100129
+	dna="urpjxrpbzcy"
+	properties="tj0cad00000"
+	health=9
+	religion="saule"
+	culture="lettigallish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+250 = {
+	name="Mendune" #samogitia
+	dynasty=1100130
+	dna="nrgwzqwubch"
+	properties="cb0ccd00000"
+	health=9
+	religion="perkunas"
+	culture="lettigallish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+251 = {
+	name="Arelis" #yatvi
+	dynasty=1100131
+	dna="leznqcxmbcl"
+	properties="gjodbd00000"
+	health=9
+	religion="perkunas"
+	culture="prussian"
+	1044.1.2={
+		birth="1044.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+252 = {
+	name="Gediminas" #lithua
+	dynasty=1100132
+	dna="cguehyulkcf"
+	properties="gdlccd00000"
+	health=9
+	religion="dievas"
+	culture="lithuanian"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+253 = {
+	name="Kaleva" #kexsav
+	dynasty=1207
+	dna="nunizguegci"
+	properties="cj0cdd00000"
+	health=9
+	religion="ilmatar"
+	culture="finnish"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+254 = {
+	name="Väinö" #tavast
+	dynasty=1100133
+	dna="mttxfdlzgcg"
+	properties="ch0edd00000"
+	health=9
+	religion="ilmatar"
+	culture="finnish"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+255 = {
+	name="Satajalka" #satak
+	dynasty=1205
+	dna="jtlbuyycgho"
+	properties="tj0ebd00000"
+	health=9
+	religion="ilmatar"
+	culture="finnish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+256 = {
+	name="Aimo" #karelia
+	dynasty=1206
+	dna="twpccqkunfn"
+	properties="ciocgd00000"
+	health=9
+	religion="finnish_pagan"
+	culture="finnish"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+257 = {
+	name="Áigesárri" #kola
+	dynasty=1203
+	dna="awfxypbpvip"
+	properties="cj0gah00000"
+	health=9
+	religion="finnish_pagan"
+	culture="lappish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+258 = {
+	name="Algebaeivi" #kajanebo
+	dynasty=100383
+	dna="qsvowbkagcf"
+	properties="cm0cad00000"
+	health=9
+	religion="finnish_pagan"
+	culture="finnish"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+259 = {
+	name="Harald" #jutland
+	dynasty=487
+	dna="aglkkxidgcm"
+	properties="0m0dad00000"
+	health=9
+	religion="catholic"
+	culture="danish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+260 = {
+	name="Svend" #denmark
+	dynasty=490
+	dna="agfialgcgcz"
+	properties="ad0aaa00000"
+	health=9
+	religion="norse_pagan"
+	culture="danish"
+	add_trait="hist_sweyn"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+261 = {
+	name="Sigbjörn" #joms
+	dynasty=1100134
+	dna="stvofuligci"
+	properties="ae0rbc00000"
+	health=9
+	religion="norse_war"
+	culture="swedish"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+262 = {
+	name="Domawuj" #silesia
+	dynasty=10111
+	dna="jzxexisgyne"
+	properties="0j0egd00000"
+	health=9
+	religion="rod"
+	culture="polish"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+263 = {
+	name="Krak" #lesserpo
+	dynasty=1100386
+	dna="iaauhmwoitj"
+	properties="ci0egd00000"
+	health=9
+	religion="perun"
+	culture="polish"
+	add_trait = "hist_krak"
+	1044.1.2={
+		birth="1044.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+264 = {
+	name="Boleslaw" #greaterpo
+	dynasty=699
+	dna="ghzjdxgakfv"
+	properties="tbhdad00000"
+	health=9
+	religion="svaroh"
+	culture="polish"
+	add_trait = "hist_piast"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+265 = {
+	name="Przybor" #kuyavia
+	dynasty=1100135
+	dna="bmeajymfcck"
+	properties="aa0bbb00000"
+	health=9
+	religion="svetovid"
+	culture="polish"
+	add_trait = "hist_popiel"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+266 = {
+	name="Grim" #halogal
+	dynasty=1100136
+	dna="fykvslgeeca"
+	properties="gj0dfd00000"
+	health=9
+	religion="ragnarok"
+	culture="norwegian"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+267 = {
+	name="Ivar" #raumarik
+	dynasty=453
+	dna="bdfgcvidgck"
+	properties="fb0bad00000"
+	health=9
+	religion="norse_christ"
+	culture="norwegian"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+268 = {
+	name="Eirik" #agder
+	dynasty=1100137
+	dna="phzivdhzgcd"
+	properties="aauabb00000"
+	health=9
+	religion="catholic"
+	culture="norwegian"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+269 = {
+	name="Harald" #hordal
+	dynasty=499
+	dna="bdcfegiigcm"
+	properties="aj0ada00000"
+	health=9
+	religion="norse_pagan"
+	culture="norwegian"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+270 = {
+	name="Håkon" #lade
+	dynasty=1100138
+	dna="iarxuawlgcx"
+	properties="tjecdd00000"
+	health=9
+	religion="norse_pagan"
+	culture="norwegian"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+271 = {
+	name="Stenkil" #vestergot
+	dynasty=498
+	dna="ahifhuccgck"
+	properties="aj0aca00000"
+	health=9
+	religion="norse_christ"
+	culture="geat"
+	1044.1.2={
+		birth="1044.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+272 = {
+	name="Torkel" #ostergot
+	dynasty=1100139
+	dna="zpfnckcdgca"
+	properties="gj0dfd00000"
+	religion="norse_pagan"
+	culture="geat"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+273 = {
+	name="Erik" #sweden
+	dynasty=502
+	dna="uwbpzxtugcx"
+	properties="gj0dfd00000"
+	health=9
+	religion="norse_pagan"
+	culture="swedish"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+274 = {
+	name="Aemilianus" #ravenna
+	dynasty=1100140
+	dna="jwdmmrraqce"
+	properties="ec0jhj00000"
+	health=9
+	religion="mithra_christ"
+	culture="roman"
+	add_trait="hist_theodosius"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+275 = {
+	name="Marcianus" #etruria
+	dynasty=1100141
+	dna="llmfsemfgsc"
+	properties="0jreah00000"
+	health=9
+	religion="marcionist"
+	culture="roman"
+	add_trait="hist_theodosius"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+280 = {
+	name="Lucius" #venice
+	dynasty=1100144
+	dna="usuucewbyse"
+	properties="cj0s0d00000"
+	health=9
+	religion="sol_christ"
+	culture="roman"
+	add_trait = "hist_aurelius"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+281 = {
+	name="Alajos" #pestpanon
+	dynasty=19000
+	dna="nfponhbwhrx"
+	properties="0d0cdk00000"
+	health=9
+	religion="tengri_mani"
+	culture="hungarian"
+	1040.1.2={
+		birth="1040.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+282 = {
+	name="Morvan" #brittany
+	dynasty=726
+	dna="zwqzukfvcvj"
+	properties="cf0gak00000"
+	health=9
+	religion="celtic_christ"
+	culture="breton"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+283 = {
+	name="Vratislav" #bohemia
+	dynasty=506
+	dna="amhfdhfcdcb"
+	properties="0j0ehd00000"
+	health=9
+	religion="mani_slavic"
+	culture="bohemian"
+	add_trait = "hist_cech"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+284 = {
+	name="Sobieslav" #moravia
+	dynasty=1100250
+	dna="ccfpbsobnbk"
+	properties="cizebd00000"
+	health=9
+	religion="dazhbog"
+	culture="bohemian"
+	1044.1.2={
+		birth="1044.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+285 = {
+	name="Svatopluk" #nyitra
+	dynasty=1100251
+	dna="spjjqtnjnou"
+	properties="tc0ddd00000"
+	health=9
+	religion="veles"
+	culture="slovakian"
+	add_trait="hist_samo"
+	1046.1.2={
+		birth="1046.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+286 = {
+	name="Orbán" #hungary
+	dynasty=708
+	dna="wcnoiantwnb"
+	properties="aij0cb00000"
+	health=9
+	religion="tengri_mani"
+	culture="hungarian"
+	1045.1.2={
+		birth="1045.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}
+287 = {
+	name="Tugor" #avars
+	dynasty=1100252
+	dna="dzqpvhaxbzo"
+	properties="kebg0e00000"
+	health=9
+	religion="mani_ahriman"
+	culture="avar"
+	1043.1.2={
+		birth="1043.1.2"
+	}
+	1100.1.2={
+		death="1100.1.2"
+	}
+}

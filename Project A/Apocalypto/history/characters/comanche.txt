@@ -1,0 +1,505 @@
+360000 = {
+	name="Povea"
+	dynasty=1040005
+	religion="animist"
+	culture="comanche"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+360001 = {
+	name="Cuchantica"
+	dynasty=1040006
+	religion="animist"
+	culture="comanche"
+	father=360022
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1100.1.1"
+	}
+}
+
+360002 = {
+	name="Ecueracapa"
+	dynasty=1040007 
+	religion="animist"
+	culture="comanche"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+360003 = {
+	name="Paranuarimuco"
+	dynasty=1040007
+	religion="animist"
+	culture="comanche"
+	father=360002 #Ecueracapa
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+360004 = {
+	name="Pisuni-Napu"
+	dynasty=1040009
+	religion="animist"
+	culture="comanche"
+	father=360005 #Paruaquipits
+	mother=360029 #Pahawsooah
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+360005 = {
+	name="Paruaquipits"
+	dynasty=1040009
+	religion="animist"
+	culture="comanche"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+	1058.1.1={
+         	add_spouse=360029 #Pahawsooah
+    }
+
+}
+
+360006 = {
+	name="Tosacondata"
+	dynasty=1040011
+	religion="animist"
+	culture="comanche"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=360030 #Quitahri
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+360007 = {
+	name="Encanaguane"
+	dynasty=1040011
+	religion="animist"
+	culture="comanche"
+	father=360006 #Tosacondata
+	mother=360030 #Quitahri
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+360008 = {
+	name="Chihuahua"
+	dynasty=1040012
+	religion="animist"
+	culture="comanche"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+360009 = {
+	name="Esazat"
+	dynasty=1040002
+	religion="animist"
+	culture="comanche"
+	add_trait="lustful"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+360010 = {
+	name="Pareiya"
+	dynasty=1040013
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="animist"
+	culture="comanche"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+360011 = {
+	name="Oso-Ballo"
+	dynasty=1040014
+	religion="animist"
+	culture="comanche"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+360012 = {
+	name="Queenashano"
+	dynasty=1040015
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="animist"
+	culture="comanche"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+360013 = {
+	name="Tennowikah"
+	dynasty=1040001
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="animist"
+	culture="comanche"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+360014 = {
+	name="Witsitony"
+	dynasty=1040003
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="animist"
+	culture="comanche"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+360015 = {
+	name="Leahwiddikah"
+	dynasty=1040006
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="animist"
+	culture="comanche"
+	father=360022
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+360016 = {
+	name="Neraquassi"
+	dynasty=1040011
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="animist"
+	culture="comanche"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+360017 = {
+	name="Shabbakasha"
+	dynasty=1040004
+	religion="animist"
+	culture="comanche"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1087.1.1={
+		death="1087.1.1"
+	}
+}
+
+360018 = {
+	name="Pahkah"
+	dynasty=1040004
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="animist"
+	culture="comanche"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1136.1.2={
+		death="1136.1.2"
+	}
+}
+
+360019 = {
+	name="Ohma-Tai"
+	dynasty=1040008
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="animist"
+	culture="comanche"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+360020 = {
+	name="Howeah"
+	dynasty=1040003
+	religion="animist"
+	culture="comanche"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+360021 = {
+	name="Hainickseu"
+	dynasty=1040002
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="animist"
+	culture="comanche"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+360022 = {
+	name="Eschiti"
+	dynasty=1040006
+	religion="animist"
+	culture="comanche"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+360023 = {
+	name="Addapah"
+	female=yes
+	dynasty=1040007	
+	religion="animist"
+	culture="comanche"
+	father=360002 #Ecueracapa
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+360024 = {
+	name="Chahkobitty"
+	female=yes
+	dynasty=1040011
+	religion="animist"
+	culture="comanche"
+	father=360006 #Tosacondata
+	mother=360030 #Quitahri
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+360025 = {
+	name="Pernerney"
+	dynasty=1040010
+	religion="animist"
+	culture="comanche"
+	1040.5.1={
+		birth="1040.5.1"
+	}
+	1120.5.1={
+		death="1120.5.1"
+	}
+}
+
+360026 = {
+	name="Aerwoothky"
+	female=yes
+	dynasty=1040010
+	religion="animist"
+	culture="comanche"
+	father=360025 #Pernerney
+	1060.1.5={
+		birth="1060.1.5"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+360027 = {
+	name="Eckawipe"
+	female=yes
+	dynasty=1040001	
+	religion="animist"
+	culture="comanche"
+	father=360013 #Tennowikah
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+360028 = {
+	name="Ohawifeper"
+	female=yes
+	dynasty=1040008	
+	religion="animist"
+	culture="comanche"
+	father=360019 #Ohma-Tai
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+360029 = {
+	name="Pahawsooah"
+	female=yes
+	dynasty=1040001	
+	religion="animist"
+	culture="comanche"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+	1058.1.1={
+         	add_spouse=360005 #Paruaquipits
+    	}
+}
+
+360030 = {
+	name="Quitahri"
+	female=yes
+	dynasty=1040014
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="animist"
+	culture="comanche"
+
+	1029.1.1={
+		birth="1029.1.1"
+	}
+	1049.1.1 = {
+		add_spouse=360006 #Tosacondata
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}

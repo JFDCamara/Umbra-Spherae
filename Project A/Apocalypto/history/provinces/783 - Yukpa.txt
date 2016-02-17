@@ -1,0 +1,15 @@
+# c_yukpa
+
+# County Title
+title = c_yukpa
+
+# Settlements
+max_settlements = 1
+
+b_yukpa = castle
+
+# Misc
+culture = carib
+religion = zemi
+
+#History

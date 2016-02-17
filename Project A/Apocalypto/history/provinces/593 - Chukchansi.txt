@@ -1,0 +1,15 @@
+# c_chukchansi
+
+# County Title
+title = c_chukchansi
+
+# Settlements
+max_settlements = 1
+
+b_chukchansi = castle
+
+# Misc
+culture = penutian
+religion = tipashumashwish
+
+#History

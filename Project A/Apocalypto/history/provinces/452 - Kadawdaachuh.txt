@@ -1,0 +1,15 @@
+# c_kadawdaachuh
+
+# County Title
+title = c_kadawdaachuh
+
+# Settlements
+max_settlements = 1
+
+b_kadawdaachuh = castle
+
+# Misc
+culture = comanche
+religion = animist
+
+#History

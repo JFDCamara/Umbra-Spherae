@@ -1,0 +1,16 @@
+# c_kakaenikone
+
+# County Title
+title = c_kakaenikone
+
+# Settlements
+max_settlements = 2
+
+b_kakaenikone = castle
+#b_hichakhshepara = city
+
+# Misc
+culture = illinois
+religion = mississippian
+
+#History
