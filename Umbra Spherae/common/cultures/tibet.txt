@@ -1,8 +1,8 @@
 tibetan = {
-		graphical_cultures = { mongolgfx muslimgfx }
+		graphical_cultures = { tibetangfx mongolgfx muslimgfx }
 		
 	bodpa = {
-		graphical_cultures = { mongolgfx muslimgfx }
+		graphical_cultures = { tibetangfx mongolgfx muslimgfx }
 		
 		color = { 0.9 0.9 0.0 }
 		

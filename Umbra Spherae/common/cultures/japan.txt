@@ -1,8 +1,8 @@
 far_east = {
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { japanesegfx mongolgfx muslimgfx }
 
 	japanese = {
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { japanesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.3 0.2 0.1 }
@@ -134,7 +134,7 @@ far_east = {
 	}
 
 	ainu = {
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { ainugfx mongolgfx muslimgfx }
 		
 		color = { 0.3 0.2 0.6 }
 		
@@ -186,7 +186,7 @@ far_east = {
 	}	
 
 	ryukyuan = {
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { japanesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.3 0.2 0.2 }
