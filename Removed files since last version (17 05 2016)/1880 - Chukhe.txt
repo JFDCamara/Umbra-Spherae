@@ -1,0 +1,18 @@
+# 1876 - Chukhe
+
+# County Title
+title = c_chukhe
+
+# Settlements
+max_settlements = 4
+b_bugat = tribal
+b_bayan_agt = tribal
+#b_bulgan =
+#b_teshig =
+#b_khangal =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

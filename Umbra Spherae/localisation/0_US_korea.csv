@@ -164,7 +164,7 @@ b_bonghwa;Bonghwa;Bonghwa;Bonghwa;Bonghwa;Bonghwa;Bonghwa;Bonghwa;Bonghwa;Bonghw
 c_gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;x
 b_gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;x
 b_sacheon;Sacheon;Sacheon;Sacheon;Sacheon;Sacheon;Sacheon;Sacheon;Sacheon;Sacheon;Sacheon;Sacheon;Sacheon;Sacheon;x
-b_namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;x
+b_namhae_gang;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;x
 b_geochang;Geochang;Geochang;Geochang;Geochang;Geochang;Geochang;Geochang;Geochang;Geochang;Geochang;Geochang;Geochang;Geochang;x
 b_jin;Jin;Jin;Jin;Jin;Jin;Jin;Jin;Jin;Jin;Jin;Jin;Jin;Jin;x
 b_tongyeong;Tongyeong;Tongyeong;Tongyeong;Tongyeong;Tongyeong;Tongyeong;Tongyeong;Tongyeong;Tongyeong;Tongyeong;Tongyeong;Tongyeong;Tongyeong;x
@@ -308,13 +308,13 @@ b_pungsan;Pungsan;Pungsan;Pungsan;;Pungsan;;;;;;;;;x
 b_baegam;Baegam;Baegam;Baegam;;Baegam;;;;;;;;;x
 b_cheongjin;Cheongjin;Cheongjin;Cheongjin;;Cheongjin;;;;;;;;;x
 b_hamheung;Hamheung;Hamheung;Hamheung;;Hamheung;;;;;;;;;x
-EVTDESC_US_1;Languages and cultures evolve over time. Some divide and others merge together. The local culture in the province of [Root.GetName] has evolved over time into something new, and the people living there no longer see themselves as a part of Silla.;;;;;;;;;;;;;x;;
-EVTOPTA_US_1;A more unified Korean culture has emerged!;;;;;;;;;;;;;x;;
-EVTDESC_US_2;Languages and cultures evolve over time. Some divide and others merge together. The local culture in the province of [Root.GetName] has evolved over time into something new, and the people living there no longer see themselves as a part of Baekje.;;;;;;;;;;;;;x;;
-EVTOPTA_US_2;A more unified Korean culture has emerged!;;;;;;;;;;;;;x;;
-EVTDESC_US_3;Languages and cultures evolve over time. Some divide and others merge together. The local culture in the province of [Root.GetName] has evolved over time into something new, and the people living there no longer see themselves as a part of Goguryeo.;;;;;;;;;;;;;x;;
-EVTOPTA_US_3;A more unified Korean culture has emerged!;;;;;;;;;;;;;x;;
-EVTDESC_US_4;Languages and cultures evolve over time. Some divide and others merge together. The local culture in the province of [Root.GetName] has evolved over time into something new, and the people living there no longer see themselves as a part of Buyeo.;;;;;;;;;;;;;x;;
-EVTOPTA_US_4;A more unified Korean culture has emerged!;;;;;;;;;;;;;x;;
-EVTDESC_US_5;Languages and cultures evolve over time. The local culture in the province of [Root.GetName] has evolved over time into something new, and the people living there are no longer called Mohe.;;;;;;;;;;;;;x;;
-EVTOPTA_US_5;The Jurchens have arisen!;;;;;;;;;;;;;x;;
+EVTDESC_US_1;Languages and cultures evolve over time. Some divide and others merge together. The local culture in the province of [Root.GetName] has evolved over time into something new, and the people living there no longer see themselves as a part of Silla.;;;;;;;;;;;;;x
+EVTOPTA_US_1;A more unified Korean culture has emerged!;;;;;;;;;;;;;x
+EVTDESC_US_2;Languages and cultures evolve over time. Some divide and others merge together. The local culture in the province of [Root.GetName] has evolved over time into something new, and the people living there no longer see themselves as a part of Baekje.;;;;;;;;;;;;;x
+EVTOPTA_US_2;A more unified Korean culture has emerged!;;;;;;;;;;;;;x
+EVTDESC_US_3;Languages and cultures evolve over time. Some divide and others merge together. The local culture in the province of [Root.GetName] has evolved over time into something new, and the people living there no longer see themselves as a part of Goguryeo.;;;;;;;;;;;;;x
+EVTOPTA_US_3;A more unified Korean culture has emerged!;;;;;;;;;;;;;x
+EVTDESC_US_4;Languages and cultures evolve over time. Some divide and others merge together. The local culture in the province of [Root.GetName] has evolved over time into something new, and the people living there no longer see themselves as a part of Buyeo.;;;;;;;;;;;;;x
+EVTOPTA_US_4;A more unified Korean culture has emerged!;;;;;;;;;;;;;x
+EVTDESC_US_5;Languages and cultures evolve over time. The local culture in the province of [Root.GetName] has evolved over time into something new, and the people living there are no longer called Mohe.;;;;;;;;;;;;;x
+EVTOPTA_US_5;The Jurchens have arisen!;;;;;;;;;;;;;x

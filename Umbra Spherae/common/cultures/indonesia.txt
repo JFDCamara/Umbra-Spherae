@@ -64,10 +64,10 @@ ma_i_an = {
 }
 
 papuan_group = {
-		graphical_cultures = { africangfx muslimgfx }
+		graphical_cultures = { muslimgfx }
 		
 	papuan = {
-		graphical_cultures = { africangfx muslimgfx }
+		graphical_cultures = { westafricangfx africangfx }
 		
 		color = { 0.7 0.8 0.7 }
 		
@@ -558,10 +558,10 @@ bornean = {
 }
 
 andaman = {
-		graphical_cultures = { africangfx muslimgfx }
+		graphical_cultures = { muslimgfx }
 
 	andamanese = { 
-		graphical_cultures = { africangfx muslimgfx }
+		graphical_cultures = { westafricangfx africangfx }
 		
 		color = { 0.4 0.25 0.15 }
 

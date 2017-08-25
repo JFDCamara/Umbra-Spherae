@@ -1,8 +1,8 @@
 #This is what was changed in 00_cultures.txt
 
-#moved alan to iranian
+#moved alan to iranian - not done yet
 
-#added aragonese to iberian
+#added aragonese to iberian - not done yet
 
 #added coptic to byzantine
 #added syriac to byzantine

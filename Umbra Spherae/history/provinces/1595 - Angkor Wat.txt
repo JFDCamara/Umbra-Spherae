@@ -5,7 +5,7 @@ title = c_angkor_wat
 
 # Settlements
 max_settlements = 7
-#b_angkor_wat =
+#b_angkor_wat = 
 b_siem_reap = castle
 b_phnom_krom = city
 b_chong_khneas = temple

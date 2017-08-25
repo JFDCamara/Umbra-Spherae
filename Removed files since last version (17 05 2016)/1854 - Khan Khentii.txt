@@ -1,0 +1,18 @@
+# 1850 - Khan Khentii
+
+# County Title
+title = c_khan_khentii
+
+# Settlements
+max_settlements = 4
+b_aurug = tribal
+b_undurkhaan = tribal
+#b_burkhan_khaldun =
+#b_delgerkhan =
+#b_bayan_avarga =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

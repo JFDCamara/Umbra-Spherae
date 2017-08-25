@@ -1035,7 +1035,7 @@ e_anchuhu = {
 				b_sacheon = {
 					gaya = "Geumgwan Gaya"
 				}
-				b_namhae = {
+				b_namhae_gang = {
 				}
 				b_geochang = {
 					gaya = "Dae Gaya"

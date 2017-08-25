@@ -1,6 +1,11 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 
+# Culture-specific opinion can be added to modifiers (E.G., norse_opinion = 5), but the modifier *has* to be defined in 00_modifier_definitions.txt as well. It also needs localisation. Works for groups as well
+
+# Culture modifiers: modifier (applies to provinces), character_modifier, and settlement modifiers.
+# The ID of the modifier can be defined here (E.G., modifier = modifier_name or character_modifier = modifier_name), while the effect of it must be defined in static_modifiers.txt, and the localisation in localisation. For the settlement modifiers you don't need to (and can't) define the ID; it defaults to culture name + settlement type. E.G., norse_temple
+
 north_germanic = {
 	graphical_cultures = { westerngfx }
 	
@@ -539,7 +544,6 @@ west_germanic = {
 	}
 	dutch = {
 		graphical_cultures = { germangfx }
-		graphical_unit_culture = western
 		
 		color = { 0.96 0.39 0.08 }
 		
@@ -548,7 +552,7 @@ west_germanic = {
 			Bavo Bertold Boudewijn_Baldwin Claes_Nicholas Claeuwaert Daevit_David Damaes Diederick_Thierry Dirk_Thierry Douwe Eduard_Edward Egmund Ekbert
 			Emmo Engelbrecht Filips_Philip Floris Folbert Frans_Francis Frederik_Frederick Gerard_Gerard Gerolt Gerulf
 			Gerrit Gijsbrecht Giselbert_Gilbert Godfried_Godfrey Godschalk Gozewijn Guij_Guy Gwijde_Gwijde Hendrik_Henry Herman_Herman Hubert
-			Hugo_Hugh Ijsbrand Ijsbrecht Jacco_Jacob Jacob_Jacob Jan_John Karel_Charles Koenraad_Konrad
+			Hugo_Hugh IJsbrand IJsbrecht Jacco_Jacob Jacob_Jacob Jan_John Karel_Charles Koenraad_Konrad
 			Kristof_Christopher Lambert_Lambert Lodewijk_Louis Ludewijn Lutbert Luthard Maertijn_Martin Marquart Niclaes_Nicholas
 			Olivier_Oliver Otto_Otto Otwin Onno Pieter_Peter Reinaerd Reinoud_Reinhold Reginar Robrecht_Robert Robert_Robert Rodulf 
 			Roelof Roland Rutger Sebastiaen_Sebastian Sicco Simon_Simon Steven_Stephen Steyn_Sten Theodolf Waelram Walter_Walter
@@ -758,6 +762,8 @@ latin = {
 		graphical_cultures = { southerngfx occitangfx }
 		
 		color = { 0.8 0.7 0.2 }
+		
+		used_for_random = no
 
 		male_names = {
 			Aemilian Aemilius Aetius Albinus Alexander_Alexander Anastasius_Anastasius Anicius Annius Antoninus Antonius_Antonius Arcadius Aurelian Aurelius
@@ -928,43 +934,6 @@ iberian = {
 		mat_grm_name_chance = 15
 		mother_name_chance = 15
 	}
-	aragonese = {
-		graphical_cultures = { southerngfx }
-		
-		color = { 0.8 0.3 0.1 }
-
-		male_names = {
-			Alifonso_Alphonse Álvar_Oliver Andreu_Andrew Ansur Antonio_Antoninus Antonino_Antoninus Arias Arnau_Arnold Artau_Artal Aurelio_Aurelius Aureolo Aznar_Aznar Beltrán_Bertrand Benedet_Benedict Berenguer_Berengar Bernal_Bernard Bernardo_Bernard Blasco_Vasco Bosón_Boson Carlos_Charles Chaime_Jacob Chuan_John Chulián_Julian Chusep_Joseph Diego_Jacob Dionisio Domingo_Dominic Esteban_Stephen Facundo Fadrique_Frederick
-			Felipe_Philip Ferrando_Ferdinand Flaín Fruela Galindo_Galindo García_Garcia Gaufredo Gil_Egidius Gómez_Gomez Gonzalo_Gonzalo Gundemaro Guillén_William Gustio
-			Gutierre Guzmán Henrique_Henry Hermenegildo 
-			Lorient_Laurence Lope_Lupo Loís_Louis Manrique_Amalric Manuel_Manuel
-			Martín_Martin Menendo_Mendo Mendo_Mendo Miguel_Michael Muño_Munio Nuño_Nuno Osorio Ordoño_Ordono Oveco Pero_Peter Pelayo_Pelagius Piñolo Ponce_Pons Remón_Raymond Reimundo_Raymond Remiro_Ramiro Rodrigo_Roderick Román_Roman Rosendo Salvador Sancho_Sancho
-			Sebastián_Sebastian Tello_Tello Teobaldo_Theobald Tomás_Thomas Valero Vela Velasco_Vasco Vermudo_Vermudo Ximeno_Simon 
-		}
-		female_names = {
-			Acibella Adosinda Agnés_Agnes Aldonza_Aldonza Alduara_Alduara Alionor_Eleanor Anderquina Andregoto Aragonta Argilo Arsenda_Arsenda Aurovita Ava Beatriz_Beatrice Benita Berenguera Berta Blanca_Blanche Brígida_Brigid Carroz Caterina_Catherine Chermana Chuana Chuliana_Juliana Chusta Constanza_Constance Cilia Corexia Cristina_Christina Dalia Dueña Dulce_Douce Dulcía Elena Elisenda Elvira 
-			Emilia_Emily Enneca Ermengarda_Ermengarde Ermisenda_Ermesinda Esclarmunda Eslonza Estefanía_Stephania Eulalia Eva_Eva Eylo Felicia Francisca Fronilda_Fronilde Gaudiosa Godo Gontroda Gostanza_Constance Gotina_Gotina Guina Guiomar Guldreguda Hipólita Isabel_Elisabeth 
-			Lopa_Lopa Mafalda Margalida_Margaret María_Maria Marina_Marine Marquesa Mata Matrona
-			Mayor_Mayor Mencía_Mencia Milia Muña Muñadona_Mumadona Nicor Nuña Nuñadona Ónega Peironela_Petronilla Polita Rafaela Sancha_Sancha Saura Sibila Sol Tegridia Timbor Tresa_Teresa Toda_Toda Urraca_Urraca
-			Usenda Valencia Varela Velasquita Viscavlara
-			Violant_Yolanda Ximena 
-		}
-		from_dynasty_prefix = "de "
-
-		male_patronym = "iz"
-		female_patronym = "iz"
-		grammar_transform = spanish
-
-		pat_grf_name_chance = 45
-		mat_grf_name_chance = 15
-		father_name_chance = 30
-
-		pat_grm_name_chance = 40
-		mat_grm_name_chance = 10
-		mother_name_chance = 40
-
-		modifier = default_culture_modifier
-	}
 	visigothic = {
 		graphical_cultures = { southerngfx }
 		
@@ -1070,6 +1039,31 @@ byzantine = {
 
 		modifier = default_culture_modifier
 	}
+	alan = {
+		graphical_cultures = { easternslavicgfx }
+		
+		color = { 0.7 0.5 0.7 }
+
+		male_names = {
+			Ælbeg Æmbalan Aghsartan Alatey Akhsar Anbal Anbazuk Aravat Arsen Askhkadar Ashot_Ashot Aslan Aspar Athom Balambar Balsag Barlah Bæqætar Basil_Basil Bazuk Beler Ber Biræg Boz-Uruz Buürgur Buriberdi
+			Burikhan Candak Chelakhsartag Davit_David Djadaron Durgulel Dzæræs Gætæg Georgy_George Girgon Gokhar Gubaz Guram_Guaram Hasqar Huddan Istor Itaz Iveri Kandak Kandz Kavtia Kaur
+			Khankhusy Khætag Konstantin_Constantine Kubal Kuddana Kul Kuluk Lak Levan_Leo Pulad Respendial Rosmag Safrak Sakhir Sangipan Saros Sathis Savkudz Soslan Suarn Syrdon Taymuraz_Teimuraz Taus Totraz Urdure Uruzma Uturku Yasynya Zaur
+		}
+		female_names = {
+			Adadza Alda Altun Ana_Anna Atsyrukhs Baia Bedisa Borena Btsenon Burudukan Duda Elene_Helen Eliso Gergana Gulchara Guranduht_Gorandukht Kera Keratsa Ketevan_Catherine Koser
+			Lamara Lashin Lela Mariami_Mariam Natia Nino Rusudan Sanatha Satinik_Satinik Shatana Shorena Shukhia Tamari_Tamar Tinatini Tsiala Vardo Vedokha Yeran
+		}	
+		
+		from_dynasty_prefix = "ve "
+		
+		male_patronym = "y fyrt"
+		female_patronym = "y chyzg"
+		prefix = no
+		
+		disinherit_from_blinding = yes
+		
+		modifier = default_culture_modifier
+	}
 	georgian = {
 		graphical_cultures = { byzantinegfx }
 		
@@ -1096,6 +1090,8 @@ byzantine = {
 
 		modifier = default_culture_modifier
 	}
+
+	## Umbra Spherae
 	coptic = { #copto-egyptian
 		graphical_culture = { byzantinegfx }
 		
@@ -1121,8 +1117,8 @@ byzantine = {
 		from_dynasty_prefix = "en "
 		
 		male_patronym = "psen "
-        female_patronym = "tsen "
-        prefix = yes
+        	female_patronym = "tsen "
+       		prefix = yes
 
 		modifier = default_culture_modifier
 	}
@@ -1933,7 +1929,7 @@ altaic = {
 	}
 	
 	khitan = {
-		graphical_cultures = { khitangfx mongolgfx muslimgfx }
+		graphical_cultures = { mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		horde = yes
@@ -2033,6 +2029,9 @@ arabic = {
 		
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
+		
+		allow_looting = yes
+		seafarer = yes
 
 		modifier = default_culture_modifier
 
@@ -2145,7 +2144,6 @@ east_slavic = {
 
 	russian = {
 		graphical_cultures = { easternslavicgfx }
-		graphical_unit_culture = western
 		
 		color = { 0.2 0.4 0.1 }
 
@@ -2183,7 +2181,6 @@ east_slavic = {
 	}
 	ilmenian = {
 		graphical_cultures = { easternslavicgfx }
-		graphical_unit_culture = western
 		
 		color = { 0.45 0.6 0.2 }
 
@@ -2218,7 +2215,6 @@ east_slavic = {
 	}
 	severian = {
 		graphical_cultures = { easternslavicgfx }
-		graphical_unit_culture = western
 		
 		color = { 0.5 0.8 0.3 }
 
@@ -2253,7 +2249,6 @@ east_slavic = {
 	}
 	volhynian = {
 		graphical_cultures = { easternslavicgfx }
-		graphical_unit_culture = western
 		
 		color = { 0.65 0.8 0.3 }
 
@@ -2770,39 +2765,13 @@ iranian = {
 
 		modifier = default_culture_modifier
 	}
-	
-	alan = {
-		graphical_cultures = { easternslavicgfx }
-		
-		color = { 0.7 0.5 0.7 }
-
-		male_names = {
-			Ælbeg Æmbalan Aghsartan Alatey Akhsar Anbal Anbazuk Aravat Arsen Askhkadar Ashot_Ashot Aslan Aspar Athom Balambar Balsag Barlah Bæqætar Basil_Basil Bazuk Beler Ber Biræg Boz-Uruz Buürgur Buriberdi
-			Burikhan Candak Chelakhsartag Davit_David Djadaron Durgulel Dzæræs Gætæg Georgy_George Girgon Gokhar Gubaz Guram_Guaram Hasqar Huddan Istor Itaz Iveri Kandak Kandz Kavtia Kaur
-			Khankhusy Khætag Konstantin_Constantine Kubal Kuddana Kul Kuluk Lak Levan_Leo Pulad Respendial Rosmag Safrak Sakhir Sangipan Saros Sathis Savkudz Soslan Suarn Syrdon Taymuraz_Teimuraz Taus Totraz Urdure Uruzma Uturku Yasynya Zaur
-		}
-		female_names = {
-			Adadza Alda Altun Ana_Anna Atsyrukhs Baia Bedisa Borena Btsenon Burudukan Duda Elene_Helen Eliso Gergana Gulchara Guranduht_Gorandukht Kera Keratsa Ketevan_Catherine Koser
-			Lamara Lashin Lela Mariami_Mariam Natia Nino Rusudan Sanatha Satinik_Satinik Shatana Shorena Shukhia Tamari_Tamar Tinatini Tsiala Vardo Vedokha Yeran
-		}	
-		
-		from_dynasty_prefix = "ve "
-		
-		male_patronym = "y fyrt"
-		female_patronym = "y chyzg"
-		prefix = no
-		
-		disinherit_from_blinding = yes
-		
-		modifier = default_culture_modifier
-	}
 }
 
 east_african = {
 	graphical_cultures = { muslimgfx }
 
 	ethiopian = {
-		graphical_cultures = { africangfx }
+		graphical_cultures = { africangfx westafricangfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.4 0.4 0.3 }
@@ -2824,7 +2793,7 @@ east_african = {
 	}
 	
 	somali = {
-		graphical_cultures = { africangfx }
+		graphical_cultures = { africangfx westafricangfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.2 0.2 0.1 }
@@ -2850,7 +2819,7 @@ east_african = {
 	}
 	
 	nubian = {
-		graphical_cultures = { africangfx }
+		graphical_cultures = { africangfx westafricangfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.35 0.7 0.25 }
@@ -2876,6 +2845,8 @@ east_african = {
 
 		modifier = default_culture_modifier
 	}
+
+	### Umbra Spherae
 	omotic = {
 		graphical_cultures = { africangfx }
 		secondary_event_pictures = bedouin_arabic
@@ -2921,10 +2892,10 @@ east_african = {
 }
 
 west_african = {
-	graphical_cultures = { africangfx  muslimgfx }
+	graphical_cultures = { muslimgfx }
 	
 	manden = {
-		graphical_cultures = { westafricangfx }
+		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.45 0.45 0.2 }
@@ -3369,6 +3340,9 @@ indo_aryan_group = {
 		}
 		female_names = {
 			Bhagi Hamide Himu Sad Tari "Zainab Tari"
+			Shakuntala Seetha Radha Marui Mumal Sorath Sohni
+			Sassui Lilan Mokhi Natar Heer
+			Dahar Premala Suhanadi
 		}
 		
 		dynasty_title_names = yes
@@ -3460,6 +3434,8 @@ indo_aryan_group = {
 		
 		modifier = default_culture_modifier
 	}
+
+	### Umbra Spherae
 	kashmiri = {
 		graphical_cultures = { indiangfx muslimgfx }
 		

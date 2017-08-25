@@ -401,6 +401,7 @@
 	dynasty=1000028205 #Kauthara
 	religion="hindu"
 	culture="cham"
+	father=1000076056 #fictional, just to fix the family tree for now
 	767.1.1={
 		birth="767.1.1"
 	}

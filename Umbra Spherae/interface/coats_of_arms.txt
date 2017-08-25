@@ -678,6 +678,8 @@ culture = {
 	}
 }
 
+############# Umbra Spherae
+
 culture ={
 	religion = {
 		"nihon_shinto"
@@ -747,4 +749,3 @@ culture ={
 		}
 	}
 }
-

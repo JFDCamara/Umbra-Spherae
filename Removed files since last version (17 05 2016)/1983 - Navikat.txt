@@ -1,0 +1,18 @@
+# 1357 - Navikat
+
+# County Title
+title = c_navikat
+
+# Settlements
+max_settlements = 4
+b_birlik_navikat = tribal
+b_navikat = city
+#b_karaoy =
+#b_akzhar =
+#b_ushzharma =
+
+# Misc
+culture = cuman
+religion = tengri_pagan
+
+# History

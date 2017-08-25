@@ -1,0 +1,200 @@
+#Basmyl Dynasty (placeholders)
+750.1.1={
+	liege = d_basmyl
+	holder=1000205227 #Begluk
+}
+780.1.1={
+	holder=1000205228 #Eldeçyuk
+}
+810.1.1={
+	holder=1000205229 #Saru
+}
+
+#United Kara-Khanid Khanate
+840.1.1={
+	liege="k_qarakhnid"
+}
+840.1.1={
+	holder = 1000202358 #Kul-Bilge
+}
+893.1.1={
+	holder = 1000202360 #Bazir
+}
+920.1.1={
+	holder = 1000202359 #Ogulçak
+}
+927.1.1={
+	holder = 1000202361 #Satuk/Abd-al-Karim
+}
+955.1.1={
+	holder = 1000202362 #Musa
+}
+978.1.1={
+	holder = 1000202378 #Sulaiman
+}
+985.1.1={
+	holder = 1000202379 #Harun
+}
+992.1.1={
+	holder = 3000 #Ali
+}
+998.1.1={
+	holder = 3002 #Ahmad
+}
+1017.1.1={
+	holder = 3004 #Mansur
+}
+1024.1.1={
+	holder = 3006 #Muhammad
+}
+1026.1.1={
+	holder = 3008 #Yusuf
+}
+1032.1.1={
+	holder = 144102 #Sulaiman
+}
+
+#East Kara-Khanid Khanate (split in 1040)
+1056.1.1={
+	holder = 144103 #Muhammad I [II ingame]
+}
+1057.1.1={
+	holder = 144104 #Ibrahim I
+}
+1062.1.1={
+	holder = 144105 #Yusuf I
+}
+1080.1.1={
+	holder = 144106 #Umar
+}
+1080.6.1={
+	holder = 144107 #Harun [II ingame]
+}
+1103.1.1={
+	holder = 144114 #Ahmad
+}
+
+#Kara-Khitai
+1123.11.1 = {
+	liege="k_khitans"
+}
+1123.11.1 = {
+	holder=1000202528 #Dashi
+}
+1125.3.16 = {
+	liege="e_kitai"
+}
+1143.1.1 = {
+	holder=1000202529 #Yilie
+}
+1163.1.1={
+	holder = 1000202530 # Pusuwan
+}
+1177.1.1={
+	holder = 1000202531 # Yelü-Zhilugu
+}
+
+#Naiman Dynasty
+1213.1.1 = {
+	holder=1000202584 #Kuchlug
+}
+
+#Mongol Empire
+1218.1.1={
+	liege="e_mongol_empire"
+}
+1218.1.1={
+	holder=125501 #Genghis
+}
+
+#Chagatai
+1227.12.2={
+	liege="k_chagatai"
+}
+1227.12.2={
+	holder = 93062
+}
+1242.1.1=
+{
+	holder = 93064
+}
+1246.1.1=
+{
+	holder = 93065
+}
+1252.1.1=
+{
+	holder = 93064
+}
+1253.1.1=
+{
+	holder = 93066
+}
+1260.1.1=
+{
+	holder = 93068
+}
+1266.1.1=
+{
+	holder = 93066
+}
+1266.9.1=
+{
+	holder = 93070
+}
+1271.1.1=
+{
+	holder = 93072
+}
+1271.12.18=
+{
+	liege="e_chagatai"
+}
+1272.1.1=
+{
+	holder = 93074
+}
+1282.1.1=
+{
+	holder = 93075
+}
+1307.1.1=
+{
+	holder = 93076
+}
+1308.1.1=
+{
+	holder = 93078
+}
+1309.1.1=
+{
+	holder = 93079
+}
+1310.1.1=
+{
+	holder = 93080
+}
+1318.1.1=
+{
+	holder = 93079
+}
+1326.1.1=
+{
+	holder = 93081
+}
+1329.1.1=
+{
+	holder = 93082
+}
+1330.1.1=
+{
+	holder = 93083
+}
+1334.1.1=
+{
+	holder = 93084
+}
+1335.1.1=
+{
+	holder = 93086
+}

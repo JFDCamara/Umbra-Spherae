@@ -1,0 +1,18 @@
+# 1857 - Telmen
+
+# County Title
+title = c_telmen
+
+# Settlements
+max_settlements = 4
+b_telmen = tribal
+b_nomrog = tribal
+#b_tudevtei =
+#b_songino =
+
+# Misc
+culture = uyghur
+religion = tengri_pagan
+
+# History
+847.1.1={ culture = mongol }#Fall of Uyghur Khaganate

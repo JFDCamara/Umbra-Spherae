@@ -1,0 +1,23 @@
+# 1316 - Kesh
+
+# County Title
+title = c_kesh
+
+# Settlements
+max_settlements = 3
+b_kitab = castle
+b_kesh = city
+b_begish = temple
+#b_safarcha =
+#b_kutchi =
+#b_bay_kurgan =
+#b_sariasiya =
+#b_katagan =
+
+# Misc
+culture = sogdian
+religion = zoroastrian
+
+# History
+861.1.1 = { culture = persian } #Bactrian culture is abosorbed by mainstream Persian
+1187.1.1 = { religion = sunni }

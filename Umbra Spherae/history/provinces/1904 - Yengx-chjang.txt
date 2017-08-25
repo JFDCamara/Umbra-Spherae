@@ -5,7 +5,7 @@ title = c_yengxchjang
 
 # Settlements
 max_settlements = 3
-b_pauxsren = city
+b_pauxsren = castle
 b_kuangxjii = city
 b_sjinghhiang = city
 

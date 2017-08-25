@@ -1,0 +1,61 @@
+#Naiman
+744.1.1 = {
+	liege="e_uyghur"
+}
+750.1.1={
+	holder=1000205197 #Oljaitu
+}
+780.1.1={
+	holder=1000205198 #Bughu
+}
+810.1.1={
+	holder=1000205199 #Ghazan
+}
+840.1.1 = {
+	holder=1000202571 #Bugunutei
+}
+840.1.1 = {
+	liege="e_kirgiz"
+}
+870.1.1 = {
+	holder=1000202572 #Subetei
+}
+900.1.1 = {
+	holder=1000202573 #Kogsegu
+}
+920.1.1 = {
+	liege=0
+}
+930.1.1 = {
+	holder=1000202574 #Khorchi
+}
+960.1.1 = {
+	holder=1000202575 #Arasen
+}
+990.1.1 = {
+	holder=1000202576 #Bartan
+}
+1020.1.1 = {
+	holder=1000202577 #Yesunge
+}
+1050.1.1 = {
+	holder=1000081075 #Korchi-Buyruk
+}
+1080.1.1 = {
+	holder=1000202578 #Eljigedei
+}
+1110.1.1 = {
+	holder=1000202579 #Jajiradai
+}
+1130.1.1 = {
+	holder=1000202580 #Toghoril
+}
+1160.1.1 = {
+	holder=1000202581 #Inanch-Bilga
+}
+1180.1.1 = {
+	holder=1000202582 #Taibuqa
+}
+1203.1.1 = {
+	holder=0
+}

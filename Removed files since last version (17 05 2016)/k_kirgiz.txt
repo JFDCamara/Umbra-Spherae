@@ -1,0 +1,79 @@
+#Yenisei Dynasty (placeholders)
+744.1.1={
+	liege="e_uyghur"
+}
+750.1.1={
+	holder=1000205212 #Kozel
+}
+780.1.1={
+	holder=1000205213 #Blush
+}
+810.1.1={
+	holder=1000205214 #Bonyak
+}
+840.1.1={
+	liege="e_kirgiz"
+}
+840.1.1={
+	holder=1000202390 #Almazbek
+}
+870.1.1={
+	holder=1000202391 #Abai
+}
+900.1.1={
+	holder=1000202392 #Kasym
+}
+923.1.1={
+	liege=0
+}
+930.1.1={
+	holder=1000202393 #Feliks
+}
+960.1.1={
+	holder=1000202394 #Nasirdin
+}
+990.1.1={
+	holder=1000202395 #Orzubek
+}
+1020.1.1={
+	holder=1000202396 #Rysbek
+}
+1050.1.1={
+	holder=1000076213 #Semetei
+}
+1080.1.1={
+	holder=1000202397 #Seitek
+}
+1110.1.1={
+	holder=1000202398 #Askar
+}
+1140.1.1={
+	holder=1000202399 #Zhakyp
+}
+1170.1.1={
+	holder=1000202400 #Jusup
+}
+1200.1.1={
+	holder=1000202401 #Temir
+}
+1219.1.1={
+	liege="e_mongol_empire"
+}
+1230.1.1={
+	holder=1000202402 #Sayaqbay
+}
+1260.1.1={
+	holder=1000202403 #Almas
+}
+1279.3.19 = {
+	liege="e_china"
+}
+1290.1.1={
+	holder=1000202404 #Salamat
+}
+1320.1.1={
+	holder=1000202405 #Mirtemir
+}
+1350.1.1={
+	holder=1000202406 #Omurbek
+}
