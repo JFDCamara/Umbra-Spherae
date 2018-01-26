@@ -1,0 +1,21 @@
+# 1129 - Dong Si Maha Phot
+
+# County Title
+title = c_dong_si_maha_phot
+
+# Settlements
+max_settlements = 4
+b_kabin_buri = castle
+b_dong_si_maha_phot = city
+b_na_di = temple
+#b_mueang_sa_kaeo =
+#b_khao_chakan =
+#b_watthana_nakhon =
+#b_aranyaprathet =
+#b_wang_nam_yen =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

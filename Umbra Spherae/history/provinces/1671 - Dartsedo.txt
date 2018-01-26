@@ -1,0 +1,19 @@
+# 1738 - Dartsedo
+
+# County Title
+title = c_dartsedo
+# Settlements
+max_settlements = 6
+b_jagsamka = tribal
+b_dartsedo = city
+b_lithang = city
+#b_xindu = castle
+b_nanwu_si = temple
+#b_nyarong = castle
+#b_gyaisi = castle
+
+# Misc
+culture = bodpa
+religion = buddhist
+
+# History

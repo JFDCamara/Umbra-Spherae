@@ -1,0 +1,21 @@
+# 1534 - Ghrep
+
+# County Title
+title = c_ghrep
+
+# Settlements
+max_settlements = 3
+b_jiiling = castle
+b_ngiojangghrep = castle
+#b_driangjang =
+#b_ngieto =
+#b_yanxan =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

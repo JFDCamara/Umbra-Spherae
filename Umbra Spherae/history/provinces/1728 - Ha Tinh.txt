@@ -1,0 +1,21 @@
+# 1097 - Ha Tinh
+
+# County Title
+title = c_ha_tinh
+
+# Settlements
+max_settlements = 4
+b_tran_phu = castle
+b_ha_tinh = city
+b_thach_quy = temple
+#b_thach_hai =
+#b_thach_tri =
+#b_voi =
+#b_ky_anh =
+#b_ky_hai =
+
+# Misc
+culture = viet
+religion = thangiao
+
+# History

@@ -1,0 +1,23 @@
+# 1646 - Lom
+
+# County Title
+title = c_lom
+
+# Settlements
+max_settlements = 4
+b_pauxtok = castle
+b_ngiephyang = city
+b_lubyan = city
+#b_ghopgha = city
+#b_lomkuk =
+#b_ziengxlak =
+#b_nenghruah =
+#b_huaxsren =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

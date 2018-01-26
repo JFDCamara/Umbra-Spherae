@@ -1,0 +1,23 @@
+# 1641 - Drak
+
+# County Title
+title = c_drak
+
+# Settlements
+max_settlements = 4
+b_cinzjeng = castle
+b_kaubjen = city
+b_jangzjeng = city
+#b_tuancjex =
+#b_chimhsjyix =
+#b_lingchjyen =
+#b_sengzjeu =
+#b_thenciengxkruan = castle
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

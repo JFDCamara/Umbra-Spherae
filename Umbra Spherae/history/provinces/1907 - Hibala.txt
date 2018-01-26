@@ -1,0 +1,21 @@
+# 1348 - Hibala
+
+# County Title
+title = c_hibala
+
+# Settlements
+max_settlements = 3
+b_pulautelo = castle
+b_hibala = city
+#b_labuhanrima =
+#b_lambak =
+#b_muarsiget =
+#b_kagogolo =
+#b_sibabau =
+#b_gilitar =
+
+# Misc
+culture = minangkabau
+religion = sumatran_religion
+
+# History

@@ -1,0 +1,23 @@
+# 1418 - Mit
+
+# County Title
+title = c_mit
+
+# Settlements
+max_settlements = 4
+b_cjozjeng = castle
+b_kiox = city
+b_kraise = city
+#b_kaumit =
+#b_ankhiu = 
+#b_lixmyon =
+#b_sinhjang =
+#b_njitcjeuh = 
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

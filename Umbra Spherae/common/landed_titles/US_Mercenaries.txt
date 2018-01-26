@@ -4832,7 +4832,7 @@ d_papuan_claws = {
 	color = { 200 20 70 }
 	color2 = { 255 255 255 }
 
-	capital = 1728 # Huangmachu
+	capital = 1845 # Huangmachu
 	
 	# Hire Trigger
 	allow = {
@@ -4865,7 +4865,7 @@ d_unbreakable_wings = {
 	color = { 255 127 43 }
 	color2 = { 255 255 255 }
 
-	capital = 1726 # Jenggi
+	capital = 1843 # Jenggi
 	
 	# Hire Trigger
 	allow = {
@@ -4898,7 +4898,7 @@ d_sakasanusa_warriors = {
 	color = { 255 226 226 }
 	color2 = { 255 255 255 }
 
-	capital = 1731 # Makassar
+	capital = 1848 # Makassar
 	
 	# Hire Trigger
 	allow = {
@@ -4931,7 +4931,7 @@ d_komodo_dragons = {
 	color = { 10 138 46 }
 	color2 = { 255 255 255 }
 
-	capital = 1729 # Gurun
+	capital = 1846 # Gurun
 	
 	# Hire Trigger
 	allow = {
@@ -4964,7 +4964,7 @@ d_jungle_swords = {
 	color = { 32 178 255 }
 	color2 = { 255 255 255 }
 
-	capital = 1718 # Banjarmasin
+	capital = 1835 # Banjarmasin
 	
 	# Hire Trigger
 	allow = {
@@ -4997,7 +4997,7 @@ d_jaws_of_mindanao = {
 	color = { 255 192 10 }
 	color2 = { 255 255 255 }
 
-	capital = 1766 # Butuan
+	capital = 1883 # Butuan
 	
 	# Hire Trigger
 	allow = {
@@ -5030,7 +5030,7 @@ d_luzon_band = {
 	color = { 218 123 124 }
 	color2 = { 255 255 255 }
 
-	capital = 1767 # Tondo
+	capital = 1884 # Tondo
 	
 	# Hire Trigger
 	allow = {
@@ -5063,7 +5063,7 @@ d_highland_raiders = {
 	color = { 226 195 168 }
 	color2 = { 255 255 255 }
 
-	capital = 2178 # Paiwan
+	capital = 2295 # Paiwan
 	
 	# Hire Trigger
 	allow = {
@@ -5096,7 +5096,7 @@ d_taiwanese_lightning = {
 	color = { 92 78 153 }
 	color2 = { 255 255 255 }
 
-	capital = 1779 # Ketagalan
+	capital = 1896 # Ketagalan
 	
 	# Hire Trigger
 	allow = {
@@ -5129,7 +5129,7 @@ d_green_spirit = {
 	color = { 125 244 129 }
 	color2 = { 255 255 255 }
 
-	capital = 1712 # Tanjungpura
+	capital = 1829 # Tanjungpura
 	
 	# Hire Trigger
 	allow = {
@@ -5162,7 +5162,7 @@ d_minahasa_company = {
 	color = { 205 127 255 }
 	color2 = { 255 255 255 }
 
-	capital = 1756 # Gorontalo
+	capital = 1873 # Gorontalo
 	
 	# Hire Trigger
 	allow = {
@@ -5195,7 +5195,7 @@ d_world_conquerors = {
 	color = { 201 10 55 }
 	color2 = { 255 255 255 }
 
-	capital = 1484 # Ryukyu
+	capital = 1601 # Ryukyu
 	
 	# Hire Trigger
 	allow = {
@@ -5228,7 +5228,7 @@ d_javanese_band = {
 	color = { 114 119 49 }
 	color2 = { 255 255 255 }
 
-	capital = 1703 # Daha
+	capital = 1820 # Daha
 	
 	# Hire Trigger
 	allow = {
@@ -5261,7 +5261,7 @@ d_sundanese_brothers = {
 	color = { 255 238 127 }
 	color2 = { 255 255 255 }
 
-	capital = 1693 # Pakuan Pajajaran
+	capital = 1810 # Pakuan Pajajaran
 	
 	# Hire Trigger
 	allow = {
@@ -5294,7 +5294,7 @@ d_palembang_crocodiles = {
 	color = { 72 142 10 }
 	color2 = { 255 255 255 }
 
-	capital = 1687 # Palembang
+	capital = 1804 # Palembang
 	
 	# Hire Trigger
 	allow = {
@@ -5327,7 +5327,7 @@ d_faithful_husbands = {
 	color = { 255 199 105 }
 	color2 = { 255 255 255 }
 
-	capital = 1742 # Pariaman
+	capital = 1859 # Pariaman
 	
 	# Hire Trigger
 	allow = {
@@ -5360,7 +5360,7 @@ d_blood_eruption = {
 	color = { 168 24 15 }
 	color2 = { 255 255 255 }
 
-	capital = 1717 # Ternate
+	capital = 1834 # Ternate
 	
 	# Hire Trigger
 	allow = {
@@ -5393,7 +5393,7 @@ d_berserk_brothers = {
 	color = { 52 226 199 }
 	color2 = { 255 255 255 }
 
-	capital = 1681 # Barus
+	capital = 1798 # Barus
 	
 	# Hire Trigger
 	allow = {
@@ -5426,7 +5426,7 @@ d_samudran_rhinos = {
 	color = { 193 148 43 }
 	color2 = { 255 255 255 }
 
-	capital = 1736 # Samudra
+	capital = 1853 # Samudra
 	
 	# Hire Trigger
 	allow = {
@@ -5459,7 +5459,7 @@ d_islamic_front = {
 	color = { 10 140 255 }
 	color2 = { 255 255 255 }
 
-	capital = 1716 # Perlak
+	capital = 1833 # Perlak
 	
 	# Hire Trigger
 	allow = {
@@ -5492,7 +5492,7 @@ d_malay_company = {
 	color = { 221 10 10 }
 	color2 = { 255 255 255 }
 
-	capital = 1685 # Muaro Jambi
+	capital = 1802 # Muaro Jambi
 	
 	# Hire Trigger
 	allow = {
@@ -5525,7 +5525,7 @@ d_malay_band = {
 	color = { 247 232 55 }
 	color2 = { 255 255 255 }
 
-	capital = 1591 # Kedaram
+	capital = 1708 # Kedaram
 	
 	# Hire Trigger
 	allow = {
@@ -5558,7 +5558,7 @@ d_khmer_company = {
 	color = { 10 158 156 }
 	color2 = { 255 255 255 }
 
-	capital = 1595 # Angkor Wat
+	capital = 1712 # Angkor Wat
 	
 	# Hire Trigger
 	allow = {
@@ -5591,7 +5591,7 @@ d_chamic_tides = {
 	color = { 13 12 141 }
 	color2 = { 255 255 255 }
 
-	capital = 1608 # Vijaya
+	capital = 1725 # Vijaya
 	
 	# Hire Trigger
 	allow = {
@@ -5624,7 +5624,7 @@ d_viet_warriors = {
 	color = { 255 204 10 }
 	color2 = { 255 255 255 }
 
-	capital = 1615 # Thang Long
+	capital = 1732 # Thang Long
 	
 	# Hire Trigger
 	allow = {
@@ -5657,7 +5657,7 @@ d_blades_of_death = {
 	color = { 255 168 159 }
 	color2 = { 255 255 255 }
 
-	capital = 1584 # Lavodayapura
+	capital = 1701 # Lavodayapura
 	
 	# Hire Trigger
 	allow = {
@@ -5690,7 +5690,7 @@ d_thai_band = {
 	color = { 174 168 159 }
 	color2 = { 255 255 255 }
 
-	capital = 1638 # Ngoenyang
+	capital = 1755 # Ngoenyang
 	
 	# Hire Trigger
 	allow = {
@@ -5723,7 +5723,7 @@ d_venomous_arrows = {
 	color = { 185 11 12 }
 	color2 = { 255 255 255 }
 
-	capital = 1634 # Mogaung
+	capital = 1751 # Mogaung
 	
 	# Hire Trigger
 	allow = {
@@ -5756,7 +5756,7 @@ d_constricting_branches = {
 	color = { 234 255 159 }
 	color2 = { 255 255 255 }
 
-	capital = 1673 # Lashio
+	capital = 1790 # Lashio
 	
 	# Hire Trigger
 	allow = {
@@ -5789,7 +5789,7 @@ d_mountain_wall = {
 	color = { 100 100 100 }
 	color2 = { 255 255 255 }
 
-	capital = 1892 # Dab-lit (Dali)
+	capital = 2009 # Dab-lit (Dali)
 	
 	# Hire Trigger
 	allow = {
@@ -5822,7 +5822,7 @@ d_chinese_flame = {
 	color = { 243 105 22 }
 	color2 = { 255 255 255 }
 
-	capital = 2019 # Bienh
+	capital = 2136 # Bienh
 	
 	# Hire Trigger
 	allow = {
@@ -5855,7 +5855,7 @@ d_merciful_swords = {
 	color = { 164 127 255 }
 	color2 = { 255 255 255 }
 
-	capital = 2027 # Sjing
+	capital = 2144 # Sjing
 	
 	# Hire Trigger
 	allow = {
@@ -5888,7 +5888,7 @@ d_dragon_company = {
 	color = { 255 176 32 }
 	color2 = { 255 255 255 }
 
-	capital = 2057 # Kuangx
+	capital = 2174 # Kuangx
 	
 	# Hire Trigger
 	allow = {
@@ -5921,7 +5921,7 @@ d_river_band = {
 	color = { 10 128 255 }
 	color2 = { 255 255 255 }
 
-	capital = 2046 # Hing-kuok
+	capital = 2163 # Hing-kuok
 	
 	# Hire Trigger
 	allow = {
@@ -5954,7 +5954,7 @@ d_fertile_anger = {
 	color = { 49 130 10 }
 	color2 = { 255 255 255 }
 
-	capital = 2095 # Gyi
+	capital = 2212 # Gyi
 	
 	# Hire Trigger
 	allow = {
@@ -5987,7 +5987,7 @@ d_rocky_band = {
 	color = { 166 120 56 }
 	color2 = { 255 255 255 }
 
-	capital = 2122 # 'yung
+	capital = 2239 # 'yung
 	
 	# Hire Trigger
 	allow = {
@@ -6020,7 +6020,7 @@ d_ember_company = {
 	color = { 191 255 253 }
 	color2 = { 255 255 255 }
 
-	capital = 1918 # 'y
+	capital = 2035 # 'y
 	
 	# Hire Trigger
 	allow = {
@@ -6053,7 +6053,7 @@ d_sands_of_murder = {
 	color = { 203 156 99 }
 	color2 = { 255 255 255 }
 
-	capital = 1918 # 'y
+	capital = 2035 # 'y
 	
 	# Hire Trigger
 	allow = {
@@ -6086,7 +6086,7 @@ d_jurchen_company = {
 	color = { 191 12 10 }
 	color2 = { 255 255 255 }
 
-	capital = 1524 # Ghuad-neng
+	capital = 1641 # Ghuad-neng
 	
 	# Hire Trigger
 	allow = {
@@ -6119,7 +6119,7 @@ d_willful_bow = {
 	color = { 96 166 255 }
 	color2 = { 255 255 255 }
 
-	capital = 1507 # Yongcheon
+	capital = 1624 # Yongcheon
 	
 	# Hire Trigger
 	allow = {
@@ -6152,7 +6152,7 @@ d_lightning_tachi = {
 	color = { 255 255 64 }
 	color2 = { 255 255 255 }
 
-	capital = 1473 # Yamashiro
+	capital = 1590 # Yamashiro
 	
 	# Hire Trigger
 	allow = {
@@ -6185,7 +6185,7 @@ d_ainu_band = {
 	color = { 255 191 235 }
 	color2 = { 255 255 255 }
 
-	capital = 1480 # Oshima
+	capital = 1597 # Oshima
 	
 	# Hire Trigger
 	allow = {
@@ -6218,7 +6218,7 @@ d_steppe_storm = {
 	color = { 180 89 44 }
 	color2 = { 255 255 255 }
 
-	capital = 1457 # Karakorum
+	capital = 1974 # Karakorum
 	
 	# Hire Trigger
 	allow = {
@@ -6251,7 +6251,7 @@ d_chilling_roar = {
 	color = { 160 225 225 }
 	color2 = { 255 255 255 }
 
-	capital = 1889 # Elyu Ene
+	capital = 2006 # Elyu Ene
 	
 	# Hire Trigger
 	allow = {
@@ -6449,7 +6449,7 @@ d_bodpa_company = {
 	color = { 120 35 30 }
 	color2 = { 255 255 255 }
 
-	capital = 1534 # Lhasa
+	capital = 1498 # Lhasa
 	
 	# Hire Trigger
 	allow = {
@@ -6482,7 +6482,7 @@ d_unforgiving_blizzard = {
 	color = { 209 255 255 }
 	color2 = { 255 255 255 }
 
-	capital = 1535 # Qamdo
+	capital = 1508 # Qamdo
 	
 	# Hire Trigger
 	allow = {
@@ -6515,7 +6515,7 @@ d_xangxung_band = {
 	color = { 22 10 223 }
 	color2 = { 255 255 255 }
 
-	capital = 1530 # Kyunglung
+	capital = 1490 # Kyunglung
 	
 	# Hire Trigger
 	allow = {
@@ -6647,7 +6647,7 @@ d_nepalese_company = {
 	color = { 237 10 27 }
 	color2 = { 255 255 255 }
 
-	capital = 1541 # Kathmandu
+	capital = 1478 # Kathmandu
 	
 	# Hire Trigger
 	allow = {

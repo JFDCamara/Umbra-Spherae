@@ -1,0 +1,24 @@
+# 1823 - Seung
+
+# County Title
+title = c_seung
+
+# Settlements
+max_settlements = 5
+b_seung = castle
+b_suncheon = castle
+b_gwangyang = city
+#b_yeosu =
+#b_gokseong =
+#b_gurye =
+#b_boseong =
+#b_hwasun =
+
+
+# Misc
+culture = baekje
+religion = shingyo
+
+# History
+
+936.1.1 = { culture = korean}

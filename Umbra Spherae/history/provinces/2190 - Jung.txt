@@ -1,0 +1,23 @@
+# 1517 - Jung
+
+# County Title
+title = c_jung
+
+# Settlements
+max_settlements = 5
+b_jungsjyix = castle
+b_zsimkrung = castle
+b_lakzjenx = castle
+b_myoxjang_jung = castle
+#b_ghruaiyanx =
+#b_limkhe =
+#b_pokghra =
+
+
+# Misc
+culture = zhuang
+religion = nugyauq
+
+# History
+
+

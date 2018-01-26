@@ -1,90 +1,93 @@
 1.1.1 ={
 	vice_royalty = yes
+	government = confucian_bureaucracy
+	law = agnatic_succession
 }
 
 618.6.18={
 	liege=e_china
 }
 
-#Tang Dynasty
-618.6.18={
-	holder=1000202650 #Yuan
+#Tang
+618.6.18 = {
+	holder = 217700 #Gaozu of Tang
 }
-626.9.4={
-	holder=1000202652 #Shimin
+626.9.4 = {
+	holder = 217701 #Taizong of Tang
 }
-649.7.10={
-	holder=1000202658 #Zhi
+649.7.10 = {
+	holder = 217702 #Gaozong of Tang
 }
-683.12.27={
-	holder=1000202663 #Xian
+683.12.27 = {
+	holder = 217799 # Zhongdong
 }
-684.2.26={
-	holder=1000202664 #Dan
+684.2.27 = {
+	holder = 217703 #Ruizong of Tang
+}
+690.10.16 = {
+	holder = 217704 #Wu Zetian
+}
+705.12.16 = {
+	holder = 217799 # again
+}
+710.7.3 = {
+	holder = 217705 #Shang of Tang
+}
+710.7.8 = {
+	holder = 217703
+}
+712.9.8 = {
+	holder = 217706 #Xuanzong of Tang
+}
+756.8.12 = {
+	holder = 217707 #Suzong of Tang
+}
+762.5.16 = {
+	holder = 217708 #Daizong of Tang
+}
+779.5.23 = {
+	holder = 217709 #Dezong of Tang
+}
+805.2.25 = {
+	holder = 217710 #Shunzong of Tang
+}
+805.9.5 = {
+	holder = 217711 #Xianzong of Tang
+}
+820.2.14 = {
+	holder = 217712 #Muzong of Tang
+}
+824.2.25 = {
+	holder = 217713 #Jingzong of Tang
+}
+827.1.9 = {
+	holder = 217714 #Wenzong of Tang
+}
+840.2.10 = {
+	holder = 217715 #Wuzong of Tang
+}
+846.4.22 = {
+	holder = 217716 #Xuanzong of Tang
+}
+859.9.7 = {
+	holder = 217717 #Yizong of Tang
+}
+873.8.15 = {
+	holder = 217718 #Xizong of Tang
+}
+888.4.20 = {
+	holder = 217719 #Zhaozong of Tang
+}
+#900.12.1
+#	holder = #Prince Li Yu
+#}
+904.9.22 = {
+	holder = 217720 #Aidi of Tang
 }
 
-#Zhou Dynasty
-690.10.8={
-	holder=1000202661 #Zhao
-}
-
-#Tang Dynasty (restored)
-705.2.22={
-	holder=1000202663 #Xian (again)
-}
-710.7.3={
-	holder=1000202665 #Chongmao
-}
-710.7.25={
-	holder=1000202664 #Dan (again)
-}
-712.9.8={
-	holder=1000202667 #Longji
-}
-756.8.12={
-	holder=1000202670 #Heng
-}
-762.5.16={
-	holder=1000202672 #Yu
-}
-779.5.23={
-	holder=1000202674 #Gua
-}
-805.2.25={
-	holder=1000202675 #Song
-}
-805.8.31={
-	holder=1000202676 #Chun
-}
-820.2.14={
-	holder=1000202678 #Heng
-}
-824.2.25={
-	holder=1000202680 #Zhan
-}
-827.1.9={
-	holder=1000202681 #Ang
-}
-840.2.10={
-	holder=1000202682 #Yan
-}
-846.4.22={
-	holder=1000202679 #Chen
-}
-859.9.7={
-	holder=1000202683 #Cui
-}
-873.8.15={
-	holder=1000202684 #Xuan
-}
-888.4.20={
-	holder=1000202685 #Ye
-}
-904.9.22={
-	holder=1000202686 #Zhu
-}
-907.5.12={
-	holder=0
+#5 Dynasties
+907.5.12 = {
+	holder = 0 # 5 dynasties
 }
 
 960.2.4 ={

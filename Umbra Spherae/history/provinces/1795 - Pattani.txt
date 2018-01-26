@@ -1,0 +1,23 @@
+# 1164 - Pattani
+
+# County Title
+title = c_pattani
+
+# Settlements
+max_settlements = 4
+b_yaring = castle
+b_pattani = city
+#b_mayo_pattani =
+#b_sai_buri =
+#b_nong_chik =
+#b_khok_pho =
+#b_thepha =
+#b_saba_yoi =
+
+# Misc
+culture = malay
+religion = hindu
+
+# History
+
+1136.1.1={ religion = sunni }

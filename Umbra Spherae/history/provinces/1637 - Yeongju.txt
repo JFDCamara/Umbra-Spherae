@@ -1,0 +1,16 @@
+# 1919 - Yeongju
+
+# County Title
+title = c_yeongju
+
+# Settlements
+max_settlements = 1
+b_yeongju_yeongju = tribal
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+
+1050.1.1 = { culture = jurchen }

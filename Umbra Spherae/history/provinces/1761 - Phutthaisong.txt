@@ -1,0 +1,22 @@
+# 1130 - Phutthaisong
+
+# County Title
+title = c_phutthaisong
+
+# Settlements
+max_settlements = 4
+b_na_pho = castle
+b_phutthaisong = city
+b_nong_waeng = temple
+#b_hai_sok =
+#b_ban_yang =
+#b_ban_chan =
+#b_mafueang =
+#b_ban_waeng =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History
+

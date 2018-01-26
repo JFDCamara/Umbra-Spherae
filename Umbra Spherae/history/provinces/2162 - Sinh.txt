@@ -1,0 +1,23 @@
+# 1475 - Sinh
+
+# County Title
+title = c_sinh
+
+# Settlements
+max_settlements = 5
+b_zjanghnjeu = castle
+b_ngyuksren = city
+b_jyensren = city
+b_zjangchiengkuanh = temple
+#b_jikjang =
+#b_kyoihkhe =
+#b_njyedkhux =
+#b_pauxphiung =
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

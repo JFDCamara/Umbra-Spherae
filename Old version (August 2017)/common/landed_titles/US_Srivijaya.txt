@@ -1,0 +1,1770 @@
+e_srivijaya = {
+
+	color = { 214 218 129 }
+	color2 = { 250 250 250 }
+
+	capital = 1687 #Palembang
+
+	k_srivijaya = {
+
+		color = { 19 98 43 }
+		color2 = { 250 250 250 }
+
+		capital = 1687 #Palembang
+
+		d_palembang = {
+
+			color = { 123 100 57 }
+			color2 = { 250 250 250 }
+
+			capital = 1687 #Palembang
+
+			c_palembang = {
+
+				color = { 133 100 57 }
+				color2 = { 250 250 250 }
+
+				b_palembang = {
+				}
+				b_rantau_bayur = {
+				}
+				b_talang_kelapa = {
+				}
+				b_sako = {
+				}
+				b_muara_telang = {
+				}
+				b_makarti_jaya = {
+				}
+				b_banyuasin = {
+				}
+				b_muara_padang = {
+				}
+			}
+			c_cengal = {
+
+				color = { 123 110 57 }
+				color2 = { 250 250 250 }
+
+				b_cengal = {
+				}
+				b_pematang_panggang = {
+				}
+				b_tulung_selapan = {
+				}
+				b_air_sugihan = {
+				}
+				b_mesuji = {
+				}
+				b_pampangan = {
+				}
+				b_kayu_agung = {
+				}
+				b_pedamaran = {
+				}
+			}
+			c_kota_kapur = {
+
+				color = { 123 100 67 }
+				color2 = { 250 250 250 }
+
+				b_kota_kapur = {
+				}
+				b_mendo_barat = {
+				}
+				b_puding_besar = {
+				}
+				b_merawang = {
+				}
+				b_bakam = {
+				}
+				b_pangkal_pinang = {
+				}
+				b_air_gegas = {
+				}
+				b_membalong = {
+				}
+			}
+			c_tulangbawang = {
+
+				color = { 113 100 57 }
+				color2 = { 250 250 250 }
+
+				b_tulang_bawang = {
+				}
+				b_rawajitu_utara = {
+				}
+				b_gedung_aji = {
+				}
+				b_tanjung_raya = {
+				}
+				b_gedung_meneng = {
+				}
+				b_way_serdang = {
+				}
+				b_rawajitu_selatan = {
+				}
+				b_penawar_tama = {
+				}
+			}
+		}
+		d_bengkulu = {
+
+			color = { 114 106 67 }
+			color2 = { 250 250 250 }
+
+			capital = 1738 #Bengkulu
+
+			c_bengkulu = {
+
+				color = { 124 106 67 }
+				color2 = { 250 250 250 }
+
+				b_bengkulu = {
+				}
+				b_teluk_segara = {
+				}
+				b_muara_bangka_hulu = {
+				}
+				b_gading_cempaka = {
+				}
+				b_selebar = {
+				}
+				b_talang_empat = {
+				}
+				b_pondok_kelapa = {
+				}
+				b_kerkap = {
+				}
+			}
+			c_mukomuko = {
+
+				color = { 114 116 67 }
+				color2 = { 250 250 250 }
+
+				b_mukomuko = {
+				}
+				b_lubuk_pinang = {
+				}
+				b_teras_terunjam = {
+				}
+				b_pondoksuguh = {
+				}
+				b_putri_hijau = {
+				}
+				b_sungaipuh = {
+				}
+				b_airdikit = {
+				}
+				b_pondoklunang = {
+				}
+			}
+		}
+		d_karang_berahi = {
+
+			color = { 125 69 55 }
+			color2 = { 250 250 250 }
+
+			capital = 1686 #Karang Berahi
+
+			c_karang_berahi = {
+
+				color = { 135 69 55 }
+				color2 = { 250 250 250 }
+
+				b_karang_berahi = {
+				}
+				b_muara_siau = {
+				}
+				b_jangkat = {
+				}
+				b_limun = {
+				}
+				b_bangko = {
+				}
+				b_pamenang = {
+				}
+				b_sumay = {
+				}
+				b_tebo_tengah = {
+				}
+			}
+			c_tanah_abang = {
+
+				color = { 125 79 55 }
+				color2 = { 250 250 250 }
+
+				holy_site = sumatran_religion
+				holy_site = sumatran_religion_reformed
+				
+				b_tanah_abang = {
+				}
+				b_prabumulih = {
+				}
+				b_penukal_abab = {
+				}
+				b_sungai_rotan = {
+				}
+				b_gelumbang = {
+				}
+				b_rambang_dangku = {
+				}
+				b_genung_megang = {
+				}
+				b_talang_ubi = {
+				}
+			}
+		}
+	}
+	k_melayu = {
+
+		color = { 78 75 44 }
+		color2 = { 250 250 250 }
+
+		capital = 1685 #Muaro Jambi
+
+		d_jambi = {
+
+			color = { 87 61 34 }
+			color2 = { 250 250 250 }
+
+			capital = 1685 #Muaro Jambi
+
+			c_muaro_jambi = {
+
+				color = { 97 61 34 }
+				color2 = { 250 250 250 }
+
+				b_muaro_jambi = {
+				}
+				b_kumpeh = {
+				}
+				b_mestong = {
+				}
+				b_maro_sebo = {
+				}
+				b_betara = {
+				}
+				b_mendahara = {
+				}
+				b_sekernan = {
+				}
+				b_tungkal_ilir = {
+				}
+			}
+			c_gaung = {
+
+				color = { 87 71 34 }
+				color2 = { 250 250 250 }
+				
+				holy_site = sumatran_religion
+				holy_site = sumatran_religion_reformed
+
+				b_gaung = {
+				}
+				b_kuala_indragiri = {
+				}
+				b_mandah = {
+				}
+				b_kateman = {
+				}
+				b_tanah_merah = {
+				}
+				b_enok = {
+				}
+				b_tempuling = {
+				}
+				b_batang_tuaka = {
+				}
+			}
+			c_bukit_raya = {
+
+				color = { 87 61 44 }
+				color2 = { 250 250 250 }
+
+				b_bukit_raya = {
+				}
+				b_siak = {
+				}
+				b_pekanbaru = {
+				}
+				b_tampan = {
+				}
+				b_siak_hulu = {
+				}
+				b_pelalawan = {
+				}
+				b_kerinci_kanan = {
+				}
+				b_dayun = {
+				}
+			}
+		}
+		d_panai = {
+
+			color = { 88 47 33 }
+			color2 = { 250 250 250 }
+
+			capital = 1682 #Panai
+
+			c_panai = {
+
+				color = { 98 47 33 }
+				color2 = { 250 250 250 }
+
+				b_panai = {
+				}
+				b_senaboi = {
+				}
+				b_rimba_melintang = {
+				}
+				b_bangko_pusaka = {
+				}
+				b_kualuh_hilir = {
+				}
+				b_kubu = {
+				}
+				b_bilah_hilir = {
+				}
+				b_aek_kuo = {
+				}
+			}
+			c_dumai = {
+
+				color = { 88 57 33 }
+				color2 = { 250 250 250 }
+
+				b_dumai = {
+				}
+				b_rupat = {
+				}
+				b_sungai_sembilan = {
+				}
+				b_tanah_putih = {
+				}
+				b_dumai_timur = {
+				}
+				b_tanjungmedang = {
+				}
+				b_mandau = {
+				}
+				b_bukit_kapur = {
+				}
+			}
+			c_aru = {
+
+				color = { 88 47 43 }
+				color2 = { 250 250 250 }
+
+				b_aru = {
+				}
+				b_binjai = {
+				}
+				b_hamparan_perak = {
+				}
+				b_perbaungan = {
+				}
+				b_tebing_tinggi = {
+				}
+				b_raya_kahean = {
+				}
+				b_sei_bingai = {
+				}
+				b_batang_serangan = {
+				}
+			}
+		}
+		d_temasek = {
+
+			color = { 86 87 34 }
+			color2 = { 250 250 250 }
+
+			capital = 1735 #Temasek
+
+			c_temasek = {
+
+				color = { 96 87 34 }
+				color2 = { 250 250 250 }
+
+				b_temasek = {
+				}
+				b_tuas = {
+				}
+				b_bukit_timah = {
+				}
+				b_yishun = {
+				}
+				b_sengkang = {
+				}
+				b_bedok = {
+				}
+				b_nongsa = {
+				}
+				b_sei_beduk = {
+				}
+			}
+			c_lingga = {
+
+				color = { 86 97 34 }
+				color2 = { 250 250 250 }
+
+				b_lingga = {
+				}
+				b_daik = {
+				}
+				b_singkep = {
+				}
+				b_singkep_barat = {
+				}
+				b_senayang = {
+				}
+				b_kado = {
+				}
+				b_pelanduk = {
+				}
+				b_linau = {
+				}
+			}
+		}
+	}
+	k_minangkabau = {
+
+		color = { 20 190 60 }
+		color2 = { 250 250 250 }
+
+		capital = 1742 #Pariaman
+
+		d_pariaman = {
+
+			color = { 30 181 120 }
+			color2 = { 250 250 250 }
+
+			capital = 1742 #Pariaman
+
+			c_pariaman = {
+
+				color = { 40 181 120 }
+				color2 = { 250 250 250 }
+
+				b_pariaman = {
+				}
+				b_nan_sabaris = {
+				}
+				b_koto_sungai_sarik = {
+				}
+				b_patamuan = {
+				}
+				b_kayu_tanam = {
+				}
+				b_koto_timur = {
+				}
+				b_sungai_limau = {
+				}
+				b_batang_gasan = {
+				}
+			}
+			c_hibala = {
+
+				color = { 30 191 120 }
+				color2 = { 250 250 250 }
+
+				b_hibala = {
+				}
+				b_pulautelo = {
+				}
+				b_labuhanrima = {
+				}
+				b_lambak = {
+				}
+				b_muarsiget = {
+				}
+				b_kagogolo = {
+				}
+				b_sibabau = {
+				}
+				b_gilitar = {
+				}
+			}
+		}
+		d_padang = {
+
+			color = { 21 153 41 }
+			color2 = { 250 250 250 }
+
+			capital = 1740 #Padang
+
+			c_padang = {
+
+				color = { 31 153 41 }
+				color2 = { 250 250 250 }
+
+				b_padang = {
+				}
+				b_padangsarai = {
+				}
+				b_kajuara = {
+				}
+				b_pasar_sungainjal = {
+				}
+				b_sungaitalang = {
+				}
+				b_painan = {
+				}
+				b_lubukbargalung = {
+				}
+				b_sungailundang = {
+				}
+			}
+			c_sungai_rumbai = {
+
+				color = { 21 163 41 }
+				color2 = { 250 250 250 }
+
+				b_sungai_rumbai = {
+				}
+				b_koto_baru = {
+				}
+				b_pulau_punjung = {
+				}
+				b_kamang_baru = {
+				}
+				b_tanjung_gadang = {
+				}
+				b_sungai_pagu = {
+				}
+				b_kupitan = {
+				}
+				b_lubuk_tarok = {
+				}
+			}
+		}
+		d_pagarruyung = {
+
+			color = { 26 185 169 }
+			color2 = { 250 250 250 }
+
+			capital = 1739 #Pagarruyung
+
+			c_pagarruyung = {
+
+				color = { 36 185 169 }
+				color2 = { 250 250 250 }
+				
+				holy_site = sumatran_religion
+				holy_site = sumatran_religion_reformed
+
+				b_pagarruyung = {
+				}
+				b_sumpur_kudus = {
+				}
+				b_lintau_buo = {
+				}
+				b_tanjung_emas = {
+				}
+				b_lareh_sago_halaban = {
+				}
+				b_harau = {
+				}
+				b_singingi_hilir = {
+				}
+				b_kampar_kiri = {
+				}
+			}
+			c_kuntodarussalam = {
+
+				color = { 26 195 169 }
+				color2 = { 250 250 250 }
+
+				b_kuntodarussalam = {
+				}
+				b_kepenuhan = {
+				}
+				b_tembusai_hutara = {
+				}
+				b_rambah_samo = {
+				}
+				b_tandun = {
+				}
+				b_tapung_kiri = {
+				}
+				b_koto_kampar = {
+				}
+				b_bangkinang = {
+				}
+			}
+		}
+	}
+	k_samudra_pasai = {
+
+		color = { 88  137  172 }
+		color2 = { 250 250 250 }
+
+		capital = 1736 #Samudra
+
+		d_samudra = {
+
+			color = { 83  99  176 }
+			color2 = { 250 250 250 }
+
+			capital = 1736 #Samudra
+
+			c_samudra = {
+
+				color = { 93  99  176 }
+				color2 = { 250 250 250 }
+				
+				holy_site = sumatran_religion
+				holy_site = sumatran_religion_reformed
+
+				b_samudra = {
+				}
+				b_jangka = {
+				}
+				b_ganda_pura = {
+				}
+				b_makmur = {
+				}
+				b_peusangan = {
+				}
+				b_sawang = {
+				}
+				b_kuta_makmur = {
+				}
+				b_lhokseumawe = {
+				}
+			}
+			c_perlak = {
+
+				color = { 83  109  176 }
+				color2 = { 250 250 250 }
+
+				b_perlak = {
+				}
+				b_banda_alam = {
+				}
+				b_peudawa = {
+				}
+				b_darul_aman = {
+				}
+				b_nurussalam = {
+				}
+				b_idi_rayeuk = {
+				}
+				b_sungai_raya = {
+				}
+				b_rantau_selamat = {
+				}
+			}
+		}
+		d_aceh = {
+
+			color = { 106  153  153 }
+			color2 = { 250 250 250 }
+
+			capital = 1715 #Lamuri
+
+			c_lamuri = {
+
+				color = { 116  153  153 }
+				color2 = { 250 250 250 }
+
+				b_lamuri = {
+				}
+				b_baitussalam = {
+				}
+				b_mesjid_raya = {
+				}
+				b_seulimeum = {
+				}
+				b_suka_makmur = {
+				}
+				b_ingin_jaya = {
+				}
+				b_darul_kamal = {
+				}
+				b_lhoong = {
+				}
+			}
+			c_manggeng = {
+
+				color = { 106  163  153 }
+				color2 = { 250 250 250 }
+
+				b_manggeng = {
+				}
+				b_tangan_tangan = {
+				}
+				b_labuhan_haji = {
+				}
+				b_susoh = {
+				}
+				b_blang_pidie = {
+				}
+				b_meukek = {
+				}
+				b_sawang_manggeng = {
+				}
+				b_sama_dua = {
+				}
+			}
+			c_andaman = {
+
+				color = { 106  153  163 }
+				color2 = { 250 250 250 }
+				
+				holy_site = malagasy_religion
+				holy_site = malagasy_religion_reformed
+
+				b_adazig = {
+				}
+				b_manjery = {
+				}
+				b_rangat = {
+				}
+				b_mayabunder = {
+				}
+				b_madhupur = {
+				}
+				b_geinyale = {
+				}
+				b_chetamale = {
+				}
+				b_palalankwe = {
+				}
+			}
+		}
+		d_barus = {
+
+			color = { 103  98  162 }
+			color2 = { 250 250 250 }
+
+			capital = 1681 #Barus
+
+			c_barus = {
+
+				color = { 113  98  162 }
+				color2 = { 250 250 250 }
+
+				holy_site = sumatran_religion
+				holy_site = sumatran_religion_reformed
+				
+				b_barus = {
+				}
+				b_sosor_gadong = {
+				}
+				b_pakkat = {
+				}
+				b_onan_ganjang = {
+				}
+				b_manduamas = {
+				}
+				b_singkil = {
+				}
+				b_trumon = {
+				}
+				b_bakongan = {
+				}
+			}
+			c_sibolga = {
+
+				color = { 103  108  162 }
+				color2 = { 250 250 250 }
+
+				b_sibolga = {
+				}
+				b_kolang = {
+				}
+				b_tapian_nauli = {
+				}
+				b_sibabangun = {
+				}
+				b_batang_toru = {
+				}
+				b_sipirok = {
+				}
+				b_muara_batang_gadis = {
+				}
+				b_batang_natal = {
+				}
+			}
+		}
+	}
+	k_hujung_medini = {
+
+		color= { 198 111 15 }
+		color2 = { 250 250 250 }
+
+		capital = 1591 #Kedaram
+
+		d_langkasuka = {
+
+			color= { 119 49 47 }
+			color2 = { 250 250 250 }
+
+			capital = 1591 #Kedaram
+
+			c_kedaram = {
+
+				color= { 129 49 47 }
+				color2 = { 250 250 250 }
+
+				b_kedaram = {
+				}
+				b_jitra = {
+				}
+				b_ayer_hitam = {
+				}
+				b_kodiang = {
+				}
+				b_arau = {
+				}
+				b_kangar = {
+				}
+				b_kuala_nerang = {
+				}
+				b_pendang = {
+				}
+			}
+			c_pattani = {
+
+				color= { 119 59 47 }
+				color2 = { 250 250 250 }
+
+				b_pattani = {
+				}
+				b_yaring = {
+				}
+				b_mayo = {
+				}
+				b_sai_buri = {
+				}
+				b_nong_chik = {
+				}
+				b_khok_pho = {
+				}
+				b_thepha = {
+				}
+				b_saba_yoi = {
+				}
+			}
+			c_kelantan = {
+
+				color= { 119 49 57 }
+				color2 = { 250 250 250 }
+
+				b_kelantan = {
+				}
+				b_kuala_krai = {
+				}
+				b_narathiwat = {
+				}
+				b_sungai_kolok = {
+				}
+				b_rangae = {
+				}
+				b_gua_musang = {
+				}
+				b_kuala_balah = {
+				}
+				b_dabong = {
+				}
+			}
+		}
+		d_melaka = {
+
+			color= { 138 100 74 }
+			color2 = { 250 250 250 }
+
+			capital = 1764 #Melaka
+
+			c_melaka = {
+
+				color= { 138 100 84 }
+				color2 = { 250 250 250 }
+
+				b_melaka = {
+				}
+				b_muar = {
+				}
+				b_seremban = {
+				}
+				b_batu_pahat = {
+				}
+				b_merlimau = {
+				}
+				b_bakri = {
+				}
+				b_pagoh = {
+				}
+				b_bukit_gambir = {
+				}
+			}
+			c_klang = {
+
+				color= { 138 110 74 }
+				color2 = { 250 250 250 }
+
+				b_klang = {
+				}
+				b_rawang = {
+				}
+				b_kuala_selangor = {
+				}
+				b_sekinchan = {
+				}
+				b_sungai_besar = {
+				}
+				b_teluk_intan = {
+				}
+				b_langkap = {
+				}
+				b_sitiawan = {
+				}
+			}
+		}
+		d_pekan = {
+
+			color= { 136 135 77 }
+			color2 = { 250 250 250 }
+
+			capital = 1679 #Pekan
+
+			c_pekan = {
+
+				color= { 146 135 77 }
+				color2 = { 250 250 250 }
+
+				b_pekan = {
+				}
+				b_kuantan = {
+				}
+				b_balok = {
+				}
+				b_sungai_lembing = {
+				}
+				b_chukai = {
+				}
+				b_gambang = {
+				}
+				b_kampung_batu_sebelas = {
+				}
+				b_kuala_rompin = {
+				}
+			}
+			c_dungun = {
+
+				color= { 136 145 77 }
+				color2 = { 250 250 250 }
+
+				b_dungun = {
+				}
+				b_kerteh = {
+				}
+				b_paka = {
+				}
+				b_ketengah_jaya = {
+				}
+				b_bukit_besi = {
+				}
+				b_kampung_baru = {
+				}
+				b_felda_jerangau = {
+				}
+				b_kampung_pulut = {
+				}
+			}
+			c_terengganu = {
+
+				color= { 136 135 87 }
+				color2 = { 250 250 250 }
+
+				b_terengganu = {
+				}
+				b_marang = {
+				}
+				b_kampung_wakaf_tengah = {
+				}
+				b_kampung_bukit_nenas = {
+				}
+				b_kuala_berang = {
+				}
+				b_kampung_felcra_bukit_kapah = {
+				}
+				b_permaisuri = {
+				}
+				b_kampung_laloh = {
+				}
+			}
+		}
+		d_ligor = {
+
+			color= { 117 97 49 }
+			color2 = { 250 250 250 }
+
+			capital = 1590 #Nakhon Si Thammarat
+
+			malay="Tambralinga"
+
+			c_nakhon_si_thammarat = {
+
+				malay="Siridhammanagara"
+				
+				color= { 127 97 49 }
+				color2 = { 250 250 250 }
+
+				b_nakhon_si_thammarat = {
+					malay="Siridhammanagara"
+				}
+				b_pak_phanang = {
+				}
+				b_tha_sala = {
+				}
+				b_ron_phibun = {
+				}
+				b_cha_uat = {
+				}
+				b_thung_song = {
+				}
+				b_huai_yot = {
+				}
+				b_trang = {
+				}
+			}
+			c_chaiya = {
+
+				color= { 117 107 49 }
+				color2 = { 250 250 250 }
+
+				b_chaiya = {
+				}
+				b_surat_thani = {
+				}
+				b_kanchanadit = {
+				}
+				b_tha_chana = {
+				}
+				b_khiri_rat_nikhom = {
+				}
+				b_khura_buri = {
+				}
+				b_ranong = {
+				}
+				b_lang_suan = {
+				}
+			}
+			c_takua_pa = {
+
+				color= { 117 97 59 }
+				color2 = { 250 250 250 }
+
+				b_takua_pa = {
+				}
+				b_kapong = {
+				}
+				b_phuket = {
+				}
+				b_plai_phraya = {
+				}
+				b_ao_luek = {
+				}
+				b_ko_yao = {
+				}
+				b_phang_nga = {
+				}
+				b_takua_thung = {
+				}
+			}
+		}
+	}
+	k_sunda = {
+
+		color = { 164 10 14 }
+		color2 = { 250 250 250 }
+
+		capital = 1693 #Pakuan Pajajaran
+
+		d_banten = {
+
+			color = { 140 145 60 }
+			color2 = { 250 250 250 }
+
+			capital = 1693 #Pakuan Pajajaran
+
+			c_pakuan_pajajaran = {
+
+				color = { 150 145 60 }
+				color2 = { 250 250 250 }
+
+				b_pakuan_pajajaran = {
+				}
+				b_batutulis = {
+				}
+				b_ciaruteun = {
+				}
+				b_kebon_kopi = {
+				}
+				b_pangguyangan = {
+				}
+				b_ciampea = {
+				}
+				b_cibungbulang = {
+				}
+				b_leuwiliang = {
+				}
+			}
+			c_banten_girang = {
+
+				color = { 140 155 60 }
+				color2 = { 250 250 250 }
+
+				holy_site = java_religion
+				holy_site = java_religion_reformed
+				
+				b_banten_girang = {
+				}
+				b_banten = {
+				}
+				b_pontang = {
+				}
+				b_cigede = {
+				}
+				b_tangaram = {
+				}
+				b_unyur = {
+				}
+				b_kasemen = {
+				}
+				b_cibeber = {
+				}
+			}
+			c_pulasari = {
+
+				color = { 140 145 70 }
+				color2 = { 250 250 250 }
+
+				b_pulasari = {
+				}
+				b_jiput = {
+				}
+				b_menes = {
+				}
+				b_pagelaran = {
+				}
+				b_labuhan = {
+				}
+				b_panimbang = {
+				}
+				b_cibaliung = {
+				}
+				b_cimanggu = {
+				}
+			}
+		}
+		d_buni = {
+
+			color = { 94 142 62 }
+			color2 = { 250 250 250 }
+
+			capital = 1694 #Tugu
+
+			c_tugu = {
+
+				color = { 104 142 62 }
+				color2 = { 250 250 250 }
+
+				b_tugu = {
+				}
+				b_sunda_kalapa = {
+				}
+				b_batujaya = {
+				}
+				b_tanjungbarat = {
+				}
+				b_cibuaya = {
+				}
+				b_jonggol = {
+				}
+				b_cariu = {
+				}
+				b_rengasdengklok = {
+				}
+			}
+			c_bojong_menje = {
+
+				color = { 94 152 62 }
+				color2 = { 250 250 250 }
+				
+				holy_site = java_religion
+				holy_site = java_religion_reformed
+
+				b_bojong_menje = {
+				}
+				b_arca_domas = {
+				}
+				b_lembang = {
+				}
+				b_cimenyan = {
+				}
+				b_rancaekek = {
+				}
+				b_tanjungsari = {
+				}
+				b_soreang = {
+				}
+				b_batujajar = {
+				}
+			}
+		}
+		d_parahyangan = {
+
+			color = { 152 130 52 }
+			color2 = { 250 250 250 }
+
+			capital = 1692 #Cibadak
+
+			c_cibadak = {
+
+				color = { 162 130 52 }
+				color2 = { 250 250 250 }
+
+				b_cibadak = {
+				}
+				b_cicatih = {
+				}
+				b_cidahu = {
+				}
+				b_cikidang = {
+				}
+				b_warungkiara = {
+				}
+				b_cikembar = {
+				}
+				b_ciemas = {
+				}
+				b_sukabumi = {
+				}
+			}
+			c_cangkuang = {
+
+				color = { 152 140 52 }
+				color2 = { 250 250 250 }
+
+				b_cangkuang = {
+				}
+				b_leles = {
+				}
+				b_kadungora = {
+				}
+				b_tarogong = {
+				}
+				b_kotawetan = {
+				}
+				b_cibalong = {
+				}
+				b_cisompet = {
+				}
+				b_samarang = {
+				}
+			}
+		}
+		d_galuh = {
+
+			color = { 155 207 48 }
+			color2 = { 250 250 250 }
+
+			capital = 1696 #Kawali
+
+			c_kawali = {
+
+				color = { 165 207 48 }
+				color2 = { 250 250 250 }
+
+				b_kawali = {
+				}
+				b_karang_kamulyan = {
+				}
+				b_cirebon = {
+				}
+				b_linggajati = {
+				}
+				b_cipari = {
+				}
+				b_saunggalah = {
+				}
+				b_panjalu = {
+				}
+				b_subang = {
+				}
+			}
+			c_pangandaran = {
+
+				color = { 155 217 48 }
+				color2 = { 250 250 250 }
+
+				b_pangandaran = {
+				}
+				b_cimerak = {
+				}
+				b_langkaplancar = {
+				}
+				b_wanareja = {
+				}
+				b_dayeuh_luhur = {
+				}
+				b_cimanggu = {
+				}
+				b_lumbir = {
+				}
+				b_kawungganten = {
+				}
+			}
+			c_cimanuk = {
+
+				color = { 155 207 58 }
+				color2 = { 250 250 250 }
+
+				b_cimanuk = {
+				}
+				b_cemara = {
+				}
+				b_losarang = {
+				}
+				b_kandanghaur = {
+				}
+				b_gabuswetan = {
+				}
+				b_sindang = {
+				}
+				b_indramayu = {
+				}
+				b_pabean_udik = {
+				}
+			}
+		}
+		d_lampung = {
+
+			color = { 203 191 52 }
+			color2 = { 250 250 250 }
+
+			capital = 1688 #Palas Pasemah
+
+			c_palas_pasemah = {
+
+				color = { 213 191 52 }
+				color2 = { 250 250 250 }
+
+				b_palas_pasemah = {
+				}
+				b_bandar_lampung = {
+				}
+				b_jati_agung = {
+				}
+				b_penengahan = {
+				}
+				b_jabung = {
+				}
+				b_mataram_baru = {
+				}
+				b_melinting = {
+				}
+				b_natar = {
+				}
+			}
+			c_lemong = {
+
+				color = { 203 201 52 }
+				color2 = { 250 250 250 }
+
+				b_lemong = {
+				}
+				b_maje = {
+				}
+				b_mekakau_ilir = {
+				}
+				b_pesisir = {
+				}
+				b_balik_bukit = {
+				}
+				b_sukau = {
+				}
+				b_belalau = {
+				}
+				b_bengkunat = {
+				}
+			}
+		}
+	}
+	k_nusa_tanjungnagara = {
+
+		color = { 100 100 144 }
+		color2 = { 250 250 250 }
+
+		capital = 1712 #Tanjungpura
+
+		d_tanjungpura = {
+
+			color = { 115 130 168 }
+			color2 = { 250 250 250 }
+
+			capital = 1712 #Tanjungpura
+
+			c_tanjungpura = {
+
+				color = { 125 130 168 }
+				color2 = { 250 250 250 }
+
+				holy_site = bornean_religion
+				holy_site = bornean_religion_reformed
+				holy_site = malagasy_religion
+				holy_site = malagasy_religion_reformed
+				
+				b_tanjungpura = {
+				}
+				b_kualamandor = {
+				}
+				b_sungaikakap = {
+				}
+				b_siantan = {
+				}
+				b_rasau_jaya = {
+				}
+				b_sungaiambawang = {
+				}
+				b_telukpadekai = {
+				}
+				b_kubu = {
+				}
+			}
+			c_sukadana = {
+
+				color = { 115 140 168 }
+				color2 = { 250 250 250 }
+
+				b_sukadana = {
+				}
+				b_telukmelano = {
+				}
+				b_siduk = {
+				}
+				b_sungatulak = {
+				}
+				b_jerukung = {
+				}
+				b_aurkuning = {
+				}
+				b_nagatayap = {
+				}
+				b_tanjungsatai = {
+				}
+			}
+			c_sanggau = {
+
+				color = { 115 130 178 }
+				color2 = { 250 250 250 }
+
+				holy_site = bornean_religion
+				holy_site = bornean_religion_reformed
+				holy_site = malagasy_religion
+				holy_site = malagasy_religion_reformed
+				
+				b_sanggau = {
+				}
+				b_sintang = {
+				}
+				b_sekadau = {
+				}
+				b_nangapinoh = {
+				}
+				b_bodok = {
+				}
+				b_rawak = {
+				}
+				b_tempunak = {
+				}
+				b_pusatdamai = {
+				}
+			}
+			c_ketapang = {
+
+				color = { 105 130 168 }
+				color2 = { 250 250 250 }
+
+				b_ketapang = {
+				}
+				b_mulakerta = {
+				}
+				b_pesaguan = {
+				}
+				b_bagankemitung = {
+				}
+				b_tanjung = {
+				}
+				b_senengka = {
+				}
+				b_matua = {
+				}
+				b_kendawangan = {
+				}
+			}
+		}
+		d_banjarmasin = {
+
+			color = { 105 138 177 }
+			color2 = { 250 250 250 }
+
+			capital = 1718 #Banjarmasin
+
+			c_banjarmasin = {
+
+				color = { 115 138 177 }
+				color2 = { 250 250 250 }
+
+				holy_site = bornean_religion
+				holy_site = bornean_religion_reformed
+				holy_site = malagasy_religion
+				holy_site = malagasy_religion_reformed
+				
+				b_banjarmasin = {
+				}
+				b_kota_baru = {
+				}
+				b_martapura = {
+				}
+				b_banjarbaru = {
+				}
+				b_rantau = {
+				}
+				b_kandangan = {
+				}
+				b_baraban = {
+				}
+				b_amuntai = {
+				}
+			}
+			c_katingan = {
+
+				color = { 105 148 177 }
+				color2 = { 250 250 250 }
+
+				b_katingan = {
+				}
+				b_sampit = {
+				}
+				b_palangkaraya = {
+				}
+				b_kuala_kapuas = {
+				}
+				b_samuda = {
+				}
+				b_kasongan = {
+				}
+				b_tangkiling = {
+				}
+				b_muarateweh = {
+				}
+			}
+			c_bakulapura = {
+
+				color = { 105 138 187 }
+				color2 = { 250 250 250 }
+
+				b_bakulapura = {
+				}
+				b_pangkalabun = {
+				}
+				b_kumai = {
+				}
+				b_telagapulang = {
+				}
+				b_sukamara = {
+				}
+				b_kotawaringin = {
+				}
+				b_tapinbini = {
+				}
+				b_kudangan = {
+				}
+			}
+		}
+		d_kutai = {
+
+			color = { 115 155 168 }
+			color2 = { 250 250 250 }
+
+			capital = 1680 #Kutai
+
+			c_kutai = {
+
+				color = { 125 155 168 }
+				color2 = { 250 250 250 }
+
+				holy_site = bornean_religion
+				holy_site = bornean_religion_reformed
+				holy_site = malagasy_religion
+				holy_site = malagasy_religion_reformed
+				
+				b_kutai = {
+				}
+				b_sangasanga = {
+				}
+				b_samboja = {
+				}
+				b_balikpapan = {
+				}
+				b_panajam = {
+				}
+				b_longkalis = {
+				}
+				b_tenggarong = {
+				}
+				b_muarakaleng = {
+				}
+			}
+			c_bontang = {
+
+				color = { 115 165 168 }
+				color2 = { 250 250 250 }
+
+				b_bontang = {
+				}
+				b_muaraancalong = {
+				}
+				b_lubuktutung = {
+				}
+				b_tanjungmanis = {
+				}
+				b_sangkuliang = {
+				}
+				b_muaramadu = {
+				}
+				b_sepinang = {
+				}
+				b_ratuputih = {
+				}
+			}
+			c_tarakan = {
+
+				color = { 115 155 178 }
+				color2 = { 250 250 250 }
+
+				b_tarakan = {
+				}
+				b_bunyu = {
+				}
+				b_tanahmerah = {
+				}
+				b_tanjungselor = {
+				}
+				b_sesayap = {
+				}
+				b_pasar_sapi = {
+				}
+				b_kabuang = {
+				}
+				b_nunukan = {
+				}
+			}
+		}
+		d_brunei = {
+
+			color = { 95 155 188 }
+			color2 = { 250 250 250 }
+
+			capital = 1724 #Poli
+
+			c_po_li = {
+
+				color = { 105 155 188 }
+				color2 = { 250 250 250 }
+				
+				holy_site = bornean_religion
+				holy_site = bornean_religion_reformed
+
+				b_po_li = {
+				}
+				b_limbang = {
+				}
+				b_miri = {
+				}
+				b_marudi = {
+				}
+				b_lawas = {
+				}
+				b_labuan = {
+				}
+				b_bangar = {
+				}
+				b_siritang = {
+				}
+			}
+			c_bintulu = {
+
+				color = { 95 165 188 }
+				color2 = { 250 250 250 }
+
+				b_bintulu = {
+				}
+				b_dalat = {
+				}
+				b_mukah = {
+				}
+				b_kapit = {
+				}
+				b_belaga = {
+				}
+				b_sibu = {
+				}
+				b_belawai = {
+				}
+				b_maradong = {
+				}
+			}
+			c_sambas = {
+
+				color = { 95 155 198 }
+				color2 = { 250 250 250 }
+
+				b_sambas = {
+				}
+				b_sejangkung = {
+				}
+				b_sekura = {
+				}
+				b_sentebang = {
+				}
+				b_pemangkat = {
+				}
+				b_selakau = {
+				}
+				b_kaliau = {
+				}
+				b_tebas = {
+				}
+			}
+		}
+	}
+}
+
+d_pasai = {
+
+	color = { 93  99  176 }
+	color2 = { 250 250 250 }
+
+	capital = 1736 #Samudra
+}
+
+d_perlak = {
+
+	color = { 83  109  176 }
+	color2 = { 250 250 250 }
+
+	capital = 1716 #Perlak
+}
+
+k_galuh = {
+
+	color = { 155 207 48 }
+	color2 = { 250 250 250 }
+
+	capital = 1696 #Kawali
+}

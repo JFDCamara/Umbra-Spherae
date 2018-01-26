@@ -1,42 +1,14 @@
-e_tang = {
-	color={ 162 32 65 }
-	color2={ 255 255 255 }  # Only for the CoA
-	allow = {
-		always = no
-	}
-}
-e_zhou = {
-	color={ 162 32 65 }
-	color2={ 255 255 255 }  # Only for the CoA
-	allow = {
-		always = no
-	}
-}
-e_song = {
-	color={ 162 32 65 }
-	color2={ 255 255 255 }  # Only for the CoA
-	allow = {
-		always = no
-	}
-}
-e_yuan = {
-	color={ 162 32 65 }
-	color2={ 255 255 255 }  # Only for the CoA
-	allow = {
-		always = no
-	}
-}
 e_china = {
 
-	capital = 2019 # Bienh
-	#capital = 1460 # Ghang
+	capital = 2136 # Bienh
+	#capital =  # Ghang
 
 	color={ 162 32 65 }
 	color2={ 255 255 255 }
 
 	k_liang = { #Liang
 
-		capital = 2019 # Bienh
+		capital = 2136 # Bienh
 
 		color={ 44 169 225 }
 		color2={ 255 255 255 }		
@@ -46,7 +18,7 @@ e_china = {
 			color={ 12 135 201 }
 			color2={ 255 255 255 }
 
-			capital = 2019 # Bienh
+			capital = 2136 # Bienh
 
 			c_bienh = {
 
@@ -92,7 +64,7 @@ e_china = {
 			color={ 131 205 237 }
 			color2={ 255 255 255 }
 
-			capital = 2004 # Cex (was 1422 Puk)
+			capital = 2121 # Cex (was 1422 Puk)
 
 			c_cex = {
 
@@ -153,6 +125,7 @@ e_china = {
 				}
 				b_yingtian = {
 					holy_site = confucian
+					holy_site = shenjiao
 				}
 				b_ngyozjeng = {
 				}
@@ -167,7 +140,7 @@ e_china = {
 			color={ 128 240 179 }
 			color2={ 255 255 255 }
 
-			capital = 2007 # Haix (was 1428 Bii)
+			capital = 2124 # Haix (was 1428 Bii)
 
 			c_haix = {
 
@@ -307,7 +280,7 @@ e_china = {
 			color={ 51 232 133 }
 			color2={ 255 255 255 }
 
-			capital = 2017 # Ghua (was 1436 Lio)
+			capital = 2134 # Ghua (was 1436 Lio)
 
 			c_zjuh = {
 
@@ -424,7 +397,7 @@ e_china = {
 			color={ 111 138 247 }
 			color2={ 255 255 255 }
 
-			capital = 2020 # Si
+			capital = 2137 # Si
 
 			c_si = {
 
@@ -483,7 +456,7 @@ e_china = {
 				}
 				b_siangzjeng = {
 				}
-				b_sjep = {
+				b_sjep_njox = {
 				}
 				b_limnjox = {
 				}
@@ -498,7 +471,7 @@ e_china = {
 			color={ 152 171 250 }
 			color2={ 255 255 255 }
 
-			capital = 2023 # Hiox
+			capital = 2140 # Hiox
 
 			c_hiox = {
 
@@ -595,14 +568,14 @@ e_china = {
 		color={ 189 233 56 }
 		color2={ 255 255 255 }
 
-		capital = 1995 # Ze
+		capital = 2112 # Ze
 
 		d_cricheng = { #Ziqing
 
 			color={ 138 180 14 }
 			color2={ 255 255 255 }
 
-			capital = 1995 # Ze
+			capital = 2112 # Ze
 
 			c_ze = {
 
@@ -676,7 +649,7 @@ e_china = {
 			color={ 224 238 51 }
 			color2={ 255 255 255 }
 
-			capital = 1998 # Tong
+			capital = 2115 # Tong
 
 			c_tong = {
 
@@ -714,7 +687,7 @@ e_china = {
 				b_cikmok = {
 				}
 				b_lausrentadchiengkiung = {
-					holy_site = tao
+					holy_site = taoist
 				}
 				b_haixchang = {
 				}
@@ -751,7 +724,7 @@ e_china = {
 			color={ 166 148 17 }
 			color2={ 255 255 255 }
 
-			capital = 2001 # Yonh
+			capital = 2118 # Yonh
 
 			c_yonh = {
 
@@ -784,6 +757,7 @@ e_china = {
 				}
 				b_khyukbiux = {
 					holy_site = confucian
+					holy_site = shenjiao
 				}
 				b_criu = {
 				}
@@ -825,14 +799,14 @@ e_china = {
 		color={ 166 200 178 }
 		color2={ 255 255 255 }
 
-		capital = 2027 # Sjing
+		capital = 2144 # Sjing
 
 		d_kianhkhang = { #Jiankang
 
 			color={ 119 150 112 }
 			color2={ 255 255 255 }
 
-			capital = 2027 # Sjing
+			capital = 2144 # Sjing
 
 			c_sjing = {
 
@@ -847,6 +821,7 @@ e_china = {
 				}
 				b_jinshan = {
 					holy_site = confucian
+					holy_site = shenjiao
 				}
 				b_litjang = {
 				}
@@ -887,7 +862,7 @@ e_china = {
 			color={ 100 159 121 }
 			color2={ 255 255 255 }
 
-			capital = 2030 # Zjang (was 1455 Njynh)
+			capital = 2147 # Zjang (was 1455 Njynh)
 
 			c_zjang = {
 
@@ -948,7 +923,7 @@ e_china = {
 				}
 				b_zjanghhaix = {
 				}
-				b_kimsren = {
+				b_kimsren_siuh = {
 				}
 				b_nenghaix = {
 				}
@@ -970,7 +945,7 @@ e_china = {
 				}
 				b_ankjit = {
 				}
-				b_drianghing = {
+				b_drianghing_gho = {
 				}
 				b_ghohsjenghmyanghzjuhzsih = {
 				}
@@ -1025,7 +1000,7 @@ e_china = {
 			color={ 174 182 133 }
 			color2={ 255 255 255 }
 
-			capital = 2035 # Yat
+			capital = 2152 # Yat
 
 			c_yat = {
 
@@ -1139,7 +1114,7 @@ e_china = {
 			color={ 113 121 72 }
 			color2={ 255 255 255 }
 
-			capital = 2040 # Syen
+			capital = 2157 # Syen
 
 			c_syen = {
 
@@ -1195,7 +1170,7 @@ e_china = {
 				b_cekkhe = {
 				}
 				b_qiyun = {
-					holy_site = tao
+					holy_site = taoist
 				}
 				b_liuneng = {
 				}
@@ -1219,6 +1194,7 @@ e_china = {
 				}
 				b_bailudong = {
 					holy_site = confucian
+					holy_site = shenjiao
 				}
 				b_zjyehchjang = {
 				}
@@ -1280,14 +1256,14 @@ e_china = {
 		color={ 164 43 21 }
 		color2={ 255 255 255 }
 
-		capital = 2051 # Piuk
+		capital = 2168 # Piuk
 
 		d_piukkianh = { #Fujian
 
 			color={ 203 53 27 }
 			color2={ 255 255 255 }
 
-			capital = 2051 # Piuk
+			capital = 2168 # Piuk
 
 			c_piuk = {
 
@@ -1361,7 +1337,7 @@ e_china = {
 			color={ 182 98 22 }
 			color2={ 255 255 255 }
 
-			capital = 2054 # Theng
+			capital = 2171 # Theng
 
 			c_theng = {
 
@@ -1385,7 +1361,7 @@ e_china = {
 			color={ 223 139 26 }
 			color2={ 255 255 255 }
 
-			capital = 2055 # Zyen (was 1488 Hing-hruah)
+			capital = 2172 # Zyen (was 1488 Hing-hruah)
 
 			c_zyen = {
 
@@ -1434,14 +1410,14 @@ e_china = {
 		color={ 234 85 6 }
 		color2={ 255 255 255 }
 
-		capital = 2057 # Kuangx
+		capital = 2174 # Kuangx
 
 		d_ekuangxnom = { #Eastern Guangnan
 
 			color={ 244 145 96 }
 			color2={ 255 255 255 }
 
-			capital = 2057 # Kuangx
+			capital = 2174 # Kuangx
 
 			c_kuangx = {
 
@@ -1519,7 +1495,7 @@ e_china = {
 			color={ 253 187 87 }
 			color2={ 255 255 255 }
 
-			capital = 2062 # Zsyn (was 1497 Muai)
+			capital = 2179 # Zsyn (was 1497 Muai)
 
 			c_zsyn = {
 
@@ -1553,7 +1529,7 @@ e_china = {
 			color={ 248 56 35 }
 			color2={ 255 255 255 }
 
-			capital = 2063 # Khang
+			capital = 2180 # Khang
 
 			c_khang = {
 
@@ -1591,7 +1567,7 @@ e_china = {
 			color={ 250 111 95 }
 			color2={ 255 255 255 }
 
-			capital = 2065 # Luai (was 1676 Kau)
+			capital = 2182 # Luai (was 1676 Kau)
 
 			c_luai = {
 
@@ -1653,7 +1629,7 @@ e_china = {
 			color={ 238 175 119 }
 			color2={ 255 255 255 }
 
-			capital = 2068 # Ngo
+			capital = 2185 # Ngo
 
 			c_nomyatngo = {
 
@@ -1714,7 +1690,7 @@ e_china = {
 				}
 				b_myoxhruah = {
 				}
-				b_laipjin = {
+				b_laipjin_zsiangx = {
 				}
 				b_myoxsien = {
 				}
@@ -1749,7 +1725,7 @@ e_china = {
 			color={ 231 140 58 }
 			color2={ 255 255 255 }
 
-			capital = 2072 # Kueh
+			capital = 2189 # Kueh
 
 			c_kueh = {
 
@@ -1786,7 +1762,7 @@ e_china = {
 				}
 				b_limkhe = {
 				}
-				b_myoxjang = {
+				b_myoxjang_jung = {
 				}
 				b_pokghra = {
 				}
@@ -1822,14 +1798,14 @@ e_china = {
 		color={ 252 200 10 }
 		color2={ 255 255 255 }
 
-		capital = 2046 # Hing-kuok
+		capital = 2163 # Hing-kuok
 
 		d_wkrungnom = { #Western Jiangnan
 
 			color={ 253 224 123 }
 			color2={ 255 255 255 }
 
-			capital = 2046 # Hing-kuok
+			capital = 2163 # Hing-kuok
 
 			c_hingkuok = {
 
@@ -1887,7 +1863,7 @@ e_china = {
 				b_zriungnjin = {
 				}
 				b_longhu = {
-					holy_site = tao
+					holy_site = taoist
 				}
 				b_ngieghuang = {
 				}
@@ -1948,7 +1924,7 @@ e_china = {
 			color={ 185 167 142 }
 			color2={ 255 255 255 }
 
-			capital = 2075 # Dom
+			capital = 2192 # Dom
 
 			c_dom = {
 
@@ -1969,6 +1945,7 @@ e_china = {
 				}
 				b_yuelu = {
 					holy_site = confucian
+					holy_site = shenjiao
 				}
 				b_siangim = {
 				}
@@ -2004,13 +1981,13 @@ e_china = {
 
 				b_ghrangjang = {
 				}
-				b_annjin = {
+				b_annjin_ghrang = {
 				}
 				b_draling = {
 				}
 				b_lyixjang = {
 				}
-				b_zjangneng = {
+				b_zjangneng_ghrang = {
 				}
 				b_zyenkhe = {
 				}
@@ -2091,7 +2068,7 @@ e_china = {
 			color={ 226 211 150 }
 			color2={ 255 255 255 }
 
-			capital = 2081 # Kieng
+			capital = 2198 # Kieng
 
 			c_kieng = {
 
@@ -2287,7 +2264,7 @@ e_china = {
 			color={ 248 219 158 }
 			color2={ 255 255 255 }
 
-			capital = 2090 # Siang
+			capital = 2207 # Siang
 
 			c_siang = {
 
@@ -2395,7 +2372,7 @@ e_china = {
 				b_nrioxkruamieuh = {
 				}
 				b_ngyukghuangkiung = {
-					holy_site = tao
+					holy_site = taoist
 				}
 				b_ciexjangdungh = {
 				}
@@ -2407,14 +2384,14 @@ e_china = {
 		color={ 245 182 205 }
 		color2={ 255 255 255 }
 
-		capital = 2095 # Gyi
+		capital = 2212 # Gyi
 
 		d_gyicju = { #Kuizhou
 
 			color={ 240 185 245 }
 			color2={ 255 255 255 }
 
-			capital = 2095 # Gyi
+			capital = 2212 # Gyi
 
 			c_gyi = {
 
@@ -2435,7 +2412,7 @@ e_china = {
 				}
 				b_triangghuanghumieuh = {
 				}
-				b_kaujang = {
+				b_kaujang_gyi = {
 				}
 			}
 			c_that = {
@@ -2546,7 +2523,7 @@ e_china = {
 			color={ 205 180 242 }
 			color2={ 255 255 255 }
 
-			capital = 2101 # Liang
+			capital = 2218 # Liang
 
 			c_liang = {
 
@@ -2664,7 +2641,7 @@ e_china = {
 			color={ 181 142 241 }
 			color2={ 255 255 255 }
 
-			capital = 2106 # Gio
+			capital = 2223 # Gio
 
 			c_gio = {
 
@@ -2846,7 +2823,7 @@ e_china = {
 			color={ 245 133 245 }
 			color2={ 255 255 255 }
 
-			capital = 2114 # Mjen
+			capital = 2231 # Mjen
 
 			c_mjen = {
 
@@ -2950,11 +2927,11 @@ e_china = {
 				b_kuangxto = {
 				}
 				b_heming = {
-					holy_site = tao
+					holy_site = taoist
 				}
 				b_lengzyen = {
 				}
-				b_sinto = {
+				b_sinto_jek = {
 				}
 			}
 			c_zjyuk = {
@@ -3026,14 +3003,14 @@ e_china = {
 		color={ 195 195 195 }
 		color2={ 255 255 255 }
 
-		capital = 2122 # 'yung
+		capital = 2239 # 'yung
 
 		d_kiengdrieux = { #Jingzhao
 
 			color={ 219 219 219 }
 			color2={ 255 255 255 }
 
-			capital = 2122 # 'yung
+			capital = 2239 # 'yung
 
 			c_zinyung = {
 
@@ -3114,7 +3091,7 @@ e_china = {
 				}
 				b_iezjex = {
 				}
-				b_lyungmuon = {
+				b_lyungmuon_bo = {
 				}
 				b_ghuxcikzsi = {
 				}
@@ -3167,7 +3144,7 @@ e_china = {
 			color={ 116 116 116 }
 			color2={ 255 255 255 }
 
-			capital = 2128 # Jen
+			capital = 2245 # Jen
 
 			c_jen = {
 
@@ -3247,7 +3224,7 @@ e_china = {
 			color={ 159 154 180 }
 			color2={ 255 255 255 }
 
-			capital = 2132 # Khiengh
+			capital = 2249 # Khiengh
 
 			c_khiengh = {
 
@@ -3301,7 +3278,7 @@ e_china = {
 			color={ 147 172 187 }
 			color2={ 255 255 255 }
 
-			capital = 2135 # Gje
+			capital = 2252 # Gje
 
 			c_gje = {
 
@@ -3316,7 +3293,7 @@ e_china = {
 				}
 				b_kruak = {
 				}
-				b_mii = {
+				b_mii_gje = {
 				}
 				b_byopiung = {
 				}
@@ -3460,7 +3437,7 @@ e_china = {
 			color={ 147 187 168 }
 			color2={ 255 255 255 }
 
-			capital = 2143 # Biungh (was 1630 Zjeng)
+			capital = 2260 # Biungh (was 1630 Zjeng)
 
 			c_biungh = {
 
@@ -3514,14 +3491,14 @@ e_china = {
 	}
 	k_cinh = { #Jin
 
-		capital = 2147 # Pjeng
+		capital = 2264 # Pjeng
 
 		color={ 97 68 50 }
 		color2={ 10 10 10 }
 
 		d_ghatung = { #Hedong
 
-			capital = 2147 # Pjeng
+			capital = 2264 # Pjeng
 
 			color={ 143 100 73 }
 			color2={ 10 10 10 }
@@ -3611,7 +3588,7 @@ e_china = {
 		}
 		d_liungtok = { #Longde
 
-			capital = 2154 # Cinh
+			capital = 2271 # Cinh
 
 			color={ 175 139 84 }
 			color2={ 10 10 10 }
@@ -3707,7 +3684,7 @@ e_china = {
 		}
 		d_lomzjek = { #Landan
 
-			capital = 2155 # Zsip
+			capital = 2272 # Zsip
 
 			color={ 139 118 73 }
 			color2={ 10 10 10 }
@@ -3781,7 +3758,7 @@ e_china = {
 		}
 		d_linpyox = { #Linfu
 
-			capital = 2158 # Lin
+			capital = 2275 # Lin
 
 			color={ 99 94 58 }
 			color2={ 10 10 10 }
@@ -3827,13 +3804,13 @@ e_china = {
 				}
 				b_anphiungpyox = {
 				}
-				b_ghapjin = {
+				b_ghapjin_pyox = {
 				}
 			}
 		}
 		d_daddung = { #Datong
 
-			capital = 1924 # Yon
+			capital = 2041 # Yon
 
 			color={ 134 128 79 }
 			color2={ 10 10 10 }
@@ -3919,14 +3896,14 @@ e_china = {
 		color={ 35 17 255 }
 		color2={ 255 255 255 }
 
-		capital = 2160 # Ngyoih
+		capital = 2277 # Ngyoih
 
 		d_dadmjeng = { #Daming
 
 			color={ 64 68 244 }
 			color2={ 255 255 255 }
 
-			capital = 2160 # Ngyoih
+			capital = 2277 # Ngyoih
 
 			c_ngyoih = {
 
@@ -3963,7 +3940,7 @@ e_china = {
 				}
 				b_myanhzjenx = {
 				}
-				b_chienghruah = {
+				b_chienghruah_ghruai = {
 				}
 				b_myoxtok = {
 				}
@@ -3987,7 +3964,7 @@ e_china = {
 				}
 				b_sinhiang = {
 				}
-				b_kyungzjeng = {
+				b_kyungzjeng_yed = {
 				}
 				b_gimuon = {
 				}
@@ -4001,7 +3978,7 @@ e_china = {
 
 				b_pukjang = {
 				}
-				b_limgha = {
+				b_limgha_danh = {
 				}
 				b_yednom = {
 				}
@@ -4066,7 +4043,7 @@ e_china = {
 			color={ 102 89 245 }
 			color2={ 255 255 255 }
 
-			capital = 2166 # Jeng
+			capital = 2283 # Jeng
 
 			c_jeng = {
 
@@ -4152,7 +4129,7 @@ e_china = {
 			color={ 160 94 241 }
 			color2={ 255 255 255 }
 
-			capital = 2170 # Trinh
+			capital = 2287 # Trinh
 
 			c_trinh = {
 
@@ -4246,7 +4223,7 @@ e_china = {
 			color={ 105 16 238 }
 			color2={ 255 255 255 }
 
-			capital = 2174 # Dengh
+			capital = 2291 # Dengh
 
 			c_dengh = {
 
@@ -4310,14 +4287,14 @@ e_china = {
 	}
 	k_en = { #Yan
 
-		capital = 1918 # 'y
+		capital = 2035 # 'y
 
 		color={ 46 86 44 }
 		color2={ 10 10 10 }
 
 		d_byamxjang = { #Fanyang
 
-			capital = 1918 # 'y
+			capital = 2035 # 'y
 
 			color={ 72 137 69 }
 			color2={ 10 10 10 }
@@ -4443,7 +4420,7 @@ e_china = {
 		}
 		d_daddengh = { #Dading
 
-			capital = 1928 # Dad-dengh
+			capital = 2045 # Dad-dengh
 
 			color={ 107 156 116 }
 			color2={ 10 10 10 }
@@ -4461,7 +4438,7 @@ e_china = {
 				}
 				b_yengxprah = {
 				}
-				b_hinghruah = {
+				b_hinghruah_daddengh = {
 				}
 				b_zsyungsren = {
 				}
@@ -4519,7 +4496,7 @@ e_china = {
 		}
 		d_ghrembjen = { #Xianping
 
-			capital = 1932 # Ghrem
+			capital = 2049 # Ghrem
 
 			color={ 112 169 95 }
 			color2={ 10 10 10 }
@@ -4557,7 +4534,7 @@ e_china = {
 		}
 		d_leujang = { #Liaoyang
 
-			capital = 1934 # Leu-jang
+			capital = 2051 # Leu-jang
 
 			color={ 73 129 91 }
 			color2={ 10 10 10 }
@@ -4615,212 +4592,6 @@ e_china = {
 				b_biukkianhan = {
 				}
 				b_lainom = {
-				}
-			}
-		}
-	}
-	k_ghrax = { #Xia
-
-		capital = 1906 # Leng
-
-		color={ 189 108 109 }
-		color2={ 255 255 255 }
-
-		d_hingkhieng = { #Xingqing
-
-			capital = 1906 # Leng
-
-			color={ 205 143 205 }
-			color2={ 255 255 255 }
-
-			c_leng = {
-
-				color={ 215 143 205 }
-				color2={ 255 255 255 }
-
-				b_hingkhieng = {
-				}
-				b_pauxziengxghrax = {
-				}
-				b_lengmyox = {
-				}
-				b_ghuailak = {
-				}
-				b_anziengx = {
-				}
-				b_haixpauxzsih = {
-				}
-			}
-			c_ghraxyoi = {
-
-				color={ 205 153 205 }
-				color2={ 255 255 255 }
-
-				b_uondrie = {
-				}
-				b_miengsra = {
-				}
-				b_inghlix = {
-				}
-			}
-		}
-		d_bjenghrax = { #Pingxia
-
-			capital = 1908 # Ghrax
-
-			color={ 232 202 232 }
-			color2={ 255 255 255 }
-
-			c_ghrax = {
-
-				color={ 242 202 232 }
-				color2={ 255 255 255 }
-
-				b_srukpyang = {
-				}
-				b_tokziengx = {
-				}
-			}
-			c_jem = {
-
-				color={ 232 212 232 }
-				color2={ 255 255 255 }
-
-				b_ngoxngyan = {
-				}
-				b_brakdrie = {
-				}
-				b_thetmuonkruan = {
-				}
-			}
-			c_iuh = {
-
-				color={ 232 202 242 }
-				color2={ 255 255 255 }
-
-				b_driangdrak = {
-				}
-			}
-			c_ngin = {
-
-				color={ 222 202 232 }
-				color2={ 255 255 255 }
-
-				b_njyolim = {
-				}
-				b_nengsruk = {
-				}
-				b_cjinhiang = {
-				}
-			}
-		}
-		d_ghase = { #Hexi
-
-			capital = 1912 # Liang
-
-			color={ 209 154 171 }
-			color2={ 255 255 255 }
-
-			c_ghraxliang = {
-
-				color={ 219 154 171 }
-				color2={ 255 255 255 }
-
-				b_kocang = {
-				}
-				b_zsjino = {
-				}
-				b_kralin = {
-				}
-				b_phyanghua = {
-				}
-				b_chjangzsyung = {
-				}
-			}
-			c_kam = {
-
-				color={ 209 164 171 }
-				color2={ 255 255 255 }
-
-				b_triangjek = {
-				}
-				b_srantan = {
-				}
-			}
-			c_ghraxsiuk = {
-
-				color={ 209 154 181 }
-				color2={ 255 255 255 }
-
-				b_ciuxzyen = {
-				}
-				b_piukluk = {
-				}
-			}
-			#c_krua = {
-
-			#	color={ 199 154 171 }
-			#	color2={ 255 255 255 }
-
-			#	b_cinhchjang = {
-			#	}
-			#	b_zjanglak = {
-			#	}
-			#	b_ngyukmuonkruan = {
-			#	}
-			#}
-			#c_sra = {
-
-			#	color={ 209 144 171 }
-			#	color2={ 255 255 255 }
-
-			#	b_thuonghuang = {
-			#	}
-			#	b_zjuhchjang = {
-			#	}
-			#	b_jangkruan = {
-			#	}
-			#	b_makkaukhuot = {
-			#	}
-			#}
-		}
-		d_ejinai = { #Heishui
-
-			capital = 1914 # Eji Nai
-
-			color={ 196 123 145 }
-			color2={ 255 255 255 }
-
-			c_ejinai = {
-
-				color={ 206 123 145 }
-				color2={ 255 255 255 }
-
-				b_ejinai = {
-				}
-			}
-			c_brakmrax = {
-
-				color={ 196 133 145 }
-				color2={ 255 255 255 }
-
-				b_brakmrax_brakmrax = {
-				}
-			}
-			c_hoksren = {
-
-				color={ 196 123 155 }
-				color2={ 255 255 255 }
-
-				b_hoksren = {
-				}
-			}
-			c_iuxsiang = {
-
-				color={ 186 123 145 }
-				color2={ 255 255 255 }
-
-				b_iuxsiang = {
 				}
 			}
 		}
@@ -5061,22 +4832,22 @@ k_leu = {
 	}
 }
 
-k_minyag = {
+#k_minyag = {
 
-	capital = 1906 # Leng
+#	capital = 1906 # Leng
 
-	culture = tangut
+#	culture = tangut
 
-	color={ 187 128 129 }
-	color2={ 255 255 255 }
-}
+#	color={ 187 128 129 }
+#	color2={ 255 255 255 }
+#}
 
-k_gansu = {
+#k_gansu = {
 
-	capital = 1912 # Liang
+#	capital = 1912 # Liang
 
-   	color= { 225 222 91 }
-   	color2= { 0 0 0  }
+#   	color= { 225 222 91 }
+#   	color2= { 0 0 0  }
 
-	culture = uyghur
-}
+#	culture = uyghur
+#}

@@ -1,5 +1,2 @@
-#added sufi, bektashi and ismaili to muslim
-#added several religions to pagan
-#added zurvanist to zoroastrian
-#added qabbalah to jewish_group
-#added jain, mahayana, vajrayana, nat and sastsana_phi to indian_group
+#added several to pagan
+#added several to indian

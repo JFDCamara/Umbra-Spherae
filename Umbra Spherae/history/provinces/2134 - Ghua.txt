@@ -1,0 +1,23 @@
+# 1441 - Ghua
+
+# County Title
+title = c_ghua
+
+# Settlements
+max_settlements = 5
+b_lekjang = castle
+b_ghomsren = city
+b_okrung = city
+b_thenkhienghkuanh = temple
+#b_thang_zyen =
+#b_kaumyangh =
+#b_siencuung =
+#b_chiengkhe =
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

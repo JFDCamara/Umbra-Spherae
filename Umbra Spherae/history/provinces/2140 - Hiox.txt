@@ -1,0 +1,23 @@
+# 1448 - Hiox
+
+# County Title
+title = c_hiox
+
+# Settlements
+max_settlements = 5
+b_driangzjax = castle
+b_jangdrak = city
+b_krep = city
+b_driangkat = city
+#b_limjyengx =
+#b_ianxzjeng =
+#b_myoxjang =
+#b_byanzjeng =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

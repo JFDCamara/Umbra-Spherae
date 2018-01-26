@@ -1,0 +1,25 @@
+# 1620 - Zinngyan
+
+# County Title
+title = c_zinngyan
+
+# Settlements
+max_settlements = 5
+b_seukruan = castle
+b_limkeng = city
+b_brangjang = city
+b_thentosren = temple
+b_ngyanlyungsren = temple
+#b_kohngyan = city
+#b_bjenghrax = city
+#b_zinngyansean = city
+#b_higha = 
+
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

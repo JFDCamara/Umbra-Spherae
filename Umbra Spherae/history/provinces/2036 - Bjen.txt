@@ -1,0 +1,21 @@
+# 1780 - Bjen
+
+# County Title
+title = c_bjen
+
+# Settlements
+max_settlements = 5
+b_lolyung = castle
+b_kuangxneng = city
+b_ngiehphiung = city
+b_jyokruan = castle
+#b_mraxzjeng =
+#b_zjekzjeng =
+#b_bjenanhix =
+#b_luangha =
+
+# Misc
+culture = han
+religion = confucian
+
+# History

@@ -1,0 +1,21 @@
+# 1208 - Tarakan
+
+# County Title
+title = c_tarakan
+
+# Settlements
+max_settlements = 3
+b_bunyu = tribal
+b_tarakan = tribal
+#b_tanahmerah =
+#b_tanjungselor =
+#b_sesayap =
+#b_pasar_sapi =
+#b_kabuang =
+#b_nunukan =
+
+# Misc
+culture = dayak
+religion = bornean_religion
+
+# History

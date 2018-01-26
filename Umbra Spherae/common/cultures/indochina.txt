@@ -1,9 +1,9 @@
 vietic = {
 
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		
 	viet = {
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.2 0.4 0.4 }
@@ -25,10 +25,10 @@ vietic = {
 }
 
 tai_kadai = {
-		graphical_cultures = { khmergfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		
 	thai = {
-		graphical_cultures = { khmergfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		
 		color = { 0.3 0.8 0.2 }
 		
@@ -45,7 +45,7 @@ tai_kadai = {
 		modifier = default_culture_modifier
 	}
 	lao = {
-		graphical_cultures = { khmergfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		
 		color = { 0.6 0.5 0.7 }
 		
@@ -61,7 +61,7 @@ tai_kadai = {
 		modifier = default_culture_modifier
 	}
 	shan = {
-		graphical_cultures = { khmergfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		
 		color = { 0.3 0.2 0.8 }
 		
@@ -77,10 +77,10 @@ tai_kadai = {
 		modifier = default_culture_modifier
 	}
 	zhuang = {
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
-		color = { 0.6 0.5 0.9 }
+		color = { 0.12 0.5 0.9 }
 		
 		male_names = {
 			Bing_Bing Byauh_Biao Cenzfuk_Quanfu Ciqgaoh_Zhigao Ciucuek_Zhaozhuo Cuengh_Zhen Gozcing_Guoqing Yenfanh_Xianfan
@@ -98,13 +98,13 @@ tai_kadai = {
 }
 
 hmong_mien = {
-		graphical_cultures = { khmergfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 	
 	hmong = { #Miao culture
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
-		color = { 0.2 0.7 0.3 }
+		color = { 0.65 0.12 0.3 }
 		
 		male_names = {
 			Bing_Bing Byauh_Biao Cenzfuk_Quanfu Ciqgaoh_Zhigao Ciucuek_Zhaozhuo Cuengh_Zhen Gozcing_Guoqing Yenfanh_Xianfan
@@ -120,10 +120,10 @@ hmong_mien = {
 		modifier = default_culture_modifier
 	}
 	mien = { #Yao culture
-		graphical_cultures = { tibetangfx mongolgfx muslimgfx }
+		graphical_cultures = { bodpagfx chinesegfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
-		color = { 0.3 0.6 0.2 }
+		color = { 0.45 0.12 0.3 }
 		
 		male_names = {
 			Bing_Bing Byauh_Biao Cenzfuk_Quanfu Ciqgaoh_Zhigao Ciucuek_Zhaozhuo Cuengh_Zhen Gozcing_Guoqing Yenfanh_Xianfan
@@ -141,10 +141,10 @@ hmong_mien = {
 }
 
 burman = {
-		graphical_cultures = { khmergfx mongolgfx muslimgfx }
+		graphical_cultures = { bodpagfx chinesegfx mongolgfx indiangfx muslimgfx }
 	
 	bamar = {
-		graphical_cultures = { khmergfx mongolgfx muslimgfx }
+		graphical_cultures = { bodpagfx chinesegfx mongolgfx indiangfx muslimgfx }
 		
 		color = { 0.4 0.4 0.2 }
 		
@@ -160,9 +160,9 @@ burman = {
 		modifier = default_culture_modifier
 	}
 	lolo = {
-		graphical_cultures = { khmergfx mongolgfx muslimgfx }
+		graphical_cultures = { bodpagfx chinesegfx mongolgfx indiangfx muslimgfx }
 		
-		color = { 0.6 0.6 0.2 }
+		color = { 0.6 0.4 0.2 }
 		
 		male_names = {
 			Arun Aung Aye Bourey Chankrisna Dara Hlaing Maung
@@ -176,7 +176,7 @@ burman = {
 		modifier = default_culture_modifier
 	}
 	kachin = {
-		graphical_cultures = { khmergfx mongolgfx muslimgfx }
+		graphical_cultures = { bodpagfx chinesegfx mongolgfx indiangfx muslimgfx }
 		
 		color = { 0.5 0.5 0.2 }
 		
@@ -194,10 +194,10 @@ burman = {
 }
 
 mon_khmer = {
-		graphical_cultures = { khmergfx indiangfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		
 	mon = {
-		graphical_cultures = { khmergfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		
 		color = { 0.7 0.8 0.4 }
 		
@@ -215,7 +215,7 @@ mon_khmer = {
 		modifier = default_culture_modifier
 	}
 	khmer = {
-		graphical_cultures = { khmergfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		
 		color = { 0.7 0.8 0.2 }
 		
@@ -235,10 +235,10 @@ mon_khmer = {
 }
 
 chamic = {
-		graphical_cultures = { khmergfx indiangfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		
 	cham = {
-		graphical_cultures = { khmergfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		
 		color = { 0.4 0.2 0.2 }
 		

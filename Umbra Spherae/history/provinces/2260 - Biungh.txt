@@ -1,0 +1,20 @@
+# 1631 - Biungh
+
+# County Title
+title = c_biungh
+
+# Settlements
+max_settlements = 3
+b_dadsanxkruan = castle
+b_liangzyen = city
+b_liangxtang = city
+#b_ghadrie =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

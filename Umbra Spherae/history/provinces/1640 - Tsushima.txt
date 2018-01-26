@@ -1,0 +1,14 @@
+# 1922 - Tsushima
+
+# County Title
+title = c_tsushima
+
+# Settlements
+max_settlements = 1
+b_kaneda = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

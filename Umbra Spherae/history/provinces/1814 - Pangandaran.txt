@@ -1,0 +1,21 @@
+# 1183 - Pangandaran
+
+# County Title
+title = c_pangandaran
+
+# Settlements
+max_settlements = 6
+b_cimerak = castle
+b_pangandaran = city
+b_langkaplancar = temple
+#b_wanareja =
+#b_dayeuh_luhur =
+#b_cimanggu =
+#b_lumbir =
+#b_kawungganten =
+
+# Misc
+culture = sundanese
+religion = java_religion
+
+# History

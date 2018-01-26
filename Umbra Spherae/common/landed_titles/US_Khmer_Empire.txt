@@ -3,7 +3,7 @@ e_khmer_empire = {
     	color= { 127 180 60 }
     	color2= { 183 176 194 }
 
-	capital = 1595 #Angkor Wat
+	capital = 1712 #Angkor Wat
 
 	# Regnal names
 	#male_names = {
@@ -19,7 +19,7 @@ e_khmer_empire = {
 
 		culture = khmer
 
-		capital = 1595 #Angkor Wat
+		capital = 1712 #Angkor Wat
 
 		# Regnal names
 		#male_names = {
@@ -33,7 +33,7 @@ e_khmer_empire = {
     			color= { 70 123 45 }
     			color2= { 183 176 194 }
 
-			capital = 1595 #Angkor Wat
+			capital = 1712 #Angkor Wat
 
 			c_angkor_wat = {
 
@@ -107,7 +107,7 @@ e_khmer_empire = {
     			color= { 38 130 40 }
     			color2= { 183 176 194 }
 
-			capital = 1601 #Sambor Prei Kuk
+			capital = 1718 #Sambor Prei Kuk
 
 			c_sambor_prei_kuk = {
 
@@ -181,7 +181,7 @@ e_khmer_empire = {
     			color= { 28 140 72 }
     			color2= { 183 176 194 }
 
-			capital = 1645 #Battambang
+			capital = 1762 #Battambang
 
 			c_battambang = {
 
@@ -255,7 +255,7 @@ e_khmer_empire = {
     			color= { 48 143 24 }
     			color2= { 183 176 194 }
 
-			capital = 1604 #Oc Eo
+			capital = 1721 #Oc Eo
 
 			c_oc_eo = {
 
@@ -332,14 +332,14 @@ e_khmer_empire = {
 
 		culture = lao
 
-		capital = 1617 #Luang Prabang
+		capital = 1734 #Luang Prabang
 
 		d_luang_prabang = {
 
     			color= { 218 60 20 }
     			color2= { 202 112 85 }
 
-			capital = 1617 #Luang Prabang
+			capital = 1734 #Luang Prabang
 
 			c_luang_prabang = {
 
@@ -435,7 +435,7 @@ e_khmer_empire = {
     			color= { 164 28 28 }
     			color2= { 202 112 85 }
 
-			capital = 1594 #Phimai
+			capital = 1711 #Phimai
 
 			c_phimai = {
 
@@ -531,7 +531,7 @@ e_khmer_empire = {
     			color= { 221 60 60 }
     			color2= { 202 112 85 }
 
-			capital = 1599 #Champassak
+			capital = 1716 #Champassak
 
 			c_champassak = {
 
@@ -608,14 +608,14 @@ e_khmer_empire = {
 
 		culture = mon
 
-		capital = 1584 #Lavodapura
+		capital = 1701 #Lavodapura
 
 		d_lavodapura = {
 
     			color= { 177 182 126 }
     			color2= { 255 255 255 }
 
-			capital = 1584 #Lavodapura
+			capital = 1701 #Lavodapura
 
 			c_lavodayapura = {
 
@@ -689,7 +689,7 @@ e_khmer_empire = {
     			color= { 175 166 133 }
     			color2= { 255 255 255 }
 
-			capital = 1641 #Phanat
+			capital = 1758 #Phanat
 
 			c_phanat = {
 
@@ -763,7 +763,7 @@ e_khmer_empire = {
     			color= { 185 194 114 }
     			color2= { 255 255 255 }
 
-			capital = 1585 #U Thong
+			capital = 1702 #U Thong
 
 			c_u_thong = {
 
@@ -815,7 +815,7 @@ e_khmer_empire = {
     			color= { 192 169 116 }
     			color2= { 255 255 255 }
 
-			capital = 1586 #Ratchaburi
+			capital = 1703 #Ratchaburi
 
 			c_ratchaburi = {
 
@@ -870,5 +870,5 @@ d_supannabhum = {
     	color= { 195 194 114 }
     	color2= { 255 255 255 }
 
-	capital = 1585 #U Thong
+	capital = 1702 #U Thong
 }

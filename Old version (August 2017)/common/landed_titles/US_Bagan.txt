@@ -1,0 +1,745 @@
+e_bagan = {
+
+    	color= { 123 216 251 }
+    	color2= { 255 255 255 }
+
+	capital = 1577 #Bagan
+
+	k_bagan = {
+
+    		color= { 139 218 248 }
+    		color2= { 255 255 255 }
+
+		culture = bamar
+
+		capital = 1577 #Bagan
+
+		d_bagan = {
+
+    			color= { 136 251 234 }
+	    		color2= { 255 255 255 }
+
+			capital = 1577 #Bagan
+
+			c_bagan = {
+
+    				color= { 146 251 234 }
+    				color2= { 255 255 255 }
+
+				b_bagan = {
+				}
+				b_myingyan = {
+				}
+				b_pakokku = {
+				}
+				b_monywa = {
+				}
+				b_ma_au = {
+				}
+				b_myaing = {
+				}
+				b_myitche = {
+				}
+				b_pauk = {
+				}
+			}
+			c_khampat = {
+
+    				color= { 136 251 244 }
+    				color2= { 255 255 255 }
+
+				b_khampat = {
+				}
+				b_kanan = {
+				}
+				b_balbil = {
+				}
+				b_tangsiat = {
+				}
+				b_bualkuang = {
+				}
+				b_nampamun = {
+				}
+				b_anlung = {
+				}
+				b_khuangkhan = {
+				}
+			}
+			c_minbu = {
+
+    				color= { 126 251 234 }
+    				color2= { 255 255 255 }
+
+				b_minbu = {
+				}
+				b_pwintbyu = {
+				}
+				b_yenangyaung = {
+				}
+				b_salin = {
+				}
+				b_natmauk = {
+				}
+				b_taungdwingyi = {
+				}
+				b_sagu = {
+				}
+				b_magwe = {
+				}
+			}
+			c_kyaukse = {
+
+    				color= { 155 203 232 }
+    				color2= { 255 255 255 }
+
+				b_kyaukse = {
+				}
+				b_bellin = {
+				}
+				b_sa_mar = {
+				}
+				b_minsu = {
+				}
+				b_onhmin = {
+				}
+				b_buyauk = {
+				}
+				b_thein_ni_kan = {
+				}
+				b_eswa = {
+				}
+			}
+			c_imphal = {
+
+    				color= { 160 15 153  }
+    				color2= { 255 255 255 }
+
+				b_imphal = {
+				}
+				b_thangmeiband = {
+				}	
+				b_keishamthong = {
+				}
+				b_lamphelpat = {
+				}
+				b_khangabok = {
+				}
+				b_wangjing = {
+				}
+				b_thoubal = {
+				}
+				b_awang_sekmai = {
+				}
+			}
+		}
+		d_arakan = {
+
+    			color= { 138 159 251 }
+    			color2= { 255 255 255 }
+
+			capital = 1575 #Vaisali
+
+			c_waithali = {
+
+    				color= { 148 159 251 }
+	    			color2= { 255 255 255 }
+
+				b_waithali = {
+				}
+				b_sittwe = {
+				}
+				b_kangyaung = {
+				}
+				b_pyaingdaung = {
+				}
+				b_kyaukpyinseik = {
+				}
+				b_pauktaw = {
+				}
+				b_ponnagyun = {
+				}
+				b_kanbyin = {
+				}
+			}
+			c_ann = {
+
+    				color= { 138 169 251 }
+    				color2= { 255 255 255 }
+
+				b_ann = {
+				}
+				b_gelaung = {
+				}
+				b_sinkhondaing = {
+				}
+				b_auk_yebein = {
+				}
+				b_atet_minyon = {
+				}
+				b_sakanmaw = {
+				}
+				b_yebok = {
+				}
+				b_tat_taung = {
+				}
+			}
+			c_thandwe = {
+
+    				color= { 138 159 241 }
+    				color2= { 255 255 255 }
+
+				b_thandwe = {
+				}
+				b_zi_phyu_kone = {
+				}
+				b_gyeiktaw = {
+				}
+				b_made = {
+				}
+				b_kayukkyi = {
+				}
+				b_minbyin = {
+				}
+				b_pazunbye = {
+				}
+				b_shaukkon = {
+				}
+			}
+		}
+		d_kachin = {
+
+    			color= { 138 249 166 }
+    			color2= { 255 255 255 }
+
+			capital = 1631 #Tagaung
+
+			c_tagaung = {
+
+    				color= { 148 249 166 }
+    				color2= { 255 255 255 }
+
+				b_tagaung = {
+				}
+				b_magyi_gon = {
+				}
+				b_shein_ma_kar = {
+				}
+				b_chundaung = {
+				}
+				b_tawma = {
+				}
+				b_kyungyi = {
+				}
+				b_myadaung = {
+				}
+				b_htidawgaing = {
+				}
+			}
+			c_mogaung = {
+
+    				color= { 138 239 166 }
+    				color2= { 255 255 255 }
+
+				b_mogaung = {
+				}
+				b_hkamti = {
+				}
+				b_numnawn = {
+				}
+				b_chikchi = {
+				}
+				b_lawa = {
+				}
+				b_namhkam = {
+				}
+				b_nan_ma_thee = {
+				}
+				b_auche = {
+				}
+			}
+			c_bhamo = {
+
+    				color= { 138 249 176 }
+    				color2= { 255 255 255 }
+
+				b_bhamo = {
+				}
+				b_mansi = {
+				}
+				b_momauk = {
+				}
+				b_longjung = {
+				}
+				b_thamainggyi = {
+				}
+				b_nawngbya = {
+				}
+				b_makwe = {
+				}
+				b_chyingma = {
+				}
+			}
+		}
+		d_shan = {
+
+    			color= { 155 193 232 }
+    			color2= { 255 255 255 }
+
+			capital = 1635 #Yawnghwe
+
+			c_yawnghwe = {
+
+    				color= { 165 193 232 }
+    				color2= { 255 255 255 }
+
+				b_yawnghwe = {
+				}
+				b_heho = {
+				}
+				b_taunggyi = {
+				}
+				b_pindaya = {
+				}
+				b_nwadama = {
+				}
+				b_intha = {
+				}
+				b_nampan = {
+				}
+				b_hkedaung = {
+				}
+			}
+			c_ava = {
+
+    				color= { 136 241 234 }
+    				color2= { 255 255 255 }
+
+				b_ava = {
+				}
+				b_sagaing = {
+				}
+				b_amarapura = {
+				}
+				b_mandalay = {
+				}
+				b_patheingyi = {
+				}
+				b_min_kun = {
+				}
+				b_tha_phan_dauk = {
+				}
+				b_madaya = {
+				}
+			}
+			c_lashio = {
+
+    				color= { 155 193 242 }
+    				color2= { 255 255 255 }
+
+				b_lashio = {
+				}
+				b_mehan = {
+				}
+				b_ho_ta = {
+				}
+				b_loi_pye = {
+				}
+				b_man_hsa_long = {
+				}
+				b_san_men = {
+				}
+				b_nogmon = {
+				}
+				b_kaungkha = {
+				}
+			}
+			c_hansawadi = {
+
+    				color= { 145 193 232 }
+    				color2= { 255 255 255 }
+
+				b_hansawadi = {
+				}
+				b_kunhing = {
+				}
+				b_mong_yang = {
+				}
+				b_wan_na_noi = {
+				}
+				b_nawnghit = {
+				}
+				b_nawnghkio = {
+				}
+				b_ho_lao = {
+				}
+				b_hsaw = {
+				}
+			}
+		}
+	}
+	k_pegu = {
+
+    		color= { 109 168 127  }
+    		color2= { 255 255 255 }
+
+		culture = mon
+
+		capital = 1579 #Pegu
+
+		d_pegu = {
+
+    			color= { 115 162 148  }
+    			color2= { 255 255 255 }
+
+			capital = 1579 #Pegu
+
+			c_pegu = {
+
+    				color= { 125 162 148  }
+    				color2= { 255 255 255 }
+
+				b_pegu = {
+				}
+				b_tawa = {
+				}
+				b_thanatpin = {
+				}
+				b_kamase = {
+				}
+				b_tawzun = {
+				}
+				b_payagyi = {
+				}
+				b_pyinkado_le_einsu = {
+				}
+				b_phayagale = {
+				}
+			}
+			c_dagon = {
+
+    				color= { 115 172 148  }
+    				color2= { 255 255 255 }
+
+				b_dagon = {
+				}
+				b_siriam = {
+				}
+				b_gwa_ywa = {
+				}
+				b_banbwegon = {
+				}
+				b_kyauktan = {
+				}
+				b_bawkalut = {
+				}
+				b_mibya = {
+				}
+				b_zweba_kondan = {
+				}
+			}
+			c_ngapudaw = {
+
+    				color= { 115 162 158  }
+    				color2= { 255 255 255 }
+
+				b_ngapudaw = {
+				}
+				b_okkan = {
+				}
+				b_thingangyi = {
+				}
+				b_kongyi = {
+				}
+				b_saluzeik = {
+				}
+				b_bidutgale = {
+				}
+				b_kyagan = {
+				}
+				b_hlainbon = {
+				}
+			}
+			c_thaton = {
+
+    				color= { 105 162 148  }
+    				color2= { 255 255 255 }
+
+				b_thaton = {
+				}
+				b_kathapa_anauk = {
+				}
+				b_budin = {
+				}
+				b_theinzeik = {
+				}
+				b_kadaik = {
+				}
+				b_donwun = {
+				}
+				b_bilin = {
+				}
+				b_kawhlainggale = {
+				}
+			}
+		}
+		d_taungoo = {
+
+    			color= { 112 176 100  }
+    			color2= { 255 255 255 }
+
+			capital = 1637 #Taungoo
+
+			c_taungoo = {
+
+    				color= { 122 176 100  }
+    				color2= { 255 255 255 }
+
+				b_taungoo = {
+				}
+				b_kaytumati = {
+				}
+				b_oktwin = {
+				}
+				b_inyagyi = {
+				}
+				b_tantabin = {
+				}
+				b_tabye = {
+				}
+				b_dothaung = {
+				}
+				b_kanbaukkyi = {
+				}
+			}
+			c_prome = {
+
+    				color= { 112 186 100  }
+    				color2= { 255 255 255 }
+
+				b_prome = {
+				}
+				b_sinde = {
+				}
+				b_tititut = {
+				}
+				b_sinmizwe = {
+				}
+				b_nwegauk = {
+				}
+				b_kyadet = {
+				}
+				b_thegon = {
+				}
+				b_shwedaung = {
+				}
+			}
+			c_bassein = {
+
+    				color= { 112 176 110  }
+    				color2= { 255 255 255 }
+
+				b_bassein_b = {
+				}
+				b_shwemyindin = {
+				}
+				b_zibyugwin = {
+				}
+				b_thabaung = {
+				}
+				b_tagarat = {
+				}
+				b_kangyi_daunt = {
+				}
+				b_gonnyindan = {
+				}
+				b_htanbin = {
+				}
+			}
+		}
+		d_martaban = {
+
+    			color= { 89 187 138  }
+    			color2= { 255 255 255 }
+
+			capital = 1581 #Martaban
+
+			c_martaban = {
+
+    				color= { 99 187 138  }
+    				color2= { 255 255 255 }
+
+				b_martaban = {
+				}
+				b_moulmein = {
+				}
+				b_daingwunkwin = {
+				}
+				b_kahnyaw = {
+				}
+				b_mudu = {
+				}
+				b_munaing = {
+				}
+				b_kamano = {
+				}
+				b_ywalut = {
+				}
+			}
+			c_ye = {
+
+    				color= { 89 197 138  }
+    				color2= { 255 255 255 }
+
+				b_ye = {
+				}
+				b_abaw = {
+				}
+				b_asin = {
+				}
+				b_duya = {
+				}
+				b_hangan = {
+				}
+				b_kyai_long = {
+				}
+				b_kauk_mi_chaung = {
+				}
+				b_khaw_ngar = {
+				}
+			}
+			c_tavoy = {
+
+    				color= { 89 187 148  }
+    				color2= { 255 255 255 }
+
+				b_tavoy = {
+				}
+				b_launglon = {
+				}
+				b_nyinmaw = {
+				}
+				b_nyaungzin = {
+				}
+				b_oktu = {
+				}
+				b_thayetchaung = {
+				}
+				b_yebyu = {
+				}
+				b_kyauktwin = {
+				}
+			}
+			c_mergui = {
+
+    				color= { 79 187 138  }
+    				color2= { 255 255 255 }
+
+				b_mergui = {
+				}
+				b_kyaukpya = {
+				}
+				b_kinso = {
+				}
+				b_palon = {
+				}
+				b_kywegu = {
+				}
+				b_lutlut = {
+				}
+				b_tamok = {
+				}
+				b_kanbyin = {
+				}
+			}
+		}
+	}
+}
+
+k_myinsaing_pinya = {
+
+	color= { 155 203 232 }
+	color2= { 255 255 255 }
+
+}
+
+k_sagaing = {
+
+	color= { 148 249 166 }
+	color2= { 255 255 255 }
+
+}
+
+k_thaton = {
+
+	color= { 105 162 148  }
+	color2= { 255 255 255 }
+
+}
+
+#Pyu City States
+
+d_binnaka = {
+
+	color= { 157 155 200  }
+	color2= { 255 255 255 }
+
+	capital = 1578 #Kyaukse
+
+}
+
+d_halin = {
+
+	color= { 126 211 86  }
+	color2= { 255 255 255 }
+
+	capital = 1576 #Khampat
+
+}
+
+d_tagaung = {
+
+	color= { 60 140 57  }
+	color2= { 255 255 255 }
+
+	capital = 1631 #Tagaung
+
+}
+
+d_maingmaw = {
+
+	color= { 228 253 130  }
+	color2= { 255 255 255 }
+
+	capital = 1635 #Yawnghwe
+
+}
+
+d_beikthano = {
+
+	color= { 197 131 187  }
+	color2= { 255 255 255 }
+
+	capital = 1630 #Minbu
+
+}
+
+d_sri_ksetra = {
+
+	color= { 228 166 50  }
+	color2= { 255 255 255 }
+
+	capital = 1629 #Prome
+
+}
+
+
+#other placeholders
+
+d_dagon = {
+
+	color= { 168 179 198  }
+	color2= { 255 255 255 }
+
+	capital = 1580 #Dagon
+
+}

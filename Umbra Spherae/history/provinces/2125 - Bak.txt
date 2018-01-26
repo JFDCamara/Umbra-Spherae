@@ -1,0 +1,23 @@
+# 1430 - Bak
+
+# County Title
+title = c_bak
+
+# Settlements
+max_settlements = 4
+b_zieu = castle
+b_zjengpyox = city
+b_lukip = city
+#b_yedcjin =
+#b_zuan =
+#b_yengxzjeng =
+#b_mungzjeng =
+#b_tanzjeng =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

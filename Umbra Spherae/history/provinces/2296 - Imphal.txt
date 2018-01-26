@@ -1,0 +1,21 @@
+# 1733 - Imphal
+
+# County Title
+title = c_imphal
+
+# Settlements
+max_settlements = 3
+b_thangmeiband = tribal
+b_imphal = tribal
+#b_keishamthong =
+#b_lamphelpat =
+#b_khangabok =
+#b_wangjing =
+#b_thoubal =
+#b_awang_sekmai =
+
+# Misc
+culture = bamar
+religion = nat
+
+# History

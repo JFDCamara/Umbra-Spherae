@@ -1,0 +1,24 @@
+# 1528 - Kieng
+
+# County Title
+title = c_kieng
+
+# Settlements
+max_settlements = 6
+b_krungling = castle
+b_drianglim = city
+b_tangjang = city
+b_kramhliih = city
+b_zsyungci = city
+#b_zjeksjux =
+#b_kungan =
+#b_ziemkrung =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

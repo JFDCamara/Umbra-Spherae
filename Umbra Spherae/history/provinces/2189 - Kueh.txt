@@ -1,0 +1,24 @@
+# 1516 - Kueh
+
+# County Title
+title = c_kueh
+
+# Settlements
+max_settlements = 6
+b_kimkueh = castle
+b_lengchjyen = city
+b_jangsruk = city
+b_liehphox = city
+b_siunjin = city
+#b_yengxpiuk =
+#b_kox =
+#b_hingan =
+
+
+# Misc
+culture = zhuang
+religion = nugyauq
+
+# History
+
+

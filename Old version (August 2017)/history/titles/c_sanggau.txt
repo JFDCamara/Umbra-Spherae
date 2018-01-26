@@ -1,0 +1,64 @@
+#Tajem Dynasty (placeholders)
+750.1.1={
+	holder=1000203987 #Uda
+}
+780.1.1={
+	holder=1000203988 #Bujang
+}
+810.1.1={
+	holder=1000203989 #Perang
+}
+840.1.1={
+	holder=1000201117 #Sabtu
+}
+870.1.1={
+	holder=1000201118 #Khamis
+}
+900.1.1={
+	holder=1000201119 #Bujang
+}
+930.1.1={
+	holder=1000201120 #Budiarto
+}
+960.1.1={
+	holder=1000201121 #Agung
+}
+990.1.1={
+	holder=1000201122 #Adi
+}
+1020.1.1={
+	holder=1000201123 #Mad
+}
+1050.1.1={
+	holder=1000076196 #Adiputra
+}
+1080.1.1={
+	holder=1000201124 #Sulong
+}
+1110.1.1={
+	holder=1000201125 #Deris
+}
+1140.1.1={
+	holder=1000201126 #Selasa
+}
+1170.1.1={
+	holder=1000201127 #Ujang
+}
+1200.1.1={
+	holder=1000201128 #Zakaria
+}
+1230.1.1={
+	holder=1000201129 #Deris
+}
+1260.1.1={
+	holder=1000201130 #Dollah
+}
+1290.1.1={
+	holder=1000201131 #Kechik
+}
+1320.1.1={
+	holder=1000201132 #Uda
+}
+1350.1.1={
+	holder=1000201133 #Jusoh
+}

@@ -1,0 +1,18 @@
+# 1786 - Sruk
+
+# County Title
+title = c_sruk
+
+# Settlements
+max_settlements = 5
+b_mraxip = castle
+b_zjenxjang = city
+b_zsjinmyox = city
+b_limngrazsih = temple
+b_zienghthoxzsih = temple
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

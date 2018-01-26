@@ -1,0 +1,22 @@
+# 1084 - Preah Vihear
+
+# County Title
+title = c_preah_vihear
+
+# Settlements
+max_settlements = 4
+b_kulen = castle
+b_preah_vihear = temple
+b_phnum_tbeng_mean_chey = city
+#b_chhuk =
+#b_phumi_boeng =
+#b_phumi_chrak_krasang =
+#b_cheam_til =
+#b_phumi_kantuot_samraong =
+
+# Misc
+culture = khmer
+religion = hindu
+
+# History
+

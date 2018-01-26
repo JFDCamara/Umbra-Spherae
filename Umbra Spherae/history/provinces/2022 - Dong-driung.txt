@@ -1,0 +1,19 @@
+# 1766 - Dong-driung
+
+# County Title
+title = c_dongdriung
+
+# Settlements
+max_settlements = 5
+b_dongdriung = castle
+b_sieuxsramua = castle
+b_bohmang = castle
+#b_kanngrak =
+#b_nom =
+#b_nomsuungh =
+
+# Misc
+culture = kachin
+religion = buddhist
+
+# History

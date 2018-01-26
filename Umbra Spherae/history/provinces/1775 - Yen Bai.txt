@@ -1,0 +1,21 @@
+# 1144 - Yen Bai
+
+# County Title
+title = c_yen_bai
+
+# Settlements
+max_settlements = 4
+b_minh_bao = castle
+b_yen_bai = city
+b_phuc_loc = temple
+#b_hop_minh =
+#b_tuy_loc =
+#b_co_phuc =
+#b_kien_thanh =
+#b_yen_phu =
+
+# Misc
+culture = viet
+religion = thangiao
+
+# History

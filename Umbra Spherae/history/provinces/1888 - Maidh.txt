@@ -1,0 +1,21 @@
+# 1257 - Maidh
+
+# County Title
+title = c_maidh
+
+# Settlements
+max_settlements = 4
+b_sablayan = castle
+b_maidh = city
+b_rizal = temple
+#b_mansalay =
+#b_naujan =
+#b_calapan =
+#b_mamburao =
+#b_calintaan =
+
+# Misc
+culture = tagalog
+religion = hindu
+
+# History

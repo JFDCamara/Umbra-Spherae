@@ -2,9 +2,6 @@
 
 # Far East
 
-chinesegfx = {
-	skin_tone = 1
-}
 ainugfx = {
 	skin_tone = 1
 }

@@ -1,0 +1,21 @@
+# 1223 - Tulangbawang
+
+# County Title
+title = c_tulangbawang
+
+# Settlements
+max_settlements = 4
+b_rawajitu_utara = castle
+b_tulang_bawang = city
+#b_gedung_aji =
+#b_tanjung_raya =
+#b_gedung_meneng =
+#b_way_serdang =
+#b_rawajitu_selatan =
+#b_penawar_tama =
+
+# Misc
+culture = malay
+religion = buddhist
+
+# History

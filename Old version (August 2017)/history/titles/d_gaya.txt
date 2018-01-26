@@ -1,0 +1,82 @@
+#Gaya Confederacy
+42.1.1={
+	holder=1000450209 #Gim Suro
+}
+115.1.1={
+	holder=1000450231 #Gim Suru
+}
+143.1.1={
+	holder=1000450242 #Gim Surong
+}
+199.1.1={
+	holder=1000450244 #Gim Geodeung
+}
+259.1.1={
+	holder=1000450246 #Gim Mapum
+}
+291.1.1={
+	holder=1000450248 #Gim Geojilmi
+}
+346.1.1={
+	holder=1000450250 #Gim Ipum
+}
+407.1.1={
+	holder=1000450252 #Gim Jwaji
+}
+421.1.1={
+	holder=1000450254 #Gim Chwihui
+}
+451.1.1={
+	holder=1000450256 #Gim Jilji
+}
+492.1.1={
+	holder=1000450258 #Gim Gyeomji
+}
+521.1.1={
+	holder=1000450260 #Gim Guhyeong
+}
+532.1.1={
+	liege="k_silla"
+}
+556.1.1={
+	holder=1000450264 #Gim Muryeok
+}
+587.1.1={
+	holder=1000450265 #Gim Gangwon
+}
+602.1.1={
+	holder=1000450266 #Gim Seohyeon
+}
+629.1.1={
+	holder=1000450269 #Gim Yushin
+}
+673.8.18={
+	holder=1000450277 #Gim Yujin
+}
+697.1.1={
+	holder=1000450399 #Gim Soyul
+}
+717.1.1={
+	holder=1000450400 #Gim Jobang
+}
+753.1.1={
+	holder=1000450401 #Gim Gaejin
+}
+789.1.1={
+	holder=1000450402 #Gim Inman
+}
+828.1.1={
+	holder=1000450403 #Gim Sujin
+}
+867.1.1={
+	holder=1000450404 #Gim Gwangmo
+}
+899.1.1={
+	holder=1000450405 #Gim Yugyeong
+}
+922.1.1={
+	holder=1000450406 #Gim Taeung
+}
+935.1.1={
+	holder=0
+}

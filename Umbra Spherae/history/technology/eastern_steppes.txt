@@ -8,7 +8,6 @@ technology = {
 		d_limghuang
 		d_girin_ula
 		d_sahaliyan_ula
-		d_ejinai
 	}
 	
 	769 = {

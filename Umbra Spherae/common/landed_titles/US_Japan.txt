@@ -3,7 +3,7 @@ e_japan = {
 	color={ 201 23 30 }
 	color2={ 255 255 255 }
 	
-	capital = 1473 # Yamashiro (Kyoto)
+	capital = 1590 # Yamashiro (Kyoto)
 	
 	male_names = {
 		Nijo Sanjo Gojo Rokujo Shichijo Hachijo Shirakawa Horikawa Toba Konoe
@@ -28,14 +28,14 @@ e_japan = {
 		color={ 225 152 180 }
 		color2={ 255 255 255 }
 		
-		capital = 1473 # Yamashiro (Kyoto)
+		capital = 1590 # Yamashiro (Kyoto)
 		
         	d_kanto = {
 
 			color={ 225 132 180 }
 			color2={ 255 255 255 }
 
-			capital=1461 # Sagami
+			capital = 2444 # Sagami
 
             		c_sagami = { # capital of this duchy
 
@@ -175,7 +175,7 @@ e_japan = {
 			color={ 225 152 160 }
 			color2={ 255 255 255 }
 
-			capital = 1469 # Echizen
+			capital = 1586 # Echizen
 
             		c_echizen = { # capital of this duchy
 
@@ -271,7 +271,7 @@ e_japan = {
 			color={ 205 132 190 }
 			color2={ 255 255 255 }
 
-			capital = 1465 # Owari
+			capital = 1582 # Owari
 		
             		c_suruga = {
 
@@ -394,7 +394,7 @@ e_japan = {
 			color={ 225 202 180 }
 			color2={ 255 255 255 }
 
-			capital = 1473 # Yamashiro (Kyoto)
+			capital = 1590 # Yamashiro (Kyoto)
 
             		c_yamashiro = { # capital of this duchy
 
@@ -483,7 +483,7 @@ e_japan = {
                 		}
                 		b_takaichi = {
                 		}
-                		b_uda = {
+                		b_uda_yamato = {
                 		}
                 		b_yamabe = {
                 		}
@@ -503,7 +503,7 @@ e_japan = {
                 		}
                 		b_tanabe = {
                 		}
-                		b_naga = {
+                		b_naga_kii = {
                 		}
                 		b_muro = {
                 		}
@@ -529,7 +529,7 @@ e_japan = {
                 		}
                 		b_amata = {
                 		}
-                		b_tanabe = {
+                		b_tanabe_tango = {
                 		}
             		}
         	}
@@ -538,7 +538,7 @@ e_japan = {
 			color={ 225 152 130 }
 			color2={ 255 255 255 }
 
-			capital = 2306 # Bingo
+			capital = 2423 # Bingo
 
             		c_bingo = { # capital of this duchy
 
@@ -621,7 +621,7 @@ e_japan = {
                 		}
                 		b_yoshiki = {
                 		}
-                		b_abu = {
+                		b_abu_nagato = {
                 		}
                 		b_yamaguchi = {
                 		}
@@ -634,7 +634,7 @@ e_japan = {
 			color={ 245 152 150 }
 			color2={ 255 255 255 }
 
-			capital = 2305 # Izumo
+			capital = 2422 # Izumo
 
             		c_izumo = {
 
@@ -711,7 +711,7 @@ e_japan = {
 			color={ 225 192 170 }
 			color2={ 255 255 255 }
 
-			capital = 2312 # Iyo
+			capital = 2429 # Iyo
 
             		c_awa = {
 
@@ -785,7 +785,7 @@ e_japan = {
 			color={ 225 102 180 }
 			color2={ 255 255 255 }
 
-			capital = 2314 #Chikuzen
+			capital = 2431 #Chikuzen
 			
             		c_chikuzen = { # capital of this duchy
 
@@ -872,7 +872,7 @@ e_japan = {
                 		}
                 		b_amakusa = {
                 		}
-                		b_yatsushiro = {
+                		b_yatsushiro_higo = {
                 		}
                 		b_yamamoto = {
                 		}
@@ -935,7 +935,7 @@ e_japan = {
 	}
 	k_ainumosir = {
 
-	capital = 1480 # Oshima
+	capital = 1597 # Oshima
 	
 	culture = ainu
 	
@@ -949,7 +949,7 @@ e_japan = {
 			color={ 205 152 180 }
 			color2={ 255 255 255 }
 
-			capital = 2319 # Mutsu
+			capital = 2436 # Mutsu
 
 			c_mutsu = { # capital of this duchy
 
@@ -1024,7 +1024,7 @@ e_japan = {
 
         d_hokkaido = { # capital of this kingdom
 
-		capital = 1480 # Oshima
+		capital = 1597 # Oshima
 		
 		ainu = Kai
 		japanese = Ezo
@@ -1113,7 +1113,7 @@ e_japan = {
 		color={ 49 103 19 }
 		color2={ 255 255 255 }
 	
-		capital = 1479 # Karput
+		capital = 1596 # Karput
 
             	c_karput = { # capital of this duchy
 
@@ -1171,14 +1171,14 @@ k_ryukyu = {
 	
 	culture = ryukyuan
 	
-	capital = 1484 # Ryukyu
+	capital = 1601 # Ryukyu
 
         d_ryukyu = { # capital of this kingdom
 
 		color={ 40 121 186 }
 		color2={ 255 255 255 }
 	
-		capital = 1484 # Ryukyu
+		capital = 1601 # Ryukyu
 
             	c_ryukyu = { # capital of this duchy
 
@@ -1189,7 +1189,7 @@ k_ryukyu = {
 
                		b_shuri = {
                 	}
-                	b_naha = { # city
+                	b_naha_ryukyu = { # city
                 	}
                 	b_goeku = {
                 	}

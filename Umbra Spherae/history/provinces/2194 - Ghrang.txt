@@ -1,0 +1,24 @@
+# 1522 - Ghrang
+
+# County Title
+title = c_ghrang
+
+# Settlements
+max_settlements = 5
+b_ghrangjang = castle
+b_annjin_ghrang = city
+b_iemtehlingmieuh = temple
+#b_draling =
+#b_lyixjang =
+#b_zjangneng_ghrang =
+#b_zyenkhe =
+#b_ghan-khe =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

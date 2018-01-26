@@ -3,11 +3,11 @@ e_bai_tai = {
 	color= { 217 253 140 }
 	color2= { 255 255 255 }
 
-	capital = 1892 # Dab-lit
+	capital = 2009 # Dab-lit
 
 	k_dali = {
 
-		capital = 1892 # Dab-lit
+		capital = 2009 # Dab-lit
 
 		culture = bai
 
@@ -16,7 +16,7 @@ e_bai_tai = {
 
 		d_dali = {
 
-			capital = 1892 # Dab-lit
+			capital = 2009 # Dab-lit
 
 			color={ 255 208 47 }
 			color2={ 10 10 10 }
@@ -46,7 +46,7 @@ e_bai_tai = {
 		}
 		d_lunghtungh = {
 
-			capital = 1893 # Lungh-tungh
+			capital = 2010 # Lungh-tungh
 
 			color={ 253 184 91 }
 			color2={ 10 10 10 }
@@ -80,7 +80,7 @@ e_bai_tai = {
 				}
 				b_lada = {
 				}
-				b_labuan = {
+				b_labuan_yoichriox = {
 				}
 				b_jinyanx = {
 				}
@@ -88,7 +88,7 @@ e_bai_tai = {
 		}
 		d_ghuadchjyen = {
 
-			capital = 1896 # Ghuad-chjyen
+			capital = 2013 # Ghuad-chjyen
 
 			color={ 249 148 72 }
 			color2={ 10 10 10 }
@@ -136,7 +136,7 @@ e_bai_tai = {
 		}
 		d_kiamhchjyen = {
 
-			capital = 1897 # Liu-thuungh
+			capital = 2014 # Liu-thuungh
 
 			color={ 251 170 111 }
 			color2={ 10 10 10 }
@@ -176,7 +176,7 @@ e_bai_tai = {
 		}
 		d_thaktung = {
 
-			capital = 1899 # Tung-chjyen
+			capital = 2016 # Tung-chjyen
 
 			color={ 255 255 121 }
 			color2={ 10 10 10 }
@@ -232,7 +232,7 @@ e_bai_tai = {
 		}
 		d_thunghaix = {
 
-			capital = 1902 # Cuad-neng
+			capital = 2019 # Cuad-neng
 
 			color={ 226 254 118 }
 			color2={ 10 10 10 }
@@ -302,7 +302,7 @@ e_bai_tai = {
 		}
 		d_yengxchjang = {
 
-			capital = 1904 # Yengx-chjeng
+			capital = 2021 # Yengx-chjeng
 
 			color={ 226 255 66 }
 			color2={ 10 10 10 }
@@ -346,14 +346,14 @@ e_bai_tai = {
 
 		culture = mon
 
-		capital = 1583 #Hariphunchai
+		capital = 1700 #Hariphunchai
 
 		d_hariphunchai = {
 
     			color= { 241 169 194 }
     			color2= { 255 255 255 }
 
-			capital = 1583 #Hariphunchai
+			capital = 1700 #Hariphunchai
 
 			c_hariphunchai = {
 
@@ -392,7 +392,7 @@ e_bai_tai = {
 				}
 				b_ban_dan_lan_hoi = {
 				}
-				b_si_samrong = {
+				b_si_samrong_sukhothai = {
 				}
 				b_kong_krailat = {
 				}
@@ -408,7 +408,7 @@ e_bai_tai = {
 				}
 				b_ngao = {
 				}
-				b_mae_tha = {
+				b_mae_tha_lampang = {
 				}
 				b_mae_mo = {
 				}
@@ -449,7 +449,7 @@ e_bai_tai = {
     			color= { 188 170 240 }
     			color2= { 255 255 255 }
 
-			capital = 1625 #Chiang Rai
+			capital = 1742 #Chiang Rai
 
 			c_chiang_rai = {
 
@@ -532,7 +532,7 @@ e_bai_tai = {
 				}
 				b_wan_hwe = {
 				}
-				b_wan_tong = {
+				b_wan_tong_keng_tung = {
 				}
 				b_pangkawkawm = {
 				}
@@ -545,7 +545,7 @@ e_bai_tai = {
     			color= { 253 157 167 }
     			color2= { 255 255 255 }
 
-			capital = 1618 #Nan
+			capital = 1735 #Nan
 
 			c_nan = {
 
@@ -644,7 +644,7 @@ k_chiang_hung = {
 	color= { 157 139 146  }
 	color2= { 255 255 255 }
 
-	capital = 1667 #Phongsali
+	capital = 1784 #Phongsali
 	culture = thai
 }
 
@@ -653,7 +653,7 @@ k_sukhothai = {
     	color= { 249 224 153 }
     	color2= { 255 255 255 }
 
-	capital = 1619 #Sukhothai
+	capital = 1736 #Sukhothai
 	culture = thai
 
 }
@@ -663,7 +663,7 @@ d_phayao = {
     	color= { 253 167 167 }
     	color2= { 255 255 255 }
 
-	capital = 1626 #Phayao
+	capital = 1743 #Phayao
 }
 
 k_lanna = {
@@ -671,7 +671,7 @@ k_lanna = {
     	color= { 188 170 240 }
     	color2= { 255 255 255 }
 
-	capital = 1625 #Chiang Rai
+	capital = 1742 #Chiang Rai
 
 }
 
@@ -680,5 +680,5 @@ d_ngoenyang = {
 	color= { 188 170 250 }
 	color2= { 255 255 255 }
 
-	capital = 1638 #Ngoenyang
+	capital = 1755 #Ngoenyang
 }

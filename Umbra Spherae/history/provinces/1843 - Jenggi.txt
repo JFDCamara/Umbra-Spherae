@@ -1,0 +1,21 @@
+# 1212 - Jenggi
+
+# County Title
+title = c_jenggi
+
+# Settlements
+max_settlements = 3
+b_sausapor = tribal
+b_jenggi = tribal
+#b_klamono =
+#b_imanwatan =
+#b_faklak =
+#b_wasior =
+#b_monokwari =
+#b_momi =
+
+# Misc
+culture = papuan
+religion = melanesian_religion
+
+# History

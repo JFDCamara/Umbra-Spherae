@@ -1,0 +1,21 @@
+# 1229 - Mukomuko
+
+# County Title
+title = c_mukomuko
+
+# Settlements
+max_settlements = 3
+b_lubuk_pinang = castle
+b_mukomuko = city
+#b_teras_terunjam =
+#b_pondoksuguh =
+#b_putri_hijau =
+#b_sungaipuh =
+#b_airdikit =
+#b_pondoklunang =
+
+# Misc
+culture = malay
+religion = sumatran_religion
+
+# History

@@ -1,0 +1,21 @@
+# 1118 - Bhamo
+
+# County Title
+title = c_bhamo
+
+# Settlements
+max_settlements = 2
+b_bhamo = castle
+b_mansi = temple
+#b_momauk =
+#b_longjung =
+#b_thamainggyi =
+#b_nawngbya =
+#b_makwe =
+#b_chyingma =
+
+# Misc
+culture = kachin
+religion = nat
+
+# History

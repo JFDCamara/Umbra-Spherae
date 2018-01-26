@@ -1,0 +1,21 @@
+# 1258 - Marawi
+
+# County Title
+title = c_marawi
+
+# Settlements
+max_settlements = 3
+b_iligan = tribal
+b_marawi_mindanao = tribal
+#b_cotabato =
+#b_midsayap =
+#b_tangub =
+#b_dumingag =
+#b_pagadian =
+#b_midsalip =
+
+# Misc
+culture = cebuan
+religion = philippine_religion
+
+# History

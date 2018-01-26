@@ -1,0 +1,21 @@
+# 1249 - Klang
+
+# County Title
+title = c_klang
+
+# Settlements
+max_settlements = 4
+b_rawang = castle
+b_klang = city
+#b_kuala_selangor =
+#b_sekinchan =
+#b_sungai_besar =
+#b_teluk_intan =
+#b_langkap =
+#b_sitiawan =
+
+# Misc
+culture = malay
+religion = buddhist
+
+# History

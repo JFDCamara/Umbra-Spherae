@@ -1,35 +1,3 @@
-temple_emperor_hindu;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;x
-temple_emperor_female_hindu;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;x
-temple_emperor_title_ruler_consort_hindu;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;Acharya;x
-temple_emperor_title_ruler_consort_female_hindu;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;Acharyini;x
-temple_emperor_title_queen_mother_female_hindu;Acharyamata;Acharyamata;Acharyamata;Acharyamata;Acharyamata;Acharyamata;Acharyamata;Acharyamata;Acharyamata;Acharyamata;Acharyamata;Acharyamata;Acharyamata;x
-temple_empire_of_hindu;Sangha of;Sangha of;Sangha of;Sangha of;Sangha of;Sangha of;Sangha of;Sangha of;Sangha of;Sangha of;Sangha of;Sangha of;Sangha of;x
-temple_empire_hindu;Sangha;Sangha;Sangha;Sangha;Sangha;Sangha;Sangha;Sangha;Sangha;Sangha;Sangha;Sangha;Sangha;x
-temple_king_hindu;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;x
-temple_king_female_hindu;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;x
-temple_title_ruler_consort_hindu;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;Sidhana;x
-temple_title_ruler_consort_female_hindu;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;Sidhanini;x
-temple_title_queen_mother_hindu;Sidhanamata;Sidhanamata;Sidhanamata;Sidhanamata;Sidhanamata;Sidhanamata;Sidhanamata;Sidhanamata;Sidhanamata;Sidhanamata;Sidhanamata;Sidhanamata;Sidhanamata;x
-temple_kingdom_of_hindu;Matha of;Matha of;Matha of;Matha of;Matha of;Matha of;Matha of;Matha of;Matha of;Matha of;Matha of;Matha of;Matha of;x
-temple_kingdom_hindu;Matha;Matha;Matha;Matha;Matha;Matha;Matha;Matha;Matha;Matha;Matha;Matha;Matha;x
-temple_duke_hindu;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;x
-temple_duke_female_hindu;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;x
-temple_duke_title_ruler_consort_hindu;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;Goswami;x
-temple_duke_title_ruler_consort_female_hindu;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;Goswamini;x
-temple_duchy_of_hindu;Mandala of;Mandala of;Mandala of;Mandala of;Mandala of;Mandala of;Mandala of;Mandala of;Mandala of;Mandala of;Mandala of;Mandala of;Mandala of;x
-temple_duchy_hindu;Mandala;Mandala;Mandala;Mandala;Mandala;Mandala;Mandala;Mandala;Mandala;Mandala;Mandala;Mandala;Mandala;x
-temple_count_hindu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;x
-temple_count_female_hindu;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;x
-temple_count_title_ruler_consort_hindu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;Prabhu;x
-temple_count_title_ruler_consort_female_hindu;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;Mataji;x
-temple_county_of_hindu;Prabhutva of;Prabhutva of;Prabhutva of;Prabhutva of;Prabhutva of;Prabhutva of;Prabhutva of;Prabhutva of;Prabhutva of;Prabhutva of;Prabhutva of;Prabhutva of;Prabhutva of;x
-temple_county_hindu;Prabhutva;Prabhutva;Prabhutva;Prabhutva;Prabhutva;Prabhutva;Prabhutva;Prabhutva;Prabhutva;Prabhutva;Prabhutva;Prabhutva;Prabhutva;x
-temple_baron_hindu;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;x
-temple_baron_female_hindu;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;x
-temple_baron_title_ruler_consort_hindu;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;Pujari;x
-temple_baron_title_ruler_consort_female_hindu;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;Pujarini;x
-temple_barony_of_hindu;Mandira of;Mandira of;Mandira of;Mandira of;Mandira of;Mandira of;Mandira of;Mandira of;Mandira of;Mandira of;Mandira of;Mandira of;Mandira of;x
-temple_barony_hindu;Mandira;Mandira;Mandira;Mandira;Mandira;Mandira;Mandira;Mandira;Mandira;Mandira;Mandira;Mandira;Mandira;x
 d_comarbae;Iona;Iona;Iona;;Iona;;;;;;;;;x
 d_comarbae_adj;Comarbaeal;comarbaeal;Comarbaealisch;;Comarbaeal;;;;;;;;;x
 COMARBAE_COLUM_CILLE;Comarbae;Comarbae;Comarbae;;Comarbae;;;;;;;;;x
@@ -96,8 +64,6 @@ DESCENDANT_OF_CONFUCIUS;Descendant of Confucius;Descendant of Confucius;Descenda
 DESCENDANT_OF_CONFUCIUS_FOA;Your Holiness;Your Holiness;Your Holiness;Your Holiness;Your Holiness;;;;;;;;;x
 CELESTIAL_MASTER;Celestial Master;Celestial Master;Celestial Master;Celestial Master;Celestial Master;;;;;;;;;x
 CELESTIAL_MASTER_FOA;Your Holiness;Your Holiness;Your Holiness;Your Holiness;Your Holiness;;;;;;;;;x
-k_sakya_trizin;Sakya;Sakya;Sakya;;Sakya;;;;;;;;;x
-k_sakya_trizin_adj;Trizin;Trizin;Trizinisch;;Trizin;;;;;;;;;x
 SAKYA_TRIZIN;Sakya Trizin;Sakya Trizin;Sakya Trizin;;Sakya Trizin;;;;;;;;;x
 SAKYA_TRIZINMO;Sakya Trizinmo;Sakya Trizinmo;Sakya Trizinmo;;Sakya Trizinmo;;;;;;;;;x
 SAKYA_TRIZIN_FOA;Your Holiness;Votre Sainteté;Eure Heiligkeit;;Su Santidad;;;;;;;;;x

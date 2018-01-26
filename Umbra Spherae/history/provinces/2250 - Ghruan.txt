@@ -1,0 +1,20 @@
+# 1612 - Ghruan
+
+# County Title
+title = c_ghruan
+
+# Settlements
+max_settlements = 2
+b_mukkrua = castle
+b_ghuehtreng = castle
+#b_thungyanx = city
+#b_chiengbjenkruan = city
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

@@ -1,4 +1,4 @@
-# Geographical regions
+﻿# Geographical regions
 # Regions can be declared with one or more of the following fields:
 #	duchies = { }, takes duchy title names declared in landed_titles.txt
 #	counties = { }, takes county title names declared in landed_titles.txt
@@ -39,13 +39,15 @@ world_europe_west = {
 world_europe_north = {
 	duchies = {
 		#Sweden
-		d_uppland d_ostergotland d_vastergotland d_norrland d_bergslagen d_smaland
+		d_uppland d_ostergotland d_gotland d_vastergotland d_norrland d_bergslagen d_smaland
 		#Norway
 		d_iceland d_orkney d_vestlandet d_ostlandet d_trondelag d_jamtland
 		#Finland minus Estonia
-		d_kola d_karelia d_finland
+		d_karelia d_finland
 		#Denmark
 		d_skane d_sjaelland d_slesvig d_holstein
+		#Sápmi
+		d_kola d_finnmark d_sapmi
 		#Greenland
 		d_tuniit_nunaat # Umbra Spherae
 	}
@@ -60,7 +62,7 @@ world_europe_south_italy = {
 	duchies = {
 		d_carinthia
 		#Italia
-		d_verona d_susa d_lombardia d_genoa d_modena d_ferrara d_toscana d_pisa d_ancona d_spoleto d_latium d_sardinia d_venice
+		d_verona d_susa d_lombardia d_genoa d_modena d_ferrara d_toscana d_pisa d_ancona d_spoleto d_latium d_sardinia d_venice d_corsica
 		#Sicily
 		d_benevento d_capua d_apulia d_salerno d_calabria d_sicily
 	}
@@ -102,9 +104,9 @@ world_middle_east_jerusalem = {
 world_middle_east_arabia = {
 	duchies = {
 		#East Syria
-		d_damascus d_syria
+		d_damascus d_palmyra d_mudar
 		#Arabia
-		d_arabia_petrae d_medina d_sanaa d_oman d_nefoud d_amman d_kermanshah d_tigris d_basra d_baghdad d_mosul d_jazira
+		d_arabia_petrae d_medina d_sanaa d_oman d_nefoud d_amman d_kermanshah d_tigris d_basra d_baghdad d_mosul d_jazira d_taizz d_hadramut d_samarra
 		#Sinai
 		d_sinai
 	}
@@ -144,7 +146,7 @@ world_india_rajastan = {
 		#Sindh
 		d_sauvira d_bhakkar
 		#Punjab
-		d_multan d_lahore d_gandhara
+		d_multan d_lahore d_trigarta d_gandhara
 		#Delhi
 		d_kuru d_haritanaka d_mathura d_vodamayutja
 		#Gujarat
@@ -160,7 +162,7 @@ world_india_rajastan = {
 world_persia = {
 	duchies = {
 		#Persia minus Mesopotamia
-		d_khorasan d_mazandaran d_esfahan d_kerman d_fars d_hamadan d_tabriz d_azerbaijan d_baluchistan d_sistan d_kabul d_zabulistan d_khiva d_samarkand d_merv d_dihistan 
+		d_khorasan d_mazandaran d_esfahan d_kerman d_fars d_hamadan d_tabriz d_azerbaijan d_baluchistan d_sistan d_kabul d_zabulistan d_khiva d_samarkand d_merv d_dihistan d_herat d_balkh d_khuttal d_gilan d_khozistan d_ferghana d_kurdistan d_jibal d_mafaza
 	}
 }
 world_africa_north = {
@@ -224,6 +226,12 @@ world_india = {
 	}
 }
 
+world_himalayas = {
+	duchies = {
+		d_lhasa d_yarlung d_shigatse d_nagchu d_sumparu d_bhutan d_purang d_ngari d_ladakh d_dege d_qamdo d_nyingchi d_kathmandu d_gorkha d_kashmir d_pamir d_uttaranchal d_jiuquan d_qinghai d_nagormo d_nangqen d_erma
+	}
+}
+
 ###########################################################################
 # Custom Regions
 ###########################################################################
@@ -268,7 +276,7 @@ custom_portuguese = {
 }
 custom_swedish = {
 	duchies = {
-		d_uppland d_ostergotland d_vastergotland d_norrland d_bergslagen d_smaland
+		d_uppland d_ostergotland d_gotland d_vastergotland d_norrland d_bergslagen d_smaland d_sapmi
 	}
 }
 custom_danish = {
@@ -278,12 +286,44 @@ custom_danish = {
 }
 custom_norwegian = {
 	duchies = {
-		d_iceland d_orkney d_vestlandet d_ostlandet d_trondelag d_jamtland
+		d_iceland d_orkney d_vestlandet d_ostlandet d_trondelag d_jamtland d_finnmark
 	}
 }
 custom_scotland = {
 	duchies = {
 		d_the_isles d_galloway d_western_isles d_lothian d_albany d_moray
+	}
+}
+custom_historical_plague_free_zone = {
+	duchies = {
+		d_lombardia d_lesser_poland d_kuyavia d_mazovia d_lithuanians d_yatviags d_turov d_volhynia d_iceland
+	}
+	counties = {
+		c_valais c_grisons c_alto_aragon c_urgell c_bearn c_faereyar c_lepiel c_orsha c_minsk c_peremyshl c_armagnac c_foix c_chur
+	}
+}
+
+custom_eastern_edge_of_map = {
+	counties = {
+		c_jiuquan c_fuqi c_delingha c_dege c_ejin c_ikh_bogd c_kara_khorum c_samatata c_markam c_baygal c_lingtsang
+	}
+}
+
+custom_chinese_invasion_target_region = {
+	duchies = {
+		d_pandya_nadu d_chola_nadu d_tondai_nadu d_chera_nadu d_lanka d_sinhala d_vengi d_udayagiri
+	}
+	regions = {
+		world_india_bengal world_steppe_tarim world_steppe_east world_himalayas world_far_east world_indochina world_tenem_lamit
+	}
+}
+
+custom_eastern_access = {
+	duchies = {
+		d_kumul d_karashar d_altay d_ikh_bogd d_kashgar d_khotan d_ferghana d_samarkand d_syr_darya d_kirghiz
+	}
+	regions = {
+		world_himalayas
 	}
 }
 
@@ -311,7 +351,7 @@ world_north_china = {
 		d_ghatung d_liungtok d_lomzjek d_linpyox d_daddung
 		d_dadmjeng d_kaujang d_cjindengh d_triungsren 
 		d_byamxjang d_daddengh d_ghrembjen d_leujang 
-		d_hingkhieng d_bjenghrax d_ghase d_ejinai
+		d_hingkhieng d_bjenghrax d_ghase
 	}
 }
 
@@ -382,29 +422,5 @@ world_indonesia = {
 world_southeast_asia = {
 	regions = {
 		world_indochina world_tenem_lamit world_malaysia world_java world_indonesia
-	}
-}
-
-world_tibet = {
-	duchies = {
-		d_u d_samtho
-		d_guge d_tsang d_ladakh
-		d_kham d_erma 
-		d_qinghai d_amdo
-		d_bhutan d_sikkim
-	}
-}
-
-world_indo_tibet = {
-	duchies = {
-		d_srinagara d_pamir 
-		d_kumaon d_garhwal
-		d_kathmandu d_jumla
-	}
-}
-
-world_pan_tibet = {
-	regions = {
-		world_tibet world_indo_tibet
 	}
 }

@@ -1,0 +1,21 @@
+# 1116 - Minbu
+
+# County Title
+title = c_minbu
+
+# Settlements
+max_settlements = 4
+b_pwintbyu = castle
+b_minbu = city
+b_yenangyaung = temple
+#b_salin =
+#b_natmauk =
+#b_taungdwingyi =
+#b_sagu =
+#b_magwe =
+
+# Misc
+culture = bamar
+religion = nat
+
+# History

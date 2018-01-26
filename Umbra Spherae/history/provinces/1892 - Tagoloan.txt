@@ -1,0 +1,21 @@
+# 1261 - Tagoloan
+
+# County Title
+title = c_tagoloan
+
+# Settlements
+max_settlements = 5
+b_davao = tribal
+b_tagoloan = tribal
+b_malitbog = tribal
+#b_jasaan =
+#b_sumilao =
+#b_lantapan =
+#b_maramag =
+#b_kitaotao =
+
+# Misc
+culture = cebuan
+religion = philippine_religion
+
+# History

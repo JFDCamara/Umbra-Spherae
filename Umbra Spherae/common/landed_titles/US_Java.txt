@@ -5,21 +5,21 @@ e_java = {
 
 	culture = javanese
 
-	capital = 1703 #Daha
+	capital = 1820 #Daha
 
 	k_java = {
 
 		color = { 169 78 52 }
     		color2= { 0 0 0 }
 
-		capital = 1703 #Daha
+		capital = 1820 #Daha
 
 		d_kediri = {
 
 			color = { 208 112 53 }
     			color2= { 0 0 0 }
 
-			capital = 1703 #Daha
+			capital = 1820 #Daha
 
 			c_daha = {
 
@@ -96,7 +96,7 @@ e_java = {
 			color = { 198 154 64 }
     			color2= { 0 0 0 }
 
-			capital = 1702 #Kahuripan
+			capital = 1819 #Kahuripan
 
 			c_kahuripan = {
 
@@ -141,7 +141,7 @@ e_java = {
 				}
 				b_sepuluh = {
 				}
-				b_tanah_merah = {
+				b_tanah_merah_bangkalan = {
 				}
 				b_kwanyar = {
 				}
@@ -176,7 +176,7 @@ e_java = {
 			color = { 157 111 60 }
     			color2= { 0 0 0 }
 
-			capital = 1700 #Dieng
+			capital = 1817 #Dieng
 
 			c_dieng = {
 
@@ -228,7 +228,7 @@ e_java = {
 			color = { 154 83 63 }
     			color2= { 0 0 0 }
 
-			capital = 1706 #Prambanan
+			capital = 1823 #Prambanan
 
 			c_prambanan = {
 
@@ -280,7 +280,7 @@ e_java = {
 			color = { 182 139 114 }
     			color2= { 0 0 0 }
 
-			capital = 1701 #Gianyar
+			capital = 1818 #Gianyar
 
 			c_gianyar = {
 
@@ -319,7 +319,7 @@ e_java = {
 				}
 				b_sumbermanjing = {
 				}
-				b_jabung = {
+				b_jabung_tumapel = {
 				}
 				b_wajak = {
 				}
@@ -335,14 +335,14 @@ e_java = {
 
 		culture = tenggaran
 
-		capital = 1727 #Tiwu
+		capital = 1844 #Tiwu
 
 		d_timur = {
 
    			color= { 89 126 213 }
     			color2= { 0 0 0  }
 
-			capital = 1727 #Tiwu
+			capital = 1844 #Tiwu
 
 			c_tiwu = {
 
@@ -397,7 +397,7 @@ e_java = {
    			color= { 106 171 196 }
     			color2= { 0 0 0  }
 
-			capital = 1749 #Taliwang
+			capital = 1866 #Taliwang
 
 			c_taliwang = {
 
@@ -466,7 +466,7 @@ e_java = {
 				}
 				b_batukliang = {
 				}
-				b_bayan = {
+				b_bayan_gurun = {
 				}
 				b_gangga = {
 				}
@@ -477,7 +477,7 @@ e_java = {
    			color= { 95 190 207 }
     			color2= { 0 0 0  }
 
-			capital = 1760 #Takang
+			capital = 1877 #Takang
 
 			c_takang = {
 
@@ -536,14 +536,14 @@ e_java = {
    		color= { 159 0 159 }
     		color2= { 0 0 0  }
 
-		capital = 1731 #Makassar
+		capital = 1848 #Makassar
 
 		d_makassar = {
 
    			color= { 164 52 254 }
     			color2= { 0 0 0  }
 
-			capital = 1731 #Makassar
+			capital = 1848 #Makassar
 
 			c_makassar = {
 
@@ -623,7 +623,7 @@ e_java = {
    			color= { 210 2 133 }
     			color2= { 0 0 0  }
 
-			capital = 1725 #Banggai
+			capital = 1842 #Banggai
 
 			c_banggai = {
 
@@ -678,7 +678,7 @@ e_java = {
    			color= { 117 10 211 }
     			color2= { 0 0 0  }
 
-			capital = 1750 #Bau-Bau
+			capital = 1867 #Bau-Bau
 
 			c_bau_bau = {
 
@@ -733,7 +733,7 @@ e_java = {
    			color= { 202 11 78 }
     			color2= { 0 0 0  }
 
-			capital = 1756 #Gorontalo
+			capital = 1873 #Gorontalo
 
 			c_gorontalo = {
 
@@ -813,14 +813,14 @@ e_java = {
 
 		culture = malukan
 
-		capital = 1717 #Ternate
+		capital = 1834 #Ternate
 
 		d_ternate = {
 
    			color= { 139 70 10 }
     			color2= { 0 0 0  }
 
-			capital = 1717 #Ternate
+			capital = 1834 #Ternate
 
 			c_ternate = {
 
@@ -897,7 +897,7 @@ e_java = {
    			color= { 139 95 10 }
     			color2= { 0 0 0  }
 
-			capital = 1753 #Tidore
+			capital = 1870 #Tidore
 
 			c_tidore = {
 
@@ -974,7 +974,7 @@ e_java = {
    			color= { 134 48 6 }
     			color2= { 0 0 0  }
 
-			capital = 1252 #Ambon
+			capital = 1869 #Ambon
 
 			c_ambon = {
 
@@ -1010,7 +1010,7 @@ e_java = {
 				}
 				b_seit = {
 				}
-				b_bara = {
+				b_bara_hutan_kadali = {
 				}
 				b_wafehai = {
 				}
@@ -1029,7 +1029,7 @@ e_java = {
    			color= { 124 100 16 }
     			color2= { 0 0 0  }
 
-			capital = 1762 #Dobo
+			capital = 1879 #Dobo
 
 			c_dobo = {
 
@@ -1081,7 +1081,7 @@ e_java = {
    			color= { 189 120 28 }
     			color2= { 0 0 0  }
 
-			capital = 1726 #Jenggi
+			capital = 1843 #Jenggi
 
 			c_jenggi = {
 

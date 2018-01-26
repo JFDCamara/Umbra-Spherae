@@ -1,0 +1,3 @@
+#added father for Abaoji 194325 (Liao Dynasty) from Khitan_US (Saladi 1000202506)
+#replaced buddhist with mahayana
+#some female character cannot be Liao, dynasty commented

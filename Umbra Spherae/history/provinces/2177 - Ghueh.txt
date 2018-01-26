@@ -1,0 +1,21 @@
+# 1496 - Ghueh
+
+# County Title
+title = c_ghueh
+
+# Settlements
+max_settlements = 4
+b_kyoizjenx = castle
+b_driunghiokuanh = temple
+#b_pakla =
+#b_haixphiung =
+#b_ghangyan =
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

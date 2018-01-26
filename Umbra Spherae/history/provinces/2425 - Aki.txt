@@ -1,0 +1,22 @@
+# 940 - Aki
+
+# County Title
+title = c_aki
+
+# Settlements
+max_settlements = 5
+b_aki = castle
+b_itsukushima = temple
+b_nuta = castle
+
+#b_saeki = castle
+#b_yamagata = castle
+#b_toyota = castle
+#b_takamiya = castle
+#b_kamo = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

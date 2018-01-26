@@ -318,7 +318,7 @@ b_liang_njox;Liang;Liang;Liang;Liang;Liang;Liang;Liang;Liang;Liang;Liang;Liang;L
 b_lyunghing;Longxing;Longxing;Longxing;Longxing;Longxing;Longxing;Longxing;Longxing;Longxing;Longxing;Longxing;Longxing;Longxing;x
 b_loxsren;Lushan;Lushan;Lushan;Lushan;Lushan;Lushan;Lushan;Lushan;Lushan;Lushan;Lushan;Lushan;Lushan;x
 b_siangzjeng;Xiangcheng;Xiangcheng;Xiangcheng;Xiangcheng;Xiangcheng;Xiangcheng;Xiangcheng;Xiangcheng;Xiangcheng;Xiangcheng;Xiangcheng;Xiangcheng;Xiangcheng;x
-b_sjep;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;x
+b_sjep_njox;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;x
 b_limnjox;Linru;Linru;Linru;Linru;Linru;Linru;Linru;Linru;Linru;Linru;Linru;Linru;Linru;x
 b_drieuxlak;Zhaoluo;Zhaoluo;Zhaoluo;Zhaoluo;Zhaoluo;Zhaoluo;Zhaoluo;Zhaoluo;Zhaoluo;Zhaoluo;Zhaoluo;Zhaoluo;Zhaoluo;x
 b_kiangtemh;Jiangdian;Jiangdian;Jiangdian;Jiangdian;Jiangdian;Jiangdian;Jiangdian;Jiangdian;Jiangdian;Jiangdian;Jiangdian;Jiangdian;Jiangdian;x
@@ -416,7 +416,7 @@ b_ghruadeng;Huating;Huating;Huating;Huating;Huating;Huating;Huating;Huating;Huat
 b_haixjem;Haiyan;Haiyan;Haiyan;Haiyan;Haiyan;Haiyan;Haiyan;Haiyan;Haiyan;Haiyan;Haiyan;Haiyan;Haiyan;x
 b_zriungtok;Chongde;Chongde;Chongde;Chongde;Chongde;Chongde;Chongde;Chongde;Chongde;Chongde;Chongde;Chongde;Chongde;x
 b_zjanghhaix;Shanghai;Shanghai;Shanghai;Shanghai;Shanghai;Shanghai;Shanghai;Shanghai;Shanghai;Shanghai;Shanghai;Shanghai;Shanghai;x
-b_kimsren;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;x
+b_kimsren_siuh;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;Jinshan;x
 b_nenghaix;Ninghai;Ninghai;Ninghai;Ninghai;Ninghai;Ninghai;Ninghai;Ninghai;Ninghai;Ninghai;Ninghai;Ninghai;Ninghai;x
 b_chengtuon;Qingdun;Qingdun;Qingdun;Qingdun;Qingdun;Qingdun;Qingdun;Qingdun;Qingdun;Qingdun;Qingdun;Qingdun;Qingdun;x
 c_gho;Hu;Hu;Hu;Hu;Hu;Hu;Hu;Hu;Hu;Hu;Hu;Hu;Hu;x
@@ -425,7 +425,7 @@ b_kyoian;Guian;Guian;Guian;Guian;Guian;Guian;Guian;Guian;Guian;Guian;Guian;Guian
 b_myoxkhang;Wukang;Wukang;Wukang;Wukang;Wukang;Wukang;Wukang;Wukang;Wukang;Wukang;Wukang;Wukang;Wukang;x
 b_tokchieng;Deqing;Deqing;Deqing;Deqing;Deqing;Deqing;Deqing;Deqing;Deqing;Deqing;Deqing;Deqing;Deqing;x
 b_ankjit;Anji;Anji;Anji;Anji;Anji;Anji;Anji;Anji;Anji;Anji;Anji;Anji;Anji;x
-b_drianghing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;x
+b_drianghing_gho;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;x
 b_ghohsjenghmyanghzjuhzsih;Husheng Wanshousi;Husheng Wanshousi;Husheng Wanshousi;Husheng Wanshousi;Husheng Wanshousi;Husheng Wanshousi;Husheng Wanshousi;Husheng Wanshousi;Husheng Wanshousi;Husheng Wanshousi;Husheng Wanshousi;Husheng Wanshousi;Husheng Wanshousi;x
 b_muaikhe;Meixi;Meixi;Meixi;Meixi;Meixi;Meixi;Meixi;Meixi;Meixi;Meixi;Meixi;Meixi;Meixi;x
 c_ghang;Hang;Hang;Hang;Hang;Hang;Hang;Hang;Hang;Hang;Hang;Hang;Hang;Hang;x
@@ -762,7 +762,7 @@ b_yotlim;Yulin;Yulin;Yulin;Yulin;Yulin;Yulin;Yulin;Yulin;Yulin;Yulin;Yulin;Yulin
 b_nengphox;Ningpu;Ningpu;Ningpu;Ningpu;Ningpu;Ningpu;Ningpu;Ningpu;Ningpu;Ningpu;Ningpu;Ningpu;Ningpu;x
 b_liengxbyang;Lingfang;Lingfang;Lingfang;Lingfang;Lingfang;Lingfang;Lingfang;Lingfang;Lingfang;Lingfang;Lingfang;Lingfang;Lingfang;x
 b_myoxhruah;Wuhua;Wuhua;Wuhua;Wuhua;Wuhua;Wuhua;Wuhua;Wuhua;Wuhua;Wuhua;Wuhua;Wuhua;Wuhua;x
-b_laipjin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;x
+b_laipjin_zsiangx;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;Laibin;x
 b_myoxsien;Wuxian;Wuxian;Wuxian;Wuxian;Wuxian;Wuxian;Wuxian;Wuxian;Wuxian;Wuxian;Wuxian;Wuxian;Wuxian;x
 b_zjanghlim;Shanglin;Shanglin;Shanglin;Shanglin;Shanglin;Shanglin;Shanglin;Shanglin;Shanglin;Shanglin;Shanglin;Shanglin;Shanglin;x
 c_yung;Yong;Yong;Yong;Yong;Yong;Yong;Yong;Yong;Yong;Yong;Yong;Yong;Yong;x
@@ -799,7 +799,7 @@ b_jungsjyix;Rongshui;Rongshui;Rongshui;Rongshui;Rongshui;Rongshui;Rongshui;Rongs
 b_ghruaiyanx;Huaiyuan;Huaiyuan;Huaiyuan;Huaiyuan;Huaiyuan;Huaiyuan;Huaiyuan;Huaiyuan;Huaiyuan;Huaiyuan;Huaiyuan;Huaiyuan;Huaiyuan;x
 b_lakzjenx;Leqiang;Leqiang;Leqiang;Leqiang;Leqiang;Leqiang;Leqiang;Leqiang;Leqiang;Leqiang;Leqiang;Leqiang;Leqiang;x
 b_limkhe;Linxi;Linxi;Linxi;Linxi;Linxi;Linxi;Linxi;Linxi;Linxi;Linxi;Linxi;Linxi;Linxi;x
-b_myoxjang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;x
+b_myoxjang_jung;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;Wuyang;x
 b_pokghra;Beixia;Beixia;Beixia;Beixia;Beixia;Beixia;Beixia;Beixia;Beixia;Beixia;Beixia;Beixia;Beixia;x
 b_zsimkrung;Xunjiang;Xunjiang;Xunjiang;Xunjiang;Xunjiang;Xunjiang;Xunjiang;Xunjiang;Xunjiang;Xunjiang;Xunjiang;Xunjiang;Xunjiang;x
 c_ngie;Yi;Yi;Yi;Yi;Yi;Yi;Yi;Yi;Yi;Yi;Yi;Yi;Yi;x
@@ -898,10 +898,10 @@ b_dongkhe;Tengxi;Tengxi;Tengxi;Tengxi;Tengxi;Tengxi;Tengxi;Tengxi;Tengxi;Tengxi;
 b_braksra;Baisha;Baisha;Baisha;Baisha;Baisha;Baisha;Baisha;Baisha;Baisha;Baisha;Baisha;Baisha;Baisha;x
 c_ghrang;Heng;Heng;Heng;Heng;Heng;Heng;Heng;Heng;Heng;Heng;Heng;Heng;Heng;x
 b_ghrangjang;Hengyang;Hengyang;Hengyang;Hengyang;Hengyang;Hengyang;Hengyang;Hengyang;Hengyang;Hengyang;Hengyang;Hengyang;Hengyang;x
-b_annjin;Anren;Anren;Anren;Anren;Anren;Anren;Anren;Anren;Anren;Anren;Anren;Anren;Anren;x
+b_annjin_ghrang;Anren;Anren;Anren;Anren;Anren;Anren;Anren;Anren;Anren;Anren;Anren;Anren;Anren;x
 b_draling;Chaling;Chaling;Chaling;Chaling;Chaling;Chaling;Chaling;Chaling;Chaling;Chaling;Chaling;Chaling;Chaling;x
 b_lyixjang;Leiyang;Leiyang;Leiyang;Leiyang;Leiyang;Leiyang;Leiyang;Leiyang;Leiyang;Leiyang;Leiyang;Leiyang;Leiyang;x
-b_zjangneng;Changning;Changning;Changning;Changning;Changning;Changning;Changning;Changning;Changning;Changning;Changning;Changning;Changning;x
+b_zjangneng_ghrang;Changning;Changning;Changning;Changning;Changning;Changning;Changning;Changning;Changning;Changning;Changning;Changning;Changning;x
 b_zyenkhe;Quanxi;Quanxi;Quanxi;Quanxi;Quanxi;Quanxi;Quanxi;Quanxi;Quanxi;Quanxi;Quanxi;Quanxi;Quanxi;x
 b_ghan-khe;Hanxi;Hanxi;Hanxi;Hanxi;Hanxi;Hanxi;Hanxi;Hanxi;Hanxi;Hanxi;Hanxi;Hanxi;Hanxi;x
 b_iemtehlingmieuh;Yandilingmiao;Yandilingmiao;Yandilingmiao;Yandilingmiao;Yandilingmiao;Yandilingmiao;Yandilingmiao;Yandilingmiao;Yandilingmiao;Yandilingmiao;Yandilingmiao;Yandilingmiao;Yandilingmiao;x
@@ -1109,7 +1109,7 @@ b_myosren;Wushan;Wushan;Wushan;Wushan;Wushan;Wushan;Wushan;Wushan;Wushan;Wushan;
 b_dadchjang;Dachang;Dachang;Dachang;Dachang;Dachang;Dachang;Dachang;Dachang;Dachang;Dachang;Dachang;Dachang;Dachang;x
 b_brakdehmieuh;Baidimiao;Baidimiao;Baidimiao;Baidimiao;Baidimiao;Baidimiao;Baidimiao;Baidimiao;Baidimiao;Baidimiao;Baidimiao;Baidimiao;Baidimiao;x
 b_triangghuanghumieuh;Zhanghuanhoumiao;Zhanghuanhoumiao;Zhanghuanhoumiao;Zhanghuanhoumiao;Zhanghuanhoumiao;Zhanghuanhoumiao;Zhanghuanhoumiao;Zhanghuanhoumiao;Zhanghuanhoumiao;Zhanghuanhoumiao;Zhanghuanhoumiao;Zhanghuanhoumiao;Zhanghuanhoumiao;x
-b_kaujang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;x
+b_kaujang_gyi;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;Gaoyang;x
 c_that;Da;Da;Da;Da;Da;Da;Da;Da;Da;Da;Da;Da;Da;x
 b_thungchjyen;Tongchuan;Tongchuan;Tongchuan;Tongchuan;Tongchuan;Tongchuan;Tongchuan;Tongchuan;Tongchuan;Tongchuan;Tongchuan;Tongchuan;Tongchuan;x
 b_sinneng;Xinning;Xinning;Xinning;Xinning;Xinning;Xinning;Xinning;Xinning;Xinning;Xinning;Xinning;Xinning;Xinning;x
@@ -1395,7 +1395,7 @@ b_sinbyan;Xinfan;Xinfan;Xinfan;Xinfan;Xinfan;Xinfan;Xinfan;Xinfan;Xinfan;Xinfan;
 b_kuangxto;Guangdou;Guangdou;Guangdou;Guangdou;Guangdou;Guangdou;Guangdou;Guangdou;Guangdou;Guangdou;Guangdou;Guangdou;Guangdou;x
 b_lengzyen;Lingquan;Lingquan;Lingquan;Lingquan;Lingquan;Lingquan;Lingquan;Lingquan;Lingquan;Lingquan;Lingquan;Lingquan;Lingquan;x
 b_heming;Heming;Heming;Heming;Heming;Heming;Heming;Heming;Heming;Heming;Heming;Heming;Heming;Heming;x
-b_sinto;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;x
+b_sinto_jek;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;Xindu;x
 c_zjyuk;Shu;Shu;Shu;Shu;Shu;Shu;Shu;Shu;Shu;Shu;Shu;Shu;Shu;x
 b_cinhngyan;Jinyuan;Jinyuan;Jinyuan;Jinyuan;Jinyuan;Jinyuan;Jinyuan;Jinyuan;Jinyuan;Jinyuan;Jinyuan;Jinyuan;Jinyuan;x
 b_krungngyan;Jiangyuan;Jiangyuan;Jiangyuan;Jiangyuan;Jiangyuan;Jiangyuan;Jiangyuan;Jiangyuan;Jiangyuan;Jiangyuan;Jiangyuan;Jiangyuan;Jiangyuan;x
@@ -1492,7 +1492,7 @@ b_limcinh;Linjin;Linjin;Linjin;Linjin;Linjin;Linjin;Linjin;Linjin;Linjin;Linjin;
 b_yenggho;Ronghe;Ronghe;Ronghe;Ronghe;Ronghe;Ronghe;Ronghe;Ronghe;Ronghe;Ronghe;Ronghe;Ronghe;Ronghe;x
 b_myanhzyen;Wanquan;Wanquan;Wanquan;Wanquan;Wanquan;Wanquan;Wanquan;Wanquan;Wanquan;Wanquan;Wanquan;Wanquan;Wanquan;x
 b_iezjex;Yishi;Yishi;Yishi;Yishi;Yishi;Yishi;Yishi;Yishi;Yishi;Yishi;Yishi;Yishi;Yishi;x
-b_lyungmuon;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;x
+b_lyungmuon_bo;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;Longmen;x
 b_ghuxcikzsi;Houjici;Houjici;Houjici;Houjici;Houjici;Houjici;Houjici;Houjici;Houjici;Houjici;Houjici;Houjici;Houjici;x
 c_dung;Tong;Tong;Tong;Tong;Tong;Tong;Tong;Tong;Tong;Tong;Tong;Tong;Tong;x
 b_bingjik;Fengyi;Fengyi;Fengyi;Fengyi;Fengyi;Fengyi;Fengyi;Fengyi;Fengyi;Fengyi;Fengyi;Fengyi;Fengyi;x
@@ -1581,7 +1581,7 @@ b_thenhing;Tianxing;Tianxing;Tianxing;Tianxing;Tianxing;Tianxing;Tianxing;Tianxi
 b_gjesren;Qishan;Qishan;Qishan;Qishan;Qishan;Qishan;Qishan;Qishan;Qishan;Qishan;Qishan;Qishan;Qishan;x
 b_pauxke;Baoji;Baoji;Baoji;Baoji;Baoji;Baoji;Baoji;Baoji;Baoji;Baoji;Baoji;Baoji;Baoji;x
 b_kruak;Guo;Guo;Guo;Guo;Guo;Guo;Guo;Guo;Guo;Guo;Guo;Guo;Guo;x
-b_mii;Mei;Mei;Mei;Mei;Mei;Mei;Mei;Mei;Mei;Mei;Mei;Mei;Mei;x
+b_mii_gje;Mei;Mei;Mei;Mei;Mei;Mei;Mei;Mei;Mei;Mei;Mei;Mei;Mei;x
 b_byopiung;Fufeng;Fufeng;Fufeng;Fufeng;Fufeng;Fufeng;Fufeng;Fufeng;Fufeng;Fufeng;Fufeng;Fufeng;Fufeng;x
 b_hauxcjix;Haozhi;Haozhi;Haozhi;Haozhi;Haozhi;Haozhi;Haozhi;Haozhi;Haozhi;Haozhi;Haozhi;Haozhi;Haozhi;x
 b_triucjit;Zhouzhi;Zhouzhi;Zhouzhi;Zhouzhi;Zhouzhi;Zhouzhi;Zhouzhi;Zhouzhi;Zhouzhi;Zhouzhi;Zhouzhi;Zhouzhi;Zhouzhi;x
@@ -1705,7 +1705,7 @@ b_ghanuaih;Gha-nuaih;Gha-nuaih;Gha-nuaih;Gha-nuaih;Gha-nuaih;Gha-nuaih;Gha-nuaih
 b_myoxtrik;Myox-trik;Myox-trik;Myox-trik;Myox-trik;Myox-trik;Myox-trik;Myox-trik;Myox-trik;Myox-trik;Myox-trik;Myox-trik;Myox-trik;Myox-trik;x
 b_siumyox;Siu-myox;Siu-myox;Siu-myox;Siu-myox;Siu-myox;Siu-myox;Siu-myox;Siu-myox;Siu-myox;Siu-myox;Siu-myox;Siu-myox;Siu-myox;x
 b_myanhzjenx;Myanh-zjenx;Myanh-zjenx;Myanh-zjenx;Myanh-zjenx;Myanh-zjenx;Myanh-zjenx;Myanh-zjenx;Myanh-zjenx;Myanh-zjenx;Myanh-zjenx;Myanh-zjenx;Myanh-zjenx;Myanh-zjenx;x
-b_chienghruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;x
+b_chienghruah_ghruai;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;Chieng-hruah;x
 b_myoxtok;Myox-tok;Myox-tok;Myox-tok;Myox-tok;Myox-tok;Myox-tok;Myox-tok;Myox-tok;Myox-tok;Myox-tok;Myox-tok;Myox-tok;Myox-tok;x
 b_suunghkuak;Suungh-kuak;Suungh-kuak;Suungh-kuak;Suungh-kuak;Suungh-kuak;Suungh-kuak;Suungh-kuak;Suungh-kuak;Suungh-kuak;Suungh-kuak;Suungh-kuak;Suungh-kuak;Suungh-kuak;x
 b_ngyatsrenzsih;Yueshansi;Yueshansi;Yueshansi;Yueshansi;Yueshansi;Yueshansi;Yueshansi;Yueshansi;Yueshansi;Yueshansi;Yueshansi;Yueshansi;Yueshansi;x
@@ -1715,12 +1715,12 @@ b_yed;Yed;Yed;Yed;Yed;Yed;Yed;Yed;Yed;Yed;Yed;Yed;Yed;Yed;x
 b_lejang;Le-jang;Le-jang;Le-jang;Le-jang;Le-jang;Le-jang;Le-jang;Le-jang;Le-jang;Le-jang;Le-jang;Le-jang;Le-jang;x
 b_guruekkra;Ghruek-kra;Ghruek-kra;Ghruek-kra;Ghruek-kra;Ghruek-kra;Ghruek-kra;Ghruek-kra;Ghruek-kra;Ghruek-kra;Ghruek-kra;Ghruek-kra;Ghruek-kra;Ghruek-kra;x
 b_sinhiang;Sin-hiang;Sin-hiang;Sin-hiang;Sin-hiang;Sin-hiang;Sin-hiang;Sin-hiang;Sin-hiang;Sin-hiang;Sin-hiang;Sin-hiang;Sin-hiang;Sin-hiang;x
-b_kyungzjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;x
+b_kyungzjeng_yed;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;Kyung-zjeng;x
 b_gimuon;Gi-muon;Gi-muon;Gi-muon;Gi-muon;Gi-muon;Gi-muon;Gi-muon;Gi-muon;Gi-muon;Gi-muon;Gi-muon;Gi-muon;Gi-muon;x
 b_ngiengjang;Ngieng-jang;Ngieng-jang;Ngieng-jang;Ngieng-jang;Ngieng-jang;Ngieng-jang;Ngieng-jang;Ngieng-jang;Ngieng-jang;Ngieng-jang;Ngieng-jang;Ngieng-jang;Ngieng-jang;x
 c_danh;Chan;Chan;Chan;Chan;Chan;Chan;Chan;Chan;Chan;Chan;Chan;Chan;Chan;x
 b_pukjang;Puk-jang;Puk-jang;Puk-jang;Puk-jang;Puk-jang;Puk-jang;Puk-jang;Puk-jang;Puk-jang;Puk-jang;Puk-jang;Puk-jang;Puk-jang;x
-b_limgha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;x
+b_limgha_danh;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;Lim-gha;x
 b_yednom;Yed-nom;Yed-nom;Yed-nom;Yed-nom;Yed-nom;Yed-nom;Yed-nom;Yed-nom;Yed-nom;Yed-nom;Yed-nom;Yed-nom;Yed-nom;x
 b_chiengphiung;Chieng-phiung;Chieng-phiung;Chieng-phiung;Chieng-phiung;Chieng-phiung;Chieng-phiung;Chieng-phiung;Chieng-phiung;Chieng-phiung;Chieng-phiung;Chieng-phiung;Chieng-phiung;Chieng-phiung;x
 b_nomlak;Nom-lak;Nom-lak;Nom-lak;Nom-lak;Nom-lak;Nom-lak;Nom-lak;Nom-lak;Nom-lak;Nom-lak;Nom-lak;Nom-lak;Nom-lak;x
@@ -2044,7 +2044,7 @@ b_nengpyox;Neng-pyox;Neng-pyox;Neng-pyox;Neng-pyox;Neng-pyox;Neng-pyox;Neng-pyox
 b_pyoxsean;Se-'an;Se-'an;Se-'an;Se-'an;Se-'an;Se-'an;Se-'an;Se-'an;Se-'an;Se-'an;Se-'an;Se-'an;Se-'an;x
 b_praksjingh;Prak-sjingh;Prak-sjingh;Prak-sjingh;Prak-sjingh;Prak-sjingh;Prak-sjingh;Prak-sjingh;Prak-sjingh;Prak-sjingh;Prak-sjingh;Prak-sjingh;Prak-sjingh;Prak-sjingh;x
 b_anphiungpyox; 'an-phiung; 'an-phiung; 'an-phiung; 'an-phiung; 'an-phiung; 'an-phiung; 'an-phiung; 'an-phiung; 'an-phiung; 'an-phiung; 'an-phiung; 'an-phiung; 'an-phiung;x
-b_ghapjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;x
+b_ghapjin_pyox;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;Gha-pjin;x
 d_daddung;Datong;Datong;Datong;Datong;Datong;Datong;Datong;Datong;Datong;Datong;Datong;Datong;Datong;x
 c_yon;Yun;Yun;Yun;Yun;Yun;Yun;Yun;Yun;Yun;Yun;Yun;Yun;Yun;x
 b_daddung;Datong;Datong;Datong;Datong;Datong;Datong;Datong;Datong;Datong;Datong;Datong;Datong;Datong;x
@@ -2130,7 +2130,7 @@ b_daddengh;Dading;Dading;Dading;Dading;Dading;Dading;Dading;Dading;Dading;Dading
 b_drianghing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;Changxing;x
 b_biuxzsyuk;Fusu;Fusu;Fusu;Fusu;Fusu;Fusu;Fusu;Fusu;Fusu;Fusu;Fusu;Fusu;Fusu;x
 b_yengxprah;Yongba;Yongba;Yongba;Yongba;Yongba;Yongba;Yongba;Yongba;Yongba;Yongba;Yongba;Yongba;Yongba;x
-b_hinghruah;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;x
+b_hinghruah_daddengh;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;Xinghua;x
 b_zsyungsren;Songshan;Songshan;Songshan;Songshan;Songshan;Songshan;Songshan;Songshan;Songshan;Songshan;Songshan;Songshan;Songshan;x
 b_samghan;Sanhan;Sanhan;Sanhan;Sanhan;Sanhan;Sanhan;Sanhan;Sanhan;Sanhan;Sanhan;Sanhan;Sanhan;Sanhan;x
 b_daddenghzsjinsren;Shenshan;Shenshan;Shenshan;Shenshan;Shenshan;Shenshan;Shenshan;Shenshan;Shenshan;Shenshan;Shenshan;Shenshan;Shenshan;x
@@ -2314,7 +2314,7 @@ b_dalila;La;La;La;La;La;La;La;La;La;La;La;La;La;x
 b_lamyoh;La-myoh;La-myoh;La-myoh;La-myoh;La-myoh;La-myoh;La-myoh;La-myoh;La-myoh;La-myoh;La-myoh;La-myoh;La-myoh;x
 b_daliyoiyanx; 'yoi-yanx; 'yoi-yanx; 'yoi-yanx; 'yoi-yanx; 'yoi-yanx; 'yoi-yanx; 'yoi-yanx; 'yoi-yanx; 'yoi-yanx; 'yoi-yanx; 'yoi-yanx; 'yoi-yanx; 'yoi-yanx;x
 b_lada;La-da;La-da;La-da;La-da;La-da;La-da;La-da;La-da;La-da;La-da;La-da;La-da;La-da;x
-b_labuan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;x
+b_labuan_yoichriox;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;La-buan;x
 b_jinyanx; 'jin-yanx; 'jin-yanx; 'jin-yanx; 'jin-yanx; 'jin-yanx; 'jin-yanx; 'jin-yanx; 'jin-yanx; 'jin-yanx; 'jin-yanx; 'jin-yanx; 'jin-yanx; 'jin-yanx;x
 d_ghuadchjyen;Ghuad-chjyen;Ghuad-chjyen;Ghuad-chjyen;Ghuad-chjyen;Ghuad-chjyen;Ghuad-chjyen;Ghuad-chjyen;Ghuad-chjyen;Ghuad-chjyen;Ghuad-chjyen;Ghuad-chjyen;Ghuad-chjyen;Ghuad-chjyen;x
 c_kianhchjang;Kianh-chjang;Kianh-chjang;Kianh-chjang;Kianh-chjang;Kianh-chjang;Kianh-chjang;Kianh-chjang;Kianh-chjang;Kianh-chjang;Kianh-chjang;Kianh-chjang;Kianh-chjang;Kianh-chjang;x

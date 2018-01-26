@@ -1,5 +1,7 @@
 # Religion-specific opinion can be added to modifiers (E.G., norse_pagan_opinion = 5), but the modifier *has* to be defined in 00_modifier_definitions.txt as well. It also needs localisation. Works for groups as well
 
+# join_crusade_if_bordering_hostile = yes # The AI won't refrain from joining a crusade simply because it borders a heathen/heretic realm
+
 # This trigger defines who can see a character's secret religion. The character with the secret religion is FROM, while the viewer is ROOT
 # Characters can always see their own secret religion. The observer can see all secret religions
 secret_religion_visibility_trigger = {
@@ -349,7 +351,7 @@ christian = {
 			SATAN LUCIFER THE_DEVIL
 		}
 		
-		autocephaly = yes
+		autocephaly = no
 		can_excommunicate = yes
 		can_grant_divorce = yes
 		can_grant_invasion_cb = invasion
@@ -360,6 +362,12 @@ christian = {
 		
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
+		
+		intermarry = taoist
+		intermarry = bon
+		intermarry = buddhist
+		intermarry = zoroastrian_group
+		intermarry = confucian
 	}
 	
 	messalian = {
@@ -502,25 +510,6 @@ muslim = {
 		uses_decadence = yes
 		uses_jizya_tax = yes
 	}
-	sufi = {
-		graphical_culture = muslimgfx
-
-		icon = 3
-		heresy_icon = 8
-		
-		color = { 1.0 0.3 0.3 }
-		parent = sunni
-		
-		crusade_name = JIHAD
-
-		priests_can_marry = yes
-		can_hold_temples = yes
-		psc_marriage = no
-		max_wives = 4
-		matrilineal_marriages = no
-		
-		landed_kin_prestige_bonus = yes
-	}
 	ibadi = {
 		graphical_culture = muslimgfx
 
@@ -649,42 +638,6 @@ muslim = {
 		uses_decadence = yes
 		uses_jizya_tax = yes
 	}
-	bektashi = {
-		graphical_culture = muslimgfx
-
-		icon = 4
-		heresy_icon = 9
-		
-		crusade_name = JIHAD
-		
-		color = { 0.3 0.8 0.3 }
-		parent = shiite
-		priests_can_marry = yes
-		can_hold_temples = yes
-		psc_marriage = no
-		max_wives = 4
-		matrilineal_marriages = no
-		
-		landed_kin_prestige_bonus = yes
-	}
-	ismaili = {
-		graphical_culture = muslimgfx
-
-		icon = 4
-		heresy_icon = 9
-		
-		crusade_name = JIHAD
-		
-		color = { 0 0.8 0.1 }
-		parent = shiite
-		priests_can_marry = yes
-		can_hold_temples = yes
-		psc_marriage = no
-		max_wives = 4
-		matrilineal_marriages = no
-		
-		landed_kin_prestige_bonus = yes
-	}
 }
 
 pagan_group = {
@@ -776,6 +729,7 @@ pagan_group = {
 		priests_can_marry = yes
 		
 		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		
 		allow_looting = yes
 		allow_rivermovement = yes
@@ -888,6 +842,7 @@ pagan_group = {
 		priests_can_marry = yes
 		allow_looting = yes
 		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		max_consorts = 3
 		
 		aggression = 2.0 # AI aggression factor
@@ -896,6 +851,9 @@ pagan_group = {
 		religious_clothing_priest = 4
 		
 		allow_in_ruler_designer = no
+		
+		intermarry = buddhist
+		intermarry = zoroastrian_group
 	}		
 	
 	
@@ -947,6 +905,9 @@ pagan_group = {
 		religious_clothing_priest = 4
 		
 		dislike_tribal_organization = yes
+		
+		intermarry = buddhist
+		intermarry = zoroastrian_group
 	}
 	
 	baltic_pagan_reformed = {
@@ -999,6 +960,7 @@ pagan_group = {
 		priests_can_marry = yes
 		female_temple_holders = yes
 		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		allow_looting = yes
 		max_consorts = 3
 		
@@ -1119,6 +1081,7 @@ pagan_group = {
 		priests_can_marry = yes
 		female_temple_holders = yes
 		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		allow_looting = yes
 		max_consorts = 3
 		
@@ -1224,6 +1187,7 @@ pagan_group = {
 		priests_can_marry = yes
 		max_consorts = 3
 		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		
 		aggression = 2.0 # AI aggression factor
 		
@@ -1325,6 +1289,7 @@ pagan_group = {
 		priests_can_marry = yes
 		female_temple_holders = yes
 		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		allow_looting = yes
 		max_consorts = 3
 		
@@ -1420,6 +1385,7 @@ pagan_group = {
 		}
 		
 		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		
 		unit_modifier = {		
 			garrison_size = 0.4
@@ -1551,6 +1517,7 @@ pagan_group = {
 
 		priests_can_marry = yes
 		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		max_consorts = 3
 		
 		religious_clothing_head = 6
@@ -1640,7 +1607,72 @@ pagan_group = {
 		dynamic_cult = no
 		secret_religion = no
 	}
+	
+	bon = {
+		graphical_culture = mongolgfx
+		secondary_event_pictures = tengri_pagan
 
+		icon = 55
+		heresy_icon = 56
+		
+		color = { 8 140 131 }
+		
+		scripture_name = MDODUS
+		priest_title = LAMA
+		piety_name = KARMA
+		
+		high_god_name = GOD_SANGPO_BUMTRI
+		
+		god_names = {
+			GOD_SHENLA_OKAR GOD_YESHE_WALMO GOD_ZHANG_ZHUNG_MERI GOD_DRALHA_YESI GOD_SHINJE GOD_AMNYE_MACHEN GOD_ADI GOD_SHERAB_CHAMMA
+		}
+		
+		evil_god_names = {
+			GOD_THE_EVIL_ONES
+		}
+		
+		unit_modifier = {
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+
+		has_heir_designation = yes
+		priests_can_inherit = no
+		defensive_attrition = yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+		allow_looting = yes
+
+		hard_to_convert = yes
+		
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+		
+		intermarry = indian_group
+		intermarry = zoroastrian_group
+		intermarry = nestorian
+		
+		dislike_tribal_organization = yes
+	}
+	
 	jurchen_pagan_reformed = { # Jurchens
 		graphical_culture = mongolgfx
 		
@@ -1651,7 +1683,7 @@ pagan_group = {
 		
 		ai_convert_other_group = 2 # always try to convert
 		
-		color = { 0.1 0.3 0.85 }
+		color = { 0.6 0.2 0.85 }
 		
 		high_god_name = GOD_ABKA_HEHE
 		
@@ -1674,9 +1706,11 @@ pagan_group = {
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_LEGENDS
 		priest_title = SHAMAN
+		
 		priests_can_marry = yes
 		allow_looting = yes
 		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		max_consorts = 3
 		
 		aggression = 2.0 # AI aggression factor
@@ -1685,7 +1719,12 @@ pagan_group = {
 		religious_clothing_priest = 4
 		
 		allow_in_ruler_designer = no
-	}		
+		
+		intermarry = buddhist
+		intermarry = zoroastrian_group
+		intermarry = shingyo
+	}
+	
 	jurchen_pagan = { #Jurchens
 		graphical_culture = mongolgfx
 
@@ -1725,7 +1764,7 @@ pagan_group = {
 		reformed = jurchen_pagan_reformed
 		ignores_defensive_attrition = yes
 		
-		short_reign_opinion_year_mult = 3 # The default is 2
+		short_reign_opinion_year_mult = 1.5
 		
 		aggression = 2.0 # AI aggression factor
 		
@@ -1733,109 +1772,12 @@ pagan_group = {
 		religious_clothing_priest = 4
 		
 		dislike_tribal_organization = yes
+		
+		intermarry = buddhist
+		intermarry = zoroastrian_group
+		intermarry = shingyo
 	}
-	bon_reformed = {
-		graphical_culture = buddhistgfx
-		secondary_event_pictures = sunni
 
-		icon = 49
-		heresy_icon = 50
-
-		ai_convert_other_group = 2 # always try to convert
-		
-		color = { 0.75 0.5 0.35 }
-		
-		high_god_name = GOD_SIPE_GYALMO
-		
-		god_names = {
-			GOD_SIPE_GYALMO GOD_YESHE_WALMO GOD_PHO-LHA GOD_PHUK-LHA GOD_SHEN-LHA_OKAR GOD_TONPA_SHENRAB GOD_SATRIG_ERSANG
-			GOD_SANGPO_BUMTRI GOD_XANG_XUNG_MERI GOD_CHEN-LHA GOD_DAMCHEN GOD_DEDOL_JAMMA GOD_DEKCHEN GOD_DRAGTSEN GOD_DZAMBALA
-			GOD_GYUMA_CHENMO GOD_KUNZANG_GYALWA_DUPA GOD_MACHEN_POMRA GOD_MAGPON GOD_MAWEI_SENGE GOD_MENMO GOD_NAM-LHA GOD_NAMPAR_GYALWA
-			GOD_NYIPANGTSEN GOD_PURBA_DRUGSE_CHEMPA GOD_SALGYE_DU_DOLMA GOD_SHERAB_CHAMMA GOD_SHINJE GOD_TAGLA_MEMBAR GOD_TROWOI_NAMJOM
-			GOD_VERNANYINA GOD_WALCHEN_GEKHO GOD_WALSE_NGAMPA
-		}
-		evil_god_names = {
-			GOD_SHINJE
-		}
-
-		unit_modifier = {
-			levy_size = 0.3
-			
-			heavy_infantry_offensive = 0.2
-			heavy_infantry_defensive = 0.2
-			
-			key = "OFF_RELIGION"
-		}
-		
-		scripture_name = THE_MDZOD_PHUG
-		priest_title = NGAKPA
-		piety_name = KARMA
-
-		priests_can_marry = yes
-		has_heir_designation = yes
-		can_grant_divorce = yes
-		priests_can_inherit = no
-		max_consorts = 3
-		
-		religious_clothing_head = 10
-		religious_clothing_priest = 10
-
-		intermarry = indian_group
-		intermarry = buddhism_group
-		
-		allow_in_ruler_designer = no
-	}
-	bon = {
-		graphical_culture = buddhistgfx
-		secondary_event_pictures = sunni
-
-		icon = 48
-		heresy_icon = 50
-		
-		color = { 0.6 0.5 0.4 }
-		
-		high_god_name = GOD_SIPE_GYALMO
-		
-		god_names = {
-			GOD_SIPE_GYALMO GOD_YESHE_WALMO GOD_PHO-LHA GOD_PHUK-LHA GOD_SHEN-LHA_OKAR GOD_TONPA_SHENRAB GOD_SATRIG_ERSANG
-			GOD_SANGPO_BUMTRI GOD_XANG_XUNG_MERI GOD_CHEN-LHA GOD_DAMCHEN GOD_DEDOL_JAMMA GOD_DEKCHEN GOD_DRAGTSEN GOD_DZAMBALA
-			GOD_GYUMA_CHENMO GOD_KUNZANG_GYALWA_DUPA GOD_MACHEN_POMRA GOD_MAGPON GOD_MAWEI_SENGE GOD_MENMO GOD_NAM-LHA GOD_NAMPAR_GYALWA
-			GOD_NYIPANGTSEN GOD_PURBA_DRUGSE_CHEMPA GOD_SALGYE_DU_DOLMA GOD_SHERAB_CHAMMA GOD_SHINJE GOD_TAGLA_MEMBAR GOD_TROWOI_NAMJOM
-			GOD_VERNANYINA GOD_WALCHEN_GEKHO GOD_WALSE_NGAMPA
-		}
-		evil_god_names = {
-			GOD_SHINJE
-		}
-
-		unit_modifier = {
-			levy_size = 0.3
-			
-			heavy_infantry_offensive = 0.2
-			heavy_infantry_defensive = 0.2
-			
-			key = "OFF_RELIGION"
-		}
-
-		scripture_name = THE_MDZOD_PHUG
-		priest_title = NGAKPA
-		piety_name = KARMA
-
-		priests_can_marry = yes
-		defensive_attrition = yes
-		has_heir_designation = yes
-		can_grant_divorce = yes
-		priests_can_inherit = no
-		max_consorts = 3
-		reformed = bon_reformed
-		
-		religious_clothing_head = 10
-		religious_clothing_priest = 10
-
-		intermarry = indian_group
-		intermarry = buddhism_group
-		
-		dislike_tribal_organization = yes
-	}
 	melanesian_religion_reformed = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -1859,8 +1801,6 @@ pagan_group = {
 			THE_DARK_SPIRITS
 		}
 		
-		can_call_crusade = yes
-		
 		unit_modifier = {		
 			garrison_size = 0.4
 			
@@ -1883,20 +1823,19 @@ pagan_group = {
 		
 		priests_can_marry = yes
 		female_temple_holders = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		allow_looting = yes
-		
 		max_consorts = 3
 		
-		aggression = 0.5 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 
 		intermarry = indian_group
-		intermarry = buddhism_group
 		
 		allow_in_ruler_designer = no
 	}
+	
 	melanesian_religion = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -1919,7 +1858,8 @@ pagan_group = {
 		}
 		
 		unit_modifier = {		
-			garrison_size = 0.4
+			garrison_size = 0.3
+			levy_size = 0.1
 			
 			key = "DEF_RELIGION"
 		}
@@ -1932,6 +1872,8 @@ pagan_group = {
 			knights_defensive = 0.8
 			archers_defensive = 0.8
 			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
 			
 			garrison_size = 0.4
 			
@@ -1942,22 +1884,19 @@ pagan_group = {
 		female_temple_holders = yes
 		defensive_attrition = yes
 		allow_looting = yes
-		
 		max_consorts = 3
-		
 		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
 		reformed = melanesian_religion_reformed
 		
-		aggression = 0.1 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
-
-		intermarry = indian_group
-		intermarry = buddhism_group
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		
+		intermarry = indian_group
+	
 	}
+	
 	taiwanese_religion_reformed = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -1981,8 +1920,6 @@ pagan_group = {
 			THE_DARK_SPIRITS
 		}
 		
-		can_call_crusade = yes
-		
 		unit_modifier = {		
 			garrison_size = 0.4
 			
@@ -2005,20 +1942,19 @@ pagan_group = {
 		
 		priests_can_marry = yes
 		female_temple_holders = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		allow_looting = yes
-		
 		max_consorts = 3
 		
-		aggression = 0.5 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 
 		intermarry = indian_group
-		intermarry = buddhism_group
 		
 		allow_in_ruler_designer = no
 	}
+	
 	taiwanese_religion = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -2041,7 +1977,8 @@ pagan_group = {
 		}
 		
 		unit_modifier = {		
-			garrison_size = 0.4
+			garrison_size = 0.3
+			levy_size = 0.1
 			
 			key = "DEF_RELIGION"
 		}
@@ -2054,6 +1991,8 @@ pagan_group = {
 			knights_defensive = 0.8
 			archers_defensive = 0.8
 			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
 			
 			garrison_size = 0.4
 			
@@ -2064,22 +2003,18 @@ pagan_group = {
 		female_temple_holders = yes
 		defensive_attrition = yes
 		allow_looting = yes
-		
 		max_consorts = 3
-		
 		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
 		reformed = taiwanese_religion_reformed
 		
-		aggression = 0.1 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
-
-		intermarry = indian_group
-		intermarry = buddhism_group
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		
+		intermarry = indian_group
 	}
+	
 	philippine_religion_reformed = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -2103,8 +2038,6 @@ pagan_group = {
 			THE_DARK_SPIRITS
 		}
 		
-		can_call_crusade = yes
-		
 		unit_modifier = {		
 			garrison_size = 0.4
 			
@@ -2127,20 +2060,19 @@ pagan_group = {
 		
 		priests_can_marry = yes
 		female_temple_holders = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		allow_looting = yes
-		
 		max_consorts = 3
 		
-		aggression = 0.5 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 
 		intermarry = indian_group
-		intermarry = buddhism_group
 		
 		allow_in_ruler_designer = no
 	}
+	
 	philippine_religion = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -2163,7 +2095,8 @@ pagan_group = {
 		}
 		
 		unit_modifier = {		
-			garrison_size = 0.4
+			garrison_size = 0.3
+			levy_size = 0.1
 			
 			key = "DEF_RELIGION"
 		}
@@ -2176,6 +2109,8 @@ pagan_group = {
 			knights_defensive = 0.8
 			archers_defensive = 0.8
 			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
 			
 			garrison_size = 0.4
 			
@@ -2186,22 +2121,18 @@ pagan_group = {
 		female_temple_holders = yes
 		defensive_attrition = yes
 		allow_looting = yes
-		
 		max_consorts = 3
-		
 		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
 		reformed = philippine_religion_reformed
 		
-		aggression = 0.1 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
-
-		intermarry = indian_group
-		intermarry = buddhism_group
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		
+		intermarry = indian_group
 	}
+	
 	bornean_religion_reformed = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -2211,7 +2142,7 @@ pagan_group = {
 		
 		ai_convert_other_group = 2 # always try to convert
 		
-		color = { 1.0 0.4 0.1 }
+		color = { 1.0 0.4 1.0 }
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_LEGENDS
 		priest_title = SHAMAN
@@ -2224,8 +2155,6 @@ pagan_group = {
 		evil_god_names = {
 			THE_DARK_SPIRITS
 		}
-		
-		can_call_crusade = yes
 		
 		unit_modifier = {		
 			garrison_size = 0.4
@@ -2249,20 +2178,19 @@ pagan_group = {
 		
 		priests_can_marry = yes
 		female_temple_holders = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		allow_looting = yes
-		
 		max_consorts = 3
 		
-		aggression = 0.5 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 
 		intermarry = indian_group
-		intermarry = buddhism_group
 		
 		allow_in_ruler_designer = no
 	}
+	
 	bornean_religion = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -2270,7 +2198,7 @@ pagan_group = {
 		icon = 34
 		heresy_icon = 35
 		
-		color = { 1.0 0.4 0.1 }
+		color = { 1.0 0.4 1.0 }
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_LEGENDS
 		priest_title = SHAMAN
@@ -2285,7 +2213,8 @@ pagan_group = {
 		}
 		
 		unit_modifier = {		
-			garrison_size = 0.4
+			garrison_size = 0.3
+			levy_size = 0.1
 			
 			key = "DEF_RELIGION"
 		}
@@ -2298,6 +2227,8 @@ pagan_group = {
 			knights_defensive = 0.8
 			archers_defensive = 0.8
 			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
 			
 			garrison_size = 0.4
 			
@@ -2308,21 +2239,16 @@ pagan_group = {
 		female_temple_holders = yes
 		defensive_attrition = yes
 		allow_looting = yes
-		
 		max_consorts = 3
-		
 		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
 		reformed = bornean_religion_reformed
 		
-		aggression = 0.1 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
-
-		intermarry = indian_group
-		intermarry = buddhism_group
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		
+		intermarry = indian_group
 	}
 
 	sulawesi_religion_reformed = {
@@ -2348,8 +2274,6 @@ pagan_group = {
 			THE_DARK_SPIRITS
 		}
 		
-		can_call_crusade = yes
-		
 		unit_modifier = {		
 			garrison_size = 0.4
 			
@@ -2372,20 +2296,19 @@ pagan_group = {
 		
 		priests_can_marry = yes
 		female_temple_holders = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		allow_looting = yes
-		
 		max_consorts = 3
 		
-		aggression = 0.5 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 
 		intermarry = indian_group
-		intermarry = buddhism_group
 		
 		allow_in_ruler_designer = no
 	}
+	
 	sulawesi_religion = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -2408,7 +2331,8 @@ pagan_group = {
 		}
 		
 		unit_modifier = {		
-			garrison_size = 0.4
+			garrison_size = 0.3
+			levy_size = 0.1
 			
 			key = "DEF_RELIGION"
 		}
@@ -2421,6 +2345,8 @@ pagan_group = {
 			knights_defensive = 0.8
 			archers_defensive = 0.8
 			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
 			
 			garrison_size = 0.4
 			
@@ -2431,21 +2357,16 @@ pagan_group = {
 		female_temple_holders = yes
 		defensive_attrition = yes
 		allow_looting = yes
-		
 		max_consorts = 3
-		
 		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
 		reformed = sulawesi_religion_reformed
 		
-		aggression = 0.1 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
-
-		intermarry = indian_group
-		intermarry = buddhism_group
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		
+		intermarry = indian_group
 	}
 
 	flores_religion_reformed = {
@@ -2471,8 +2392,6 @@ pagan_group = {
 			THE_DARK_SPIRITS
 		}
 		
-		can_call_crusade = yes
-		
 		unit_modifier = {		
 			garrison_size = 0.4
 			
@@ -2495,20 +2414,19 @@ pagan_group = {
 		
 		priests_can_marry = yes
 		female_temple_holders = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		allow_looting = yes
-		
 		max_consorts = 3
 		
-		aggression = 0.5 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 
 		intermarry = indian_group
-		intermarry = buddhism_group
 		
 		allow_in_ruler_designer = no
 	}
+	
 	flores_religion = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -2531,7 +2449,8 @@ pagan_group = {
 		}
 		
 		unit_modifier = {		
-			garrison_size = 0.4
+			garrison_size = 0.3
+			levy_size = 0.1
 			
 			key = "DEF_RELIGION"
 		}
@@ -2544,6 +2463,8 @@ pagan_group = {
 			knights_defensive = 0.8
 			archers_defensive = 0.8
 			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
 			
 			garrison_size = 0.4
 			
@@ -2554,21 +2475,16 @@ pagan_group = {
 		female_temple_holders = yes
 		defensive_attrition = yes
 		allow_looting = yes
-		
 		max_consorts = 3
-		
 		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
 		reformed = flores_religion_reformed
 		
-		aggression = 0.1 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
-
-		intermarry = indian_group
-		intermarry = buddhism_group
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		
+		intermarry = indian_group
 	}
 
 	java_religion_reformed = {
@@ -2594,8 +2510,6 @@ pagan_group = {
 			THE_DARK_SPIRITS
 		}
 		
-		can_call_crusade = yes
-		
 		unit_modifier = {		
 			garrison_size = 0.4
 			
@@ -2618,20 +2532,19 @@ pagan_group = {
 		
 		priests_can_marry = yes
 		female_temple_holders = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		allow_looting = yes
-		
 		max_consorts = 3
 		
-		aggression = 0.5 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 
 		intermarry = indian_group
-		intermarry = buddhism_group
 		
 		allow_in_ruler_designer = no
 	}
+	
 	java_religion = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -2654,7 +2567,8 @@ pagan_group = {
 		}
 		
 		unit_modifier = {		
-			garrison_size = 0.4
+			garrison_size = 0.3
+			levy_size = 0.1
 			
 			key = "DEF_RELIGION"
 		}
@@ -2667,6 +2581,8 @@ pagan_group = {
 			knights_defensive = 0.8
 			archers_defensive = 0.8
 			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
 			
 			garrison_size = 0.4
 			
@@ -2677,21 +2593,16 @@ pagan_group = {
 		female_temple_holders = yes
 		defensive_attrition = yes
 		allow_looting = yes
-		
 		max_consorts = 3
-		
 		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
 		reformed = java_religion_reformed
 		
-		aggression = 0.1 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
-
-		intermarry = indian_group
-		intermarry = buddhism_group
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		
+		intermarry = indian_group
 	}
 
 	sumatran_religion_reformed = {
@@ -2717,8 +2628,6 @@ pagan_group = {
 			THE_DARK_SPIRITS
 		}
 		
-		can_call_crusade = yes
-		
 		unit_modifier = {		
 			garrison_size = 0.4
 			
@@ -2741,20 +2650,19 @@ pagan_group = {
 		
 		priests_can_marry = yes
 		female_temple_holders = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		allow_looting = yes
-		
 		max_consorts = 3
 		
-		aggression = 0.5 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 
 		intermarry = indian_group
-		intermarry = buddhism_group
 		
 		allow_in_ruler_designer = no
 	}
+	
 	sumatran_religion = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -2777,7 +2685,8 @@ pagan_group = {
 		}
 		
 		unit_modifier = {		
-			garrison_size = 0.4
+			garrison_size = 0.3
+			levy_size = 0.1
 			
 			key = "DEF_RELIGION"
 		}
@@ -2790,6 +2699,8 @@ pagan_group = {
 			knights_defensive = 0.8
 			archers_defensive = 0.8
 			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
 			
 			garrison_size = 0.4
 			
@@ -2800,21 +2711,16 @@ pagan_group = {
 		female_temple_holders = yes
 		defensive_attrition = yes
 		allow_looting = yes
-		
 		max_consorts = 3
-		
 		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
-		reformed =sumatran_religion_reformed
+		reformed = sumatran_religion_reformed
 		
-		aggression = 0.1 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
-
-		intermarry = indian_group
-		intermarry = buddhism_group
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		
+		intermarry = indian_group
 	}
 
 	malagasy_religion_reformed = {
@@ -2840,8 +2746,6 @@ pagan_group = {
 			THE_DARK_SPIRITS
 		}
 		
-		can_call_crusade = yes
-		
 		unit_modifier = {		
 			garrison_size = 0.4
 			
@@ -2864,20 +2768,19 @@ pagan_group = {
 		
 		priests_can_marry = yes
 		female_temple_holders = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		allow_looting = yes
-		
 		max_consorts = 3
 		
-		aggression = 0.5 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 
 		intermarry = indian_group
-		intermarry = buddhism_group
 		
 		allow_in_ruler_designer = no
 	}
+	
 	malagasy_religion = {
 		graphical_culture = hindugfx
 		secondary_event_pictures = sunni
@@ -2900,7 +2803,8 @@ pagan_group = {
 		}
 		
 		unit_modifier = {		
-			garrison_size = 0.4
+			garrison_size = 0.3
+			levy_size = 0.1
 			
 			key = "DEF_RELIGION"
 		}
@@ -2913,6 +2817,8 @@ pagan_group = {
 			knights_defensive = 0.8
 			archers_defensive = 0.8
 			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
 			
 			garrison_size = 0.4
 			
@@ -2923,26 +2829,22 @@ pagan_group = {
 		female_temple_holders = yes
 		defensive_attrition = yes
 		allow_looting = yes
-		
 		max_consorts = 3
-		
 		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
-		reformed =malagasy_religion_reformed
+		reformed = malagasy_religion_reformed
 		
-		aggression = 0.1 # AI aggression factor
-		
-		religious_clothing_head = 6
-		religious_clothing_priest = 4
-
-		intermarry = indian_group
-		intermarry = buddhism_group
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		
+		intermarry = indian_group
 	}
+	
 	ainu_pantheism_reformed = {
 		graphical_culture = mongolgfx
 
-		icon = 117
+		icon = 61
 		
 		color = { 0.75 0.5 0.35 }
 		
@@ -2979,11 +2881,12 @@ pagan_group = {
 		religious_clothing_priest = 4
 
 		allow_in_ruler_designer = no
-	}	
+	}
+	
 	ainu_pantheism = {
 		graphical_culture = mongolgfx
 
-		icon = 117
+		icon = 61
 
 		color = { 0.8 0.4 0.1 }
 		
@@ -3022,6 +2925,7 @@ pagan_group = {
 		
 		dislike_tribal_organization = yes
 	}
+	
 }
 
 zoroastrian_group = {
@@ -3062,6 +2966,7 @@ zoroastrian_group = {
 		
 		can_grant_divorce = yes
 		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		can_grant_invasion_cb = invasion
 		
 		max_consorts = 3 # Can take concubines
@@ -3075,6 +2980,11 @@ zoroastrian_group = {
 		
 		intermarry = zun_pagan
 		intermarry = zun_pagan_reformed
+		intermarry = bon
+		intermarry = nestorian
+		intermarry = buddhist
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
 	}
 	
 	mazdaki = {
@@ -3100,15 +3010,21 @@ zoroastrian_group = {
 		
 		can_grant_divorce = yes
 		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		can_grant_invasion_cb = invasion
-		
-		max_consorts = 3 # Can take concubines
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
 		
 		religious_clothing_head = 5
 		religious_clothing_priest = 5
 		
 		intermarry = zun_pagan
 		intermarry = zun_pagan_reformed
+		intermarry = bon
+		intermarry = nestorian
+		intermarry = buddhist
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
 	}
 	
 	manichean = {
@@ -3121,6 +3037,9 @@ zoroastrian_group = {
 		
 		color = { 0.7 0.7 0.4 }
 		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_EVANGELION
+		
+		priest_title = DIDASKOLOS
 		
 		high_god_name = GOD_ZURVAN
 		
@@ -3128,10 +3047,60 @@ zoroastrian_group = {
 			GOD_ZURVAN GOD_OHRMAZD PROPHET_MANI GOD_MIHRYAZD
 		}
 		
+		evil_god_names = {
+			THE_DEMIURGE
+		}
+		
+		can_retire_to_monastery = yes
+		female_temple_holders = yes
+		
+		parent = zoroastrian
+		
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		can_call_crusade = no
+		can_grant_invasion_cb = invasion
+		
+		max_consorts = 0 # Can take concubines
+		
+		religious_clothing_head = 5
+		religious_clothing_priest = 5
+		
+		intermarry = zun_pagan
+		intermarry = zun_pagan_reformed
+		intermarry = taoist
+		intermarry = bon
+		intermarry = nestorian
+		intermarry = buddhist
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+	}
+	
+	khurmazta = {
+		graphical_culture = persiangfx
+		
+		secondary_event_pictures = sunni
+		
+		icon = 10
+		heresy_icon = 12
+		
+		color = { 0.5 0.6 0.3 }
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_GATHAS
+		
+		priest_title = VAYNPAT
+		
+		high_god_name = GOD_ZARVANA
+		
+		god_names = {
+			GOD_KHURMAZTA GOD_WESHPARKAR GOD_WISHAGHN GOD_NANAIYA
+		}
+		
 		parent = zoroastrian
 		
 		can_grant_divorce = yes
 		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		can_grant_invasion_cb = invasion
 		
 		max_consorts = 3 # Can take concubines
@@ -3141,41 +3110,11 @@ zoroastrian_group = {
 		
 		intermarry = zun_pagan
 		intermarry = zun_pagan_reformed
-	}
-
-	zurvanist = {
-		graphical_culture = persiangfx
-		
-		secondary_event_pictures = sunni
-		
-		icon = 10
-		heresy_icon = 12
-		
-		color = { 0.3 0.65 0.25 }
-		
-		crusade_name = GREAT_HOLY_WAR
-		scripture_name = THE_GREAT_SECRET
-		
-		high_god_name = GOD_ZURVAN
-		
-		god_names = {
-			GOD_ZURVAN GOD_AHURA_MAZDA GOD_MANAH PROPHET_ZOROASTER
-		}
-		
-		parent = zoroastrian
-		
-		can_grant_divorce = yes
-		can_call_crusade = yes
-		can_grant_invasion_cb = invasion
-
-		max_consorts = 3 # Can take concubines
-		
-		divine_blood = yes # Sacred Xwedodah close-kin marriage mechanics
-		pc_marriage = yes
-		bs_marriage = yes
-		
-		religious_clothing_head = 5
-		religious_clothing_priest = 5
+		intermarry = bon
+		intermarry = nestorian
+		intermarry = buddhist
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
 	}
 }
 
@@ -3217,6 +3156,7 @@ jewish_group = {
 		
 		can_grant_divorce = yes
 		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		can_grant_invasion_cb = invasion
 		
 		priests_can_marry = yes
@@ -3240,6 +3180,7 @@ jewish_group = {
 
 		can_grant_divorce = yes
 		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		can_grant_invasion_cb = invasion
 		
 		priests_can_marry = yes
@@ -3263,29 +3204,7 @@ jewish_group = {
 
 		can_grant_divorce = yes
 		can_call_crusade = yes
-		can_grant_invasion_cb = invasion
-		
-		priests_can_marry = yes
-		
-		religious_clothing_head = 7
-		religious_clothing_priest = 7
-		
-		expel_modifier = expelled_jewish
-	}
-	qabbalah = {
-		graphical_culture = jewishgfx
-		
-		icon = 38
-		heresy_icon = 39
-		
-		color = { 1.0 0.0 0.8 }
-		
-		parent = jewish
-		
-		crusade_name = GREAT_HOLY_WAR
-
-		can_grant_divorce = yes
-		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
 		can_grant_invasion_cb = invasion
 		
 		priests_can_marry = yes
@@ -3339,6 +3258,8 @@ indian_group = {
 		priests_can_marry = yes
 		allow_looting = yes
 		max_consorts = 3
+		caste_opinions = yes
+		castes = yes
 		
 		unit_modifier = {
 			land_morale = 0.3
@@ -3357,9 +3278,29 @@ indian_group = {
 		intermarry = buddhist
 		intermarry = zun_pagan
 		intermarry = zun_pagan_reformed
-		
+		intermarry = bon
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
 	}
+	
 	buddhist = {
+		has_coa_on_barony_only = yes
 		graphical_culture = buddhistgfx
 		secondary_event_pictures = sunni
 
@@ -3388,6 +3329,7 @@ indian_group = {
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		female_temple_holders = yes
 		max_consorts = 3
+		castes = yes
 
 		short_reign_opinion_year_mult = 0 # No short reign penalty
 		
@@ -3402,7 +3344,32 @@ indian_group = {
 		intermarry = hindu
 		intermarry = zun_pagan
 		intermarry = zun_pagan_reformed
+		intermarry = taoist
+		intermarry = zoroastrian_group
+		intermarry = bon
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = nestorian
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
 	}
+	
 	jain = {
 		graphical_culture = jaingfx
 		secondary_event_pictures = sunni
@@ -3429,6 +3396,7 @@ indian_group = {
 		priests_can_inherit = no
 		peace_piety_gain = 1.0 # Gains 1 piety each month while at peace
 		max_consorts = 3
+		castes = yes
 
 		short_reign_opinion_year_mult = 0 # No short reign penalty
 		
@@ -3443,145 +3411,100 @@ indian_group = {
 		intermarry = hindu
 		intermarry = zun_pagan
 		intermarry = zun_pagan_reformed
-	}
-	jain = {
-		graphical_culture = jaingfx
-		secondary_event_pictures = sunni
-		
-		pacifist = yes # Makes the AI less likely to start wars, plots and factions
-
-		icon = 42
-		heresy_icon = 43
-		
-		color = { 1.0 1.0 0.4 }
-		
-		high_god_name = GOD_THE_TIRTHANKARAS
-		
-		god_names = {
-			GOD_THE_TIRTHANKARAS GOD_RISHABH GOD_AJINATH GOD_SAMBHAVANATH  # Add more Tirthankaras
-		}
-		
-		evil_god_names = {
-			THE_PUNISHERS
-		}
-
-		has_heir_designation = yes
-		can_grant_divorce = yes
-		priests_can_inherit = no
-		peace_piety_gain = 1.0 # Gains 1 piety each month while at peace
-		max_consorts = 3
-
-		short_reign_opinion_year_mult = 0 # No short reign penalty
-		
-		religious_clothing_head = 9
-		religious_clothing_priest = 9
-
-		scripture_name = THE_MAHABHARATA
-		priest_title = NIRGRANTHA
-		piety_name = PURITY
-		
-		intermarry = buddhist
-		intermarry = hindu
-		intermarry = zun_pagan
-		intermarry = zun_pagan_reformed
-	}
-	mahayana = {
-		graphical_culture = buddhistgfx
-		secondary_event_pictures = sunni
-
-		icon = 40
-		heresy_icon = 41
-
-		color = { 0.4 0.5 0.3 }
-
-		high_god_name = GOD_BRAHMA
-		
-		god_names = {
-			GOD_THE_BUDDHA GOD_BODHISATTVA GOD_THE_ARHAT GOD_THE_PERFECTED_ONES
-		}
-		
-		evil_god_names = {
-			MARA
-		}
-		
-		character_modifier = {
-			learning = 4
-		}
-		
-		has_heir_designation = yes
-		can_grant_divorce = yes
-		priests_can_inherit = no
-		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
-		female_temple_holders = yes
-		max_consorts = 3
-
-		short_reign_opinion_year_mult = 0 # No short reign penalty
-		
-		religious_clothing_head = 10
-		religious_clothing_priest = 10
-
-		scripture_name = THE_SUTRAS
-		priest_title = BHIKKHU
-		piety_name = KARMA
-
-		intermarry = jain
-		intermarry = hindu
-		intermarry = zun_pagan
-		intermarry = zun_pagan_reformed
-	}
-	vajrayana = {
-		graphical_culture = buddhistgfx
-		secondary_event_pictures = sunni
-
-		icon = 40
-		heresy_icon = 41
-
-		color = { 0.3 0.6 0.4 }
-
-		high_god_name = GOD_BRAHMA
-		
-		god_names = {
-			GOD_BUDDHA GOD_BODHISATTVA
-		}
-
-		evil_god_names = {
-			MARA
-		}
-
-		scripture_name = THE_TANTRAS
-		priest_title = BHIKKHU
-		piety_name = KARMA
-
-		character_modifier = {
-			learning = 4
-		}
-		
-		has_heir_designation = yes
-		can_grant_divorce = yes
-		priests_can_inherit = no
-		priests_can_marry=yes
-		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
-		female_temple_holders = yes
-		max_consorts = 3
-
-		short_reign_opinion_year_mult = 0 # No short reign penalty
-		
-		religious_clothing_head = 10
-		religious_clothing_priest = 10
-
-		intermarry = jain
-		intermarry = hindu
-		intermarry = zun_pagan
-		intermarry = zun_pagan_reformed
+		intermarry = bon
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
 	}
 	
+	taoist = {
+		graphical_culture = chinesegfx
+		secondary_event_pictures = sunni
+		has_coa_on_barony_only = yes
+
+		icon = 53
+		heresy_icon = 54
+		
+		color = { 226 241 182 }
+		
+		high_god_name = GOD_HEAVENLY_ORDER
+		
+		god_names = {
+			THE_THREE_PURITIES THE_ANCESTORS GOD_YANSHIH_TIENTSUN
+		}
+		
+		evil_god_names = {
+			KING_YAN YANLUO
+		}
+
+		character_modifier = {
+			stewardship = 2
+		}
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		max_consorts = 3
+		
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+		
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		scripture_name = TAO_TE_CHING
+		priest_title = DAOSHI
+		piety_name = PIETY_TE
+		
+		intermarry = buddhist
+		intermarry = nestorian
+		intermarry = manichean
+		intermarry = zun_pagan
+		intermarry = zun_pagan_reformed
+		intermarry = bon
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
+	}
+	
+	#Eastern Folk Religions
 	nat = { #Burman-Pyu folk religion
+		has_coa_on_barony_only = yes
 		graphical_culture = buddhistgfx
 		secondary_event_pictures = sunni
 
-		icon = 110
+		icon = 57
 
-		color = { 1.0 0.0 0.0 }
+		color = { 0.5 0.4 0.8 }
 		
 		high_god_name = GOD_THAGYAMIN
 		god_names = {
@@ -3606,17 +3529,35 @@ indian_group = {
 		religious_clothing_head = 8
 		religious_clothing_priest = 8
 
-		intermarry = buddhism_group
-		intermarry = hindu
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
 		
 	}
+	
 	sastsana_phi = { #Thai folk religion
-		graphical_culture = buddhistgfx
+		has_coa_on_barony_only = yes
+		graphical_culture = chinesegfx
 		secondary_event_pictures = sunni
 
-		icon = 110
+		icon = 57
 
-		color = { 0.7 0.9 0.4 }
+		color = { 0.1 0.3 0.6 }
 		
 		high_god_name = GOD_PHRAM
 		god_names = {
@@ -3644,8 +3585,634 @@ indian_group = {
 		religious_clothing_head = 8
 		religious_clothing_priest = 8
 
-		intermarry = buddhism_group
-		intermarry = hindu
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
 		
 	}
+	
+	rmagao = { #Qiang folk religion
+		has_coa_on_barony_only = yes
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 57
+
+		color = { 0.5 0.3 0.25 }
+		
+		high_god_name = GOD_MUBYASEI
+		god_names = {
+			GOD_MUBYASEI GOD_ABBA_CHI GOD_ABBA_SEI GOD_SHAN_WANG
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		scripture_name = THE_LEGENDS
+		priest_title = DUANGONG
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 8
+		religious_clothing_priest = 8
+
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
+		
+	}
+	
+	shenjiao = { #Chinese folk religion
+		has_coa_on_barony_only = yes
+		graphical_culture = chinesegfx
+		secondary_event_pictures = sunni
+
+		icon = 57
+
+		color = { 0.9 0.4 0.1 }
+		
+		high_god_name = GOD_SHANGDI
+		god_names = {
+			GOD_SHANGDI GOD_PANGU GOD_FUXI GOD_NUWA GOD_CHANG'E GOD_SHENNONG GOD_HUANGDI GOD_GUAN_YU GOD_CAISHEN GOD_THE_JIUHUANG_DAI
+			GOD_QIYE GOD_BAYE GOD_YU_HUANG GOD_TUDI_GONG GOD_WENCHANGDI GOD_XI_WANGMU GOD_YUEXIA_LAOREN GOD_ZAOSHEN
+			GOD_MAZU GOD_SHOUSHEN GOD_FUSHEN GOD_LUSHEN
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		scripture_name = THE_ZHIGUAI
+		priest_title = WU
+		piety_name = XIAO
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
+
+	}
+	
+	benzhujiao = { #Bai folk religion
+		has_coa_on_barony_only = yes
+		graphical_culture = chinesegfx
+		secondary_event_pictures = sunni
+
+		icon = 57
+
+		color = { 0.3 0.45 0.9 }
+		
+		high_god_name = GOD_SHANGDI
+		god_names = {
+			GOD_SHANGDI GOD_PANGU GOD_FUXI GOD_NUWA GOD_CHANG'E GOD_SHENNONG GOD_HUANGDI GOD_GUAN_YU GOD_CAISHEN GOD_THE_JIUHUANG_DAI
+			GOD_QIYE GOD_BAYE GOD_YU_HUANG GOD_TUDI_GONG GOD_WENCHANGDI GOD_XI_WANGMU GOD_YUEXIA_LAOREN GOD_ZAOSHEN
+			GOD_MAZU GOD_SHOUSHEN GOD_FUSHEN GOD_LUSHEN
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		scripture_name = THE_ZHIGUAI
+		priest_title = WU
+		piety_name = XIAO
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
+
+	}
+	
+	bimojiao = { #Yi(Lolo) folk religion
+		has_coa_on_barony_only = yes
+		graphical_culture = chinesegfx
+		secondary_event_pictures = sunni
+
+		icon = 57
+
+		color = { 0.8 0.2 0.3 }
+		
+		high_god_name = GOD_THAGYAMIN
+		god_names = {
+			GOD_THAGYAMIN
+		}
+		evil_god_names = {
+			YAMA
+		}
+
+		scripture_name = THE_LEGENDS
+		priest_title = BIMO
+		piety_name = KARMA
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = yes
+		priests_can_marry=yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
+
+	}
+	
+	ua_dab = { #Miao-Hmong folk religion
+		has_coa_on_barony_only = yes
+		graphical_culture = chinesegfx
+		secondary_event_pictures = sunni
+
+		icon = 57
+
+		color = { 0.3 0.5 0.1 }
+		
+		high_god_name = GOD_YAWM_SAUB
+		god_names = {
+			GOD_YAWM_SAUB GOD_SIV_YIS GOD_XWM_KAB GOD_NPLOOJ_LWG GOD_DAB_XWM_KAB GOD_DAB_POG GOD_ZAJ_LAUG GOD_POJ_NTXOOG
+			GOD_YAJ_YUAM GOD_XOB GOD_NKAUJ_HNUB GOD_NRAUG_HLIS GOD_TXIV_YAWG
+		}
+		evil_god_names = {
+			NTXWJ_NYUG NYUJ_VAJ_TUAM_TEEM
+		}
+
+		scripture_name = THE_LEGENDS
+		priest_title = TXIV_NEEB
+		piety_name = XIAO
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
+
+	}
+	
+	nugyauq = { #Zhuang folk religion
+		has_coa_on_barony_only = yes
+		graphical_culture = chinesegfx
+		secondary_event_pictures = sunni
+
+		icon = 57
+
+		color = { 0.5 0.9 0.4 }
+		
+		high_god_name = GOD_BULUOTUO
+		god_names = {
+			GOD_BULUOTUO GOD_MEHOA GOD_MOLUJIA GOD_SHESHEN GOD_TUDIGONG GOD_LUNGZVUENGZ
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		scripture_name = THE_ZHIGUAI
+		priest_title = MU
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
+
+	}
+	
+	thangiao = { #Vietnamese folk religion
+		has_coa_on_barony_only = yes
+		graphical_culture = chinesegfx
+		secondary_event_pictures = sunni
+
+		icon = 57
+
+		color = { 0.7 0.9 0.4 }
+		
+		high_god_name = GOD_CAO_DAI
+		god_names = {
+			GOD_THAN GOD_CAO_DAI GOD_KINH_DUONG_VUONG GOD_LAC_LONG_QUAN GOD_AU_CO GOD_THE_FOUR_IMMORTALS GOD_THE_FOUR_PALACES_GODDESSES
+			GOD_SON_TINH GOD_THUY_TINH GOD_BA_CHUA_KHO GOD_BA_CHUA_XU GOD_NGOC_HOANG GOD_THANH_MAU_LIEU_HANH
+		}
+		evil_god_names = {
+			DIEM_VUONG
+		}
+
+		scripture_name = THE_THAN_TRUYEN
+		priest_title = SU
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
+
+	}
+	
+	shingyo = { #Korean folk religion
+		has_coa_on_barony_only = yes
+		graphical_culture = chinesegfx
+		secondary_event_pictures = sunni
+
+		icon = 59
+
+		color = { 0.0 0.3 0.4 }
+		
+		high_god_name = GOD_HANEUL-NIM
+		god_names = {
+			GOD_HANEUL-NIM GOD_DALSOON-NIM GOD_HAESIK-NIM GOD_CHEONHA_DAEJANGGUN GOD_JIHA_YEOJANGGUN GOD_YONGWANG GOD_HWANIN
+			GOD_HWANUNG GOD_UNGNYEO GOD_DANGUN GOD_THE_SEON-NYEO GOD_THE_GWISHIN GOD_YUL-RYEO GOD_MAGO GOD_YEONGDEUNGSIN
+		}
+		evil_god_names = {
+			YEOMRA 
+		}
+
+		scripture_name = THE_SAMGUK_YUSA
+		priest_title = MU
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+		
+	}
+	
+	nihon_shinto = {
+		has_coa_on_barony_only = yes
+		graphical_culture = chinesegfx
+		secondary_event_pictures = sunni
+
+		icon = 60
+
+		color = { 0.8 0.5 0.1 }
+		
+		high_god_name = GOD_AMENOMINAKANUSHI
+		god_names = {
+			GOD_KAMI GOD_AMATERASU GOD_SARUTAHIKO GOD_IZANAGI GOD_IZANAMI GOD_MICHIKAESHI GOD_SASHIKUNI GOD_AME-NO-UZUME
+			GOD_INARI GOD_SUSANOO GOD_TSUKUYOMI GOD_AME-NO-KOYANE GOD_FUJIN GOD_HACHIMAN GOD_NINIGI GOD_OMOIKANE GOD_RAIJIN
+			GOD_RYUJIN GOD_SUIJIN GOD_SUKUNA-BIKO-NA GOD_TENJIN GOD_OTOHIME GOD_UKE_MOCHI GOD_AMATSU-MIABOSHI GOD_KONOHANASAKUYA-HIME
+			GOD_OHOYAMATSUMI GOD_MITAMA GOD_KAGU-TSUCHI GOD_WATATSUMI GOD_KURAOKAMI 
+		}
+		evil_god_names = {
+			ENMA
+		}
+
+		scripture_name = THE_KOJIKI
+		priest_title = KANNUSHI
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry= yes
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+
+	}
+	
+	ryukyu_shinto = {
+		has_coa_on_barony_only = yes
+		graphical_culture = chinesegfx
+		secondary_event_pictures = sunni
+
+		icon = 62
+
+		color = { 0.8 0.3 0.1 }
+		
+		high_god_name = GOD_AMAMIKIYO
+		god_names = {
+			GOD_KAMI GOD_AMAMIKIYO GOD_FUTUCHI GOD_RYUGU GOD_UTIN GOD_JIICJI GOD_HINUKAN GOD_FUURU_NU_KAMI
+		}
+		evil_god_names = {
+			ENMA
+		}
+
+		scripture_name =THE_IROSETSUDEN
+		priest_title = KAMINCHU
+
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+
+	#Scholastic Philosophies
+	confucian = {
+		has_coa_on_barony_only = yes
+		graphical_culture = chinesegfx
+		secondary_event_pictures = sunni
+
+		icon = 58
+
+		color = { 0.9 0.7 0.0 }
+		
+		high_god_name = GOD_SHANGDI
+		god_names = {
+			GOD_KONG_FUZI  GOD_MENG_ZI GOD_THE_FOUR_CORRELATES GOD_THE_TWELVE_PHILOSOPHERS
+		}
+		evil_god_names = {
+			YAN_WANG
+		}
+
+		character_modifier = {
+			learning = 5
+		}
+
+		scripture_name = THE_SHISAN_JING
+		priest_title = RU
+		piety_name = XIAO
+
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry=yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		intermarry = melanesian_religion
+		intermarry = melanesian_religion_reformed
+		intermarry = taiwanese_religion
+		intermarry = taiwanese_religion_reformed
+		intermarry = philippine_religion
+		intermarry = philippine_religion_reformed
+		intermarry = bornean_religion
+		intermarry = bornean_religion_reformed	
+		intermarry = sulawesi_religion
+		intermarry = sulawesi_religion_reformed
+		intermarry = flores_religion
+		intermarry = flores_religion_reformed
+		intermarry = java_religion
+		intermarry = java_religion_reformed	
+		intermarry = sumatran_religion
+		intermarry = sumatran_religion_reformed	
+		intermarry = malagasy_religion
+		intermarry = malagasy_religion_reformed	
+
+	}
+
 }

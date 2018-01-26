@@ -1,0 +1,23 @@
+# 1453 - Thadbjen
+
+# County Title
+title = c_thadbjen
+
+# Settlements
+max_settlements = 4
+b_tangdo = castle
+b_myogho = city
+b_byanchjang = city
+#b_chaixzjek =
+#b_giatzjek =
+#b_ghuangdrie =
+#b_ngagieu =
+#b_dekkrungx =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

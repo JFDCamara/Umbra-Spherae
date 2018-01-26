@@ -1,0 +1,67 @@
+#Narang Dynasty (placeholders)
+750.1.1={
+	holder=1000203990 #Ungu
+}
+780.1.1={
+	holder=1000203991 #Elyas
+}
+810.1.1={
+	holder=1000203992 #Kechik
+}
+840.1.1={
+	holder=1000201134 #Perang
+}
+870.1.1={
+	holder=1000201135 #Chik
+}
+900.1.1={
+	holder=1000201136 #Che
+}
+930.1.1={
+	holder=1000201137 #Bongsu
+}
+960.1.1={
+	holder=1000201138 #Biru
+}
+990.1.1={
+	holder=1000201139 #Kesuma
+}
+1020.1.1={
+	holder=1000201140 #Kefli
+}
+1050.1.1={
+	holder=1000076197 #Jusoh
+}
+1080.1.1={
+	holder=1000201141 #Demang
+}
+1110.1.1={
+	holder=1000201142 #Bayu
+}
+1140.1.1={
+	holder=1000201143 #Bintang
+}
+1170.1.1={
+	holder=1000201144 #Tanggang
+}
+1200.1.1={
+	holder=1000201145 #Yaakob
+}
+1222.1.1={
+	liege="e_java"
+}
+1230.1.1={
+	holder=1000201146 #Danang
+}
+1260.1.1={
+	holder=1000201147 #Zakaria
+}
+1290.1.1={
+	holder=1000201148 #Putra
+}
+1320.1.1={
+	holder=1000201149 #Andika
+}
+1350.1.1={
+	holder=1000201150 #Hamengku
+}

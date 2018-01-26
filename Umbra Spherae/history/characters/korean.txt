@@ -13138,7 +13138,7 @@
 	1065.1.1={
 		name="Uicheon"
 		add_trait="monk"
-		religion="mahayana"
+		religion="buddhist"
 	}#becomes a Buddhist monk
 	1101.1.1={
 		death=yes
@@ -13469,7 +13469,7 @@
 	}
 	1184.1.1={
 		add_trait="monk"
-		religion="mahayana"
+		religion="buddhist"
 	}
 	1232.1.1={
 		death=yes
@@ -14815,7 +14815,7 @@
 	}
 }
 1000450917 = {
-	name="Jao" #Empress Gi/Qi-wife of Toghun TemÃ¼r Khan
+	name="Jao" #Empress Gi/Qi-wife of Toghun Temür Khan
 	female=yes
 	dynasty=1000155086 #Gi
 	religion="shingyo"

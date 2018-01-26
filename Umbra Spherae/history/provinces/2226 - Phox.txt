@@ -1,0 +1,24 @@
+# 1575 - Phox
+
+# County Title
+title = c_phox
+
+# Settlements
+max_settlements = 5
+b_anngruk = castle
+b_phoxankio = city
+b_lakcjiih = city
+b_khuonhbyotzsih = temple
+#b_phoxzi =
+#b_phoxkhang =
+#b_phoxchiengliu =
+#b_zriungkhom =
+
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

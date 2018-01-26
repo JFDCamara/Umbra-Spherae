@@ -46,7 +46,7 @@
 
 1000078088 = {
 	name="Karnadeva"
-	culture = buddhist
+	religion = buddhist
 }
 
 1000028318 = {

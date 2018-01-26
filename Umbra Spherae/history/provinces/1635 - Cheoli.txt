@@ -1,0 +1,21 @@
+# 1917 - Cheoli
+
+# County Title
+title = c_cheoli
+
+# Settlements
+max_settlements = 6
+b_gwangju = tribal
+b_bunju = tribal
+#b_poju =
+#b_haeju =
+#b_uiju =
+#b_guiju =
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+
+1050.1.1 = { culture = jurchen }

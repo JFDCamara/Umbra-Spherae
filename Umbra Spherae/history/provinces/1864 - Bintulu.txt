@@ -1,0 +1,21 @@
+# 1233 - Bintulu
+
+# County Title
+title = c_bintulu
+
+# Settlements
+max_settlements = 3
+b_dalat = tribal
+b_bintulu = tribal
+#b_mukah =
+#b_kapit =
+#b_belaga =
+#b_sibu =
+#b_belawai =
+#b_maradong =
+
+# Misc
+culture = dayak
+religion = bornean_religion
+
+# History

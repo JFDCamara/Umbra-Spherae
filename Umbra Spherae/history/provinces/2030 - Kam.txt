@@ -1,0 +1,13 @@
+# 1774 - Kam
+
+# County Title
+title = c_kam
+
+# Settlements
+max_settlements = 2
+b_srantan = castle
+b_triangjek = city
+
+# Misc
+culture = tangut
+religion = buddhist

@@ -1,0 +1,24 @@
+# 1548 - Kim
+
+# County Title
+title = c_kim
+
+# Settlements
+max_settlements = 4
+b_sezjeng = castle
+b_nrioxkruamieuh = temple
+b_ngyukghuangkiung = temple
+#b_synjang =
+#b_hanhim =
+#b_zjekzyen =
+#b_bjenliih =
+#b_ciexjangdungh = temple
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

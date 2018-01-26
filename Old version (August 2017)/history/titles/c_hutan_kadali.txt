@@ -1,0 +1,67 @@
+#Matulessy Dynasty (placeholders)
+750.1.1={
+	holder=1000205092 #Karuyan
+}
+780.1.1={
+	holder=1000205093 #Korua
+}
+810.1.1={
+	holder=1000205094 #Ludong
+}
+840.1.1={
+	holder=1000201644 #Kepel
+}
+870.1.1={
+	holder=1000201645 #Lowing
+}
+900.1.1={
+	holder=1000201646 #Tumuyu
+}
+930.1.1={
+	holder=1000201647 #Senduk
+}
+960.1.1={
+	holder=1000201648 #Sompi
+}
+990.1.1={
+	holder=1000201649 #Tampi
+}
+1020.1.1={
+	holder=1000201650 #Sondakh
+}
+1050.1.1={
+	holder=1000076146 #Partosoebroto
+}
+1080.1.1={
+	holder=1000201651 #Tampiningkol
+}
+1110.1.1={
+	holder=1000201652 #Momongan
+}
+1140.1.1={
+	holder=1000201653 #Mudeng
+}
+1170.1.1={
+	holder=1000201654 #Palar
+}
+1200.1.1={
+	holder=1000201655 #Lincewas
+}
+1222.1.1={
+	liege="e_java"
+}
+1230.1.1={
+	holder=1000201656 #Rombot
+}
+1260.1.1={
+	holder=1000201657 #Tumurang
+}
+1290.1.1={
+	holder=1000201658 #Tiendas
+}
+1320.1.1={
+	holder=1000201659 #Lowing
+}
+1350.1.1={
+	holder=1000201660 #Aprian
+}

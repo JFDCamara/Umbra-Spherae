@@ -1,0 +1,21 @@
+# 1232 - Kinabatangan
+
+# County Title
+title = c_kinabatangan
+
+# Settlements
+max_settlements = 3
+b_kota_kinabalu = tribal
+b_kinabatangan = tribal
+#b_tuaran =
+#b_kota_belud =
+#b_kundasang =
+#b_sandakan =
+#b_kota_marudu =
+#b_limbuak =
+
+# Misc
+culture = dayak
+religion = bornean_religion
+
+# History

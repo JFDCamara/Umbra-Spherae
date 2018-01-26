@@ -1,0 +1,21 @@
+# 1093 - Kauthara
+
+# County Title
+title = c_kauthara
+
+# Settlements
+max_settlements = 5
+b_vinh_nguyen = castle
+b_kauthara = city
+b_phuoc_dong = temple
+b_dien_thanh = castle
+#b_ninh_hoa =
+#b_ninh_diem =
+#b_ninh_thuy =
+#b_van_hung =
+
+# Misc
+culture = cham
+religion = hindu
+
+# History

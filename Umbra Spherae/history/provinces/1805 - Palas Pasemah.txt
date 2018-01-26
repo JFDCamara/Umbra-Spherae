@@ -1,0 +1,21 @@
+# 1174 - Palas Pasemah
+
+# County Title
+title = c_palas_pasemah
+
+# Settlements
+max_settlements = 4
+b_bandar_lampung = castle
+b_palas_pasemah = city
+b_jati_agung = temple
+#b_penengahan =
+#b_jabung =
+#b_mataram_baru =
+#b_melinting =
+#b_natar =
+
+# Misc
+culture = malay
+religion = sumatran_religion
+
+# History

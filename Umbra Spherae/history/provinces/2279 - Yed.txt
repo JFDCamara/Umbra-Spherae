@@ -1,0 +1,23 @@
+# 1651 - Yed
+
+# County Title
+title = c_yed
+
+# Settlements
+max_settlements = 5
+b_kip = castle
+b_yed = city
+b_lejang = city
+b_guruekkra = city
+#b_sinhiang =
+#b_kyungzjeng_yed =
+#b_gimuon =
+#b_ngiengjang =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

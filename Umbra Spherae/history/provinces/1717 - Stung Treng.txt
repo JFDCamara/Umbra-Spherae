@@ -1,0 +1,21 @@
+# 1085 - Stung Treng
+
+# County Title
+title = c_stung_treng
+
+# Settlements
+max_settlements = 4
+b_phumi_thalabarivat = castle
+b_stung_treng = city
+b_ban_tak_deth = temple
+#b_kang_cham =
+#b_phumi_thma_sar =
+#b_ban_dan_ky =
+#b_phumi_khsach_non =
+#b_ban_bung =
+
+# Misc
+culture = khmer
+religion = hindu
+
+# History

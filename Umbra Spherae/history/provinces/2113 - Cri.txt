@@ -1,0 +1,23 @@
+# 1413 - Cri
+
+# County Title
+title = c_cri
+
+# Settlements
+max_settlements = 4
+b_crichjyen = castle
+b_driangsren = city
+b_criubjen = city
+#b_kauyanx =
+#b_kimliengx =
+#b_suonkra =
+#b_ngrehbua =
+#b_limgha =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

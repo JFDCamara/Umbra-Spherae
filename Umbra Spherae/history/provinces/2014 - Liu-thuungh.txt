@@ -1,0 +1,16 @@
+# 1758 - Liu-thuungh
+
+# County Title
+title = c_liuthuungh
+
+# Settlements
+max_settlements = 3
+b_ngiehtuuk = castle
+b_ghakchjyen = city
+b_lankhe_liuthuungh = city
+
+# Misc
+culture = bai
+religion = benzhujiao
+
+# History

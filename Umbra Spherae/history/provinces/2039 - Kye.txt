@@ -1,0 +1,20 @@
+# 1783 - Kye
+
+# County Title
+title = c_kye
+
+# Settlements
+max_settlements = 5
+b_ghruailai = castle
+b_cinhsren = city
+b_byansren = city
+#b_yengxhing_kye =
+#b_myontok =
+#b_lyungmuon =
+b_yengxnengzsih = temple
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

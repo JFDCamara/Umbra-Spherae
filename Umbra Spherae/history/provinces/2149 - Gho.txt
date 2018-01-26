@@ -1,0 +1,24 @@
+# 1459 - Gho
+
+# County Title
+title = c_gho
+
+# Settlements
+max_settlements = 5
+b_odrieng = castle
+b_kyoian = city
+b_myoxkhang = city
+b_ghohsjenghmyanghzjuhzsih = temple
+#b_tokchieng =
+#b_ankjit = 
+#b_drianghing_gho =
+#b_muaikhe =
+
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

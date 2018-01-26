@@ -1,0 +1,21 @@
+# 1170 - Kota Kapur
+
+# County Title
+title = c_kota_kapur
+
+# Settlements
+max_settlements = 4
+b_mendo_barat = castle
+b_kota_kapur = city
+b_puding_besar = temple
+#b_merawang =
+#b_bakam =
+#b_pangkal_pinang =
+#b_air_gegas =
+#b_membalong =
+
+# Misc
+culture = malay
+religion = buddhist
+
+# History

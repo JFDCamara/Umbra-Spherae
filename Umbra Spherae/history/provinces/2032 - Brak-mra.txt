@@ -1,0 +1,12 @@
+# 1776 - Brak-mra
+
+# County Title
+title = c_brakmrax
+
+# Settlements
+max_settlements = 1
+b_brakmrax_brakmrax = castle
+
+# Misc
+culture = tangut
+religion = buddhist

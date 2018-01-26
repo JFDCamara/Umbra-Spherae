@@ -1,0 +1,21 @@
+# 1789 - Dad-dengh
+
+# County Title
+title = c_daddengh
+
+# Settlements
+max_settlements = 6
+b_daddengh = castle
+b_drianghing = city
+b_biuxzsyuk = city
+b_yengxprah = city
+#b_hinghruah_daddengh =
+#b_zsyungsren =
+#b_samghan =
+#b_daddenghzsjinsren =
+
+# Misc
+culture = han
+religion = confucian
+
+# History

@@ -1,0 +1,21 @@
+# 1638 - Leu
+
+# County Title
+title = c_leu
+
+# Settlements
+max_settlements = 3
+b_leusren = castle
+b_jyuzjax = city
+b_ghuangdrak = castle
+#b_ghuazsjynh =
+#b_bjenzjeng =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,23 @@
+# 1431 - Siuk
+
+# County Title
+title = c_siuk
+
+# Settlements
+max_settlements = 4
+b_byolie = castle
+b_ziemx = city
+b_limhuanh = city
+#b_lengpek =
+#b_ghung =
+#b_ziengan =
+#b_thunghaix =
+#b_sekoh =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

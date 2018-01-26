@@ -1,0 +1,21 @@
+# 1342 - Saumlaki
+
+# County Title
+title = c_saumlaki
+
+# Settlements
+max_settlements = 3
+b_lorulun = tribal
+b_saumlaki = tribal
+#b_meyano_raya =
+#b_watmuri =
+#b_adodo =
+#b_makatian =
+#b_otemer_raya =
+#b_namtabung =
+
+# Misc
+culture = malukan
+religion = melanesian_religion
+
+# History

@@ -1,3 +1,6 @@
+750.1.1 = {	
+	historical_nomad = yes
+}
 #Yesun Tataar
 750.1.1 = {
 	liege = 0 # De facto

@@ -1,0 +1,24 @@
+# 1544 - Dang
+
+# County Title
+title = c_dang
+
+# Settlements
+max_settlements = 4
+b_piihjang = castle
+b_biejang = city
+b_sjyixliemzsih = temple
+#b_dungprak =
+#b_byangzjeng =
+#b_ghojang =
+#b_lagio =
+#b_chengdai =
+
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

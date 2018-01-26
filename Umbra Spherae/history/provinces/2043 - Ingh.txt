@@ -1,0 +1,19 @@
+# 1787 - 'ingh
+
+# County Title
+title = c_ingh
+
+# Settlements
+max_settlements = 5
+b_ghaim = castle
+b_kimzjeng = city
+#b_ghuonngyan = castle
+b_byotkiungzsih = temple
+b_dadyonzsih = temple
+b_ghuenkhungzsih = temple
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

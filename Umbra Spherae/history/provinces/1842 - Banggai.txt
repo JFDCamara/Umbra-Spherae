@@ -1,0 +1,21 @@
+# 1211 - Banggai
+
+# County Title
+title = c_banggai
+
+# Settlements
+max_settlements = 4
+b_tinangkung = tribal
+b_banggai = tribal
+#b_liang =
+#b_bulagi =
+#b_buko =
+#b_lo_bangkurung =
+#b_sanana =
+#b_mangole =
+
+# Misc
+culture = bugi
+religion = sulawesi_religion
+
+# History

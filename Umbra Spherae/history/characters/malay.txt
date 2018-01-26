@@ -3,7 +3,7 @@
 1000080484 = {
 	name="Jayanasa"
 	dynasty=1000027643 #Srivijaya
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	640.1.1={
 		birth="640.1.1"
@@ -16,7 +16,7 @@
 1000080485 = {
 	name="Indravarman"
 	dynasty=1000027643 #Srivijaya
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080484
 	670.1.1={
@@ -30,7 +30,7 @@
 1000080486 = {
 	name="Rudravikraman"
 	dynasty=1000027643 #Srivijaya
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080485
 	690.1.1={
@@ -44,7 +44,7 @@
 1000080487 = {
 	name="Dharmasetu"
 	dynasty=1000027643 #Srivijaya
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080486
 	720.1.1={
@@ -59,7 +59,7 @@
 	name="Dewi-Tara"
 	female=yes
 	dynasty=1000027643 #Srivijaya
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080487
 	750.1.1={
@@ -75,7 +75,7 @@
 1000080470 = {
 	name="Balaputradeva"
 	dynasty=1000028301 #Sailendra
-	religion="mahayana"
+	religion="buddhist"
 	culture="javanese"
 	father=1000080468
 	mother=1000080488
@@ -93,7 +93,7 @@
 1000080472 = {
 	name="Bhanudeva"
 	dynasty=1000028301 #Sailendra
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080470
 	830.1.1={
@@ -107,7 +107,7 @@
 1000080473 = {
 	name="Jayadeva"
 	dynasty=1000028301 #Sailendra
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080472
 	860.1.1={
@@ -121,7 +121,7 @@
 1000080474 = {
 	name="Udayadityavarman"
 	dynasty=1000028301 #Sailendra
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080473
 	890.1.1={
@@ -135,7 +135,7 @@
 1000080475 = {
 	name="Haji"
 	dynasty=1000028301 #Sailendra
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080474
 	920.1.1={
@@ -149,7 +149,7 @@
 1000080476 = {
 	name="Culamanivarmadeva"
 	dynasty=1000028301 #Sailendra
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080475
 	950.1.1={
@@ -163,7 +163,7 @@
 1000080477 = {
 	name="Maravijayottunga"
 	dynasty=1000028301 #Sailendra
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080476
 	970.1.1={
@@ -178,7 +178,7 @@
 	name="Putri-Sriwijaya"
 	female=yes
 	dynasty=1000028301 #Sailendra
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080476
 	971.1.1={
@@ -193,7 +193,7 @@
 	name="Dewi-Sumbrada"
 	female=yes
 	dynasty=1000028301 #Sailendra
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080476
 	972.1.1={
@@ -207,7 +207,7 @@
 1000080478 = {
 	name="Sumatrabhumi"
 	dynasty=1000028301 #Sailendra
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080477
 	990.1.1={
@@ -221,7 +221,7 @@
 1000080479 = {
 	name="Sangramavijayottunga"
 	dynasty=1000028301 #Sailendra
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080477
 	991.1.1={
@@ -235,7 +235,7 @@
 1000080482 = {
 	name="Sri-Deva"
 	dynasty=1000028301 #Sailendra
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080479
 	1007.1.1={
@@ -249,7 +249,7 @@
 1000076193 = {
 	name="Dharmavira"
 	dynasty=1000028301 #Sailendra
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080482
 	1037.1.1={
@@ -265,7 +265,7 @@
 1000203933 = {
 	name="Adi"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	720.1.1={
 		birth="720.1.1"
@@ -278,7 +278,7 @@
 1000203934 = {
 	name="Jumaat"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000203933
 	750.1.1={
@@ -292,7 +292,7 @@
 1000203935 = {
 	name="Leman"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000203934
 	780.1.1={
@@ -306,7 +306,7 @@
 1000080856 = {
 	name="Embong"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000203935
 	810.1.1={
@@ -320,7 +320,7 @@
 1000080857 = {
 	name="Fajar"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080856
 	840.1.1={
@@ -334,7 +334,7 @@
 1000080858 = {
 	name="Anuar"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080857
 	867.1.1={
@@ -348,7 +348,7 @@
 1000080859 = {
 	name="Rabu"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080858
 	900.1.1={
@@ -362,7 +362,7 @@
 1000080860 = {
 	name="Sabtu"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080859
 	930.1.1={
@@ -376,7 +376,7 @@
 1000080861 = {
 	name="Danial"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080860
 	960.1.1={
@@ -390,7 +390,7 @@
 1000080862 = {
 	name="Biru"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080861
 	990.1.1={
@@ -404,7 +404,7 @@
 1000080863 = {
 	name="Usop"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080862
 	1020.1.1={
@@ -418,7 +418,7 @@
 1000080864 = {
 	name="Noh"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080863
 	1050.1.1={
@@ -432,7 +432,7 @@
 1000080489 = {
 	name="Dharmasraja"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080864
 	1066.1.1={
@@ -446,7 +446,7 @@
 1000080490 = {
 	name="Trailokyaraja"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080489
 	1120.1.1={
@@ -460,7 +460,7 @@
 1000080491 = {
 	name="Trailokyaraja"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080490
 	1170.1.1={
@@ -474,7 +474,7 @@
 1000080492 = {
 	name="Trailokyaraja"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080491
 	1220.1.1={
@@ -488,7 +488,7 @@
 1000080493 = {
 	name="Tribhuwanaraja"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080492
 	1260.1.1={
@@ -503,7 +503,7 @@
 	name="Dara-Petak"
 	female=yes
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080493
 	1276.1.1={
@@ -518,7 +518,7 @@
 	name="Dara-Jingga"
 	female=yes
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080493
 	1277.1.1={
@@ -532,7 +532,7 @@
 1000080640 = {
 	name="Akarendrawarman"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080493
 	1278.1.1={
@@ -546,7 +546,7 @@
 1000080496 = {
 	name="Adityawarman"
 	dynasty=1000027644 #Mauli
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	mother=1000080495
 	1294.1.1={
@@ -1498,7 +1498,7 @@
 1000203942 = {
 	name="Agus"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	720.1.1={
 		birth="720.1.1"
@@ -1511,7 +1511,7 @@
 1000203943 = {
 	name="Tuah"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000203942
 	750.1.1={
@@ -1525,7 +1525,7 @@
 1000203944 = {
 	name="Yeop"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000203943
 	780.1.1={
@@ -1539,7 +1539,7 @@
 1000080884 = {
 	name="Agus"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000203944
 	810.1.1={
@@ -1553,7 +1553,7 @@
 1000080885 = {
 	name="Hijau"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080884
 	840.1.1={
@@ -1567,7 +1567,7 @@
 1000080886 = {
 	name="Yahaya"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080885
 	867.1.1={
@@ -1581,7 +1581,7 @@
 1000080887 = {
 	name="Selamat"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080886
 	900.1.1={
@@ -1595,7 +1595,7 @@
 1000080888 = {
 	name="Izzat"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080887
 	930.1.1={
@@ -1609,7 +1609,7 @@
 1000080889 = {
 	name="Deris"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080888
 	960.1.1={
@@ -1623,7 +1623,7 @@
 1000080890 = {
 	name="Jaya"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080889
 	990.1.1={
@@ -1637,7 +1637,7 @@
 1000080891 = {
 	name="Jiwa"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080890
 	1020.1.1={
@@ -1651,7 +1651,7 @@
 1000080892 = {
 	name="Danang"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080891
 	1050.1.1={
@@ -1665,7 +1665,7 @@
 1000080893 = {
 	name="Gombak"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080892
 	1080.1.1={
@@ -1679,7 +1679,7 @@
 1000080894 = {
 	name="Adiputra"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080893
 	1110.1.1={
@@ -1693,7 +1693,7 @@
 1000080895 = {
 	name="Adi"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080894
 	1140.1.1={
@@ -1707,7 +1707,7 @@
 1000080896 = {
 	name="Demak"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080895
 	1170.1.1={
@@ -1721,7 +1721,7 @@
 1000080897 = {
 	name="Suria"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080896
 	1200.1.1={
@@ -1735,7 +1735,7 @@
 1000080898 = {
 	name="Teh"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080897
 	1230.1.1={
@@ -1749,7 +1749,7 @@
 1000080899 = {
 	name="Uda"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080898
 	1260.1.1={
@@ -1763,7 +1763,7 @@
 1000080900 = {
 	name="Elyas"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080899
 	1290.1.1={
@@ -1777,7 +1777,7 @@
 1000080901 = {
 	name="Lokman"
 	dynasty=1000027663 #Nalawangsa
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080900
 	1320.1.1={
@@ -2383,7 +2383,7 @@
 1000203951 = {
 	name="Bulat"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	720.1.1={
 		birth="720.1.1"
@@ -2396,7 +2396,7 @@
 1000203952 = {
 	name="Perwira"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000203951
 	750.1.1={
@@ -2410,7 +2410,7 @@
 1000203953 = {
 	name="Rabu"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000203952
 	780.1.1={
@@ -2424,7 +2424,7 @@
 1000080992 = {
 	name="Budi"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000203953
 	810.1.1={
@@ -2438,7 +2438,7 @@
 1000080993 = {
 	name="Che"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080992
 	840.1.1={
@@ -2452,7 +2452,7 @@
 1000080994 = {
 	name="Luncai"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080993
 	867.1.1={
@@ -2466,7 +2466,7 @@
 1000080995 = {
 	name="Selasa"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080994
 	900.1.1={
@@ -2480,7 +2480,7 @@
 1000080996 = {
 	name="Perwira"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080995
 	930.1.1={
@@ -2494,7 +2494,7 @@
 1000080997 = {
 	name="Uda"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080996
 	960.1.1={
@@ -2508,7 +2508,7 @@
 1000080998 = {
 	name="Chik"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080997
 	990.1.1={
@@ -2522,7 +2522,7 @@
 1000080999 = {
 	name="Bagus"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080998
 	1020.1.1={
@@ -2536,7 +2536,7 @@
 1000201000 = {
 	name="Basuki"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000080999
 	1050.1.1={
@@ -2550,7 +2550,7 @@
 1000201001 = {
 	name="Bulat"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201000
 	1080.1.1={
@@ -2564,7 +2564,7 @@
 1000201002 = {
 	name="Sabtu"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201001
 	1110.1.1={
@@ -2578,7 +2578,7 @@
 1000201003 = {
 	name="Yunos"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201002
 	1140.1.1={
@@ -2592,7 +2592,7 @@
 1000201004 = {
 	name="Perang"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201003
 	1170.1.1={
@@ -2606,7 +2606,7 @@
 1000201005 = {
 	name="Bulat"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201004
 	1200.1.1={
@@ -2620,7 +2620,7 @@
 1000201006 = {
 	name="Danang"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201005
 	1230.1.1={
@@ -2634,7 +2634,7 @@
 1000201007 = {
 	name="Yeop"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201006
 	1260.1.1={
@@ -2648,7 +2648,7 @@
 1000201008 = {
 	name="Zulkarnain"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201007
 	1290.1.1={
@@ -2662,7 +2662,7 @@
 1000201009 = {
 	name="Megat"
 	dynasty=1000027669 #Panai
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201008
 	1320.1.1={
@@ -2973,7 +2973,7 @@
 1000203957 = {
 	name="Mail"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	720.1.1={
 		birth="720.1.1"
@@ -2986,7 +2986,7 @@
 1000203958 = {
 	name="Ishak"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000203957
 	750.1.1={
@@ -3000,7 +3000,7 @@
 1000203959 = {
 	name="Elyas"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000203958
 	780.1.1={
@@ -3014,7 +3014,7 @@
 1000201082 = {
 	name="Hamengku"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000203959
 	810.1.1={
@@ -3028,7 +3028,7 @@
 1000201083 = {
 	name="Usop"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201082
 	840.1.1={
@@ -3042,7 +3042,7 @@
 1000201084 = {
 	name="Tuah"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201083
 	867.1.1={
@@ -3056,7 +3056,7 @@
 1000201085 = {
 	name="Bongsu"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201084
 	900.1.1={
@@ -3070,7 +3070,7 @@
 1000201086 = {
 	name="Biru"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201085
 	930.1.1={
@@ -3084,7 +3084,7 @@
 1000201087 = {
 	name="Wira"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201086
 	960.1.1={
@@ -3098,7 +3098,7 @@
 1000201088 = {
 	name="Demak"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201087
 	990.1.1={
@@ -3112,7 +3112,7 @@
 1000201089 = {
 	name="Demang"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201088
 	1020.1.1={
@@ -3126,7 +3126,7 @@
 1000201090 = {
 	name="Bestari"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201089
 	1050.1.1={
@@ -3140,7 +3140,7 @@
 1000201091 = {
 	name="Bachok"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201090
 	1080.1.1={
@@ -3154,7 +3154,7 @@
 1000201092 = {
 	name="Kefli"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201091
 	1110.1.1={
@@ -3168,7 +3168,7 @@
 1000201093 = {
 	name="Perang"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201092
 	1140.1.1={
@@ -3182,7 +3182,7 @@
 1000201094 = {
 	name="Teh"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201093
 	1170.1.1={
@@ -3196,7 +3196,7 @@
 1000201095 = {
 	name="Elyas"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201094
 	1200.1.1={
@@ -3210,7 +3210,7 @@
 1000201096 = {
 	name="Jumaat"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201095
 	1230.1.1={
@@ -3224,7 +3224,7 @@
 1000201097 = {
 	name="Dumadi"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201096
 	1260.1.1={
@@ -3238,7 +3238,7 @@
 1000201098 = {
 	name="Noh"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201097
 	1290.1.1={
@@ -3252,7 +3252,7 @@
 1000201099 = {
 	name="Suria"
 	dynasty=1000027674 #Lemong
-	religion="mahayana"
+	religion="buddhist"
 	culture="malay"
 	father=1000201098
 	1320.1.1={

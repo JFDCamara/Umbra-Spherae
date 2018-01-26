@@ -1,0 +1,21 @@
+# 1072 - Ratchaburi
+
+# County Title
+title = c_ratchaburi
+
+# Settlements
+max_settlements = 4
+b_pak_tho = castle
+b_ratchaburi = city
+b_photharam = temple
+#b_suan_phueng =
+#b_chom_bueng =
+#b_ban_pong =
+#b_khok_mo =
+#b_wat_phleng =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

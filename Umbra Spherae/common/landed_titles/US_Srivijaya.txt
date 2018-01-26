@@ -3,21 +3,21 @@ e_srivijaya = {
 	color = { 214 218 129 }
 	color2 = { 250 250 250 }
 
-	capital = 1687 #Palembang
+	capital = 1804 #Palembang
 
 	k_srivijaya = {
 
 		color = { 19 98 43 }
 		color2 = { 250 250 250 }
 
-		capital = 1687 #Palembang
+		capital = 1804 #Palembang
 
 		d_palembang = {
 
 			color = { 123 100 57 }
 			color2 = { 250 250 250 }
 
-			capital = 1687 #Palembang
+			capital = 1804 #Palembang
 
 			c_palembang = {
 
@@ -113,7 +113,7 @@ e_srivijaya = {
 			color = { 114 106 67 }
 			color2 = { 250 250 250 }
 
-			capital = 1738 #Bengkulu
+			capital = 1855 #Bengkulu
 
 			c_bengkulu = {
 
@@ -165,7 +165,7 @@ e_srivijaya = {
 			color = { 125 69 55 }
 			color2 = { 250 250 250 }
 
-			capital = 1686 #Karang Berahi
+			capital = 1803 #Karang Berahi
 
 			c_karang_berahi = {
 
@@ -221,14 +221,14 @@ e_srivijaya = {
 		color = { 78 75 44 }
 		color2 = { 250 250 250 }
 
-		capital = 1685 #Muaro Jambi
+		capital = 1802 #Muaro Jambi
 
 		d_jambi = {
 
 			color = { 87 61 34 }
 			color2 = { 250 250 250 }
 
-			capital = 1685 #Muaro Jambi
+			capital = 1802 #Muaro Jambi
 
 			c_muaro_jambi = {
 
@@ -305,7 +305,7 @@ e_srivijaya = {
 			color = { 88 47 33 }
 			color2 = { 250 250 250 }
 
-			capital = 1682 #Panai
+			capital = 1799 #Panai
 
 			c_panai = {
 
@@ -379,7 +379,7 @@ e_srivijaya = {
 			color = { 86 87 34 }
 			color2 = { 250 250 250 }
 
-			capital = 1735 #Temasek
+			capital = 1852 #Temasek
 
 			c_temasek = {
 
@@ -432,14 +432,14 @@ e_srivijaya = {
 		color = { 20 190 60 }
 		color2 = { 250 250 250 }
 
-		capital = 1742 #Pariaman
+		capital = 1859 #Pariaman
 
 		d_pariaman = {
 
 			color = { 30 181 120 }
 			color2 = { 250 250 250 }
 
-			capital = 1742 #Pariaman
+			capital = 1859 #Pariaman
 
 			c_pariaman = {
 
@@ -491,7 +491,7 @@ e_srivijaya = {
 			color = { 21 153 41 }
 			color2 = { 250 250 250 }
 
-			capital = 1740 #Padang
+			capital = 1857 #Padang
 
 			c_padang = {
 
@@ -543,7 +543,7 @@ e_srivijaya = {
 			color = { 26 185 169 }
 			color2 = { 250 250 250 }
 
-			capital = 1739 #Pagarruyung
+			capital = 1856 #Pagarruyung
 
 			c_pagarruyung = {
 
@@ -599,14 +599,14 @@ e_srivijaya = {
 		color = { 88  137  172 }
 		color2 = { 250 250 250 }
 
-		capital = 1736 #Samudra
+		capital = 1853 #Samudra
 
 		d_samudra = {
 
 			color = { 83  99  176 }
 			color2 = { 250 250 250 }
 
-			capital = 1736 #Samudra
+			capital = 1853 #Samudra
 
 			c_samudra = {
 
@@ -661,7 +661,7 @@ e_srivijaya = {
 			color = { 106  153  153 }
 			color2 = { 250 250 250 }
 
-			capital = 1715 #Lamuri
+			capital = 1832 #Lamuri
 
 			c_lamuri = {
 
@@ -723,7 +723,7 @@ e_srivijaya = {
 				}
 				b_mayabunder = {
 				}
-				b_madhupur = {
+				b_madhupur_andaman = {
 				}
 				b_geinyale = {
 				}
@@ -738,7 +738,7 @@ e_srivijaya = {
 			color = { 103  98  162 }
 			color2 = { 250 250 250 }
 
-			capital = 1681 #Barus
+			capital = 1798 #Barus
 
 			c_barus = {
 
@@ -794,14 +794,14 @@ e_srivijaya = {
 		color= { 198 111 15 }
 		color2 = { 250 250 250 }
 
-		capital = 1591 #Kedaram
+		capital = 1708 #Kedaram
 
 		d_langkasuka = {
 
 			color= { 119 49 47 }
 			color2 = { 250 250 250 }
 
-			capital = 1591 #Kedaram
+			capital = 1708 #Kedaram
 
 			c_kedaram = {
 
@@ -834,7 +834,7 @@ e_srivijaya = {
 				}
 				b_yaring = {
 				}
-				b_mayo = {
+				b_mayo_pattani = {
 				}
 				b_sai_buri = {
 				}
@@ -875,7 +875,7 @@ e_srivijaya = {
 			color= { 138 100 74 }
 			color2 = { 250 250 250 }
 
-			capital = 1764 #Melaka
+			capital = 1881 #Melaka
 
 			c_melaka = {
 
@@ -927,7 +927,7 @@ e_srivijaya = {
 			color= { 136 135 77 }
 			color2 = { 250 250 250 }
 
-			capital = 1679 #Pekan
+			capital = 1796 #Pekan
 
 			c_pekan = {
 
@@ -1001,7 +1001,7 @@ e_srivijaya = {
 			color= { 117 97 49 }
 			color2 = { 250 250 250 }
 
-			capital = 1590 #Nakhon Si Thammarat
+			capital = 1707 #Nakhon Si Thammarat
 
 			malay="Tambralinga"
 
@@ -1081,14 +1081,14 @@ e_srivijaya = {
 		color = { 164 10 14 }
 		color2 = { 250 250 250 }
 
-		capital = 1693 #Pakuan Pajajaran
+		capital = 1810 #Pakuan Pajajaran
 
 		d_banten = {
 
 			color = { 140 145 60 }
 			color2 = { 250 250 250 }
 
-			capital = 1693 #Pakuan Pajajaran
+			capital = 1810 #Pakuan Pajajaran
 
 			c_pakuan_pajajaran = {
 
@@ -1156,7 +1156,7 @@ e_srivijaya = {
 				}
 				b_cibaliung = {
 				}
-				b_cimanggu = {
+				b_cimanggu_pulasari = {
 				}
 			}
 		}
@@ -1165,7 +1165,7 @@ e_srivijaya = {
 			color = { 94 142 62 }
 			color2 = { 250 250 250 }
 
-			capital = 1694 #Tugu
+			capital = 1811 #Tugu
 
 			c_tugu = {
 
@@ -1220,7 +1220,7 @@ e_srivijaya = {
 			color = { 152 130 52 }
 			color2 = { 250 250 250 }
 
-			capital = 1692 #Cibadak
+			capital = 1809 #Cibadak
 
 			c_cibadak = {
 
@@ -1272,7 +1272,7 @@ e_srivijaya = {
 			color = { 155 207 48 }
 			color2 = { 250 250 250 }
 
-			capital = 1696 #Kawali
+			capital = 1813 #Kawali
 
 			c_kawali = {
 
@@ -1346,7 +1346,7 @@ e_srivijaya = {
 			color = { 203 191 52 }
 			color2 = { 250 250 250 }
 
-			capital = 1688 #Palas Pasemah
+			capital = 1805 #Palas Pasemah
 
 			c_palas_pasemah = {
 
@@ -1399,14 +1399,14 @@ e_srivijaya = {
 		color = { 100 100 144 }
 		color2 = { 250 250 250 }
 
-		capital = 1712 #Tanjungpura
+		capital = 1829 #Tanjungpura
 
 		d_tanjungpura = {
 
 			color = { 115 130 168 }
 			color2 = { 250 250 250 }
 
-			capital = 1712 #Tanjungpura
+			capital = 1829 #Tanjungpura
 
 			c_tanjungpura = {
 
@@ -1432,7 +1432,7 @@ e_srivijaya = {
 				}
 				b_telukpadekai = {
 				}
-				b_kubu = {
+				b_kubu_tanjungpura = {
 				}
 			}
 			c_sukadana = {
@@ -1512,7 +1512,7 @@ e_srivijaya = {
 			color = { 105 138 177 }
 			color2 = { 250 250 250 }
 
-			capital = 1718 #Banjarmasin
+			capital = 1835 #Banjarmasin
 
 			c_banjarmasin = {
 
@@ -1591,7 +1591,7 @@ e_srivijaya = {
 			color = { 115 155 168 }
 			color2 = { 250 250 250 }
 
-			capital = 1680 #Kutai
+			capital = 1797 #Kutai
 
 			c_kutai = {
 
@@ -1670,7 +1670,7 @@ e_srivijaya = {
 			color = { 95 155 188 }
 			color2 = { 250 250 250 }
 
-			capital = 1724 #Poli
+			capital = 1841 #Poli
 
 			c_po_li = {
 
@@ -1750,7 +1750,7 @@ d_pasai = {
 	color = { 93  99  176 }
 	color2 = { 250 250 250 }
 
-	capital = 1736 #Samudra
+	capital = 1853 #Samudra
 }
 
 d_perlak = {
@@ -1758,7 +1758,7 @@ d_perlak = {
 	color = { 83  109  176 }
 	color2 = { 250 250 250 }
 
-	capital = 1716 #Perlak
+	capital = 1833 #Perlak
 }
 
 k_galuh = {
@@ -1766,5 +1766,5 @@ k_galuh = {
 	color = { 155 207 48 }
 	color2 = { 250 250 250 }
 
-	capital = 1696 #Kawali
+	capital = 1813 #Kawali
 }

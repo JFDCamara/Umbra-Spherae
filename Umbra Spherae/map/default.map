@@ -1,4 +1,4 @@
-max_provinces = 2330
+max_provinces = 2457
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -12,26 +12,28 @@ adjacencies = "adjacencies.csv"
 climate = "climate.txt"
 region = "island_region.txt"
 geographical_region = "geographical_region.txt"
-static = "static.txt"
+static = "statics"
 seasons = "seasons.txt"
 
 # European Seas
 sea_zones = { 936 943 }
 sea_zones = { 945 1012 }
 sea_zones = { 1014 1111 }
-sea_zones = { 2257 2257 }
+sea_zones = { 1305 1305 }
+sea_zones = { 2374 2374 }
 
 # Indian Seas
 sea_zones = { 1307 1317 }
 sea_zones = { 1382 1407 }
 sea_zones = { 1409 1412 }
 sea_zones = { 1293 1293 }
-sea_zones = { 2184 2256 }
-#sea_zones = { 2258 2294 }
-sea_zones = { 2293 2294 }
+sea_zones = { 2301 2373 }
+sea_zones = { 2410 2411 }
 
 # Non-accessible sea zones
 sea_zones = { 944 944 }
+sea_zones = { 1529 1529 }
+sea_zones = { 1580 1580 }
 
 ocean_region = {	# European Ocean
 	sea_zones = { 1 2 3 4 }
@@ -40,10 +42,6 @@ ocean_region = {	# European Ocean
 ocean_region = {	# Indian Ocean
 	sea_zones = { 5 6 7 8 9 10 }
 }
-
-#ocean_region = {	# Indian Ocean
-#	sea_zones = { 5 6 7 8 }
-#}
 
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
 tree = { 3 4 7 10 }
@@ -79,4 +77,4 @@ major_rivers =
 	944 #Aral Sea
 }
 
-externals = { } # Paths to china
+externals = { } # Silkroad Paths to china

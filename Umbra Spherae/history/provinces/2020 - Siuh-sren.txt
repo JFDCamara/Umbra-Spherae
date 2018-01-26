@@ -1,0 +1,21 @@
+# 1764 - Siuh-sren
+
+# County Title
+title = c_siuhsren
+
+# Settlements
+max_settlements = 5
+b_siuhsren = castle
+b_miukcok = city
+b_noplu = castle
+#b_chitkhe =
+#b_thetjyungdenh =
+#b_sida =
+#b_neng =
+#b_abok =
+
+# Misc
+culture = thai
+religion = sastsana_phi
+
+# History

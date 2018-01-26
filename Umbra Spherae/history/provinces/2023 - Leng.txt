@@ -1,0 +1,17 @@
+# 1767 - Leng
+
+# County Title
+title = c_leng
+
+# Settlements
+max_settlements = 6
+b_pauxziengxghrax = castle
+b_hingkhieng = city
+b_lengmyox = castle
+b_ghuailak = city
+b_anziengx = city
+b_haixpauxzsih = temple
+
+# Misc
+culture = tangut
+religion = buddhist

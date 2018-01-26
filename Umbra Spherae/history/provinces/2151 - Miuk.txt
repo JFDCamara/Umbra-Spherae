@@ -1,0 +1,23 @@
+# 1461 - Miuk
+
+# County Title
+title = c_miuk
+
+# Settlements
+max_settlements = 4
+b_kianhtok = castle
+b_dunglio = city
+#b_pyonsjyix = 
+#b_chengkhe =
+#b_zsyihan = 
+#b_zjuhchjang =
+#b_zsjinzyen =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

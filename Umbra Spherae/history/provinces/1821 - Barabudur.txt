@@ -1,0 +1,21 @@
+# 1190 - Barabudur
+
+# County Title
+title = c_barabudur
+
+# Settlements
+max_settlements = 6
+b_canggal = castle
+b_barabudur = city
+b_bagaluhan = temple
+b_kertek = city
+#b_sapuran =
+#b_sadang =
+#b_alian =
+#b_pituruh =
+
+# Misc
+culture = javanese
+religion = java_religion
+
+# History

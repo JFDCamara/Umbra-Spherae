@@ -1,0 +1,16 @@
+# 1920 - Dongju
+
+# County Title
+title = c_dongju
+
+# Settlements
+max_settlements = 1
+b_yeongju_dongju = tribal
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+
+1050.1.1 = { culture = jurchen }

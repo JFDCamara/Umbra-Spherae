@@ -1,0 +1,24 @@
+# 1524 - Thrim
+
+# County Title
+title = c_thrim
+
+# Settlements
+max_settlements = 5
+b_thrim = castle
+b_bjenjang_thrim = city
+b_zsjingkimzsih = temple
+#b_lamsren =
+#b_thrimyengxhing =
+#b_thrimkuehjang =
+#b_ngiecjang =
+#b_hiangpiung =
+
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

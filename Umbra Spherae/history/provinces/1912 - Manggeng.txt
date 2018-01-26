@@ -1,0 +1,21 @@
+# 1740 - Manggeng
+
+# County Title
+title = c_manggeng
+
+# Settlements
+max_settlements = 3
+b_tangan_tangan = castle
+b_manggeng = city
+#b_labuhan_haji =
+#b_susoh =
+#b_blang_pidie =
+#b_meukek =
+#b_sawang_manggeng =
+#b_sama_dua =
+
+# Misc
+culture = batak
+religion = sumatran_religion
+
+# History

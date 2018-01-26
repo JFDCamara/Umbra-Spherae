@@ -1,0 +1,21 @@
+# 1075 - Chaiya
+
+# County Title
+title = c_chaiya
+
+# Settlements
+max_settlements = 3
+b_surat_thani = castle
+b_chaiya = city
+#b_kanchanadit =
+#b_tha_chana =
+#b_khiri_rat_nikhom =
+#b_khura_buri =
+#b_ranong =
+#b_lang_suan =
+
+# Misc
+culture = malay
+religion = buddhist
+
+# History

@@ -2,159 +2,198 @@
 	liege = d_kyoitok
 }
 
-618.6.18 ={
-	holder = 1000451066
+#Tang
+618.6.18 = {
+	holder = 217700 #Gaozu of Tang
+}
+626.9.4 = {
+	holder = 217701 #Taizong of Tang
+}
+649.7.10 = {
+	holder = 217702 #Gaozong of Tang
+}
+683.12.27 = {
+	holder = 217799 # Zhongdong
+}
+684.2.27 = {
+	holder = 217703 #Ruizong of Tang
+}
+690.10.16 = {
+	holder = 217704 #Wu Zetian
+}
+705.12.16 = {
+	holder = 217799 # again
+}
+710.7.3 = {
+	holder = 217705 #Shang of Tang
+}
+710.7.8 = {
+	holder = 217703
+}
+712.9.8 = {
+	holder = 217706 #Xuanzong of Tang
+}
+756.8.12 = {
+	holder = 217707 #Suzong of Tang
+}
+762.5.16 = {
+	holder = 217708 #Daizong of Tang
+}
+779.5.23 = {
+	holder = 217709 #Dezong of Tang
+}
+805.2.25 = {
+	holder = 217710 #Shunzong of Tang
+}
+805.9.5 = {
+	holder = 217711 #Xianzong of Tang
+}
+820.2.14 = {
+	holder = 217712 #Muzong of Tang
+}
+824.2.25 = {
+	holder = 217713 #Jingzong of Tang
+}
+827.1.9 = {
+	holder = 217714 #Wenzong of Tang
+}
+840.2.10 = {
+	holder = 217715 #Wuzong of Tang
+}
+846.4.22 = {
+	holder = 217716 #Xuanzong of Tang
+}
+859.9.7 = {
+	holder = 217717 #Yizong of Tang
+}
+873.8.15 = {
+	holder = 217718 #Xizong of Tang
+}
+888.4.20 = {
+	holder = 217719 #Zhaozong of Tang
+}
+#900.12.1
+#	holder = #Prince Li Yu
+#}
+904.9.22 = {
+	holder = 217720 #Aidi of Tang
 }
 
-642.11.14 ={
-	holder = 1000451067
+#5 Dynasties
+907.5.12 = {
+	holder = 0 # 5 dynasties
 }
 
-672.8.17 ={
-	holder = 1000451068
+#Song
+960.2.1 = {
+	holder = 217721 #Taizu of Song
+}
+976.11.14 = {
+	holder = 217722 #Taizong of Song
+}
+997.5.8 = {
+	holder = 217723 #Zhenzong of Song
+}
+1022.3.23 = {
+	holder = 217724 #Renzong of Song
+}
+1063.3.30 = {
+	holder = 217725 #Yinzong of Song
+}
+1067.1.25 = {
+	holder = 217726 #Shenzong of Song
+}
+1085.4.1 = {
+	holder = 217727 #Zhezong of Song
+}
+1100.2.23 = {
+	holder = 217728 #Huizong of Song
 }
 
-692.8.17 ={
-	holder = 1000451069
-}
-
-722.9.17 ={
-	holder = 1000451070
-}
-
-742.12.10 ={
-	holder = 1000451071
-}
-
-769.6.15 ={
-	holder = 1000451072
-}
-
-796.2.3 ={
-	holder = 1000451073
-}
-
-820.4.14 ={
-	holder = 1000451074
-}
-
-841.9.26 ={
-	holder = 1000451075
-}
-
-868.6.22 ={
-	holder = 1000451076
-}
-
-897.10.10 ={
-	holder = 1000451077
-}
-
-907.5.12 ={
-	holder = 0
-}
-
-960.2.4={
-	holder=1000079005 #Kuangyin
-}
-976.11.15={
-	holder=1000079006 #Kuangyi
-}
-997.5.8={
-	holder=1000079007 #Dechang
-}
-1022.3.24={
-	holder=1000079009 #Shouyi
-}
-1063.4.30={
-	holder=1000079011 #Zhongshi
-}
-1067.1.26={
-	holder=1000079012 #Zhongzhen
-}
-1085.4.1={
-	holder=1000079013 #Yong
-}
-1100.2.23={
-	holder=1000079014 #Ji
-}
+#South Song
 1126.1.18={
 	holder=1000079015 #Dan
 }
 
+#Wanyan aka Jin
 1127.1.9 ={
 	liege = e_anchuhu
 }
-
-1127.1.9 ={
-	holder = 1000202552
+1127.1.9 = {
+	holder=217731 #Wuqimai
+}
+1135.2.9 = {
+	holder=217732 #Hela
+}
+1150.1.9 = {
+	holder=217734 #Digunai
+}
+1161.12.15 = {
+	holder=217735 #Wulu
+}
+1189.1.20 = {
+	holder=217736 #Madage
+}
+1208.12.29 = {
+	holder=217737 #Yongji
+}
+1213.9.11 = {
+	holder=217738 #Wudubu
+}
+1224.1.14 = {
+	holder=217739 #Ningjiasu
+}
+1234.2.9 = {
+	holder=217740 #Chenglin
 }
 
-1135.2.9 ={
-	holder = 1000202554
-}
-
-1150.1.9 ={
-	holder = 1000202556
-}
-
-1161.12.15 ={
-	holder = 1000202558
-}
-
-1189.1.20 ={
-	holder = 1000202560
-}
-
-1208.12.29 ={
-	holder = 1000202561
-}
-
-1213.9.11 ={
-	holder = 1000202562
-}
-
-1224.1.14 ={
-	holder = 1000202563
-}
-
-1234.2.9 ={
-	holder = 1000202567
-}
-
+#Mongols
 1234.2.10 ={
 	liege = k_mongolia
 }
-
 1234.2.10 ={
 	holder = 172005
 }
-
 1241.12.11 ={
 	holder = 172007
 }
-
 1248.1.1 ={
 	holder = 217265
 }
-
 1259.8.11 ={
 	holder = 217266
 }
-
 1279.3.19 ={
 	liege = d_kyoitok
 }
-
-1279.3.19 ={
-	holder = 1000451086
+1294.2.18 = {
+	holder = 217269 # Temür Khan 
 }
-
-1305.5.11 ={
-	holder = 1000451087
+1307.2.10 = {
+	holder = 217271 # Külüg Khan 
 }
-
-1335.4.14 ={
-	holder = 1000451088
+1311.1.27 = {
+	holder = 217272 # Buyantu Khan 
+}
+1320.3.1 = {
+	holder = 217274 # Gegeen Khan
+}
+1323.9.4 = {
+	holder = 217279 # Yesün Temür Khan
+}
+1328.8.15 = {
+	holder = 217281 # Jayaatu Khan 
+}
+1329.4.3 = {
+	holder = 217282 # Khutughtu Khan Kusala
+}
+1329.9.8 = { 
+	holder = 217281 # Jayaatu Khan (again)
+}
+1332.9.2 = {
+	holder = 217283 # Rinchinbal Khan
+}
+1332.12.14 = {
+	holder = 217284 # Toghon Temür Khan
 }
 

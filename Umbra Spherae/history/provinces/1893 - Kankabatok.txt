@@ -1,0 +1,21 @@
+# 1262 - Kankabatok
+
+# County Title
+title = c_kankabatok
+
+# Settlements
+max_settlements = 3
+b_tacloban = tribal
+b_kankabatok = tribal
+#b_marabut =
+#b_balangiga =
+#b_guiuan =
+#b_baybay =
+#b_ormoc =
+#b_catbalogan =
+
+# Misc
+culture = cebuan
+religion = philippine_religion
+
+# History

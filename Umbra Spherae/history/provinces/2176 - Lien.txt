@@ -1,0 +1,20 @@
+# 1493 - Lien
+
+# County Title
+title = c_lien
+
+# Settlements
+max_settlements = 3
+b_kuehjang = castle
+b_jangsren = city
+#b_liensren =
+#b_ghuehkuangzsih =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

@@ -1,0 +1,19 @@
+# 1330 - Karput
+
+# County Title
+title = c_karput
+
+# Settlements
+max_settlements = 3
+b_tomari = tribal
+
+b_sistukari = temple
+#b_yuzhnosakhalinsk = castle
+#b_nevelsk = castle
+
+
+# Misc
+culture = ainu
+religion = ainu_pantheism
+
+# History

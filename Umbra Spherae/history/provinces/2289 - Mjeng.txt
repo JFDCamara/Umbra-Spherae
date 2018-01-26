@@ -1,0 +1,23 @@
+# 1669 - Mjeng
+
+# County Title
+title = c_mjeng
+
+# Settlements
+max_settlements = 4
+b_yengxnen = castle
+b_khyukcju = city
+b_bjenon = city
+b_cjeughuehyangzsi = temple
+#b_byoihiang =
+#b_kedrak =
+#b_limmjeng =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

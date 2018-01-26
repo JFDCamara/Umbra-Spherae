@@ -1,0 +1,21 @@
+# 1141 - Dien Bien Phu
+
+# County Title
+title = c_dien_bien_phu
+
+# Settlements
+max_settlements = 4
+b_thanh_minh = castle
+b_dien_bien_phu = city
+b_muong_pon = temple
+#b_muong_muon =
+#b_muong_cha =
+#b_muong_mun =
+#b_ban_chin =
+#b_ban_co =
+
+# Misc
+culture = viet
+religion = thangiao
+
+# History

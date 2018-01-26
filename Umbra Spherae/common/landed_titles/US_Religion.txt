@@ -1,6 +1,6 @@
 k_confucian = {
 	
-	capital = 2002 # Jyenx
+	capital = 2119 # Jyenx
 
 	color={ 230 179 0 }
 	
@@ -21,7 +21,7 @@ k_confucian = {
 
 k_tao = {
 	
-	capital = 2045 # Sinh
+	capital = 2162 # Sinh
 	
 	title = "CELESTIAL_MASTER"
 	foa = "CELESTIAL_MASTER_FOA"
@@ -39,7 +39,7 @@ k_tao = {
 }
 
 d_shinto = {
-	capital = 1473 # Yamashiro (Kyoto)
+	capital = 1590 # Yamashiro (Kyoto)
 	
 	color={ 49 103 69 }
 	color2={ 255 255 255 }
@@ -65,7 +65,7 @@ d_shinto = {
 }
 
 d_ainu_pantheism_reformed = {
-	capital = 1480 # Oshima
+	capital = 1597 # Oshima
 	
 	color={ 49 103 69 }
 	color2={ 255 255 255 }
@@ -94,7 +94,7 @@ d_ryukyu_shinto = {
 	color={ 90 121 186 }
 	color2={ 255 255 255 }
 	
-	capital = 1484 # Ryukyu
+	capital = 1601 # Ryukyu
 	
 	title = "HEAD_PRIEST"
 	title_female = "HEAD_PRIESTESS"
@@ -116,27 +116,27 @@ d_ryukyu_shinto = {
 	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
 }
 
-k_sakya_trizin = {
-	color={ 168 53 50 }
-	color2={ 105 106 196 }
+#k_sakya_trizin = {
+#	color={ 168 53 50 }
+#	color2={ 105 106 196 }
 	
-	capital = 1547 # Sakya
+#	capital = 1547 # Sakya
 	
-	title = "SAKYA_TRIZIN"
-	title_female = "SAKYA_TRIZINMO"
-	foa = "SAKYA_TRIZIN_FOA"
-	short_name = yes
+#	title = "SAKYA_TRIZIN"
+#	title_female = "SAKYA_TRIZINMO"
+#	foa = "SAKYA_TRIZIN_FOA"
+#	short_name = yes
 	
 	# Always exists
-	landless = no
+#	landless = no
 
 	# Controls a religion
-	controls_religion = vajrayana
+#	controls_religion = vajrayana
 	
-	religion = vajrayana
+#	religion = vajrayana
 	
 	# Cannot be held as a secondary title
-	primary = yes
+#	primary = yes
 	
 
-}
+#}

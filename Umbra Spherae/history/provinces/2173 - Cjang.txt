@@ -1,0 +1,22 @@
+# 1490 - Cjang
+
+# County Title
+title = c_cjang
+
+# Settlements
+max_settlements = 4
+b_lyungkhe = castle
+b_nomsrenkiung = temple
+#b_driangthad =
+#b_cjangphox = 
+#b_lyungngram =
+#b_zriungpiukzsih = temple #(buddhist)
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

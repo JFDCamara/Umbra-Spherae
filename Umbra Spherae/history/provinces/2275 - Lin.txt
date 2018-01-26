@@ -1,0 +1,23 @@
+# 1647 - Lin
+
+# County Title
+title = c_lin
+
+# Settlements
+max_settlements = 4
+b_zsjinmuk = castle
+b_zsjindang = castle
+b_dadghua = castle
+#b_sinzin = city
+#b_lienkuk = city
+#b_nginzjeng = city
+#b_trinhchjyen = castle
+#b_ziengxkhiang = castle
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

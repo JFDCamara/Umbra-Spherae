@@ -71,256 +71,255 @@ region_venice = {
 # Umbra Spherae
 
 region_japan = {
-	provinces = {
-	1464 1465 1466 1467 1468 1469 1470 1471 1472 1473 1474 1475 1476 1477 1480 1481 1482
-	2304 2305 2306 2307 2308 2309 2310 2311 2312 2313 2314 2315 2316 2317 2318 2319 2320
-	2321 2322 2323 2324 2325 2326 2327 2328 2329
+	provinces = { #43
+	1581 1582 1583 1584 1585 1586 1587 1588 1589 1590 1591 1592 1593 1594 1597 1598 1599
+	2421 2422 2423 2424 2425 2426 2427 2428 2429 2430 2431 2432 2433 2434 2435 2436 2437
+	2438 2439 2440 2441 2442 2443 2444 2445 2446
 	}
 }
 
 region_sakhalin = {
 	provinces = {
-	1478 1479
+	1595 1596
 	}
 }
 
 region_amami = {
 	provinces = {
-	1483
+	1600
 	}
 }
 
 region_ryukyu = {
 	provinces = {
-	1484
+	1601
 	}
 }
 
 region_sakishima = {
 	provinces = {
-	1485
+	1602
 	}
 }
 
 region_jeju = {
 	provinces = {
-	1503
+	1620
 	}
 }
 
 region_tsushima = {
 	provinces = {
-	1523
+	1640
 	}
 }
 
 region_taiwan = {
 	provinces = {
-	1614 1660 1662 1779 1780 1781 2177 2178
+	1731 1777 1779 1896 1897 1898 2294 2295
 	}
 }
 
 region_borneo = {
 	provinces = {
-	1680 1712 1718 1719 1720 1721 1722 1723 1724 1734 1744 1746 1747 1748
+	1797 1829 1835 1836 1837 1838 1839 1840 1841 1851 1861 1863 1864 1865
 	}
 }
 
 region_java = {
 	provinces = {
-	1690 1691 1692 1693 1694 1695 1696 1697 1698 1699 1700 1702 1703 1704 1705 1706 1707 1708
-	1709 1711
+	1807	1808	1809	1810	1811	1812	1813	1814	1815	1816	1817	1819	1820		1821	1822	1823	1824	1825	1826	1828
 	}
 }
 
 region_bali = {
 	provinces = {
-	1701
+	1818
 	}
 }
 
 region_bangkalan = {
 	provinces = {
-	1710
+	1827
 	}
 }
 
 region_ternate = {
 	provinces = {
-	1717
+	1834
 	}
 }
 
 region_banggai = {
 	provinces = {
-	1725
+	1842
 	}
 }
 
 region_papua = {
 	provinces = {
-	1726 1728
+	1843 1845
 	}
 }
 
 region_timor = {
 	provinces = {
-	1727
+	1844
 	}
 }
 
 region_lombok = {
 	provinces = {
-	1729
+	1846
 	}
 }
 
 region_sumbawa = {
 	provinces = {
-	1730 1749
+	1847 1866
 	}
 }
 
 region_sulawesi = {
 	provinces = {
-	1731 1732 1755 1756 1757 1758 1759
+	1848	1849	1872	1873	1874	1875	1876
 	}
 }
 
 region_buru = {
 	provinces = {
-	1733
+	1850
 	}
 }
 
 region_sulu = {
 	provinces = {
-	1745
+	1862
 	}
 }
 
 region_bau_bau = {
 	provinces = {
-	1750
+	1867
 	}
 }
 
 region_ambon = {
 	provinces = {
-	1752
+	1869
 	}
 }
 
 region_tidore = {
 	provinces = {
-	1753
+	1870
 	}
 }
 
 region_bacan = {
 	provinces = {
-	1754
+	1871
 	}
 }
 
 region_sumba = {
 	provinces = {
-	1760
+	1877
 	}
 }
 
 region_flores = {
 	provinces = {
-	1761
+	1878
 	}
 }
 
 region_aru = {
 	provinces = {
-	1762
+	1879
 	}
 }
 
 region_mindanao = {
 	provinces = {
-	1766 1772 1775
+	1883 1889 1892
 	}
 }
 
 region_luzon = {
 	provinces = {
-	1767 1768 1773 1774
+	1884 1885 1890 1891
 	}
 }
 
 region_panay = {
 	provinces = {
-	1769 1770
+	1886 1887
 	}
 }
 
 region_mindoro = {
 	provinces = {
-	1771
+	1888
 	}
 }
 
 region_samar = {
 	provinces = {
-	1776
+	1893
 	}
 }
 
 region_palawan = {
 	provinces = {
-	1777
+	1894
 	}
 }
 
 region_andaman = {
 	provinces = {
-	1778
+	1895
 	}
 }
 
 region_halmahera = {
 	provinces = {
-	1782 1783
+	1899 1900
 	}
 }
 
 region_tanimbar = {
 	provinces = {
-	1784
+	1901
 	}
 }
 
 region_alor = {
 	provinces = {
-	1785
+	1902
 	}
 }
 
 region_hibala = {
 	provinces = {
-	1790
+	1907
 	}
 }
 
 region_morotai = {
 	provinces = {
-	1796
+	1913
 	}
 }
 
 region_greenland = {
 	provinces = {
-	1800 1801
+	1917 1918
 	}
 }
 
 region_lakshadweep = {
 	provinces = {
-	1802
+	1919
 	}
 }

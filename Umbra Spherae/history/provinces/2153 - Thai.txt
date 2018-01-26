@@ -1,0 +1,24 @@
+# 1464 - Thai
+
+# County Title
+title = c_thai
+
+# Settlements
+max_settlements = 5
+b_limhaix = castle
+b_ngyukkiengdungh =  temple
+b_ngingcjinkiung = temple
+b_dadiuxkiung = temple
+#b_ghuangngram =
+#b_sienki_thai =
+#b_thenthai = 
+#b_thainenghaix =
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

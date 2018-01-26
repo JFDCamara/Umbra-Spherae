@@ -1,0 +1,24 @@
+# 1579 - Zjyuklo
+
+# County Title
+title = c_zjyuklo
+
+# Settlements
+max_settlements = 4
+b_lochjyen = castle
+b_nopkhe = castle
+b_singa = castle
+#b_krungan =
+#b_piuhzsjynh =
+#b_ghopkrung =
+#b_kiuxcje =
+#b_zjingliu =
+
+
+# Misc
+culture = lolo
+religion = bimojiao
+
+# History
+
+

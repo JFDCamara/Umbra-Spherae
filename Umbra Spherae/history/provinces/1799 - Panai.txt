@@ -1,0 +1,21 @@
+# 1168 - Panai
+
+# County Title
+title = c_panai
+
+# Settlements
+max_settlements = 4
+b_senaboi = castle
+b_panai = city
+b_rimba_melintang = temple
+#b_bangko_pusaka =
+#b_kualuh_hilir =
+#b_kubu =
+#b_bilah_hilir =
+#b_aek_kuo =
+
+# Misc
+culture = malay
+religion = buddhist
+
+# History

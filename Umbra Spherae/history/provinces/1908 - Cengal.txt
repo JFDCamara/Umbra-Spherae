@@ -1,0 +1,21 @@
+# 1349 - Cengal
+
+# County Title
+title = c_cengal
+
+# Settlements
+max_settlements = 3
+b_pematang_panggang = castle
+b_cengal = city
+#b_tulung_selapan =
+#b_air_sugihan =
+#b_mesuji =
+#b_pampangan =
+#b_kayu_agung =
+#b_pedamaran =
+
+# Misc
+culture = malay
+religion = buddhist
+
+# History

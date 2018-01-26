@@ -1,0 +1,22 @@
+# 949 - Higo
+
+# County Title
+title = c_higo
+
+# Settlements
+max_settlements = 4
+b_mashiki = castle
+b_aso = temple
+b_kikuchi = castle
+
+#b_udo = castle
+#b_takuma = castle
+#b_amakusa = castle
+#b_yatsushiro_higo = castle
+#b_yamamoto = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

@@ -1,0 +1,24 @@
+# 1100 - Hoanya
+
+# County Title
+title = c_hoanya
+
+# Settlements
+max_settlements = 5
+b_middag = tribal
+#b_ramtau = 
+#b_tirosen = 
+#b_poasoa = 
+#b_daliyi = 
+#b_benantanar = 
+#b_tayoloedan = 
+#b_dalivo = 
+
+# Misc
+culture = middag
+religion = taiwanese_religion
+terrain = plains
+
+# History
+
+

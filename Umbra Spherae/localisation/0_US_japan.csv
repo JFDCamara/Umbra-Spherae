@@ -165,7 +165,7 @@ b_hatano;Hatano;;;;;;;;;;;;;x
 b_kofu;Kofu;;;;;;;;;;;;;x
 b_ishiwa;Ishiwa;;;;;;;;;;;;;x
 b_tsuru;Tsuru;;;;;;;;;;;;;x
-b_yatsushiro;Yatsushiro;;;;;;;;;;;;;x
+b_yatsushiro_higo;Yatsushiro;;;;;;;;;;;;;x
 b_koma;Koma;;;;;;;;;;;;;x
 b_yamanashi;Yamanashi;;;;;;;;;;;;;x
 b_minobu;Minobu;;;;;;;;;;;;;x
@@ -248,7 +248,7 @@ b_katsuragi;Katsuragi;;;;;;;;;;;;;x
 b_yoshino;Yoshino;;;;;;;;;;;;;x
 b_toichi;Toichi;;;;;;;;;;;;;x
 b_takaichi;Takaichi;;;;;;;;;;;;;x
-b_uda;Uda;;;;;;;;;;;;;x
+b_uda_yamato;Uda;;;;;;;;;;;;;x
 b_yamabe;Yamabe;;;;;;;;;;;;;x
 b_dairi;Dairi;;;;;;;;;;;;;x
 b_heiankyo;Heiankyo;;;;;;;;;;;;;x
@@ -265,7 +265,7 @@ b_yosa;Yosa;;;;;;;;;;;;;x
 b_ikaruga;Ikaruga;;;;;;;;;;;;;x
 b_hikami;Hikami;;;;;;;;;;;;;x
 b_amata;Amata;;;;;;;;;;;;;x
-b_tanabe;Tanabe;;;;;;;;;;;;;x
+b_tanabe_tango;Tanabe;;;;;;;;;;;;;x
 b_naniwa;Naniwa;;;;;;;;;;;;;x
 b_sumiyoshi;Sumiyoshi;;;;;;;;;;;;;x
 b_izumi;Izumi;;;;;;;;;;;;;x
@@ -279,7 +279,7 @@ b_kongobuji;Kongobuji;;;;;;;;;;;;;x
 b_kumano;Kumano;;;;;;;;;;;;;x
 b_yuasa;Yuasa;;;;;;;;;;;;;x
 b_tanabe;Tanabe;;;;;;;;;;;;;x
-b_naga;Naga;;;;;;;;;;;;;x
+b_naga_kii;Naga;;;;;;;;;;;;;x
 b_muro;Muro;;;;;;;;;;;;;x
 b_ito;Ito;;;;;;;;;;;;;x
 b_keta;Keta;;;;;;;;;;;;;x
@@ -335,7 +335,7 @@ b_saba;Saba;;;;;;;;;;;;;x
 b_kumage;Kumage;;;;;;;;;;;;;x
 b_asa;Asa;;;;;;;;;;;;;x
 b_yoshiki;Yoshiki;;;;;;;;;;;;;x
-b_abu;Abu;;;;;;;;;;;;;x
+b_abu_nagato;Abu;;;;;;;;;;;;;x
 b_yamaguchi;Yamaguchi;;;;;;;;;;;;;x
 b_tsuno;Tsuno;;;;;;;;;;;;;x
 b_nakata;Nakata;;;;;;;;;;;;;x
@@ -467,7 +467,7 @@ b_okinoerabu;Yyerabu;;;;;;;;;;;;;x
 b_kakeroma;Kakeeroma;;;;;;;;;;;;;x
 b_eniya;Yunnu;;;;;;;;;;;;;x
 b_shuri;Sui;;;;;;;;;;;;;x
-b_naha;Naahwa;;;;;;;;;;;;;x
+b_naha_ryukyu;Naahwa;;;;;;;;;;;;;x
 b_goeku;Gwikku;;;;;;;;;;;;;x
 b_kunigami;Kunzan;;;;;;;;;;;;;x
 b_nakagami;Nakajan;;;;;;;;;;;;;x

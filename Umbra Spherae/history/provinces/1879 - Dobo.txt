@@ -1,0 +1,21 @@
+# 1248 - Dobo
+
+# County Title
+title = c_dobo
+
+# Settlements
+max_settlements = 3
+b_wokam = tribal
+b_dobo = tribal
+#b_fatujuring =
+#b_maikooi =
+#b_rebi =
+#b_diommon =
+#b_gomogomo =
+#b_barakan =
+
+# Misc
+culture = malukan
+religion = melanesian_religion
+
+# History

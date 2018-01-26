@@ -1,4 +1,7 @@
 #Burte Chino
+640.1.1 = {	
+	historical_nomad = yes
+}
 640.1.1 = {
 	holder=166849 #Burte-Chino
 }

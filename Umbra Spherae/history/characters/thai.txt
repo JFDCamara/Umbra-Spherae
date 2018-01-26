@@ -990,7 +990,7 @@
 1000203868 = {
 	name="Lao-Kap"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	720.1.1={
 		birth="720.1.1"
@@ -1003,7 +1003,7 @@
 1000203869 = {
 	name="Chom-Pha-Rueang"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	father=1000203868
 	750.1.1={
@@ -1017,7 +1017,7 @@
 1000203870 = {
 	name="Lao-Sin"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	father=1000203869
 	780.1.1={
@@ -1031,7 +1031,7 @@
 1000202247 = {
 	name="Kham-Rue"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	father=1000203870
 	810.1.1={
@@ -1045,7 +1045,7 @@
 1000202248 = {
 	name="Khun-Kruea"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	father=1000202247
 	840.1.1={
@@ -1059,7 +1059,7 @@
 1000202249 = {
 	name="Thau-Nam-Tuam"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	father=1000202248
 	867.1.1={
@@ -1073,7 +1073,7 @@
 1000202250 = {
 	name="Chaisongkram"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	father=1000202249
 	900.1.1={
@@ -1087,7 +1087,7 @@
 1000202251 = {
 	name="Lao-Som"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	father=1000202250
 	930.1.1={
@@ -1101,7 +1101,7 @@
 1000202252 = {
 	name="Lao-Khim"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	father=1000202251
 	960.1.1={
@@ -1115,7 +1115,7 @@
 1000202253 = {
 	name="Pa-Yu"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	father=1000202252
 	990.1.1={
@@ -1129,7 +1129,7 @@
 1000202254 = {
 	name="Tao-Puwak"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	father=1000202253
 	1020.1.1={
@@ -1143,7 +1143,7 @@
 1000202255 = {
 	name="Saen-Phu"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	father=1000202254
 	1050.1.1={
@@ -1157,7 +1157,7 @@
 1000202256 = {
 	name="Kue-Na"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	father=1000202255
 	1080.1.1={
@@ -1171,7 +1171,7 @@
 1000202257 = {
 	name="Ai-Pung"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	father=1000202256
 	1110.1.1={
@@ -1185,7 +1185,7 @@
 1000202258 = {
 	name="Cao-Ai"
 	dynasty=1000027686 #Thanasukolwit
-	religion="buddhist"
+	religion=sastsana_phi
 	culture="thai"
 	father=1000202257
 	1140.1.1={

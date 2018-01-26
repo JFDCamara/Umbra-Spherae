@@ -1,3 +1,6 @@
+750.1.1 = {	
+	historical_nomad = yes
+}
 #Khori Tumed
 750.1.1={
 	holder=1000205206 #Tumen

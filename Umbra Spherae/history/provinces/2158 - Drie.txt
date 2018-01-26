@@ -1,0 +1,25 @@
+# 1470 - Drie
+
+# County Title
+title = c_drie
+
+# Settlements
+max_settlements = 4
+b_kyoihdrie = castle
+b_chengjang = city
+b_driekianhtok = city
+#b_tungliu =
+#b_dungling =
+#b_zjekdaih = 
+#b_siuhsren_drie =
+#b_lengcji = 
+
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

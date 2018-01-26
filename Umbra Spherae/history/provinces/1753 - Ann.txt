@@ -1,0 +1,21 @@
+# 1122 - Ann
+
+# County Title
+title = c_ann
+
+# Settlements
+max_settlements = 4
+b_gelaung = castle
+b_ann = city
+b_sinkhondaing = temple
+#b_auk_yebein =
+#b_atet_minyon =
+#b_sakanmaw =
+#b_yebok =
+#b_tat_taung =
+
+# Misc
+culture = bamar
+religion = nat
+
+# History

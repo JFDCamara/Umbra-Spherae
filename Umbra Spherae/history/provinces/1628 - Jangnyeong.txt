@@ -1,0 +1,17 @@
+# 1910 - Jangnyeong
+
+# County Title
+title = c_jangnyeong
+
+# Settlements
+max_settlements = 2
+b_haju_jangnyeong = tribal
+b_haju_jangnyeong2 = tribal
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+
+1050.1.1 = { culture = jurchen }

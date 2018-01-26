@@ -1,0 +1,21 @@
+# 1171 - Muaro Jambi
+
+# County Title
+title = c_muaro_jambi
+
+# Settlements
+max_settlements = 7
+b_kumpeh = castle
+b_muaro_jambi = city
+b_mestong = temple
+b_maro_sebo = city
+#b_betara =
+#b_mendahara =
+#b_sekernan =
+#b_tungkal_ilir =
+
+# Misc
+culture = malay
+religion = buddhist
+
+# History

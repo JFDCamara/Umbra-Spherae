@@ -1,0 +1,24 @@
+# 1415 - Bunun
+
+# County Title
+title = c_bunun
+
+# Settlements
+max_settlements = 3
+b_namasia = tribal
+#b_malang_bunun = 
+#b_mororao = 
+#b_taynonoun = 
+#b_namdomonu = 
+#b_chiv-chiv = 
+#b_sabaha_bakalas = 
+#b_zintun = 
+
+# Misc
+culture = kilai
+religion = taiwanese_religion
+terrain = mountain
+
+# History
+
+

@@ -1,0 +1,23 @@
+# 1918 - Hoewon
+
+# County Title
+title = c_hoewon
+
+# Settlements
+max_settlements = 7
+b_dalju = tribal
+b_wolju = tribal
+#b_hoeju =
+#b_giju =
+#b_buju_hoewon =
+#b_miju_hoewon =
+#b_bokju =
+#b_saju =
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+
+1050.1.1 = { culture = jurchen }

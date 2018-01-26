@@ -1,0 +1,22 @@
+# 1928 - Tango
+
+# County Title
+title = c_tango
+
+# Settlements
+max_settlements = 4
+b_kasa = castle
+b_kuwada = castle
+
+#b_funai = castle
+#b_yosa = castle
+#b_ikaruga = castle
+#b_hikami = castle
+#b_amata = castle
+#b_tanabe_tango = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

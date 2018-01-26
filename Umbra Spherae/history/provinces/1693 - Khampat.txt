@@ -1,0 +1,21 @@
+# 1045 - Khampat
+
+# County Title
+title = c_khampat
+
+# Settlements
+max_settlements = 3
+b_kanan = castle
+b_khampat = city
+b_balbil = temple
+#b_tangsiat =
+#b_bualkuang =
+#b_nampamun =
+#b_anlung =
+#b_khuangkhan =
+
+# Misc
+culture = bamar
+religion = nat
+
+# History

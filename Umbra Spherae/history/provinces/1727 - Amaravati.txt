@@ -1,0 +1,21 @@
+# 1096 - Amaravati
+
+# County Title
+title = c_amaravati_champa
+
+# Settlements
+max_settlements = 5
+b_tran_phu_amaravati = castle
+b_amaravati_champa = city
+b_son_tinh = temple
+#b_nghia_dong =
+#b_nghia_dung =
+#b_tinh_an =
+#b_nghia_hoa =
+#b_duc_loi =
+
+# Misc
+culture = cham
+religion = hindu
+
+# History

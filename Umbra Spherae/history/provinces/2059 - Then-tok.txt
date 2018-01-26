@@ -1,0 +1,14 @@
+# 1803 - Then-tok
+
+# County Title
+title = c_thentok
+
+# Settlements
+max_settlements = 1
+b_thentok = tribal
+
+# Misc
+culture = khitan
+religion = tengri_pagan
+
+# History

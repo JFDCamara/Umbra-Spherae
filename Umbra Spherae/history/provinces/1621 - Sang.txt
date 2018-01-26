@@ -1,0 +1,24 @@
+# 1825 - Sang
+
+# County Title
+title = c_sang
+
+# Settlements
+max_settlements = 7
+b_sang = castle
+b_yeong = castle
+b_daegu = city
+#b_andong =
+#b_gimcheon =
+#b_gumi =
+#b_yeon =
+#b_bonghwa =
+
+
+# Misc
+culture = silla
+religion = shingyo
+
+# History
+
+936.1.1 = { culture = korean}

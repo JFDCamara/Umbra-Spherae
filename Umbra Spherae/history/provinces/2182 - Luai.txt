@@ -1,0 +1,20 @@
+# 1505 - Luai
+
+# County Title
+title = c_luai
+
+# Settlements
+max_settlements = 4
+b_kuandu = castle
+b_cjinmyoxdang = temple
+#b_haixkhang =
+#b_luaicoxzsi = temple #(confucian)
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

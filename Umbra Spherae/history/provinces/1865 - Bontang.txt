@@ -1,0 +1,21 @@
+# 1234 - Bontang
+
+# County Title
+title = c_bontang
+
+# Settlements
+max_settlements = 2
+b_muaraancalong = tribal
+b_bontang = tribal
+#b_lubuktutung =
+#b_tanjungmanis =
+#b_sangkuliang =
+#b_muaramadu =
+#b_sepinang =
+#b_ratuputih =
+
+# Misc
+culture = banjar
+religion = bornean_religion
+
+# History

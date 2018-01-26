@@ -1,0 +1,21 @@
+# 1625 - Gha
+
+# County Title
+title = c_gha
+
+# Settlements
+max_settlements = 3
+b_nenggha = castle
+b_zsynhruah = castle
+#b_anhiangkruan = castle
+#b_thungghuadkruan = castle
+#b_denghkhiang = castle
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

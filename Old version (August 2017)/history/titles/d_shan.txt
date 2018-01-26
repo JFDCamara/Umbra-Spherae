@@ -1,0 +1,31 @@
+#Mogaung Dynasty (placeholders)
+1215.1.1 = {
+	holder=1000080337 #Yaw-Pan-Kyung
+}
+1235.1.1 = {
+	holder=1000080338 #Sao-Hswe-Cheng
+}
+1255.1.1 = {
+	holder=1000080339 #Sao-Hso-Kaw
+}
+1275.1.1 = {
+	holder=1000080340 #Sao-Naw-Mong
+}
+1277.1.1 = {
+	liege="k_mongolia"
+}
+1279.3.19 = {
+	liege="e_china"
+}
+1295.1.1 = {
+	holder=1000080341 #Hkun-Hkam-Hkawt
+}
+1303.4.4 = {
+	liege=0
+}
+1315.1.1 = {
+	holder=1000080342 #Sao-Hkam-Pak
+}
+1335.1.1 = {
+	holder=1000080343 #Sao-Hkam-Nan
+}

@@ -1,0 +1,22 @@
+# 1087 - Sambor Prei Kuk
+
+# County Title
+title = c_sambor_prei_kuk
+
+# Settlements
+max_settlements = 4
+b_kampong_thom = castle
+b_sambor_prei_kuk = temple
+b_roluos = city
+#b_trapeang_veng =
+#b_o_tasek =
+#b_phlong =
+#b_voa_yeav =
+#b_ang_konh =
+
+# Misc
+culture = khmer
+religion = hindu
+
+# History
+

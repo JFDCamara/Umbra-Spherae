@@ -1,0 +1,21 @@
+# 1185 - Bojong Menje
+
+# County Title
+title = c_bojong_menje
+
+# Settlements
+max_settlements = 6
+b_arca_domas = castle
+b_bojong_menje = city
+b_lembang = temple
+b_cimenyan = temple
+#b_rancaekek =
+#b_tanjungsari =
+#b_soreang =
+#b_batujajar =
+
+# Misc
+culture = sundanese
+religion = java_religion
+
+# History

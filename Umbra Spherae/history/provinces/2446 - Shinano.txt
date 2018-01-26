@@ -1,0 +1,22 @@
+# 1839 - Shinano
+
+# County Title
+title = c_shinano
+
+# Settlements
+max_settlements = 4
+b_tsukama = castle
+b_minuchi = castle
+b_suwa = temple
+
+#b_kiso = castle
+#b_saku = castle
+#b_chiisagata = castle
+#b_hanishina = castle
+#b_azumi = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

@@ -1,0 +1,21 @@
+# 1341 - Weda
+
+# County Title
+title = c_weda
+
+# Settlements
+max_settlements = 3
+b_gane = tribal
+b_weda = tribal
+#b_payape =
+#b_lifan =
+#b_semo =
+#b_dolit =
+#b_akelamo =
+#b_mofa =
+
+# Misc
+culture = malukan
+religion = melanesian_religion
+
+# History

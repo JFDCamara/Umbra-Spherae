@@ -1,0 +1,21 @@
+# 1204 - Banjarmasin
+
+# County Title
+title = c_banjarmasin
+
+# Settlements
+max_settlements = 5
+b_kota_baru = tribal
+b_banjarmasin = tribal
+b_martapura = tribal
+#b_banjarbaru =
+#b_rantau =
+#b_kandangan =
+#b_baraban =
+#b_amuntai =
+
+# Misc
+culture = banjar
+religion = bornean_religion
+
+# History

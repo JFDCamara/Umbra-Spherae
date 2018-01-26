@@ -1,7 +1,7 @@
 CHEREM;Cherem;Cherem;Cherem;;Cherem;;;;;;;;;x
-GOD_AMENOMINAKANUSHI;Amenominakanushi;Amenominakanushi;;Amenominakanushi;;;;;;;;;x
-ENMA;Enma;Enma;Enma;;;;;;;;;x
-KANNUSHI;kannushi;kannushi;kannushi;;;;;;;;;x
+GOD_AMENOMINAKANUSHI;Amenominakanushi;Amenominakanushi;;Amenominakanushi;;;;;;;;;x;
+ENMA;Enma;Enma;Enma;;;;;;;;;x;;
+KANNUSHI;kannushi;kannushi;kannushi;;;;;;;;;x;;
 GOD_YHWH;Yahweh;Yahvé;Jahwe;;Yahweh;;;;;;;;;x
 GOD_ELOHIM;Elohim;Elohim;Elohim;;Elohim;;;;;;;;;x
 GOD_ACHAMAN;Achamán;Achamán;Achamán;;Achamán;;;;;;;;;x
@@ -1080,3 +1080,104 @@ GOD_YAMUNA;Yamuna;Yamuna;Yamuna;Yamuna;Yamuna;;;;;;;;;x
 GOD_THE_TIRTHANKARAS;The Tirthankaras;The Tirthankaras;The Tirthankaras;The Tirthankaras;The Tirthankaras;;;;;;;;;x
 GOD_RISHABHA;Rishabha;Rishabha;Rishabha;Rishabha;Rishabha;;;;;;;;;x
 GOD_MAHAVIRA;Mahavira;Mahavira;Mahavira;Mahavira;Mahavira;;;;;;;;;x
+GOD_THAGYAMIN;Thagyamin;Thagyamin;Thagyamin;Thagyamin;Thagyamin;;;;;;;;;x
+GOD_PHRAM;Phram;Phram;Phram;Phram;Phram;;;;;;;;;x
+GOD_TOSAKANTH;Tosakanth;Tosakanth;Tosakanth;Tosakanth;Tosakanth;;;;;;;;;x
+GOD_SUPHANNA_MATCHA;Suphanna Matcha;Suphanna Matcha;Suphanna Matcha;Suphanna Matcha;Suphanna Matcha;;;;;;;;;x
+GOD_NANG_KWAK;Nang Kwak;Nang Kwak;Nang Kwak;Nang Kwak;Nang Kwak;;;;;;;;;x
+GOD_PHI_FA;Phi Fa;Phi Fa;Phi Fa;Phi Fa;Phi Fa;;;;;;;;;x
+GOD_PHOSOP;Phosop;Phosop;Phosop;Phosop;Phosop;;;;;;;;;x
+GOD_KUMAN_THONG;Kuman Thong;Kuman Thong;Kuman Thong;Kuman Thong;Kuman Thong;;;;;;;;;x
+GOD_NANG_MAI;Nang Mai;Nang Mai;Nang Mai;Nang Mai;Nang Mai;;;;;;;;;x
+GOD_NANG_TAKIAN;Nang Takian;Nang Takian;Nang Takian;Nang Takian;Nang Takian;;;;;;;;;x
+GOD_NANG_TANI;Nang Tani;Nang Tani;Nang Tani;Nang Tani;Nang Tani;;;;;;;;;x
+GOD_PHI_THALE;Phi Thale;Phi Thale;Phi Thale;Phi Thale;Phi Thale;;;;;;;;;x
+THE_PHRA;The Phra;The Phra;The Phra;The Phra;The Phra;;;;;;;;;x
+MOPHI;Mophi;Mophi;Mophi;Mophi;Mophi;;;;;;;;;x
+GOD_MUBYASEI;Mubyasei;Mubyasei;Mubyasei;Mubyasei;Mubyasei;;;;;;;;;x
+GOD_ABBA_CHI;Abba Chi;Abba Chi;Abba Chi;Abba Chi;Abba Chi;;;;;;;;;x
+GOD_ABBA_SEI;Abba Sei;Abba Sei;Abba Sei;Abba Sei;Abba Sei;;;;;;;;;x
+GOD_SHAN_WANG;Shan Wang;Shan Wang;Shan Wang;Shan Wang;Shan Wang;;;;;;;;;x
+DUANGONG;Duangong;Duangong;Duangong;Duangong;Duangong;;;;;;;;;x
+GOD_SHANGDI;Shangdi;Shangdi;Shangdi;Shangdi;Shangdi;;;;;;;;;x
+GOD_PANGU;Pangu;Pangu;Pangu;Pangu;Pangu;;;;;;;;;x
+GOD_FUXI;Fuxi;Fuxi;Fuxi;Fuxi;Fuxi;;;;;;;;;x
+GOD_NUWA;Nuwa;Nuwa;Nuwa;Nuwa;Nuwa;;;;;;;;;x
+GOD_CHANG'E;Chang'e;Chang'e;Chang'e;Chang'e;Chang'e;;;;;;;;;x
+GOD_SHENNONG;Shennong;Shennong;Shennong;Shennong;Shennong;;;;;;;;;x
+GOD_HUANGDI;Huangdi;Huangdi;Huangdi;Huangdi;Huangdi;;;;;;;;;x
+GOD_GUAN_YU;Guan Yu;Guan Yu;Guan Yu;Guan Yu;Guan Yu;;;;;;;;;x
+GOD_CAISHEN;Caishen;Caishen;Caishen;Caishen;Caishen;;;;;;;;;x
+GOD_THE_JIUHUANG_DAI;The Jiuhuang Dai;The Jiuhuang Dai;The Jiuhuang Dai;The Jiuhuang Dai;The Jiuhuang Dai;;;;;;;;;x
+GOD_QIYE;Qiye;Qiye;Qiye;Qiye;Qiye;;;;;;;;;x
+GOD_BAYE;Baye;Baye;Baye;Baye;Baye;;;;;;;;;x
+GOD_YU_HUANG;Yu Huang;Yu Huang;Yu Huang;Yu Huang;Yu Huang;;;;;;;;;x
+GOD_TUDI_GONG;Tudi Gong;Tudi Gong;Tudi Gong;Tudi Gong;Tudi Gong;;;;;;;;;x
+GOD_WENCHANGDI;Wenchangdi;Wenchangdi;Wenchangdi;Wenchangdi;Wenchangdi;;;;;;;;;x
+GOD_XI_WANGMU;Xi Wangmu;Xi Wangmu;Xi Wangmu;Xi Wangmu;Xi Wangmu;;;;;;;;;x
+GOD_YUEXIA_LAOREN;Yuexia Laoren;Yuexia Laoren;Yuexia Laoren;Yuexia Laoren;Yuexia Laoren;;;;;;;;;x
+GOD_ZAOSHEN;Zaoshen;Zaoshen;Zaoshen;Zaoshen;Zaoshen;;;;;;;;;x
+GOD_MAZU;Mazu;Mazu;Mazu;Mazu;Mazu;;;;;;;;;x
+GOD_SHOUSHEN;Shoushen;Shoushen;Shoushen;Shoushen;Shoushen;;;;;;;;;x
+GOD_FUSHEN;Fushen;Fushen;Fushen;Fushen;Fushen;;;;;;;;;x
+GOD_LUSHEN;Lushen;Lushen;Lushen;Lushen;Lushen;;;;;;;;;x
+GOD_YAWM_SAUB;Yawm Saub;Yawm Saub;Yawm Saub;Yawm Saub;Yawm Saub;;;;;;;;;x
+GOD_SIV_YIS;Siv Yis;Siv Yis;Siv Yis;Siv Yis;Siv Yis;;;;;;;;;x
+GOD_XWM_KAB;Xwm Kab;Xwm Kab;Xwm Kab;Xwm Kab;Xwm Kab;;;;;;;;;x
+GOD_NPLOOJ_LWG;Nplooj Lwg;Nplooj Lwg;Nplooj Lwg;Nplooj Lwg;Nplooj Lwg;;;;;;;;;x
+GOD_DAB_XWM_KAB;Dab Xwm Kab;Dab Xwm Kab;Dab Xwm Kab;Dab Xwm Kab;Dab Xwm Kab;;;;;;;;;x
+GOD_DAB_POG;Dab Pog;Dab Pog;Dab Pog;Dab Pog;Dab Pog;;;;;;;;;x
+GOD_ZAJ_LAUG;Zaj Laug;Zaj Laug;Zaj Laug;Zaj Laug;Zaj Laug;;;;;;;;;x
+GOD_POJ_NTXOOG;Poj Ntxoog;Poj Ntxoog;Poj Ntxoog;Poj Ntxoog;Poj Ntxoog;;;;;;;;;x
+GOD_YAJ_YUAM;Yaj Yuam;Yaj Yuam;Yaj Yuam;Yaj Yuam;Yaj Yuam;;;;;;;;;x
+GOD_XOB;Xob;Xob;Xob;Xob;Xob;;;;;;;;;x
+GOD_NKAUJ_HNUB;Nkauj Hnub;Nkauj Hnub;Nkauj Hnub;Nkauj Hnub;Nkauj Hnub;;;;;;;;;x
+GOD_NRAUG_HLIS;Nraug Hlis;Nraug Hlis;Nraug Hlis;Nraug Hlis;Nraug Hlis;;;;;;;;;x
+GOD_TXIV_YAWG;Txiv Yawg;Txiv Yawg;Txiv Yawg;Txiv Yawg;Txiv Yawg;;;;;;;;;x
+GOD_BULUOTUO;Buluotuo;Buluotuo;Buluotuo;Buluotuo;Buluotuo;;;;;;;;;x
+GOD_MEHOA;Mehoa;Mehoa;Mehoa;Mehoa;Mehoa;;;;;;;;;x
+GOD_MOLUJIA;Molujia;Molujia;Molujia;Molujia;Molujia;;;;;;;;;x
+GOD_SHESHEN;Sheshen;Sheshen;Sheshen;Sheshen;Sheshen;;;;;;;;;x
+GOD_TUDIGONG;Tudigong;Tudigong;Tudigong;Tudigong;Tudigong;;;;;;;;;x
+GOD_LUNGZVUENGZ;Lungzvuengz;Lungzvuengz;Lungzvuengz;Lungzvuengz;Lungzvuengz;;;;;;;;;x
+GOD_THAN;Than;Than;Than;Than;Than;;;;;;;;;x
+GOD_CAO_DAI;Cao Dai;Cao Dai;Cao Dai;Cao Dai;Cao Dai;;;;;;;;;x
+GOD_KINH_DUONG_VUONG;Kinh Duong Vuong;Kinh Duong Vuong;Kinh Duong Vuong;Kinh Duong Vuong;Kinh Duong Vuong;;;;;;;;;x
+GOD_LAC_LONG_QUAN;Lac Long Quan;Lac Long Quan;Lac Long Quan;Lac Long Quan;Lac Long Quan;;;;;;;;;x
+GOD_AU_CO;Au Co;Au Co;Au Co;Au Co;Au Co;;;;;;;;;x
+GOD_THE_FOUR_IMMORTALS;The Four Immortals;The Four Immortals;The Four Immortals;The Four Immortals;The Four Immortals;;;;;;;;;x
+GOD_THE_FOUR_PALACES_GODDESSES;The Four Palaces Goddesses;The Four Palaces Goddesses;The Four Palaces Goddesses;The Four Palaces Goddesses;The Four Palaces Goddesses;;;;;;;;;x
+GOD_SON_TINH;Son Tinh;Son Tinh;Son Tinh;Son Tinh;Son Tinh;;;;;;;;;x
+GOD_THUY_TINH;Thuy Tinh;Thuy Tinh;Thuy Tinh;Thuy Tinh;Thuy Tinh;;;;;;;;;x
+GOD_BA_CHUA_KHO;Ba Chua Kho;Ba Chua Kho;Ba Chua Kho;Ba Chua Kho;Ba Chua Kho;;;;;;;;;x
+GOD_BA_CHUA_XU;Ba Chua Xu;Ba Chua Xu;Ba Chua Xu;Ba Chua Xu;Ba Chua Xu;;;;;;;;;x
+GOD_NGOC_HOANG;Ngoc Hoang;Ngoc Hoang;Ngoc Hoang;Ngoc Hoang;Ngoc Hoang;;;;;;;;;x
+GOD_THANH_MAU_LIEU_HANH;Thanh Mau Lieu Hanh;Thanh Mau Lieu Hanh;Thanh Mau Lieu Hanh;Thanh Mau Lieu Hanh;Thanh Mau Lieu Hanh;;;;;;;;;x
+GOD_HANEUL-NIM;Haneul-nim;Haneul-nim;Haneul-nim;Haneul-nim;Haneul-nim;;;;;;;;;x
+GOD_DALSOON-NIM;Dalsoon-nim;Dalsoon-nim;Dalsoon-nim;Dalsoon-nim;Dalsoon-nim;;;;;;;;;x
+GOD_HAESIK-NIM;Haesik-nim;Haesik-nim;Haesik-nim;Haesik-nim;Haesik-nim;;;;;;;;;x
+GOD_CHEONHA_DAEJANGGUN;Cheonha Daejanggun;Cheonha Daejanggun;Cheonha Daejanggun;Cheonha Daejanggun;Cheonha Daejanggun;;;;;;;;;x
+GOD_JIHA_YEOJANGGUN;Jiha Yeojanggun;Jiha Yeojanggun;Jiha Yeojanggun;Jiha Yeojanggun;Jiha Yeojanggun;;;;;;;;;x
+GOD_YONGWANG;Yongwang;Yongwang;Yongwang;Yongwang;Yongwang;;;;;;;;;x
+GOD_HWANIN;Hwanin;Hwanin;Hwanin;Hwanin;Hwanin;;;;;;;;;x
+GOD_HWANUNG;Hwanung;Hwanung;Hwanung;Hwanung;Hwanung;;;;;;;;;x
+GOD_UNGNYEO;Ungnyeo;Ungnyeo;Ungnyeo;Ungnyeo;Ungnyeo;;;;;;;;;x
+GOD_DANGUN;Dangun;Dangun;Dangun;Dangun;Dangun;;;;;;;;;x
+GOD_THE_SEON-NYEO;The Seon-nyeo;The Seon-nyeo;The Seon-nyeo;The Seon-nyeo;The Seon-nyeo;;;;;;;;;x
+GOD_THE_GWISHIN;The Gwishin;The Gwishin;The Gwishin;The Gwishin;The Gwishin;;;;;;;;;x
+GOD_YUL-RYEO;Yul-ryeo;Yul-ryeo;Yul-ryeo;Yul-ryeo;Yul-ryeo;;;;;;;;;x
+GOD_MAGO;Mago;Mago;Mago;Mago;Mago;;;;;;;;;x
+GOD_YEONGDEUNGSIN;Yeongdeungsin;Yeongdeungsin;Yeongdeungsin;Yeongdeungsin;Yeongdeungsin;;;;;;;;;x
+YAMA;Yama;Yama;Yama;Yama;Yama;;;;;;;;;x
+BIMO;Bimo;Bimo;Bimo;Bimo;Bimo;;;;;;;;;x
+YAN_WANG;Yan Wang;Yan Wang;Yan Wang;Yan Wang;Yan Wang;;;;;;;;;x
+WU;Wu;Wu;Wu;Wu;Wu;;;;;;;;;x
+XIAO;Xiao;Xiao;Xiao;Xiao;Xiao;;;;;;;;;x
+NTXWJ_NYUG;Ntxwj Nyug;Ntxwj Nyug;Ntxwj Nyug;Ntxwj Nyug;Ntxwj Nyug;;;;;;;;;x
+NYUJ_VAJ_TUAM_TEEM;Nyuj Vaj Tuam Teem;Nyuj Vaj Tuam Teem;Nyuj Vaj Tuam Teem;Nyuj Vaj Tuam Teem;Nyuj Vaj Tuam Teem;;;;;;;;;x
+TXIV_NEEB;Txiv Neeb;Txiv Neeb;Txiv Neeb;Txiv Neeb;Txiv Neeb;;;;;;;;;x
+UM;Um;Um;Um;Um;Um;;;;;;;;;x
+DIEM_VUONG;Diem Vuong;Diem Vuong;Diem Vuong;Diem Vuong;Diem Vuong;;;;;;;;;x
+THE_THAN_TRUYEN;The Than Truyen;The Than Truyen;The Than Truyen;The Than Truyen;The Than Truyen;;;;;;;;;x
+SU;Su;Su;Su;Su;Su;;;;;;;;;x
+YEOMRA;Yeomra;Yeomra;Yeomra;Yeomra;Yeomra;;;;;;;;;x

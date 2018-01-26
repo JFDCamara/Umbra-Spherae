@@ -1,0 +1,22 @@
+# 1586 - Hanh
+
+# County Title
+title = c_hanh
+
+# Settlements
+max_settlements = 6
+b_lak = castle
+b_tokjang = city
+b_lyungbiunghzsi = temple
+b_mjentriuk = city
+b_zjipphyangh = city
+#b_hrauhzyen =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

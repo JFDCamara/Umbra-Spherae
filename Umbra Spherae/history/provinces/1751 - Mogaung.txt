@@ -1,0 +1,21 @@
+# 1120 - Mogaung
+
+# County Title
+title = c_mogaung
+
+# Settlements
+max_settlements = 2
+b_mogaung = tribal
+b_hkamti = tribal
+#b_numnawn =
+#b_chikchi =
+#b_lawa =
+#b_namhkam =
+#b_nan_ma_thee =
+#b_auche =
+
+# Misc
+culture = kachin
+religion = nat
+
+# History

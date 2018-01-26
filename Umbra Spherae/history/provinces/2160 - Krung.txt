@@ -1,0 +1,24 @@
+# 1472 - Krung
+
+# County Title
+title = c_krung
+
+# Settlements
+max_settlements = 4
+b_tokhruah = castle
+b_zjingthenkuanh = temple
+b_bailudong = temple
+#b_ghokhux =
+#b_zjyehchjang =
+#b_brangdrak =
+#b_tokan =
+#b_drengden = 
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

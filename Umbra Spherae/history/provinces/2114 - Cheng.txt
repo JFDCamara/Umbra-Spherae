@@ -1,0 +1,23 @@
+# 1414 - Cheng
+
+# County Title
+title = c_cheng
+
+# Settlements
+max_settlements = 4
+b_jekto = castle
+b_limcri = city
+b_limgyo = city
+#b_chenzsjingh =
+#b_zjuh_kuang =
+#b_pakhing =
+#b_miukling =
+#b_pakchjang =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

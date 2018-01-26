@@ -1,0 +1,21 @@
+# 1352 - Lemong
+
+# County Title
+title = c_lemong
+
+# Settlements
+max_settlements = 4
+b_maje = castle
+b_lemong = city
+b_mekakau_ilir = temple
+#b_pesisir =
+#b_balik_bukit =
+#b_sukau =
+#b_belalau =
+#b_bengkunat =
+
+# Misc
+culture = malay
+religion = sumatran_religion
+
+# History

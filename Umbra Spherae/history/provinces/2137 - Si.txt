@@ -1,0 +1,22 @@
+# 1444 - Si
+
+# County Title
+title = c_si
+
+# Settlements
+max_settlements = 7
+b_lakjang = castle
+b_ghanom = city
+b_ianxsrii = city
+b_yengxansi = city
+b_triungngruk = temple
+b_sjeuhlim = temple #buddhist
+#b_kyungx =
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

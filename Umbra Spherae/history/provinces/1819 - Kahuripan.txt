@@ -1,0 +1,21 @@
+# 1188 - Kahuripan
+
+# County Title
+title = c_kahuripan
+
+# Settlements
+max_settlements = 7
+b_hujung_galuh = castle
+b_kahuripan = city
+b_pucangan = temple
+b_penanggungan = city
+b_jabon = castle
+b_krian = city
+b_wonoayu = castle
+#b_tarik =
+
+# Misc
+culture = javanese
+religion = hindu
+
+# History

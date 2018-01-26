@@ -1,0 +1,21 @@
+# 1785 - Yon
+
+# County Title
+title = c_yon
+
+# Settlements
+max_settlements = 6
+b_yontriung = castle
+b_daddung = city
+b_driangcheng_yon = temple
+#b_yonghruainjin =
+#b_ghruaian_yon =
+#b_zsjynhsjengh =
+#b_syentok =
+#b_thenzjeng =
+
+# Misc
+culture = han
+religion = confucian
+
+# History

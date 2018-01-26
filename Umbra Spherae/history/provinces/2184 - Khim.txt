@@ -1,0 +1,22 @@
+# 1508 - Khim
+
+# County Title
+title = c_khim
+
+# Settlements
+max_settlements = 5
+b_lengsren = castle
+b_njosiek = castle
+b_njoghung = castle
+b_sipimx = castle
+#b_khimanyanx =
+#b_koxsrim =
+
+
+# Misc
+culture = zhuang
+religion = nugyauq
+
+# History
+
+

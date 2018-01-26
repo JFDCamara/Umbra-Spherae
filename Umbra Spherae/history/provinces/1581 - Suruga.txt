@@ -1,0 +1,22 @@
+# 1840 - Suruga
+
+# County Title
+title = c_suruga
+
+# Settlements
+max_settlements = 4
+b_abe = castle
+b_fuji = temple
+b_iwata = castle
+
+#b_mashizu = castle
+#b_fuchi = castle
+#b_suruga = castle
+#b_kiko = castle
+#b_ihara = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

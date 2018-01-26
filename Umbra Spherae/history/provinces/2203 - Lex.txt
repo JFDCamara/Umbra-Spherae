@@ -1,0 +1,24 @@
+# 1536 - Lex
+
+# County Title
+title = c_lex
+
+# Settlements
+max_settlements = 5
+b_lexjang = castle
+b_anhiang = city
+b_zjekmuon = city
+#b_ziliih =
+#b_zrimgha =
+#b_anpiuk =
+#b_daingie =
+#b_ngausren =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

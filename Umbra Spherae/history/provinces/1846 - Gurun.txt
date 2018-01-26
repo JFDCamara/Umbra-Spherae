@@ -1,0 +1,21 @@
+# 1215 - Gurun
+
+# County Title
+title = c_gurun
+
+# Settlements
+max_settlements = 3
+b_saksak = tribal
+b_gurun = tribal
+#b_sambelia =
+#b_aikmel =
+#b_pujut =
+#b_batukliang =
+#b_bayan_gurun =
+#b_gangga =
+
+# Misc
+culture = tenggaran
+religion = flores_religion
+
+# History

@@ -1,0 +1,24 @@
+# 1597 - Zinyung
+
+# County Title
+title = c_zinyung
+
+# Settlements
+max_settlements = 7
+b_driangan = castle
+b_myanhnen = city
+b_limdung = city
+b_dadzienzsih = temple
+b_ghremjang = city
+b_lamden = city
+#b_zinyunglekjang =
+#b_myoxkung =
+
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

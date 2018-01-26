@@ -1,0 +1,23 @@
+# 1419 - Yonh
+
+# County Title
+title = c_yonh
+
+# Settlements
+max_settlements = 4
+b_syozjeng = castle
+b_zjuhtriang = city
+b_tunga = city
+b_liangsren = castle
+#b_triungto =
+#b_bjenim = 
+#b_jangkuk =
+#b_kraihsjuh = 
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

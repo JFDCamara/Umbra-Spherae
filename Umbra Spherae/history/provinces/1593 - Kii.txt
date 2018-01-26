@@ -1,0 +1,22 @@
+# 1930 - Kii
+
+# County Title
+title = c_kii
+
+# Settlements
+max_settlements = 4
+b_nagusa = castle
+b_kongobuji = temple
+b_kumano = temple
+
+#b_yuasa = castle
+#b_tanabe = castle
+#b_naga_kii = castle
+#b_muro = castle
+#b_ito = castle
+
+# Misc
+culture = japanese
+religion = buddhist
+
+# History

@@ -1,0 +1,24 @@
+# 1818 - Gong
+
+# County Title
+title = c_gong
+
+# Settlements
+max_settlements = 7
+b_gong = castle
+b_asan = castle
+b_hongseong = city
+#b_taean =
+#b_buyeo =
+#b_cheongyang =
+#b_yesan =
+#b_seocheon =
+
+
+# Misc
+culture = baekje
+religion = shingyo
+
+# History
+
+936.1.1 = { culture = korean}

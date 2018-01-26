@@ -1,0 +1,24 @@
+# 1557 - Trin
+
+# County Title
+title = c_trin
+
+# Settlements
+max_settlements = 5
+b_lakngyan = castle
+b_puahchjyen = city
+b_cynngieh = city
+b_syijang = city
+#b_langchjyen =
+#b_tadsjyix =
+#b_tozjangx =
+#b_ngiehzyen =
+
+
+# Misc
+culture = hmong
+religion = ua_dab
+
+# History
+
+

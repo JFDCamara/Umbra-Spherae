@@ -1,5 +1,7 @@
 1.1.1 ={
 	vice_royalty = yes
+	government = confucian_bureaucracy
+	law = agnatic_succession
 }
 
 618.6.18 ={

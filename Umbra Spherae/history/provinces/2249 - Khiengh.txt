@@ -1,0 +1,22 @@
+# 1611 - Khiengh
+
+# County Title
+title = c_khiengh
+
+# Settlements
+max_settlements = 4
+b_ghruaiyoi = castle
+b_sjinghkhiang = castle
+b_anhruah = city
+#b_ghopsjyix = city
+#b_brangngyan = city
+#b_denghpen =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

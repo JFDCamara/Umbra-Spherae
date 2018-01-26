@@ -1,0 +1,21 @@
+# 1203 - Ternate
+
+# County Title
+title = c_ternate
+
+# Settlements
+max_settlements = 5
+b_siko = castle
+b_ternate = city
+b_tabalo = city
+#b_sulamadaha =
+#b_tafraka =
+#b_mongi =
+#b_jambula =
+#b_tobona =
+
+# Misc
+culture = malukan
+religion = hindu
+
+# History

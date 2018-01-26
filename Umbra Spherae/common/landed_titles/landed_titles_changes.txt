@@ -6,11 +6,16 @@
 #Scandinavia
 #added d_tuniit_nunaat (with new provinces) to k_norway
 
-#Rajastan
-#moved c_kasmira to the new k_kashmir (with new provinces)
-
 #Tartaria
 #added c_dornogobi and c_khara_narin_ula to d_khangai
+#added c_brakmrax, c_hoksren and c_iuxsiang to d_ikh_bogd
 #added d_dorno_tal to k_mongolia (with new provinces)
 #added d_baigal_nuur to k_mongolia (with new provinces)
 #added k_khitans (with new provinces)
+
+#Tibet
+#added c_dartsedo to d_dege
+#added d_erma to k_kham (with new provinces)
+#added c_ghraxliang and c_kam to d_jiuquan
+#added d_hiengkhieng to k_xixia (with new provinces)
+#added d_bjenghrax to k_xixia (with new provinces)

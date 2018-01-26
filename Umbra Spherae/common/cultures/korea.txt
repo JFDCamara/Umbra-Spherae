@@ -1,10 +1,12 @@
 korean_group = {
-	graphical_cultures = { koreangfx mongolgfx muslimgfx }
+	graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 
 	korean = {
-		graphical_cultures = { koreangfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
+		dynasty_name_first = yes
+
 		color = { 0.5 0.25 0.3 }
 		
 	male_names = {
@@ -93,9 +95,11 @@ korean_group = {
 		modifier = default_culture_modifier
 	}
 	silla = {
-		graphical_cultures = { koreangfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
+		dynasty_name_first = yes
+
 		color = { 0.5 0.25 0.3 }
 		
 	male_names = {
@@ -183,9 +187,11 @@ korean_group = {
 		modifier = default_culture_modifier
 	}
 	buyeo = {
-		graphical_cultures = { koreangfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
+		dynasty_name_first = yes
+
 		color = { 0.5 0.25 0.3 }
 		
 	male_names = {
@@ -273,9 +279,11 @@ korean_group = {
 		modifier = default_culture_modifier
 	}
 	guryeo = {
-		graphical_cultures = { koreangfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
+		dynasty_name_first = yes
+
 		color = { 0.5 0.25 0.3 }
 		
 	male_names = {
@@ -363,9 +371,11 @@ korean_group = {
 		modifier = default_culture_modifier
 	}
 	baekje = {
-		graphical_cultures = { koreangfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
+		dynasty_name_first = yes
+
 		color = { 0.5 0.25 0.3 }
 		
 	male_names = {
@@ -453,9 +463,11 @@ korean_group = {
 		modifier = default_culture_modifier
 	}
 	tamna = {
-		graphical_cultures = { koreangfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
+		dynasty_name_first = yes
+
 		color = { 0.5 0.25 0.3 }
 		
 	male_names = {
@@ -543,9 +555,11 @@ korean_group = {
 		modifier = default_culture_modifier
 	}
 	gaya = {
-		graphical_cultures = { koreangfx mongolgfx muslimgfx }
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
+		dynasty_name_first = yes
+
 		color = { 0.5 0.25 0.3 }
 		
 	male_names = {

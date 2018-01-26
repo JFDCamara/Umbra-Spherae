@@ -1,0 +1,24 @@
+# 1822 - Na
+
+# County Title
+title = c_na
+
+# Settlements
+max_settlements = 5
+b_na = castle
+b_mokpo = castle
+b_gwangna = city
+#b_haenam =
+#b_sinan_na =
+#b_yeongam =
+#b_wando =
+#b_muan =
+
+
+# Misc
+culture = baekje
+religion = shingyo
+
+# History
+
+936.1.1 = { culture = korean}

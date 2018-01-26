@@ -1,0 +1,64 @@
+#Djanggola Dynasty (placeholders)
+750.1.1={
+	holder=1000205044 #Paat
+}
+780.1.1={
+	holder=1000205045 #Pai
+}
+810.1.1={
+	holder=1000205046 #Montung
+}
+840.1.1={
+	holder=1000201355 #Kelung
+}
+870.1.1={
+	holder=1000201356 #Ratag
+}
+900.1.1={
+	holder=1000201357 #Rumende
+}
+930.1.1={
+	holder=1000201358 #Mait
+}
+960.1.1={
+	holder=1000201359 #Lumenta
+}
+990.1.1={
+	holder=1000201360 #Goniwala
+}
+1020.1.1={
+	holder=1000201361 #Koyansouw
+}
+1050.1.1={
+	holder=1000076133 #Tojeng
+}
+1080.1.1={
+	holder=1000201362 #Lumowa
+}
+1110.1.1={
+	holder=1000201363 #Lumunon
+}
+1140.1.1={
+	holder=1000201364 #Korah
+}
+1170.1.1={
+	holder=1000201365 #Mingkid
+}
+1200.1.1={
+	holder=1000201366 #Pesot
+}
+1230.1.1={
+	holder=1000201367 #Politon
+}
+1260.1.1={
+	holder=1000201368 #Mondou
+}
+1290.1.1={
+	holder=1000201369 #Pepah
+}
+1320.1.1={
+	holder=1000201370 #Mamuntu
+}
+1350.1.1={
+	holder=1000201371 #Mamoto
+}

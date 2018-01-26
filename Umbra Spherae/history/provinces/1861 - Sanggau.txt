@@ -1,0 +1,21 @@
+# 1230 - Sanggau
+
+# County Title
+title = c_sanggau
+
+# Settlements
+max_settlements = 2
+b_sanggau = tribal
+#b_sintang =
+#b_sekadau =
+#b_nangapinoh =
+#b_bodok =
+#b_rawak =
+#b_tempunak =
+#b_pusatdamai =
+
+# Misc
+culture = dayak
+religion = bornean_religion
+
+# History

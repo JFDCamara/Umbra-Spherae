@@ -1,0 +1,21 @@
+# 1755 - Yoi-chriox
+
+# County Title
+title = c_yoichriox
+
+# Settlements
+max_settlements = 6
+b_daliloh = castle
+b_ngaluk = city
+b_dalila = castle
+b_lamyoh = castle
+#b_daliyoiyanx =
+#b_lada =
+#b_labuan_yoichriox =
+#b_jinyanx =
+
+# Misc
+culture = thai
+religion = buddhist
+
+# History

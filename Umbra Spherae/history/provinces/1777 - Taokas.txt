@@ -1,0 +1,24 @@
+# 1146 - Taokas
+
+# County Title
+title = c_taokas
+
+# Settlements
+max_settlements = 3
+b_tek-kham = tribal
+#b_pali_taokas = 
+#b_tayoun = 
+#b_mawubu = 
+#b_bewubu = 
+#b_naqeji = 
+#b_namatauw = 
+#b_takoham = 
+
+# Misc
+culture = middag
+religion = taiwanese_religion
+terrain = plains
+
+# History
+
+

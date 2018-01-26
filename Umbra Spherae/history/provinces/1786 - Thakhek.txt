@@ -1,0 +1,21 @@
+# 1155 - Thakhek
+
+# County Title
+title = c_thakhek
+
+# Settlements
+max_settlements = 3
+b_xiangliab = castle
+b_thakhek = city
+b_ban_nahouangoua = temple
+#b_chout_song =
+#b_houay_aek =
+#b_mai_nam_pakan =
+#b_nong_hoi =
+#b_ban_nadon =
+
+# Misc
+culture = lao
+religion = buddhist
+
+# History

@@ -1,0 +1,21 @@
+# 1236 - Bau-Bau
+
+# County Title
+title = c_bau_bau
+
+# Settlements
+max_settlements = 3
+b_batauga = tribal
+b_bau_bau = tribal
+#b_sampolawa =
+#b_pasarwajo =
+#b_lasalimu =
+#b_kapontori =
+#b_bonegunu =
+#b_wakorumba =
+
+# Misc
+culture = bugi
+religion = sulawesi_religion
+
+# History

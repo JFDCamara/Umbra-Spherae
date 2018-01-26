@@ -1,0 +1,23 @@
+# 1640 - Loh
+
+# County Title
+title = c_loh
+
+# Settlements
+max_settlements = 4
+b_zjangxtangx = castle
+b_lohzjeng = city
+b_dungte = city
+#b_triangxcix =
+#b_ghokruan =
+#b_siangyan =
+#b_lezjeng =
+#b_zjep =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

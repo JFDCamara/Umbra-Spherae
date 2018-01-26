@@ -1,0 +1,21 @@
+# 1076 - Nakhon Si Thammarat
+
+# County Title
+title = c_nakhon_si_thammarat
+
+# Settlements
+max_settlements = 2
+b_pak_phanang = castle
+b_nakhon_si_thammarat = city
+#b_tha_sala =
+#b_ron_phibun =
+#b_cha_uat =
+#b_thung_song =
+#b_huai_yot =
+#b_trang =
+
+# Misc
+culture = malay
+religion = buddhist
+
+# History

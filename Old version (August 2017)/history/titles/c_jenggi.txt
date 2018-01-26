@@ -1,0 +1,64 @@
+#Atururi Dynasty (placeholders)
+750.1.1={
+	holder=1000205101 #Dakrebon
+}
+780.1.1={
+	holder=1000205102 #Gumion
+}
+810.1.1={
+	holder=1000205103 #Limbat
+}
+840.1.1={
+	holder=1000201712 #Abutan
+}
+870.1.1={
+	holder=1000201713 #Losung
+}
+900.1.1={
+	holder=1000201714 #Tongkeles
+}
+930.1.1={
+	holder=1000201715 #Kupon
+}
+960.1.1={
+	holder=1000201716 #Kaawoan
+}
+990.1.1={
+	holder=1000201717 #Gigir
+}
+1020.1.1={
+	holder=1000201718 #Damongilala
+}
+1050.1.1={
+	holder=1000076150 #Suak
+}
+1080.1.1={
+	holder=1000201719 #Talumewo
+}
+1110.1.1={
+	holder=1000201720 #Politon
+}
+1140.1.1={
+	holder=1000201721 #Opit
+}
+1170.1.1={
+	holder=1000201722 #Seke
+}
+1200.1.1={
+	holder=1000201723 #Weol
+}
+1230.1.1={
+	holder=1000201724 #Purukan
+}
+1260.1.1={
+	holder=1000201725 #Makarawung
+}
+1290.1.1={
+	holder=1000201726 #Makarawis
+}
+1320.1.1={
+	holder=1000201727 #Kowaas
+}
+1350.1.1={
+	holder=1000201728 #Pinaria
+}

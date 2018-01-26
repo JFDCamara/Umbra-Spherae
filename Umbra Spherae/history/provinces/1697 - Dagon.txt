@@ -1,0 +1,21 @@
+# 1065 - Dagon
+
+# County Title
+title = c_dagon
+
+# Settlements
+max_settlements = 5
+b_siriam = castle
+b_dagon = city
+b_gwa_ywa = temple
+#b_banbwegon =
+#b_kyauktan =
+#b_bawkalut =
+#b_mibya =
+#b_zweba_kondan =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

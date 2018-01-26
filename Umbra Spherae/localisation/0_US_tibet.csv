@@ -1,95 +1,9 @@
-e_tibetan_empire;Tibet;Tibet;Tibet;;Tibet;;;;;;;;;x
-e_tibetan_empire_adj;Bodpa;Bodpa;Bodpa;;Bodpa;;;;;;;;;x
-k_tibet;Yarlung;Yarlung;Yarlung;;Yarlung;;;;;;;;;x
-k_tibet_adj;Yarlung;Yarlung;Yarlung;;Yarlung;;;;;;;;;x
-k_guge;Guge;Guge;Guge;;Guge;;;;;;;;;x
-k_guge_adj;Guge;Guge;Guge;;Guge;;;;;;;;;x
-k_dege;Dêgê;Dêgê;Dêgê;;Dêgê;;;;;;;;;x
-k_dege_adj;Dêgê;Dêgê;Dêgê;;Dêgê;;;;;;;;;x
-k_tuyuhun;Tuyuhun;Tuyuhun;Tuyuhun;;Tuyuhun;;;;;;;;;x
-k_tuyuhun_adj;Tuyuhun;Tuyuhun;Tuyuhun;;Tuyuhun;;;;;;;;;x
-k_lhomon;Lhomon;Lhomon;Lhomon;;Lhomon;;;;;;;;;x
-k_lhomon_adj;Lhomon;Lhomon;Lhomon;;Lhomon;;;;;;;;;x
-k_lo;Lo;Lo;Lo;;Lo;;;;;;;;;x
-k_lo_adj;Lo;Lo;Lo;;Lo;;;;;;;;;x
-k_yartse;Yartse;Yartse;Yartse;;Yartse;;;;;;;;;x
-k_yartse_adj;Yartse;Yartse;Yartse;;Yartse;;;;;;;;;x
-d_u;Ü;Ü;Ü;;Ü;;;;;;;;;x
-d_u_adj;Ü;Ü;Ü;;Ü;;;;;;;;;x
-d_tsang;Tsang;Tsang;Tsang;;Tsang;;;;;;;;;x
-d_tsang_adj;Tsang;Tsang;Tsang;;Tsang;;;;;;;;;x
-d_guge;Ngari;Ngari;Ngari;;Ngari;;;;;;;;;x
-d_guge_adj;Ngari;Ngari;Ngari;;Ngari;;;;;;;;;x
-d_samtho;Samtho;Samtho;Samtho;;Samtho;;;;;;;;;x
-d_samtho_adj;Samtho;Samtho;Samtho;;Samtho;;;;;;;;;x
-d_amdo;Amdo;Amdo;Amdo;;Amdo;;;;;;;;;x
-d_amdo_adj;Amdo;Amdo;Amdo;;Amdo;;;;;;;;;x
-d_kham;Kham;Kham;Kham;;Kham;;;;;;;;;x
-d_kham_adj;Kham;Kham;Kham;;Kham;;;;;;;;;x
-d_qinghai;Qinghai;Qinghai;Qinghai;;Qinghai;;;;;;;;;x
-d_qinghai_adj;Qinghai;Qinghai;Qinghai;;Qinghai;;;;;;;;;x
-d_bhutan;Bhutan;Bhutan;Bhutan;;Bhutan;;;;;;;;;x
-d_bhutan_adj;Bhutan;Bhutan;Bhutan;;Bhutan;;;;;;;;;x
 d_erma;Erma;Erma;Erma;;Erma;;;;;;;;;x
 d_erma_adj;Erma;Erma;Erma;;Erma;;;;;;;;;x
-d_sikkim;Sikkim;Sikkim;Sikkim;;Sikkim;;;;;;;;;x
-d_sikkim_adj;Sikkim;Sikkim;Sikkim;;Sikkim;;;;;;;;;x
-c_lhasa;Lhasa;Lhasa;Lhasa;;Lhasa;;;;;;;;;x
-c_lhasa_adj;Lhasa;Lhasa;Lhasa;;Lhasa;;;;;;;;;x
-c_gyantse;Gyantse;Gyantse;Gyantse;;Gyantse;;;;;;;;;x
-c_gyantse_adj;Gyantse;Gyantse;Gyantse;;Gyantse;;;;;;;;;x
-c_shigatse;Shigatse;Shigatse;Shigatse;;Shigatse;;;;;;;;;x
-c_shigatse_adj;Shigatse;Shigatse;Shigatse;;Shigatse;;;;;;;;;x
-c_sakya;Sakya;Sakya;Sakya;;Sakya;;;;;;;;;x
-c_sakya_adj;Sakya;Sakya;Sakya;;Sakya;;;;;;;;;x
-c_kyunglung;Kyunglung;Kyunglung;Kyunglung;;Kyunglung;;;;;;;;;x
-c_kyunglung_adj;Kyunglung;Kyunglung;Kyunglung;;Kyunglung;;;;;;;;;x
-c_purang;Purang;Purang;Purang;;Purang;;;;;;;;;x
-c_purang_adj;Purang;Purang;Purang;;Purang;;;;;;;;;x
-c_coqen;Coqen;Coqen;Coqen;;Coqen;;;;;;;;;x
-c_coqen_adj;Coqen;Coqen;Coqen;;Coqen;;;;;;;;;x
-c_tsaparang;Tsaparang;Tsaparang;Tsaparang;;Tsaparang;;;;;;;;;x
-c_tsaparang_adj;Tsaparang;Tsaparang;Tsaparang;;Tsaparang;;;;;;;;;x
-c_gar;Gar;Gar;Gar;;Gar;;;;;;;;;x
-c_gar_adj;Gar;Gar;Gar;;Gar;;;;;;;;;x
-c_rutog;Rutog;Rutog;Rutog;;Rutog;;;;;;;;;x
-c_rutog_adj;Rutog;Rutog;Rutog;;Rutog;;;;;;;;;x
-c_amdo;Amdo;Amdo;Amdo;;Amdo;;;;;;;;;x
-c_amdo_adj;Amdo;Amdo;Amdo;;Amdo;;;;;;;;;x
-c_nagchu;Nagchu;Nagchu;Nagchu;;Nagchu;;;;;;;;;x
-c_nagchu_adj;Nagchu;Nagchu;Nagchu;;Nagchu;;;;;;;;;x
-c_nyima;Nyima;Nyima;Nyima;;Nyima;;;;;;;;;x
-c_nyima_adj;Nyima;Nyima;Nyima;;Nyima;;;;;;;;;x
-c_qamdo;Qamdo;Qamdo;Qamdo;;Qamdo;;;;;;;;;x
-c_qamdo_adj;Qamdo;Qamdo;Qamdo;;Qamdo;;;;;;;;;x
-c_nyingchi;Nyingchi;Nyingchi;Nyingchi;;Nyingchi;;;;;;;;;x
-c_nyingchi_adj;Nyingchi;Nyingchi;Nyingchi;;Nyingchi;;;;;;;;;x
 c_dartsedo;Dartsedo;Dartsedo;Dartsedo;;Dartsedo;;;;;;;;;x
 c_dartsedo_adj;Dartsedo;Dartsedo;Dartsedo;;Dartsedo;;;;;;;;;x
-c_markam;Markam;Markam;Markam;;Markam;;;;;;;;;x
-c_markam_adj;Markam;Markam;Markam;;Markam;;;;;;;;;x
-c_jyekundo;Jyekundo;Jyekundo;Jyekundo;;Jyekundo;;;;;;;;;x
-c_jyekundo_adj;Jyekundo;Jyekundo;Jyekundo;;Jyekundo;;;;;;;;;x
-c_fuqi;Fuqi;Fuqi;Fuqi;;Fuqi;;;;;;;;;x
-c_fuqi_adj;Fuqi;Fuqi;Fuqi;;Fuqi;;;;;;;;;x
-c_maqen;Maqên;Maqên;Maqên;;Maqên;;;;;;;;;x
-c_maqen_adj;Maqên;Maqên;Maqên;;Maqên;;;;;;;;;x
 c_baima;Baima;Baima;Baima;;Baima;;;;;;;;;x
 c_baima_adj;Baima;Baima;Baima;;Baima;;;;;;;;;x
-c_bumthang;Bumthang;Bumthang;Bumthang;;Bumthang;;;;;;;;;x
-c_bumthang_adj;Bumthang;Bumthang;Bumthang;;Bumthang;;;;;;;;;x
-c_paro;Paro;Paro;Paro;;Paro;;;;;;;;;x
-c_paro_adj;Paro;Paro;Paro;;Paro;;;;;;;;;x
-c_manthang;Manthang;Manthang;Manthang;;Manthang;;;;;;;;;x
-c_manthang_adj;Manthang;Manthang;Manthang;;Manthang;;;;;;;;;x
-c_suqutra;Suqutra;Suqutra;Suqutra;;Suqutra;;;;;;;;;x
-c_suqutra_adj;Suqutra;Suqutra;Suqutra;;Suqutra;;;;;;;;;x
-c_taktse;Taktsé;Taktsé;Taktsé;;Taktsé;;;;;;;;;x
-c_taktse_adj;Taktsé;Taktsé;Taktsé;;Taktsé;;;;;;;;;x
-c_gerze;Gêrzê;Gêrzê;Gêrzê;;Gêrzê;;;;;;;;;x
-c_gerze_adj;Gêrzê;Gêrzê;Gêrzê;;Gêrzê;;;;;;;;;x
-c_dege;Kandzê;Kandzê;Kandzê;;Kandzê;;;;;;;;;x
-c_dege_adj;Kandzê;Kandzê;Kandzê;;Kandzê;;;;;;;;;x
 c_diexi;Diexi;Diexi;Diexi;;Diexi;;;;;;;;;x
 c_diexi_adj;Diexi;Diexi;Diexi;;Diexi;;;;;;;;;x
 c_dzoi;Dzoi;Dzoi;Dzoi;;Dzoi;;;;;;;;;x
@@ -98,56 +12,6 @@ c_ngawa;Ngawa;Ngawa;Ngawa;;Ngawa;;;;;;;;;x
 c_ngawa_adj;Ngawa;Ngawa;Ngawa;;Ngawa;;;;;;;;;x
 c_sungqu;Sungqu;Sungqu;Sungqu;;Sungqu;;;;;;;;;x
 c_sungqu_adj;Sungqu;Sungqu;Sungqu;;Sungqu;;;;;;;;;x
-c_nagormo;Nagormo;Nagormo;Nagormo;;Nagormo;;;;;;;;;x
-c_nagormo_adj;Nagormo;Nagormo;Nagormo;;Nagormo;;;;;;;;;x
-c_xining;Xining;Xining;Xining;;Xining;;;;;;;;;x
-c_xining_adj;Xining;Xining;Xining;;Xining;;;;;;;;;x
-c_denzong;Denzong;Denzong;Denzong;;Denzong;;;;;;;;;x
-c_denzong_adj;Denzong;Denzong;Denzong;;Denzong;;;;;;;;;x
-temple_emperor_bodpa;Dalai Lama;Dalai Lama;Dalai Lama;;Dalai Lama;;;;;;;;;x
-temple_king_bodpa;Panchen Lama;Panchen Lama;Panchen Lama;;Panchen Lama;;;;;;;;;x
-temple_duke_bodpa;Tai Situpa;Tai Situpa;Tai Situpa;;Tai Situpa;;;;;;;;;x
-temple_count_bodpa;Trizin;Trizin;Trizin;;Trizin;;;;;;;;;x
-temple_baron_bodpa;Lama;Lama;Lama;;Lama;;;;;;;;;x
-temple_baron_title_ruler_consort_female_bodpa;Bdag-mo;Bdag-mo;Bdag-mo;;Bdag-mo;;;;;;;;;x
-city_baron_bodpa;Dpon-po;Dpon-po;Dpon-po;;Dpon-po;;;;;;;;;x
-city_baron_female_bodpa;Dpon-mo;Dpon-mo;Dpon-mo;;Dpon-mo;;;;;;;;;x
-emperor_bodpa;Tsenpo;Tsenpo;Tsenpo;;Tsenpo;;;;;;;;;x
-emperor_female_bodpa;Tsenmo;Tsenmo;Tsenmo;;Tsenmo;;;;;;;;x;
-empire_of_bodpa;Tsen of;Tsen of;Tsen of;;Tsen of;;;;;;;;;x
-temple_empire_of_bodpa;Khang of;Khang of;Khang of;;Khang of;;;;;;;;;x
-king_bodpa;Tsenpo;Tsenpo;Tsenpo;;Tsenpo;;;;;;;;;x
-king_female_bodpa;Tsenmo;Tsenmo;Tsenmo;;Tsenmo;;;;;;;;x;
-kingdom_of_bodpa;Tsen of;Tsen of;Tsen of;;Tsen of;;;;;;;;;x
-temple_kingdom_of_bodpa;Khang of;Khang of;Khang of;;Khang of;;;;;;;;;x
-duke_bodpa;rJe;rJe;rJe;;rJe;;;;;;;;;x
-duke_female_bodpa;Khri bTsun;Khri bTsun;Khri bTsun;;Khri bTsun;;;;;;;;;x
-duchy_of_bodpa;Mnga' Sde of;Mnga' Sde of;Mnga' Sde of;;Mnga' Sde of;;;;;;;;;x
-temple_duchy_of_bodpa;Pho-dgon of;Pho-dgon of;Pho-dgon of;;Pho-dgon of;;;;;;;;;x
-count_bodpa;Rgyal-po;Rgyal-po;Rgyal-po;;Rgyal-po;;;;;;;;;x
-count_female_bodpa;Rgyal-mo;Rgyal-mo;Rgyal-mo;;Rgyal-mo;;;;;;;;;x
-county_of_bodpa;Sa-Khul of;Sa-Khul of;Sa-Khul of;;Sa-Khul of;;;;;;;;;x
-temple_county_of_bodpa;Gönba of;Gönba of;Gönba of;;Gönba of;;;;;;;;;x
-baron_bodpa;Bdag-po;Bdag-po;Bdag-po;;Bdag-po;;;;;;;;;x
-baron_female_bodpa;Bdag-mo;Bdag-mo;Bdag-mo;;Bdag-mo;;;;;;;;;x
-barony_of_bodpa;Mkhar of;Mkhar of;Mkhar of;;Mkhar of;;;;;;;;;x
-temple_barony_of_bodpa;Ling of;Ling of;Ling of;;Ling of;;;;;;;;;x
-city_barony_of_bodpa;Grongkhyer of;Grongkhyer of;Grongkhyer of;;Grongkhyer of;;;;;;;;;x
-title_regent_bodpa;Kalön;Kalön;Kalön;;Kalön;;;;;;;;;x
-title_ruler_consort_bodpa;Tsenpo;Tsenpo;Tsenpo;;Tsenpo;;;;;;;;;x
-title_ruler_consort_female_bodpa;Tsenmo;Tsenmo;Tsenmo;;Tsenmo;;;;;;;;x;
-baron_title_ruler_consort_bodpa;Bdag-po;Bdag-po;Bdag-po;;Bdag-po;;;;;;;;;x
-baron_title_ruler_consort_female_bodpa;Bdag-mo;Bdag-mo;Bdag-mo;;Bdag-mo;;;;;;;;;x
-count_title_ruler_consort_bodpa;Rgyal-po;Rgyal-po;Rgyal-po;;Rgyal-po;;;;;;;;;x
-count_title_ruler_consort_female_bodpa;Rgyal-mo;Rgyal-mo;Rgyal-mo;;Rgyal-mo;;;;;;;;;x
-duke_title_ruler_consort_bodpa;rJe;rJe;rJe;;rJe;;;;;;;;;x
-duke_title_ruler_consort_female_bodpa;Khri bTsun;Khri bTsun;Khri bTsun;;Khri bTsun;;;;;;;;;x
-emperor_title_ruler_consort_bodpa;Tsenpo;Tsenpo;Tsenpo;;Tsenpo;;;;;;;;;x
-emperor_title_ruler_consort_female_bodpa;Tsenmo;Tsenmo;Tsenmo;;Tsenmo;;;;;;;;x;
-title_queen_mother_bodpa;Tsen-ama;Tsen-ama;Tsen-ama;;Tsen-ama;;;;;;;;;x
-emperor_title_queen_mother_female_bodpa;Tsen-ama;Tsen-ama;Tsen-ama;;Tsen-ama;;;;;;;;;x
-title_prince_bodpa;Lhase;Lhase;Lhase;;Lhase;;;;;;;;;x
-title_prince_female_bodpa;Kungco;Kungco;Kungco;;Kungco;;;;;;;;;x
 b_lhasa;Lhasa;Lhasa;Lhasa;;Lhasa;;;;;;;;;x
 b_samye;Samye;Samye;Samye;;Samye;;;;;;;;;x
 b_jokhang;Jokhang;Jokhang;Jokhang;;Jokhang;;;;;;;;;x
@@ -342,7 +206,7 @@ b_weizhou;Weizhou;Weizhou;Weizhou;;Weizhou;;;;;;;;;x
 b_fengyi;Fengyi;Fengyi;Fengyi;;Fengyi;;;;;;;;;x
 b_nanxin;Nanxin;Nanxin;Nanxin;;Nanxin;;;;;;;;;x
 b_xuankou;Xuankou;Xuankou;Xuankou;;Xuankou;;;;;;;;;x
-b_maqu;Maqu;Maqu;Maqu;;Maqu;;;;;;;;;x
+b_maqu_dzoi;Maqu;Maqu;Maqu;;Maqu;;;;;;;;;x
 b_luqu;Luqu;Luqu;Luqu;;Luqu;;;;;;;;;x
 b_jone;Jonê;Jonê;Jonê;;Jonê;;;;;;;;;x
 b_tewo;Têwo;Têwo;Têwo;;Têwo;;;;;;;;;x

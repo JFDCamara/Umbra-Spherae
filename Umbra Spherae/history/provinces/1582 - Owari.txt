@@ -1,0 +1,22 @@
+# 1841 - Owari
+
+# County Title
+title = c_owari
+
+# Settlements
+max_settlements = 5
+b_kasugabe = castle
+b_atsuta = temple
+b_nukata = castle
+
+#b_aichi = castle
+#b_niwa = castle
+#b_kaibe = castle
+#b_chita = castle
+#b_atsumi = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

@@ -1,0 +1,23 @@
+# 1201 - Lamuri
+
+# County Title
+title = c_lamuri
+
+# Settlements
+max_settlements = 6
+b_baitussalam = castle
+b_lamuri = city
+b_mesjid_raya = temple
+b_seulimeum = city
+#b_suka_makmur =
+#b_ingin_jaya =
+#b_darul_kamal =
+#b_lhoong =
+
+# Misc
+culture = samudran
+religion = hindu
+
+# History
+
+1267.1.1={ religion = sunni }

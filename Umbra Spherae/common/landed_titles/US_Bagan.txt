@@ -3,7 +3,7 @@ e_bagan = {
     	color= { 123 216 251 }
     	color2= { 255 255 255 }
 
-	capital = 1577 #Bagan
+	capital = 1694 #Bagan
 
 	k_bagan = {
 
@@ -12,14 +12,14 @@ e_bagan = {
 
 		culture = bamar
 
-		capital = 1577 #Bagan
+		capital = 1694 #Bagan
 
 		d_bagan = {
 
     			color= { 136 251 234 }
 	    		color2= { 255 255 255 }
 
-			capital = 1577 #Bagan
+			capital = 1694 #Bagan
 
 			c_bagan = {
 
@@ -137,7 +137,7 @@ e_bagan = {
     			color= { 138 159 251 }
     			color2= { 255 255 255 }
 
-			capital = 1575 #Vaisali
+			capital = 1692 #Vaisali
 
 			c_waithali = {
 
@@ -211,7 +211,7 @@ e_bagan = {
     			color= { 138 249 166 }
     			color2= { 255 255 255 }
 
-			capital = 1631 #Tagaung
+			capital = 1748 #Tagaung
 
 			c_tagaung = {
 
@@ -285,7 +285,7 @@ e_bagan = {
     			color= { 155 193 232 }
     			color2= { 255 255 255 }
 
-			capital = 1635 #Yawnghwe
+			capital = 1752 #Yawnghwe
 
 			c_yawnghwe = {
 
@@ -384,14 +384,14 @@ e_bagan = {
 
 		culture = mon
 
-		capital = 1579 #Pegu
+		capital = 1696 #Pegu
 
 		d_pegu = {
 
     			color= { 115 162 148  }
     			color2= { 255 255 255 }
 
-			capital = 1579 #Pegu
+			capital = 1696 #Pegu
 
 			c_pegu = {
 
@@ -487,7 +487,7 @@ e_bagan = {
     			color= { 112 176 100  }
     			color2= { 255 255 255 }
 
-			capital = 1637 #Taungoo
+			capital = 1754 #Taungoo
 
 			c_taungoo = {
 
@@ -561,7 +561,7 @@ e_bagan = {
     			color= { 89 187 138  }
     			color2= { 255 255 255 }
 
-			capital = 1581 #Martaban
+			capital = 1698 #Martaban
 
 			c_martaban = {
 
@@ -648,7 +648,7 @@ e_bagan = {
 				}
 				b_tamok = {
 				}
-				b_kanbyin = {
+				b_kanbyin_mergui = {
 				}
 			}
 		}
@@ -683,7 +683,7 @@ d_binnaka = {
 	color= { 157 155 200  }
 	color2= { 255 255 255 }
 
-	capital = 1578 #Kyaukse
+	capital = 1695 #Kyaukse
 
 }
 
@@ -692,7 +692,7 @@ d_halin = {
 	color= { 126 211 86  }
 	color2= { 255 255 255 }
 
-	capital = 1576 #Khampat
+	capital = 1693 #Khampat
 
 }
 
@@ -701,7 +701,7 @@ d_tagaung = {
 	color= { 60 140 57  }
 	color2= { 255 255 255 }
 
-	capital = 1631 #Tagaung
+	capital = 1748 #Tagaung
 
 }
 
@@ -710,7 +710,7 @@ d_maingmaw = {
 	color= { 228 253 130  }
 	color2= { 255 255 255 }
 
-	capital = 1635 #Yawnghwe
+	capital = 1752 #Yawnghwe
 
 }
 
@@ -719,7 +719,7 @@ d_beikthano = {
 	color= { 197 131 187  }
 	color2= { 255 255 255 }
 
-	capital = 1630 #Minbu
+	capital = 1747 #Minbu
 
 }
 
@@ -728,7 +728,7 @@ d_sri_ksetra = {
 	color= { 228 166 50  }
 	color2= { 255 255 255 }
 
-	capital = 1629 #Prome
+	capital = 1746 #Prome
 
 }
 
@@ -740,6 +740,6 @@ d_dagon = {
 	color= { 168 179 198  }
 	color2= { 255 255 255 }
 
-	capital = 1580 #Dagon
+	capital = 1697 #Dagon
 
 }

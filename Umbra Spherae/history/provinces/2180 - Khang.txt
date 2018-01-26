@@ -1,0 +1,21 @@
+# 1500 - Khang
+
+# County Title
+title = c_khang
+
+# Settlements
+max_settlements = 5
+b_tuankhe = castle
+b_srungsjyix = city
+b_tozjeng = city
+b_lyungmuxmieuh = temple
+#b_jyetzjeng =
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

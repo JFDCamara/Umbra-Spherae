@@ -1,0 +1,107 @@
+#Thaton Dynasty
+760.1.1 = {
+	liege="k_thaton"
+}
+760.1.1 = {
+	holder=1000080327 #Ottama-Yaza
+}
+787.1.1 = {
+	holder=1000080326 #Thiri-Yaza
+}
+814.1.1 = {
+	holder=1000080325 #Dhamma-Yaza
+}
+841.1.1 = {
+	holder=1000080324 #Maha-Seitta-Yaza
+}
+868.1.1 = {
+	holder=1000080323 #Ganda-Yaza
+}
+895.1.1 = {
+	holder=1000080322 #Zeya-Yaza
+}
+922.1.1 = {
+	holder=1000080321 #Thumana-Yaza
+}
+949.1.1 = {
+	holder=1000080320 #Maddaka-Yaza
+}
+976.1.1 = {
+	holder=1000080319 #Aminna-Yaza
+}
+1003.1.1 = {
+	holder=1000080318 #Uddina-Yaza
+}
+1030.1.1 = {
+	holder=1000080317 #Manuha
+}
+
+#Mergui Dynasty (placeholders)
+1057.1.1={
+	liege="d_martaban"
+}
+1057.1.1={
+	holder=1000202266 #Vasudeva
+}
+1080.1.1={
+	holder=1000202267 #Kambala
+}
+1110.1.1={
+	holder=1000202268 #Trabaka
+}
+1140.1.1={
+	holder=1000202269 #Yuvaraja
+}
+1170.1.1={
+	holder=1000202270 #Mukasaraja
+}
+1200.1.1={
+	holder=1000202271 #Jettharaja
+}
+1230.1.1={
+	holder=1000202272 #Dittaraja
+}
+1260.1.1={
+	holder=1000202273 #Tvannaraja
+}
+
+#Bagan Dynasty (restored again)
+1279.1.1 = {
+	liege="e_bagan"
+}
+1279.1.1 = {
+	holder=1000080189 #Sithu IV
+}
+
+#Wareru Dynasty
+1287.4.4 = {
+	liege="k_pegu"
+}
+1287.4.4 = {
+	holder=1000080307 #Wareru
+}
+1307.1.1 = {
+	holder=1000080308 #Hkun-Law
+}
+1311.4.10 = {
+	holder=1000080309 #Saw-O
+}
+1323.9.1 = {
+	holder=1000080311 #Saw-Zein
+}
+
+#Zein Pun Dynasty
+1330.4.1 = {
+	holder=1000080312 #Zein-Pun
+}
+
+#Wareru Dynasty (restored)
+1330.4.7 = {
+	holder=1000080313 #Saw-E
+}
+1330.5.1 = {
+	holder=1000080314 #Binnya-E-Law
+}
+1348.1.1 = {
+	holder=1000080315 #Binnya-U
+}

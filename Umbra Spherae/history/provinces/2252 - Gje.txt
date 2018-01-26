@@ -1,0 +1,24 @@
+# 1615 - Gje
+
+# County Title
+title = c_gje
+
+# Settlements
+max_settlements = 4
+b_thenhing = castle
+b_gjesren = city
+b_pauxke = city
+#b_kruak =
+#b_mii_gje =
+#b_byopiung =
+#b_hauxcjix =
+#b_triucjit =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

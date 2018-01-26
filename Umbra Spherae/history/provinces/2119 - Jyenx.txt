@@ -1,0 +1,22 @@
+# 1420 - Jyenx
+
+# County Title
+title = c_jyenx
+
+# Settlements
+max_settlements = 4
+b_ghra = castle
+b_khyukbiux = temple
+b_daih = temple
+#b_criu =
+#b_siihsjyix =
+#b_kyung =
+#b_laimyo = 
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

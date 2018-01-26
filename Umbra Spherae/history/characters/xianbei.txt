@@ -2,7 +2,7 @@
 	name="Yesui"
 	female=yes
 	dynasty=1000027361 #Mùróng
-	religion="mahayana"
+	religion="buddhist"
 	culture="khitan"
 	father=1000077303 # Fúyûn
 	mother=1000077306
@@ -18,7 +18,7 @@
 	name="Asha Mangmorje"
 	female=yes
 	dynasty=1000027361 #Mùróng
-	religion="mahayana"
+	religion="buddhist"
 	culture="khitan"
 	father=1000077304 # Shùn
 	630.1.1={
@@ -289,7 +289,7 @@
 1000077304 = {
 	name="Shùn"
 	dynasty=1000027361 #Mùróng
-	religion="mahayana"
+	religion="buddhist"
 	culture="khitan"
 	father=1000077303
 	mother=1000077306
@@ -304,7 +304,7 @@
 1000077305 = {
 	name="Nuòhébö"
 	dynasty=1000027361 #Mùróng
-	religion="mahayana"
+	religion="buddhist"
 	culture="khitan"
 	father=1000077304
 	620.1.1={
@@ -322,7 +322,7 @@
 	name="Guanghua"
 	female=yes
 	dynasty=1000027376 #Yáng
-	religion="mahayana"
+	religion="buddhist"
 	culture="han"
 	add_trait=fair
 	580.1.1={
@@ -337,7 +337,7 @@
 	name="Honghua"
 	female=yes
 	dynasty=1000027362 #Li
-	religion="mahayana"
+	religion="buddhist"
 	culture="han"
 	#father=# Jiancheng
 	622.1.1={
@@ -352,7 +352,7 @@
 	name="Mei"
 	female=yes
 	dynasty=1000027377 #Jinming
-	religion="mahayana"
+	religion="buddhist"
 	culture="han"
 	642.1.1={
 		birth="642.1.1"
@@ -366,7 +366,7 @@
 	name="Lien-hua"
 	female=yes
 	dynasty=1000027377 #Jinming
-	religion="mahayana"
+	religion="buddhist"
 	culture="han"
 	647.1.1={
 		birth="647.1.1"
@@ -379,7 +379,7 @@
 1000077310 = {
 	name="Sudumomo"
 	dynasty=1000027361 #Mùróng
-	religion="mahayana"
+	religion="buddhist"
 	culture="khitan"
 	father=1000077305
 	mother=1000077307
@@ -397,7 +397,7 @@
 1000077311 = {
 	name="Talumomo"
 	dynasty=1000027361 #Mùróng
-	religion="mahayana"
+	religion="buddhist"
 	culture="khitan"
 	father=1000077305
 	mother=1000077307
@@ -418,7 +418,7 @@
 1000077312 = {
 	name="Zhong"
 	dynasty=1000027361 #Mùróng
-	religion="mahayana"
+	religion="buddhist"
 	culture="khitan"
 	father=1000077305
 	mother=1000077307

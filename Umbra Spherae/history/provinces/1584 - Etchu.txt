@@ -1,0 +1,22 @@
+# 1843 - Etchu
+
+# County Title
+title = c_etchu
+
+# Settlements
+max_settlements = 4
+b_fushiki = castle
+b_tateyama = temple
+b_hannyano = castle
+
+#b_niikawa = castle
+#b_imizu = castle
+#b_nei = castle
+#b_tonami = castle
+#b_hojozu = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

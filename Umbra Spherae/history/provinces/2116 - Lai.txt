@@ -1,0 +1,23 @@
+# 1417 - Lai
+
+# County Title
+title = c_lai
+
+# Settlements
+max_settlements = 4
+b_jek = castle
+b_laijang = city
+b_kraisjyix = city
+b_lausrentadchiengkiung = temple
+#b_cikmok =
+#b_haixchang =
+#b_cjeuyanx =
+#b_jephiung = 
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

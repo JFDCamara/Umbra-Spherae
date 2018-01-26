@@ -1,0 +1,24 @@
+# 1538 - Zjin
+
+# County Title
+title = c_zjin
+
+# Settlements
+max_settlements = 5
+b_ngyanling = castle
+b_pauxzsjynh = castle
+b_pauxziengx = castle
+#b_zjinkhe =
+#b_lokhe =
+#b_zsioxphox =
+#b_yengxzsjynh =
+#b_ghraxkhe =
+
+
+# Misc
+culture = hmong
+religion = ua_dab
+
+# History
+
+

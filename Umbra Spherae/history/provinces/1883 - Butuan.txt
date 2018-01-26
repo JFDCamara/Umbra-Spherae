@@ -1,0 +1,21 @@
+# 1252 - Butuan
+
+# County Title
+title = c_butuan
+
+# Settlements
+max_settlements = 4
+b_cabadbaran = castle
+b_butuan = city
+b_tubay = temple
+#b_jabonga =
+#b_kitcharao =
+#b_mainit =
+#b_tubod =
+#b_malimono =
+
+# Misc
+culture = cebuan
+religion = hindu
+
+# History

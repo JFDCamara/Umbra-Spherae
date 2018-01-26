@@ -1,0 +1,22 @@
+# 1551 - That
+
+# County Title
+title = c_that
+
+# Settlements
+max_settlements = 3
+b_thungchjyen = castle
+b_sinneng = city
+#b_pragio =
+#b_yengxmiuk =
+#b_tunghiang =
+#b_thungmieng =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

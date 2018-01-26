@@ -1,0 +1,21 @@
+# 1623 - Lan
+
+# County Title
+title = c_lan
+
+# Settlements
+max_settlements = 3
+b_lyungku = castle
+b_kaulan = castle
+#b_lanzyen = city
+#b_kimzjengkruan = castle
+#b_kiengngyukkruan = castle
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

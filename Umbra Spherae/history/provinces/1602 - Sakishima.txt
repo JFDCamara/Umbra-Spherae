@@ -1,0 +1,22 @@
+# 1336 - Sakishima
+
+# County Title
+title = c_sakishima
+
+# Settlements
+max_settlements = 4
+b_ishigaki = castle
+b_yonaguni = castle
+
+#b_irabu = castle
+#b_miyako = castle
+#b_yaeyama = castle
+#b_ikema = castle
+#b_tarama = castle
+#b_iriomote = castle
+
+# Misc
+culture = ryukyuan
+religion = ryukyu_shinto
+
+# History

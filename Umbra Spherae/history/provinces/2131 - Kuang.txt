@@ -1,0 +1,25 @@
+# 1438 - Kuang
+
+# County Title
+title = c_kuang
+
+# Settlements
+max_settlements = 4
+b_denghzjeng = castle
+b_kuangsren = city
+b_yangmuxkuanh = temple
+#b_sienki =
+#b_kohsjix =
+#b_sjangzjeng =
+#b_cjyokau =
+#b_zjengkizsih =
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+#1127.1.9 = {
+#	b_denghzjeng = castle
+#}

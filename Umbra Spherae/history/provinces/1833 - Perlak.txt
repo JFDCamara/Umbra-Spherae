@@ -1,0 +1,23 @@
+# 1202 - Perlak
+
+# County Title
+title = c_perlak
+
+# Settlements
+max_settlements = 5
+b_banda_alam = castle
+b_perlak = city
+b_peudawa = temple
+#b_darul_aman =
+#b_nurussalam =
+#b_idi_rayeuk =
+#b_sungai_raya =
+#b_rantau_selamat =
+
+# Misc
+culture = samudran
+religion = hindu
+
+# History
+650.1.1={ religion = shiite }
+986.1.1={ religion = sunni }

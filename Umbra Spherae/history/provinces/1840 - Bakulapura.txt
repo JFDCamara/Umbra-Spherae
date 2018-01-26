@@ -1,0 +1,21 @@
+# 1209 - Bakulapura
+
+# County Title
+title = c_bakulapura
+
+# Settlements
+max_settlements = 4
+b_pangkalabun = tribal
+b_bakulapura = tribal
+b_kumai = tribal
+#b_telagapulang =
+#b_sukamara =
+#b_kotawaringin =
+#b_tapinbini =
+#b_kudangan =
+
+# Misc
+culture = banjar
+religion = bornean_religion
+
+# History

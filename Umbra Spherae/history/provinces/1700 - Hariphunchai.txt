@@ -1,0 +1,21 @@
+# 1069 - Hariphunchai
+
+# County Title
+title = c_hariphunchai
+
+# Settlements
+max_settlements = 5
+b_pa_sang = castle
+b_hariphunchai = city
+b_san_pa_tong = temple
+b_hang_dong = castle
+#b_saraphi =
+#b_ban_thi =
+#b_mae_tha =
+#b_doi_lo =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

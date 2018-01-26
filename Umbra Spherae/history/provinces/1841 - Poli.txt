@@ -1,0 +1,21 @@
+# 1210 - Poli
+
+# County Title
+title = c_po_li
+
+# Settlements
+max_settlements = 5
+b_limbang = castle
+b_po_li = city
+b_miri = temple
+b_marudi = city
+#b_lawas =
+#b_labuan =
+#b_bangar =
+#b_siritang =
+
+# Misc
+culture = dayak
+religion = bornean_religion
+
+# History

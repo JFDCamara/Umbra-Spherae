@@ -1,0 +1,24 @@
+# 1541 - Siang
+
+# County Title
+title = c_siang
+
+# Settlements
+max_settlements = 6
+b_siangjang = castle
+b_ngiezjeng = city
+b_nomcjang = city
+b_lukmuonzsih = temple
+b_kukzjeng = city
+#b_triunglo =
+#b_donghzjeng =
+#b_gientok =
+
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

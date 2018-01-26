@@ -1,0 +1,24 @@
+# 1466 - Chjoh
+
+# County Title
+title = c_chjoh
+
+# Settlements
+max_settlements = 5
+b_lehsjyix = castle
+b_zsyungjang = city
+b_lyungzyen = city
+b_zsyihchjang = city
+#b_chengden =
+#b_cinhyon = 
+#b_kiuxlyung =
+#b_ghodrin =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

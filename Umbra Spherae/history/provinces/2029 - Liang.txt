@@ -1,0 +1,16 @@
+# 1773 - Liang
+
+# County Title
+title = c_ghraxliang
+
+# Settlements
+max_settlements = 5
+b_zsjino = castle
+b_kocang = city
+b_kralin = city
+b_phyanghua = castle
+b_chjangzsyung = city
+
+# Misc
+culture = tangut
+religion = buddhist

@@ -1,0 +1,21 @@
+# 1206 - Sambas
+
+# County Title
+title = c_sambas
+
+# Settlements
+max_settlements = 2
+b_sejangkung = tribal
+b_sambas = tribal
+#b_sekura =
+#b_sentebang =
+#b_pemangkat =
+#b_selakau =
+#b_kaliau =
+#b_tebas =
+
+# Misc
+culture = dayak
+religion = bornean_religion
+
+# History

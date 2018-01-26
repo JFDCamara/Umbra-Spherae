@@ -1,0 +1,24 @@
+# 1619 - Yoih
+
+# County Title
+title = c_yoih
+
+# Settlements
+max_settlements = 4
+b_bjenliang = castle
+b_phuanngyan = city
+b_tokzsjynh = castle
+b_zriungsinh = city
+#b_yoihghruadeng =
+#b_yoihanhruah =
+#b_lyungxkan = castle
+#b_liungtok = castle
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

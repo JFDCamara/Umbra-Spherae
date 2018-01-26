@@ -1,0 +1,23 @@
+# 1421 - Ngioi
+
+# County Title
+title = c_ngioi
+
+# Settlements
+max_settlements = 4
+b_limngioi = castle
+b_ngioisjyix = city
+b_sinthad = city
+#b_piih =
+#b_zjing =
+#b_maujang = 
+#b_liihzjeng =
+#b_lanling = 
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

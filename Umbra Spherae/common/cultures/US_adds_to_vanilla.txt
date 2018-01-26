@@ -4,9 +4,11 @@
 
 #added aragonese to iberian - not done yet
 
-#added coptic to byzantine
-#added syriac to byzantine
+#added coptic to byzantine  - not done yet
+#added syriac to byzantine - not done yet
 #added omotic to east african
 #added oromo to east african
 
-#added khaskura, nepali, garhwali and kashmiri to indo_aryan
+#added bai to chinese
+
+#added mohe to altaic

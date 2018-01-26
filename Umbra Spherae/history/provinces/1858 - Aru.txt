@@ -1,0 +1,21 @@
+# 1227 - Aru
+
+# County Title
+title = c_aru
+
+# Settlements
+max_settlements = 4
+b_binjai = castle
+b_aru = city
+b_hamparan_perak = temple
+#b_perbaungan =
+#b_tebing_tinggi =
+#b_raya_kahean =
+#b_sei_bingai =
+#b_batang_serangan =
+
+# Misc
+culture = samudran
+religion = hindu
+
+# History

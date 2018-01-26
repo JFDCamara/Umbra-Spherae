@@ -1,0 +1,22 @@
+# 1492 - Zjeu
+
+# County Title
+title = c_zjeu
+
+# Settlements
+max_settlements = 4
+b_khyukkrung = castle
+b_nomghruazsih = temple
+#b_ungngyan =
+#b_kianhpiuk =
+#b_njinhruah =
+#b_lakchjang =
+
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

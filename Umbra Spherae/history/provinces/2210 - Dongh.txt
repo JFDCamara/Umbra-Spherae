@@ -1,0 +1,24 @@
+# 1545 - Dongh
+
+# County Title
+title = c_dongh
+
+# Settlements
+max_settlements = 4
+b_njang = castle
+b_ghuenmjeuhkuanh = temple
+b_johsrenzsih = temple #buddhist
+#b_nomjang =
+#b_zsjynhjang =
+#b_nuaihhiang =
+#b_sekchjyen =
+#b_myoxghuzsi = temple #confucian
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

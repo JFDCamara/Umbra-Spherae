@@ -1,0 +1,20 @@
+# 1626 - Zinghuang
+
+# County Title
+title = c_zinghuang
+
+# Settlements
+max_settlements = 4
+b_mrukchjyen = castle
+b_anlyungx = castle
+b_nengthau = castle
+b_syiyanxkruan = castle
+
+
+# Misc
+culture = tangut
+religion = shenjiao
+
+# History
+
+

@@ -1,0 +1,13 @@
+#Ngapudaw Dynasty (Placeholders)
+750.1.1 = {
+	holder=1000203927 #Thamala
+}
+780.1.1 = {
+	holder=1000203928 #Karawika
+}
+810.1.1 = {
+	holder=1000203929 #Anuyama
+}
+825.1.1 = {
+	holder=0
+}

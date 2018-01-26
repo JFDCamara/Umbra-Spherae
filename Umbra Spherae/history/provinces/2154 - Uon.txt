@@ -1,0 +1,24 @@
+# 1465 - Uon
+
+# County Title
+title = c_uon
+
+# Settlements
+max_settlements = 6
+b_yengxkra = castle
+b_lakchieng = city
+b_bjenjang = city
+b_jyungzjengdungh = temple
+#b_zjyehan = 
+#b_liuxzjix =
+#b_zenlyn = 
+#b_nesren =
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

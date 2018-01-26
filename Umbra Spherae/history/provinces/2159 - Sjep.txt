@@ -1,0 +1,23 @@
+# 1471 - Sjep
+
+# County Title
+title = c_sjep
+
+# Settlements
+max_settlements = 4
+b_sjep = castle
+b_cekkhe = city
+b_qiyun = temple
+#b_liuneng =
+#b_jii =
+#b_cjiix =
+#b_myohngyan =
+#b_chienghruah =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

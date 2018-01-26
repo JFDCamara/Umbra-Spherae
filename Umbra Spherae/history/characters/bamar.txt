@@ -1945,7 +1945,7 @@
 1000203912 = {
 	name="Thuye"
 	dynasty=1000078081 #Halin
-	religion="buddhist"
+	religion=nat
 	culture="bamar"
 	720.1.1={
 		birth="720.1.1"
@@ -1958,7 +1958,7 @@
 1000203913 = {
 	name="Khan-Lat"
 	dynasty=1000078081 #Halin
-	religion="buddhist"
+	religion=nat
 	culture="bamar"
 	father=1000203912
 	750.1.1={
@@ -1972,7 +1972,7 @@
 1000203914 = {
 	name="Htun-Taik"
 	dynasty=1000078081 #Halin
-	religion="buddhist"
+	religion=nat
 	culture="bamar"
 	father=1000203913
 	780.1.1={
@@ -1988,7 +1988,7 @@
 1000203915 = {
 	name="Wara"
 	dynasty=1000078082 #Tagaung
-	religion="buddhist"
+	religion=nat
 	culture="bamar"
 	720.1.1={
 		birth="720.1.1"
@@ -2001,7 +2001,7 @@
 1000203916 = {
 	name="Munika"
 	dynasty=1000078082 #Tagaung
-	religion="buddhist"
+	religion=nat
 	culture="bamar"
 	father=1000203915
 	750.1.1={
@@ -2015,7 +2015,7 @@
 1000203917 = {
 	name="Dewata"
 	dynasty=1000078082 #Tagaung
-	religion="buddhist"
+	religion=nat
 	culture="bamar"
 	father=1000203916
 	780.1.1={
@@ -2031,7 +2031,7 @@
 1000203918 = {
 	name="Einda"
 	dynasty=1000078083 #Maingmaw
-	religion="buddhist"
+	religion=nat
 	culture="bamar"
 	720.1.1={
 		birth="720.1.1"
@@ -2044,7 +2044,7 @@
 1000203919 = {
 	name="Thamuti"
 	dynasty=1000078083 #Maingmaw
-	religion="buddhist"
+	religion=nat
 	culture="bamar"
 	father=1000203918
 	750.1.1={
@@ -2058,7 +2058,7 @@
 1000203920 = {
 	name="Maheindra"
 	dynasty=1000078083 #Maingmaw
-	religion="buddhist"
+	religion=nat
 	culture="bamar"
 	father=1000203919
 	780.1.1={

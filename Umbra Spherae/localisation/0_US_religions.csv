@@ -1,5 +1,4 @@
 celide;Céli Dé;Céli Dé;Céli Dé;;Céli Dé;;;;;;;;;x
-buddhist;Theravada;Theravada;Theravada;;Theravada;;;;;;;;;x
 arian;Arian;Arian;Arian;;Arriano;;;;;;;;;x
 hussite;Hussite;Hussite;Hussitischen;;Husita;;;;;;;;;x
 sufi;Sufi;Sufi;Sufi;;Sufi;;;;;;;;;x
@@ -37,11 +36,10 @@ shangqing;Shangqing Dào (Supreme Clarity Taoist);Shangqing Dào (Taoïste Clarté S
 confucian;Rújiä (Confucian);Rújiä (Confucéenne);Rújiä (Konfuzianer);;Rújiä (Confuciano);;;;;;;;;x
 shingyo;Shingyo;Shingyo;Schingyo;;Singyo;;;;;;;;;x
 nihon_shinto;Shinto;Shinto;Schinto;;Sinto;;;;;;;;;x
-nihon_shinto_DESC;Shinto means the way of the gods. Shintoism is an Ancient religion of Japan. It started at least as long ago as 1000 B.C.E. but is still practiced today by at least five million people. The followers of Shintoism believe that spiritual powers exist in the natural world.;;;;;;;;;;;;x
+nihon_shinto_DESC;Shinto means the way of the gods. Shintoism is an Ancient religion of Japan. It started at least as long ago as 1000 B.C.E. but is still practiced today by at least five million people. The followers of Shintoism believe that spiritual powers exist in the natural world.;;;;;;;;;;;;x;
 ainu_pantheism;Old Katunkamuy;Old Katunkamuï;Old Katunkamui;;Old Katunkamuí;;;;;;;;;x
 ainu_pantheism_reformed;Katunkamuy;Katunkamuï;Katunkamui;;Katunkamuí;;;;;;;;;x
 ryukyu_shinto;Koshinto;Koshinto;Koschinto;;Kosinto;;;;;;;;;x
-bon;Bön;Bön;Bön;;Bön;;;;;;;;;x
 melanesian_religion;Imunu;Imunu;Imunu;;Imunu;;;;;;;;;x
 taiwanese_religion;Inibs;Inibs;Inibs;;Inibs;;;;;;;;;x
 philippine_religion;Anito;Anito;Anito;;Anito;;;;;;;;;x
@@ -89,3 +87,46 @@ pontic_pagan;Pontic;Pontic;Pontic;Pontic;Pontic;;;;;;;;;x
 pontic_pagan_reformed;Reformed Pontic;Reformed Pontic;Reformed Pontic;Reformed Pontic;Reformed Pontic;;;;;;;;;x
 serer_pagan;Fat Rog;Fat Rog;Fat Rog;Fat Rog;Fat Rog;;;;;;;;;x
 serer_pagan_reformed;Reformed Fat Rog;Reformed Fat Rog;Reformed Fat Rog;Reformed Fat Rog;Reformed Fat Rog;;;;;;;;;x
+nat;Nat;Nat;Nat;Nat;Nat;;;;;;;;;x
+nat_DESC;Bamar-Pyu folk religion;Bamar-Pyu folk religion;Bamar-Pyu folk religion;Bamar-Pyu folk religion;Bamar-Pyu folk religion;;;;;;;;;x
+sastsana_phi;Sastsana Phi;Sastsana Phi;Sastsana Phi;Sastsana Phi;Sastsana Phi;;;;;;;;;x
+sastsana_phi_DESC;Tai folk religion;Tai folk religion;Tai folk religion;Tai folk religion;Tai folk religion;;;;;;;;;x
+rmagao;Rmagao;Rmagao;Rmagao;Rmagao;Rmagao;;;;;;;;;x
+rmagao_DESC;Qiang folk religion;Qiang folk religion;Qiang folk religion;Qiang folk religion;Qiang folk religion;;;;;;;;;x
+shenjiao;Shenjiao;Shenjiao;Shenjiao;Shenjiao;Shenjiao;;;;;;;;;x
+shenjiao_DESC;Chinese folk religion;Chinese folk religion;Chinese folk religion;Chinese folk religion;Chinese folk religion;;;;;;;;;x
+benzhujiao;Benzhujiao;Benzhujiao;Benzhujiao;Benzhujiao;Benzhujiao;;;;;;;;;x
+benzhujiao_DESC;Bai folk religion;Bai folk religion;Bai folk religion;Bai folk religion;Bai folk religion;;;;;;;;;x
+bimojiao;Bimojiao;Bimojiao;Bimojiao;Bimojiao;Bimojiao;;;;;;;;;x
+bimojiao_DESC;Yi(Lolo) folk religion;Yi(Lolo) folk religion;Yi(Lolo) folk religion;Yi(Lolo) folk religion;Yi(Lolo) folk religion;;;;;;;;;x
+ua_dab;Ua Dab;Ua Dab;Ua Dab;Ua Dab;Ua Dab;;;;;;;;;x
+ua_dab_DESC;Miao-Hmong folk religion;Miao-Hmong folk religion;Miao-Hmong folk religion;Miao-Hmong folk religion;Miao-Hmong folk religion;;;;;;;;;x
+nugyauq;Nugyauq;Nugyauq;Nugyauq;Nugyauq;Nugyauq;;;;;;;;;x
+nugyauq_DESC;Zhuang folk religion;Zhuang folk religion;Zhuang folk religion;Zhuang folk religion;Zhuang folk religion;;;;;;;;;x
+thangiao;Thangiao;Thangiao;Thangiao;Thangiao;Thangiao;;;;;;;;;x
+thangiao_DESC;Viet folk religion;Viet folk religion;Viet folk religion;Viet folk religion;Viet folk religion;;;;;;;;;x
+shingyo_DESC;Korean folk religion;Korean folk religion;Korean folk religion;Korean folk religion;Korean folk religion;;;;;;;;;x
+ryukyu_shinto_DESC;Ryukyu Shinto;Ryukyu Shinto;Ryukyu Shinto;Ryukyu Shinto;Ryukyu Shinto;;;;;;;;;x
+confucian_DESC;Confucian;Confucian;Confucian;Confucian;Confucian;;;;;;;;;x
+ainu_pantheism_DESC;Ainu Pantheism;Ainu Pantheism;Ainu Pantheism;Ainu Pantheism;Ainu Pantheism;;;;;;;;;x
+melanesian_religion_DESC;Papuan folk religion;Papuan folk religion;Papuan folk religion;Papuan folk religion;Papuan folk religion;;;;;;;;;x
+taiwanese_religion_DESC;Taiwanese folk religion;Taiwanese folk religion;Taiwanese folk religion;Taiwanese folk religion;Taiwanese folk religion;;;;;;;;;x
+philippine_religion_DESC;Ma-i-an folk religion;Ma-i-an folk religion;Ma-i-an folk religion;Ma-i-an folk religion;Ma-i-an folk religion;;;;;;;;;x
+bornean_religion_DESC;Tanjungpuran folk religion;Tanjungpuran folk religion;Tanjungpuran folk religion;Tanjungpuran folk religion;Tanjungpuran folk religion;;;;;;;;;x
+sulawesi_religion_DESC;Sakasanusan folk religion;Sakasanusan folk religion;Sakasanusan folk religion;Sakasanusan folk religion;Sakasanusan folk religion;;;;;;;;;x
+flores_religion_DESC;Larantukan folk religion;Larantukan folk religion;Larantukan folk religion;Larantukan folk religion;Larantukan folk religion;;;;;;;;;x
+java_religion_DESC;Javan folk religion;Javan folk religion;Javan folk religion;Javan folk religion;Javan folk religion;;;;;;;;;x
+sumatran_religion_DESC;Sumatran folk religion;Sumatran folk religion;Sumatran folk religion;Sumatran folk religion;Sumatran folk religion;;;;;;;;;x
+malagasy_religion_DESC;Malagasy folk religion;Malagasy folk religion;Malagasy folk religion;Malagasy folk religion;Malagasy folk religion;;;;;;;;;x
+jurchen_pagan_DESC;Jurchen shamanism;Jurchen shamanism;Jurchen shamanism;Jurchen shamanism;Jurchen shamanism;;;;;;;;;x
+jurchen_pagan_reformed_DESC;Reformed Jurchen shamanism;Reformed Jurchen shamanism;Reformed Jurchen shamanism;Reformed Jurchen shamanism;Reformed Jurchen shamanism;;;;;;;;;x
+ainu_pantheism_reformed_DESC;Reformed Ainu Pantheism;Reformed Ainu Pantheism;Reformed Ainu Pantheism;Reformed Ainu Pantheism;Reformed Ainu Pantheism;;;;;;;;;x
+melanesian_religion_reformed_DESC;Reformed Papuan folk religion;Reformed Papuan folk religion;Reformed Papuan folk religion;Reformed Papuan folk religion;Reformed Papuan folk religion;;;;;;;;;x
+taiwanese_religion_reformed_DESC;Reformed Taiwanese folk religion;Reformed Taiwanese folk religion;Reformed Taiwanese folk religion;Reformed Taiwanese folk religion;Reformed Taiwanese folk religion;;;;;;;;;x
+philippine_religion_reformed_DESC;Reformed Ma-i-an folk religion;Reformed Ma-i-an folk religion;Reformed Ma-i-an folk religion;Reformed Ma-i-an folk religion;Reformed Ma-i-an folk religion;;;;;;;;;x
+bornean_religion_reformed_DESC;Reformed Tanjungpuran folk religion;Reformed Tanjungpuran folk religion;Reformed Tanjungpuran folk religion;Reformed Tanjungpuran folk religion;Reformed Tanjungpuran folk religion;;;;;;;;;x
+sulawesi_religion_reformed_DESC;Reformed Sakasanusan folk religion;Reformed Sakasanusan folk religion;Reformed Sakasanusan folk religion;Reformed Sakasanusan folk religion;Reformed Sakasanusan folk religion;;;;;;;;;x
+flores_religion_reformed_DESC;Reformed Larantukan folk religion;Reformed Larantukan folk religion;Reformed Larantukan folk religion;Reformed Larantukan folk religion;Reformed Larantukan folk religion;;;;;;;;;x
+java_religion_reformed_DESC;Reformed Javan folk religion;Reformed Javan folk religion;Reformed Javan folk religion;Reformed Javan folk religion;Reformed Javan folk religion;;;;;;;;;x
+sumatran_religion_reformed_DESC;Reformed Sumatran folk religion;Reformed Sumatran folk religion;Reformed Sumatran folk religion;Reformed Sumatran folk religion;Reformed Sumatran folk religion;;;;;;;;;x
+malagasy_religion_reformed_DESC;Reformed Malagasy folk religion;Reformed Malagasy folk religion;Reformed Malagasy folk religion;Reformed Malagasy folk religion;Reformed Malagasy folk religion;;;;;;;;;x

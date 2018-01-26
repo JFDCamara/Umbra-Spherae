@@ -1,0 +1,102 @@
+#Nayoan Dynasty (placeholders)
+750.1.1={
+	holder=1000205074 #Mongkau
+}
+780.1.1={
+	holder=1000205075 #Suak
+}
+810.1.1={
+	holder=1000205076 #Rolangon
+}
+840.1.1={
+	holder=1000080828 #Wuntu
+}
+870.1.1={
+	holder=1000080829 #Mailoor
+}
+900.1.1={
+	holder=1000080830 #Rempas
+}
+930.1.1={
+	holder=1000080831 #Korua
+}
+960.1.1={
+	holder=1000080832 #Sengkey
+}
+990.1.1={
+	holder=1000080833 #Potu
+}
+1020.1.1={
+	holder=1000080834 #Tarandung
+}
+1050.1.1={
+	holder=1000076141 #Liando
+}
+1080.1.1={
+	holder=1000080835 #Timpal
+}
+1110.1.1={
+	holder=1000080836 #Pinantik
+}
+1140.1.1={
+	holder=1000080837 #Paila
+}
+1170.1.1={
+	holder=1000080838 #Limbong
+}
+1200.1.1={
+	holder=1000080839 #Aling
+}
+1230.1.1={
+	holder=1000080840 #Mamuntu
+}
+
+#Ternate Dynasty
+1257.1.1={
+	liege="d_ternate"
+}
+1257.1.1={
+	holder=1000080746 #Tsuka
+}
+1277.1.1={
+	holder=1000080752 #Jamin-Qadrat
+}
+1284.1.1={
+	holder=1000080760 #Siale
+}
+1298.1.1={
+	holder=1000080761 #Kalabata
+}
+1304.1.1={
+	holder=1000080763 #Komala
+}
+1317.1.1={
+	holder=1000080762 #Aitsi
+}
+1322.1.1={
+	holder=1000080765 #Aija
+}
+1331.1.1={
+	holder=1000080766 #Aali
+}
+1332.1.1={
+	holder=1000080773 #Shah-Alam
+}
+1343.1.1={
+	holder=1000080774 #Fulu
+}
+1347.1.1={
+	holder=1000080781 #Buhayati I
+}
+1350.1.1={
+	holder=1000080782 #Ngoloma-Kaya
+}
+1357.1.1={
+	holder=1000080776 #Momole
+}
+1359.1.1={
+	holder=1000080777 #Gapi-Malamo
+}
+1372.1.1={
+	holder=1000080778 #Gapi-Baguna
+}

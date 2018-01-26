@@ -3,13 +3,13 @@ e_tenem_lamit = {
     	color= { 95 179 21  }
     	color2= { 255 255 255 }
 
-	capital = 2178 # Paiwan
+	capital = 2295 # Paiwan
 
 	k_taiwan = {
 		color={ 34 183 55 }
 		color2={ 255 255 255 }
 		
-		capital = 1614 # Middag (Hoanya)
+		capital = 1731 # Middag (Hoanya)
 		
 		#culture_group = taiwanese
 
@@ -20,7 +20,7 @@ e_tenem_lamit = {
 			color={ 25 191 131 }
 			color2={ 255 255 255 }
 			
-			capital = 1614 # Middag (Hoanya)
+			capital = 1731 # Middag (Hoanya)
 
 			culture = middag
 		
@@ -152,7 +152,7 @@ e_tenem_lamit = {
 			color={ 36 169 155 }
 			color2={ 255 255 255 }
 			
-			capital = 1781 # Kilai (Puyuma)
+			capital = 1898 # Kilai (Puyuma)
 
 			culture = kilai
 		
@@ -288,14 +288,14 @@ e_tenem_lamit = {
    		color= { 247 167 2 }
     		color2= { 0 0 0  }
 
-		capital = 1771 #Maidh
+		capital = 1888 #Maidh
 
 		d_maidh = {
 
    			color= { 243 184 5 }
     			color2= { 0 0 0  }
 
-			capital = 1771 #Maidh
+			capital = 1888 #Maidh
 
 			c_maidh = {
 
@@ -341,7 +341,7 @@ e_tenem_lamit = {
 				}
 				b_culion = {
 				}
-				b_coron = {
+				b_coron_palawan = {
 				}
 			}
 		}
@@ -350,7 +350,7 @@ e_tenem_lamit = {
    			color= { 241 119 7 }
     			color2= { 0 0 0  }
 
-			capital = 1767 #Tondo
+			capital = 1884 #Tondo
 
 			c_tondo = {
 
@@ -392,7 +392,7 @@ e_tenem_lamit = {
 				}
 				b_labo = {
 				}
-				b_naga = {
+				b_naga_maysapan = {
 				}
 				b_legazpi = {
 				}
@@ -449,7 +449,7 @@ e_tenem_lamit = {
 	   		color= { 233 140 16 }
 	    		color2= { 0 0 0  }
 
-			capital = 1769 #Aklan
+			capital = 1886 #Aklan
 
 			c_aklan = {
 
@@ -526,7 +526,7 @@ e_tenem_lamit = {
    			color= { 239 205 10 }
     			color2= { 0 0 0  }
 
-			capital = 1766 #Butuan
+			capital = 1883 #Butuan
 
 			c_butuan = {
 
@@ -603,7 +603,7 @@ e_tenem_lamit = {
    			color= { 213 129 36 }
     			color2= { 0 0 0  }
 
-			capital = 1745 #Jolo
+			capital = 1862 #Jolo
 
 			c_jolo = {
 
@@ -661,7 +661,7 @@ d_tondo = {
 	color= { 251 119 7 }
 	color2= { 0 0 0  }
 
-	capital = 1767 #Tondo
+	capital = 1884 #Tondo
 }
 
 d_namayan = {
@@ -669,7 +669,7 @@ d_namayan = {
 	color= { 241 129 7 }
 	color2= { 0 0 0  }
 
-	capital = 1768 #Maysapan
+	capital = 1885 #Maysapan
 }
 
 d_madyaas = {
@@ -677,7 +677,7 @@ d_madyaas = {
 	color= { 243 140 16 }
 	color2= { 0 0 0  }
 
-	capital = 1769 #Aklan
+	capital = 1886 #Aklan
 }
 
 d_butuan = {
@@ -685,5 +685,5 @@ d_butuan = {
 	color= { 249 205 10 }
 	color2= { 0 0 0  }
 
-	capital = 1766 #Butuan
+	capital = 1883 #Butuan
 }

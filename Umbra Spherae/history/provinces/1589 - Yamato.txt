@@ -1,0 +1,22 @@
+# 1926 - Yamato
+
+# County Title
+title = c_yamato
+
+# Settlements
+max_settlements = 4
+b_kofukuji = temple
+b_todaiji = temple
+b_katsuragi = castle
+
+#b_yoshino = castle
+#b_toichi = castle
+#b_takaichi = castle
+#b_uda_yamato = castle
+#b_yamabe = castle
+
+# Misc
+culture = japanese
+religion = buddhist
+
+# History

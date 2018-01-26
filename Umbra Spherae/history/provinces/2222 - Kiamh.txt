@@ -1,0 +1,23 @@
+# 1567 - Kiamh
+
+# County Title
+title = c_kiamh
+
+# Settlements
+max_settlements = 4
+b_phoxan = castle
+b_kiamhmuon = city
+b_myoxlien = city
+#b_phoxzjeng =
+#b_cixdung =
+#b_imbjen =
+#b_limcin =
+#b_kiamhkak =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+
