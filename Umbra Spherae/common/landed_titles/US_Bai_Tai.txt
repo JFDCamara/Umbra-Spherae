@@ -39,6 +39,11 @@ e_bai_tai = {
 				b_yonlyung = {
 				}
 				b_phimx = {
+					holy_site = nat
+					holy_site = rmagao
+					holy_site = benzhujiao
+					holy_site = bimojiao
+					holy_site = ua_dab
 				}
 				b_brakngie = {
 				}
@@ -101,6 +106,11 @@ e_bai_tai = {
 				b_mukgyi = {
 				}
 				b_gyungbox = {
+					holy_site = sastsana_phi
+					holy_site = rmagao
+					holy_site = bimojiao
+					holy_site = ua_dab
+					holy_site = nugyauq
 				}
 				b_lioghonh = {
 				}
@@ -505,6 +515,11 @@ e_bai_tai = {
 				b_ban_saeo = {
 				}
 				b_chiang_saen = {
+					holy_site = nat
+					holy_site = sastsana_phi
+					holy_site = benzhujiao
+					holy_site = nugyauq
+					holy_site = thangiao
 				}
 				b_mae_chan = {
 				}

@@ -739,18 +739,6 @@
 	}
 }
 
-100084006 = {
-	name="Yesi"
-	dynasty=1000027806 #Dong
-	religion="shingyo"
-	culture="korean"
-	1050.1.1={
-		birth=yes
-	}
-	1078.1.1={
-		death=yes
-	}
-}
 
 100084005 = {
 	name="Muggyeong"
@@ -778,31 +766,6 @@
 	}
 }
 
-100084008 = {
-	name="Aung"
-	dynasty=1000027808 #Cheong
-	religion="shingyo"
-	culture="korean"
-	1050.1.1={
-		birth=yes
-	}
-	1078.1.1={
-		death=yes
-	}
-}
-
-100084009 = {
-	name="Gong"
-	dynasty=1000027809 #Chi
-	religion="shingyo"
-	culture="korean"
-	1050.1.1={
-		birth=yes
-	}
-	1078.1.1={
-		death=yes
-	}
-}
 
 100084010 = {
 	name="Won"
@@ -817,31 +780,7 @@
 	}
 }
 
-100084011 = {
-	name="Uiri"
-	dynasty=1000027811 #Jeon
-	religion="shingyo"
-	culture="korean"
-	1050.1.1={
-		birth=yes
-	}
-	1078.1.1={
-		death=yes
-	}
-}
 
-100084012 = {
-	name="Wei"
-	dynasty=1000027812 #Sung
-	religion="shingyo"
-	culture="korean"
-	1050.1.1={
-		birth=yes
-	}
-	1078.1.1={
-		death=yes
-	}
-}
 
 100084013 = {
 	name="Bang"

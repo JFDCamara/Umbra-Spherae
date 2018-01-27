@@ -1,6 +1,7 @@
 #Chinese Empire
 750.1.1 = {
 	holder = 244001
+	liege = e_china
 }
 840.1.1 = {
 	holder = 166765

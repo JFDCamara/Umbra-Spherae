@@ -1,6 +1,6 @@
 #Arnaz Dynasty (placeholders)
 750.1.1={
-	law = true_cognatic_succession
+	law = enatic_succession
 }
 750.1.1={
 	liege="d_pariaman"

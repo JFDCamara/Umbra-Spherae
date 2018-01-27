@@ -6,36 +6,36 @@ int main() {
     int i=0, j=0, k=0, l=0, m=0, ast=0, spa=0, a=0, b=0;
     
     const char *names[20];
-    names[0]="Akar-Bale";
-    names[1]="Bora-Dale";
-    names[2]="Akar-Bale";
-    names[3]="Bora-Dale";
-    names[4]="Akar-Bale";
-    names[5]="Bora-Dale";
-    names[6]="Akar-Bale";
-    names[7]="Bora-Dale";
-    names[8]="Akar-Bale";
-    names[9]="Bora-Dale";
-    names[10]="Akar-Bale";
-    names[11]="Bora-Dale";
-    names[12]="Akar-Bale";
-    names[13]="Bora-Dale";
-    names[14]="Akar-Bale";
-    names[15]="Bora-Dale";
-    names[16]="Akar-Bale";
-    names[17]="Bora-Dale";
-    names[18]="Akar-Bale";
-    names[19]="Bora-Dale";
-    names[20]="Fini-Bale";
+    names[0]="Haæu";
+    names[1]="Diku";
+    names[2]="Abulang";
+    names[3]="Moliye";
+    names[4]="Kunuma";
+    names[5]="Yawuta";
+    names[6]="Ahai";
+    names[7]="Ilungha";
+    names[8]="Dili";
+    names[9]="Beilu";
+    names[10]="Andahai";
+    names[11]="Wulie";
+    names[12]="Iji";
+    names[13]="Alihemen";
+    names[14]="Guantu";
+    names[15]="Eiyeku";
+    names[16]="Yingge";
+    names[17]="Ahaibaifu";
+    names[18]="Ningjiasu";
+    names[19]="Hulijia";
+    names[20]="Agu";
     
-    int initial_char_number = 1000203960;
+    int initial_char_number = 1000076386;
     int initial_date = 720;
     int final_date = 1320;
-    int dynasty_number = 1000028316;
+    int dynasty_number = 1000028274;
     
-    char dynasty[] = "Akar Bale";
-    char religion[] = "\"malagasy_religion\"";
-    char culture[] = "\"andamanese\"";
+    char dynasty[] = "#Gingciri";
+    char religion[] = "\"jurchen_pagan\"";
+    char culture[] = "\"mohe\"";
     
     //printf("%s", Dynasty);
 
@@ -121,7 +121,7 @@ int main() {
         fprintf(cs,"\t\tbirth=\"%i.1.1\"\n", a);
         fprintf(cs,"\t}\n");
         fprintf(cs,"\t%i.1.1={\n", a+60);
-        fprintf(cs,"\t\tbirth=\"%i.1.1\"\n", a+60);
+        fprintf(cs,"\t\tdeath=\"%i.1.1\"\n", a+60);
         fprintf(cs,"\t}\n");
         fprintf(cs,"}\n");
         fprintf(cs,"\n");

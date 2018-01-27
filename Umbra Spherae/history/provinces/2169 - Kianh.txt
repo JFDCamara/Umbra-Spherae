@@ -12,7 +12,7 @@ b_driunghiuhkuanh = temple
 #b_zriungan =
 #b_zsyungkhe =
 #b_kruanleh =
-#b_bozjeng =
+#b_bozjeng_kianh =
 
 
 # Misc

@@ -40919,8 +40919,8 @@ e_tibet = {
 			}
 			c_dartsedo = {
 
-    				color= { 176 120 198  }
-    				color2= { 194 140 86  }
+    				color= { 130 20 0  }
+    				color2= { 255 255 255  }
 
 				b_dartsedo = {
 				}
@@ -41142,6 +41142,11 @@ e_tibet = {
 				b_zhingda = {
 				}
 				b_kharnang = { #temple
+					holy_site = nat
+					holy_site = rmagao
+					holy_site = benzhujiao
+					holy_site = bimojiao
+					holy_site = ua_dab
 				}
 				b_jigzhi = {
 				}

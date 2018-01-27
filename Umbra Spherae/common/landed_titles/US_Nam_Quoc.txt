@@ -38,6 +38,11 @@ e_nam_quoc = {
 				b_hoang_liet = {
 				}
 				b_my_dinh = {
+					holy_site = nat
+					holy_site = sastsana_phi
+					holy_site = benzhujiao
+					holy_site = nugyauq
+					holy_site = thangiao
 				}
 				b_dong_ngac = {
 				}

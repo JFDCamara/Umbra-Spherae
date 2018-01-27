@@ -31,6 +31,11 @@ e_bagan = {
 				b_myingyan = {
 				}
 				b_pakokku = {
+					holy_site = nat
+					holy_site = sastsana_phi
+					holy_site = rmagao
+					holy_site = nugyauq
+					holy_site = thangiao
 				}
 				b_monywa = {
 				}

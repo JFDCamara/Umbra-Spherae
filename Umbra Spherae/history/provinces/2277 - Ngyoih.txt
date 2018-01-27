@@ -12,7 +12,7 @@ b_kuanhdau = city
 b_limchieng = city
 b_cuungzjeng = city
 #b_nuaihghuang =
-#b_zjengan =
+#b_zjengan_ngyoih =
 
 # Misc
 culture = han

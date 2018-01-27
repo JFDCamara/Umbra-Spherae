@@ -2,165 +2,68 @@
 653.1.1 = {
 	liege="k_dali"
 }
-653.1.1 = {
-	holder=1000080112 #Xinuluo
-}
-674.1.1 = {
-	holder=1000080113 #Luocheng
-}
-712.1.1 = {
-	holder=1000080114 #Shengluopi
-}
-728.1.1 = {
-	holder=1000080115 #Piluoge
-}
-748.1.1 = {
-	holder=1000080116 #Geluofeng
-}
-779.1.1 = {
-	holder=1000080118 #Yimouxun
-}
-808.1.1 = {
-	holder=1000080119 #Xungequan
-}
-809.1.1 = {
-	holder=1000080120 #Quanlongsheng
-}
-816.1.1 = {
-	holder=1000080121 #Quanlisheng
-}
-823.1.1 = {
-	holder=1000080122 #Fengyou
-}
-859.1.1 = {
-	holder=1000080123 #Shilong
-}
-877.1.1 = {
-	holder=1000080124 #Longshun
-}
-897.1.1 = {
-	holder=1000080125 #Shunhuazhen
-}
+##Chen Dynasty (Placeholders)
 
-#Da Changhe Dynasty
-902.1.1 = {
-	holder=1000080126 #Maisi
+750.1.1={
+	holder=1000076407 #Xilie
 }
-910.1.1 = {
-	holder=1000080127 #Renmin
+780.1.1={
+	holder=1000076408 #Liben
 }
-927.1.1 = {
-	holder=1000080128 #Longdan
+810.1.1={
+	holder=1000076409 #Guan
 }
-
-#Da Tianxing Dynasty
-928.1.1 = {
-	holder=1000080129 #Shanzheng
+840.1.1={
+	holder=1000076410 #Rangyi
 }
-
-#Da Yining Dynasty
-929.1.1 = {
-	holder=1000080130 #Ganzhen
+870.1.1={
+	holder=1000076411 #Kang
 }
-
-#Duan Dynasty
-937.1.1 = {
-	holder=1000080132 #Siping
+900.1.1={
+	holder=1000076412 #Qinwang
 }
-944.1.1 = {
-	holder=1000080133 #Siying
+930.1.1={
+	holder=1000076413 #Wuzi
 }
-945.1.1 = {
-	holder=1000080134 #Siliang
+960.1.1={
+	holder=1000076414 #Shifang
 }
-952.1.1 = {
-	holder=1000080135 #Sicong
+990.1.1={
+	holder=1000076415 #Chujun
 }
-969.1.1 = {
-	holder=1000080136 #Sushun
+1020.1.1={
+	holder=1000076416 #Zhihong
 }
-986.1.1 = {
-	holder=1000080137 #Suying
+1050.1.1={
+	holder=1000076417 #Shidao
 }
-1010.1.1 = {
-	holder=1000080138 #Sulian
+1080.1.1={
+	holder=1000076418 #Yixing
 }
-1023.1.1 = {
-	holder=1000080140 #Sulong
+1110.1.1={
+	holder=1000076419 #Xun
 }
-1026.1.1 = {
-	holder=1000080142 #Suzhen
+1140.1.1={
+	holder=1000076420 #Xinfu
 }
-1042.1.1 = {
-	holder=1000080144 #Suxing
+1170.1.1={
+	holder=1000076421 #Yun
 }
-1044.1.1 = {
-	holder=1000076442 #Silian
+1200.1.1={
+	holder=1000076422 #Sili
 }
-1075.1.1 = {
-	holder=1000080147 #Lianyi
+1230.1.1={
+	holder=1000076423 #Xiujing
 }
-1080.1.1 = {
-	holder=1000080149 #Shouhui
+1260.1.1={
+	holder=1000076424 #Yanbo
 }
-1081.1.1 = {
-	holder=1000080150 #Zhengming
+1290.1.1={
+	holder=1000076425 #Ting
 }
-
-#Da Zhong Dynasty
-1094.1.1 = {
-	holder=1000080159 #Shengtai
+1320.1.1={
+	holder=1000076426 #Yaoqin
 }
-
-#Duan Dynasty (restored)
-1096.1.1 = {
-	holder=1000080151 #Zhengchun
-}
-1108.1.1 = {
-	holder=1000080152 #Zhengyan
-}
-1147.1.1 = {
-	holder=1000080153 #Zhengxing
-}
-1172.1.1 = {
-	holder=1000080154 #Zhixing
-}
-1200.1.1 = {
-	holder=1000080155 #Zhilian
-}
-1205.1.1 = {
-	holder=1000080156 #Zhixiang
-}
-1239.1.1 = {
-	holder=1000080157 #Xiangxing
-}
-1251.1.1 = {
-	holder=1000080158 #Xingzhi
-}
-1260.1.1 = {
-	holder=1000080160 #Shi
-}
-1282.1.1 = {
-	holder=1000080161 #Zhong
-}
-1284.1.1 = {
-	holder=1000080162 #Qing
-}
-1307.1.1 = {
-	holder=1000080163 #Zheng
-}
-1317.1.1 = {
-	holder=1000080164 #Long
-}
-1328.1.1 = {
-	holder=1000080165 #Jun
-}
-1333.1.1 = {
-	holder=1000080167 #Yi
-}
-1334.1.1 = {
-	holder=1000080168 #Guang
-}
-1344.1.1 = {
-	holder=1000080169 #Gong
+1350.1.1={
+	holder=1000076427 #Sengru
 }

@@ -57,7 +57,7 @@
 	holder=1000203747 #Koarofuni
 }
 1308.1.1={
-	liege="e_china"
+	liege="k_mongolia"
 }
 1320.1.1={
 	holder=1000203748 #Abeshiyoshi

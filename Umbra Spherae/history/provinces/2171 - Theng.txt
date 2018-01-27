@@ -8,8 +8,8 @@ max_settlements = 3
 b_driungtheng = castle
 #b_zjanghghang =
 #b_myoxbjen =
-#b_nenghruah =
-#b_chiengliu =
+#b_nenghruah_theng =
+#b_chiengliu_theng =
 
 
 # Misc

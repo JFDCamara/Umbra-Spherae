@@ -5,7 +5,7 @@
 	name="Dache"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	812.1.1={
 		birth="842.1.1"
 	}
@@ -18,7 +18,7 @@
 	name="Chophel"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083018
 	842.1.1={
 		birth="842.1.1"
@@ -32,7 +32,7 @@
 	name="Chodrak"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083019
 	872.1.1={
 		birth="872.1.1"
@@ -46,7 +46,7 @@
 	name="Rinchen"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083020
 	902.1.1={
 		birth="902.1.1"
@@ -60,7 +60,7 @@
 	name="Kundun"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083021
 	932.1.1={
 		birth="932.1.1"
@@ -74,7 +74,7 @@
 	name="Cetan"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083022
 	962.1.1={
 		birth="962.1.1"
@@ -89,7 +89,7 @@
 	female=yes
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083023
 	992.1.1={
 		birth="992.1.1"
@@ -103,7 +103,7 @@
 	name="Dhargey"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	mother=1000083024
 	1022.1.1={
 		birth="1022.1.1"
@@ -120,7 +120,7 @@
 	name="Choejor"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083025
 	mother=1000083036
 	1052.1.1={
@@ -138,7 +138,7 @@
 	name="Dachen"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083026
 	mother=1000083037
 	1082.1.1={
@@ -157,7 +157,7 @@
 	female=yes
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083027
 	mother=1000083038
 	1112.1.1={
@@ -172,7 +172,7 @@
 	name="Gyaltso"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083039
 	mother=1000083028
 	1142.1.1={
@@ -190,7 +190,7 @@
 	name="Kipu"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083029
 	mother=1000083040
 	1172.1.1={
@@ -208,7 +208,7 @@
 	name="Pasang"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083030
 	mother=1000083041
 	1202.1.1={
@@ -226,7 +226,7 @@
 	name="Thokmay"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083031
 	mother=1000083042
 	1232.1.1={
@@ -244,7 +244,7 @@
 	name="Phuntsok"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083032
 	mother=1000083043
 	1262.1.1={
@@ -262,7 +262,7 @@
 	name="Kona"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083033
 	mother=1000083044
 	1292.1.1={
@@ -280,7 +280,7 @@
 	name="Lobsang"
 	dynasty=1000028339 #Baima
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083034
 	mother=1000083045
 	1322.1.1={
@@ -297,7 +297,7 @@
 	name="Zopa"
 	female=yes
 	religion="rmagao"
-	culture="tangut"
+	culture="qiang"
 	1022.1.1={
 		birth="1022.1.1"
 	}
@@ -310,7 +310,7 @@
 	name="Assam"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1052.1.1={
 		birth="1052.1.1"
 	}
@@ -323,7 +323,7 @@
 	name="Mida"
 	female=yes
 	religion="rmagao"
-	culture="tangut"
+	culture="qiang"
 	1082.1.1={
 		birth="1082.1.1"
 	}
@@ -335,7 +335,7 @@
 1000083039 = {
 	name="Rabten"
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1112.1.1={
 		birth="1112.1.1"
 	}
@@ -351,7 +351,7 @@
 	name="Chodrak"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1142.1.1={
 		birth="1142.1.1"
 	}
@@ -364,7 +364,7 @@
 	name="Chime"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1172.1.1={
 		birth="1172.1.1"
 	}
@@ -377,7 +377,7 @@
 	name="Dolma"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1202.1.1={
 		birth="1202.1.1"
 	}
@@ -390,7 +390,7 @@
 	name="Dohna"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1232.1.1={
 		birth="1232.1.1"
 	}
@@ -403,7 +403,7 @@
 	name="Chesa"
 	female=yes
 	religion="rmagao"
-	culture="tangut"
+	culture="qiang"
 	1262.1.1={
 		birth="1262.1.1"
 	}
@@ -416,7 +416,7 @@
 	name="Brag-srin-mo"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1292.1.1={
 		birth="1292.1.1"
 	}
@@ -431,7 +431,7 @@
 	name="Poso"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	812.1.1={
 		birth="842.1.1"
 	}
@@ -444,7 +444,7 @@
 	name="Gephel"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083074
 	842.1.1={
 		birth="842.1.1"
@@ -458,7 +458,7 @@
 	name="Lobsang"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083075
 	872.1.1={
 		birth="872.1.1"
@@ -472,7 +472,7 @@
 	name="Temba"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083076
 	902.1.1={
 		birth="902.1.1"
@@ -486,7 +486,7 @@
 	name="Thubten"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083077
 	932.1.1={
 		birth="932.1.1"
@@ -500,7 +500,7 @@
 	name="Jetsan"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083078
 	962.1.1={
 		birth="962.1.1"
@@ -514,7 +514,7 @@
 	name="Goba"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083079
 	992.1.1={
 		birth="992.1.1"
@@ -529,7 +529,7 @@
 	female=yes
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083080
 	1022.1.1={
 		birth="1022.1.1"
@@ -543,7 +543,7 @@
 	name="Dorjee"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083092
 	mother=1000083081
 	1052.1.1={
@@ -561,7 +561,7 @@
 	name="Dache"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083082
 	mother=1000083093
 	1082.1.1={
@@ -579,7 +579,7 @@
 	name="Akar"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083083
 	mother=1000083094
 	1112.1.1={
@@ -597,7 +597,7 @@
 	name="Daivika"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083084
 	mother=1000083095
 	1142.1.1={
@@ -615,7 +615,7 @@
 	name="Dampa"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083085
 	mother=1000083096
 	1172.1.1={
@@ -633,7 +633,7 @@
 	name="Nima"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083086
 	mother=1000083097
 	1202.1.1={
@@ -651,7 +651,7 @@
 	name="Norbu"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083087
 	mother=1000083098
 	1232.1.1={
@@ -670,7 +670,7 @@
 	female=yes
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083088
 	mother=1000083099
 	1262.1.1={
@@ -685,7 +685,7 @@
 	name="Thokmay"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083100
 	mother=1000083089
 	1292.1.1={
@@ -703,7 +703,7 @@
 	name="Nima"
 	dynasty=1000028341 #Dzoi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083090
 	mother=1000083101
 	1322.1.1={
@@ -719,7 +719,7 @@
 1000083092 = {
 	name="Lha-mo"
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1022.1.1={
 		birth="1022.1.1"
 	}
@@ -735,7 +735,7 @@
 	name="Rinchen"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1052.1.1={
 		birth="1052.1.1"
 	}
@@ -748,7 +748,7 @@
 	name="Rabten"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1082.1.1={
 		birth="1082.1.1"
 	}
@@ -761,7 +761,7 @@
 	name="Prajnaparamita"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1112.1.1={
 		birth="1112.1.1"
 	}
@@ -774,7 +774,7 @@
 	name="Lhamu"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1142.1.1={
 		birth="1142.1.1"
 	}
@@ -787,7 +787,7 @@
 	name="Ngodup"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1172.1.1={
 		birth="1172.1.1"
 	}
@@ -800,7 +800,7 @@
 	name="Somba"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1202.1.1={
 		birth="1202.1.1"
 	}
@@ -813,7 +813,7 @@
 	name="Sonam"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1232.1.1={
 		birth="1232.1.1"
 	}
@@ -825,7 +825,7 @@
 1000083100 = {
 	name="Yonten"
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1262.1.1={
 		birth="1262.1.1"
 	}
@@ -841,7 +841,7 @@
 	name="Yum-chen-mo"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1292.1.1={
 		birth="1292.1.1"
 	}
@@ -857,7 +857,7 @@
 	name="Lhak-pa"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	812.1.1={
 		birth="842.1.1"
 	}
@@ -870,7 +870,7 @@
 	name="Kipu"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083102
 	842.1.1={
 		birth="842.1.1"
@@ -885,7 +885,7 @@
 	female=yes
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083103
 	872.1.1={
 		birth="872.1.1"
@@ -900,7 +900,7 @@
 	female=yes
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	mother=1000083104
 	902.1.1={
 		birth="902.1.1"
@@ -915,7 +915,7 @@
 	female=yes
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	mother=1000083105
 	932.1.1={
 		birth="932.1.1"
@@ -929,7 +929,7 @@
 	name="Jampa"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	mother=1000083106
 	962.1.1={
 		birth="962.1.1"
@@ -943,7 +943,7 @@
 	name="Gyalwa"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083107
 	992.1.1={
 		birth="992.1.1"
@@ -957,7 +957,7 @@
 	name="Wangchuk"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083108
 	1022.1.1={
 		birth="1022.1.1"
@@ -974,7 +974,7 @@
 	name="Tsewang"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083109
 	mother=1000083120
 	1052.1.1={
@@ -992,7 +992,7 @@
 	name="Khandro"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083110
 	mother=1000083121
 	1082.1.1={
@@ -1010,7 +1010,7 @@
 	name="Kona"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083111
 	mother=1000083122
 	1112.1.1={
@@ -1028,7 +1028,7 @@
 	name="Chodrak"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083112
 	mother=1000083123
 	1142.1.1={
@@ -1046,7 +1046,7 @@
 	name="Champo"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083113
 	mother=1000083124
 	1172.1.1={
@@ -1064,7 +1064,7 @@
 	name="Pabu"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083114
 	mother=1000083125
 	1202.1.1={
@@ -1082,7 +1082,7 @@
 	name="Jetsan"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083115
 	mother=1000083126
 	1232.1.1={
@@ -1100,7 +1100,7 @@
 	name="Jalus"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083116
 	mother=1000083127
 	1262.1.1={
@@ -1118,7 +1118,7 @@
 	name="Kundun"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083117
 	mother=1000083128
 	1292.1.1={
@@ -1136,7 +1136,7 @@
 	name="Poso"
 	dynasty=1000028342 #Diexi
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083118
 	mother=1000083129
 	1322.1.1={
@@ -1153,7 +1153,7 @@
 	name="Nele"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1022.1.1={
 		birth="1022.1.1"
 	}
@@ -1166,7 +1166,7 @@
 	name="Sgeg-mo-ma"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1052.1.1={
 		birth="1052.1.1"
 	}
@@ -1179,7 +1179,7 @@
 	name="Sengemo"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1082.1.1={
 		birth="1082.1.1"
 	}
@@ -1192,7 +1192,7 @@
 	name="Dawa"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1112.1.1={
 		birth="1112.1.1"
 	}
@@ -1205,7 +1205,7 @@
 	name="Cimba"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1142.1.1={
 		birth="1142.1.1"
 	}
@@ -1218,7 +1218,7 @@
 	name="Assam"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1172.1.1={
 		birth="1172.1.1"
 	}
@@ -1231,7 +1231,7 @@
 	name="Bhasundara"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1202.1.1={
 		birth="1202.1.1"
 	}
@@ -1244,7 +1244,7 @@
 	name="Cepla"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1232.1.1={
 		birth="1232.1.1"
 	}
@@ -1257,7 +1257,7 @@
 	name="Nguntre"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1262.1.1={
 		birth="1262.1.1"
 	}
@@ -1270,7 +1270,7 @@
 	name="Zopa"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1292.1.1={
 		birth="1292.1.1"
 	}
@@ -1287,7 +1287,7 @@
 	female=yes
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	812.1.1={
 		birth="842.1.1"
 	}
@@ -1300,7 +1300,7 @@
 	name="Chogyal"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	mother=1000083130
 	842.1.1={
 		birth="842.1.1"
@@ -1314,7 +1314,7 @@
 	name="Sashi"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083131
 	872.1.1={
 		birth="872.1.1"
@@ -1328,7 +1328,7 @@
 	name="Dedan"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083132
 	902.1.1={
 		birth="902.1.1"
@@ -1342,7 +1342,7 @@
 	name="Denpa"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083133
 	932.1.1={
 		birth="932.1.1"
@@ -1356,7 +1356,7 @@
 	name="Kona"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083134
 	962.1.1={
 		birth="962.1.1"
@@ -1370,7 +1370,7 @@
 	name="Champo"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083135
 	992.1.1={
 		birth="992.1.1"
@@ -1384,7 +1384,7 @@
 	name="Akar"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083136
 	1022.1.1={
 		birth="1022.1.1"
@@ -1401,7 +1401,7 @@
 	name="Anil"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083137
 	mother=1000083148
 	1052.1.1={
@@ -1419,7 +1419,7 @@
 	name="Wangdak"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083138
 	mother=1000083149
 	1082.1.1={
@@ -1438,7 +1438,7 @@
 	female=yes
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083139
 	mother=1000083150
 	1112.1.1={
@@ -1453,7 +1453,7 @@
 	name="Rinchen"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083151
 	mother=1000083140
 	1142.1.1={
@@ -1471,7 +1471,7 @@
 	name="Tenzing"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083141
 	mother=1000083152
 	1172.1.1={
@@ -1489,7 +1489,7 @@
 	name="Jetsan"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083142
 	mother=1000083153
 	1202.1.1={
@@ -1508,7 +1508,7 @@
 	female=yes
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083143
 	mother=1000083154
 	1232.1.1={
@@ -1526,7 +1526,7 @@
 	name="Popo"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083155
 	mother=1000083144
 	1262.1.1={
@@ -1544,7 +1544,7 @@
 	name="Khalama"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083145
 	mother=1000083156
 	1292.1.1={
@@ -1562,7 +1562,7 @@
 	name="Kitsi"
 	dynasty=1000028343 #Sungqu
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	father=1000083146
 	mother=1000083157
 	1322.1.1={
@@ -1579,7 +1579,7 @@
 	name="Rinzen"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1022.1.1={
 		birth="1022.1.1"
 	}
@@ -1592,7 +1592,7 @@
 	name="Zenji"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1052.1.1={
 		birth="1052.1.1"
 	}
@@ -1605,7 +1605,7 @@
 	name="Chime"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1082.1.1={
 		birth="1082.1.1"
 	}
@@ -1617,7 +1617,7 @@
 1000083151 = {
 	name="Tsewang"
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1112.1.1={
 		birth="1112.1.1"
 	}
@@ -1633,7 +1633,7 @@
 	name="Ngawang"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1142.1.1={
 		birth="1142.1.1"
 	}
@@ -1646,7 +1646,7 @@
 	name="Poso"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1172.1.1={
 		birth="1172.1.1"
 	}
@@ -1659,7 +1659,7 @@
 	name="Phuntsok"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1202.1.1={
 		birth="1202.1.1"
 	}
@@ -1671,7 +1671,7 @@
 1000083155 = {
 	name="Tsering"
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1232.1.1={
 		birth="1232.1.1"
 	}
@@ -1687,7 +1687,7 @@
 	name="Nele"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1262.1.1={
 		birth="1262.1.1"
 	}
@@ -1700,7 +1700,7 @@
 	name="Gawa"
 	female=yes
 	religion=rmagao
-	culture="bodpa"
+	culture="qiang"
 	1292.1.1={
 		birth="1292.1.1"
 	}

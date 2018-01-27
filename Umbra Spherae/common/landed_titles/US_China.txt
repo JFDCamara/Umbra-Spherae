@@ -161,7 +161,7 @@ e_china = {
 				}
 				b_ghuxkhiu = {
 				}
-				b_kimzjeng = {
+				b_kimzjeng_haix = {
 				}
 			}
 			c_bak = {
@@ -1304,7 +1304,7 @@ e_china = {
 				}
 				b_kruanleh = {
 				}
-				b_bozjeng = {
+				b_bozjeng_kianh = {
 				}
 				b_driunghiuhkuanh = {
 				}
@@ -1350,7 +1350,7 @@ e_china = {
 				}
 				b_myoxbjen = {
 				}
-				b_nenghruah = {
+				b_nenghruah_theng = {
 				}
 				b_chiengliu_theng = {
 				}
@@ -1711,6 +1711,11 @@ e_china = {
 				b_yungthadbjen = {
 				}
 				b_yengxbjen = {
+					holy_site = sastsana_phi
+					holy_site = bimojiao
+					holy_site = ua_dab
+					holy_site = nugyauq
+					holy_site = thangiao
 				}
 				b_tokhang = {
 				}
@@ -2153,7 +2158,7 @@ e_china = {
 				}
 				b_kyotcixzsi = {
 				}
-				b_kyonsren = {
+				b_kyonsren_ngruk = {
 				}
 				b_zizjexzsih = {
 				}
@@ -2248,6 +2253,11 @@ e_china = {
 				b_mrajang = {
 				}
 				b_ghuangx = {
+					holy_site = rmagao
+					holy_site = benzhujiao
+					holy_site = bimojiao
+					holy_site = ua_dab
+					holy_site = thangiao
 				}
 				b_bjenkhe = {
 				}
@@ -3674,7 +3684,7 @@ e_china = {
 				}
 				b_yankhyuk = {
 				}
-				b_thadbjen = {
+				b_thadbjen_krungh = {
 				}
 				b_ciksren = {
 				}
@@ -3924,7 +3934,7 @@ e_china = {
 				}
 				b_nuaihghuang = {
 				}
-				b_zjengan = {
+				b_zjengan_ngyoih = {
 				}
 			}
 			c_ghruai = {

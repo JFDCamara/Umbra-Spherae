@@ -1,6 +1,9 @@
 581.3.4 = {
 	government = chinese_imperial_government
 	law = agnatic_succession
+	law = succ_primogeniture
+	law = vice_royalty_2
+	law = imperial_administration
 	holder = 247725
 	name = "sui_china"
 	#status = china_stable
@@ -20,6 +23,7 @@
 618.6.18 = {
 	holder = 217700 #Gaozu of Tang
 	name = "tang_china"
+	capital = 2239 #Yon (Chang'an)
 	#status = china_stable
 	#policy = china_open
 }
@@ -114,6 +118,7 @@
 960.2.1 = {
 	holder = 217721 #Taizu of Song
 	name = "song_china"
+	capital = 2136 # Bienh (Kaifeng)
 }
 976.11.14 = {
 	holder = 217722 #Taizong of Song
@@ -145,6 +150,7 @@
 #South Song
 1126.1.18={
 	holder=1000079015 #Dan
+	capital = 2150 #Ghang (Hangzhou)
 }
 1127.1.9={
 	holder=1000079016 #Gou
@@ -181,7 +187,8 @@
 	#status = china_stable
 	#policy = china_expansionist
 	#policy = china_open
-	holder = 217266 # Kublai Khan 
+	holder = 217266 # Kublai Khan
+	capital = 2035 #You (Beijing)
 }
 1294.2.18 = {
 	holder = 217269 # Temür Khan 

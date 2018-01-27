@@ -11,7 +11,7 @@ b_khainom = city
 b_dalidrieux = castle
 b_yonnom = castle
 b_yonlyung = castle
-b_phimx = castle
+b_phimx = temple
 
 # Misc
 culture = bai

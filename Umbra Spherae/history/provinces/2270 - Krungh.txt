@@ -10,7 +10,7 @@ b_krungh = city
 b_khyukuuk = city
 #b_jikzjeng =
 #b_yankhyuk =
-#b_thadbjen =
+#b_thadbjen_krungh =
 #b_ciksren =
 #b_hiangneng =
 

@@ -13,7 +13,7 @@ b_weizhou = city
 #b_xuankou = temple
 
 # Misc
-culture = tangut
+culture = qiang
 religion = rmagao
 
 # History

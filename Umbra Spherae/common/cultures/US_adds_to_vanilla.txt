@@ -12,3 +12,5 @@
 #added bai to chinese
 
 #added mohe to altaic
+
+#added qiang to tibetan

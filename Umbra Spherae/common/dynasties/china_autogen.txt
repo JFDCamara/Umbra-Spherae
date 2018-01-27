@@ -1195,82 +1195,82 @@
 
 1000156258 ={
 	name = "Huáng"
-	culture = han # "Huáng"
+	culture = zhuang # "Huáng"
 }
 
 1000156259 ={
 	name = "Än"
-	culture = han # "Än"
+	culture = zhuang # "Än"
 }
 
 1000156260 ={
 	name = "Zhäng"
-	culture = han # "Zhäng"
+	culture = zhuang # "Zhäng"
 }
 
 1000156261 ={
 	name = "Wû"
-	culture = han # "Wû"
+	culture = zhuang # "Wû"
 }
 
 1000156262 ={
 	name = "Zhào"
-	culture = han # "Zhào"
+	culture = zhuang # "Zhào"
 }
 
 1000156263 ={
 	name = "Jiàn"
-	culture = han # "Jiàn"
+	culture = zhuang # "Jiàn"
 }
 
 1000156264 ={
 	name = "Sün"
-	culture = han # "Sün"
+	culture = zhuang # "Sün"
 }
 
 1000156265 ={
 	name = "Lî"
-	culture = han # "Lî"
+	culture = zhuang # "Lî"
 }
 
 1000156266 ={
 	name = "Zhöu"
-	culture = han # "Zhöu"
+	culture = zhuang # "Zhöu"
 }
 
 1000156267 ={
 	name = "Wú"
-	culture = han # "Wú"
+	culture = zhuang # "Wú"
 }
 
 1000156268 ={
 	name = "Zhèng"
-	culture = han # "Zhèng"
+	culture = zhuang # "Zhèng"
 }
 
 1000156269 ={
 	name = "Wáng"
-	culture = han # "Wáng"
+	culture = zhuang # "Wáng"
 }
 
 1000156270 ={
 	name = "Féng"
-	culture = han # "Féng"
+	culture = zhuang # "Féng"
 }
 
 1000156271 ={
 	name = "Chén"
-	culture = han # "Chén"
+	culture = zhuang # "Chén"
 }
 
 1000156272 ={
 	name = "Chû"
-	culture = han # "Chû"
+	culture = zhuang # "Chû"
 }
 
 1000156273 ={
 	name = "Wèi"
-	culture = han # "Wèi"
+	culture = zhuang # "Wèi"
 }
 
 1000156274 ={
@@ -1335,12 +1335,12 @@
 
 1000156286 ={
 	name = "Kông"
-	culture = han # "Kông"
+	culture = hmong # "Kông"
 }
 
 1000156287 ={
 	name = "Cáo"
-	culture = han # "Cáo"
+	culture = hmong # "Cáo"
 }
 
 1000156288 ={
@@ -1365,22 +1365,22 @@
 
 1000156292 ={
 	name = "Táo"
-	culture = han # "Táo"
+	culture = hmong # "Táo"
 }
 
 1000156293 ={
 	name = "Jiäng"
-	culture = han # "Jiäng"
+	culture = hmong # "Jiäng"
 }
 
 1000156294 ={
 	name = "Qí"
-	culture = han # "Qí"
+	culture = hmong # "Qí"
 }
 
 1000156295 ={
 	name = "Xiäo"
-	culture = han # "Xiäo"
+	culture = hmong # "Xiäo"
 }
 
 1000156296 ={
@@ -1455,22 +1455,22 @@
 
 1000156310 ={
 	name = "Lü"
-	culture = han # "Lü"
+	culture = hmong # "Lü"
 }
 
 1000156311 ={
 	name = "Wèi"
-	culture = han # "Wèi"
+	culture = hmongn # "Wèi"
 }
 
 1000156312 ={
 	name = "Cháng"
-	culture = han # "Cháng"
+	culture = hmong # "Cháng"
 }
 
 1000156313 ={
 	name = "Mâ"
-	culture = han # "Mâ"
+	culture = hmong # "Mâ"
 }
 
 1000156314 ={
@@ -1565,32 +1565,32 @@
 
 1000156332 ={
 	name = "Ni"
-	culture = han # "Ni"
+	culture = hmong # "Ni"
 }
 
 1000156333 ={
 	name = "Shang"
-	culture = han # "Shang"
+	culture = hmong # "Shang"
 }
 
 1000156334 ={
 	name = "Teng"
-	culture = han # "Teng"
+	culture = hmong # "Teng"
 }
 
 1000156335 ={
 	name = "Yîn"
-	culture = han # "Yîn"
+	culture = hmong # "Yîn"
 }
 
 1000156336 ={
 	name = "Luó"
-	culture = han # "Luó"
+	culture = hmong # "Luó"
 }
 
 1000156337 ={
 	name = "Bi"
-	culture = han # "Bi"
+	culture = hmong # "Bi"
 }
 
 1000156338 ={
@@ -1705,22 +1705,22 @@
 
 1000156360 ={
 	name = "Yóu"
-	culture = han # "Yóu"
+	culture = lolo # "Yóu"
 }
 
 1000156361 ={
 	name = "Xú"
-	culture = han # "Xú"
+	culture = lolo # "Xú"
 }
 
 1000156362 ={
 	name = "Shên"
-	culture = han # "Shên"
+	culture = lolo # "Shên"
 }
 
 1000156363 ={
 	name = "Hú"
-	culture = han # "Hú"
+	culture = lolo # "Hú"
 }
 
 1000156364 ={
@@ -1785,22 +1785,22 @@
 
 1000156376 ={
 	name = "Xiäo"
-	culture = han # "Xiäo"
+	culture = lolo # "Xiäo"
 }
 
 1000156377 ={
 	name = "Zöu"
-	culture = han # "Zöu"
+	culture = lolo # "Zöu"
 }
 
 1000156378 ={
 	name = "Yú"
-	culture = han # "Yú"
+	culture = lolo # "Yú"
 }
 
 1000156379 ={
 	name = "Bái"
-	culture = han # "Bái"
+	culture = lolo # "Bái"
 }
 
 1000156380 ={

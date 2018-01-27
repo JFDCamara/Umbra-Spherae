@@ -510,3 +510,8 @@
 		name="Maj"#Ma-?
 		culture = zhuang
 }
+
+1000028275 = {
+    name="Chen"
+    culture=bai
+}

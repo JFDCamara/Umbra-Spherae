@@ -1,20 +1,20 @@
 1000028339 = {
 	name="Baima"
-	culture = tangut #qiang
-	religion = buddhist
+	culture = qiang
+	religion = rmagao
 }
 1000028341 = {
 	name="Dzoi"
-	culture = tangut
-	religion = buddhist
+	culture = qiang
+	religion = rmagao
 }
 1000028342 = {
 	name="Diexi"
-	culture = tangut #qiang
-	religion = buddhist
+	culture = qiang
+	religion = rmagao
 }
 1000028343 = {
 	name="Sungqu"
-	culture = tangut #qiang
-	religion = buddhist
+	culture = qiang
+	religion = rmagao
 }

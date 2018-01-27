@@ -13,7 +13,7 @@ b_topgyel = temple
 #b_zamtang = castle
 
 # Misc
-culture = tangut
+culture = qiang
 religion = rmagao
 
 # History

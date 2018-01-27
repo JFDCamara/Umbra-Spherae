@@ -1106,3 +1106,16 @@
 	name="Yi" #Yi Uimin's clan
 	culture = korean
 }
+
+1000028272 = {
+    name="Karnuk"
+    culture=mohe
+}
+1000028273 = {
+    name="Iohulu"
+    culture=mohe
+}
+1000028274 = {
+    name="Gingciri"
+    culture=mohe
+}

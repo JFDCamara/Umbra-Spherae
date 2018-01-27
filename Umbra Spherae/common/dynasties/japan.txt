@@ -157,3 +157,16 @@
 	name="Eiso"
 	culture = ryukyuan
 }
+
+1000028266 = {
+    name="Fujita"
+    culture=japanese
+}
+1000028267 = {
+    name="Matsumoto"
+    culture=japanese
+}
+1000028268 = {
+    name="Yamashita"
+    culture=japanese
+}

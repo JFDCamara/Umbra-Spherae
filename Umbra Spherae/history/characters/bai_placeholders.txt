@@ -1,0 +1,295 @@
+##Chen Dynasty (Placeholders)
+
+1000076407 = {
+	name="Xilie"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076408 = {
+	name="Liben"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076407
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076409 = {
+	name="Guan"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076408
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076410 = {
+	name="Rangyi"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076409
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076411 = {
+	name="Kang"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076410
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076412 = {
+	name="Qinwang"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076411
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076413 = {
+	name="Wuzi"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076412
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076414 = {
+	name="Shifang"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076413
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076415 = {
+	name="Chujun"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076414
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076416 = {
+	name="Zhihong"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076415
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076417 = {
+	name="Shidao"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076416
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076418 = {
+	name="Yixing"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076417
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076419 = {
+	name="Xun"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076418
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076420 = {
+	name="Xinfu"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076419
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076421 = {
+	name="Yun"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076420
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076422 = {
+	name="Sili"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076421
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076423 = {
+	name="Xiujing"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076422
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076424 = {
+	name="Yanbo"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076423
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076425 = {
+	name="Ting"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076424
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076426 = {
+	name="Yaoqin"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076425
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076427 = {
+	name="Sengru"
+	dynasty=1000028275 #Chen
+	religion="benzhujiao"
+	culture="bai"
+	father=1000076426
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+

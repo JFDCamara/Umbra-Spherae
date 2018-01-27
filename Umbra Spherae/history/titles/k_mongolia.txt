@@ -1,4 +1,4 @@
-ï»¿20.1.1 = {
+20.1.1 = {
 	historical_nomad = yes
 }
 #Uyghurs
@@ -87,10 +87,10 @@
 	holder = 125501 # Genghis Khan
 }
 1227.12.2 = {
-	holder = 172005 # Ã–gedei Khan
+	holder = 172005 # Ögedei Khan
 }
 1234.2.10 = {
-	#holder = 172005 # Ã–gedei Khan ascends the throne of China
+	#holder = 172005 # Ögedei Khan ascends the throne of China
 	holder = 244010 # The Western Governor is now holder
 	#set_tribute_suzerain = {
 	#	who = e_china
@@ -98,15 +98,15 @@
 	#}
 }
 1241.12.11 = {
-	#holder = 172007 # GÃ¼yÃ¼k Khan ascends the throne of China
+	#holder = 172007 # Güyük Khan ascends the throne of China
 	holder = 244010 # The Western Governor is now holder
 }
 1248.1.1 = {
-	holder = 217265 # MÃ¶ngke Khan
+	holder = 217265 # Möngke Khan
 	#clear_tribute_suzerain = e_china
 }
 1248.4.20 = {
-	#holder = 217265 # MÃ¶ngke Khan ascends the throne of China (actual coronation 1251.7.1)
+	#holder = 217265 # Möngke Khan ascends the throne of China (actual coronation 1251.7.1)
 	holder = 244010 # The Western Governor is now holder
 	#set_tribute_suzerain = {
 	#	who = e_china
@@ -133,7 +133,7 @@
 	holder = 166915 # Chopar takes over after Kaidus death
 }
 1307.2.10 = {
-	#holder = 217271 # KÃ¼lÃ¼g Khan ascends the throne of China
+	#holder = 217271 # Külüg Khan ascends the throne of China
 	holder = 244011 # The Western Governor is now holder
 }
 1311.1.27 = {
@@ -145,7 +145,7 @@
 	holder = 244011 # The Western Governor is now holder
 }
 1323.9.4 = {
-	#holder = 217279 # YesÃ¼n TemÃ¼r Khan ascends the throne of China
+	#holder = 217279 # Yesün Temür Khan ascends the throne of China
 	holder = 244011 # The Western Governor is now holder
 }
 1328.8.15 = {
@@ -189,7 +189,7 @@
 	holder = 244011 # The Western Governor is now holder
 }
 1332.12.14 = {
-	#holder = 217284 # Toghon TemÃ¼r Khan ascends the throne of China
+	#holder = 217284 # Toghon Temür Khan ascends the throne of China
 	holder = 244011 # The Western Governor is now holder
 }
 1334.1.1 = {

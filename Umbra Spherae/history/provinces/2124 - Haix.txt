@@ -12,7 +12,7 @@ b_ghruai_njin = city
 #b_zsjyijang =
 #b_limghung =
 #b_ghuxkhiu =
-#b_kimzjeng =
+#b_kimzjeng_haix =
 
 # Misc
 culture = han

@@ -13,7 +13,7 @@ b_jone = temple
 #b_zhugqu = castle
 
 # Misc
-culture = tangut
+culture = qiang
 religion = rmagao
 
 # History

@@ -1,6 +1,6 @@
 #Chinese Empire
 750.1.1 = {
-	liege=e_china_west_governor
+	liege=e_china
 	holder = 248149
 }
 #Uyghur Kingdom
@@ -70,7 +70,7 @@
 }
 1227.2.1 = {
 	holder = 244013
-	liege = e_china_west_governor
+	liege = k_mongolia
 }
 1264.12.10 = {
 	holder = 244014
