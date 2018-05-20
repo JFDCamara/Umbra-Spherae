@@ -5302,7 +5302,7 @@ d_palembang_crocodiles = {
 	}
 	
 	# Parent Religion 
-	religion = mahayana
+	religion = buddhist
 	
 	mercenary = yes
 
@@ -5500,7 +5500,7 @@ d_malay_company = {
 	}
 	
 	# Parent Religion 
-	religion = mahayana
+	religion = buddhist
 	
 	mercenary = yes
 
@@ -5632,7 +5632,7 @@ d_viet_warriors = {
 	}
 	
 	# Parent Religion 
-	religion = mahayana
+	religion = buddhist
 	
 	mercenary = yes
 
@@ -5797,7 +5797,7 @@ d_mountain_wall = {
 	}
 	
 	# Parent Religion 
-	religion = mahayana
+	religion = buddhist
 	
 	mercenary = yes
 
@@ -5863,7 +5863,7 @@ d_merciful_swords = {
 	}
 	
 	# Parent Religion 
-	religion = tao
+	religion = taoist
 	
 	mercenary = yes
 
@@ -5995,7 +5995,7 @@ d_rocky_band = {
 	}
 	
 	# Parent Religion 
-	religion = vajrayana
+	religion = buddhist
 	
 	mercenary = yes
 
@@ -6061,7 +6061,7 @@ d_sands_of_murder = {
 	}
 	
 	# Parent Religion 
-	religion = vajrayana
+	religion = buddhist
 	
 	mercenary = yes
 
@@ -6127,7 +6127,7 @@ d_willful_bow = {
 	}
 	
 	# Parent Religion 
-	religion = mahayana
+	religion = buddhist
 	
 	mercenary = yes
 
@@ -6218,7 +6218,7 @@ d_steppe_storm = {
 	color = { 180 89 44 }
 	color2 = { 255 255 255 }
 
-	capital = 1974 # Karakorum
+	capital = 1457 # Karakorum
 	
 	# Hire Trigger
 	allow = {
@@ -6251,7 +6251,7 @@ d_chilling_roar = {
 	color = { 160 225 225 }
 	color2 = { 255 255 255 }
 
-	capital = 2006 # Elyu Ene
+	capital = 1463 # Erchis
 	
 	# Hire Trigger
 	allow = {
@@ -6292,7 +6292,7 @@ d_silky_death = {
 	}
 	
 	# Parent Religion 
-	religion = mahayana
+	religion = buddhist
 	
 	mercenary = yes
 
@@ -6457,7 +6457,7 @@ d_bodpa_company = {
 	}
 	
 	# Parent Religion 
-	religion = vajrayana
+	religion = buddhist
 	
 	mercenary = yes
 
@@ -6490,7 +6490,7 @@ d_unforgiving_blizzard = {
 	}
 	
 	# Parent Religion 
-	religion = vajrayana
+	religion = buddhist
 	
 	mercenary = yes
 
