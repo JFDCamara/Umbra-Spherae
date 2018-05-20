@@ -17,5 +17,8 @@
 #added c_dartsedo to d_dege
 #added d_erma to k_kham (with new provinces)
 #added c_ghraxliang and c_kam to d_jiuquan
-#added d_hiengkhieng to k_xixia (with new provinces)
+#added d_hingkhieng to k_xixia (with new provinces)
 #added d_bjenghrax to k_xixia (with new provinces)
+#capital of k_xixia changed
+
+#Holy sites of Taoist removed

@@ -367,7 +367,6 @@ christian = {
 		intermarry = bon
 		intermarry = buddhist
 		intermarry = zoroastrian_group
-		intermarry = confucian
 	}
 	
 	messalian = {
@@ -804,6 +803,7 @@ pagan_group = {
 		intermarry = norse_pagan_reformed
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 	}	
 	
 	tengri_pagan_reformed = { # Mongols
@@ -908,6 +908,7 @@ pagan_group = {
 		
 		intermarry = buddhist
 		intermarry = zoroastrian_group
+		can_demand_religious_conversion = no
 	}
 	
 	baltic_pagan_reformed = {
@@ -1029,6 +1030,7 @@ pagan_group = {
 		hard_to_convert = yes
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 	}	
 	
 	finnish_pagan_reformed = {
@@ -1151,6 +1153,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 	}
 	
 	aztec_reformed = {
@@ -1237,6 +1240,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 	}
 
 	slavic_pagan_reformed = {
@@ -1358,6 +1362,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 	}
 	
 	west_african_pagan_reformed = {
@@ -1481,6 +1486,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 	}
 
 	zun_pagan_reformed = {
@@ -1571,6 +1577,7 @@ pagan_group = {
 		intermarry = zoroastrian_group
 		
 		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
 	}
 	
 	hellenic_pagan = {
@@ -2925,7 +2932,6 @@ pagan_group = {
 		
 		dislike_tribal_organization = yes
 	}
-	
 }
 
 zoroastrian_group = {
@@ -3297,8 +3303,8 @@ indian_group = {
 		intermarry = sumatran_religion_reformed	
 		intermarry = malagasy_religion
 		intermarry = malagasy_religion_reformed	
+		
 	}
-	
 	buddhist = {
 		has_coa_on_barony_only = yes
 		graphical_culture = buddhistgfx
@@ -3369,7 +3375,6 @@ indian_group = {
 		intermarry = malagasy_religion
 		intermarry = malagasy_religion_reformed	
 	}
-	
 	jain = {
 		graphical_culture = jaingfx
 		secondary_event_pictures = sunni
@@ -3431,7 +3436,6 @@ indian_group = {
 		intermarry = malagasy_religion
 		intermarry = malagasy_religion_reformed	
 	}
-	
 	taoist = {
 		graphical_culture = chinesegfx
 		secondary_event_pictures = sunni
@@ -4224,5 +4228,4 @@ indian_group = {
 		intermarry = malagasy_religion_reformed	
 
 	}
-
 }
