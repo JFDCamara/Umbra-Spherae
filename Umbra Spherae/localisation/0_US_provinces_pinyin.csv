@@ -60,8 +60,8 @@ PROV1639;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju
 PROV1640;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;x
 PROV1641;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;x
 PROV1642;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;x
-PROV1643;Leh;Leh;Leh;Leh;Leh;Leh;Leh;Leh;Leh;Leh;Leh;Leh;Leh;x
-PROV1644;Skardu;Skardu;Skardu;Skardu;Skardu;Skardu;Skardu;Skardu;Skardu;Skardu;Skardu;Skardu;Skardu;x
+PROV1643;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;x
+PROV1644;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;x
 PROV1645;Gilgit;Gilgit;Gilgit;Gilgit;Gilgit;Gilgit;Gilgit;Gilgit;Gilgit;Gilgit;Gilgit;Gilgit;Gilgit;x
 PROV1646;Diskit;Diskit;Diskit;Diskit;Diskit;Diskit;Diskit;Diskit;Diskit;Diskit;Diskit;Diskit;Diskit;x
 PROV1647;Kyunglung;Kyunglung;Kyunglung;Kyunglung;Kyunglung;Kyunglung;Kyunglung;Kyunglung;Kyunglung;Kyunglung;Kyunglung;Kyunglung;Kyunglung;x
@@ -864,3 +864,451 @@ PROV2443;Musashi;Musashi;Musashi;Musashi;Musashi;Musashi;Musashi;Musashi;Musashi
 PROV2444;Sagami;Sagami;Sagami;Sagami;Sagami;Sagami;Sagami;Sagami;Sagami;Sagami;Sagami;Sagami;Sagami;x
 PROV2445;Kai;Kai;Kai;Kai;Kai;Kai;Kai;Kai;Kai;Kai;Kai;Kai;Kai;x
 PROV2446;Shinano;Shinano;Shinano;Shinano;Shinano;Shinano;Shinano;Shinano;Shinano;Shinano;Shinano;Shinano;Shinano;x
+PROV2447;River Nile;River Nile;River Nile;;River Nile;;;;;;;;;x
+PROV2448;River Nile;River Nile;River Nile;;River Nile;;;;;;;;;x
+PROV2449;River Nile;River Nile;River Nile;;River Nile;;;;;;;;;x
+PROV2450;River Nile;River Nile;River Nile;;River Nile;;;;;;;;;x
+PROV2451;River Nile;River Nile;River Nile;;River Nile;;;;;;;;;x
+PROV2452;River Nile;River Nile;River Nile;;River Nile;;;;;;;;;x
+PROV2453;River Nile;River Nile;River Nile;;River Nile;;;;;;;;;x
+PROV2454;River Nile;River Nile;River Nile;;River Nile;;;;;;;;;x
+PROV2455;River Nile;River Nile;River Nile;;River Nile;;;;;;;;;x
+PROV2456;River Nile;River Nile;River Nile;;River Nile;;;;;;;;;x
+PROV2457;Blue Nile;Blue Nile;Blue Nile;;Blue Nile;;;;;;;;;x
+PROV2458;Blue Nile;Blue Nile;Blue Nile;;Blue Nile;;;;;;;;;x
+PROV2459;White Nile;White Nile;White Nile;;White Nile;;;;;;;;;x
+PROV2460;White Nile;White Nile;White Nile;;White Nile;;;;;;;;;x
+PROV2461;White Nile;White Nile;White Nile;;White Nile;;;;;;;;;x
+PROV2462;White Nile;White Nile;White Nile;;White Nile;;;;;;;;;x
+PROV2463;White Nile;White Nile;White Nile;;White Nile;;;;;;;;;x
+PROV2464;White Nile;White Nile;White Nile;;White Nile;;;;;;;;;x
+PROV2465;White Nile;White Nile;White Nile;;White Nile;;;;;;;;;x
+PROV2466;Semliki River;Semliki;Semliki;;Semliki;;;;;;;;;x
+PROV2467;Katonga River;Katonga;Katonga;;Katonga;;;;;;;;;x
+PROV2468;Kazinga River;Kazinga;Kazinga;;Kazinga;;;;;;;;;x
+PROV2469;Lake Dweru;Dweru;Dweru;;Dweru;;;;;;;;;x
+PROV2470;Lake Tumba;Tumba;Tumba;;Tumba;;;;;;;;;x
+PROV2471;Lake Mai-Ndombe;Mai-Ndombe;Mai-Ndombe;;Mai-Ndombe;;;;;;;;;x
+PROV2472;Lake Upemba;Upemba;Upemba;;Upemba;;;;;;;;;x
+PROV2473;Lake Kisale;Kisale;Kisale;;Kisale;;;;;;;;;x
+PROV2474;Lake Mweru-wa-Ntipa;Mweru-wa-Ntipa;Mweru-wa-Ntipa;;Mweru-wa-Ntipa;;;;;;;;;x
+PROV2475;Lake Bangweulu;Bangweulu;Bangweulu;;Bangweulu;;;;;;;;;x
+PROV2476;Lake Chilwa;Chilwa;Chilwa;;Chilwa;;;;;;;;;x
+PROV2477;Lake Eyasi;Eyasi;Eyasi;;Eyasi;;;;;;;;;x
+PROV2478;Lake Baringo;Baringo;Baringo;;Baringo;;;;;;;;;x
+PROV2479;Lake Jabbul;Jabbul;Jabbul;;Jabbul;;;;;;;;;x
+PROV2480;Lake Tengiz;Tengiz;Tengiz;;Tengiz;;;;;;;;;x
+PROV2481;Lake Kishkenekol;Kishkenekol;Kishkenekol;;Kishkenekol;;;;;;;;;x
+PROV2482;Kulundinskoye;Kulundinskoye;Kulundinskoye;;Kulundinskoye;;;;;;;;;x
+PROV2483;Ubinskoye;Ubinskoye;Ubinskoye;;Ubinskoye;;;;;;;;;x
+PROV2484;Lake Dörgön-Har;Dörgön-Har;Dörgön-Har;;Dörgön-Har;;;;;;;;;x
+PROV2485;Lake Bosten;Bosten;Bosten;;Bosten;;;;;;;;;x
+PROV2486;Ebinur;Ebinur;Ebinur;;Ebinur;;;;;;;;;x
+PROV2487;Lake Poyang;Poyang;Poyang;;Poyang;;;;;;;;;x
+PROV2488;Lake Nansi;Nansi;Nansi;;Nansi;;;;;;;;;x
+PROV2489;Lake Hongze;Hongze;Hongze;;Hongze;;;;;;;;;x
+PROV2490;Lake Gaoyou;Gaoyou;Gaoyou;;Gaoyou;;;;;;;;;x
+PROV2491;Lake Chao;Chao;Chao;;Chao;;;;;;;;;x
+PROV2492;Lake Dianchi;Dianchi;Dianchi;;Dianchi;;;;;;;;;x
+PROV2493;Lake Fuxian;Fuxian;Fuxian;;Fuxian;;;;;;;;;x
+PROV2494;Lake Erhai;Erhai;Erhai;;Erhai;;;;;;;;;x
+PROV2495;Lake Chenghai;Chenghai;Chenghai;;Chenghai;;;;;;;;;x
+PROV2496;Lake Lugu;Lugu;Lugu;;Lugu;;;;;;;;;x
+PROV2497;Lake Gyaring;Gyaring;Gyaring;;Gyaring;;;;;;;;;x
+PROV2498;Lake Hala;Hala;Hala;Hala;;;;;;;;;x;
+PROV2499;Lake Ayakum;Ayakum;Ayakum;Ayakum;;;;;;;;;x;
+PROV2500;Lake Wulanwula;Wulanwula;Wulanwula;Wulanwula;;;;;;;;;x;
+PROV2501;Lake Cona;Cona;Cona;Cona;;;;;;;;;x;
+PROV2502;Lake Rakshastal;Rakshastal;Rakshastal;Rakshastal;;;;;;;;;x;
+PROV2503;Lake Manasarovar;Manasarovar;Manasarovar;Manasarovar;;;;;;;;;x;
+PROV2504;Lake Yamdrok;Yamdrok;Yamdrok;Yamdrok;;;;;;;;;x;
+PROV2505;Dangreyoungco;Dangreyoungco;Dangreyoungco;Dangreyoungco;;;;;;;;;x;
+PROV2506;Lake Ang Laren;Ang Laren;Ang Laren;Ang Laren;;;;;;;;;x;
+PROV2507;Lake Banggong;Banggong;Banggong;Banggong;;;;;;;;;x;
+PROV2508;Lake Orba;Orba;Orba;Orba;;;;;;;;;x;
+PROV2509;Lake Beloye;Beloye;Beloye;Beloye;;;;;;;;;x;
+PROV2510;Lake Beysehir;Beysehir;Beysehir;Beysehir;;;;;;;;;x;
+PROV2511;Lake Ohrid;Ohrid;Ohrid;Ohrid;;;;;;;;;x;
+PROV2512;Lake Balaton;Balaton;Balaton;Balaton;;;;;;;;;x;
+PROV2513;Lake Neusiedl;Neusiedl;Neusiedl;Neusiedl;;;;;;;;;x;
+PROV2514;Lake Chiemsee;Chiemsee;Chiemsee;Chiemsee;;;;;;;;;x;
+PROV2515;Lake Ammersee;Ammersee;Ammersee;Ammersee;;;;;;;;;x;
+PROV2516;Lake Neuchâtel;Neuchâtel;Neuchâtel;Neuchâtel;;;;;;;;;x;
+PROV2517;Lake Wendelsee;Wendelsee;Wendelsee;Wendelsee;;;;;;;;;x;
+PROV2518;Lake Maggiore;Maggiore;Maggiore;Maggiore;;;;;;;;;x;
+PROV2519;Lake Como;Como;Como;Como;;;;;;;;;x;
+PROV2520;Lake Iseo;Iseo;Iseo;Iseo;;;;;;;;;x;
+PROV2521;Lake Garda;Garda;Garda;Garda;;;;;;;;;x;
+PROV2522;Lake Trasimeno;Trasimeno;Trasimeno;Trasimeno;;;;;;;;;x;
+PROV2523;Lake Bolsena;Bolsena;Bolsena;Bolsena;;;;;;;;;x;
+PROV2524;Loch Ness;Loch Ness;Loch Ness;Loch Ness;;;;;;;;;x;
+PROV2525;Lough Neagh;Lough Neagh;Lough Neagh;Lough Neagh;;;;;;;;;x;
+PROV2526;Lough Ree;Lough Ree;Lough Ree;Lough Ree;;;;;;;;;x;
+PROV2527;Lough Derg;Lough Derg;Lough Derg;Lough Derg;;;;;;;;;x;
+PROV2528;Kara Sea;Kara Sea;Kara Sea;Kara Sea;;;;;;;;;x;
+PROV2529;Mascarene Basin;Mascarene Basin;Mascarene Basin;Mascarene Basin;;;;;;;;;x;
+PROV2530;Cocos Basin;Cocos Basin;Cocos Basin;Cocos Basin;;;;;;;;;x;
+PROV2531;Murman Sea;Murman Sea;Murman Sea;Murman Sea;;;;;;;;;x;
+PROV2532;Chagos Sea;Chagos Sea;Chagos Sea;Chagos Sea;;;;;;;;;x;
+PROV2533;Cocos Sea;Cocos Sea;Cocos Sea;Cocos Sea;;;;;;;;;x;
+PROV2534;Mony Sea;Mony Sea;Mony Sea;Mony Sea;;;;;;;;;x;
+PROV2535;Mascarene Sea;Mascarene Sea;Mascarene Sea;Mascarene Sea;;;;;;;;;x;
+PROV2536;Ninety East Ridge;Ninety East Ridge;Ninety East Ridge;Ninety East Ridge;;;;;;;;;x;
+PROV2537;Mid-Indian Basin;Mid-Indian Basin;Mid-Indian Basin;Mid-Indian Basin;;;;;;;;;x;
+PROV2538;Wharton Basin;Wharton Basin;Wharton Basin;Wharton Basin;;;;;;;;;x;
+PROV2539;Perth Basin;Perth Basin;Perth Basin;Perth Basin;;;;;;;;;x;
+PROV2540;Broken Ridge;Broken Ridge;Broken Ridge;Broken Ridge;;;;;;;;;x;
+PROV2541;Mid-Indian Ridge;Mid-Indian Ridge;Mid-Indian Ridge;Mid-Indian Ridge;;;;;;;;;x;
+PROV2542;Kerguelen Sea;Kerguelen Sea;Kerguelen Sea;Kerguelen Sea;;;;;;;;;x;
+PROV2543;Crozet Basin;Crozet Basin;Crozet Basin;Crozet Basin;;;;;;;;;x;
+PROV2544;Crozet Sea;Crozet Sea;Crozet Sea;Crozet Sea;;;;;;;;;x;
+PROV2545;Guinea Coast;Guinea Coast;Guinea Coast;Guinea Coast;;;;;;;;;x;
+PROV2546;Gambia Coast;Gambia Coast;Gambia Coast;Gambia Coast;;;;;;;;;x;
+PROV2547;Gold Coast;Gold Coast;Gold Coast;Gold Coast;;;;;;;;;x;
+PROV2548;Ivory Coast;Ivory Coast;Ivory Coast;Ivory Coast;;;;;;;;;x;
+PROV2549;Bight of Bonny;Bight of Bonny;Bight of Bonny;Bight of Bonny;;;;;;;;;x;
+PROV2550;Gabon Coast;Gabon Coast;Gabon Coast;Gabon Coast;;;;;;;;;x;
+PROV2551;Congo Coast;Congo Coast;Congo Coast;Congo Coast;;;;;;;;;x;
+PROV2552;Angola Coast;Angola Coast;Angola Coast;Angola Coast;;;;;;;;;x;
+PROV2553;Namibia Coast;Namibia Coast;Namibia Coast;Namibia Coast;;;;;;;;;x;
+PROV2554;Cape of Storms;Cape of Storms;Cape of Storms;Cape of Storms;;;;;;;;;x;
+PROV2555;Cape Agulhas;Cape Agulhas;Cape Agulhas;Cape Agulhas;;;;;;;;;x;
+PROV2556;Natal Coast;Natal Coast;Natal Coast;Natal Coast;;;;;;;;;x;
+PROV2557;Maputo Bay;Maputo Bay;Maputo Bay;Maputo Bay;;;;;;;;;x;
+PROV2558;Mozambique Basin;Mozambique Basin;Mozambique Basin;Mozambique Basin;;;;;;;;;x;
+PROV2559;Toliara Coast;Toliara Coast;Toliara Coast;Toliara Coast;;;;;;;;;x;
+PROV2560;Agulhas Basin;Agulhas Basin;Agulhas Basin;Agulhas Basin;;;;;;;;;x;
+PROV2561;Agulhas Sea;Agulhas Sea;Agulhas Sea;Agulhas Sea;;;;;;;;;x;
+PROV2562;Greenland Sea;Greenland Sea;Greenland Sea;Greenland Sea;;;;;;;;;x;
+PROV2563;Norwegian Sea;Norwegian Sea;Norwegian Sea;Norwegian Sea;;;;;;;;;x;
+PROV2564;Greenland Strait;Greenland Strait;Greenland Strait;Greenland Strait;;;;;;;;;x;
+PROV2565;Greenland Coast;Greenland Coast;Greenland Coast;Greenland Coast;;;;;;;;;x;
+PROV2566;Baffin Bay;Baffin Bay;Baffin Bay;Baffin Bay;;;;;;;;;x;
+PROV2567;Labrador Sea;Labrador Sea;Labrador Sea;Labrador Sea;;;;;;;;;x;
+PROV2568;Irminger Sea;Irminger Sea;Irminger Sea;Irminger Sea;;;;;;;;;x;
+PROV2569;Helluland Sea;Helluland Sea;Helluland Sea;Helluland Sea;;;;;;;;;x;
+PROV2570;Markland Coast;Markland Coast;Markland Coast;Markland Coast;;;;;;;;;x;
+PROV2571;Vinland Sea;Vinland Sea;Vinland Sea;Vinland Sea;;;;;;;;;x;
+PROV2572;Laurentian Gulf;Laurentian Gulf;Laurentian Gulf;Laurentian Gulf;;;;;;;;;x;
+PROV2573;Cabot Strait;Cabot Strait;Cabot Strait;Cabot Strait;;;;;;;;;x;
+PROV2574;Labrador Strait;Labrador Strait;Labrador Strait;Labrador Strait;;;;;;;;;x;
+PROV2575;Canso Strait;Canso Strait;Canso Strait;Canso Strait;;;;;;;;;x;
+PROV2576;Miramichi Bay;Miramichi Bay;Miramichi Bay;Miramichi Bay;;;;;;;;;x;
+PROV2577;Laurentian Bay;Laurentian Bay;Laurentian Bay;Laurentian Bay;;;;;;;;;x;
+PROV2578;Emerald Coast;Emerald Coast;Emerald Coast;Emerald Coast;;;;;;;;;x;
+PROV2579;Gulf of Maine;Gulf of Maine;Gulf of Maine;Gulf of Maine;;;;;;;;;x;
+PROV2580;Fundy Bay;Fundy Bay;Fundy Bay;Fundy Bay;;;;;;;;;x;
+PROV2581;Penobscot Bay;Penobscot Bay;Penobscot Bay;Penobscot Bay;;;;;;;;;x;
+PROV2582;Massachusetts Bay;Massachusetts Bay;Massachusetts Bay;Massachusetts Bay;;;;;;;;;x;
+PROV2583;Narragansett Bay;Narragansett Bay;Narragansett Bay;Narragansett Bay;;;;;;;;;x;
+PROV2584;Pequot Sound;Pequot Sound;Pequot Sound;Pequot Sound;;;;;;;;;x;
+PROV2585;Montaukett Coast;Montaukett Coast;Montaukett Coast;Montaukett Coast;;;;;;;;;x;
+PROV2586;Manhattan Bay;Manhattan Bay;Manhattan Bay;Manhattan Bay;;;;;;;;;x;
+PROV2587;Madeira Sea;Madeira Sea;Madeira Sea;Madeira Sea;;;;;;;;;x;
+PROV2588;Iberian Basin;Iberian Basin;Iberian Basin;Iberian Basin;;;;;;;;;x;
+PROV2589;Azores Sea;Azores Sea;Azores Sea;Azores Sea;;;;;;;;;x;
+PROV2590;Porcupine Sea;Porcupine Sea;Porcupine Sea;Porcupine Sea;;;;;;;;;x;
+PROV2591;Gloria Ridge;Gloria Ridge;Gloria Ridge;Gloria Ridge;;;;;;;;;x;
+PROV2592;Gorgades Sea;Gorgades Sea;Gorgades Sea;Gorgades Sea;;;;;;;;;x;
+PROV2593;Delaware Bay;Delaware Bay;Delaware Bay;Delaware Bay;;;;;;;;;x;
+PROV2594;Chesapeake Bay;Chesapeake Bay;Chesapeake Bay;Chesapeake Bay;;;;;;;;;x;
+PROV2595;Chesepian Coast;Chesepian Coast;Chesepian Coast;Chesepian Coast;;;;;;;;;x;
+PROV2596;Roanoke Sound;Roanoke Sound;Roanoke Sound;Roanoke Sound;;;;;;;;;x;
+PROV2597;Pamlico Sound;Pamlico Sound;Pamlico Sound;Pamlico Sound;;;;;;;;;x;
+PROV2598;Outer Banks;Outer Banks;Outer Banks;Outer Banks;;;;;;;;;x;
+PROV2599;Gizhigin Bay;Gizhigin Bay;Gizhigin Bay;Gizhigin Bay;;;;;;;;;x;
+PROV2600;Chicora Coast;Chicora Coast;Chicora Coast;Chicora Coast;;;;;;;;;x;
+PROV2601;Cusabo Coast;Cusabo Coast;Cusabo Coast;Cusabo Coast;;;;;;;;;x;
+PROV2602;Guale Bay;Guale Bay;Guale Bay;Guale Bay;;;;;;;;;x;
+PROV2603;Timucuan Coast;Timucuan Coast;Timucuan Coast;Timucuan Coast;;;;;;;;;x;
+PROV2604;Lake Okeechobee;Lake Okeechobee;Lake Okeechobee;Lake Okeechobee;;;;;;;;;x;
+PROV2605;Ais Coast;Ais Coast;Ais Coast;Ais Coast;;;;;;;;;x;
+PROV2606;Tequesta Coast;Tequesta Coast;Tequesta Coast;Tequesta Coast;;;;;;;;;x;
+PROV2607;Florida Bay;Florida Bay;Florida Bay;Florida Bay;;;;;;;;;x;
+PROV2608;Calusa Bay;Calusa Bay;Calusa Bay;Calusa Bay;;;;;;;;;x;
+PROV2609;Tocobaga Bay;Tocobaga Bay;Tocobaga Bay;Tocobaga Bay;;;;;;;;;x;
+PROV2610;Apalachicola Bay;Apalachicola Bay;Apalachicola Bay;Apalachicola Bay;;;;;;;;;x;
+PROV2611;Pensacola Bay;Pensacola Bay;Pensacola Bay;Pensacola Bay;;;;;;;;;x;
+PROV2612;Biloxi Bay;Biloxi Bay;Biloxi Bay;Biloxi Bay;;;;;;;;;x;
+PROV2613;Mississippi Delta;Mississippi Delta;Mississippi Delta;Mississippi Delta;;;;;;;;;x;
+PROV2614;Atakapa Coast;Atakapa Coast;Atakapa Coast;Atakapa Coast;;;;;;;;;x;
+PROV2615;Coahuiltecan Bay;Coahuiltecan Bay;Coahuiltecan Bay;Coahuiltecan Bay;;;;;;;;;x;
+PROV2616;Tamaholipa Coast;Tamaholipa Coast;Tamaholipa Coast;Tamaholipa Coast;;;;;;;;;x;
+PROV2617;Florida Strait;Florida Strait;Florida Strait;Florida Strait;;;;;;;;;x;
+PROV2618;Totonacapan Coast;Totonacapan Coast;Totonacapan Coast;Totonacapan Coast;;;;;;;;;x;
+PROV2619;Campeche Bay;Campeche Bay;Campeche Bay;Campeche Bay;;;;;;;;;x;
+PROV2620;Gulf of Mexico;Gulf of Mexico;Gulf of Mexico;Gulf of Mexico;;;;;;;;;x;
+PROV2621;Habana Coast;Habana Coast;Habana Coast;Habana Coast;;;;;;;;;x;
+PROV2622;Yucatan Strait;Yucatan Strait;Yucatan Strait;Yucatan Strait;;;;;;;;;x;
+PROV2623;Yucatan Coast;Yucatan Coast;Yucatan Coast;Yucatan Coast;;;;;;;;;x;
+PROV2624;Florida Gulf;Florida Gulf;Florida Gulf;Florida Gulf;;;;;;;;;x;
+PROV2625;Caribbean Sea;Caribbean Sea;Caribbean Sea;Caribbean Sea;;;;;;;;;x;
+PROV2626;Antilles Sea;Antilles Sea;Antilles Sea;Antilles Sea;;;;;;;;;x;
+PROV2627;East Caribbean Sea;East Caribbean Sea;East Caribbean Sea;East Caribbean Sea;;;;;;;;;x;
+PROV2628;Batabanó Gulf;Batabanó Gulf;Batabanó Gulf;Batabanó Gulf;;;;;;;;;x;
+PROV2629;Cayman Sea;Cayman Sea;Cayman Sea;Cayman Sea;;;;;;;;;x;
+PROV2630;Guacanayabo Gulf;Guacanayabo Gulf;Guacanayabo Gulf;Guacanayabo Gulf;;;;;;;;;x;
+PROV2631;Jamaica Channel;Jamaica Channel;Jamaica Channel;Jamaica Channel;;;;;;;;;x;
+PROV2632;Jaragua Bay;Jaragua Bay;Jaragua Bay;Jaragua Bay;;;;;;;;;x;
+PROV2633;Ozama Bay;Ozama Bay;Ozama Bay;Ozama Bay;;;;;;;;;x;
+PROV2634;Gonaibo Gulf;Gonaibo Gulf;Gonaibo Gulf;Gonaibo Gulf;;;;;;;;;x;
+PROV2635;Guárico Bay;Guárico Bay;Guárico Bay;Guárico Bay;;;;;;;;;x;
+PROV2636;Maguá Coast;Maguá Coast;Maguá Coast;Maguá Coast;;;;;;;;;x;
+PROV2637;Guaynia Sea;Guaynia Sea;Guaynia Sea;Guaynia Sea;;;;;;;;;x;
+PROV2638;Iere Sea;Iere Sea;Iere Sea;Iere Sea;;;;;;;;;x;
+PROV2639;Karukera Sea;Karukera Sea;Karukera Sea;Karukera Sea;;;;;;;;;x;
+PROV2640;Waladli Sea;Waladli Sea;Waladli Sea;Waladli Sea;;;;;;;;;x;
+PROV2641;Borikén Sea;Borikén Sea;Borikén Sea;Borikén Sea;;;;;;;;;x;
+PROV2642;Cairi Sea;Cairi Sea;Cairi Sea;Cairi Sea;;;;;;;;;x;
+PROV2643;Yuma Sea;Yuma Sea;Yuma Sea;Yuma Sea;;;;;;;;;x;
+PROV2644;Bahama Sea;Bahama Sea;Bahama Sea;Bahama Sea;;;;;;;;;x;
+PROV2645;Coabana Coast;Coabana Coast;Coabana Coast;Coabana Coast;;;;;;;;;x;
+PROV2646;Ciboney Bay;Ciboney Bay;Ciboney Bay;Ciboney Bay;;;;;;;;;x;
+PROV2647;Hatteras Basin;Hatteras Basin;Hatteras Basin;Hatteras Basin;;;;;;;;;x;
+PROV2648;West Sargasso Sea;West Sargasso Sea;West Sargasso Sea;West Sargasso Sea;;;;;;;;;x;
+PROV2649;West Caribbean Sea;West Caribbean Sea;West Caribbean Sea;West Caribbean Sea;;;;;;;;;x;
+PROV2650;Kùutsmil Coast;Kùutsmil Coast;Kùutsmil Coast;Kùutsmil Coast;;;;;;;;;x;
+PROV2651;Amatique Bay;Amatique Bay;Amatique Bay;Amatique Bay;;;;;;;;;x;
+PROV2652;Lake Izabal;Lake Izabal;Lake Izabal;Lake Izabal;;;;;;;;;x;
+PROV2653;Pech Coast;Pech Coast;Pech Coast;Pech Coast;;;;;;;;;x;
+PROV2654;Mískitu Coast;Mískitu Coast;Mískitu Coast;Mískitu Coast;;;;;;;;;x;
+PROV2655;Lake Cocibolca;Lake Cocibolca;Lake Cocibolca;Lake Cocibolca;;;;;;;;;x;
+PROV2656;Lake Xolotlán;Lake Xolotlán;Lake Xolotlán;Lake Xolotlán;;;;;;;;;x;
+PROV2657;Darién Gulf;Darién Gulf;Darién Gulf;Darién Gulf;;;;;;;;;x;
+PROV2658;Tairona Coast;Tairona Coast;Tairona Coast;Tairona Coast;;;;;;;;;x;
+PROV2659;Lake Maracaibo;Lake Maracaibo;Lake Maracaibo;Lake Maracaibo;;;;;;;;;x;
+PROV2660;Veneciuela Gulf;Veneciuela Gulf;Veneciuela Gulf;Veneciuela Gulf;;;;;;;;;x;
+PROV2661;Caquetio Sea;Caquetio Sea;Caquetio Sea;Caquetio Sea;;;;;;;;;x;
+PROV2662;Caracas Bay;Caracas Bay;Caracas Bay;Caracas Bay;;;;;;;;;x;
+PROV2663;Guaymí Gulf;Guaymí Gulf;Guaymí Gulf;Guaymí Gulf;;;;;;;;;x;
+PROV2664;Blake Basin;Blake Basin;Blake Basin;Blake Basin;;;;;;;;;x;
+PROV2665;Nares Sea;Nares Sea;Nares Sea;Nares Sea;;;;;;;;;x;
+PROV2666;Hudson Basin;Hudson Basin;Hudson Basin;Hudson Basin;;;;;;;;;x;
+PROV2667;Delaware Basin;Delaware Basin;Delaware Basin;Delaware Basin;;;;;;;;;x;
+PROV2668;Bermuda Rise;Bermuda Rise;Bermuda Rise;Bermuda Rise;;;;;;;;;x;
+PROV2669;Sohm Sea;Sohm Sea;Sohm Sea;Sohm Sea;;;;;;;;;x;
+PROV2670;Newfoundland Basin;Newfoundland Basin;Newfoundland Basin;Newfoundland Basin;;;;;;;;;x;
+PROV2671;Mauritanian Basin;Mauritanian Basin;Mauritanian Basin;Mauritanian Basin;;;;;;;;;x;
+PROV2672;Canary Basin;Canary Basin;Canary Basin;Canary Basin;;;;;;;;;x;
+PROV2673;East Sargasso Sea;East Sargasso Sea;East Sargasso Sea;East Sargasso Sea;;;;;;;;;x;
+PROV2674;Sargasso Sea;Sargasso Sea;Sargasso Sea;Sargasso Sea;;;;;;;;;x;
+PROV2675;Atlantis Ridge;Atlantis Ridge;Atlantis Ridge;Atlantis Ridge;;;;;;;;;x;
+PROV2676;Palmas Basin;Palmas Basin;Palmas Basin;Palmas Basin;;;;;;;;;x;
+PROV2677;Gorgades Basin;Gorgades Basin;Gorgades Basin;Gorgades Basin;;;;;;;;;x;
+PROV2678;Vema Ridge;Vema Ridge;Vema Ridge;Vema Ridge;;;;;;;;;x;
+PROV2679;Kane Ridge;Kane Ridge;Kane Ridge;Kane Ridge;;;;;;;;;x;
+PROV2680;Guyana Gulf;Guyana Gulf;Guyana Gulf;Guyana Gulf;;;;;;;;;x;
+PROV2681;Antilles Basin;Antilles Basin;Antilles Basin;Antilles Basin;;;;;;;;;x;
+PROV2682;Cape Horn;Cape Horn;Cape Horn;Cape Horn;;;;;;;;;x;
+PROV2683;Haush Gulf;Haush Gulf;Haush Gulf;Haush Gulf;;;;;;;;;x;
+PROV2684;Selknam Straits;Selknam Straits;Selknam Straits;Selknam Straits;;;;;;;;;x;
+PROV2685;Malo Sea;Malo Sea;Malo Sea;Malo Sea;;;;;;;;;x;
+PROV2686;Scotia Sea;Scotia Sea;Scotia Sea;Scotia Sea;;;;;;;;;x;
+PROV2687;Scotia Ridge;Scotia Ridge;Scotia Ridge;Scotia Ridge;;;;;;;;;x;
+PROV2688;Roche Sea;Roche Sea;Roche Sea;Roche Sea;;;;;;;;;x;
+PROV2689;South Atlantic Ridge;South Atlantic Ridge;South Atlantic Ridge;South Atlantic Ridge;;;;;;;;;x;
+PROV2690;Gulf of Guinea;Gulf of Guinea;Gulf of Guinea;Gulf of Guinea;;;;;;;;;x;
+PROV2691;Angola Basin;Angola Basin;Angola Basin;Angola Basin;;;;;;;;;x;
+PROV2692;Walvis Ridge;Walvis Ridge;Walvis Ridge;Walvis Ridge;;;;;;;;;x;
+PROV2693;Cape Basin;Cape Basin;Cape Basin;Cape Basin;;;;;;;;;x;
+PROV2694;Palmas Sea;Palmas Sea;Palmas Sea;Palmas Sea;;;;;;;;;x;
+PROV2695;Sea of Refreshment;Sea of Refreshment;Sea of Refreshment;Sea of Refreshment;;;;;;;;;x;
+PROV2696;Helena Sea;Helena Sea;Helena Sea;Helena Sea;;;;;;;;;x;
+PROV2697;Rio Grande Rise;Rio Grande Rise;Rio Grande Rise;Rio Grande Rise;;;;;;;;;x;
+PROV2698;Argentine Basin;Argentine Basin;Argentine Basin;Argentine Basin;;;;;;;;;x;
+PROV2699;Patagonian Shelf;Patagonian Shelf;Patagonian Shelf;Patagonian Shelf;;;;;;;;;x;
+PROV2700;Vema Trench;Vema Trench;Vema Trench;Vema Trench;;;;;;;;;x;
+PROV2701;Argentine Sea;Argentine Sea;Argentine Sea;Argentine Sea;;;;;;;;;x;
+PROV2702;Mid-Atlantic Ridge;Mid-Atlantic Ridge;Mid-Atlantic Ridge;Mid-Atlantic Ridge;;;;;;;;;x;
+PROV2703;Brazilian Basin;Brazilian Basin;Brazilian Basin;Brazilian Basin;;;;;;;;;x;
+PROV2704;Romanche Trench;Romanche Trench;Romanche Trench;Romanche Trench;;;;;;;;;x;
+PROV2705;Pernambuco Basin;Pernambuco Basin;Pernambuco Basin;Pernambuco Basin;;;;;;;;;x;
+PROV2706;Amazonian Basin;Amazonian Basin;Amazonian Basin;Amazonian Basin;;;;;;;;;x;
+PROV2707;Aonikenk Gulf;Aonikenk Gulf;Aonikenk Gulf;Aonikenk Gulf;;;;;;;;;x;
+PROV2708;Chubut Bay;Chubut Bay;Chubut Bay;Chubut Bay;;;;;;;;;x;
+PROV2709;Puelche Bay;Puelche Bay;Puelche Bay;Puelche Bay;;;;;;;;;x;
+PROV2710;Het Bay;Het Bay;Het Bay;Het Bay;;;;;;;;;x;
+PROV2711;Querandí Coast;Querandí Coast;Querandí Coast;Querandí Coast;;;;;;;;;x;
+PROV2712;Charrúa Bay;Charrúa Bay;Charrúa Bay;Charrúa Bay;;;;;;;;;x;
+PROV2713;Lake Henia;Lake Henia;Lake Henia;Lake Henia;;;;;;;;;x;
+PROV2714;Lake Mirim;Lake Mirim;Lake Mirim;Lake Mirim;;;;;;;;;x;
+PROV2715;Lake Patos;Lake Patos;Lake Patos;Lake Patos;;;;;;;;;x;
+PROV2716;Guaraní Coast;Guaraní Coast;Guaraní Coast;Guaraní Coast;;;;;;;;;x;
+PROV2717;Tupi Gulf;Tupi Gulf;Tupi Gulf;Tupi Gulf;;;;;;;;;x;
+PROV2718;Aimoré Coast;Aimoré Coast;Aimoré Coast;Aimoré Coast;;;;;;;;;x;
+PROV2719;Tupi Coast;Tupi Coast;Tupi Coast;Tupi Coast;;;;;;;;;x;
+PROV2720;Potiguara Coast;Potiguara Coast;Potiguara Coast;Potiguara Coast;;;;;;;;;x;
+PROV2721;Tremembé Coast;Tremembé Coast;Tremembé Coast;Tremembé Coast;;;;;;;;;x;
+PROV2722;Amazonian Delta;Amazonian Delta;Amazonian Delta;Amazonian Delta;;;;;;;;;x;
+PROV2723;Palikur Coast;Palikur Coast;Palikur Coast;Palikur Coast;;;;;;;;;x;
+PROV2724;South Indian Basin;South Indian Basin;South Indian Basin;South Indian Basin;;;;;;;;;x;
+PROV2725;Australian Ridge;Australian Ridge;Australian Ridge;Australian Ridge;;;;;;;;;x;
+PROV2726;Australian Basin;Australian Basin;Australian Basin;Australian Basin;;;;;;;;;x;
+PROV2727;Tasman Rise;Tasman Rise;Tasman Rise;Tasman Rise;;;;;;;;;x;
+PROV2728;Wînipâkw Strait;Wînipâkw Strait;Wînipâkw Strait;Wînipâkw Strait;;;;;;;;;x;
+PROV2729;East Wînipâkw Bay;East Wînipâkw Bay;East Wînipâkw Bay;East Wînipâkw Bay;;;;;;;;;x;
+PROV2730;Yawuru Sea;Yawuru Sea;Yawuru Sea;Yawuru Sea;;;;;;;;;x;
+PROV2731;Arafura Sea;Arafura Sea;Arafura Sea;Arafura Sea;;;;;;;;;x;
+PROV2732;Yolgnu Sea;Yolgnu Sea;Yolgnu Sea;Yolgnu Sea;;;;;;;;;x;
+PROV2733;Papua Gulf;Papua Gulf;Papua Gulf;Papua Gulf;;;;;;;;;x;
+PROV2734;West Wînipâkw Bay;West Wînipâkw Bay;West Wînipâkw Bay;West Wînipâkw Bay;;;;;;;;;x;
+PROV2735;Nunavut Basin;Nunavut Basin;Nunavut Basin;Nunavut Basin;;;;;;;;;x;
+PROV2736;Qikiqtaaluk Gulf;Qikiqtaaluk Gulf;Qikiqtaaluk Gulf;Qikiqtaaluk Gulf;;;;;;;;;x;
+PROV2737;Lake Michikamau;Lake Michikamau;Lake Michikamau;Lake Michikamau;;;;;;;;;x;
+PROV2738;Lake Mistassini;Lake Mistassini;Lake Mistassini;Lake Mistassini;;;;;;;;;x;
+PROV2739;Lake Apisikamîs;Lake Apisikamîs;Lake Apisikamîs;Lake Apisikamîs;;;;;;;;;x;
+PROV2740;Lake Petonbowk;Lake Petonbowk;Lake Petonbowk;Lake Petonbowk;;;;;;;;;x;
+PROV2741;Lake Nipissing;Lake Nipissing;Lake Nipissing;Lake Nipissing;;;;;;;;;x;
+PROV2742;Lake Ouentironk;Lake Ouentironk;Lake Ouentironk;Lake Ouentironk;;;;;;;;;x;
+PROV2743;Lake Animbiigoong;Lake Animbiigoong;Lake Animbiigoong;Lake Animbiigoong;;;;;;;;;x;
+PROV2744;Lake Minitie;Lake Minitie;Lake Minitie;Lake Minitie;;;;;;;;;x;
+PROV2745;Kitikmeot Channel;Kitikmeot Channel;Kitikmeot Channel;Kitikmeot Channel;;;;;;;;;x;
+PROV2746;Kugluktuk Strait;Kugluktuk Strait;Kugluktuk Strait;Kugluktuk Strait;;;;;;;;;x;
+PROV2747;Inuvik Gulf;Inuvik Gulf;Inuvik Gulf;Inuvik Gulf;;;;;;;;;x;
+PROV2748;Tuktuyaaqtuuq Sea;Tuktuyaaqtuuq Sea;Tuktuyaaqtuuq Sea;Tuktuyaaqtuuq Sea;;;;;;;;;x;
+PROV2749;Utqiagvik Sea;Utqiagvik Sea;Utqiagvik Sea;Utqiagvik Sea;;;;;;;;;x;
+PROV2750;Chukchi Sea;Chukchi Sea;Chukchi Sea;Chukchi Sea;;;;;;;;;x;
+PROV2751;East Siberian Sea;East Siberian Sea;East Siberian Sea;East Siberian Sea;;;;;;;;;x;
+PROV2752;Lake Sahtú;Lake Sahtú;Lake Sahtú;Lake Sahtú;;;;;;;;;x;
+PROV2753;Lake Tinde'e;Lake Tinde'e;Lake Tinde'e;Lake Tinde'e;;;;;;;;;x;
+PROV2754;Lake Dubawnt;Lake Dubawnt;Lake Dubawnt;Lake Dubawnt;;;;;;;;;x;
+PROV2755;Lake Athabasca;Lake Athabasca;Lake Athabasca;Lake Athabasca;;;;;;;;;x;
+PROV2756;Lake Kapawe'no;Lake Kapawe'no;Lake Kapawe'no;Lake Kapawe'no;;;;;;;;;x;
+PROV2757;Lake Kinosew;Lake Kinosew;Lake Kinosew;Lake Kinosew;;;;;;;;;x;
+PROV2758;Lake Wînipekw;Lake Wînipekw;Lake Wînipekw;Lake Wînipekw;;;;;;;;;x;
+PROV2759;Lake Gichigami;Lake Gichigami;Lake Gichigami;Lake Gichigami;;;;;;;;;x;
+PROV2760;Lake Mishigami;Lake Mishigami;Lake Mishigami;Lake Mishigami;;;;;;;;;x;
+PROV2761;Lake Karegnondi;Lake Karegnondi;Lake Karegnondi;Lake Karegnondi;;;;;;;;;x;
+PROV2762;Lake Otsiketa;Lake Otsiketa;Lake Otsiketa;Lake Otsiketa;;;;;;;;;x;
+PROV2763;Lake Erige;Lake Erige;Lake Erige;Lake Erige;;;;;;;;;x;
+PROV2764;Lake Ontario;Lake Ontario;Lake Ontario;Lake Ontario;;;;;;;;;x;
+PROV2765;Finger Lakes;Finger Lakes;Finger Lakes;Finger Lakes;;;;;;;;;x;
+PROV2766;Lake Timpanog;Lake Timpanog;Lake Timpanog;Lake Timpanog;;;;;;;;;x;
+PROV2767;Nechako Lakes;Nechako Lakes;Nechako Lakes;Nechako Lakes;;;;;;;;;x;
+PROV2768;Lake Dá'aw;Lake Dá'aw;Lake Dá'aw;Lake Dá'aw;;;;;;;;;x;
+PROV2769;Lake Chapala;Lake Chapala;Lake Chapala;Lake Chapala;;;;;;;;;x;
+PROV2770;Lake Texcoco;Lake Texcoco;Lake Texcoco;Lake Texcoco;;;;;;;;;x;
+PROV2771;Lake Uberaba;Lake Uberaba;Lake Uberaba;Lake Uberaba;;;;;;;;;x;
+PROV2772;Lake Poopó;Lake Poopó;Lake Poopó;Lake Poopó;;;;;;;;;x;
+PROV2773;Lake Titiqaqa;Lake Titiqaqa;Lake Titiqaqa;Lake Titiqaqa;;;;;;;;;x;
+PROV2774;Lake Rogagua;Lake Rogagua;Lake Rogagua;Lake Rogagua;;;;;;;;;x;
+PROV2775;Nhuwala Sea;Nhuwala Sea;Nhuwala Sea;Nhuwala Sea;;;;;;;;;x;
+PROV2776;Boorloo Sea;Boorloo Sea;Boorloo Sea;Boorloo Sea;;;;;;;;;x;
+PROV2777;Lutriwita Strait;Lutriwita Strait;Lutriwita Strait;Lutriwita Strait;;;;;;;;;x;
+PROV2778;Toogee Coast;Toogee Coast;Toogee Coast;Toogee Coast;;;;;;;;;x;
+PROV2779;Palawa Coast;Palawa Coast;Palawa Coast;Palawa Coast;;;;;;;;;x;
+PROV2780;Tasman Sea;Tasman Sea;Tasman Sea;Tasman Sea;;;;;;;;;x;
+PROV2781;Wudjari Coast;Wudjari Coast;Wudjari Coast;Wudjari Coast;;;;;;;;;x;
+PROV2782;Wirangu Bight;Wirangu Bight;Wirangu Bight;Wirangu Bight;;;;;;;;;x;
+PROV2783;Narangga Gulf;Narangga Gulf;Narangga Gulf;Narangga Gulf;;;;;;;;;x;
+PROV2784;Maungahuka Sea;Maungahuka Sea;Maungahuka Sea;Maungahuka Sea;;;;;;;;;x;
+PROV2785;Wharekauri Sea;Wharekauri Sea;Wharekauri Sea;Wharekauri Sea;;;;;;;;;x;
+PROV2786;Moruya Coast;Moruya Coast;Moruya Coast;Moruya Coast;;;;;;;;;x;
+PROV2787;Quandamooka Coast;Quandamooka Coast;Quandamooka Coast;Quandamooka Coast;;;;;;;;;x;
+PROV2788;Great Barrier Reef;Great Barrier Reef;Great Barrier Reef;Great Barrier Reef;;;;;;;;;x;
+PROV2789;Coral Sea;Coral Sea;Coral Sea;Coral Sea;;;;;;;;;x;
+PROV2790;Rangitahua Sea;Rangitahua Sea;Rangitahua Sea;Rangitahua Sea;;;;;;;;;x;
+PROV2791;Aoraki Coast;Aoraki Coast;Aoraki Coast;Aoraki Coast;;;;;;;;;x;
+PROV2792;Waitaki Coast;Waitaki Coast;Waitaki Coast;Waitaki Coast;;;;;;;;;x;
+PROV2793;Raukawa Strait;Raukawa Strait;Raukawa Strait;Raukawa Strait;;;;;;;;;x;
+PROV2794;Heretaunga Coast;Heretaunga Coast;Heretaunga Coast;Heretaunga Coast;;;;;;;;;x;
+PROV2795;Tai-o-Rehua;Tai-o-Rehua;Tai-o-Rehua;Tai-o-Rehua;;;;;;;;;x;
+PROV2796;Te Moana-a-Toi;Te Moana-a-Toi;Te Moana-a-Toi;Te Moana-a-Toi;;;;;;;;;x;
+PROV2797;Zealandia Basin;Zealandia Basin;Zealandia Basin;Zealandia Basin;;;;;;;;;x;
+PROV2798;Lapita Sea;Lapita Sea;Lapita Sea;Lapita Sea;;;;;;;;;x;
+PROV2799;Tonga Sea;Tonga Sea;Tonga Sea;Tonga Sea;;;;;;;;;x;
+PROV2800;Viti Sea;Viti Sea;Viti Sea;Viti Sea;;;;;;;;;x;
+PROV2801;Isatabu Sea;Isatabu Sea;Isatabu Sea;Isatabu Sea;;;;;;;;;x;
+PROV2802;Kuril Sea;Kuril Sea;Kuril Sea;Kuril Sea;;;;;;;;;x;
+PROV2803;Kavieng Sea;Kavieng Sea;Kavieng Sea;Kavieng Sea;;;;;;;;;x;
+PROV2804;Sepik Coast;Sepik Coast;Sepik Coast;Sepik Coast;;;;;;;;;x;
+PROV2805;Madang Sea;Madang Sea;Madang Sea;Madang Sea;;;;;;;;;x;
+PROV2806;Palau Sea;Palau Sea;Palau Sea;Palau Sea;;;;;;;;;x;
+PROV2807;Melenesia Sea;Melenesia Sea;Melenesia Sea;Melenesia Sea;;;;;;;;;x;
+PROV2808;East Philippine Sea;East Philippine Sea;East Philippine Sea;East Philippine Sea;;;;;;;;;x;
+PROV2809;Yap Sea;Yap Sea;Yap Sea;Yap Sea;;;;;;;;;x;
+PROV2810;Woleai Sea;Woleai Sea;Woleai Sea;Woleai Sea;;;;;;;;;x;
+PROV2811;Chuuk Sea;Chuuk Sea;Chuuk Sea;Chuuk Sea;;;;;;;;;x;
+PROV2812;Chamori Sea;Chamori Sea;Chamori Sea;Chamori Sea;;;;;;;;;x;
+PROV2813;Pohnpei Sea;Pohnpei Sea;Pohnpei Sea;Pohnpei Sea;;;;;;;;;x;
+PROV2814;Nauru Sea;Nauru Sea;Nauru Sea;Nauru Sea;;;;;;;;;x;
+PROV2815;Temotu Sea;Temotu Sea;Temotu Sea;Temotu Sea;;;;;;;;;x;
+PROV2816;Samoa Sea;Samoa Sea;Samoa Sea;Samoa Sea;;;;;;;;;x;
+PROV2817;Tuvalu Sea;Tuvalu Sea;Tuvalu Sea;Tuvalu Sea;;;;;;;;;x;
+PROV2818;Tungaru Sea;Tungaru Sea;Tungaru Sea;Tungaru Sea;;;;;;;;;x;
+PROV2819;Tokelau Sea;Tokelau Sea;Tokelau Sea;Tokelau Sea;;;;;;;;;x;
+PROV2820;Rawaki Sea;Rawaki Sea;Rawaki Sea;Rawaki Sea;;;;;;;;;x;
+PROV2821;Kalama Sea;Kalama Sea;Kalama Sea;Kalama Sea;;;;;;;;;x;
+PROV2822;Ratak Sea;Ratak Sea;Ratak Sea;Ratak Sea;;;;;;;;;x;
+PROV2823;Railik Sea;Railik Sea;Railik Sea;Railik Sea;;;;;;;;;x;
+PROV2824;Enenkio Sea;Enenkio Sea;Enenkio Sea;Enenkio Sea;;;;;;;;;x;
+PROV2825;Micronesia Sea;Micronesia Sea;Micronesia Sea;Micronesia Sea;;;;;;;;;x;
+PROV2826;Kauihelani Sea;Kauihelani Sea;Kauihelani Sea;Kauihelani Sea;;;;;;;;;x;
+PROV2827;Ioretto Basin;Ioretto Basin;Ioretto Basin;Ioretto Basin;;;;;;;;;x;
+PROV2828;Shatsky Rise;Shatsky Rise;Shatsky Rise;Shatsky Rise;;;;;;;;;x;
+PROV2829;Emperor Seamounts;Emperor Seamounts;Emperor Seamounts;Emperor Seamounts;;;;;;;;;x;
+PROV2830;Kuril Basin;Kuril Basin;Kuril Basin;Kuril Basin;;;;;;;;;x;
+PROV2831;Hess Rise;Hess Rise;Hess Rise;Hess Rise;;;;;;;;;x;
+PROV2832;Bering Sea;Bering Sea;Bering Sea;Bering Sea;;;;;;;;;x;
+PROV2833;Aleutian Basin;Aleutian Basin;Aleutian Basin;Aleutian Basin;;;;;;;;;x;
+PROV2834;Alyutor Sea;Alyutor Sea;Alyutor Sea;Alyutor Sea;;;;;;;;;x;
+PROV2835;Aleutian Sea;Aleutian Sea;Aleutian Sea;Aleutian Sea;;;;;;;;;x;
+PROV2836;Qik’rtaq Sea;Qik’rtaq Sea;Qik’rtaq Sea;Qik’rtaq Sea;;;;;;;;;x;
+PROV2837;Alyeska Gulf;Alyeska Gulf;Alyeska Gulf;Alyeska Gulf;;;;;;;;;x;
+PROV2838;Tlingit Coast;Tlingit Coast;Tlingit Coast;Tlingit Coast;;;;;;;;;x;
+PROV2839;Haida Coast;Haida Coast;Haida Coast;Haida Coast;;;;;;;;;x;
+PROV2840;Salish Coast;Salish Coast;Salish Coast;Salish Coast;;;;;;;;;x;
+PROV2841;Passage Sea;Passage Sea;Passage Sea;Passage Sea;;;;;;;;;x;
+PROV2842;Hess Basin;Hess Basin;Hess Basin;Hess Basin;;;;;;;;;x;
+PROV2843;Kawésqar Coast;Kawésqar Coast;Kawésqar Coast;Kawésqar Coast;;;;;;;;;x;
+PROV2844;Chono Bay;Chono Bay;Chono Bay;Chono Bay;;;;;;;;;x;
+PROV2845;Mapuche Coast;Mapuche Coast;Mapuche Coast;Mapuche Coast;;;;;;;;;x;
+PROV2846;Atacama Coast;Atacama Coast;Atacama Coast;Atacama Coast;;;;;;;;;x;
+PROV2847;Aymara Bight;Aymara Bight;Aymara Bight;Aymara Bight;;;;;;;;;x;
+PROV2848;Quechuan Coast;Quechuan Coast;Quechuan Coast;Quechuan Coast;;;;;;;;;x;
+PROV2849;Chimor Coast;Chimor Coast;Chimor Coast;Chimor Coast;;;;;;;;;x;
+PROV2850;Quitu-Cara Coast;Quitu-Cara Coast;Quitu-Cara Coast;Quitu-Cara Coast;;;;;;;;;x;
+PROV2851;Quimbaya Gulf;Quimbaya Gulf;Quimbaya Gulf;Quimbaya Gulf;;;;;;;;;x;
+PROV2852;Ngäbe Bay;Ngäbe Bay;Ngäbe Bay;Ngäbe Bay;;;;;;;;;x;
+PROV2853;Niquiran Coast;Niquiran Coast;Niquiran Coast;Niquiran Coast;;;;;;;;;x;
+PROV2854;Cuzcatlan Coast;Cuzcatlan Coast;Cuzcatlan Coast;Cuzcatlan Coast;;;;;;;;;x;
+PROV2855;Moluwapi Sea;Moluwapi Sea;Moluwapi Sea;Moluwapi Sea;;;;;;;;;x;
+PROV2856;Nazca Sea;Nazca Sea;Nazca Sea;Nazca Sea;;;;;;;;;x;
+PROV2857;Yawatisuyu Sea;Yawatisuyu Sea;Yawatisuyu Sea;Yawatisuyu Sea;;;;;;;;;x;
+PROV2858;Mamaqucha Sea;Mamaqucha Sea;Mamaqucha Sea;Mamaqucha Sea;;;;;;;;;x;
+PROV2859;Izapa Coast;Izapa Coast;Izapa Coast;Izapa Coast;;;;;;;;;x;
+PROV2860;Tlapan Coast;Tlapan Coast;Tlapan Coast;Tlapan Coast;;;;;;;;;x;
+PROV2861;Tzintzuntzáni Coast;Tzintzuntzáni Coast;Tzintzuntzáni Coast;Tzintzuntzáni Coast;;;;;;;;;x;
+PROV2862;Colotlán Coast;Colotlán Coast;Colotlán Coast;Colotlán Coast;;;;;;;;;x;
+PROV2863;Colhuacan Coast;Colhuacan Coast;Colhuacan Coast;Colhuacan Coast;;;;;;;;;x;
+PROV2864;Opata Gulf;Opata Gulf;Opata Gulf;Opata Gulf;;;;;;;;;x;
+PROV2865;Socorro Sea;Socorro Sea;Socorro Sea;Socorro Sea;;;;;;;;;x;
+PROV2866;Guaycura Coast;Guaycura Coast;Guaycura Coast;Guaycura Coast;;;;;;;;;x;
+PROV2867;Cochimí Coast;Cochimí Coast;Cochimí Coast;Cochimí Coast;;;;;;;;;x;
+PROV2868;Tongva Coast;Tongva Coast;Tongva Coast;Tongva Coast;;;;;;;;;x;
+PROV2869;Ohlone Coast;Ohlone Coast;Ohlone Coast;Ohlone Coast;;;;;;;;;x;
+PROV2870;Klamath Coast;Klamath Coast;Klamath Coast;Klamath Coast;;;;;;;;;x;
+PROV2871;Chinook Coast;Chinook Coast;Chinook Coast;Chinook Coast;;;;;;;;;x;
+PROV2872;Hawaii Sea;Hawaii Sea;Hawaii Sea;Hawaii Sea;;;;;;;;;x;
+PROV2873;Hawaii Basin;Hawaii Basin;Hawaii Basin;Hawaii Basin;;;;;;;;;x;
+PROV2874;Tufts Basin;Tufts Basin;Tufts Basin;Tufts Basin;;;;;;;;;x;
+PROV2875;Mendocino Sea;Mendocino Sea;Mendocino Sea;Mendocino Sea;;;;;;;;;x;
+PROV2876;Murray Sea;Murray Sea;Murray Sea;Murray Sea;;;;;;;;;x;
+PROV2877;California Sea;California Sea;California Sea;California Sea;;;;;;;;;x;
+PROV2878;Molokai Sea;Molokai Sea;Molokai Sea;Molokai Sea;;;;;;;;;x;
+PROV2879;Tabuaera Sea;Tabuaera Sea;Tabuaera Sea;Tabuaera Sea;;;;;;;;;x;
+PROV2880;Manihiki Sea;Manihiki Sea;Manihiki Sea;Manihiki Sea;;;;;;;;;x;
+PROV2881;Rarotonga Sea;Rarotonga Sea;Rarotonga Sea;Rarotonga Sea;;;;;;;;;x;
+PROV2882;Nuku Hiva Sea;Nuku Hiva Sea;Nuku Hiva Sea;Nuku Hiva Sea;;;;;;;;;x;
+PROV2883;Tahiti Sea;Tahiti Sea;Tahiti Sea;Tahiti Sea;;;;;;;;;x;
+PROV2884;Tau Tama Sea;Tau Tama Sea;Tau Tama Sea;Tau Tama Sea;;;;;;;;;x;
+PROV2885;Rapa Nui Sea;Rapa Nui Sea;Rapa Nui Sea;Rapa Nui Sea;;;;;;;;;x;
+PROV2886;Clarion Sea;Clarion Sea;Clarion Sea;Clarion Sea;;;;;;;;;x;
+PROV2887;Tangaroa Sea;Tangaroa Sea;Tangaroa Sea;Tangaroa Sea;;;;;;;;;x;
+PROV2888;Tlaloc Sea;Tlaloc Sea;Tlaloc Sea;Tlaloc Sea;;;;;;;;;x;
+PROV2889;Clipperton Sea;Clipperton Sea;Clipperton Sea;Clipperton Sea;;;;;;;;;x;
+PROV2890;Polynesian Sea;Polynesian Sea;Polynesian Sea;Polynesian Sea;;;;;;;;;x;
+PROV2891;Hiva Sea;Hiva Sea;Hiva Sea;Hiva Sea;;;;;;;;;x;
+PROV2892;Humboldt Sea;Humboldt Sea;Humboldt Sea;Humboldt Sea;;;;;;;;;x;
+PROV2893;Challenge Sea;Challenge Sea;Challenge Sea;Challenge Sea;;;;;;;;;x;
+PROV2894;Eltanin Sea;Eltanin Sea;Eltanin Sea;Eltanin Sea;;;;;;;;;x;

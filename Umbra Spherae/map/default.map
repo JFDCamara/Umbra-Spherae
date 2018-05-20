@@ -1,4 +1,4 @@
-max_provinces = 2457
+max_provinces = 2895
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -30,18 +30,43 @@ sea_zones = { 1293 1293 }
 sea_zones = { 2301 2373 }
 sea_zones = { 2410 2411 }
 
+#Other Seas
+sea_zones = { 1643 1644 }
+sea_zones = { 2447 2468 }
+sea_zones = { 2528 2603 }
+sea_zones = { 2605 2651 }
+sea_zones = { 2653 2654 }
+sea_zones = { 2657 2658 }
+sea_zones = { 2660 2712 }
+sea_zones = { 2716 2736 }
+sea_zones = { 2745 2751 }
+sea_zones = { 2775 2894 }
+
 # Non-accessible sea zones
 sea_zones = { 944 944 }
 sea_zones = { 1529 1529 }
 sea_zones = { 1580 1580 }
+sea_zones = { 2604 2604 }
+sea_zones = { 2652 2652 }
+sea_zones = { 2655 2656 }
+sea_zones = { 2659 2659 }
+sea_zones = { 2713 2715 }
+sea_zones = { 2737 2744 }
+sea_zones = { 2752 2774 }
+sea_zones = { 2469 2527 }
 
-ocean_region = {	# European Ocean
-	sea_zones = { 1 2 3 4 }
+
+ocean_region = {	# World Ocean
+	sea_zones = { 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 }
 }
 
-ocean_region = {	# Indian Ocean
-	sea_zones = { 5 6 7 8 9 10 }
-}
+#ocean_region = {	# European Ocean
+#	sea_zones = { 1 2 3 4 5 12 13 14 15 16 17 18 19 20 }
+#}
+
+#ocean_region = {	# Indian Ocean
+#	sea_zones = { 6 7 8 9 10 11 }
+#}
 
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
 tree = { 3 4 7 10 }
@@ -75,6 +100,14 @@ major_rivers =
 	958 #Ladoga
 	997 #Onega
 	944 #Aral Sea
+
+	# Africa
+	2447 2448 2449 2450 2451 2452 2453 2454 2455 2456 #Nile
+	2457 2458 #Blue Nile
+	2459 2460 2461 2462 2463 2464 2465 #White Nile
+	2466 #Semliki
+	2467 #Katonga
+	2468 #Kazinga
 }
 
 externals = { } # Silkroad Paths to china
