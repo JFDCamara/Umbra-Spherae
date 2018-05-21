@@ -1,0 +1,89 @@
+GOD_THAGYAMIN;Thagyamin;;;;;;;;;;;;;x
+GOD_PHRAM;Phram;;;;;;;;;;;;;x
+GOD_TOSAKANTH;Tosakanth;;;;;;;;;;;;;x
+GOD_SUPHANNA_MATCHA;Suphanna Matcha;;;;;;;;;;;;;x
+GOD_NANG_KWAK;Nang Kwak;;;;;;;;;;;;;x
+GOD_PHI_FA;Phi Fa;;;;;;;;;;;;;x
+GOD_PHOSOP;Phosop;;;;;;;;;;;;;x
+GOD_KUMAN_THONG;Kuman Thong;;;;;;;;;;;;;x
+GOD_NANG_MAI;Nang Mai;;;;;;;;;;;;;x
+GOD_NANG_TAKIAN;Nang Takian;;;;;;;;;;;;;x
+GOD_NANG_TANI;Nang Tani;;;;;;;;;;;;;x
+GOD_PHI_THALE;Phi Thale;;;;;;;;;;;;;x
+THE_PHRA;The Phra;;;;;;;;;;;;;x
+MOPHI;Mophi;;;;;;;;;;;;;x
+GOD_MUBYASEI;Mubyasei;;;;;;;;;;;;;x
+GOD_ABBA_CHI;Abba Chi;;;;;;;;;;;;;x
+GOD_ABBA_SEI;Abba Sei;;;;;;;;;;;;;x
+GOD_SHAN_WANG;Shan Wang;;;;;;;;;;;;;x
+DUANGONG;Duangong;;;;;;;;;;;;;x
+GOD_SHANGDI;Shangdi;;;;;;;;;;;;;x
+GOD_PANGU;Pangu;;;;;;;;;;;;;x
+GOD_FUXI;Fuxi;;;;;;;;;;;;;x
+GOD_NUWA;Nuwa;;;;;;;;;;;;;x
+GOD_CHANG'E;Chang'e;;;;;;;;;;;;;x
+GOD_SHENNONG;Shennong;;;;;;;;;;;;;x
+GOD_HUANGDI;Huangdi;;;;;;;;;;;;;x
+GOD_GUAN_YU;Guan Yu;;;;;;;;;;;;;x
+GOD_CAISHEN;Caishen;;;;;;;;;;;;;x
+GOD_THE_JIUHUANG_DAI;The Jiuhuang Dai;;;;;;;;;;;;;x
+GOD_QIYE;Qiye;;;;;;;;;;;;;x
+GOD_BAYE;Baye;;;;;;;;;;;;;x
+GOD_YU_HUANG;Yu Huang;;;;;;;;;;;;;x
+GOD_TUDI_GONG;Tudi Gong;;;;;;;;;;;;;x
+GOD_WENCHANGDI;Wenchangdi;;;;;;;;;;;;;x
+GOD_XI_WANGMU;Xi Wangmu;;;;;;;;;;;;;x
+GOD_YUEXIA_LAOREN;Yuexia Laoren;;;;;;;;;;;;;x
+GOD_ZAOSHEN;Zaoshen;;;;;;;;;;;;;x
+GOD_MAZU;Mazu;;;;;;;;;;;;;x
+GOD_SHOUSHEN;Shoushen;;;;;;;;;;;;;x
+GOD_FUSHEN;Fushen;;;;;;;;;;;;;x
+GOD_LUSHEN;Lushen;;;;;;;;;;;;;x
+GOD_YAWM_SAUB;Yawm Saub;;;;;;;;;;;;;x
+GOD_SIV_YIS;Siv Yis;;;;;;;;;;;;;x
+GOD_XWM_KAB;Xwm Kab;;;;;;;;;;;;;x
+GOD_NPLOOJ_LWG;Nplooj Lwg;;;;;;;;;;;;;x
+GOD_DAB_XWM_KAB;Dab Xwm Kab;;;;;;;;;;;;;x
+GOD_DAB_POG;Dab Pog;;;;;;;;;;;;;x
+GOD_ZAJ_LAUG;Zaj Laug;;;;;;;;;;;;;x
+GOD_POJ_NTXOOG;Poj Ntxoog;;;;;;;;;;;;;x
+GOD_YAJ_YUAM;Yaj Yuam;;;;;;;;;;;;;x
+GOD_XOB;Xob;;;;;;;;;;;;;x
+GOD_NKAUJ_HNUB;Nkauj Hnub;;;;;;;;;;;;;x
+GOD_NRAUG_HLIS;Nraug Hlis;;;;;;;;;;;;;x
+GOD_TXIV_YAWG;Txiv Yawg;;;;;;;;;;;;;x
+GOD_BULUOTUO;Buluotuo;;;;;;;;;;;;;x
+GOD_MEHOA;Mehoa;;;;;;;;;;;;;x
+GOD_MOLUJIA;Molujia;;;;;;;;;;;;;x
+GOD_SHESHEN;Sheshen;;;;;;;;;;;;;x
+GOD_TUDIGONG;Tudigong;;;;;;;;;;;;;x
+GOD_LUNGZVUENGZ;Lungzvuengz;;;;;;;;;;;;;x
+GOD_THAN;Than;;;;;;;;;;;;;x
+GOD_CAO_DAI;Cao Dai;;;;;;;;;;;;;x
+GOD_KINH_DUONG_VUONG;Kinh Duong Vuong;;;;;;;;;;;;;x
+GOD_LAC_LONG_QUAN;Lac Long Quan;;;;;;;;;;;;;x
+GOD_AU_CO;Au Co;;;;;;;;;;;;;x
+GOD_THE_FOUR_IMMORTALS;The Four Immortals;;;;;;;;;;;;;x
+GOD_THE_FOUR_PALACES_GODDESSES;The Four Palaces Goddesses;;;;;;;;;;;;;x
+GOD_SON_TINH;Son Tinh;;;;;;;;;;;;;x
+GOD_THUY_TINH;Thuy Tinh;;;;;;;;;;;;;x
+GOD_BA_CHUA_KHO;Ba Chua Kho;;;;;;;;;;;;;x
+GOD_BA_CHUA_XU;Ba Chua Xu;;;;;;;;;;;;;x
+GOD_NGOC_HOANG;Ngoc Hoang;;;;;;;;;;;;;x
+GOD_THANH_MAU_LIEU_HANH;Thanh Mau Lieu Hanh;;;;;;;;;;;;;x
+GOD_HANEUL-NIM;Haneul-nim;;;;;;;;;;;;;x
+GOD_DALSOON-NIM;Dalsoon-nim;;;;;;;;;;;;;x
+GOD_HAESIK-NIM;Haesik-nim;;;;;;;;;;;;;x
+GOD_CHEONHA_DAEJANGGUN;Cheonha Daejanggun;;;;;;;;;;;;;x
+GOD_JIHA_YEOJANGGUN;Jiha Yeojanggun;;;;;;;;;;;;;x
+GOD_YONGWANG;Yongwang;;;;;;;;;;;;;x
+GOD_HWANIN;Hwanin;;;;;;;;;;;;;x
+GOD_HWANUNG;Hwanung;;;;;;;;;;;;;x
+GOD_UNGNYEO;Ungnyeo;;;;;;;;;;;;;x
+GOD_DANGUN;Dangun;;;;;;;;;;;;;x
+GOD_THE_SEON-NYEO;The Seon-nyeo;;;;;;;;;;;;;x
+GOD_THE_GWISHIN;The Gwishin;;;;;;;;;;;;;x
+GOD_YUL-RYEO;Yul-ryeo;;;;;;;;;;;;;x
+GOD_MAGO;Mago;;;;;;;;;;;;;x
+GOD_YEONGDEUNGSIN;Yeongdeungsin;;;;;;;;;;;;;x
+

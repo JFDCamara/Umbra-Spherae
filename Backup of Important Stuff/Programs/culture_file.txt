@@ -1,295 +1,295 @@
-##Gingciri Dynasty (Placeholders)
+#Akar Bale Dynasty (Placeholders)
 
-1000076386 = {
-	name="Haæu"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
+1000203960 = {
+	name="Lambda"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
 	720.1.1={
 		birth="720.1.1"
 	}
 	780.1.1={
-		death="780.1.1"
+		birth="780.1.1"
 	}
 }
 
-1000076387 = {
-	name="Diku"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076386
+1000203961 = {
+	name="Pi"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203960
 	750.1.1={
 		birth="750.1.1"
 	}
 	810.1.1={
-		death="810.1.1"
+		birth="810.1.1"
 	}
 }
 
-1000076388 = {
-	name="Abulang"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076387
+1000203962 = {
+	name="Omega"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203961
 	780.1.1={
 		birth="780.1.1"
 	}
 	840.1.1={
-		death="840.1.1"
+		birth="840.1.1"
 	}
 }
 
-1000076389 = {
-	name="Moliye"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076388
+1000203963 = {
+	name="Tau"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203962
 	810.1.1={
 		birth="810.1.1"
 	}
 	870.1.1={
-		death="870.1.1"
+		birth="870.1.1"
 	}
 }
 
-1000076390 = {
-	name="Kunuma"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076389
+1000203964 = {
+	name="Iudo"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203963
 	840.1.1={
 		birth="840.1.1"
 	}
 	900.1.1={
-		death="900.1.1"
+		birth="900.1.1"
 	}
 }
 
-1000076391 = {
-	name="Yawuta"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076390
+1000203965 = {
+	name="Gama"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203964
 	870.1.1={
 		birth="870.1.1"
 	}
 	930.1.1={
-		death="930.1.1"
+		birth="930.1.1"
 	}
 }
 
-1000076392 = {
-	name="Ahai"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076391
+1000203966 = {
+	name="Chi"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203965
 	900.1.1={
 		birth="900.1.1"
 	}
 	960.1.1={
-		death="960.1.1"
+		birth="960.1.1"
 	}
 }
 
-1000076393 = {
-	name="Ilungha"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076392
+1000203967 = {
+	name="Fi"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203966
 	930.1.1={
 		birth="930.1.1"
 	}
 	990.1.1={
-		death="990.1.1"
+		birth="990.1.1"
 	}
 }
 
-1000076394 = {
-	name="Dili"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076393
+1000203968 = {
+	name="Sigma"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203967
 	960.1.1={
 		birth="960.1.1"
 	}
 	1020.1.1={
-		death="1020.1.1"
+		birth="1020.1.1"
 	}
 }
 
-1000076395 = {
-	name="Beilu"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076394
+1000203969 = {
+	name="Beta"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203968
 	990.1.1={
 		birth="990.1.1"
 	}
 	1050.1.1={
-		death="1050.1.1"
+		birth="1050.1.1"
 	}
 }
 
-1000076396 = {
-	name="Andahai"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076395
+1000203970 = {
+	name="Ro"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203969
 	1020.1.1={
 		birth="1020.1.1"
 	}
 	1080.1.1={
-		death="1080.1.1"
+		birth="1080.1.1"
 	}
 }
 
-1000076397 = {
-	name="Wulie"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076396
+1000203971 = {
+	name="Fi"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203970
 	1050.1.1={
 		birth="1050.1.1"
 	}
 	1110.1.1={
-		death="1110.1.1"
+		birth="1110.1.1"
 	}
 }
 
-1000076398 = {
-	name="Iji"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076397
+1000203972 = {
+	name="Ro"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203971
 	1080.1.1={
 		birth="1080.1.1"
 	}
 	1140.1.1={
-		death="1140.1.1"
+		birth="1140.1.1"
 	}
 }
 
-1000076399 = {
-	name="Alihemen"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076398
+1000203973 = {
+	name="Fi"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203972
 	1110.1.1={
 		birth="1110.1.1"
 	}
 	1170.1.1={
-		death="1170.1.1"
+		birth="1170.1.1"
 	}
 }
 
-1000076400 = {
-	name="Guantu"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076399
+1000203974 = {
+	name="Omega"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203973
 	1140.1.1={
 		birth="1140.1.1"
 	}
 	1200.1.1={
-		death="1200.1.1"
+		birth="1200.1.1"
 	}
 }
 
-1000076401 = {
-	name="Eiyeku"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076400
+1000203975 = {
+	name="Epsilon"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203974
 	1170.1.1={
 		birth="1170.1.1"
 	}
 	1230.1.1={
-		death="1230.1.1"
+		birth="1230.1.1"
 	}
 }
 
-1000076402 = {
-	name="Yingge"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076401
+1000203976 = {
+	name="Iota"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203975
 	1200.1.1={
 		birth="1200.1.1"
 	}
 	1260.1.1={
-		death="1260.1.1"
+		birth="1260.1.1"
 	}
 }
 
-1000076403 = {
-	name="Ahaibaifu"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076402
+1000203977 = {
+	name="Chi"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203976
 	1230.1.1={
 		birth="1230.1.1"
 	}
 	1290.1.1={
-		death="1290.1.1"
+		birth="1290.1.1"
 	}
 }
 
-1000076404 = {
-	name="Ningjiasu"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076403
+1000203978 = {
+	name="Beta"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203977
 	1260.1.1={
 		birth="1260.1.1"
 	}
 	1320.1.1={
-		death="1320.1.1"
+		birth="1320.1.1"
 	}
 }
 
-1000076405 = {
-	name="Hulijia"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076404
+1000203979 = {
+	name="Ro"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203978
 	1290.1.1={
 		birth="1290.1.1"
 	}
 	1350.1.1={
-		death="1350.1.1"
+		birth="1350.1.1"
 	}
 }
 
-1000076406 = {
-	name="Agu"
-	dynasty=1000028274 #Gingciri
-	religion="jurchen_pagan"
-	culture="mohe"
-	father=1000076405
+1000203980 = {
+	name="Ro"
+	dynasty=1000028316 #Akar Bale
+	religion="malagasy_religion"
+	culture="andamanese"
+	father=1000203979
 	1320.1.1={
 		birth="1320.1.1"
 	}
 	1380.1.1={
-		death="1380.1.1"
+		birth="1380.1.1"
 	}
 }
 

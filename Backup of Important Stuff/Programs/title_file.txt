@@ -1,65 +1,65 @@
-##Gingciri Dynasty (Placeholders)
+#Akar Bale Dynasty (Placeholders)
 
 750.1.1={
-	holder=1000076386 #Haæu
+	holder=1000203960 #Lambda
 }
 780.1.1={
-	holder=1000076387 #Diku
+	holder=1000203961 #Pi
 }
 810.1.1={
-	holder=1000076388 #Abulang
+	holder=1000203962 #Omega
 }
 840.1.1={
-	holder=1000076389 #Moliye
+	holder=1000203963 #Tau
 }
 870.1.1={
-	holder=1000076390 #Kunuma
+	holder=1000203964 #Iudo
 }
 900.1.1={
-	holder=1000076391 #Yawuta
+	holder=1000203965 #Gama
 }
 930.1.1={
-	holder=1000076392 #Ahai
+	holder=1000203966 #Chi
 }
 960.1.1={
-	holder=1000076393 #Ilungha
+	holder=1000203967 #Fi
 }
 990.1.1={
-	holder=1000076394 #Dili
+	holder=1000203968 #Sigma
 }
 1020.1.1={
-	holder=1000076395 #Beilu
+	holder=1000203969 #Beta
 }
 1050.1.1={
-	holder=1000076396 #Andahai
+	holder=1000203970 #Ro
 }
 1080.1.1={
-	holder=1000076397 #Wulie
+	holder=1000203971 #Fi
 }
 1110.1.1={
-	holder=1000076398 #Iji
+	holder=1000203972 #Ro
 }
 1140.1.1={
-	holder=1000076399 #Alihemen
+	holder=1000203973 #Fi
 }
 1170.1.1={
-	holder=1000076400 #Guantu
+	holder=1000203974 #Omega
 }
 1200.1.1={
-	holder=1000076401 #Eiyeku
+	holder=1000203975 #Epsilon
 }
 1230.1.1={
-	holder=1000076402 #Yingge
+	holder=1000203976 #Iota
 }
 1260.1.1={
-	holder=1000076403 #Ahaibaifu
+	holder=1000203977 #Chi
 }
 1290.1.1={
-	holder=1000076404 #Ningjiasu
+	holder=1000203978 #Beta
 }
 1320.1.1={
-	holder=1000076405 #Hulijia
+	holder=1000203979 #Ro
 }
 1350.1.1={
-	holder=1000076406 #Agu
+	holder=1000203980 #Ro
 }

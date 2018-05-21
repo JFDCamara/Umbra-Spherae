@@ -1,12 +1,22 @@
 #include "stdio.h"
 #include "windows.h"
+#include "time.h"
 
 int main() {
-    FILE *ct, *cs, *cr, *cq;
-    int i=0, j=0, k=0, l=0, m=0, ast=0, spa=0, a=0, b=0;
+    FILE *ct, *cs, *cr, *cq, *cn;
+    int i=0, j=0, k=0, l=0, m=0, ast=0, spa=0, a=0, b=0, randn=0;
+    char n;
+    int char_num=21;
+    time_t t;
     
-    const char *names[20];
-    names[0]="Aka1";
+    int buffer_len = 1024;
+	char* buffer = malloc(buffer_len * sizeof(char));
+    
+    char** onames = malloc(buffer_len * sizeof(char*));
+    char** namex = malloc(buffer_len * sizeof(char*));
+    char** names = malloc(buffer_len * sizeof(char*));
+    
+    /*names[0]="Akar-Bale";
     names[1]="Bora-Dale";
     names[2]="Akar-Bale";
     names[3]="Bora-Dale";
@@ -26,7 +36,8 @@ int main() {
     names[17]="Bora-Dale";
     names[18]="Akar-Bale";
     names[19]="Bora-Dale";
-    names[20]="Fini-Bale";
+    names[20]="Fini-Bale";*/
+    
     
     int initial_char_number = 1000203960;
     int initial_date = 720;
@@ -37,11 +48,15 @@ int main() {
     char religion[] = "\"malagasy_religion\"";
     char culture[] = "\"andamanese\"";
     
-    printf("%s", dynasty);
+    //printf("%s", dynasty);
+
+
+	//printf("A");
 
     //ct=fopen("Nomes.txt","r");
     cs=fopen("culture_file.txt","w");
     ct=fopen("title_file.txt","w");
+    cn=fopen("Nomes.txt","r");
     //cr=fopen("trash.txt", "w");
     //cq=fopen("trash2.txt", "w");
     
@@ -97,7 +112,73 @@ int main() {
         ast=0;
     }*/
     
+    //printf("A");
     
+    
+    /*while (( n = fgetc(cn) )!= EOF) {
+    	
+    	if (name_num<=j) {
+    		*onames = malloc(j * sizeof(int));
+		}
+    	
+    	fgets(onames[a], name_num, cn);
+    	a++;
+    	j++;
+    		printf("%i",j);
+    	
+	}*/
+
+	
+	buffer = fgets(buffer, buffer_len, cn);
+	//printf("%s", buffer);
+
+	//printf("%i\n", cn == NULL);
+	//printf("%i\n", cn);
+	//printf("%s\n",onames[a]);
+	
+	for (a=0;a<=buffer_len;a++) {
+		onames[a] = malloc(buffer_len * sizeof(char));
+	}
+	
+	
+	a=0;
+	while ( fgets(onames[a], buffer_len, cn) != NULL) {
+    	
+    	//printf("%s\n",onames[a]);
+    	//printf("%i\n",j);
+    	a++;
+    	j++;
+    	
+	}
+	
+	j=j-1;
+	
+	for (a=0;a<=buffer_len;a++) {
+		namex[a] = malloc(buffer_len * sizeof(char));
+	}
+	
+	//*names = malloc(j * sizeof(int));
+    
+    srand(time(NULL));
+    
+    for (a=0;a<char_num;a++) {
+    	
+    	randn=rand() % (j+1);
+    	//printf("%d\n",randn);
+    	namex[a]=onames[randn];
+    	//printf("%s",namex[a]);
+	}
+    
+    for (a=0;a<=buffer_len;a++) {
+		names[a] = malloc(buffer_len * sizeof(char));
+	}
+    
+    for (a=0;a<=buffer_len;a++) {
+    	//strncpy(names[a],namex[a],strlen(namex[a])-1);
+    	//printf("%s\n",namex[a]);
+    	//printf("%s\n",names[a]);
+    	names[a]=strtok(namex[a], "\n");
+	}
     
     
     i=0;
@@ -108,7 +189,7 @@ int main() {
         
         fprintf(cs,"%i = {\n", initial_char_number+b);
         fprintf(cs,"\tname=\"%s\"\n", names[i]);
-        fprintf(cs,"\tdynasty=%i %s\n", dynasty_number, dynasty);
+        fprintf(cs,"\tdynasty=%i #%s\n", dynasty_number, dynasty);
         fprintf(cs,"\treligion=%s\n", religion);
         fprintf(cs,"\tculture=%s\n", culture);
         
@@ -194,8 +275,11 @@ int main() {
         fprintf(ct, "technology = { id = %i  average_year = %i           }\n", j, i);
         j++;
     }*/
+    free(names);
+    free(onames);
     fclose(ct);
     fclose(cs);
+    fclose(cn);
     //fclose(cr);
     //fclose(cq);
     system("PAUSE");
