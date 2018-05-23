@@ -1,0 +1,66 @@
+#Andrianaivo Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076634 #Andrianantoandro
+	law = true_cognatic_succession
+}
+780.1.1={
+	holder=1000076635 #Tsilavohery
+}
+810.1.1={
+	holder=1000076636 #Andriantsimitoviaminandriandehibe
+}
+840.1.1={
+	holder=1000076637 #Andrianjaka
+}
+870.1.1={
+	holder=1000076638 #Andriamasinavalona
+}
+900.1.1={
+	holder=1000076639 #Zazaharivelo
+}
+930.1.1={
+	holder=1000076640 #Zafiamiarina
+}
+960.1.1={
+	holder=1000076641 #Andriantsimitoviaminandriandehibe
+}
+990.1.1={
+	holder=1000076642 #Tovohery
+}
+1020.1.1={
+	holder=1000076643 #Anja
+}
+1050.1.1={
+	holder=1000076644 #Odon
+}
+1080.1.1={
+	holder=1000076645 #Zazaharivelo
+}
+1110.1.1={
+	holder=1000076646 #Hamada
+}
+1140.1.1={
+	holder=1000076647 #Lova
+}
+1170.1.1={
+	holder=1000076648 #Andriamasinavalona
+}
+1200.1.1={
+	holder=1000076649 #Narisoa
+}
+1230.1.1={
+	holder=1000076650 #Mandresy
+}
+1260.1.1={
+	holder=1000076651 #Andrianantoandro
+}
+1290.1.1={
+	holder=1000076652 #Jaona
+}
+1320.1.1={
+	holder=1000076653 #Andrianjaka
+}
+1350.1.1={
+	holder=1000076654 #Andrianjafynandriamanitra
+}

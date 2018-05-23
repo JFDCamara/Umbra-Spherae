@@ -1,0 +1,66 @@
+#Rajaozara Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076655 #Haja
+	law = true_cognatic_succession
+}
+780.1.1={
+	holder=1000076656 #Andrianampoinimerina
+}
+810.1.1={
+	holder=1000076657 #Ralambo
+}
+840.1.1={
+	holder=1000076658 #Andriantsitakatrandriana
+}
+870.1.1={
+	holder=1000076659 #Razafitiana
+}
+900.1.1={
+	holder=1000076660 #Tsilavohery
+}
+930.1.1={
+	holder=1000076661 #Tovohery
+}
+960.1.1={
+	holder=1000076662 #Mandresy
+}
+990.1.1={
+	holder=1000076663 #Tsiory
+}
+1020.1.1={
+	holder=1000076664 #Andriantsitakatrandriana
+}
+1050.1.1={
+	holder=1000076665 #Andrianasy
+}
+1080.1.1={
+	holder=1000076666 #Mamisoa
+}
+1110.1.1={
+	holder=1000076667 #Andriantsimitoviaminandriandehibe
+}
+1140.1.1={
+	holder=1000076668 #Andriantsitakatrandriana
+}
+1170.1.1={
+	holder=1000076669 #Tombovelo
+}
+1200.1.1={
+	holder=1000076670 #Tsilavohery
+}
+1230.1.1={
+	holder=1000076671 #Andrianasy
+}
+1260.1.1={
+	holder=1000076672 #Radama
+}
+1290.1.1={
+	holder=1000076673 #Tombovelo
+}
+1320.1.1={
+	holder=1000076674 #Andriantsitakatrandriana
+}
+1350.1.1={
+	holder=1000076675 #Andrianasy
+}

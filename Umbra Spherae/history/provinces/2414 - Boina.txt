@@ -1,0 +1,23 @@
+# 2414 - Boina
+
+# County Title
+title = c_boina
+
+# Settlements
+max_settlements = 5
+b_mahajunga = tribal
+b_boina = tribal
+#b_bali = 
+#b_nosy_mania = 
+#b_analalava = 
+#b_maintirano = 
+#b_antsalova = 
+#b_besalampy = 
+
+# Misc
+culture = vazimba
+religion = malagasy_religion
+
+# History
+
+1050.1.1 = { culture = malagasy }

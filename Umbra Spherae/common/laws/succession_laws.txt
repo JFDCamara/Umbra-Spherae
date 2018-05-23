@@ -1162,6 +1162,8 @@ gender_laws = {
 						religion = messalian
 						religion = mazdaki
 						culture = minangkabau
+						culture = vazimba
+						culture = malagasy
 					}
 				}
 				OR = {
@@ -1233,6 +1235,8 @@ gender_laws = {
 			OR = {
 				holder_scope = {
 					culture = minangkabau
+					culture = vazimba
+					culture = malagasy
 				}
 				OR = {
 					ROOT = { holder_scope = { primary_title = { has_law = status_of_women_4 } } }
@@ -1302,6 +1306,8 @@ gender_laws = {
 			OR = {
 				holder_scope = {
 					culture = minangkabau
+					culture = vazimba
+					culture = malagasy
 				}
 				OR = {
 					ROOT = { holder_scope = { primary_title = { has_law = status_of_women_4 } } }

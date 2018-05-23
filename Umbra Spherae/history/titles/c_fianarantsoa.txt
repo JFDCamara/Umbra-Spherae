@@ -1,0 +1,66 @@
+#Tsiandopy Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076445 #Haja
+	law = true_cognatic_succession
+}
+780.1.1={
+	holder=1000076446 #Andrianjaka
+}
+810.1.1={
+	holder=1000076447 #Rano
+}
+840.1.1={
+	holder=1000076448 #Jaona
+}
+870.1.1={
+	holder=1000076449 #Tsilavohery
+}
+900.1.1={
+	holder=1000076450 #Odon
+}
+930.1.1={
+	holder=1000076451 #Toavina
+}
+960.1.1={
+	holder=1000076452 #Andrianantoandro
+}
+990.1.1={
+	holder=1000076453 #Andrianasy
+}
+1020.1.1={
+	holder=1000076454 #Mamisoa
+}
+1050.1.1={
+	holder=1000076455 #Anja
+}
+1080.1.1={
+	holder=1000076456 #Mandresy
+}
+1110.1.1={
+	holder=1000076457 #Rano
+}
+1140.1.1={
+	holder=1000076458 #Anja
+}
+1170.1.1={
+	holder=1000076459 #Mamisoa
+}
+1200.1.1={
+	holder=1000076460 #Faneva
+}
+1230.1.1={
+	holder=1000076461 #Zafiamiarina
+}
+1260.1.1={
+	holder=1000076462 #Sedera
+}
+1290.1.1={
+	holder=1000076463 #Anja
+}
+1320.1.1={
+	holder=1000076464 #Niaina
+}
+1350.1.1={
+	holder=1000076465 #Solofo
+}

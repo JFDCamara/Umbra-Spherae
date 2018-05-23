@@ -39,14 +39,14 @@ int main() {
     names[20]="Fini-Bale";*/
     
     
-    int initial_char_number = 1000203960;
+    int initial_char_number = 1000076445;
     int initial_date = 720;
     int final_date = 1320;
-    int dynasty_number = 1000028316;
+    int dynasty_number = 1000028276;
     
-    char dynasty[] = "Akar Bale";
+    char dynasty[] = "Tsiandopy";
     char religion[] = "\"malagasy_religion\"";
-    char culture[] = "\"andamanese\"";
+    char culture[] = "\"vazimba\"";
     
     //printf("%s", dynasty);
 
@@ -202,7 +202,7 @@ int main() {
         fprintf(cs,"\t\tbirth=\"%i.1.1\"\n", a);
         fprintf(cs,"\t}\n");
         fprintf(cs,"\t%i.1.1={\n", a+60);
-        fprintf(cs,"\t\tbirth=\"%i.1.1\"\n", a+60);
+        fprintf(cs,"\t\tdeath=\"%i.1.1\"\n", a+60);
         fprintf(cs,"\t}\n");
         fprintf(cs,"}\n");
         fprintf(cs,"\n");

@@ -1,0 +1,22 @@
+# 2415 - Antananarivo
+
+# County Title
+title = c_antananarivo
+
+# Settlements
+max_settlements = 5
+b_ampasambazimba = tribal
+b_antananarivo = tribal
+#b_sakay = 
+#b_ambatolampy = 
+#b_tsiroanomandidy = 
+#b_fiadanana = 
+#b_ambohimena = 
+#b_manakana = 
+
+# Misc
+culture = vazimba
+religion = malagasy_religion
+
+# History
+

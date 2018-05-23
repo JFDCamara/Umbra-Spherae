@@ -121,7 +121,7 @@ int main() {
         fprintf(cs,"\t\tbirth=\"%i.1.1\"\n", a);
         fprintf(cs,"\t}\n");
         fprintf(cs,"\t%i.1.1={\n", a+60);
-        fprintf(cs,"\t\tbirth=\"%i.1.1\"\n", a+60);
+        fprintf(cs,"\t\tdeath=\"%i.1.1\"\n", a+60);
         fprintf(cs,"\t}\n");
         fprintf(cs,"}\n");
         fprintf(cs,"\n");

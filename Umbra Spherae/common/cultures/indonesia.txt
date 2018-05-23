@@ -541,16 +541,40 @@ bornean = {
 
 		modifier = default_culture_modifier
 	}
+	vazimba = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.45 0.25 0.15 }
+
+		male_names = {
+			Andriamanelo Andriamasinavalona Andriambelomasina Andrianavalona Andrianjafynandriamanitra Andrianampoinimerina
+			Andrianantoandro Andrianary Andrianasy Andrianjaka Andriantsimitoviaminandriana Andriantsimitoviaminandriandehibe
+			Andriantsitakatrandriana Anja Faneva Haja Hamada Jaona Lova Mamisoa Mampihao Mandresy Narisoa Niaina Odon Radama
+			Ralambo Rano Razafitiana Sedera Solofo Toavina Tombovelo Tovohery Tsilavohery Tsimisotry Tsiory Zafiamiarina Zazaharivelo
+		}
+		female_names = {
+			Ahitra Anziza Arisoa Faniry Fitiavana Hanta Harijesy Henintsoa Lalao Lanitra Maeva Manantena Masina Mbolatiana Mirantsoa
+			Naina Nambinintsoa Nandrianina Nantenaina Neny Norovelomampionona Nyantsa Oly Ony Rafohy Raharimampionona Ranavalona Rangita
+			Rasoherina Razia Riantsoa Tahiry Tandra Tsiky Vaohangy Volana Vorona
+		}
+
+		modifier = default_culture_modifier
+	}
 	malagasy = { 
 		graphical_cultures = { westafricangfx africangfx muslimgfx }
 		
 		color = { 0.4 0.2 0.1 }
 
 		male_names = {
-			Andriamanelo Andriamasinavalona Andriambelomasina Andrianjafynandriamanitra Andrianampoinimerina Andrianjaka "Andrianjaka Razakatsitakatrandriana" "Andriantsimitoviaminandriana Andriandrazaka" Andriantsimitoviaminandriandehibe Andriantsitakatrandriana Radama Ralambo
+			Andriamanelo Andriamasinavalona Andriambelomasina Andrianavalona Andrianjafynandriamanitra Andrianampoinimerina
+			Andrianantoandro Andrianary Andrianasy Andrianjaka Andriantsimitoviaminandriana Andriantsimitoviaminandriandehibe
+			Andriantsitakatrandriana Anja Faneva Haja Hamada Jaona Lova Mamisoa Mampihao Mandresy Narisoa Niaina Odon Radama
+			Ralambo Rano Razafitiana Sedera Solofo Toavina Tombovelo Tovohery Tsilavohery Tsimisotry Tsiory Zafiamiarina Zazaharivelo
 		}
 		female_names = {
-			Rafohy Ranavalona Rangita Rasoherina
+			Ahitra Anziza Arisoa Faniry Fitiavana Hanta Harijesy Henintsoa Lalao Lanitra Maeva Manantena Masina Mbolatiana Mirantsoa
+			Naina Nambinintsoa Nandrianina Nantenaina Neny Norovelomampionona Nyantsa Oly Ony Rafohy Raharimampionona Ranavalona Rangita
+			Rasoherina Razia Riantsoa Tahiry Tandra Tsiky Vaohangy Volana Vorona
 		}
 
 		modifier = default_culture_modifier

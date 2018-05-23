@@ -424,3 +424,15 @@ world_southeast_asia = {
 		world_indochina world_tenem_lamit world_malaysia world_java world_indonesia
 	}
 }
+
+world_madagascar = {
+	duchies = {
+		d_merina d_sakalava d_betsimisaraka d_antankara d_mahafaly_antemoro
+	}
+}
+
+world_east_african_coast = {
+	regions = {
+		world_madagascar
+	}
+}

@@ -1,0 +1,23 @@
+# 2416 - Toliara
+
+# County Title
+title = c_toliara
+
+# Settlements
+max_settlements = 4
+b_sarodrano = tribal
+b_taolambiby = tribal
+#b_lamboharana = 
+#b_toliara = 
+#b_anakao = 
+#b_tanambao = 
+#b_betioky = 
+#b_ankiliarivo = 
+
+# Misc
+culture = vazimba
+religion = malagasy_religion
+
+# History
+
+1050.1.1 = { culture = malagasy }

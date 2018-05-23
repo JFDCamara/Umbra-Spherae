@@ -1,0 +1,23 @@
+# 1645 - Sambirano
+
+# County Title
+title = c_sambirano
+
+# Settlements
+max_settlements = 4
+b_sada_sambirano = tribal
+b_mahilaka = tribal
+#b_ambanja = 
+#b_bealanana = 
+#b_ambilobe = 
+#b_bemanevikabe = 
+#b_bobasakoa = 
+#b_ambatoharanana = 
+
+# Misc
+culture = vazimba
+religion = malagasy_religion
+
+# History
+
+1050.1.1 = { culture = malagasy }

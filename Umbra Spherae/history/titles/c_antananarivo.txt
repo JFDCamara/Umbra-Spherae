@@ -1,0 +1,66 @@
+#Randrianekena Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076466 #Rano
+	law = true_cognatic_succession
+}
+780.1.1={
+	holder=1000076467 #Andriambelomasina
+}
+810.1.1={
+	holder=1000076468 #Mamisoa
+}
+840.1.1={
+	holder=1000076469 #Anja
+}
+870.1.1={
+	holder=1000076470 #Lova
+}
+900.1.1={
+	holder=1000076471 #Tovohery
+}
+930.1.1={
+	holder=1000076472 #Lova
+}
+960.1.1={
+	holder=1000076473 #Andrianampoinimerina
+}
+990.1.1={
+	holder=1000076474 #Tsilavohery
+}
+1020.1.1={
+	holder=1000076475 #Andrianary
+}
+1050.1.1={
+	holder=1000076476 #Hamada
+}
+1080.1.1={
+	holder=1000076477 #Andrianjaka
+}
+1110.1.1={
+	holder=1000076478 #Tsilavohery
+}
+1140.1.1={
+	holder=1000076479 #Mampihao
+}
+1170.1.1={
+	holder=1000076480 #Odon
+}
+1200.1.1={
+	holder=1000076481 #Zafiamiarina
+}
+1230.1.1={
+	holder=1000076482 #Andrianavalona
+}
+1260.1.1={
+	holder=1000076483 #Mampihao
+}
+1290.1.1={
+	holder=1000076484 #Radama
+}
+1320.1.1={
+	holder=1000076485 #Tsimisotry
+}
+1350.1.1={
+	holder=1000076486 #Sedera
+}

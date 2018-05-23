@@ -3,21 +3,21 @@ e_zanj = {
 	color = { 228 172 33 }
 	color2 = { 250 250 250 }
 
-	capital = 
+	capital = 2415 #Antananarivo (will be Kilwa)
 
 	k_madagascar = {
 
 		color = { 248 187 86 }
 		color2 = { 250 250 250 }
 
-		capital = 
+		capital = 2415 #Antananarivo
 
 		d_merina = {
 
 			color = { 255 137 86 }
 			color2 = { 250 250 250 }
 
-			capital =
+			capital = 2415 #Antananarivo
 
 			c_antananarivo = {
 
@@ -69,7 +69,7 @@ e_zanj = {
 			color = { 255 233 86 }
 			color2 = { 250 250 250 }
 
-			capital =
+			capital = 2414 #Boina
 
 			c_boina = {
 
@@ -121,7 +121,7 @@ e_zanj = {
 			color = { 237 233 86 }
 			color2 = { 250 250 250 }
 
-			capital =
+			capital = 2418 #Manakara
 
 			c_manakara = {
 
@@ -184,7 +184,7 @@ e_zanj = {
 				}
 				b_rantabe = {
 				}
-				b_mandritsara = {
+				b_mandritsara_antongil = {
 				}
 				b_marotandrano = {
 				}
@@ -195,7 +195,7 @@ e_zanj = {
 			color = { 237 227 156 }
 			color2 = { 250 250 250 }
 
-			capital =
+			capital = 2412 #Antsiranana
 
 			c_antsiranana = {
 
@@ -224,7 +224,7 @@ e_zanj = {
 				color = { 237 237 176 }
 				color2 = { 250 250 250 }
 
-				b_sada = {
+				b_sada_sambirano = {
 				}
 				b_mahilaka = {
 				}
@@ -247,7 +247,7 @@ e_zanj = {
 			color = { 255 192 177 }
 			color2 = { 250 250 250 }
 
-			capital =
+			capital = 2417 #Androy
 
 			c_androy = {
 
@@ -282,7 +282,7 @@ e_zanj = {
 				}
 				b_lamboharana = {
 				}
-				b_tulear = {
+				b_toliara = {
 				}
 				b_anakao = {
 				}

@@ -1,0 +1,23 @@
+# 2420 - Menabe
+
+# County Title
+title = c_menabe
+
+# Settlements
+max_settlements = 5
+b_morondava = tribal
+b_morombe = tribal
+#b_ambohibe = 
+#b_ankoba = 
+#b_belo = 
+#b_manometimay = 
+#b_manja = 
+#b_nosy_ambositra = 
+
+# Misc
+culture = vazimba
+religion = malagasy_religion
+
+# History
+
+1050.1.1 = { culture = malagasy }
