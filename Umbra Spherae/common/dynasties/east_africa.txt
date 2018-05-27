@@ -1,0 +1,81 @@
+1000028287 = {
+    name="Mwezi"
+    culture=wangozi
+}
+1000028288 = {
+    name="Meli"
+    culture=wangozi
+}
+1000028289 = {
+    name="Papa"
+    culture=wangozi
+}
+1000028290 = {
+    name="Pembe"
+    culture=wangozi
+}
+1000028291 = {
+    name="Ngome"
+    culture=wangozi
+}
+1000028292 = {
+    name="Tai"
+    culture=wangozi
+}
+1000028293 = {
+    name="Chui"
+    culture=wangozi
+}
+1000028294 = {
+    name="Mamba"
+    culture=wangozi
+}
+1000028295 = {
+    name="Wimbi"
+    culture=wangozi
+}
+1000028296 = {
+    name="Simi"
+    culture=wangozi
+}
+1000028297 = {
+    name="Mshale"
+    culture=wangozi
+}
+1000028298 = {
+    name="Tembo"
+    culture=wangozi
+}
+1000028317 = {
+    name="Jua"
+    culture=wangozi
+}
+1000028318 = {
+    name="Mchungaji"
+    culture=wangozi
+}
+1000028319 = {
+    name="Fedha"
+    culture=wangozi
+}
+1000028320 = {
+    name="Twiga"
+    culture=wangozi
+}
+1000028321 = {
+    name="Dhahabu"
+    culture=wangozi
+}
+1000028322 = {
+    name="Mnangagwa"
+    culture=karanga
+}
+
+1000028323 = {
+    name="Shirazi"
+    culture=persian
+}
+1000028324 = {
+    name="Mahdali"
+    culture=bedouin_arabic
+}

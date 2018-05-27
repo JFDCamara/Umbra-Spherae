@@ -1,0 +1,25 @@
+# 1939 - Gedi
+
+# County Title
+title = c_gedi
+
+# Settlements
+max_settlements = 6
+b_gedi = castle
+b_kilifi = city
+b_watamu = temple
+b_uyombo = city
+#b_matsangoni = 
+#b_sokoke = 
+#b_jaribuni = 
+#b_takaungu = 
+
+# Misc
+culture = wangozi
+religion = mungu_bantu
+
+# History
+
+1100.1.1 = {
+	religion = sunni
+}

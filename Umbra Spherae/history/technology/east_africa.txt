@@ -21,3 +21,26 @@ technology = {
 		culture = 3.5
 	}
 }
+
+technology = {
+	titles = {
+		d_kilwa
+		d_manda
+		d_gedi
+		d_unguja
+		d_sofala
+		d_qumur
+	}
+	
+	769 = {
+		military = 0.5
+		economy = 1.5
+		culture = 1.0
+	}
+		
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}

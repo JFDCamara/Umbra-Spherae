@@ -1,0 +1,71 @@
+#Mamba Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076844 #Duma
+}
+780.1.1={
+	holder=1000076845 #Mosi
+}
+810.1.1={
+	holder=1000076846 #Kereenyaga
+}
+840.1.1={
+	holder=1000076847 #Ayo
+}
+870.1.1={
+	holder=1000076848 #Keambiroiro
+}
+900.1.1={
+	holder=1000076849 #Musa
+}
+930.1.1={
+	holder=1000076850 #Mhina
+}
+960.1.1={
+	holder=1000076851 #Duma
+}
+990.1.1={
+	holder=1000076852 #Tian
+}
+1020.1.1={
+	holder=1000076853 #Zawadi
+}
+1050.1.1={
+	holder=1000076854 #Simba
+}
+1080.1.1={
+	holder=1000076855 #Salene
+}
+1110.1.1={
+	holder=1000076856 #Njowga
+}
+1140.1.1={
+	holder=1000076857 #Jafari
+}
+1170.1.1={
+	holder=1000076858 #Kuende
+}
+1180.1.1={
+	liege="k_swahili"
+}
+1200.1.1={
+	holder=1000076859 #Baraka
+}
+1203.1.1={
+	liege=0
+}
+1230.1.1={
+	holder=1000076860 #Juma
+}
+1260.1.1={
+	holder=1000076861 #Jata
+}
+1290.1.1={
+	holder=1000076862 #Anasa
+}
+1320.1.1={
+	holder=1000076863 #Baraka
+}
+1350.1.1={
+	holder=1000076864 #Mbita
+}

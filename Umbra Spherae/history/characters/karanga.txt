@@ -1,0 +1,295 @@
+#Mnangagwa Dynasty (Placeholders) of Sofala
+
+1000076676 = {
+	name="Tapiwa"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076677 = {
+	name="Tichafara"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076676
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076678 = {
+	name="Chipinduka"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076677
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076679 = {
+	name="Tavonga"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076678
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076680 = {
+	name="Twiza"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076679
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076681 = {
+	name="Kuseka"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076680
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076682 = {
+	name="Nhamo"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076681
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076683 = {
+	name="Hosho"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076682
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076684 = {
+	name="Tavonga"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076683
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076685 = {
+	name="Tashongedzwa"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076684
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076686 = {
+	name="Tendekai"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076685
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076687 = {
+	name="Takudzwa"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076686
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076688 = {
+	name="Hosho"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076687
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076689 = {
+	name="Goridhe"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076688
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076690 = {
+	name="Biria"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076689
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076691 = {
+	name="Goridhe"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076690
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076692 = {
+	name="Iwe"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076691
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076693 = {
+	name="Dzingai"
+	dynasty=1000028322 #Mnangagwa
+	religion="mwari_bantu"
+	culture="karanga"
+	father=1000076692
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076694 = {
+	name="Itai"
+	dynasty=1000028322 #Mnangagwa
+	religion="sunni"
+	culture="karanga"
+	father=1000076693
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076695 = {
+	name="Nyashadzashe"
+	dynasty=1000028322 #Mnangagwa
+	religion="sunni"
+	culture="karanga"
+	father=1000076694
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076696 = {
+	name="Itai"
+	dynasty=1000028322 #Mnangagwa
+	religion="sunni"
+	culture="karanga"
+	father=1000076695
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+

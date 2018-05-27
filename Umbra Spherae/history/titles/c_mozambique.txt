@@ -1,0 +1,68 @@
+#Mshale Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076907 #Kitwana
+}
+780.1.1={
+	holder=1000076908 #Kiama
+}
+810.1.1={
+	holder=1000076909 #Msia
+}
+840.1.1={
+	holder=1000076910 #Keambiroiro
+}
+870.1.1={
+	holder=1000076911 #Anasa
+}
+900.1.1={
+	holder=1000076912 #Jata
+}
+930.1.1={
+	holder=1000076913 #Jafari
+}
+960.1.1={
+	holder=1000076914 #Zahur
+}
+990.1.1={
+	holder=1000076915 #Hali
+}
+1020.1.1={
+	holder=1000076916 #Hodari
+}
+1050.1.1={
+	holder=1000076917 #Farijika
+}
+1080.1.1={
+	holder=1000076918 #Kuende
+}
+1110.1.1={
+	holder=1000076919 #Nyo
+}
+1140.1.1={
+	holder=1000076920 #Tian
+}
+1170.1.1={
+	holder=1000076921 #Adhama
+}
+1180.1.1={
+	liege="k_swahili"
+}
+1200.1.1={
+	holder=1000076922 #Issa
+}
+1230.1.1={
+	holder=1000076923 #Simba
+}
+1260.1.1={
+	holder=1000076924 #Hamadi
+}
+1290.1.1={
+	holder=1000076925 #Kifeda
+}
+1320.1.1={
+	holder=1000076926 #Jumaane
+}
+1350.1.1={
+	holder=1000076927 #Kuende
+}

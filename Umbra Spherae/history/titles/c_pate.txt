@@ -1,0 +1,71 @@
+#Mwezi Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076697 #Anasa
+}
+780.1.1={
+	holder=1000076698 #Atieno
+}
+810.1.1={
+	holder=1000076699 #Kwanzaa
+}
+840.1.1={
+	holder=1000076700 #Juma
+}
+870.1.1={
+	holder=1000076701 #Busar
+}
+900.1.1={
+	holder=1000076702 #Busar
+}
+930.1.1={
+	holder=1000076703 #Ashon
+}
+960.1.1={
+	holder=1000076704 #Mkubwa
+}
+990.1.1={
+	holder=1000076705 #Duma
+}
+1020.1.1={
+	holder=1000076706 #Jamba
+}
+1050.1.1={
+	holder=1000076707 #Kereenyaga
+}
+1080.1.1={
+	holder=1000076708 #Tian
+}
+1110.1.1={
+	holder=1000076709 #Adhama
+}
+1140.1.1={
+	holder=1000076710 #Zahur
+}
+1170.1.1={
+	holder=1000076711 #Farijika
+}
+1180.1.1={
+	liege="k_swahili"
+}
+1200.1.1={
+	holder=1000076712 #Hodari
+}
+1203.1.1={
+	liege=0
+}
+1230.1.1={
+	holder=1000076713 #Anasa
+}
+1260.1.1={
+	holder=1000076714 #Hamadi
+}
+1290.1.1={
+	holder=1000076715 #Juma
+}
+1320.1.1={
+	holder=1000076716 #Kereenyaga
+}
+1350.1.1={
+	holder=1000076717 #Hali
+}

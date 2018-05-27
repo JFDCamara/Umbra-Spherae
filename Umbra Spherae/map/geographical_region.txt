@@ -431,8 +431,14 @@ world_madagascar = {
 	}
 }
 
+world_swahili_coast = {
+	duchies = {
+		d_manda d_gedi d_unguja d_kilwa d_sofala d_qumur
+	}
+}
+
 world_east_african_coast = {
 	regions = {
-		world_madagascar
+		world_madagascar world_swahili_coast
 	}
 }

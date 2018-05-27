@@ -23,3 +23,88 @@ berberic = {
 		modifier = default_culture_modifier
 	}
 }
+
+east_bantu = {
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+	
+	wangozi = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.2 0.7 0.3 }
+
+		male_names = {
+			Abasi Adhama Anasa Ashon Atieno Ayo Baraka Busar Busara Duma Elea Farijika Hali Hamadi Hodari Ikeno Issa Jafari Jamba Jata Juma Jumaane
+			Keambiroiro Kereenyaga Kiama Kifeda Kito Kitwana Kuende Kwanzaa Maulidi Mbita Mhina Mkubwa Mosi Moyo Msia Musa Njowga Nyo Salene Simba Taji Tian Zahur Zawadi
+		}
+		female_names = {
+			Adia Aleela Busara Chanua Dhamiria Elea Fanaka Gethera Hawa Hodari Inira Kenithia Kiira Koffi Mahiri Majda Maji Maliza Mkiwa Milima Muraty
+			Mwasaa Nadira Nbushe Onyesha Penda Rasheda Risala Safiri Sanura Shauri Tabara Therania Tisa Waseme Zahra Zakia
+		}
+
+		modifier = default_culture_modifier
+	}
+}
+
+south_bantu = {
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+	
+	karanga = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.2 0.3 0.7 }
+
+		male_names = {
+			Baba Biria Chenjerai Chipinduka Chisi Dambanyika Dzingai Goridhe Hatitye Hosho Itai Iwe Jongwe Kumbirai Kuseka Mbada Mhuru Moyo Muchaneta
+			Musafare Nhamo Nyashadzashe Simba Takudzwa Tapiwa Tashongedzwa Tateguru Taurai Tavonga Tazvitya Tendekai Tichafara Tichaona Tichayana Tinaye Tinodaishe Tsungirirai Twiza Zivanai
+		}
+		female_names = {
+			Anokosha Chenesai Chidiwa Chidochashe Danai Kudzaishe Mai Mangwanani Meso Mukaddzi Munashe Mutapa Ndanatsei Ngaakudzwe Nomusa Nyika Onai
+			Pepukai Revesai Rindai Rudairo Rutendo Ruwadzano Sadzamari Tanyaradzwa Tapedza Taropafadzwa Vimbiso
+		}
+
+		modifier = default_culture_modifier
+	}
+}
+
+afroaustronesian = {
+	graphical_cultures = { westafricangfx africangfx muslimgfx }
+
+	vazimba = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.45 0.25 0.15 }
+
+		male_names = {
+			Andriamanelo Andriamasinavalona Andriambelomasina Andrianavalona Andrianjafynandriamanitra Andrianampoinimerina
+			Andrianantoandro Andrianary Andrianasy Andrianjaka Andriantsimitoviaminandriana Andriantsimitoviaminandriandehibe
+			Andriantsitakatrandriana Anja Faneva Haja Hamada Jaona Lova Mamisoa Mampihao Mandresy Narisoa Niaina Odon Radama
+			Ralambo Rano Razafitiana Sedera Solofo Toavina Tombovelo Tovohery Tsilavohery Tsimisotry Tsiory Zafiamiarina Zazaharivelo
+		}
+		female_names = {
+			Ahitra Anziza Arisoa Faniry Fitiavana Hanta Harijesy Henintsoa Lalao Lanitra Maeva Manantena Masina Mbolatiana Mirantsoa
+			Naina Nambinintsoa Nandrianina Nantenaina Neny Norovelomampionona Nyantsa Oly Ony Rafohy Raharimampionona Ranavalona Rangita
+			Rasoherina Razia Riantsoa Tahiry Tandra Tsiky Vaohangy Volana Vorona
+		}
+
+		modifier = default_culture_modifier
+	}
+	malagasy = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.4 0.2 0.1 }
+
+		male_names = {
+			Andriamanelo Andriamasinavalona Andriambelomasina Andrianavalona Andrianjafynandriamanitra Andrianampoinimerina
+			Andrianantoandro Andrianary Andrianasy Andrianjaka Andriantsimitoviaminandriana Andriantsimitoviaminandriandehibe
+			Andriantsitakatrandriana Anja Faneva Haja Hamada Jaona Lova Mamisoa Mampihao Mandresy Narisoa Niaina Odon Radama
+			Ralambo Rano Razafitiana Sedera Solofo Toavina Tombovelo Tovohery Tsilavohery Tsimisotry Tsiory Zafiamiarina Zazaharivelo
+		}
+		female_names = {
+			Ahitra Anziza Arisoa Faniry Fitiavana Hanta Harijesy Henintsoa Lalao Lanitra Maeva Manantena Masina Mbolatiana Mirantsoa
+			Naina Nambinintsoa Nandrianina Nantenaina Neny Norovelomampionona Nyantsa Oly Ony Rafohy Raharimampionona Ranavalona Rangita
+			Rasoherina Razia Riantsoa Tahiry Tandra Tsiky Vaohangy Volana Vorona
+		}
+
+		modifier = default_culture_modifier
+	}
+}

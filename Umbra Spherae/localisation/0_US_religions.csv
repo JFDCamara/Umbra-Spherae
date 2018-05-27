@@ -23,20 +23,16 @@ guanchinet_pagan;Achamáni;Achamáni;Achamáni;;Achamánista;;;;;;;;;x
 berber_pagan;Amanai;Amanai;Amanai;;Amanaista;;;;;;;;;x
 vodun_pagan;Vodun;Vodun;Vodun;;Vodun;;;;;;;;;x
 zurvanist;Zurvanist;Zurvanisme;Zurvanismus;;Zurvanísmo;;;;;;;;;x
-buddhism_group;Buddhist;Bouddhiste;Buddhist;;Budista;;;;;;;;;x
-mahayana;Mahayana;Mahayana;Mahayana;;Mahayana;;;;;;;;;x
-vajrayana;Vajrayana;Vajrayana;Vajrayana;;Vajrayana;;;;;;;;;x
 steppe_pagan;Steppes Pagan;Païen des Steppes;Steppen Heidnisch;;Pagano de las Estepas;;;;;;;;;x
 mesoamerican_pagan;Mesoamerican Pagan;Mésoaméricain Païenne;Mesoamerikanischen Heidnisch;;Mesoamericana Pagano;;;;;;;;;x
 chinese_religion;Oriental Religions;Chinoise Païen;Chinesische Heidnisch;;Pagano Chino;;;;;;;;;x
 shenjiao;Shénjiào;Shénjiào;Schénjiào;;Sénjiào;;;;;;;;;x
-tao;Zheng Yi Dào (Orthodox Unity Taoist);Zheng Yi Dào (Unité Orthodoxe Taoïste);Zheng Yi Dào (Orthodoxen Einheit der Taoistischen);;Zheng Yi Dào (Unidad Ortodoxa Taoísta);;;;;;;;;x
 quanzhen;Quanzhen Dào (All True Taoist);Quanzhen Dào (Tout Taoïste Vrai);Quanzhen Dào (Alle Wahren Taoistischen);;Quanzhen Dào (Todos Taoísta Verdadero);;;;;;;;;x
 shangqing;Shangqing Dào (Supreme Clarity Taoist);Shangqing Dào (Taoïste Clarté Suprême);Shangqing Dào (Obersten Klarheit Taoistischen);;Shangqing Dào (Claridad Suprema Taoísta);;;;;;;;;x
 confucian;Confucian;Confucian;Confucian;Confucian;Confucian;;;;;;;;;x
 shingyo;Shingyo;Shingyo;Schingyo;;Singyo;;;;;;;;;x
 nihon_shinto;Shinto;Shinto;Schinto;;Sinto;;;;;;;;;x
-nihon_shinto_DESC;Shinto means the way of the gods. Shintoism is an Ancient religion of Japan. It started at least as long ago as 1000 B.C.E. but is still practiced today by at least five million people. The followers of Shintoism believe that spiritual powers exist in the natural world.;;;;;;;;;;;;x;
+nihon_shinto_DESC;Shinto means the way of the gods. Shintoism is an Ancient religion of Japan. It started at least as long ago as 1000 B.C.E. but is still practiced today by at least five million people. The followers of Shintoism believe that spiritual powers exist in the natural world.;;;;;;;;;;;;;x
 ainu_pantheism;Old Katunkamuy;Old Katunkamuï;Old Katunkamui;;Old Katunkamuí;;;;;;;;;x
 ainu_pantheism_reformed;Katunkamuy;Katunkamuï;Katunkamui;;Katunkamuí;;;;;;;;;x
 ryukyu_shinto;Koshinto;Koshinto;Koschinto;;Kosinto;;;;;;;;;x
@@ -130,3 +126,11 @@ flores_religion_reformed_DESC;Reformed Larantukan folk religion;Reformed Larantu
 java_religion_reformed_DESC;Reformed Javan folk religion;Reformed Javan folk religion;Reformed Javan folk religion;Reformed Javan folk religion;Reformed Javan folk religion;;;;;;;;;x
 sumatran_religion_reformed_DESC;Reformed Sumatran folk religion;Reformed Sumatran folk religion;Reformed Sumatran folk religion;Reformed Sumatran folk religion;Reformed Sumatran folk religion;;;;;;;;;x
 malagasy_religion_reformed_DESC;Reformed Malagasy folk religion;Reformed Malagasy folk religion;Reformed Malagasy folk religion;Reformed Malagasy folk religion;Reformed Malagasy folk religion;;;;;;;;;x
+mungu_bantu;Mungu Bantu;Mungu Bantu;Mungu Bantu;Mungu Bantu;Mungu Bantu;;;;;;;;;x
+mungu_bantu_reformed;Reformed Mungu Bantu;Reformed Mungu Bantu;Reformed Mungu Bantu;Reformed Mungu Bantu;Reformed Mungu Bantu;;;;;;;;;x
+mungu_bantu_DESC;Mungu Bantu;Mungu Bantu;Mungu Bantu;Mungu Bantu;Mungu Bantu;;;;;;;;;x
+mungu_bantu_reformed_DESC;Reformed Mungu Bantu;Reformed Mungu Bantu;Reformed Mungu Bantu;Reformed Mungu Bantu;Reformed Mungu Bantu;;;;;;;;;x
+mwari_bantu;Mwari Bantu;Mwari Bantu;Mwari Bantu;Mwari Bantu;Mwari Bantu;;;;;;;;;x
+mwari_bantu_reformed;Reformed Mwari Bantu;Reformed Mwari Bantu;Reformed Mwari Bantu;Reformed Mwari Bantu;Reformed Mwari Bantu;;;;;;;;;x
+mwari_bantu_DESC;Mwari Bantu;Mwari Bantu;Mwari Bantu;Mwari Bantu;Mwari Bantu;;;;;;;;;x
+mwari_bantu_reformed_DESC;Reformed Mwari Bantu;Reformed Mwari Bantu;Reformed Mwari Bantu;Reformed Mwari Bantu;Reformed Mwari Bantu;;;;;;;;;x

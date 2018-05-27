@@ -1,0 +1,71 @@
+#Tai Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076802 #Kiama
+}
+780.1.1={
+	holder=1000076803 #Atieno
+}
+810.1.1={
+	holder=1000076804 #Msia
+}
+840.1.1={
+	holder=1000076805 #Salene
+}
+870.1.1={
+	holder=1000076806 #Mhina
+}
+900.1.1={
+	holder=1000076807 #Kuende
+}
+930.1.1={
+	holder=1000076808 #Kwanzaa
+}
+960.1.1={
+	holder=1000076809 #Elea
+}
+990.1.1={
+	holder=1000076810 #Jamba
+}
+1020.1.1={
+	holder=1000076811 #Farijika
+}
+1050.1.1={
+	holder=1000076812 #Maulidi
+}
+1080.1.1={
+	holder=1000076813 #Busara
+}
+1110.1.1={
+	holder=1000076814 #Ashon
+}
+1140.1.1={
+	holder=1000076815 #Simba
+}
+1170.1.1={
+	holder=1000076816 #Njowga
+}
+1180.1.1={
+	liege="k_swahili"
+}
+1200.1.1={
+	holder=1000076817 #Jafari
+}
+1203.1.1={
+	liege=0
+}
+1230.1.1={
+	holder=1000076818 #Msia
+}
+1260.1.1={
+	holder=1000076819 #Mkubwa
+}
+1290.1.1={
+	holder=1000076820 #Hali
+}
+1320.1.1={
+	holder=1000076821 #Hamadi
+}
+1350.1.1={
+	holder=1000076822 #Jafari
+}

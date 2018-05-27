@@ -1,0 +1,25 @@
+# 1945 - Angoche
+
+# County Title
+title = c_angoche
+
+# Settlements
+max_settlements = 4
+b_angoche = castle
+b_marue = city
+b_quinga = temple
+#b_liupo = 
+#b_nametil = 
+#b_corrane = 
+#b_mogincual = 
+#b_iuluti = 
+
+# Misc
+culture = wangozi
+religion = mungu_bantu
+
+# History
+
+1200.1.1 = {
+	religion = sunni
+}

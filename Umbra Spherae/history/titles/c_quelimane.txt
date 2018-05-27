@@ -1,0 +1,68 @@
+#Dhahabu Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083179 #Issa
+}
+780.1.1={
+	holder=1000083180 #Musa
+}
+810.1.1={
+	holder=1000083181 #Mkubwa
+}
+840.1.1={
+	holder=1000083182 #Ayo
+}
+870.1.1={
+	holder=1000083183 #Taji
+}
+900.1.1={
+	holder=1000083184 #Hodari
+}
+930.1.1={
+	holder=1000083185 #Kiama
+}
+960.1.1={
+	holder=1000083186 #Jata
+}
+990.1.1={
+	holder=1000083187 #Kitwana
+}
+1020.1.1={
+	holder=1000083188 #Msia
+}
+1050.1.1={
+	holder=1000083189 #Kereenyaga
+}
+1080.1.1={
+	holder=1000083190 #Kuende
+}
+1110.1.1={
+	holder=1000083191 #Baraka
+}
+1140.1.1={
+	holder=1000083192 #Juma
+}
+1170.1.1={
+	holder=1000083193 #Hamadi
+}
+1180.1.1={
+	liege="k_swahili"
+}
+1200.1.1={
+	holder=1000083194 #Kwanzaa
+}
+1230.1.1={
+	holder=1000083195 #Zahur
+}
+1260.1.1={
+	holder=1000083196 #Farijika
+}
+1290.1.1={
+	holder=1000083197 #Hamadi
+}
+1320.1.1={
+	holder=1000083198 #Baraka
+}
+1350.1.1={
+	holder=1000083199 #Busara
+}

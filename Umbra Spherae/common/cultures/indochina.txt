@@ -34,10 +34,10 @@ tai_kadai = {
 		
 		male_names = {
 			Coeng_Zhen
-			Aran Aroon Chanarong Daw Kamol Kasem Khemkhaeng Kiet Klahan Mongkut Niran Som Sunan Virote
+			Aran Aroon Banthorn Chaisai Chanarong Chon Choonhavon Daw Dithakar Ditt Ittiporn Kamol Kanokpol Kasem Khemkhaeng Kiet Klahan Kraiwin Krita Krom-Luang Mongkut Narong Nattakamol Niran Nodthakorn Paponthanai Petch Praween Pu Puttipat Ruang Sarathoon Som Son-Chai Sud Suda Sunan Suriyawong Su-Suk Tak-Sin Tanutam Thananop Virote
 		}
 		female_names = {
-			Isra Kanya Kulap Lawan Mali Pakpao Phailin Phueng Ratana Somchai Somsri Suchin Sukhon Sumalee Tasanee Thurian Tola Vanida
+			Banjit Boon-Nam Charanya Chumbot Cintna Duangnet Isra Kanya Kulap Lawan Mae-Khao Mali Manya-Phathon Nong-Yao Nisarra Pakpao Phailin Phueng Piam Pim Preeya Ratana Rochana Somchai Somsri Son-Klin Srinak Suchin Sukhon Sumalee Sup Tasanee Thurian Tola Udom Vanida
 		}
 
 		prefix = no
@@ -50,10 +50,10 @@ tai_kadai = {
 		color = { 0.6 0.5 0.7 }
 		
 		male_names = {
-			Akamu Analu Aron Fuseni Havika Ikaika Kaipo Khampeng Khamsone Leilani Noi Palani Papep Pekelo Phaivanh Phettakoun Sand Sounanxay Tay Xaikeo
+			Akamu Analu Aron Aulii Bane Fuseni Havika Ikaika Kaipo Kalani Kale Keoki Keowynn Khampeng Khamsone Kimo Konala Lae Leilani Liko Maik Makaio Makan Makani Malo Meka Mya Noi Palani Papep Paxathipatai Pekelo Phaivanh Phettakoun Sand Saravan Sommai Sonxai Sothanalat Sounanxay Tay Teyvada Xaikeo
 		}
 		female_names = {
-			Aelan Ailani Akela Haimi Iokina Ipo Kalea Lari Mahina Makala Mimio Olina Onaona Palila Sallymata Sasilvia So-Yeon Ululani Wanika
+			Aelan Ailani Akela Haimi Iokina Ipo Kaiah Kalea Kalena Kawena Keahi Keilana Keili Lari Loe Lokelani Mahina Maile Makala Makana Makenna Malana Mauli Mimio Okelani Olina Onaona Palila Roselani Saengvone Sallymata Sasilvia Sathit So-Yeon Ululani Wanika
 		}
 
 		prefix = no
@@ -108,11 +108,13 @@ hmong_mien = {
 		
 		male_names = {
 			Bing_Bing Byauh_Biao Cenzfuk_Quanfu Ciqgaoh_Zhigao Ciucuek_Zhaozhuo Cuengh_Zhen Gozcing_Guoqing Yenfanh_Xianfan
-			Aran Aroon Chanarong Daw Kamol Kasem Khemkhaeng Kiet Klahan Mongkut Niran Som Sunan Virote
+
+			Ahsy-Neng By-Ntxhw Cheng-Ntsuab Fwam-Xob Hiav-Kau Hnub-Cha Kao-Tswj-Hwm Keebkwm-Fu Looj-Tseemci Seng-Fong Thaiv-Huas Tsawb-Hiav Tsawb-Ku Tshwjxeeb-Touchondue Tuam-Ying Xiong-Dej Yang-Tsim Yias-Txoov Zongneng-Ceev Zoov-Peng
 		}
 		female_names = {
 			Bing_Bing
-			Isra Kanya Kulap Lawan Mali Pakpao Phailin Phueng Ratana Somchai Somsri Suchin Sukhon Sumalee Tasanee Thurian Tola Vanida
+			
+			Boa-Sai Che-Ger Che-Kouaeia Chue-Mao Der-Ntsais Hnub-Kalue Huab-Kalue Ia-Nkauj Ib-Nao Lee-Tswb Liab-Nao Mai-Kaj Maikia-Mo Me-Maiv Mouachy-Lig Nkauj-Dib Si-Zer Treu-Shoua Xee-Maly Zer-Nhia
 		}
 
 		prefix = no
@@ -127,11 +129,12 @@ hmong_mien = {
 		
 		male_names = {
 			Bing_Bing Byauh_Biao Cenzfuk_Quanfu Ciqgaoh_Zhigao Ciucuek_Zhaozhuo Cuengh_Zhen Gozcing_Guoqing Yenfanh_Xianfan
-			Aran Aroon Chanarong Daw Kamol Kasem Khemkhaeng Kiet Klahan Mongkut Niran Som Sunan Virote
+			
+			Ahsy-Neng By-Ntxhw Cheng-Ntsuab Fwam-Xob Hiav-Kau Hnub-Cha Kao-Tswj-Hwm Keebkwm-Fu Looj-Tseemci Seng-Fong Thaiv-Huas Tsawb-Hiav Tsawb-Ku Tshwjxeeb-Touchondue Tuam-Ying Xiong-Dej Yang-Tsim Yias-Txoov Zongneng-Ceev Zoov-Peng
 		}
 		female_names = {
 			Bing_Bing
-			Isra Kanya Kulap Lawan Mali Pakpao Phailin Phueng Ratana Somchai Somsri Suchin Sukhon Sumalee Tasanee Thurian Tola Vanida
+			Boa-Sai Che-Ger Che-Kouaeia Chue-Mao Der-Ntsais Hnub-Kalue Huab-Kalue Ia-Nkauj Ib-Nao Lee-Tswb Liab-Nao Mai-Kaj Maikia-Mo Me-Maiv Mouachy-Lig Nkauj-Dib Si-Zer Treu-Shoua Xee-Maly Zer-Nhia
 		}
 
 		prefix = no

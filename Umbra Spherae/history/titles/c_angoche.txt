@@ -1,0 +1,68 @@
+#Twiga Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083158 #Nyo
+}
+780.1.1={
+	holder=1000083159 #Salene
+}
+810.1.1={
+	holder=1000083160 #Hali
+}
+840.1.1={
+	holder=1000083161 #Moyo
+}
+870.1.1={
+	holder=1000083162 #Juma
+}
+900.1.1={
+	holder=1000083163 #Hamadi
+}
+930.1.1={
+	holder=1000083164 #Hamadi
+}
+960.1.1={
+	holder=1000083165 #Kifeda
+}
+990.1.1={
+	holder=1000083166 #Tian
+}
+1020.1.1={
+	holder=1000083167 #Nyo
+}
+1050.1.1={
+	holder=1000083168 #Ashon
+}
+1080.1.1={
+	holder=1000083169 #Atieno
+}
+1110.1.1={
+	holder=1000083170 #Ayo
+}
+1140.1.1={
+	holder=1000083171 #Keambiroiro
+}
+1170.1.1={
+	holder=1000083172 #Mhina
+}
+1180.1.1={
+	liege="k_swahili"
+}
+1200.1.1={
+	holder=1000083173 #Kwanzaa
+}
+1230.1.1={
+	holder=1000083174 #Atieno
+}
+1260.1.1={
+	holder=1000083175 #Jamba
+}
+1290.1.1={
+	holder=1000083176 #Jumaane
+}
+1320.1.1={
+	holder=1000083177 #Taji
+}
+1350.1.1={
+	holder=1000083178 #Tian
+}

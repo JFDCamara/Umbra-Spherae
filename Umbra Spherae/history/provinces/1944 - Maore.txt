@@ -1,0 +1,25 @@
+# 1944 - Maore
+
+# County Title
+title = c_maore
+
+# Settlements
+max_settlements = 4
+b_mamudzu = castle
+b_mtsahara = city
+b_chirongui = temple
+#b_iloni = 
+#b_pamandzi = 
+#b_metesangamuji = 
+#b_bandraboua = 
+#b_chiconi = 
+
+# Misc
+culture = wangozi
+religion = mungu_bantu
+
+# History
+
+1200.1.1 = {
+	religion = sunni
+}

@@ -1,0 +1,71 @@
+#Papa Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076739 #Ashon
+}
+780.1.1={
+	holder=1000076740 #Elea
+}
+810.1.1={
+	holder=1000076741 #Kifeda
+}
+840.1.1={
+	holder=1000076742 #Hamadi
+}
+870.1.1={
+	holder=1000076743 #Atieno
+}
+900.1.1={
+	holder=1000076744 #Ikeno
+}
+930.1.1={
+	holder=1000076745 #Issa
+}
+960.1.1={
+	holder=1000076746 #Ikeno
+}
+990.1.1={
+	holder=1000076747 #Kitwana
+}
+1020.1.1={
+	holder=1000076748 #Zahur
+}
+1050.1.1={
+	holder=1000076749 #Mosi
+}
+1080.1.1={
+	holder=1000076750 #Moyo
+}
+1110.1.1={
+	holder=1000076751 #Taji
+}
+1140.1.1={
+	holder=1000076752 #Mhina
+}
+1170.1.1={
+	holder=1000076753 #Ayo
+}
+1180.1.1={
+	liege="k_swahili"
+}
+1200.1.1={
+	holder=1000076754 #Keambiroiro
+}
+1203.1.1={
+	liege=0
+}
+1230.1.1={
+	holder=1000076755 #Atieno
+}
+1260.1.1={
+	holder=1000076756 #Msia
+}
+1290.1.1={
+	holder=1000076757 #Adhama
+}
+1320.1.1={
+	holder=1000076758 #Jamba
+}
+1350.1.1={
+	holder=1000076759 #Elea
+}

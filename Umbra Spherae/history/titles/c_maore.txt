@@ -1,0 +1,65 @@
+#Fedha Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083046 #Farijika
+}
+780.1.1={
+	holder=1000083047 #Kito
+}
+810.1.1={
+	holder=1000083048 #Maulidi
+}
+840.1.1={
+	holder=1000083049 #Hodari
+}
+870.1.1={
+	holder=1000083050 #Jumaane
+}
+900.1.1={
+	holder=1000083051 #Busar
+}
+930.1.1={
+	holder=1000083052 #Jumaane
+}
+960.1.1={
+	holder=1000083053 #Zahur
+}
+990.1.1={
+	holder=1000083054 #Hodari
+}
+1020.1.1={
+	holder=1000083055 #Hodari
+}
+1050.1.1={
+	holder=1000083056 #Moyo
+}
+1080.1.1={
+	holder=1000083057 #Keambiroiro
+}
+1110.1.1={
+	holder=1000083058 #Hamadi
+}
+1140.1.1={
+	holder=1000083059 #Kereenyaga
+}
+1170.1.1={
+	holder=1000083060 #Juma
+}
+1200.1.1={
+	holder=1000083061 #Duma
+}
+1230.1.1={
+	holder=1000083062 #Kereenyaga
+}
+1260.1.1={
+	holder=1000083063 #Keambiroiro
+}
+1290.1.1={
+	holder=1000083064 #Njowga
+}
+1320.1.1={
+	holder=1000083065 #Ayo
+}
+1350.1.1={
+	holder=1000083066 #Jumaane
+}

@@ -1,0 +1,65 @@
+#Jua Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076949 #Busara
+}
+780.1.1={
+	holder=1000076950 #Kifeda
+}
+810.1.1={
+	holder=1000076951 #Kito
+}
+840.1.1={
+	holder=1000076952 #Zahur
+}
+870.1.1={
+	holder=1000076953 #Njowga
+}
+900.1.1={
+	holder=1000076954 #Zahur
+}
+930.1.1={
+	holder=1000076955 #Atieno
+}
+960.1.1={
+	holder=1000076956 #Hali
+}
+990.1.1={
+	holder=1000076957 #Kiama
+}
+1020.1.1={
+	holder=1000076958 #Jata
+}
+1050.1.1={
+	holder=1000076959 #Kito
+}
+1080.1.1={
+	holder=1000076960 #Musa
+}
+1110.1.1={
+	holder=1000076961 #Mosi
+}
+1140.1.1={
+	holder=1000076962 #Taji
+}
+1170.1.1={
+	holder=1000076963 #Anasa
+}
+1200.1.1={
+	holder=1000076964 #Hodari
+}
+1230.1.1={
+	holder=1000076965 #Musa
+}
+1260.1.1={
+	holder=1000076966 #Hali
+}
+1290.1.1={
+	holder=1000076967 #Jata
+}
+1320.1.1={
+	holder=1000076968 #Hamadi
+}
+1350.1.1={
+	holder=1000076969 #Taji
+}

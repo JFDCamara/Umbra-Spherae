@@ -1,0 +1,65 @@
+#Tembo Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076928 #Musa
+}
+780.1.1={
+	holder=1000076929 #Maulidi
+}
+810.1.1={
+	holder=1000076930 #Anasa
+}
+840.1.1={
+	holder=1000076931 #Moyo
+}
+870.1.1={
+	holder=1000076932 #Busara
+}
+900.1.1={
+	holder=1000076933 #Hamadi
+}
+930.1.1={
+	holder=1000076934 #Atieno
+}
+960.1.1={
+	holder=1000076935 #Taji
+}
+990.1.1={
+	holder=1000076936 #Mhina
+}
+1020.1.1={
+	holder=1000076937 #Atieno
+}
+1050.1.1={
+	holder=1000076938 #Kuende
+}
+1080.1.1={
+	holder=1000076939 #Jamba
+}
+1110.1.1={
+	holder=1000076940 #Keambiroiro
+}
+1140.1.1={
+	holder=1000076941 #Zawadi
+}
+1170.1.1={
+	holder=1000076942 #Busar
+}
+1200.1.1={
+	holder=1000076943 #Simba
+}
+1230.1.1={
+	holder=1000076944 #Moyo
+}
+1260.1.1={
+	holder=1000076945 #Keambiroiro
+}
+1290.1.1={
+	holder=1000076946 #Kuende
+}
+1320.1.1={
+	holder=1000076947 #Mbita
+}
+1350.1.1={
+	holder=1000076948 #Duma
+}

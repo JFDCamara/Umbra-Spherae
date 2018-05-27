@@ -1,0 +1,65 @@
+#Mchungaji Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076970 #Kiama
+}
+780.1.1={
+	holder=1000076971 #Tian
+}
+810.1.1={
+	holder=1000076972 #Hali
+}
+840.1.1={
+	holder=1000076973 #Zawadi
+}
+870.1.1={
+	holder=1000076974 #Mkubwa
+}
+900.1.1={
+	holder=1000076975 #Jumaane
+}
+930.1.1={
+	holder=1000076976 #Busara
+}
+960.1.1={
+	holder=1000076977 #Jamba
+}
+990.1.1={
+	holder=1000076978 #Kereenyaga
+}
+1020.1.1={
+	holder=1000076979 #Kitwana
+}
+1050.1.1={
+	holder=1000076980 #Kito
+}
+1080.1.1={
+	holder=1000076981 #Jamba
+}
+1110.1.1={
+	holder=1000076982 #Duma
+}
+1140.1.1={
+	holder=1000076983 #Maulidi
+}
+1170.1.1={
+	holder=1000076984 #Jumaane
+}
+1200.1.1={
+	holder=1000076985 #Ayo
+}
+1230.1.1={
+	holder=1000076986 #Msia
+}
+1260.1.1={
+	holder=1000076987 #Kito
+}
+1290.1.1={
+	holder=1000076988 #Mbita
+}
+1320.1.1={
+	holder=1000076989 #Hodari
+}
+1350.1.1={
+	holder=1000076990 #Moyo
+}
