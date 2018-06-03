@@ -298,7 +298,7 @@
 1000076718 = {
 	name="Busara"
 	dynasty=1000028288 #Meli
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -311,7 +311,7 @@
 1000076719 = {
 	name="Atieno"
 	dynasty=1000028288 #Meli
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076718
 	750.1.1={
@@ -325,7 +325,7 @@
 1000076720 = {
 	name="Salene"
 	dynasty=1000028288 #Meli
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076719
 	780.1.1={
@@ -339,7 +339,7 @@
 1000076721 = {
 	name="Msia"
 	dynasty=1000028288 #Meli
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076720
 	810.1.1={
@@ -353,7 +353,7 @@
 1000076722 = {
 	name="Kiama"
 	dynasty=1000028288 #Meli
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076721
 	840.1.1={
@@ -367,7 +367,7 @@
 1000076723 = {
 	name="Jata"
 	dynasty=1000028288 #Meli
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076722
 	870.1.1={
@@ -381,7 +381,7 @@
 1000076724 = {
 	name="Zawadi"
 	dynasty=1000028288 #Meli
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076723
 	900.1.1={
@@ -395,7 +395,7 @@
 1000076725 = {
 	name="Juma"
 	dynasty=1000028288 #Meli
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076724
 	930.1.1={
@@ -593,7 +593,7 @@
 1000076739 = {
 	name="Ashon"
 	dynasty=1000028289 #Papa
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -606,7 +606,7 @@
 1000076740 = {
 	name="Elea"
 	dynasty=1000028289 #Papa
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076739
 	750.1.1={
@@ -620,7 +620,7 @@
 1000076741 = {
 	name="Kifeda"
 	dynasty=1000028289 #Papa
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076740
 	780.1.1={
@@ -634,7 +634,7 @@
 1000076742 = {
 	name="Hamadi"
 	dynasty=1000028289 #Papa
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076741
 	810.1.1={
@@ -648,7 +648,7 @@
 1000076743 = {
 	name="Atieno"
 	dynasty=1000028289 #Papa
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076742
 	840.1.1={
@@ -662,7 +662,7 @@
 1000076744 = {
 	name="Ikeno"
 	dynasty=1000028289 #Papa
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076743
 	870.1.1={
@@ -676,7 +676,7 @@
 1000076745 = {
 	name="Issa"
 	dynasty=1000028289 #Papa
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076744
 	900.1.1={
@@ -690,7 +690,7 @@
 1000076746 = {
 	name="Ikeno"
 	dynasty=1000028289 #Papa
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076745
 	930.1.1={
@@ -704,7 +704,7 @@
 1000076747 = {
 	name="Kitwana"
 	dynasty=1000028289 #Papa
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076746
 	960.1.1={
@@ -718,7 +718,7 @@
 1000076748 = {
 	name="Zahur"
 	dynasty=1000028289 #Papa
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076747
 	990.1.1={
@@ -732,7 +732,7 @@
 1000076749 = {
 	name="Mosi"
 	dynasty=1000028289 #Papa
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076748
 	1020.1.1={
@@ -746,7 +746,7 @@
 1000076750 = {
 	name="Moyo"
 	dynasty=1000028289 #Papa
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076749
 	1050.1.1={
@@ -888,7 +888,7 @@
 1000076760 = {
 	name="Kwanzaa"
 	dynasty=1000028290 #Pembe
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -901,7 +901,7 @@
 1000076761 = {
 	name="Elea"
 	dynasty=1000028290 #Pembe
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076760
 	750.1.1={
@@ -915,7 +915,7 @@
 1000076762 = {
 	name="Ikeno"
 	dynasty=1000028290 #Pembe
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076761
 	780.1.1={
@@ -929,7 +929,7 @@
 1000076763 = {
 	name="Moyo"
 	dynasty=1000028290 #Pembe
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076762
 	810.1.1={
@@ -943,7 +943,7 @@
 1000076764 = {
 	name="Salene"
 	dynasty=1000028290 #Pembe
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076763
 	840.1.1={
@@ -957,7 +957,7 @@
 1000076765 = {
 	name="Salene"
 	dynasty=1000028290 #Pembe
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076764
 	870.1.1={
@@ -971,7 +971,7 @@
 1000076766 = {
 	name="Simba"
 	dynasty=1000028290 #Pembe
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076765
 	900.1.1={
@@ -985,7 +985,7 @@
 1000076767 = {
 	name="Msia"
 	dynasty=1000028290 #Pembe
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076766
 	930.1.1={
@@ -1183,7 +1183,7 @@
 1000076781 = {
 	name="Moyo"
 	dynasty=1000028291 #Ngome
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -1196,7 +1196,7 @@
 1000076782 = {
 	name="Farijika"
 	dynasty=1000028291 #Ngome
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076781
 	750.1.1={
@@ -1210,7 +1210,7 @@
 1000076783 = {
 	name="Jata"
 	dynasty=1000028291 #Ngome
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076782
 	780.1.1={
@@ -1224,7 +1224,7 @@
 1000076784 = {
 	name="Ayo"
 	dynasty=1000028291 #Ngome
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076783
 	810.1.1={
@@ -1238,7 +1238,7 @@
 1000076785 = {
 	name="Hodari"
 	dynasty=1000028291 #Ngome
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076784
 	840.1.1={
@@ -1252,7 +1252,7 @@
 1000076786 = {
 	name="Moyo"
 	dynasty=1000028291 #Ngome
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076785
 	870.1.1={
@@ -1266,7 +1266,7 @@
 1000076787 = {
 	name="Maulidi"
 	dynasty=1000028291 #Ngome
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076786
 	900.1.1={
@@ -1280,7 +1280,7 @@
 1000076788 = {
 	name="Simba"
 	dynasty=1000028291 #Ngome
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076787
 	930.1.1={
@@ -1478,7 +1478,7 @@
 1000076802 = {
 	name="Kiama"
 	dynasty=1000028292 #Tai
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -1491,7 +1491,7 @@
 1000076803 = {
 	name="Atieno"
 	dynasty=1000028292 #Tai
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076802
 	750.1.1={
@@ -1505,7 +1505,7 @@
 1000076804 = {
 	name="Msia"
 	dynasty=1000028292 #Tai
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076803
 	780.1.1={
@@ -1519,7 +1519,7 @@
 1000076805 = {
 	name="Salene"
 	dynasty=1000028292 #Tai
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076804
 	810.1.1={
@@ -1533,7 +1533,7 @@
 1000076806 = {
 	name="Mhina"
 	dynasty=1000028292 #Tai
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076805
 	840.1.1={
@@ -1547,7 +1547,7 @@
 1000076807 = {
 	name="Kuende"
 	dynasty=1000028292 #Tai
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076806
 	870.1.1={
@@ -1561,7 +1561,7 @@
 1000076808 = {
 	name="Kwanzaa"
 	dynasty=1000028292 #Tai
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076807
 	900.1.1={
@@ -1575,7 +1575,7 @@
 1000076809 = {
 	name="Elea"
 	dynasty=1000028292 #Tai
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076808
 	930.1.1={
@@ -1589,7 +1589,7 @@
 1000076810 = {
 	name="Jamba"
 	dynasty=1000028292 #Tai
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076809
 	960.1.1={
@@ -1603,7 +1603,7 @@
 1000076811 = {
 	name="Farijika"
 	dynasty=1000028292 #Tai
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076810
 	990.1.1={
@@ -1617,7 +1617,7 @@
 1000076812 = {
 	name="Maulidi"
 	dynasty=1000028292 #Tai
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076811
 	1020.1.1={
@@ -1773,7 +1773,7 @@
 1000076823 = {
 	name="Simba"
 	dynasty=1000028293 #Chui
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -1786,7 +1786,7 @@
 1000076824 = {
 	name="Anasa"
 	dynasty=1000028293 #Chui
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076823
 	750.1.1={
@@ -1800,7 +1800,7 @@
 1000076825 = {
 	name="Kwanzaa"
 	dynasty=1000028293 #Chui
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076824
 	780.1.1={
@@ -1814,7 +1814,7 @@
 1000076826 = {
 	name="Kwanzaa"
 	dynasty=1000028293 #Chui
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076825
 	810.1.1={
@@ -1828,7 +1828,7 @@
 1000076827 = {
 	name="Kwanzaa"
 	dynasty=1000028293 #Chui
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076826
 	840.1.1={
@@ -1842,7 +1842,7 @@
 1000076828 = {
 	name="Kitwana"
 	dynasty=1000028293 #Chui
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076827
 	870.1.1={
@@ -1856,7 +1856,7 @@
 1000076829 = {
 	name="Msia"
 	dynasty=1000028293 #Chui
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076828
 	900.1.1={
@@ -1870,7 +1870,7 @@
 1000076830 = {
 	name="Duma"
 	dynasty=1000028293 #Chui
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076829
 	930.1.1={
@@ -2068,7 +2068,7 @@
 1000076844 = {
 	name="Duma"
 	dynasty=1000028294 #Mamba
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -2081,7 +2081,7 @@
 1000076845 = {
 	name="Mosi"
 	dynasty=1000028294 #Mamba
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076844
 	750.1.1={
@@ -2095,7 +2095,7 @@
 1000076846 = {
 	name="Kereenyaga"
 	dynasty=1000028294 #Mamba
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076845
 	780.1.1={
@@ -2109,7 +2109,7 @@
 1000076847 = {
 	name="Ayo"
 	dynasty=1000028294 #Mamba
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076846
 	810.1.1={
@@ -2123,7 +2123,7 @@
 1000076848 = {
 	name="Keambiroiro"
 	dynasty=1000028294 #Mamba
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076847
 	840.1.1={
@@ -2137,7 +2137,7 @@
 1000076849 = {
 	name="Musa"
 	dynasty=1000028294 #Mamba
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076848
 	870.1.1={
@@ -2151,7 +2151,7 @@
 1000076850 = {
 	name="Mhina"
 	dynasty=1000028294 #Mamba
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076849
 	900.1.1={
@@ -2165,7 +2165,7 @@
 1000076851 = {
 	name="Duma"
 	dynasty=1000028294 #Mamba
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076850
 	930.1.1={
@@ -2363,7 +2363,7 @@
 1000076865 = {
 	name="Kifeda"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -2376,7 +2376,7 @@
 1000076866 = {
 	name="Kwanzaa"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076865
 	750.1.1={
@@ -2390,7 +2390,7 @@
 1000076867 = {
 	name="Nyo"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076866
 	780.1.1={
@@ -2404,7 +2404,7 @@
 1000076868 = {
 	name="Ayo"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076867
 	810.1.1={
@@ -2418,7 +2418,7 @@
 1000076869 = {
 	name="Zahur"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076868
 	840.1.1={
@@ -2432,7 +2432,7 @@
 1000076870 = {
 	name="Kereenyaga"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076869
 	870.1.1={
@@ -2446,7 +2446,7 @@
 1000076871 = {
 	name="Mkubwa"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076870
 	900.1.1={
@@ -2460,7 +2460,7 @@
 1000076872 = {
 	name="Mhina"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076871
 	930.1.1={
@@ -2474,7 +2474,7 @@
 1000076873 = {
 	name="Moyo"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076872
 	960.1.1={
@@ -2488,7 +2488,7 @@
 1000076874 = {
 	name="Ikeno"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076873
 	990.1.1={
@@ -2502,7 +2502,7 @@
 1000076875 = {
 	name="Mbita"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076874
 	1020.1.1={
@@ -2516,7 +2516,7 @@
 1000076876 = {
 	name="Hodari"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076875
 	1050.1.1={
@@ -2530,7 +2530,7 @@
 1000076877 = {
 	name="Ayo"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076876
 	1080.1.1={
@@ -2544,7 +2544,7 @@
 1000076878 = {
 	name="Ikeno"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076877
 	1110.1.1={
@@ -2558,7 +2558,7 @@
 1000076879 = {
 	name="Kereenyaga"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076878
 	1140.1.1={
@@ -2572,7 +2572,7 @@
 1000076880 = {
 	name="Mhina"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076879
 	1170.1.1={
@@ -2586,7 +2586,7 @@
 1000076881 = {
 	name="Hodari"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076880
 	1200.1.1={
@@ -2600,7 +2600,7 @@
 1000076882 = {
 	name="Elea"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076881
 	1230.1.1={
@@ -2614,7 +2614,7 @@
 1000076883 = {
 	name="Njowga"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076882
 	1260.1.1={
@@ -2628,7 +2628,7 @@
 1000076884 = {
 	name="Mkubwa"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076883
 	1290.1.1={
@@ -2642,7 +2642,7 @@
 1000076885 = {
 	name="Jamba"
 	dynasty=1000028295 #Wimbi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076884
 	1320.1.1={
@@ -2658,7 +2658,7 @@
 1000076886 = {
 	name="Nyo"
 	dynasty=1000028296 #Simi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -2671,7 +2671,7 @@
 1000076887 = {
 	name="Mbita"
 	dynasty=1000028296 #Simi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076886
 	750.1.1={
@@ -2685,7 +2685,7 @@
 1000076888 = {
 	name="Jamba"
 	dynasty=1000028296 #Simi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076887
 	780.1.1={
@@ -2699,7 +2699,7 @@
 1000076889 = {
 	name="Mkubwa"
 	dynasty=1000028296 #Simi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076888
 	810.1.1={
@@ -2713,7 +2713,7 @@
 1000076890 = {
 	name="Jata"
 	dynasty=1000028296 #Simi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076889
 	840.1.1={
@@ -2727,7 +2727,7 @@
 1000076891 = {
 	name="Baraka"
 	dynasty=1000028296 #Simi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076890
 	870.1.1={
@@ -2741,7 +2741,7 @@
 1000076892 = {
 	name="Kito"
 	dynasty=1000028296 #Simi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076891
 	900.1.1={
@@ -2755,7 +2755,7 @@
 1000076893 = {
 	name="Atieno"
 	dynasty=1000028296 #Simi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076892
 	930.1.1={
@@ -2769,7 +2769,7 @@
 1000076894 = {
 	name="Maulidi"
 	dynasty=1000028296 #Simi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076893
 	960.1.1={
@@ -2783,7 +2783,7 @@
 1000076895 = {
 	name="Hamadi"
 	dynasty=1000028296 #Simi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076894
 	990.1.1={
@@ -2797,7 +2797,7 @@
 1000076896 = {
 	name="Taji"
 	dynasty=1000028296 #Simi
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076895
 	1020.1.1={
@@ -2953,7 +2953,7 @@
 1000076907 = {
 	name="Kitwana"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -2966,7 +2966,7 @@
 1000076908 = {
 	name="Kiama"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076907
 	750.1.1={
@@ -2980,7 +2980,7 @@
 1000076909 = {
 	name="Msia"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076908
 	780.1.1={
@@ -2994,7 +2994,7 @@
 1000076910 = {
 	name="Keambiroiro"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076909
 	810.1.1={
@@ -3008,7 +3008,7 @@
 1000076911 = {
 	name="Anasa"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076910
 	840.1.1={
@@ -3022,7 +3022,7 @@
 1000076912 = {
 	name="Jata"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076911
 	870.1.1={
@@ -3036,7 +3036,7 @@
 1000076913 = {
 	name="Jafari"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076912
 	900.1.1={
@@ -3050,7 +3050,7 @@
 1000076914 = {
 	name="Zahur"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076913
 	930.1.1={
@@ -3064,7 +3064,7 @@
 1000076915 = {
 	name="Hali"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076914
 	960.1.1={
@@ -3078,7 +3078,7 @@
 1000076916 = {
 	name="Hodari"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076915
 	990.1.1={
@@ -3092,7 +3092,7 @@
 1000076917 = {
 	name="Farijika"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076916
 	1020.1.1={
@@ -3106,7 +3106,7 @@
 1000076918 = {
 	name="Kuende"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076917
 	1050.1.1={
@@ -3120,7 +3120,7 @@
 1000076919 = {
 	name="Nyo"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076918
 	1080.1.1={
@@ -3134,7 +3134,7 @@
 1000076920 = {
 	name="Tian"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076919
 	1110.1.1={
@@ -3148,7 +3148,7 @@
 1000076921 = {
 	name="Adhama"
 	dynasty=1000028297 #Mshale
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076920
 	1140.1.1={
@@ -3248,7 +3248,7 @@
 1000076928 = {
 	name="Musa"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -3261,7 +3261,7 @@
 1000076929 = {
 	name="Maulidi"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076928
 	750.1.1={
@@ -3275,7 +3275,7 @@
 1000076930 = {
 	name="Anasa"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076929
 	780.1.1={
@@ -3289,7 +3289,7 @@
 1000076931 = {
 	name="Moyo"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076930
 	810.1.1={
@@ -3303,7 +3303,7 @@
 1000076932 = {
 	name="Busara"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076931
 	840.1.1={
@@ -3317,7 +3317,7 @@
 1000076933 = {
 	name="Hamadi"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076932
 	870.1.1={
@@ -3331,7 +3331,7 @@
 1000076934 = {
 	name="Atieno"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076933
 	900.1.1={
@@ -3345,7 +3345,7 @@
 1000076935 = {
 	name="Taji"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076934
 	930.1.1={
@@ -3359,7 +3359,7 @@
 1000076936 = {
 	name="Mhina"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076935
 	960.1.1={
@@ -3373,7 +3373,7 @@
 1000076937 = {
 	name="Atieno"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076936
 	990.1.1={
@@ -3387,7 +3387,7 @@
 1000076938 = {
 	name="Kuende"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076937
 	1020.1.1={
@@ -3401,7 +3401,7 @@
 1000076939 = {
 	name="Jamba"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076938
 	1050.1.1={
@@ -3415,7 +3415,7 @@
 1000076940 = {
 	name="Keambiroiro"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076939
 	1080.1.1={
@@ -3429,7 +3429,7 @@
 1000076941 = {
 	name="Zawadi"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076940
 	1110.1.1={
@@ -3443,7 +3443,7 @@
 1000076942 = {
 	name="Busar"
 	dynasty=1000028298 #Tembo
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076941
 	1140.1.1={
@@ -3543,7 +3543,7 @@
 1000076949 = {
 	name="Busara"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -3556,7 +3556,7 @@
 1000076950 = {
 	name="Kifeda"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076949
 	750.1.1={
@@ -3570,7 +3570,7 @@
 1000076951 = {
 	name="Kito"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076950
 	780.1.1={
@@ -3584,7 +3584,7 @@
 1000076952 = {
 	name="Zahur"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076951
 	810.1.1={
@@ -3598,7 +3598,7 @@
 1000076953 = {
 	name="Njowga"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076952
 	840.1.1={
@@ -3612,7 +3612,7 @@
 1000076954 = {
 	name="Zahur"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076953
 	870.1.1={
@@ -3626,7 +3626,7 @@
 1000076955 = {
 	name="Atieno"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076954
 	900.1.1={
@@ -3640,7 +3640,7 @@
 1000076956 = {
 	name="Hali"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076955
 	930.1.1={
@@ -3654,7 +3654,7 @@
 1000076957 = {
 	name="Kiama"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076956
 	960.1.1={
@@ -3668,7 +3668,7 @@
 1000076958 = {
 	name="Jata"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076957
 	990.1.1={
@@ -3682,7 +3682,7 @@
 1000076959 = {
 	name="Kito"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076958
 	1020.1.1={
@@ -3696,7 +3696,7 @@
 1000076960 = {
 	name="Musa"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076959
 	1050.1.1={
@@ -3710,7 +3710,7 @@
 1000076961 = {
 	name="Mosi"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076960
 	1080.1.1={
@@ -3724,7 +3724,7 @@
 1000076962 = {
 	name="Taji"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076961
 	1110.1.1={
@@ -3738,7 +3738,7 @@
 1000076963 = {
 	name="Anasa"
 	dynasty=1000028317 #Jua
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076962
 	1140.1.1={
@@ -3838,7 +3838,7 @@
 1000076970 = {
 	name="Kiama"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -3851,7 +3851,7 @@
 1000076971 = {
 	name="Tian"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076970
 	750.1.1={
@@ -3865,7 +3865,7 @@
 1000076972 = {
 	name="Hali"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076971
 	780.1.1={
@@ -3879,7 +3879,7 @@
 1000076973 = {
 	name="Zawadi"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076972
 	810.1.1={
@@ -3893,7 +3893,7 @@
 1000076974 = {
 	name="Mkubwa"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076973
 	840.1.1={
@@ -3907,7 +3907,7 @@
 1000076975 = {
 	name="Jumaane"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076974
 	870.1.1={
@@ -3921,7 +3921,7 @@
 1000076976 = {
 	name="Busara"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076975
 	900.1.1={
@@ -3935,7 +3935,7 @@
 1000076977 = {
 	name="Jamba"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076976
 	930.1.1={
@@ -3949,7 +3949,7 @@
 1000076978 = {
 	name="Kereenyaga"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076977
 	960.1.1={
@@ -3963,7 +3963,7 @@
 1000076979 = {
 	name="Kitwana"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076978
 	990.1.1={
@@ -3977,7 +3977,7 @@
 1000076980 = {
 	name="Kito"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076979
 	1020.1.1={
@@ -3991,7 +3991,7 @@
 1000076981 = {
 	name="Jamba"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076980
 	1050.1.1={
@@ -4005,7 +4005,7 @@
 1000076982 = {
 	name="Duma"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076981
 	1080.1.1={
@@ -4019,7 +4019,7 @@
 1000076983 = {
 	name="Maulidi"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076982
 	1110.1.1={
@@ -4033,7 +4033,7 @@
 1000076984 = {
 	name="Jumaane"
 	dynasty=1000028318 #Mchungaji
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000076983
 	1140.1.1={
@@ -4133,7 +4133,7 @@
 1000083046 = {
 	name="Farijika"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -4146,7 +4146,7 @@
 1000083047 = {
 	name="Kito"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083046
 	750.1.1={
@@ -4160,7 +4160,7 @@
 1000083048 = {
 	name="Maulidi"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083047
 	780.1.1={
@@ -4174,7 +4174,7 @@
 1000083049 = {
 	name="Hodari"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083048
 	810.1.1={
@@ -4188,7 +4188,7 @@
 1000083050 = {
 	name="Jumaane"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083049
 	840.1.1={
@@ -4202,7 +4202,7 @@
 1000083051 = {
 	name="Busar"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083050
 	870.1.1={
@@ -4216,7 +4216,7 @@
 1000083052 = {
 	name="Jumaane"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083051
 	900.1.1={
@@ -4230,7 +4230,7 @@
 1000083053 = {
 	name="Zahur"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083052
 	930.1.1={
@@ -4244,7 +4244,7 @@
 1000083054 = {
 	name="Hodari"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083053
 	960.1.1={
@@ -4258,7 +4258,7 @@
 1000083055 = {
 	name="Hodari"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083054
 	990.1.1={
@@ -4272,7 +4272,7 @@
 1000083056 = {
 	name="Moyo"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083055
 	1020.1.1={
@@ -4286,7 +4286,7 @@
 1000083057 = {
 	name="Keambiroiro"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083056
 	1050.1.1={
@@ -4300,7 +4300,7 @@
 1000083058 = {
 	name="Hamadi"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083057
 	1080.1.1={
@@ -4314,7 +4314,7 @@
 1000083059 = {
 	name="Kereenyaga"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083058
 	1110.1.1={
@@ -4328,7 +4328,7 @@
 1000083060 = {
 	name="Juma"
 	dynasty=1000028319 #Fedha
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083059
 	1140.1.1={
@@ -4428,7 +4428,7 @@
 1000083158 = {
 	name="Nyo"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -4441,7 +4441,7 @@
 1000083159 = {
 	name="Salene"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083158
 	750.1.1={
@@ -4455,7 +4455,7 @@
 1000083160 = {
 	name="Hali"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083159
 	780.1.1={
@@ -4469,7 +4469,7 @@
 1000083161 = {
 	name="Moyo"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083160
 	810.1.1={
@@ -4483,7 +4483,7 @@
 1000083162 = {
 	name="Juma"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083161
 	840.1.1={
@@ -4497,7 +4497,7 @@
 1000083163 = {
 	name="Hamadi"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083162
 	870.1.1={
@@ -4511,7 +4511,7 @@
 1000083164 = {
 	name="Hamadi"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083163
 	900.1.1={
@@ -4525,7 +4525,7 @@
 1000083165 = {
 	name="Kifeda"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083164
 	930.1.1={
@@ -4539,7 +4539,7 @@
 1000083166 = {
 	name="Tian"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083165
 	960.1.1={
@@ -4553,7 +4553,7 @@
 1000083167 = {
 	name="Nyo"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083166
 	990.1.1={
@@ -4567,7 +4567,7 @@
 1000083168 = {
 	name="Ashon"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083167
 	1020.1.1={
@@ -4581,7 +4581,7 @@
 1000083169 = {
 	name="Atieno"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083168
 	1050.1.1={
@@ -4595,7 +4595,7 @@
 1000083170 = {
 	name="Ayo"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083169
 	1080.1.1={
@@ -4609,7 +4609,7 @@
 1000083171 = {
 	name="Keambiroiro"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083170
 	1110.1.1={
@@ -4623,7 +4623,7 @@
 1000083172 = {
 	name="Mhina"
 	dynasty=1000028320 #Twiga
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083171
 	1140.1.1={
@@ -4723,7 +4723,7 @@
 1000083179 = {
 	name="Issa"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	720.1.1={
 		birth="720.1.1"
@@ -4736,7 +4736,7 @@
 1000083180 = {
 	name="Musa"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083179
 	750.1.1={
@@ -4750,7 +4750,7 @@
 1000083181 = {
 	name="Mkubwa"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083180
 	780.1.1={
@@ -4764,7 +4764,7 @@
 1000083182 = {
 	name="Ayo"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083181
 	810.1.1={
@@ -4778,7 +4778,7 @@
 1000083183 = {
 	name="Taji"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083182
 	840.1.1={
@@ -4792,7 +4792,7 @@
 1000083184 = {
 	name="Hodari"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083183
 	870.1.1={
@@ -4806,7 +4806,7 @@
 1000083185 = {
 	name="Kiama"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083184
 	900.1.1={
@@ -4820,7 +4820,7 @@
 1000083186 = {
 	name="Jata"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083185
 	930.1.1={
@@ -4834,7 +4834,7 @@
 1000083187 = {
 	name="Kitwana"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083186
 	960.1.1={
@@ -4848,7 +4848,7 @@
 1000083188 = {
 	name="Msia"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083187
 	990.1.1={
@@ -4862,7 +4862,7 @@
 1000083189 = {
 	name="Kereenyaga"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083188
 	1020.1.1={
@@ -4876,7 +4876,7 @@
 1000083190 = {
 	name="Kuende"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083189
 	1050.1.1={
@@ -4890,7 +4890,7 @@
 1000083191 = {
 	name="Baraka"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083190
 	1080.1.1={
@@ -4904,7 +4904,7 @@
 1000083192 = {
 	name="Juma"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083191
 	1110.1.1={
@@ -4918,7 +4918,7 @@
 1000083193 = {
 	name="Hamadi"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083192
 	1140.1.1={
@@ -4932,7 +4932,7 @@
 1000083194 = {
 	name="Kwanzaa"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083193
 	1170.1.1={
@@ -4946,7 +4946,7 @@
 1000083195 = {
 	name="Zahur"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083194
 	1200.1.1={
@@ -4960,7 +4960,7 @@
 1000083196 = {
 	name="Farijika"
 	dynasty=1000028321 #Dhahabu
-	religion="mungu_bantu"
+	religion="east_bantu_mythology"
 	culture="wangozi"
 	father=1000083195
 	1230.1.1={

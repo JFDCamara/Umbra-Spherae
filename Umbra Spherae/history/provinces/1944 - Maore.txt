@@ -16,7 +16,7 @@ b_chirongui = temple
 
 # Misc
 culture = wangozi
-religion = mungu_bantu
+religion = east_bantu_mythology
 
 # History
 

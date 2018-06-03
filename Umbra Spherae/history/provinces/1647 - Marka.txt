@@ -1,0 +1,21 @@
+# 1647 - Marka
+
+# County Title
+title = c_marka
+
+# Settlements
+max_settlements = 4
+b_marka = castle
+b_gendershe = city
+b_shalan_bood = temple
+#b_janaale = 
+#b_golweyn = 
+#b_qoryoley = 
+#b_buulo_mareer = 
+#b_awdheegle = 
+
+# Misc
+culture = somali
+religion = sunni
+
+# History

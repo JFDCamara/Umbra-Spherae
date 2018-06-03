@@ -2896,7 +2896,7 @@ east_african = {
 		dukes_called_kings = yes
 		modifier = default_culture_modifier
 	}
-	oromo = {
+	oromo_sidamo = {
 		graphical_cultures = { africangfx westafricangfx }
 		secondary_event_pictures = bedouin_arabic
 		color = { 0.7 0.0 0.7 }
@@ -2912,6 +2912,27 @@ east_african = {
 		female_names = {
 			Aasha Abyan Adey Aisha Alaso Amal Ambro Amina Asli Awa Awatif Awrala Ayaan Aziza Baar Barni Barwaaqo Basra Beerlula Cadey Calaso Cambro Canab Cawo Cawralla Cawralo Cibaado Cosob Dahabo Deka Dekah Dekka Dolie Ebyan Faadumo Fadumo Farhiyo Fartun Fathia Fatima Fawzia Fowsia Haboon Hafsa Haweeya Hibaaq Hindisa Hodan Hoodo Ibtisam Idil Ilhan Ilwaad Jamilla Kinsi Koos Leyla Magol Maka Mariam Muna Nadifa Nafiso Naja Najmo Obax Rhaxma Saafi Sagal Sahra Saxarla Sharifa Shukri Sufia Sumayo Suuban Ubah Ubax Walasma Waris Zaynab Zeinab
 			}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	nilotic = {
+		graphical_cultures = { africangfx westafricangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.7 0.6 0.2 }
+
+		male_names = {
+			Alier Alou Bol Chol Deng Dut Garang Hol Jok Kuol Kuur Mabior Makuach Marial Mayol Teng Thon
+			Kapalei Koinet Komeyicin Kurary Leboo Legeny Legishon Lemaron Lemashon Lemayian Lembui Lemuanik Lolkerra Maitera Masigonde Mbiraru Mejooli			Meticiki Murunga Naengop Nampazo Ntimama Oloishona Parneres Sabore Sankei Sankale Santamo Simel Sironka Surum Tonkei
+		}
+		female_names = {
+			Acol Achor Adut Agau Agop Ajuong Akech Aker Alek Aluel Amer Anon Atap Atong Awek Ayen Nyandeng
+			Isina Kingasunye Kiserian Lankenua Liloe Malazo Naeku Naimutiae Naipanoi Naisaruru Naisenya Naisiae Naisianoi Nalangu Nalutuesha Namelok Namunyak
+			Naramal Naserian Nataana Nkasiogi Peresian Pion Resson Sankau Segeyian Semeyian Siglal Siatamei Simaloi Simu Sintamei Sipanto Sopiato Tanei
+			Tentoyia Terenua Tigisi
+		}
 
 		founder_named_dynasties = yes
 		dukes_called_kings = yes

@@ -24,23 +24,47 @@ technology = {
 
 technology = {
 	titles = {
+		d_kaffa
+		d_hadiya
+		d_dawaro
+		d_qalaafe
+	}
+
+	769 = {
+		military = 0.45
+		economy = 0.3
+		culture = 0.6
+		
+	}
+	
+	1337 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}
+
+technology = {
+	titles = {
 		d_kilwa
 		d_manda
 		d_gedi
 		d_unguja
 		d_sofala
 		d_qumur
+		d_mogadishu
+		d_baraawe
 	}
 	
 	769 = {
-		military = 0.5
-		economy = 1.5
-		culture = 1.0
+		military = 0.45
+		economy = 0.6
+		culture = 0.3
 	}
 		
 	1337 = {
-		military = 4.0
-		economy = 4.0
-		culture = 4.0
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
 	}
 }

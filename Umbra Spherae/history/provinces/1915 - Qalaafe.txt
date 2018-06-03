@@ -1,0 +1,21 @@
+# 1915 - Qalaafe
+
+# County Title
+title = c_qalaafe
+
+# Settlements
+max_settlements = 3
+b_qalaafe = castle
+b_beledweyne = city
+#b_el_dher = 
+#b_farlibaax = 
+#b_hanan = 
+#b_shilabe = 
+#b_korahe = 
+#b_werder = 
+
+# Misc
+culture = somali
+religion = sunni
+
+# History

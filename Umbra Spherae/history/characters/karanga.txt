@@ -3,7 +3,7 @@
 1000076676 = {
 	name="Tapiwa"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	720.1.1={
 		birth="720.1.1"
@@ -16,7 +16,7 @@
 1000076677 = {
 	name="Tichafara"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076676
 	750.1.1={
@@ -30,7 +30,7 @@
 1000076678 = {
 	name="Chipinduka"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076677
 	780.1.1={
@@ -44,7 +44,7 @@
 1000076679 = {
 	name="Tavonga"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076678
 	810.1.1={
@@ -58,7 +58,7 @@
 1000076680 = {
 	name="Twiza"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076679
 	840.1.1={
@@ -72,7 +72,7 @@
 1000076681 = {
 	name="Kuseka"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076680
 	870.1.1={
@@ -86,7 +86,7 @@
 1000076682 = {
 	name="Nhamo"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076681
 	900.1.1={
@@ -100,7 +100,7 @@
 1000076683 = {
 	name="Hosho"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076682
 	930.1.1={
@@ -114,7 +114,7 @@
 1000076684 = {
 	name="Tavonga"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076683
 	960.1.1={
@@ -128,7 +128,7 @@
 1000076685 = {
 	name="Tashongedzwa"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076684
 	990.1.1={
@@ -142,7 +142,7 @@
 1000076686 = {
 	name="Tendekai"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076685
 	1020.1.1={
@@ -156,7 +156,7 @@
 1000076687 = {
 	name="Takudzwa"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076686
 	1050.1.1={
@@ -170,7 +170,7 @@
 1000076688 = {
 	name="Hosho"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076687
 	1080.1.1={
@@ -184,7 +184,7 @@
 1000076689 = {
 	name="Goridhe"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076688
 	1110.1.1={
@@ -198,7 +198,7 @@
 1000076690 = {
 	name="Biria"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076689
 	1140.1.1={
@@ -212,7 +212,7 @@
 1000076691 = {
 	name="Goridhe"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076690
 	1170.1.1={
@@ -226,7 +226,7 @@
 1000076692 = {
 	name="Iwe"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076691
 	1200.1.1={
@@ -240,7 +240,7 @@
 1000076693 = {
 	name="Dzingai"
 	dynasty=1000028322 #Mnangagwa
-	religion="mwari_bantu"
+	religion="south_bantu_mythology"
 	culture="karanga"
 	father=1000076692
 	1230.1.1={

@@ -16,7 +16,7 @@ b_muanza = city
 
 # Misc
 culture = karanga
-religion = mwari_bantu
+religion = south_bantu_mythology
 
 # History
 

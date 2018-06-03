@@ -1,0 +1,21 @@
+# 1926 - Hobyo
+
+# County Title
+title = c_hobyo
+
+# Settlements
+max_settlements = 4
+b_hobyo = castle
+b_barbacadle = city
+b_ras_hafun = temple
+#b_galkayo = 
+#b_eyl = 
+#b_qosoltire = 
+#b_el_hur = 
+#b_garowe = 
+
+# Misc
+culture = somali
+religion = sunni
+
+# History
