@@ -1,0 +1,68 @@
+#Abdullahi Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083436 #Dhidhin
+}
+780.1.1={
+	holder=1000083437 #Mahamud
+}
+810.1.1={
+	holder=1000083438 #Yusuf
+}
+840.1.1={
+	holder=1000083439 #Khalaf
+}
+850.1.1={
+	liege="d_baraawe"
+}
+870.1.1={
+	holder=1000083440 #Ciise
+}
+900.1.1={
+	holder=1000083441 #Haqq
+}
+930.1.1={
+	holder=1000083442 #Mansur
+}
+960.1.1={
+	holder=1000083443 #Dhidhin
+}
+990.1.1={
+	holder=1000083444 #Mansur
+}
+1020.1.1={
+	holder=1000083445 #Abram
+}
+1050.1.1={
+	holder=1000083446 #Isman
+}
+1080.1.1={
+	holder=1000083447 #Yayyo
+}
+1110.1.1={
+	holder=1000083448 #Naleye
+}
+1140.1.1={
+	holder=1000083449 #Harire
+}
+1170.1.1={
+	holder=1000083450 #Ali
+}
+1200.1.1={
+	holder=1000083451 #Ali
+}
+1230.1.1={
+	holder=1000083452 #Mansur
+}
+1260.1.1={
+	holder=1000083453 #Salah
+}
+1290.1.1={
+	holder=1000083454 #Barakat
+}
+1320.1.1={
+	holder=1000083455 #Sa'ad
+}
+1350.1.1={
+	holder=1000083456 #Nur
+}

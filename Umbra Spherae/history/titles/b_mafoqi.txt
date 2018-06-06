@@ -1,0 +1,69 @@
+#Jibril Dynasty (Placeholders) of Mafoqi estate of Baraawe
+
+750.1.1={
+	holding_dynasty = 1000028352
+	liege="d_baraawe"
+}
+750.1.1={
+	holder=1000083530 #Ciise
+}
+780.1.1={
+	holder=1000083531 #Dhidhin
+}
+810.1.1={
+	holder=1000083532 #Nur
+}
+840.1.1={
+	holder=1000083533 #Sabr
+}
+870.1.1={
+	holder=1000083534 #Aul
+}
+900.1.1={
+	holder=1000083535 #Abram
+}
+930.1.1={
+	holder=1000083536 #Ahmed
+}
+960.1.1={
+	holder=1000083537 #Ali
+}
+990.1.1={
+	holder=1000083538 #Isman
+}
+1020.1.1={
+	holder=1000083539 #Amlale
+}
+1050.1.1={
+	holder=1000083540 #Sabir
+}
+1080.1.1={
+	holder=1000083541 #Aydahis
+}
+1110.1.1={
+	holder=1000083542 #Harire
+}
+1140.1.1={
+	holder=1000083543 #Hamar
+}
+1170.1.1={
+	holder=1000083544 #Nur
+}
+1200.1.1={
+	holder=1000083545 #Nahwi
+}
+1230.1.1={
+	holder=1000083546 #Hamalmal
+}
+1260.1.1={
+	holder=1000083547 #Yusuf
+}
+1290.1.1={
+	holder=1000083548 #Mahamed
+}
+1320.1.1={
+	holder=1000083549 #Umardin
+}
+1350.1.1={
+	holder=1000083550 #Nahwi
+}

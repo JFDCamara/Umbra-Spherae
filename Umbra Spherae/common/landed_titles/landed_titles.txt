@@ -29448,25 +29448,25 @@ e_abyssinia = {
 				b_menjiwo = {
 				}
 			}
-			c_inarya = {
+			c_hinnario = {
 				color={ 141 135 20 }
 				color2={ 255 255 255 }
 			
-				b_inarya = {
+				b_hinnario = {
 				}
-				b_anuak = {
+				b_sidamo = {
 				}
-				b_nuer = {
+				b_guma = {
 				}
-				b_itang = {
+				b_bedele = {
 				}
-				b_abobo = {
+				b_agaro = {
 				}
-				b_dimma = {
+				b_sentama = {
 				}
-				b_gambela = {
+				b_dega = {
 				}
-				b_jikawo = {
+				b_darimu = {
 				}
 			}
 		}

@@ -1,0 +1,71 @@
+#Dirie Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083394 #Aul
+}
+780.1.1={
+	holder=1000083395 #Nassir
+}
+810.1.1={
+	holder=1000083396 #Mahamed
+}
+840.1.1={
+	holder=1000083397 #Hantale
+}
+850.1.1={
+	liege="d_mogadishu"
+}
+870.1.1={
+	holder=1000083398 #Ibrahim
+}
+900.1.1={
+	holder=1000083399 #Zuber
+}
+930.1.1={
+	holder=1000083400 #Zuber
+}
+960.1.1={
+	holder=1000083401 #Hamalmal
+}
+990.1.1={
+	holder=1000083402 #Talha
+}
+1020.1.1={
+	holder=1000083403 #Aul
+}
+1050.1.1={
+	holder=1000083404 #Nur
+}
+1080.1.1={
+	holder=1000083405 #Hamalmal
+}
+1110.1.1={
+	holder=1000083406 #Liban
+}
+1140.1.1={
+	holder=1000083407 #Mansur
+}
+1170.1.1={
+	holder=1000083408 #Baraka
+}
+1200.1.1={
+	holder=1000083409 #Balad
+}
+1230.1.1={
+	holder=1000083410 #Baraka
+}
+1238.1.1={
+	liege="k_somalia"
+}
+1260.1.1={
+	holder=1000083411 #Abdulah
+}
+1290.1.1={
+	holder=1000083412 #Aul
+}
+1320.1.1={
+	holder=1000083413 #Nassir
+}
+1350.1.1={
+	holder=1000083414 #Khalaf
+}

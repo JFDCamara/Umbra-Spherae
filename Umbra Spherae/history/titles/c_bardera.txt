@@ -1,0 +1,68 @@
+#Samatar Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083373 #Mahammad
+}
+780.1.1={
+	holder=1000083374 #Harire
+}
+810.1.1={
+	holder=1000083375 #Sa'ad
+}
+840.1.1={
+	holder=1000083376 #Abdale
+}
+870.1.1={
+	holder=1000083377 #Mahamed
+}
+900.1.1={
+	holder=1000083378 #Abdirahman
+}
+930.1.1={
+	holder=1000083379 #Mahamud
+}
+960.1.1={
+	holder=1000083380 #Hantale
+}
+990.1.1={
+	holder=1000083381 #Amlale
+}
+1020.1.1={
+	holder=1000083382 #Ali
+}
+1050.1.1={
+	holder=1000083383 #Barakat
+}
+1080.1.1={
+	holder=1000083384 #Sadiq
+}
+1110.1.1={
+	holder=1000083385 #Jamal
+}
+1140.1.1={
+	holder=1000083386 #Kadhafo
+}
+1170.1.1={
+	holder=1000083387 #Sabraddin
+}
+1200.1.1={
+	holder=1000083388 #Abu-Bakr
+}
+1230.1.1={
+	holder=1000083389 #Sabraddin
+}
+1238.1.1={
+	liege="k_somalia"
+}
+1260.1.1={
+	holder=1000083390 #Mansur
+}
+1290.1.1={
+	holder=1000083391 #Kadhafo
+}
+1320.1.1={
+	holder=1000083392 #Khalaf
+}
+1350.1.1={
+	holder=1000083393 #Zuber
+}

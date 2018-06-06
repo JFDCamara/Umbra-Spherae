@@ -1,0 +1,65 @@
+#Dawaro Dynasty (Placeholders) (pagans)
+
+750.1.1={
+	holder=1000083478 #Sallan
+}
+780.1.1={
+	holder=1000083479 #Cusmaan
+}
+810.1.1={
+	holder=1000083480 #Hanad
+}
+840.1.1={
+	holder=1000083481 #Awaale
+}
+870.1.1={
+	holder=1000083482 #Sherif
+}
+900.1.1={
+	holder=1000083483 #Sihab
+}
+930.1.1={
+	holder=1000083484 #Abdisalaan
+}
+
+#Ali Madahweyne Dynasty (Placeholders) (sunni)
+
+950.1.1={
+	holder=1000083486 #Ahmed
+}
+1020.1.1={
+	holder=1000083487 #Abram
+}
+1050.1.1={
+	holder=1000083488 #Sadiq
+}
+1080.1.1={
+	holder=1000083489 #Sabr
+}
+1110.1.1={
+	holder=1000083490 #Ali
+}
+1140.1.1={
+	holder=1000083491 #Ciise
+}
+1170.1.1={
+	holder=1000083492 #Abram
+}
+1200.1.1={
+	holder=1000083493 #Aydahis
+}
+1230.1.1={
+	holder=1000083494 #Mansur
+}
+1260.1.1={
+	holder=1000083495 #Naleye
+}
+1290.1.1={
+	holder=1000083496 #Adan
+}
+1320.1.1={
+	holder=1000083497 #Jamal
+}
+1350.1.1={
+	holder=1000083498 #Aydahis
+}

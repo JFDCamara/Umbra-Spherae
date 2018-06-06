@@ -15,7 +15,7 @@ b_dawaro = tribal
 #b_gololcha = 
 
 # Misc
-culture = oromo_sidamo
+culture = interior_cushitic
 religion = cushitic_pagan
 
 # History

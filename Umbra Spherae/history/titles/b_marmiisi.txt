@@ -1,0 +1,69 @@
+#Tako Dynasty (Placeholders) of Marmiisi estate of Baraawe
+
+750.1.1={
+	holding_dynasty = 1000028353
+	liege="d_baraawe"
+}
+750.1.1={
+	holder=1000083551 #Sadiq
+}
+780.1.1={
+	holder=1000083552 #Salah
+}
+810.1.1={
+	holder=1000083553 #Awe
+}
+840.1.1={
+	holder=1000083554 #Khalaf
+}
+870.1.1={
+	holder=1000083555 #Mahammad
+}
+900.1.1={
+	holder=1000083556 #Adan
+}
+930.1.1={
+	holder=1000083557 #Khalaf
+}
+960.1.1={
+	holder=1000083558 #Umar
+}
+990.1.1={
+	holder=1000083559 #Liban
+}
+1020.1.1={
+	holder=1000083560 #Dagale
+}
+1050.1.1={
+	holder=1000083561 #Yayyo
+}
+1080.1.1={
+	holder=1000083562 #Yusuf
+}
+1110.1.1={
+	holder=1000083563 #Talha
+}
+1140.1.1={
+	holder=1000083564 #Ali
+}
+1170.1.1={
+	holder=1000083565 #Ibrahim
+}
+1200.1.1={
+	holder=1000083566 #Abdulah
+}
+1230.1.1={
+	holder=1000083567 #Umar
+}
+1260.1.1={
+	holder=1000083568 #Haqq
+}
+1290.1.1={
+	holder=1000083569 #Harire
+}
+1320.1.1={
+	holder=1000083570 #Aul
+}
+1350.1.1={
+	holder=1000083571 #Ali
+}

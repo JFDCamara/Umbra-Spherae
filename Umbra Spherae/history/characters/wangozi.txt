@@ -5551,3 +5551,298 @@
 		death="1421.1.1"
 	}
 }
+
+#Fedha Dynasty (Placeholders) of Naraan estate of Baraawe
+
+1000083593 = {
+	name="Elea"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083594 = {
+	name="Adhama"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083593
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083595 = {
+	name="Musa"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083594
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083596 = {
+	name="Tian"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083595
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083597 = {
+	name="Zahur"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083596
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083598 = {
+	name="Anasa"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083597
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083599 = {
+	name="Ashon"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083598
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083600 = {
+	name="Jafari"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083599
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083601 = {
+	name="Juma"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083600
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083602 = {
+	name="Elea"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083601
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083603 = {
+	name="Mbita"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083602
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083604 = {
+	name="Taji"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083603
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083605 = {
+	name="Juma"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083604
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083606 = {
+	name="Ashon"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083605
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083607 = {
+	name="Hali"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083606
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083608 = {
+	name="Jafari"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083607
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083609 = {
+	name="Atieno"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083608
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083610 = {
+	name="Baraka"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083609
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083611 = {
+	name="Elea"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083610
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083612 = {
+	name="Kitwana"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083611
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083613 = {
+	name="Kifeda"
+	dynasty=1000028355 #Fedha
+	religion="sunni"
+	culture="wangozi"
+	father=1000083612
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}

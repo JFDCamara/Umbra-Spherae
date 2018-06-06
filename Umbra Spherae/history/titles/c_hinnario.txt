@@ -1,0 +1,65 @@
+#Hinnario Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083222 #Iskinder
+}
+780.1.1={
+	holder=1000083223 #Lebna
+}
+810.1.1={
+	holder=1000083224 #Kaleb
+}
+840.1.1={
+	holder=1000083225 #Tariku
+}
+870.1.1={
+	holder=1000083226 #Semer
+}
+900.1.1={
+	holder=1000083227 #Semer
+}
+930.1.1={
+	holder=1000083228 #Iyasu
+}
+960.1.1={
+	holder=1000083229 #Dahnay
+}
+990.1.1={
+	holder=1000083230 #Teferi
+}
+1020.1.1={
+	holder=1000083231 #Rahad
+}
+1050.1.1={
+	holder=1000083232 #Hakiem
+}
+1080.1.1={
+	holder=1000083233 #Miruts
+}
+1110.1.1={
+	holder=1000083234 #Daniachew
+}
+1140.1.1={
+	holder=1000083235 #Kaleb
+}
+1170.1.1={
+	holder=1000083236 #Iyasu
+}
+1200.1.1={
+	holder=1000083237 #Berhanua
+}
+1230.1.1={
+	holder=1000083238 #Fethee
+}
+1260.1.1={
+	holder=1000083239 #Geteye
+}
+1290.1.1={
+	holder=1000083240 #Jima
+}
+1320.1.1={
+	holder=1000083241 #Abai
+}
+1350.1.1={
+	holder=1000083242 #Dahnay
+}

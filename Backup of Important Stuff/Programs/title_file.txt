@@ -1,65 +1,65 @@
-#Akar Bale Dynasty (Placeholders)
+#Fedha Dynasty (Placeholders)
 
 750.1.1={
-	holder=1000203960 #Lambda
+	holder=1000083593 #Elea
 }
 780.1.1={
-	holder=1000203961 #Pi
+	holder=1000083594 #Adhama
 }
 810.1.1={
-	holder=1000203962 #Omega
+	holder=1000083595 #Musa
 }
 840.1.1={
-	holder=1000203963 #Tau
+	holder=1000083596 #Tian
 }
 870.1.1={
-	holder=1000203964 #Iudo
+	holder=1000083597 #Zahur
 }
 900.1.1={
-	holder=1000203965 #Gama
+	holder=1000083598 #Anasa
 }
 930.1.1={
-	holder=1000203966 #Chi
+	holder=1000083599 #Ashon
 }
 960.1.1={
-	holder=1000203967 #Fi
+	holder=1000083600 #Jafari
 }
 990.1.1={
-	holder=1000203968 #Sigma
+	holder=1000083601 #Juma
 }
 1020.1.1={
-	holder=1000203969 #Beta
+	holder=1000083602 #Elea
 }
 1050.1.1={
-	holder=1000203970 #Ro
+	holder=1000083603 #Mbita
 }
 1080.1.1={
-	holder=1000203971 #Fi
+	holder=1000083604 #Taji
 }
 1110.1.1={
-	holder=1000203972 #Ro
+	holder=1000083605 #Juma
 }
 1140.1.1={
-	holder=1000203973 #Fi
+	holder=1000083606 #Ashon
 }
 1170.1.1={
-	holder=1000203974 #Omega
+	holder=1000083607 #Hali
 }
 1200.1.1={
-	holder=1000203975 #Epsilon
+	holder=1000083608 #Jafari
 }
 1230.1.1={
-	holder=1000203976 #Iota
+	holder=1000083609 #Atieno
 }
 1260.1.1={
-	holder=1000203977 #Chi
+	holder=1000083610 #Baraka
 }
 1290.1.1={
-	holder=1000203978 #Beta
+	holder=1000083611 #Elea
 }
 1320.1.1={
-	holder=1000203979 #Ro
+	holder=1000083612 #Kitwana
 }
 1350.1.1={
-	holder=1000203980 #Ro
+	holder=1000083613 #Kifeda
 }

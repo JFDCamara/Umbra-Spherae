@@ -39,14 +39,14 @@ int main() {
     names[20]="Fini-Bale";*/
     
     
-    int initial_char_number = 1000076445;
+    int initial_char_number = 1000083593;
     int initial_date = 720;
     int final_date = 1320;
-    int dynasty_number = 1000028276;
+    int dynasty_number = 1000028355;
     
-    char dynasty[] = "Tsiandopy";
-    char religion[] = "\"malagasy_religion\"";
-    char culture[] = "\"vazimba\"";
+    char dynasty[] = "Fedha";
+    char religion[] = "\"sunni\"";
+    char culture[] = "\"wangozi\"";
     
     //printf("%s", dynasty);
 

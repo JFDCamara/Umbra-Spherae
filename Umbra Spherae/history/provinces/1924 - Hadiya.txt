@@ -15,7 +15,7 @@ b_hadiya = tribal
 #b_duna = 
 
 # Misc
-culture = oromo_sidamo
+culture = interior_cushitic
 religion = cushitic_pagan
 
 # History

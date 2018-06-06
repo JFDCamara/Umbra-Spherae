@@ -90,16 +90,16 @@ b_bita;Bita;Bita;Bita;Bita;Bita;Bita;Bita;Bita;Bita;Bita;Bita;Bita;Bita;x
 b_chena;Chena;Chena;Chena;Chena;Chena;Chena;Chena;Chena;Chena;Chena;Chena;Chena;Chena;x
 b_gewata;Gewata;Gewata;Gewata;Gewata;Gewata;Gewata;Gewata;Gewata;Gewata;Gewata;Gewata;Gewata;Gewata;x
 b_menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;x
-c_inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;x
-c_inarya_adj;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;x
-b_inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;Inarya;x
-b_anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;x
-b_nuer;Nuer;Nuer;Nuer;Nuer;Nuer;Nuer;Nuer;Nuer;Nuer;Nuer;Nuer;Nuer;Nuer;x
-b_itang;Itang;Itang;Itang;Itang;Itang;Itang;Itang;Itang;Itang;Itang;Itang;Itang;Itang;x
-b_abobo;Abobo;Abobo;Abobo;Abobo;Abobo;Abobo;Abobo;Abobo;Abobo;Abobo;Abobo;Abobo;Abobo;x
-b_dimma;Dimma;Dimma;Dimma;Dimma;Dimma;Dimma;Dimma;Dimma;Dimma;Dimma;Dimma;Dimma;Dimma;x
-b_gambela;Gambela;Gambela;Gambela;Gambela;Gambela;Gambela;Gambela;Gambela;Gambela;Gambela;Gambela;Gambela;Gambela;x
-b_jikawo;Jikawo;Jikawo;Jikawo;Jikawo;Jikawo;Jikawo;Jikawo;Jikawo;Jikawo;Jikawo;Jikawo;Jikawo;Jikawo;x
+c_hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;x
+c_hinnario_adj;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;x
+b_hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;x
+b_sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;x
+b_guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;x
+b_bedele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;x
+b_agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;x
+b_sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;x
+b_dega;Dega;Dega;Dega;Dega;Dega;Dega;Dega;Dega;Dega;Dega;Dega;Dega;Dega;x
+b_darimu;Darimu;Darimu;Darimu;Darimu;Darimu;Darimu;Darimu;Darimu;Darimu;Darimu;Darimu;Darimu;Darimu;x
 d_hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;x
 d_hadiya_adj;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;x
 c_hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;x
@@ -154,3 +154,8 @@ b_sinana;Sinana;Sinana;Sinana;Sinana;Sinana;Sinana;Sinana;Sinana;Sinana;Sinana;S
 b_dinsho;Dinsho;Dinsho;Dinsho;Dinsho;Dinsho;Dinsho;Dinsho;Dinsho;Dinsho;Dinsho;Dinsho;Dinsho;Dinsho;x
 b_dawe_kachen;Dawe Kachen;Dawe Kachen;Dawe Kachen;Dawe Kachen;Dawe Kachen;Dawe Kachen;Dawe Kachen;Dawe Kachen;Dawe Kachen;Dawe Kachen;Dawe Kachen;Dawe Kachen;Dawe Kachen;x
 b_gasera;Gasera;Gasera;Gasera;Gasera;Gasera;Gasera;Gasera;Gasera;Gasera;Gasera;Gasera;Gasera;Gasera;x
+b_biruni;Biruni;Biruni;Biruni;Biruni;Biruni;Biruni;Biruni;Biruni;Biruni;Biruni;Biruni;Biruni;Biruni;x
+b_mafoqi;Mafoqi;Mafoqi;Mafoqi;Mafoqi;Mafoqi;Mafoqi;Mafoqi;Mafoqi;Mafoqi;Mafoqi;Mafoqi;Mafoqi;Mafoqi;x
+b_marmiisi;Marmiisi;Marmiisi;Marmiisi;Marmiisi;Marmiisi;Marmiisi;Marmiisi;Marmiisi;Marmiisi;Marmiisi;Marmiisi;Marmiisi;Marmiisi;x
+b_ntiini;Ntiini;Ntiini;Ntiini;Ntiini;Ntiini;Ntiini;Ntiini;Ntiini;Ntiini;Ntiini;Ntiini;Ntiini;Ntiini;x
+b_naraan;Naraan;Naraan;Naraan;Naraan;Naraan;Naraan;Naraan;Naraan;Naraan;Naraan;Naraan;Naraan;Naraan;x

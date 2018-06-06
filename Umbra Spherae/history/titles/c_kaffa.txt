@@ -1,0 +1,65 @@
+#Mato Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083243 #Abai
+}
+780.1.1={
+	holder=1000083244 #Getachew
+}
+810.1.1={
+	holder=1000083245 #Gebre
+}
+840.1.1={
+	holder=1000083246 #Dawit
+}
+870.1.1={
+	holder=1000083247 #Teruworq
+}
+900.1.1={
+	holder=1000083248 #Gondar
+}
+930.1.1={
+	holder=1000083249 #Hackeem
+}
+960.1.1={
+	holder=1000083250 #Hakiem
+}
+990.1.1={
+	holder=1000083251 #Gondar
+}
+1020.1.1={
+	holder=1000083252 #Hakym
+}
+1050.1.1={
+	holder=1000083253 #Lebna
+}
+1080.1.1={
+	holder=1000083254 #Oromo
+}
+1110.1.1={
+	holder=1000083255 #Hakiem
+}
+1140.1.1={
+	holder=1000083256 #Daniachew
+}
+1170.1.1={
+	holder=1000083257 #Gondar
+}
+1200.1.1={
+	holder=1000083258 #Hakeem
+}
+1230.1.1={
+	holder=1000083259 #Tewodros
+}
+1260.1.1={
+	holder=1000083260 #Gondar
+}
+1290.1.1={
+	holder=1000083261 #Tekle
+}
+1320.1.1={
+	holder=1000083262 #Iskinder
+}
+1350.1.1={
+	holder=1000083263 #Aman
+}

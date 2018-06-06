@@ -1,0 +1,71 @@
+#Garen Dynasty (mostly Placeholders) of Mogadishu / Ajuuran
+
+850.1.1={
+	holder=1000083504 #Abu-Bakr
+}
+870.1.1={
+	holder=1000083505 #Amlale
+}
+900.1.1={
+	holder=1000083506 #Hamid
+}
+930.1.1={
+	holder=1000083507 #Isman
+}
+960.1.1={
+	holder=1000083508 #Adan
+}
+990.1.1={
+	holder=1000083509 #Abram
+}
+1020.1.1={
+	holder=1000083510 #Adan
+}
+1050.1.1={
+	holder=1000083511 #Sabraddin
+}
+1080.1.1={
+	holder=1000083512 #Muhammad
+}
+1110.1.1={
+	holder=1000083513 #Ismail
+}
+1140.1.1={
+	holder=1000083514 #Al-Rahman
+}
+1170.1.1={
+	holder=1000083515 #Sa'id
+}
+1200.1.1={
+	holder=1000083516 #Yusuf
+}
+1230.1.1={
+	holder=1000083517 #Muhammad
+}
+1238.1.1={
+	liege="k_somalia"
+}
+1250.1.1={
+	holder=1000083518 #Rasul
+}
+1260.1.1={
+	holder=1000083522 #Yusuf
+}
+1270.1.1={
+	holder=1000083523 #Malik
+}
+1280.1.1={
+	holder=1000083524 #Umar
+}
+1290.1.1={
+	holder=1000083525 #Zubayr
+}
+1300.1.1={
+	holder=1000083519 #Abu-Bakr
+}
+1331.1.1={
+	holder=1000083520 #Tewfik
+}
+1350.1.1={
+	holder=1000083521 #Al-Rahman
+}
