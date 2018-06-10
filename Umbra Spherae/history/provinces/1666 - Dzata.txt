@@ -1,0 +1,21 @@
+# 1666 - Dzata
+
+# County Title
+title = c_dzata
+
+# Settlements
+max_settlements = 4
+b_dzata = tribal
+#b_mandiwana = 
+#b_mavhunga = 
+#b_mulelu = 
+#b_tshituni = 
+#b_mauluma = 
+#b_mawoni = 
+#b_tshitavha= 
+
+# Misc
+culture = venda_tsonga
+religion = south_bantu_mythology
+
+# History

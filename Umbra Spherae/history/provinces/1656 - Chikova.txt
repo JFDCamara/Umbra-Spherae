@@ -1,0 +1,21 @@
+# 1656 - Chikova
+
+# County Title
+title = c_chikova
+
+# Settlements
+max_settlements = 4
+b_chikova = tribal
+#b_macane = 
+#b_magoe = 
+#b_fingoe = 
+#b_chifunde = 
+#b_joje = 
+#b_songo = 
+#b_chigaco = 
+
+# Misc
+culture = karanga
+religion = south_bantu_mythology
+
+# History

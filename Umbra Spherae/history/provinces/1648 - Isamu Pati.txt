@@ -1,0 +1,21 @@
+# 1648 - Isamu Pati
+
+# County Title
+title = c_isamu_pati
+
+# Settlements
+max_settlements = 4
+b_isamu_pati = tribal
+#b_simonga = 
+#b_kazungula = 
+#b_msuna = 
+#b_senkobo = 
+#b_mutoka = 
+#b_makunka = 
+#b_popila = 
+
+# Misc
+culture = ila_tonga
+religion = south_bantu_mythology
+
+# History

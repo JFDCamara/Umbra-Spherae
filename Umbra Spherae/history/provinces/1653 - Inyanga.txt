@@ -1,0 +1,21 @@
+# 1653 - Inyanga
+
+# County Title
+title = c_inyanga
+
+# Settlements
+max_settlements = 4
+b_inyanga = tribal
+#b_makaha = 
+#b_tsindi = 
+#b_bindura = 
+#b_ruhanje = 
+#b_bokoto = 
+#b_sanyatwe = 
+#b_chikore = 
+
+# Misc
+culture = karanga
+religion = south_bantu_mythology
+
+# History

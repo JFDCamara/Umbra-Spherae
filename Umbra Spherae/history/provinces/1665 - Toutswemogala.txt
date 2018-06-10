@@ -1,0 +1,21 @@
+# 1665 - Toutswemogala
+
+# County Title
+title = c_toutswemogala
+
+# Settlements
+max_settlements = 4
+b_toutswemogala = tribal
+#b_topisi = 
+#b_serule = 
+#b_palapye = 
+#b_mmadinare = 
+#b_mogapi = 
+#b_maunatlala = 
+#b_radisele = 
+
+# Misc
+culture = kalanga
+religion = south_bantu_mythology
+
+# History

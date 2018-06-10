@@ -1,0 +1,21 @@
+# 1667 - Tulamela
+
+# County Title
+title = c_tulamela
+
+# Settlements
+max_settlements = 4
+b_tulamela = tribal
+#b_tshaulu = 
+#b_tshilamba = 
+#b_gundani = 
+#b_shakadza = 
+#b_rambuda = 
+#b_tshipise = 
+#b_mutele = 
+
+# Misc
+culture = venda_tsonga
+religion = south_bantu_mythology
+
+# History

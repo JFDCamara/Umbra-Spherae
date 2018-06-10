@@ -1,0 +1,21 @@
+# 1651 - Tere
+
+# County Title
+title = c_tere
+
+# Settlements
+max_settlements = 4
+b_tere = tribal
+#b_changara = 
+#b_chioco = 
+#b_nyampanda = 
+#b_catandica = 
+#b_macossa = 
+#b_tica_tere = 
+#b_inhaminga = 
+
+# Misc
+culture = karanga
+religion = south_bantu_mythology
+
+# History

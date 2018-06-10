@@ -1,0 +1,21 @@
+# 1652 - Masekesa
+
+# County Title
+title = c_masekesa
+
+# Settlements
+max_settlements = 5
+b_masekesa = tribal
+#b_chipangura = 
+#b_bandire = 
+#b_fetera = 
+#b_bandula = 
+#b_mutare = 
+#b_chimoio = 
+#b_zembe = 
+
+# Misc
+culture = karanga
+religion = south_bantu_mythology
+
+# History

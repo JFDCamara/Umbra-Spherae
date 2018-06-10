@@ -1,0 +1,21 @@
+# 1650 - Ingomba Ilele
+
+# County Title
+title = c_ingomba_ilele
+
+# Settlements
+max_settlements = 4
+b_ingomba_ilele = tribal
+#b_choma = 
+#b_batoka = 
+#b_gwembe = 
+#b_chisekesi = 
+#b_monze = 
+#b_chobana = 
+#b_sinazeze = 
+
+# Misc
+culture = ila_tonga
+religion = south_bantu_mythology
+
+# History

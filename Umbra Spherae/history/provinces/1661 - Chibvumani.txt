@@ -1,0 +1,21 @@
+# 1661 - Chibvumani
+
+# County Title
+title = c_chibvumani
+
+# Settlements
+max_settlements = 3
+b_chibvumani = tribal
+#b_chimanimani = 
+#b_chipinge = 
+#b_gogoi = 
+#b_sussundenga = 
+#b_nyanyadzi = 
+#b_chibuwe = 
+#b_dombe = 
+
+# Misc
+culture = karanga
+religion = south_bantu_mythology
+
+# History

@@ -1,297 +1,664 @@
-k_somalia
+e_zimbabwe_mutapa
 
-d_mogadishu
 
-c_mogadishu
 
+k_zimbabwe
 
-b_mogadishu
 
-b_warsheikh
 
-b_hamar_weyne
+d_zimbabwe_buhera
 
-b_shangani
 
-b_afgooye
 
-b_xamar
+c_zimbabwe
 
-b_mareeg
 
-b_adale
 
+b_zimbabwe
 
-c_hobyo
+b_nenga
 
-b_hobyo
+b_majiri
 
-b_barbacadle
+b_musimbira
 
-b_ras_hafun
+b_masvingo
 
-b_galkayo
+b_ndadza
 
-b_eyl
+b_mashava
 
-b_qosoltire
+b_ngomahuru
 
-b_el_hur
 
-b_garowe
 
+c_matendera
 
-c_marka
 
-b_marka
 
-b_gendershe
+b_matendera
 
-b_shalan_bood
+b_chirongwa
 
-b_janaale
+b_muchuchu
 
-b_golweyn
+b_kagumbudzi
 
-b_qoryoley
+b_dorowa
 
-b_buulo_mareer
+b_gunde
 
-b_awdheegle
+b_murambinda
 
+b_chitsa
 
 
-d_baraawe
 
+c_chibvumani
 
-c_baraawe
 
+b_chibvumani
 
-b_barawa
+b_chimanimani
 
-b_haramka
+b_chipinge
 
-b_diinsoor
+b_gogoi
 
-b_jilib
+b_sussundenga
 
-b_dujuma
+b_nyanyadzi
 
-b_saacow
+b_chibuwe
 
-b_xabaalo_barbar
+b_dombe
 
-b_jilaani
 
 
-c_kismaayo
+d_mapungubwe
 
 
-b_kismaayo
 
-b_goobweyn
+c_mapungubwe
 
-b_yoontoy
 
-b_rassini
 
-b_kaambooni
+b_mapungubwe
 
-b_kolbio
+b_bambandyanalo
 
-b_turdo
+b_machemma
 
-b_jamaane
+b_maramani
 
+b_raditshaba
 
+b_makado
 
-d_qalaafe
+b_chamumnanga
 
+b_lutombe
 
-c_qalaafe
 
+c_mapela
 
-b_qalaafe
 
-b_beledweyne
 
-b_el_dher
+b_mapela
 
-b_farlibaax
+b_machacuta
 
-b_hanan
+b_hwali
 
-b_shilabe
+b_mashaba
 
-b_korahe
+b_masase
 
-b_werder
+b_gwanda
 
+b_kezi
 
-c_bardera
+b_filabusi
 
 
-b_bardera
+c_malumba
 
-b_baidoa
 
-b_luuq
 
-b_madiino
+b_malumba
 
-b_garbahaarey
+b_mwenezi
 
-b_buurdhuubo
+b_chomuruvati
 
-b_wajid
+b_rutenga
 
-b_mandera
+b_mbizi
 
+b_neshuro
 
-d_kaffa
+b_chikombedzi
 
+b_mabalauta
 
-c_kaffa
 
 
-b_kaffa_kaffa
+d_venda
 
-b_bonga_kaffa
 
-b_mezhenger
 
-b_bench_maji
+c_tulamela
 
-b_bita
 
-b_chena
 
-b_gewata
+b_tulamela
 
-b_menjiwo
+b_tshaulu
 
+b_tshilamba
 
-c_inarya
+b_gundani
 
+b_shakadza
 
-b_inarya
+b_rambuda
 
-b_anuak
+b_tshipise
 
-b_nuer
+b_mutele
 
-b_itang
 
-b_abobo
 
-b_dimma
+c_dzata
 
-b_gambela
 
-b_jikawo
+b_dzata
 
+b_mandiwana
 
+b_mavhunga
 
-d_hadiya
+b_mulelu
 
+b_tshituni
 
-c_hadiya
+b_mauluma
 
+b_mawoni
 
-b_hadiya
+b_tshitavha
 
-b_jimma
 
-b_yem
 
-b_hosaena
 
-b_limo
+d_madanda
 
-b_shashogo
 
-b_gibe
 
-b_duna
+c_manyikeni
 
 
-c_gamo
 
-b_gamo
+b_manyikeni
 
-b_ganz
+b_maimelane
 
-b_kambata
+b_pambarra
 
-b_arba_minch
+b_mapinhane
 
-b_bonk
+b_naite
 
-b_boreda
+b_mabote
 
-b_melokoza
+b_tesselo
 
-b_sawla
+b_inhassoro
 
 
-c_oromo
+c_inhambane
 
-b_oromo
 
-b_abaya
 
-b_arero
+b_inhambane
 
-b_gelana
+b_jangamo
 
-b_miyu
+b_massinga
 
-b_yabelo
+b_umguana
 
-b_dire
+b_sitila
 
-b_bule_hora
+b_mavume
 
+b_chacane
 
+b_inharrime
 
 
-d_dawaro
 
-c_dawaro
+d_toutswe
 
 
-b_dawaro
 
-b_amigna
+c_toutswemogala
 
-b_aseke
 
-b_munesa
 
-b_sude
+b_toutswemogala
 
-b_tena
+b_topisi
 
-b_chole
+b_serule
 
-b_gololcha
+b_palapye
 
+b_mmadinare
 
-c_bali
+b_mogapi
 
-b_bali
+b_maunatlala
 
-b_agarfa
+b_radisele
 
-b_raytu
 
-b_seweyna
 
-b_sinana
+c_toranjuu
 
-b_dinsho
 
-b_dawe_kachen
 
-b_gasera
+b_toranjuu
+
+b_mosetse
+
+b_dukwi
+
+b_makuta
+
+b_makaleng
+
+b_mathangwane
+
+b_tlhalogang
+
+b_tsamaya
+
+
+
+d_butwa
+
+
+
+c_khami
+
+
+
+b_khami
+
+b_dananombe
+
+b_naletale
+
+b_shangangwe
+
+b_dhlodhlo
+
+b_manyanga
+
+b_bulawayo
+
+b_inyati
+
+
+c_domboshava
+
+
+b_domboshava
+
+b_malalume
+
+b_ndolwane
+
+b_maitengwe
+
+b_mapoka
+
+b_ramokgwebana
+
+b_butale
+
+b_masunga
+
+
+c_mtelegwa
+
+
+
+b_mtelegwa
+
+b_tabazika_mambo
+
+b_dete
+
+b_kamativi
+
+b_tinde
+
+b_lubimbi
+
+b_lusulu
+
+b_mibizi
+
+
+
+
+
+
+k_mutapa
+
+
+
+d_dande_chidima
+
+
+
+c_zvongombe
+
+
+
+b_zvongombe
+
+b_masapa
+
+b_ruanga
+
+b_mutota
+
+b_kasekete
+
+b_bedza
+
+b_chipera
+
+b_bakasa
+
+
+c_chedzugwe
+
+
+
+b_chedzugwe
+
+b_urupande
+
+b_karoi
+
+b_magunje
+
+b_mwami
+
+b_makuti
+
+b_kariba
+
+b_kazangarare
+
+
+c_chikova
+
+
+
+b_chikova
+
+b_macane
+
+b_magoe
+
+b_fingoe
+
+b_chifunde
+
+b_joje
+
+b_songo
+
+b_chigaco
+
+
+c_zumbo
+
+
+
+b_zumbo
+
+b_carinde
+
+b_luangwa
+
+b_kapoche
+
+b_katondwe
+
+b_zambue
+
+b_bembere
+
+b_kacholola
+
+
+
+d_kalomo
+
+
+
+c_ingomba_ilele
+
+
+
+b_ingomba_ilele
+
+b_choma
+
+b_batoka
+
+b_gwembe
+
+b_chisekesi
+
+b_monze
+
+b_chobana
+
+b_sinazeze
+
+
+c_isamu_pati
+
+
+
+b_isamu_pati
+
+b_simonga
+
+b_kazungula
+
+b_msuna
+
+b_senkobo
+
+b_mutoka
+
+b_makunka
+
+b_popila
+
+
+c_kangila
+
+
+
+b_kangila
+
+b_mazabuka
+
+b_lochinvar
+
+b_namwala
+
+b_chingala
+
+b_kafue
+
+b_lubombo
+
+b_nakambala
+
+
+
+d_maungwe_budya
+
+
+
+c_inyanga
+
+
+
+b_inyanga
+
+b_makaha
+
+b_tsindi
+
+b_bindura
+
+b_ruhanje
+
+b_bokoto
+
+b_sanyatwe
+
+b_chikore
+
+
+
+c_dambarare
+
+
+
+b_dambarare
+
+b_chipadze
+
+b_rimuka
+
+b_maramuka
+
+b_tafuna
+
+b_chitonborwizi
+
+b_kadoma
+
+b_chigweli
+
+
+
+
+d_manyika_uteve
+
+
+
+c_masekesa
+
+
+
+b_masekesa
+
+b_chipangura
+
+b_bandire
+
+b_fetera
+
+b_bandula
+
+b_mutare
+
+b_chimoio
+
+b_zembe
+
+
+
+c_tere
+
+
+
+b_tere
+
+b_changara
+
+b_chioco
+
+b_nyampanda
+
+b_catandica
+
+b_macossa
+
+b_tica
+
+b_inhaminga
+
+
+
+d_barwe_tonga
+
+
+
+c_sena
+
+
+b_sena
+
+b_mutarara
+
+b_juze
+
+b_murraca
+
+b_inhamitanga
+
+b_maringue
+
+b_capenga
+
+b_caia
+
+
+c_tete
+
+
+b_tete
+
+b_moatize
+
+b_chileka
+
+b_chikwawa
+
+b_nchalo
+
+b_kasisi
+
+b_tambara
+
+b_therere
+
+
+
+
+
 
