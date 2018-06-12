@@ -1,0 +1,65 @@
+#Mupfumira Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083908 #Neshangwe
+}
+780.1.1={
+	holder=1000083909 #Tsungirirai
+}
+810.1.1={
+	holder=1000083910 #Tateguru
+}
+840.1.1={
+	holder=1000083911 #Moyo
+}
+870.1.1={
+	holder=1000083912 #Mhuru
+}
+900.1.1={
+	holder=1000083913 #Tazvitya
+}
+930.1.1={
+	holder=1000083914 #Nyashadzashe
+}
+960.1.1={
+	holder=1000083915 #Mhuru
+}
+990.1.1={
+	holder=1000083916 #Tazvitya
+}
+1020.1.1={
+	holder=1000083917 #Hatitye
+}
+1050.1.1={
+	holder=1000083918 #Chikuyo
+}
+1080.1.1={
+	holder=1000083919 #Kumbirai
+}
+1110.1.1={
+	holder=1000083920 #Takudzwa
+}
+1140.1.1={
+	holder=1000083921 #Iwe
+}
+1170.1.1={
+	holder=1000083922 #Biria
+}
+1200.1.1={
+	holder=1000083923 #Jongwe
+}
+1230.1.1={
+	holder=1000083924 #Baroma
+}
+1260.1.1={
+	holder=1000083925 #Tinodaishe
+}
+1290.1.1={
+	holder=1000083926 #Goridhe
+}
+1320.1.1={
+	holder=1000083927 #Matope
+}
+1350.1.1={
+	holder=1000083928 #Chikuyo
+}

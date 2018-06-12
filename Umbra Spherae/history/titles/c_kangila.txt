@@ -1,0 +1,65 @@
+#Ndhlovu Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083656 #Muchaala
+}
+780.1.1={
+	holder=1000083657 #Mutinta
+}
+810.1.1={
+	holder=1000083658 #Linda
+}
+840.1.1={
+	holder=1000083659 #Mpimpa
+}
+870.1.1={
+	holder=1000083660 #Nchimunya
+}
+900.1.1={
+	holder=1000083661 #Milumbe
+}
+930.1.1={
+	holder=1000083662 #Malindi
+}
+960.1.1={
+	holder=1000083663 #Muchaala
+}
+990.1.1={
+	holder=1000083664 #Mutinta
+}
+1020.1.1={
+	holder=1000083665 #Milumbe
+}
+1050.1.1={
+	holder=1000083666 #Beenzu
+}
+1080.1.1={
+	holder=1000083667 #Linda
+}
+1110.1.1={
+	holder=1000083668 #Muchimba
+}
+1140.1.1={
+	holder=1000083669 #Muchindu
+}
+1170.1.1={
+	holder=1000083670 #Kulenga
+}
+1200.1.1={
+	holder=1000083671 #Munkombwe
+}
+1230.1.1={
+	holder=1000083672 #Luse
+}
+1260.1.1={
+	holder=1000083673 #Mazuba
+}
+1290.1.1={
+	holder=1000083674 #Mazuba
+}
+1320.1.1={
+	holder=1000083675 #Makani
+}
+1350.1.1={
+	holder=1000083676 #Mabotu
+}

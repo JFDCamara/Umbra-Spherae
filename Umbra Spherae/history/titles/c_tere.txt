@@ -1,0 +1,65 @@
+#Nyandoro Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083971 #Taurai
+}
+780.1.1={
+	holder=1000083972 #Takudzwa
+}
+810.1.1={
+	holder=1000083973 #Tsungirirai
+}
+840.1.1={
+	holder=1000083974 #Chivere
+}
+870.1.1={
+	holder=1000083975 #Tapiwa
+}
+900.1.1={
+	holder=1000083976 #Kamharapasu
+}
+930.1.1={
+	holder=1000083977 #Taurai
+}
+960.1.1={
+	holder=1000083978 #Hosho
+}
+990.1.1={
+	holder=1000083979 #Gatsi
+}
+1020.1.1={
+	holder=1000083980 #Dehwe
+}
+1050.1.1={
+	holder=1000083981 #Mbada
+}
+1080.1.1={
+	holder=1000083982 #Tichayana
+}
+1110.1.1={
+	holder=1000083983 #Dzingai
+}
+1140.1.1={
+	holder=1000083984 #Mbada
+}
+1170.1.1={
+	holder=1000083985 #Nyakambira
+}
+1200.1.1={
+	holder=1000083986 #Simba
+}
+1230.1.1={
+	holder=1000083987 #Nyashadzashe
+}
+1260.1.1={
+	holder=1000083988 #Dehwe
+}
+1290.1.1={
+	holder=1000083989 #Nyakambira
+}
+1320.1.1={
+	holder=1000083990 #Chipinduka
+}
+1350.1.1={
+	holder=1000083991 #Kuseka
+}

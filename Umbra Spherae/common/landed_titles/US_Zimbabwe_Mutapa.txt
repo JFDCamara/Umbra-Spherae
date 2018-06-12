@@ -216,7 +216,7 @@ e_zimbabwe_mutapa = {
 
 			}
 		}
-		d_madanda = {
+		d_madanda_tshona = {
 
 			color = { 223 143 153 }
 			color2 = { 250 250 250 }

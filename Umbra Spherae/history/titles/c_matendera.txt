@@ -1,0 +1,68 @@
+#Hatendi Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083782 #Nyakambira
+}
+780.1.1={
+	holder=1000083783 #Changamire
+}
+810.1.1={
+	holder=1000083784 #Nyatsimba
+}
+840.1.1={
+	holder=1000083785 #Samatambira
+}
+870.1.1={
+	holder=1000083786 #Mbada
+}
+900.1.1={
+	holder=1000083787 #Tapiwa
+}
+930.1.1={
+	holder=1000083788 #Gatsi
+}
+960.1.1={
+	holder=1000083789 #Siti
+}
+990.1.1={
+	holder=1000083790 #Chenjerai
+}
+1020.1.1={
+	holder=1000083791 #Dzingai
+}
+1050.1.1={
+	holder=1000083792 #Tichayana
+}
+1080.1.1={
+	holder=1000083793 #Tsungirirai
+}
+1110.1.1={
+	holder=1000083794 #Negomo
+}
+1140.1.1={
+	holder=1000083795 #Nyatsusu
+}
+1170.1.1={
+	holder=1000083796 #Nyahuma
+}
+1200.1.1={
+	holder=1000083797 #Nyatsimba
+}
+1220.1.1={
+	liege="k_zimbabwe"
+}
+1230.1.1={
+	holder=1000083798 #Nyamaende
+}
+1260.1.1={
+	holder=1000083799 #Matope
+}
+1290.1.1={
+	holder=1000083800 #Itai
+}
+1320.1.1={
+	holder=1000083801 #Mbada
+}
+1350.1.1={
+	holder=1000083802 #Tichayana
+}

@@ -1,0 +1,65 @@
+#Dube Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000202411 #Nkami
+}
+780.1.1={
+	holder=1000202412 #Kambgun
+}
+810.1.1={
+	holder=1000202413 #Mudavanhu
+}
+840.1.1={
+	holder=1000202414 #Nikati
+}
+870.1.1={
+	holder=1000202415 #Misola
+}
+900.1.1={
+	holder=1000202416 #Kwelekwele
+}
+930.1.1={
+	holder=1000202417 #Langane
+}
+960.1.1={
+	holder=1000202418 #Masola
+}
+990.1.1={
+	holder=1000202419 #Chingombe
+}
+1020.1.1={
+	holder=1000202420 #Nichasike
+}
+1050.1.1={
+	holder=1000202421 #Nichasike
+}
+1080.1.1={
+	holder=1000202422 #Kwelekwele
+}
+1110.1.1={
+	holder=1000202423 #Chibamubamu
+}
+1140.1.1={
+	holder=1000202424 #Tumbare
+}
+1170.1.1={
+	holder=1000202425 #Madlazwegwendo
+}
+1200.1.1={
+	holder=1000202426 #Nkami
+}
+1230.1.1={
+	holder=1000202427 #Kambgun
+}
+1260.1.1={
+	holder=1000202428 #Tumbare
+}
+1290.1.1={
+	holder=1000202429 #Nkuse
+}
+1320.1.1={
+	holder=1000202430 #Makulukusa
+}
+1350.1.1={
+	holder=1000202431 #Tumbare
+}

@@ -1,10 +1,10 @@
-#Fedha Dynasty (Placeholders)
+#Tongofa Dynasty (Placeholders) of Tete
 
-1000083593 = {
-	name="Elea"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
+1000080021 = {
+	name="Matope"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
 	720.1.1={
 		birth="720.1.1"
 	}
@@ -13,12 +13,12 @@
 	}
 }
 
-1000083594 = {
-	name="Adhama"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083593
+1000080022 = {
+	name="Dzingai"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080021
 	750.1.1={
 		birth="750.1.1"
 	}
@@ -27,12 +27,12 @@
 	}
 }
 
-1000083595 = {
-	name="Musa"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083594
+1000080023 = {
+	name="Chisi"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080022
 	780.1.1={
 		birth="780.1.1"
 	}
@@ -41,12 +41,12 @@
 	}
 }
 
-1000083596 = {
-	name="Tian"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083595
+1000080024 = {
+	name="Tichaona"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080023
 	810.1.1={
 		birth="810.1.1"
 	}
@@ -55,12 +55,12 @@
 	}
 }
 
-1000083597 = {
-	name="Zahur"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083596
+1000080025 = {
+	name="Hosho"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080024
 	840.1.1={
 		birth="840.1.1"
 	}
@@ -69,12 +69,12 @@
 	}
 }
 
-1000083598 = {
-	name="Anasa"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083597
+1000080026 = {
+	name="Iwe"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080025
 	870.1.1={
 		birth="870.1.1"
 	}
@@ -83,12 +83,12 @@
 	}
 }
 
-1000083599 = {
-	name="Ashon"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083598
+1000080027 = {
+	name="Takudzwa"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080026
 	900.1.1={
 		birth="900.1.1"
 	}
@@ -97,12 +97,12 @@
 	}
 }
 
-1000083600 = {
-	name="Jafari"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083599
+1000080028 = {
+	name="Mbada"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080027
 	930.1.1={
 		birth="930.1.1"
 	}
@@ -111,12 +111,12 @@
 	}
 }
 
-1000083601 = {
-	name="Juma"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083600
+1000080029 = {
+	name="Simba"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080028
 	960.1.1={
 		birth="960.1.1"
 	}
@@ -125,12 +125,12 @@
 	}
 }
 
-1000083602 = {
-	name="Elea"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083601
+1000080030 = {
+	name="Tashongedzwa"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080029
 	990.1.1={
 		birth="990.1.1"
 	}
@@ -139,12 +139,12 @@
 	}
 }
 
-1000083603 = {
-	name="Mbita"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083602
+1000080031 = {
+	name="Tazvitya"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080030
 	1020.1.1={
 		birth="1020.1.1"
 	}
@@ -153,12 +153,12 @@
 	}
 }
 
-1000083604 = {
-	name="Taji"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083603
+1000080032 = {
+	name="Nyatsimba"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080031
 	1050.1.1={
 		birth="1050.1.1"
 	}
@@ -167,12 +167,12 @@
 	}
 }
 
-1000083605 = {
-	name="Juma"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083604
+1000080033 = {
+	name="Siti"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080032
 	1080.1.1={
 		birth="1080.1.1"
 	}
@@ -181,12 +181,12 @@
 	}
 }
 
-1000083606 = {
-	name="Ashon"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083605
+1000080034 = {
+	name="Tashongedzwa"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080033
 	1110.1.1={
 		birth="1110.1.1"
 	}
@@ -195,12 +195,12 @@
 	}
 }
 
-1000083607 = {
-	name="Hali"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083606
+1000080035 = {
+	name="Chenjerai"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080034
 	1140.1.1={
 		birth="1140.1.1"
 	}
@@ -209,12 +209,12 @@
 	}
 }
 
-1000083608 = {
-	name="Jafari"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083607
+1000080036 = {
+	name="Tsungirirai"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080035
 	1170.1.1={
 		birth="1170.1.1"
 	}
@@ -223,12 +223,12 @@
 	}
 }
 
-1000083609 = {
-	name="Atieno"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083608
+1000080037 = {
+	name="Dzingai"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080036
 	1200.1.1={
 		birth="1200.1.1"
 	}
@@ -237,12 +237,12 @@
 	}
 }
 
-1000083610 = {
-	name="Baraka"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083609
+1000080038 = {
+	name="Neshangwe"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080037
 	1230.1.1={
 		birth="1230.1.1"
 	}
@@ -251,12 +251,12 @@
 	}
 }
 
-1000083611 = {
-	name="Elea"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083610
+1000080039 = {
+	name="Nyakambira"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080038
 	1260.1.1={
 		birth="1260.1.1"
 	}
@@ -265,12 +265,12 @@
 	}
 }
 
-1000083612 = {
-	name="Kitwana"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083611
+1000080040 = {
+	name="Tinaye"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080039
 	1290.1.1={
 		birth="1290.1.1"
 	}
@@ -279,12 +279,12 @@
 	}
 }
 
-1000083613 = {
-	name="Kifeda"
-	dynasty=1000028355 #Fedha
-	religion="sunni"
-	culture="wangozi"
-	father=1000083612
+1000080041 = {
+	name="Gatsi"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080040
 	1320.1.1={
 		birth="1320.1.1"
 	}

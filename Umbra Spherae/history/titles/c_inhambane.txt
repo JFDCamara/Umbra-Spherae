@@ -1,0 +1,65 @@
+#Livombo Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083740 #Ntwanano
+}
+780.1.1={
+	holder=1000083741 #Ntosvelo
+}
+810.1.1={
+	holder=1000083742 #Masana
+}
+840.1.1={
+	holder=1000083743 #Minkateko
+}
+870.1.1={
+	holder=1000083744 #Unwana
+}
+900.1.1={
+	holder=1000083745 #Minkateko
+}
+930.1.1={
+	holder=1000083746 #Shiluva
+}
+960.1.1={
+	holder=1000083747 #Elela
+}
+990.1.1={
+	holder=1000083748 #Akani
+}
+1020.1.1={
+	holder=1000083749 #Masana
+}
+1050.1.1={
+	holder=1000083750 #Vuthlari
+}
+1080.1.1={
+	holder=1000083751 #Unwana
+}
+1110.1.1={
+	holder=1000083752 #Ntwanano
+}
+1140.1.1={
+	holder=1000083753 #Nsuku
+}
+1170.1.1={
+	holder=1000083754 #Ntwanano
+}
+1200.1.1={
+	holder=1000083755 #Akani
+}
+1230.1.1={
+	holder=1000083756 #Elela
+}
+1260.1.1={
+	holder=1000083757 #Nsuku
+}
+1290.1.1={
+	holder=1000083758 #Unwana
+}
+1320.1.1={
+	holder=1000083759 #Thirani
+}
+1350.1.1={
+	holder=1000083760 #Elela
+}

@@ -16,37 +16,16 @@ int main() {
     char** namex = malloc(buffer_len * sizeof(char*));
     char** names = malloc(buffer_len * sizeof(char*));
     
-    /*names[0]="Akar-Bale";
-    names[1]="Bora-Dale";
-    names[2]="Akar-Bale";
-    names[3]="Bora-Dale";
-    names[4]="Akar-Bale";
-    names[5]="Bora-Dale";
-    names[6]="Akar-Bale";
-    names[7]="Bora-Dale";
-    names[8]="Akar-Bale";
-    names[9]="Bora-Dale";
-    names[10]="Akar-Bale";
-    names[11]="Bora-Dale";
-    names[12]="Akar-Bale";
-    names[13]="Bora-Dale";
-    names[14]="Akar-Bale";
-    names[15]="Bora-Dale";
-    names[16]="Akar-Bale";
-    names[17]="Bora-Dale";
-    names[18]="Akar-Bale";
-    names[19]="Bora-Dale";
-    names[20]="Fini-Bale";*/
+
     
-    
-    int initial_char_number = 1000083593;
+    int initial_char_number = 1000080021;
     int initial_date = 720;
     int final_date = 1320;
-    int dynasty_number = 1000028355;
+    int dynasty_number = 1000028375;
     
-    char dynasty[] = "Fedha";
-    char religion[] = "\"sunni\"";
-    char culture[] = "\"wangozi\"";
+    char dynasty[] = "Tongofa";
+    char religion[] = "\"south_bantu_mythology\"";
+    char culture[] = "\"karanga\"";
     
     //printf("%s", dynasty);
 

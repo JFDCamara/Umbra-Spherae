@@ -1,0 +1,65 @@
+#Nyathi Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000080000 #Nyakambira
+}
+780.1.1={
+	holder=1000080001 #Zivanai
+}
+810.1.1={
+	holder=1000080002 #Tinodaishe
+}
+840.1.1={
+	holder=1000080003 #Tinaye
+}
+870.1.1={
+	holder=1000080004 #Baroma
+}
+900.1.1={
+	holder=1000080005 #Chisi
+}
+930.1.1={
+	holder=1000080006 #Chikuyo
+}
+960.1.1={
+	holder=1000080007 #Negomo
+}
+990.1.1={
+	holder=1000080008 #Dehwe
+}
+1020.1.1={
+	holder=1000080009 #Tavonga
+}
+1050.1.1={
+	holder=1000080010 #Tavonga
+}
+1080.1.1={
+	holder=1000080011 #Chipinduka
+}
+1110.1.1={
+	holder=1000080012 #Mhuru
+}
+1140.1.1={
+	holder=1000080013 #Nyatsusu
+}
+1170.1.1={
+	holder=1000080014 #Tendekai
+}
+1200.1.1={
+	holder=1000080015 #Hatitye
+}
+1230.1.1={
+	holder=1000080016 #Nyatsimba
+}
+1260.1.1={
+	holder=1000080017 #Nyakambira
+}
+1290.1.1={
+	holder=1000080018 #Chisi
+}
+1320.1.1={
+	holder=1000080019 #Chisi
+}
+1350.1.1={
+	holder=1000080020 #Goridhe
+}

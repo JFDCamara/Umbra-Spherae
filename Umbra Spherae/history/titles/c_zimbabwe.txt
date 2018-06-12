@@ -1,0 +1,68 @@
+#Garanganga Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083761 #Mavura
+}
+780.1.1={
+	holder=1000083762 #Tashongedzwa
+}
+810.1.1={
+	holder=1000083763 #Nyamaende
+}
+840.1.1={
+	holder=1000083764 #Tsungirirai
+}
+870.1.1={
+	holder=1000083765 #Kuseka
+}
+900.1.1={
+	holder=1000083766 #Tapiwa
+}
+930.1.1={
+	holder=1000083767 #Tichaona
+}
+960.1.1={
+	holder=1000083768 #Itai
+}
+990.1.1={
+	holder=1000083769 #Samatambira
+}
+1020.1.1={
+	holder=1000083770 #Tichafara
+}
+1050.1.1={
+	holder=1000083771 #Neshangwe
+}
+1080.1.1={
+	holder=1000083772 #Chipinduka
+}
+1110.1.1={
+	holder=1000083773 #Nhamo
+}
+1140.1.1={
+	holder=1000083774 #Dambanyika
+}
+1170.1.1={
+	holder=1000083775 #Chenjerai
+}
+1200.1.1={
+	holder=1000083776 #Chisi
+}
+1220.1.1={
+	liege="k_zimbabwe"
+}
+1230.1.1={
+	holder=1000083777 #Chisi
+}
+1260.1.1={
+	holder=1000083778 #Mbada
+}
+1290.1.1={
+	holder=1000083779 #Dzingai
+}
+1320.1.1={
+	holder=1000083780 #Chivere
+}
+1350.1.1={
+	holder=1000083781 #Muchaneta
+}

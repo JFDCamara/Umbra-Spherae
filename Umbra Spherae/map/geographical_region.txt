@@ -430,7 +430,7 @@ world_swahili_coast = {
 
 world_zimbabwe = {
 	duchies = {
-		d_zimbabwe_buhera d_mapungubwe d_venda d_madanda d_toutswe d_butwa d_dande_chidima d_kalomo d_maungwe_budya d_manyika_uteve d_barwe_tonga
+		d_zimbabwe_buhera d_mapungubwe d_venda d_madanda_tshona d_toutswe d_butwa d_dande_chidima d_kalomo d_maungwe_budya d_manyika_uteve d_barwe_tonga
 	}
 }
 

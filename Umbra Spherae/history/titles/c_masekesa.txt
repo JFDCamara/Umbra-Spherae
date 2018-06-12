@@ -1,0 +1,65 @@
+#Nyakasikana Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083950 #Nhamo
+}
+780.1.1={
+	holder=1000083951 #Tichaona
+}
+810.1.1={
+	holder=1000083952 #Chenjerai
+}
+840.1.1={
+	holder=1000083953 #Jongwe
+}
+870.1.1={
+	holder=1000083954 #Siti
+}
+900.1.1={
+	holder=1000083955 #Chipinduka
+}
+930.1.1={
+	holder=1000083956 #Nhamo
+}
+960.1.1={
+	holder=1000083957 #Tichafara
+}
+990.1.1={
+	holder=1000083958 #Matope
+}
+1020.1.1={
+	holder=1000083959 #Muchaneta
+}
+1050.1.1={
+	holder=1000083960 #Changamire
+}
+1080.1.1={
+	holder=1000083961 #Mhuru
+}
+1110.1.1={
+	holder=1000083962 #Kuseka
+}
+1140.1.1={
+	holder=1000083963 #Tendekai
+}
+1170.1.1={
+	holder=1000083964 #Dzingai
+}
+1200.1.1={
+	holder=1000083965 #Baba
+}
+1230.1.1={
+	holder=1000083966 #Muchaneta
+}
+1260.1.1={
+	holder=1000083967 #Muchaneta
+}
+1290.1.1={
+	holder=1000083968 #Tichafara
+}
+1320.1.1={
+	holder=1000083969 #Tendekai
+}
+1350.1.1={
+	holder=1000083970 #Simba
+}

@@ -1,0 +1,65 @@
+#Khupe Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000202390 #Vunamakuni
+}
+780.1.1={
+	holder=1000202391 #Madabhale
+}
+810.1.1={
+	holder=1000202392 #Chibundule
+}
+840.1.1={
+	holder=1000202393 #Misola
+}
+870.1.1={
+	holder=1000202394 #Langane
+}
+900.1.1={
+	holder=1000202395 #Zwikono
+}
+930.1.1={
+	holder=1000202396 #Mosojane
+}
+960.1.1={
+	holder=1000202397 #Hungwe
+}
+990.1.1={
+	holder=1000202398 #Ninhenbwe
+}
+1020.1.1={
+	holder=1000202399 #Hungwe
+}
+1050.1.1={
+	holder=1000202400 #Madabhale
+}
+1080.1.1={
+	holder=1000202401 #Chibundule
+}
+1110.1.1={
+	holder=1000202402 #Dombo
+}
+1140.1.1={
+	holder=1000202403 #Chibundule
+}
+1170.1.1={
+	holder=1000202404 #Vunamakuni
+}
+1200.1.1={
+	holder=1000202405 #Kwelekwele
+}
+1230.1.1={
+	holder=1000202406 #Tohwechipi
+}
+1260.1.1={
+	holder=1000202407 #Chikura
+}
+1290.1.1={
+	holder=1000202408 #Zwikono
+}
+1320.1.1={
+	holder=1000202409 #Mwayile
+}
+1350.1.1={
+	holder=1000202410 #Maluzapi
+}

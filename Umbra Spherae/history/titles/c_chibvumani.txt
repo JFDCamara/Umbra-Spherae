@@ -1,0 +1,68 @@
+#Kachingwe Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083803 #Tapiwa
+}
+780.1.1={
+	holder=1000083804 #Gatsi
+}
+810.1.1={
+	holder=1000083805 #Tsungirirai
+}
+840.1.1={
+	holder=1000083806 #Tashongedzwa
+}
+870.1.1={
+	holder=1000083807 #Simba
+}
+900.1.1={
+	holder=1000083808 #Moyo
+}
+930.1.1={
+	holder=1000083809 #Muchaneta
+}
+960.1.1={
+	holder=1000083810 #Nyashadzashe
+}
+990.1.1={
+	holder=1000083811 #Chikuyo
+}
+1020.1.1={
+	holder=1000083812 #Kumbirai
+}
+1050.1.1={
+	holder=1000083813 #Kuseka
+}
+1080.1.1={
+	holder=1000083814 #Negomo
+}
+1110.1.1={
+	holder=1000083815 #Nyambu
+}
+1140.1.1={
+	holder=1000083816 #Nhamo
+}
+1170.1.1={
+	holder=1000083817 #Samatambira
+}
+1200.1.1={
+	holder=1000083818 #Gatsi
+}
+1220.1.1={
+	liege="k_zimbabwe"
+}
+1230.1.1={
+	holder=1000083819 #Moyo
+}
+1260.1.1={
+	holder=1000083820 #Tichayana
+}
+1290.1.1={
+	holder=1000083821 #Nhamo
+}
+1320.1.1={
+	holder=1000083822 #Tichafara
+}
+1350.1.1={
+	holder=1000083823 #Kuseka
+}

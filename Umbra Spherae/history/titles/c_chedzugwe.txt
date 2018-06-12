@@ -1,0 +1,65 @@
+#Mangwende Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083845 #Nyenyedzi
+}
+780.1.1={
+	holder=1000083846 #Baroma
+}
+810.1.1={
+	holder=1000083847 #Taurai
+}
+840.1.1={
+	holder=1000083848 #Tsungirirai
+}
+870.1.1={
+	holder=1000083849 #Biria
+}
+900.1.1={
+	holder=1000083850 #Tateguru
+}
+930.1.1={
+	holder=1000083851 #Takudzwa
+}
+960.1.1={
+	holder=1000083852 #Matope
+}
+990.1.1={
+	holder=1000083853 #Hosho
+}
+1020.1.1={
+	holder=1000083854 #Zivanai
+}
+1050.1.1={
+	holder=1000083855 #Nyahuma
+}
+1080.1.1={
+	holder=1000083856 #Dzingai
+}
+1110.1.1={
+	holder=1000083857 #Tapiwa
+}
+1140.1.1={
+	holder=1000083858 #Dambanyika
+}
+1170.1.1={
+	holder=1000083859 #Nyakambira
+}
+1200.1.1={
+	holder=1000083860 #Nyahuma
+}
+1230.1.1={
+	holder=1000083861 #Dambanyika
+}
+1260.1.1={
+	holder=1000083862 #Kumbirai
+}
+1290.1.1={
+	holder=1000083863 #Dambanyika
+}
+1320.1.1={
+	holder=1000083864 #Mhuru
+}
+1350.1.1={
+	holder=1000083865 #Nyatsimba
+}

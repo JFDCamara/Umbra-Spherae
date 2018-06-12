@@ -1,0 +1,65 @@
+#Mabuwa Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083824 #Tinodaishe
+}
+780.1.1={
+	holder=1000083825 #Mhuru
+}
+810.1.1={
+	holder=1000083826 #Zivanai
+}
+840.1.1={
+	holder=1000083827 #Neshangwe
+}
+870.1.1={
+	holder=1000083828 #Tapiwa
+}
+900.1.1={
+	holder=1000083829 #Muchaneta
+}
+930.1.1={
+	holder=1000083830 #Tashongedzwa
+}
+960.1.1={
+	holder=1000083831 #Chisi
+}
+990.1.1={
+	holder=1000083832 #Muchaneta
+}
+1020.1.1={
+	holder=1000083833 #Nyatsusu
+}
+1050.1.1={
+	holder=1000083834 #Tapiwa
+}
+1080.1.1={
+	holder=1000083835 #Mavura
+}
+1110.1.1={
+	holder=1000083836 #Nyamaende
+}
+1140.1.1={
+	holder=1000083837 #Baroma
+}
+1170.1.1={
+	holder=1000083838 #Goridhe
+}
+1200.1.1={
+	holder=1000083839 #Nyashadzashe
+}
+1230.1.1={
+	holder=1000083840 #Tichayana
+}
+1260.1.1={
+	holder=1000083841 #Tichayana
+}
+1290.1.1={
+	holder=1000083842 #Nyambu
+}
+1320.1.1={
+	holder=1000083843 #Dambanyika
+}
+1350.1.1={
+	holder=1000083844 #Taurai
+}

@@ -1,0 +1,65 @@
+#Katete Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083635 #Luumuno
+}
+780.1.1={
+	holder=1000083636 #Milimo
+}
+810.1.1={
+	holder=1000083637 #Lingubona
+}
+840.1.1={
+	holder=1000083638 #Muleya
+}
+870.1.1={
+	holder=1000083639 #Luyando
+}
+900.1.1={
+	holder=1000083640 #Linda
+}
+930.1.1={
+	holder=1000083641 #Muleya
+}
+960.1.1={
+	holder=1000083642 #Malambo
+}
+990.1.1={
+	holder=1000083643 #Mabotu
+}
+1020.1.1={
+	holder=1000083644 #Mainza
+}
+1050.1.1={
+	holder=1000083645 #Milumbe
+}
+1080.1.1={
+	holder=1000083646 #Muleya
+}
+1110.1.1={
+	holder=1000083647 #Mabotu
+}
+1140.1.1={
+	holder=1000083648 #Mwaka
+}
+1170.1.1={
+	holder=1000083649 #Mapenzi
+}
+1200.1.1={
+	holder=1000083650 #Beenzu
+}
+1230.1.1={
+	holder=1000083651 #Hachikoko
+}
+1260.1.1={
+	holder=1000083652 #Malindi
+}
+1290.1.1={
+	holder=1000083653 #Lushomo
+}
+1320.1.1={
+	holder=1000083654 #Chipo
+}
+1350.1.1={
+	holder=1000083655 #Muchindu
+}

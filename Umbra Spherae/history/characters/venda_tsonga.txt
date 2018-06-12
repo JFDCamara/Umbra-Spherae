@@ -1,0 +1,1180 @@
+#Netulamela Dynasty (Placeholders) of Tulamela
+
+1000083677 = {
+	name="Ntshengedzeni"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083678 = {
+	name="Dowe"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083677
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083679 = {
+	name="Lutendo"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083678
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083680 = {
+	name="Nkhangweleni"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083679
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083681 = {
+	name="Nnyaweleni"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083680
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083682 = {
+	name="Khathu"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083681
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083683 = {
+	name="Phathutshedzo"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083682
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083684 = {
+	name="Azwimmbahvi"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083683
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083685 = {
+	name="Nnyaweleni"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083684
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083686 = {
+	name="Avhapfani"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083685
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083687 = {
+	name="Thinawanga"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083686
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083688 = {
+	name="Phathu"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083687
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083689 = {
+	name="Khuliso"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083688
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083690 = {
+	name="Dowe"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083689
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083691 = {
+	name="Dali"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083690
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083692 = {
+	name="Ntshengedzeni"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083691
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083693 = {
+	name="Lindelani"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083692
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083694 = {
+	name="Tungu"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083693
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083695 = {
+	name="Arehone"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083694
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083696 = {
+	name="Azwinaki"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083695
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083697 = {
+	name="Funi"
+	dynasty=1000028359 #Netulamela
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083696
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Nedzata Dynasty (Placeholders) of Dzata
+
+1000083698 = {
+	name="Dowelani"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083699 = {
+	name="Mphedziseni"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083698
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083700 = {
+	name="Thinawanga"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083699
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083701 = {
+	name="Khathutshelo"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083700
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083702 = {
+	name="Khathu"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083701
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083703 = {
+	name="Thinawanga"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083702
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083704 = {
+	name="Tshinyalani"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083703
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083705 = {
+	name="Azwinndini"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083704
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083706 = {
+	name="Dowelani"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083705
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083707 = {
+	name="Mutsutshudzi"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083706
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083708 = {
+	name="Khathu"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083707
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083709 = {
+	name="Tshifhiwa"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083708
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083710 = {
+	name="Arehone"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083709
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083711 = {
+	name="Alu"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083710
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083712 = {
+	name="Mpfareleli"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083711
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083713 = {
+	name="Tshiananeo"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083712
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083714 = {
+	name="Dowe"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083713
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083715 = {
+	name="Tshiananeo"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083714
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083716 = {
+	name="Tshinyalani"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083715
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083717 = {
+	name="Rabe"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083716
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083718 = {
+	name="Dowelani"
+	dynasty=1000028360 #Nedzata
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083717
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Mpfumo Dynasty (Placeholders) of Manyikeni
+
+1000083719 = {
+	name="Nyeleti"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083720 = {
+	name="Nyeleti"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083719
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083721 = {
+	name="Masingita"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083720
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083722 = {
+	name="Amukelani"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083721
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083723 = {
+	name="Ntwanano"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083722
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083724 = {
+	name="Masana"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083723
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083725 = {
+	name="Masana"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083724
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083726 = {
+	name="Eletsa"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083725
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083727 = {
+	name="Amukelani"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083726
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083728 = {
+	name="Ntsako"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083727
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083729 = {
+	name="Nyeleti"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083728
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083730 = {
+	name="Ntosvelo"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083729
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083731 = {
+	name="Nyeleti"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083730
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083732 = {
+	name="Minkateko"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083731
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083733 = {
+	name="Nsuku"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083732
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083734 = {
+	name="Rhulani"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083733
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083735 = {
+	name="Rhulani"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083734
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083736 = {
+	name="Nyeleti"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083735
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083737 = {
+	name="Ntosvelo"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083736
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083738 = {
+	name="Nyeleti"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083737
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083739 = {
+	name="Rhulani"
+	dynasty=1000028361 #Mpfumo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083738
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Livombo Dynasty (Placeholders) of Inhambane
+
+1000083740 = {
+	name="Ntwanano"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083741 = {
+	name="Ntosvelo"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083740
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083742 = {
+	name="Masana"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083741
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083743 = {
+	name="Minkateko"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083742
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083744 = {
+	name="Unwana"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083743
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083745 = {
+	name="Minkateko"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083744
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083746 = {
+	name="Shiluva"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083745
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083747 = {
+	name="Elela"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083746
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083748 = {
+	name="Akani"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083747
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083749 = {
+	name="Masana"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083748
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083750 = {
+	name="Vuthlari"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083749
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083751 = {
+	name="Unwana"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083750
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083752 = {
+	name="Ntwanano"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083751
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083753 = {
+	name="Nsuku"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083752
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083754 = {
+	name="Ntwanano"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083753
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083755 = {
+	name="Akani"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083754
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083756 = {
+	name="Elela"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083755
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083757 = {
+	name="Nsuku"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083756
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083758 = {
+	name="Unwana"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083757
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083759 = {
+	name="Thirani"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083758
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083760 = {
+	name="Elela"
+	dynasty=1000028362 #Livombo
+	religion="south_bantu_mythology"
+	culture="venda_tsonga"
+	father=1000083759
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+

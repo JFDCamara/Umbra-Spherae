@@ -1,0 +1,65 @@
+#Netulamela Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083677 #Ntshengedzeni
+}
+780.1.1={
+	holder=1000083678 #Dowe
+}
+810.1.1={
+	holder=1000083679 #Lutendo
+}
+840.1.1={
+	holder=1000083680 #Nkhangweleni
+}
+870.1.1={
+	holder=1000083681 #Nnyaweleni
+}
+900.1.1={
+	holder=1000083682 #Khathu
+}
+930.1.1={
+	holder=1000083683 #Phathutshedzo
+}
+960.1.1={
+	holder=1000083684 #Azwimmbahvi
+}
+990.1.1={
+	holder=1000083685 #Nnyaweleni
+}
+1020.1.1={
+	holder=1000083686 #Avhapfani
+}
+1050.1.1={
+	holder=1000083687 #Thinawanga
+}
+1080.1.1={
+	holder=1000083688 #Phathu
+}
+1110.1.1={
+	holder=1000083689 #Khuliso
+}
+1140.1.1={
+	holder=1000083690 #Dowe
+}
+1170.1.1={
+	holder=1000083691 #Dali
+}
+1200.1.1={
+	holder=1000083692 #Ntshengedzeni
+}
+1230.1.1={
+	holder=1000083693 #Lindelani
+}
+1260.1.1={
+	holder=1000083694 #Tungu
+}
+1290.1.1={
+	holder=1000083695 #Arehone
+}
+1320.1.1={
+	holder=1000083696 #Azwinaki
+}
+1350.1.1={
+	holder=1000083697 #Funi
+}

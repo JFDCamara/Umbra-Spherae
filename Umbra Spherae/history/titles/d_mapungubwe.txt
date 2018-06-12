@@ -1,0 +1,23 @@
+#Moyo Dynasty (Placeholders)
+
+1075.1.1={
+	holder=1000080363 #Chikuyo
+}
+1080.1.1={
+	holder=1000080364 #Rupandamanhanga
+}
+1110.1.1={
+	holder=1000080365 #Rupengo
+}
+1140.1.1={
+	holder=1000080366 #Ninhenbwe
+}
+1170.1.1={
+	holder=1000080367 #Kwelekwele
+}
+1200.1.1={
+	holder=1000080368 #Nigwande
+}
+1220.1.1={
+	holder=0
+}
