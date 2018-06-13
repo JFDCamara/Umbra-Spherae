@@ -711,9 +711,6 @@ e_srivijaya = {
 
 				color = { 106  153  163 }
 				color2 = { 250 250 250 }
-				
-				holy_site = malagasy_religion
-				holy_site = malagasy_religion_reformed
 
 				b_adazig = {
 				}
@@ -1415,8 +1412,6 @@ e_srivijaya = {
 
 				holy_site = bornean_religion
 				holy_site = bornean_religion_reformed
-				holy_site = malagasy_religion
-				holy_site = malagasy_religion_reformed
 				
 				b_tanjungpura = {
 				}
@@ -1464,8 +1459,6 @@ e_srivijaya = {
 
 				holy_site = bornean_religion
 				holy_site = bornean_religion_reformed
-				holy_site = malagasy_religion
-				holy_site = malagasy_religion_reformed
 				
 				b_sanggau = {
 				}
@@ -1521,8 +1514,6 @@ e_srivijaya = {
 
 				holy_site = bornean_religion
 				holy_site = bornean_religion_reformed
-				holy_site = malagasy_religion
-				holy_site = malagasy_religion_reformed
 				
 				b_banjarmasin = {
 				}
@@ -1600,8 +1591,6 @@ e_srivijaya = {
 
 				holy_site = bornean_religion
 				holy_site = bornean_religion_reformed
-				holy_site = malagasy_religion
-				holy_site = malagasy_religion_reformed
 				
 				b_kutai = {
 				}

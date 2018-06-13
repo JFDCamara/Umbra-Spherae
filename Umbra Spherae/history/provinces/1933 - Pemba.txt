@@ -23,3 +23,6 @@ religion = east_bantu_mythology
 1000.1.1 = {
 	religion = sunni
 }
+1170.1.1 = {
+	culture = swahili
+}

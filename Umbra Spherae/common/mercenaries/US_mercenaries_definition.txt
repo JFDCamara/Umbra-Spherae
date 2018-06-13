@@ -1525,3 +1525,61 @@ d_dhivehi_pirates_composition = {
 	heavy_infantry = 25
 	galleys = 40
 }
+
+d_omotic_optic_composition = {
+	levy_size = 1
+	archers = 100
+	light_infantry = 200
+}
+
+d_pirates_of_the_indian_composition = {
+	levy_size = 3
+	archers = 100
+	light_infantry = 200
+	heavy_infantry = 25
+	galleys = 40
+}
+
+d_revenge_of_the_kafir_composition = {
+	levy_size = 2
+	archers = 100
+	light_infantry = 200
+	pikemen = 200
+	galleys = 40
+}
+
+d_dahafaly_sons_composition = {
+	levy_size = 1
+	archers = 100
+	light_infantry = 200
+}
+
+d_islamic_expedition_composition = {
+	levy_size = 2
+	pikemen = 100
+	light_infantry = 200
+	heavy_infantry = 25
+	galleys = 40
+}
+
+d_bloody_dhow_composition = {
+	levy_size = 3
+	light_infantry = 400
+	pikemen = 100
+	galleys = 50
+}
+
+d_golden_blow_composition = {
+	levy_size = 3
+	light_infantry = 400
+	archers = 300
+	heavy_infantry = 25
+}
+
+d_hakuna_matata_composition = {
+	levy_size = 2
+	light_infantry = 100
+	archers = 200
+	pikemen = 50
+	heavy_infantry = 50
+}

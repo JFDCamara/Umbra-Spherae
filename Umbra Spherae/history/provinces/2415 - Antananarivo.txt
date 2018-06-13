@@ -20,3 +20,4 @@ religion = malagasy_religion
 
 # History
 
+1050.1.1 = { culture = malagasy }

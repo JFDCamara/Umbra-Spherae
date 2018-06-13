@@ -77,7 +77,7 @@ b_madiino;Madiino;Madiino;Madiino;Madiino;Madiino;Madiino;Madiino;Madiino;Madiin
 b_garbahaarey;Garbahaarey;Garbahaarey;Garbahaarey;Garbahaarey;Garbahaarey;Garbahaarey;Garbahaarey;Garbahaarey;Garbahaarey;Garbahaarey;Garbahaarey;Garbahaarey;Garbahaarey;x
 b_buurdhuubo;Buurdhuubo;Buurdhuubo;Buurdhuubo;Buurdhuubo;Buurdhuubo;Buurdhuubo;Buurdhuubo;Buurdhuubo;Buurdhuubo;Buurdhuubo;Buurdhuubo;Buurdhuubo;Buurdhuubo;x
 b_wajid;Wajid;Wajid;Wajid;Wajid;Wajid;Wajid;Wajid;Wajid;Wajid;Wajid;Wajid;Wajid;Wajid;x
-b_mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;x
+b_mandera_bardera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;Mandera;x
 d_kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;x
 d_kaffa_adj;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;x
 c_kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;x
@@ -93,8 +93,8 @@ b_menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiwo;Menjiw
 c_hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;x
 c_hinnario_adj;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;x
 b_hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;x
-b_sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;Sidama;x
-b_guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;x
+b_sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;x
+b_guma_hinnario;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;Guma;x
 b_bedele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;Bendele;x
 b_agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;Agaro;x
 b_sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;Sentama;x
@@ -114,7 +114,7 @@ b_gibe;Gibe;Gibe;Gibe;Gibe;Gibe;Gibe;Gibe;Gibe;Gibe;Gibe;Gibe;Gibe;Gibe;x
 b_duna;Duna;Duna;Duna;Duna;Duna;Duna;Duna;Duna;Duna;Duna;Duna;Duna;Duna;x
 c_gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;x
 c_gamo_adj;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;x
-b_gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;x
+b_gamo_gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;x
 b_ganz;Ganz;Ganz;Ganz;Ganz;Ganz;Ganz;Ganz;Ganz;Ganz;Ganz;Ganz;Ganz;Ganz;x
 b_kambata;Kambata;Kambata;Kambata;Kambata;Kambata;Kambata;Kambata;Kambata;Kambata;Kambata;Kambata;Kambata;Kambata;x
 b_arba_minch;Arba Minch;Arba Minch;Arba Minch;Arba Minch;Arba Minch;Arba Minch;Arba Minch;Arba Minch;Arba Minch;Arba Minch;Arba Minch;Arba Minch;Arba Minch;x
@@ -146,7 +146,7 @@ b_chole;Chole;Chole;Chole;Chole;Chole;Chole;Chole;Chole;Chole;Chole;Chole;Chole;
 b_gololcha;Gololcha;Gololcha;Gololcha;Gololcha;Gololcha;Gololcha;Gololcha;Gololcha;Gololcha;Gololcha;Gololcha;Gololcha;Gololcha;x
 c_bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;x
 c_bali_adj;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;x
-b_bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;x
+b_bali_bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;x
 b_agarfa;Agarfa;Agarfa;Agarfa;Agarfa;Agarfa;Agarfa;Agarfa;Agarfa;Agarfa;Agarfa;Agarfa;Agarfa;Agarfa;x
 b_raytu;Raytu;Raytu;Raytu;Raytu;Raytu;Raytu;Raytu;Raytu;Raytu;Raytu;Raytu;Raytu;Raytu;x
 b_seweyna;Seweyna;Seweyna;Seweyna;Seweyna;Seweyna;Seweyna;Seweyna;Seweyna;Seweyna;Seweyna;Seweyna;Seweyna;Seweyna;x

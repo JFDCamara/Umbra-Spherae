@@ -6,8 +6,8 @@ title = c_hinnario
 # Settlements
 max_settlements = 3
 b_hinnario = tribal
-#b_sidama = 
-#b_guma = 
+#b_sidamo = 
+#b_guma_hinnario = 
 #b_bedele = 
 #b_agaro = 
 #b_sentama = 

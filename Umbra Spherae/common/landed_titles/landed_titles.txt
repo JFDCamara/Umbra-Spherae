@@ -29431,6 +29431,19 @@ e_abyssinia = {
 				color={ 141 135 10 }
 				color2={ 255 255 255 }
 			
+				holy_site=south_bantu_mythology
+				holy_site=south_bantu_mythology_reformed
+				holy_site=east_bantu_mythology
+				holy_site=east_bantu_mythology_reformed
+				holy_site=omotic_pagan
+				holy_site=omotic_pagan_reformed
+				holy_site=cushitic_pagan
+				holy_site=cushitic_pagan_reformed
+				holy_site=nilotic_pagan
+				holy_site=nilotic_pagan_reformed
+				holy_site=malagasy_religion
+				holy_site=malagasy_religion_reformed
+
 				b_kaffa_kaffa = {
 				}
 				b_bonga_kaffa = {
@@ -29456,7 +29469,7 @@ e_abyssinia = {
 				}
 				b_sidamo = {
 				}
-				b_guma = {
+				b_guma_hinnario = {
 				}
 				b_bedele = {
 				}
@@ -29501,7 +29514,7 @@ e_abyssinia = {
 				color={ 179 135 20 }
 				color2={ 255 255 255 }
 			
-				b_gamo = {
+				b_gamo_gamo = {
 				}
 				b_ganz = {
 				}
@@ -29572,7 +29585,7 @@ e_abyssinia = {
 				color={ 179 135 126 }
 				color2={ 255 255 255 }
 			
-				b_bali = {
+				b_bali_bali = {
 				}
 				b_agarfa = {
 				}
@@ -30229,7 +30242,7 @@ e_abyssinia = {
 				}
 				b_wajid = {
 				}
-				b_mandera = {
+				b_mandera_bardera = {
 				}
 			}
 		}

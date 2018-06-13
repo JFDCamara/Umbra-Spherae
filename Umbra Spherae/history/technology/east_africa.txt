@@ -74,7 +74,7 @@ technology = {
 		d_zimbabwe_buhera
 		d_mapungubwe
 		d_venda
-		d_madanda_tshona
+		d_madanda_tsonga
 		d_toutswe
 		d_butwa
 		d_dande_chidima

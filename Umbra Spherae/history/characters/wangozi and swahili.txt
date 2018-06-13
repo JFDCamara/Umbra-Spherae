@@ -204,6 +204,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -213,7 +216,7 @@
 	name="Hodari"
 	dynasty=1000028287 #Mwezi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076711
 	1170.1.1={
 		birth="1170.1.1"
@@ -227,7 +230,7 @@
 	name="Anasa"
 	dynasty=1000028287 #Mwezi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076712
 	1200.1.1={
 		birth="1200.1.1"
@@ -241,7 +244,7 @@
 	name="Hamadi"
 	dynasty=1000028287 #Mwezi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076713
 	1230.1.1={
 		birth="1230.1.1"
@@ -255,7 +258,7 @@
 	name="Juma"
 	dynasty=1000028287 #Mwezi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076714
 	1260.1.1={
 		birth="1260.1.1"
@@ -269,7 +272,7 @@
 	name="Kereenyaga"
 	dynasty=1000028287 #Mwezi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076715
 	1290.1.1={
 		birth="1290.1.1"
@@ -283,7 +286,7 @@
 	name="Hali"
 	dynasty=1000028287 #Mwezi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076716
 	1320.1.1={
 		birth="1320.1.1"
@@ -499,6 +502,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -508,7 +514,7 @@
 	name="Simba"
 	dynasty=1000028288 #Meli
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076732
 	1170.1.1={
 		birth="1170.1.1"
@@ -522,7 +528,7 @@
 	name="Jumaane"
 	dynasty=1000028288 #Meli
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076733
 	1200.1.1={
 		birth="1200.1.1"
@@ -536,7 +542,7 @@
 	name="Kereenyaga"
 	dynasty=1000028288 #Meli
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076734
 	1230.1.1={
 		birth="1230.1.1"
@@ -550,7 +556,7 @@
 	name="Elea"
 	dynasty=1000028288 #Meli
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076735
 	1260.1.1={
 		birth="1260.1.1"
@@ -564,7 +570,7 @@
 	name="Njowga"
 	dynasty=1000028288 #Meli
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076736
 	1290.1.1={
 		birth="1290.1.1"
@@ -578,7 +584,7 @@
 	name="Moyo"
 	dynasty=1000028288 #Meli
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076737
 	1320.1.1={
 		birth="1320.1.1"
@@ -794,6 +800,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -803,7 +812,7 @@
 	name="Keambiroiro"
 	dynasty=1000028289 #Papa
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076753
 	1170.1.1={
 		birth="1170.1.1"
@@ -817,7 +826,7 @@
 	name="Atieno"
 	dynasty=1000028289 #Papa
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076754
 	1200.1.1={
 		birth="1200.1.1"
@@ -831,7 +840,7 @@
 	name="Msia"
 	dynasty=1000028289 #Papa
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076755
 	1230.1.1={
 		birth="1230.1.1"
@@ -845,7 +854,7 @@
 	name="Adhama"
 	dynasty=1000028289 #Papa
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076756
 	1260.1.1={
 		birth="1260.1.1"
@@ -859,7 +868,7 @@
 	name="Jamba"
 	dynasty=1000028289 #Papa
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076757
 	1290.1.1={
 		birth="1290.1.1"
@@ -873,7 +882,7 @@
 	name="Elea"
 	dynasty=1000028289 #Papa
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076758
 	1320.1.1={
 		birth="1320.1.1"
@@ -1089,6 +1098,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -1098,7 +1110,7 @@
 	name="Juma"
 	dynasty=1000028290 #Pembe
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076774
 	1170.1.1={
 		birth="1170.1.1"
@@ -1112,7 +1124,7 @@
 	name="Zawadi"
 	dynasty=1000028290 #Pembe
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076775
 	1200.1.1={
 		birth="1200.1.1"
@@ -1126,7 +1138,7 @@
 	name="Zahur"
 	dynasty=1000028290 #Pembe
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076776
 	1230.1.1={
 		birth="1230.1.1"
@@ -1140,7 +1152,7 @@
 	name="Salene"
 	dynasty=1000028290 #Pembe
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076777
 	1260.1.1={
 		birth="1260.1.1"
@@ -1154,7 +1166,7 @@
 	name="Duma"
 	dynasty=1000028290 #Pembe
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076778
 	1290.1.1={
 		birth="1290.1.1"
@@ -1168,7 +1180,7 @@
 	name="Kereenyaga"
 	dynasty=1000028290 #Pembe
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076779
 	1320.1.1={
 		birth="1320.1.1"
@@ -1384,6 +1396,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -1393,7 +1408,7 @@
 	name="Kifeda"
 	dynasty=1000028291 #Ngome
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076795
 	1170.1.1={
 		birth="1170.1.1"
@@ -1407,7 +1422,7 @@
 	name="Maulidi"
 	dynasty=1000028291 #Ngome
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076796
 	1200.1.1={
 		birth="1200.1.1"
@@ -1421,7 +1436,7 @@
 	name="Ayo"
 	dynasty=1000028291 #Ngome
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076797
 	1230.1.1={
 		birth="1230.1.1"
@@ -1435,7 +1450,7 @@
 	name="Hamadi"
 	dynasty=1000028291 #Ngome
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076798
 	1260.1.1={
 		birth="1260.1.1"
@@ -1449,7 +1464,7 @@
 	name="Atieno"
 	dynasty=1000028291 #Ngome
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076799
 	1290.1.1={
 		birth="1290.1.1"
@@ -1463,7 +1478,7 @@
 	name="Kereenyaga"
 	dynasty=1000028291 #Ngome
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076800
 	1320.1.1={
 		birth="1320.1.1"
@@ -1679,6 +1694,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -1688,7 +1706,7 @@
 	name="Jafari"
 	dynasty=1000028292 #Tai
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076816
 	1170.1.1={
 		birth="1170.1.1"
@@ -1702,7 +1720,7 @@
 	name="Msia"
 	dynasty=1000028292 #Tai
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076817
 	1200.1.1={
 		birth="1200.1.1"
@@ -1716,7 +1734,7 @@
 	name="Mkubwa"
 	dynasty=1000028292 #Tai
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076818
 	1230.1.1={
 		birth="1230.1.1"
@@ -1730,7 +1748,7 @@
 	name="Hali"
 	dynasty=1000028292 #Tai
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076819
 	1260.1.1={
 		birth="1260.1.1"
@@ -1744,7 +1762,7 @@
 	name="Hamadi"
 	dynasty=1000028292 #Tai
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076820
 	1290.1.1={
 		birth="1290.1.1"
@@ -1758,7 +1776,7 @@
 	name="Jafari"
 	dynasty=1000028292 #Tai
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076821
 	1320.1.1={
 		birth="1320.1.1"
@@ -1974,6 +1992,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -1983,7 +2004,7 @@
 	name="Msia"
 	dynasty=1000028293 #Chui
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076837
 	1170.1.1={
 		birth="1170.1.1"
@@ -1997,7 +2018,7 @@
 	name="Ashon"
 	dynasty=1000028293 #Chui
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076838
 	1200.1.1={
 		birth="1200.1.1"
@@ -2011,7 +2032,7 @@
 	name="Kito"
 	dynasty=1000028293 #Chui
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076839
 	1230.1.1={
 		birth="1230.1.1"
@@ -2025,7 +2046,7 @@
 	name="Jumaane"
 	dynasty=1000028293 #Chui
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076840
 	1260.1.1={
 		birth="1260.1.1"
@@ -2039,7 +2060,7 @@
 	name="Salene"
 	dynasty=1000028293 #Chui
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076841
 	1290.1.1={
 		birth="1290.1.1"
@@ -2053,7 +2074,7 @@
 	name="Kereenyaga"
 	dynasty=1000028293 #Chui
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076842
 	1320.1.1={
 		birth="1320.1.1"
@@ -2269,6 +2290,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -2278,7 +2302,7 @@
 	name="Baraka"
 	dynasty=1000028294 #Mamba
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076858
 	1170.1.1={
 		birth="1170.1.1"
@@ -2292,7 +2316,7 @@
 	name="Juma"
 	dynasty=1000028294 #Mamba
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076859
 	1200.1.1={
 		birth="1200.1.1"
@@ -2306,7 +2330,7 @@
 	name="Jata"
 	dynasty=1000028294 #Mamba
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076860
 	1230.1.1={
 		birth="1230.1.1"
@@ -2320,7 +2344,7 @@
 	name="Anasa"
 	dynasty=1000028294 #Mamba
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076861
 	1260.1.1={
 		birth="1260.1.1"
@@ -2334,7 +2358,7 @@
 	name="Baraka"
 	dynasty=1000028294 #Mamba
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076862
 	1290.1.1={
 		birth="1290.1.1"
@@ -2348,7 +2372,7 @@
 	name="Mbita"
 	dynasty=1000028294 #Mamba
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076863
 	1320.1.1={
 		birth="1320.1.1"
@@ -2564,6 +2588,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -2573,7 +2600,7 @@
 	name="Mhina"
 	dynasty=1000028295 #Wimbi
 	religion="east_bantu_mythology"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076879
 	1170.1.1={
 		birth="1170.1.1"
@@ -2587,7 +2614,7 @@
 	name="Hodari"
 	dynasty=1000028295 #Wimbi
 	religion="east_bantu_mythology"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076880
 	1200.1.1={
 		birth="1200.1.1"
@@ -2601,7 +2628,7 @@
 	name="Elea"
 	dynasty=1000028295 #Wimbi
 	religion="east_bantu_mythology"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076881
 	1230.1.1={
 		birth="1230.1.1"
@@ -2615,7 +2642,7 @@
 	name="Njowga"
 	dynasty=1000028295 #Wimbi
 	religion="east_bantu_mythology"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076882
 	1260.1.1={
 		birth="1260.1.1"
@@ -2629,7 +2656,7 @@
 	name="Mkubwa"
 	dynasty=1000028295 #Wimbi
 	religion="east_bantu_mythology"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076883
 	1290.1.1={
 		birth="1290.1.1"
@@ -2643,7 +2670,7 @@
 	name="Jamba"
 	dynasty=1000028295 #Wimbi
 	religion="east_bantu_mythology"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076884
 	1320.1.1={
 		birth="1320.1.1"
@@ -2859,6 +2886,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -2868,7 +2898,7 @@
 	name="Adhama"
 	dynasty=1000028296 #Simi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076900
 	1170.1.1={
 		birth="1170.1.1"
@@ -2882,7 +2912,7 @@
 	name="Kifeda"
 	dynasty=1000028296 #Simi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076901
 	1200.1.1={
 		birth="1200.1.1"
@@ -2896,7 +2926,7 @@
 	name="Mkubwa"
 	dynasty=1000028296 #Simi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076902
 	1230.1.1={
 		birth="1230.1.1"
@@ -2910,7 +2940,7 @@
 	name="Tian"
 	dynasty=1000028296 #Simi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076903
 	1260.1.1={
 		birth="1260.1.1"
@@ -2924,7 +2954,7 @@
 	name="Mkubwa"
 	dynasty=1000028296 #Simi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076904
 	1290.1.1={
 		birth="1290.1.1"
@@ -2938,7 +2968,7 @@
 	name="Hali"
 	dynasty=1000028296 #Simi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076905
 	1320.1.1={
 		birth="1320.1.1"
@@ -3154,6 +3184,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -3163,7 +3196,7 @@
 	name="Issa"
 	dynasty=1000028297 #Mshale
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076921
 	1170.1.1={
 		birth="1170.1.1"
@@ -3177,7 +3210,7 @@
 	name="Simba"
 	dynasty=1000028297 #Mshale
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076922
 	1200.1.1={
 		birth="1200.1.1"
@@ -3191,7 +3224,7 @@
 	name="Hamadi"
 	dynasty=1000028297 #Mshale
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076923
 	1230.1.1={
 		birth="1230.1.1"
@@ -3205,7 +3238,7 @@
 	name="Kifeda"
 	dynasty=1000028297 #Mshale
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076924
 	1260.1.1={
 		birth="1260.1.1"
@@ -3219,7 +3252,7 @@
 	name="Jumaane"
 	dynasty=1000028297 #Mshale
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076925
 	1290.1.1={
 		birth="1290.1.1"
@@ -3233,7 +3266,7 @@
 	name="Kuende"
 	dynasty=1000028297 #Mshale
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076926
 	1320.1.1={
 		birth="1320.1.1"
@@ -3449,6 +3482,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -3458,7 +3494,7 @@
 	name="Simba"
 	dynasty=1000028298 #Tembo
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076942
 	1170.1.1={
 		birth="1170.1.1"
@@ -3472,7 +3508,7 @@
 	name="Moyo"
 	dynasty=1000028298 #Tembo
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076943
 	1200.1.1={
 		birth="1200.1.1"
@@ -3486,7 +3522,7 @@
 	name="Keambiroiro"
 	dynasty=1000028298 #Tembo
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076944
 	1230.1.1={
 		birth="1230.1.1"
@@ -3500,7 +3536,7 @@
 	name="Kuende"
 	dynasty=1000028298 #Tembo
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076945
 	1260.1.1={
 		birth="1260.1.1"
@@ -3514,7 +3550,7 @@
 	name="Mbita"
 	dynasty=1000028298 #Tembo
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076946
 	1290.1.1={
 		birth="1290.1.1"
@@ -3528,7 +3564,7 @@
 	name="Duma"
 	dynasty=1000028298 #Tembo
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076947
 	1320.1.1={
 		birth="1320.1.1"
@@ -3744,6 +3780,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -3753,7 +3792,7 @@
 	name="Hodari"
 	dynasty=1000028317 #Jua
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076963
 	1170.1.1={
 		birth="1170.1.1"
@@ -3767,7 +3806,7 @@
 	name="Musa"
 	dynasty=1000028317 #Jua
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076964
 	1200.1.1={
 		birth="1200.1.1"
@@ -3781,7 +3820,7 @@
 	name="Hali"
 	dynasty=1000028317 #Jua
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076965
 	1230.1.1={
 		birth="1230.1.1"
@@ -3795,7 +3834,7 @@
 	name="Jata"
 	dynasty=1000028317 #Jua
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076966
 	1260.1.1={
 		birth="1260.1.1"
@@ -3809,7 +3848,7 @@
 	name="Hamadi"
 	dynasty=1000028317 #Jua
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076967
 	1290.1.1={
 		birth="1290.1.1"
@@ -3823,7 +3862,7 @@
 	name="Taji"
 	dynasty=1000028317 #Jua
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076968
 	1320.1.1={
 		birth="1320.1.1"
@@ -4039,6 +4078,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -4048,7 +4090,7 @@
 	name="Ayo"
 	dynasty=1000028318 #Mchungaji
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076984
 	1170.1.1={
 		birth="1170.1.1"
@@ -4062,7 +4104,7 @@
 	name="Msia"
 	dynasty=1000028318 #Mchungaji
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076985
 	1200.1.1={
 		birth="1200.1.1"
@@ -4076,7 +4118,7 @@
 	name="Kito"
 	dynasty=1000028318 #Mchungaji
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076986
 	1230.1.1={
 		birth="1230.1.1"
@@ -4090,7 +4132,7 @@
 	name="Mbita"
 	dynasty=1000028318 #Mchungaji
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076987
 	1260.1.1={
 		birth="1260.1.1"
@@ -4104,7 +4146,7 @@
 	name="Hodari"
 	dynasty=1000028318 #Mchungaji
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076988
 	1290.1.1={
 		birth="1290.1.1"
@@ -4118,7 +4160,7 @@
 	name="Moyo"
 	dynasty=1000028318 #Mchungaji
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000076989
 	1320.1.1={
 		birth="1320.1.1"
@@ -4334,6 +4376,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -4343,7 +4388,7 @@
 	name="Duma"
 	dynasty=1000028319 #Fedha
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083060
 	1170.1.1={
 		birth="1170.1.1"
@@ -4357,7 +4402,7 @@
 	name="Kereenyaga"
 	dynasty=1000028319 #Fedha
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083061
 	1200.1.1={
 		birth="1200.1.1"
@@ -4371,7 +4416,7 @@
 	name="Keambiroiro"
 	dynasty=1000028319 #Fedha
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083062
 	1230.1.1={
 		birth="1230.1.1"
@@ -4385,7 +4430,7 @@
 	name="Njowga"
 	dynasty=1000028319 #Fedha
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083063
 	1260.1.1={
 		birth="1260.1.1"
@@ -4399,7 +4444,7 @@
 	name="Ayo"
 	dynasty=1000028319 #Fedha
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083064
 	1290.1.1={
 		birth="1290.1.1"
@@ -4413,7 +4458,7 @@
 	name="Jumaane"
 	dynasty=1000028319 #Fedha
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083065
 	1320.1.1={
 		birth="1320.1.1"
@@ -4629,6 +4674,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -4638,7 +4686,7 @@
 	name="Kwanzaa"
 	dynasty=1000028320 #Twiga
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083172
 	1170.1.1={
 		birth="1170.1.1"
@@ -4652,7 +4700,7 @@
 	name="Atieno"
 	dynasty=1000028320 #Twiga
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083173
 	1200.1.1={
 		birth="1200.1.1"
@@ -4666,7 +4714,7 @@
 	name="Jamba"
 	dynasty=1000028320 #Twiga
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083174
 	1230.1.1={
 		birth="1230.1.1"
@@ -4680,7 +4728,7 @@
 	name="Jumaane"
 	dynasty=1000028320 #Twiga
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083175
 	1260.1.1={
 		birth="1260.1.1"
@@ -4694,7 +4742,7 @@
 	name="Taji"
 	dynasty=1000028320 #Twiga
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083176
 	1290.1.1={
 		birth="1290.1.1"
@@ -4708,7 +4756,7 @@
 	name="Tian"
 	dynasty=1000028320 #Twiga
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083177
 	1320.1.1={
 		birth="1320.1.1"
@@ -4924,6 +4972,9 @@
 	1140.1.1={
 		birth="1140.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1200.1.1={
 		death="1200.1.1"
 	}
@@ -4933,7 +4984,7 @@
 	name="Kwanzaa"
 	dynasty=1000028321 #Dhahabu
 	religion="east_bantu_mythology"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083193
 	1170.1.1={
 		birth="1170.1.1"
@@ -4947,7 +4998,7 @@
 	name="Zahur"
 	dynasty=1000028321 #Dhahabu
 	religion="east_bantu_mythology"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083194
 	1200.1.1={
 		birth="1200.1.1"
@@ -4961,7 +5012,7 @@
 	name="Farijika"
 	dynasty=1000028321 #Dhahabu
 	religion="east_bantu_mythology"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083195
 	1230.1.1={
 		birth="1230.1.1"
@@ -4975,7 +5026,7 @@
 	name="Hamadi"
 	dynasty=1000028321 #Dhahabu
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083196
 	1260.1.1={
 		birth="1260.1.1"
@@ -4989,7 +5040,7 @@
 	name="Baraka"
 	dynasty=1000028321 #Dhahabu
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083197
 	1290.1.1={
 		birth="1290.1.1"
@@ -5003,7 +5054,7 @@
 	name="Busara"
 	dynasty=1000028321 #Dhahabu
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083198
 	1320.1.1={
 		birth="1320.1.1"
@@ -5261,6 +5312,9 @@
 	1120.1.1={
 		birth="1120.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1189.1.1={
 		death="1189.1.1"
 	}
@@ -5274,6 +5328,9 @@
 	father=1000083201
 	1140.1.1={
 		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
 	}
 	1190.1.1={
 		death="1190.1.1"
@@ -5289,6 +5346,9 @@
 	1141.1.1={
 		birth="1141.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1191.1.1={
 		death="1191.1.1"
 	}
@@ -5302,6 +5362,9 @@
 	father=1000083201
 	1142.1.1={
 		birth="1142.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
 	}
 	1215.1.1={
 		death="1215.1.1"
@@ -5317,6 +5380,9 @@
 	1143.1.1={
 		birth="1143.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1225.1.1={
 		death="1225.1.1"
 	}
@@ -5331,6 +5397,9 @@
 	1144.1.1={
 		birth="1144.1.1"
 	}
+	1170.1.1 = {
+		culture="swahili"
+	}
 	1225.1.1={
 		death="1225.1.1"
 	}
@@ -5340,7 +5409,7 @@
 	name="Abu"
 	dynasty=1000028323 #Shirazi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083206
 	1180.1.1={
 		birth="1180.1.1"
@@ -5354,7 +5423,7 @@
 	name="Dawud"
 	dynasty=1000028323 #Shirazi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083207
 	1200.1.1={
 		birth="1200.1.1"
@@ -5368,7 +5437,7 @@
 	name="Ali"
 	dynasty=1000028323 #Shirazi
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083208
 	1220.1.1={
 		birth="1220.1.1"
@@ -5383,7 +5452,7 @@
 	dynasty=1000028323 #Shirazi
 	female = yes
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083209
 	1240.1.1={
 		birth="1240.1.1"
@@ -5399,7 +5468,7 @@
 	name="Talut"
 	dynasty=1000028324 #Mahdali
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	1240.1.1={
 		birth="1240.1.1"
 	}
@@ -5415,7 +5484,7 @@
 	name="Hassan"
 	dynasty=1000028324 #Mahdali
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083210
 	mother=1000083211
 	1256.1.1={
@@ -5430,7 +5499,7 @@
 	name="Suleiman"
 	dynasty=1000028324 #Mahdali
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083212
 	1272.1.1={
 		birth="1272.1.1"
@@ -5444,7 +5513,7 @@
 	name="Dawud"
 	dynasty=1000028324 #Mahdali
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083213
 	1289.1.1={
 		birth="1289.1.1"
@@ -5458,7 +5527,7 @@
 	name="Abu"
 	dynasty=1000028324 #Mahdali
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083213
 	1288.1.1={
 		birth="1288.1.1"
@@ -5472,7 +5541,7 @@
 	name="Suleiman"
 	dynasty=1000028324 #Mahdali
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083214
 	1305.1.1={
 		birth="1305.1.1"
@@ -5486,7 +5555,7 @@
 	name="Hassan"
 	dynasty=1000028324 #Mahdali
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083213
 	1300.1.1={
 		birth="1300.1.1"
@@ -5500,7 +5569,7 @@
 	name="Talut"
 	dynasty=1000028324 #Mahdali
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083214
 	1306.1.1={
 		birth="1306.1.1"
@@ -5514,7 +5583,7 @@
 	name="Suleiman"
 	dynasty=1000028324 #Mahdali
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083213
 	1307.1.1={
 		birth="1307.1.1"
@@ -5528,7 +5597,7 @@
 	name="Hassan"
 	dynasty=1000028324 #Mahdali
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083219
 	1330.1.1={
 		birth="1330.1.1"
@@ -5542,7 +5611,7 @@
 	name="Muhammad"
 	dynasty=1000028324 #Mahdali
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083219
 	1335.1.1={
 		birth="1335.1.1"
@@ -5552,11 +5621,11 @@
 	}
 }
 
-#Fedha Dynasty (Placeholders) of Naraan estate of Baraawe
+#Sarafu Dynasty (Placeholders) of Naraan estate of Baraawe
 
 1000083593 = {
 	name="Elea"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	720.1.1={
@@ -5569,7 +5638,7 @@
 
 1000083594 = {
 	name="Adhama"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	father=1000083593
@@ -5583,7 +5652,7 @@
 
 1000083595 = {
 	name="Musa"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	father=1000083594
@@ -5597,7 +5666,7 @@
 
 1000083596 = {
 	name="Tian"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	father=1000083595
@@ -5611,7 +5680,7 @@
 
 1000083597 = {
 	name="Zahur"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	father=1000083596
@@ -5625,7 +5694,7 @@
 
 1000083598 = {
 	name="Anasa"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	father=1000083597
@@ -5639,7 +5708,7 @@
 
 1000083599 = {
 	name="Ashon"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	father=1000083598
@@ -5653,7 +5722,7 @@
 
 1000083600 = {
 	name="Jafari"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	father=1000083599
@@ -5667,7 +5736,7 @@
 
 1000083601 = {
 	name="Juma"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	father=1000083600
@@ -5681,7 +5750,7 @@
 
 1000083602 = {
 	name="Elea"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	father=1000083601
@@ -5695,7 +5764,7 @@
 
 1000083603 = {
 	name="Mbita"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	father=1000083602
@@ -5709,7 +5778,7 @@
 
 1000083604 = {
 	name="Taji"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	father=1000083603
@@ -5723,7 +5792,7 @@
 
 1000083605 = {
 	name="Juma"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	father=1000083604
@@ -5737,7 +5806,7 @@
 
 1000083606 = {
 	name="Ashon"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	father=1000083605
@@ -5751,12 +5820,15 @@
 
 1000083607 = {
 	name="Hali"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
 	culture="wangozi"
 	father=1000083606
 	1140.1.1={
 		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
 	}
 	1200.1.1={
 		death="1200.1.1"
@@ -5765,9 +5837,9 @@
 
 1000083608 = {
 	name="Jafari"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083607
 	1170.1.1={
 		birth="1170.1.1"
@@ -5779,9 +5851,9 @@
 
 1000083609 = {
 	name="Atieno"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083608
 	1200.1.1={
 		birth="1200.1.1"
@@ -5793,9 +5865,9 @@
 
 1000083610 = {
 	name="Baraka"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083609
 	1230.1.1={
 		birth="1230.1.1"
@@ -5807,9 +5879,9 @@
 
 1000083611 = {
 	name="Elea"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083610
 	1260.1.1={
 		birth="1260.1.1"
@@ -5821,9 +5893,9 @@
 
 1000083612 = {
 	name="Kitwana"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083611
 	1290.1.1={
 		birth="1290.1.1"
@@ -5835,9 +5907,9 @@
 
 1000083613 = {
 	name="Kifeda"
-	dynasty=1000028355 #Fedha
+	dynasty=1000028355 #Sarafu
 	religion="sunni"
-	culture="wangozi"
+	culture="swahili"
 	father=1000083612
 	1320.1.1={
 		birth="1320.1.1"

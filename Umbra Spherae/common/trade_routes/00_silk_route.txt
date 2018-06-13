@@ -84,6 +84,40 @@ silk_road = {
 			province_id = 1590
 			province_id = 1610
 			province_id = 1623
+
+			province_id = 1926
+			province_id = 1927
+			province_id = 1928
+			province_id = 1929
+			province_id = 1930
+			province_id = 1931
+			province_id = 1932
+			province_id = 1933
+			province_id = 1934
+			province_id = 1935
+			province_id = 1936
+			province_id = 1937
+			province_id = 1938
+			province_id = 1939
+			province_id = 1940
+			province_id = 1943
+			province_id = 1945
+			province_id = 1946
+			province_id = 1947
+			province_id = 1647
+
+			province_id = 1948
+			province_id = 1958
+			province_id = 1960
+			province_id = 1963
+			province_id = 1658
+			province_id = 1662
+			province_id = 1654
+			province_id = 1655
+			
+			province_id = 2414
+			province_id = 2413
+			province_id = 2417
 		}
 	}
 
@@ -212,8 +246,11 @@ silk_road = {
 	path = {	# Hormuz-Ahvaz
 		641 642 644 645 647
 	}
-	path = {	# Banbhore-Muscat-Aden-Mecca-Cairo-Alexandria
-		1297 1412 1391 868 1390 866 1389 1369 1388 871 1387 1386 858 859 1532 1385 1384 716 719 718 1536 1383 1320 794 791 795 796 797 802
+	path = {	# Banbhore-Muscat-Aden-Mecca-Cairo-Alexandria part1
+		1297 1412 1391 868 1390 866 1389 1369 1388
+	}
+	path = {	# Banbhore-Muscat-Aden-Mecca-Cairo-Alexandria part2
+ 		1388 871 1387 1386 858 859 1532 1385 1384 716 719 718 1536 1383 1320 794 791 795 796 797 802
 	}
 
 	# Asia Minor Silk Route
@@ -269,5 +306,22 @@ silk_road = {
 	}
 	path = {	# You(Beijing/Fanyang)-Gyeonggi-Yang-Tsushima Straits
 		2035 2315 1610 1614 2316 1623 2311
+	}
+
+	# Bab el Mandeb-Zimbabwe
+	path = {	# Hobyo-Kilwa
+ 		1388 2362 1926 1927 1647 2363 1928 1929 1930 1937 1931 1939 1932 2364 1933 1934 1935 1936 1938
+	}
+	path = {	# Kilwa-Nzwani
+ 		1938 2365 1943
+	}
+	path = {	# Nzwani-Boina
+ 		1943 2414
+	}
+	path = {	# Nzwani-Androy
+ 		1943 2410 2413 2411 2417
+	}
+	path = {	# Kilwa-Mapungubwe
+ 		1938 1940 1945 1946 2366 1947 1948 1658 1963 1654 1958 1662 1655 1960
 	}
 }

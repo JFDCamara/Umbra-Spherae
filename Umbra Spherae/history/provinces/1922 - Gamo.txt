@@ -5,7 +5,7 @@ title = c_gamo
 
 # Settlements
 max_settlements = 3
-b_gamo = tribal
+b_gamo_gamo = tribal
 #b_ganz = 
 #b_kambata = 
 #b_arba_minch = 

@@ -7038,3 +7038,269 @@ d_dhivehi_pirates = {
 	
 	mercenary_type = d_dhivehi_pirates_composition
 }
+
+d_omotic_optic = {
+	color = { 192 194 2 }
+	color2 = { 255 255 255 }
+
+	capital = 1921 # Kaffa
+	
+	# Hire Trigger
+	allow = {
+		always = yes
+	}
+	
+	# Parent Religion 
+	religion = omotic_pagan
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	mercenary_type = d_omotic_optic_composition
+}
+
+d_pirates_of_the_indian = {
+	color = { 149 45 65 }
+	color2 = { 255 255 255 }
+
+	capital = 1926 # Hobyo
+	
+	# Hire Trigger
+	allow = {
+		always = yes
+	}
+	
+	# Parent Religion 
+	religion = sunni
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	mercenary_type = d_pirates_of_the_indian_composition
+}
+
+d_revenge_of_the_kafir = {
+	color = { 30 30 30 }
+	color2 = { 255 255 255 }
+
+	capital = 1939 # Gedi
+	
+	# Hire Trigger
+	allow = {
+		NOT = {
+			religion_group = muslim
+		}
+	}
+	
+	# Parent Religion 
+	religion = east_bantu_mythology
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	mercenary_type = d_revenge_of_the_kafir_composition
+}
+
+d_dahafaly_sons = {
+	color = { 149 45 65 }
+	color2 = { 255 255 255 }
+
+	capital = 2413 # Toamasina
+	
+	# Hire Trigger
+	allow = {
+		always = yes
+	}
+	
+	# Parent Religion 
+	religion = malagasy_religion
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	mercenary_type = d_dahafaly_sons_composition
+}
+
+d_islamic_expedition = {
+	color = { 65 250 65 }
+	color2 = { 255 255 255 }
+
+	capital = 1940 # Mozambique
+	
+	# Hire Trigger
+	allow = {
+		always = yes
+	}
+	
+	# Parent Religion 
+	religion = sunni
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	mercenary_type = d_islamic_expedition_composition
+}
+
+d_bloody_dhow = {
+	color = { 65 250 65 }
+	color2 = { 255 255 255 }
+
+	capital = 1938 # Kilwa
+	
+	# Hire Trigger
+	allow = {
+		always = yes
+	}
+	
+	# Parent Religion 
+	religion = sunni
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	mercenary_type = d_bloody_dhow_composition
+}
+
+d_golden_blow = {
+	color = { 65 250 65 }
+	color2 = { 255 255 255 }
+
+	capital = 1958 # Zimbabwe
+	
+	# Hire Trigger
+	allow = {
+		always = yes
+	}
+	
+	# Parent Religion 
+	religion = south_bantu_mythology
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	mercenary_type = d_golden_blow_composition
+}
+
+d_hakuna_matata = {
+	color = { 65 250 65 }
+	color2 = { 255 255 255 }
+
+	capital = 1935 # Pangani
+	
+	# Hire Trigger
+	allow = {
+		always = yes
+	}
+	
+	# Parent Religion 
+	religion = east_bantu_mythology
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	mercenary_type = d_hakuna_matata_composition
+}

@@ -59,6 +59,7 @@ east_bantu = {
 			Mwasaa Nadira Nbushe Onyesha Penda Rasheda Risala Safiri Sanura Shauri Tabara Therania Tisa Waseme Zahra Zakia
 		}
 
+		parent=wangozi
 		founder_named_dynasties = yes
 		dukes_called_kings = yes
 		modifier = default_culture_modifier
@@ -133,7 +134,7 @@ south_bantu = {
 		modifier = default_culture_modifier
 	}
 
-	venda_tshona = { 
+	venda_tsonga = { 
 		graphical_cultures = { westafricangfx africangfx muslimgfx }
 		
 		color = { 0.26 0.72 0.12 }
@@ -210,6 +211,7 @@ afroaustronesian = {
 			Rasoherina Razia Riantsoa Tahiry Tandra Tsiky Vaohangy Volana Vorona
 		}
 
+		parent=vazimba
 		founder_named_dynasties = yes
 		dukes_called_kings = yes
 		modifier = default_culture_modifier

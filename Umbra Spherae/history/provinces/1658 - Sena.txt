@@ -11,7 +11,7 @@ b_sena = tribal
 #b_murraca = 
 #b_inhamitanga = 
 #b_maringue = 
-#b_capenga = 
+#b_capenga_sena = 
 #b_caia = 
 
 # Misc

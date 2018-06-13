@@ -13,19 +13,19 @@
 
 1000028359 = {
 	name="Netulamela"
-	culture=venda_tshona
+	culture=venda_tsonga
 }
 1000028360 = {
 	name="Nedzata"
-	culture=venda_tshona
+	culture=venda_tsonga
 }
 1000028361 = {
 	name="Mpfumo"
-	culture=venda_tshona
+	culture=venda_tsonga
 }
 1000028362 = {
 	name="Livombo"
-	culture=venda_tshona
+	culture=venda_tsonga
 }
 
 1000028363 = {

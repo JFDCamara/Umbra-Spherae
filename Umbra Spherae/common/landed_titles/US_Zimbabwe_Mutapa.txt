@@ -24,6 +24,19 @@ e_zimbabwe_mutapa = {
 				color = { 234 204 10 }
 				color2 = { 250 250 250 }
 
+				holy_site=south_bantu_mythology
+				holy_site=south_bantu_mythology_reformed
+				holy_site=east_bantu_mythology
+				holy_site=east_bantu_mythology_reformed
+				holy_site=omotic_pagan
+				holy_site=omotic_pagan_reformed
+				holy_site=cushitic_pagan
+				holy_site=cushitic_pagan_reformed
+				holy_site=nilotic_pagan
+				holy_site=nilotic_pagan_reformed
+				holy_site=malagasy_religion
+				holy_site=malagasy_religion_reformed
+
 				b_zimbabwe = {
 				}
 				b_nenga = {
@@ -99,6 +112,19 @@ e_zimbabwe_mutapa = {
 
 				color = { 233 140 10 }
 				color2 = { 250 250 250 }
+
+				holy_site=south_bantu_mythology
+				holy_site=south_bantu_mythology_reformed
+				holy_site=east_bantu_mythology
+				holy_site=east_bantu_mythology_reformed
+				holy_site=omotic_pagan
+				holy_site=omotic_pagan_reformed
+				holy_site=cushitic_pagan
+				holy_site=cushitic_pagan_reformed
+				holy_site=nilotic_pagan
+				holy_site=nilotic_pagan_reformed
+				holy_site=malagasy_religion
+				holy_site=malagasy_religion_reformed
 
 				b_mapungubwe = {
 				}
@@ -216,7 +242,7 @@ e_zimbabwe_mutapa = {
 
 			}
 		}
-		d_madanda_tshona = {
+		d_madanda_tsonga = {
 
 			color = { 223 143 153 }
 			color2 = { 250 250 250 }
@@ -326,7 +352,7 @@ e_zimbabwe_mutapa = {
 			color = { 254 144 190 }
 			color2 = { 250 250 250 }
 
-			capital = Khami #1662
+			capital = 1662 #Khami
 
 			c_khami = {
 
@@ -483,7 +509,7 @@ e_zimbabwe_mutapa = {
 				color = { 0 171 251 }
 				color2 = { 250 250 250 }
 
-				b_zumbo = {
+				b_zumbo_zumbo = {
 				}
 				b_carinde = {
 				}
@@ -706,7 +732,7 @@ e_zimbabwe_mutapa = {
 				}
 				b_maringue = {
 				}
-				b_capenga = {
+				b_capenga_sena = {
 				}
 				b_caia = {
 				}

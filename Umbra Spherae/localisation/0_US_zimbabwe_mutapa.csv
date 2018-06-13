@@ -88,8 +88,8 @@ b_tshituni;Tshituni;Tshituni;Tshituni;Tshituni;Tshituni;Tshituni;Tshituni;Tshitu
 b_mauluma;Mauluma;Mauluma;Mauluma;Mauluma;Mauluma;Mauluma;Mauluma;Mauluma;Mauluma;Mauluma;Mauluma;Mauluma;Mauluma;x
 b_mawoni;Mawoni;Mawoni;Mawoni;Mawoni;Mawoni;Mawoni;Mawoni;Mawoni;Mawoni;Mawoni;Mawoni;Mawoni;Mawoni;x
 b_tshitavha;Tshitavha;Tshitavha;Tshitavha;Tshitavha;Tshitavha;Tshitavha;Tshitavha;Tshitavha;Tshitavha;Tshitavha;Tshitavha;Tshitavha;Tshitavha;x
-d_madanda_tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;x
-d_madanda_tshona_adj;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;Madanda-Tshona;x
+d_madanda_tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;x
+d_madanda_tsonga_adj;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;Madanda-Tsonga;x
 c_manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;x
 c_manyikeni_adj;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;x
 b_manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;x
@@ -200,7 +200,7 @@ b_songo;Songo;Songo;Songo;Songo;Songo;Songo;Songo;Songo;Songo;Songo;Songo;Songo;
 b_chigaco;Chigaco;Chigaco;Chigaco;Chigaco;Chigaco;Chigaco;Chigaco;Chigaco;Chigaco;Chigaco;Chigaco;Chigaco;Chigaco;x
 c_zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;x
 c_zumbo_adj;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;x
-b_zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;x
+b_zumbo_zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;x
 b_carinde;Carinde;Carinde;Carinde;Carinde;Carinde;Carinde;Carinde;Carinde;Carinde;Carinde;Carinde;Carinde;Carinde;x
 b_luangwa;Luangwa;Luangwa;Luangwa;Luangwa;Luangwa;Luangwa;Luangwa;Luangwa;Luangwa;Luangwa;Luangwa;Luangwa;Luangwa;x
 b_kapoche;Kapoche;Kapoche;Kapoche;Kapoche;Kapoche;Kapoche;Kapoche;Kapoche;Kapoche;Kapoche;Kapoche;Kapoche;Kapoche;x
@@ -294,7 +294,7 @@ b_juze;Juze;Juze;Juze;Juze;Juze;Juze;Juze;Juze;Juze;Juze;Juze;Juze;Juze;x
 b_murraca;Murraca;Murraca;Murraca;Murraca;Murraca;Murraca;Murraca;Murraca;Murraca;Murraca;Murraca;Murraca;Murraca;x
 b_inhamitanga;Inhamitanga;Inhamitanga;Inhamitanga;Inhamitanga;Inhamitanga;Inhamitanga;Inhamitanga;Inhamitanga;Inhamitanga;Inhamitanga;Inhamitanga;Inhamitanga;Inhamitanga;x
 b_maringue;Maringue;Maringue;Maringue;Maringue;Maringue;Maringue;Maringue;Maringue;Maringue;Maringue;Maringue;Maringue;Maringue;x
-b_capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;x
+b_capenga_sena;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;Capenga;x
 b_caia;Caia;Caia;Caia;Caia;Caia;Caia;Caia;Caia;Caia;Caia;Caia;Caia;Caia;x
 c_tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;x
 c_tete_adj;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;x

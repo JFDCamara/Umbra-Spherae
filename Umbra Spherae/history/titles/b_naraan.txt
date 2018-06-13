@@ -1,4 +1,4 @@
-#Fedha Dynasty (Placeholders) of Naraan estate of Baraawe
+#Sarafu Dynasty (Placeholders) of Naraan estate of Baraawe
 
 750.1.1={
 	holding_dynasty = 1000028355

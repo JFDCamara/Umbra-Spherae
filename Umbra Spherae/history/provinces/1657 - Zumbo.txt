@@ -5,7 +5,7 @@ title = c_zumbo
 
 # Settlements
 max_settlements = 4
-b_zumbo = tribal
+b_zumbo_zumbo = tribal
 #b_carinde = 
 #b_luangwa = 
 #b_kapoche = 

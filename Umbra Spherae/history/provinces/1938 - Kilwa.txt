@@ -27,4 +27,5 @@ religion = east_bantu_mythology
 	b_kilwa_kivinje = city
 	b_kizimbani = castle
 	b_kiwawa = city
+	culture = swahili
 }

@@ -157,7 +157,7 @@
     culture=somali
 }
 1000028355 = {
-    name="Fedha"
+    name="Sarafu"
     culture=wangozi
 }
 
