@@ -1,3 +1,0 @@
-The middle chinese localization file has been moved to the root mod folder.
-If you want to use middle chinese, delete the pinyin file and place this one in the
-localization folder.

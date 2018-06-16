@@ -1,9 +1,0 @@
-774.1.1=
-{
-	liege="e_tibetan_empire"
-	holder=1000077191
-}
-800.1.1=
-{
-	liege="c_taktse"
-}
