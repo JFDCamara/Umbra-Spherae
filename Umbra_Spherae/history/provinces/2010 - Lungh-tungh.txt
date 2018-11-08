@@ -1,0 +1,16 @@
+# 1754 - Lungh-tungh
+
+# County Title
+title = c_lunghtungh
+
+# Settlements
+max_settlements = 3
+b_dadjeu = castle
+b_jeuan = city
+b_jangphreh = city
+
+# Misc
+culture = bai
+religion = benzhujiao
+
+# History

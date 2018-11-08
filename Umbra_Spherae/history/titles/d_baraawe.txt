@@ -1,0 +1,68 @@
+#Madoowbe Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083457 #Umardin
+}
+780.1.1={
+	holder=1000083458 #Sadiq
+}
+810.1.1={
+	holder=1000083459 #Abram
+}
+840.1.1={
+	holder=1000083460 #Omer
+}
+870.1.1={
+	holder=1000083461 #Mansur
+}
+900.1.1={
+	holder=1000083462 #Irir
+}
+930.1.1={
+	holder=1000083463 #Harire
+}
+960.1.1={
+	holder=1000083464 #Sa'adaddin
+}
+990.1.1={
+	holder=1000083465 #Abu-Bakr
+}
+1020.1.1={
+	holder=1000083466 #Talha
+}
+1050.1.1={
+	holder=1000083467 #Zuber
+}
+1080.1.1={
+	holder=1000083468 #Abu-Bakr
+}
+1110.1.1={
+	holder=1000083469 #Mahammad
+}
+1140.1.1={
+	holder=1000083470 #Salah
+}
+1170.1.1={
+	holder=1000083471 #Hamar
+}
+1200.1.1={
+	holder=1000083472 #Balad
+}
+1230.1.1={
+	holder=1000083473 #Talha
+}
+1238.1.1={
+	liege="k_somalia"
+}
+1260.1.1={
+	holder=1000083474 #Amlale
+}
+1290.1.1={
+	holder=1000083475 #Dhidhin
+}
+1320.1.1={
+	holder=1000083476 #Awe
+}
+1350.1.1={
+	holder=1000083477 #Omer
+}

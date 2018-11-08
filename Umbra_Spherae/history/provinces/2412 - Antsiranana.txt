@@ -1,0 +1,23 @@
+# 2412 - Antsiranana
+
+# County Title
+title = c_antsiranana
+
+# Settlements
+max_settlements = 4
+b_vohemar = tribal
+b_irodo = tribal
+#b_antsiranana = 
+#b_anjiabe = 
+#b_ampisikinana = 
+#b_daraina = 
+#b_ampondra = 
+#b_sambava = 
+
+# Misc
+culture = vazimba
+religion = malagasy_religion
+
+# History
+
+1050.1.1 = { culture = malagasy }

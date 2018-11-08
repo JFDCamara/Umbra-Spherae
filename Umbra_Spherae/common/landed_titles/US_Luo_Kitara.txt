@@ -1,0 +1,379 @@
+e_luo_kitara = {
+
+	color = { 234 234 210 }
+	color2 = { 250 250 250 }
+
+	capital = 1967 #Bugagainzi
+
+	k_kitara = {
+
+		color = { 255 255 0 }
+		color2 = { 250 250 250 }
+
+		capital = 1967 #Bugagainzi
+
+		d_bunyoro_kitara = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1967 #Bugagainzi
+
+			c_bugagainzi = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_bugagainzi = {
+				}
+
+			}
+			c_mwenge = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_mwenge = {
+				}
+
+			}
+			c_pawir = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_pawir = {
+				}
+
+			}
+		}
+		d_buganda = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1972 #Buganda
+
+			c_buganda = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_buganda = {
+				}
+
+			}
+			c_syan = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_syan = {
+				}
+
+			}
+
+		}
+		d_nkore = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1974 #Nkore
+
+			c_nkore = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_nkore = {
+				}
+
+			}
+			c_buhweju = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_buhweju = {
+				}
+
+			}
+
+		}
+		d_karagwe = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1976 #Karagwe
+
+			c_karagwe = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_karagwe = {
+				}
+
+			}
+			c_kiziba = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_kiziba = {
+				}
+
+			}
+
+		}
+		d_rwanda = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1980 #Gisaka
+
+			c_gisaka = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_gisaka = {
+				}
+
+			}
+			c_mpororo = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_mpororo = {
+				}
+
+			}
+			c_ndorwa = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_ndorwa = {
+				}
+
+			}
+
+		}
+		d_burundi = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1981 #Burundi
+
+			c_burundi = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_burundi = {
+				}
+
+			}
+			c_buha = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_buha = {
+				}
+
+			}
+			c_bujiji = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_bujiji = {
+				}
+
+			}
+
+		}
+		d_buzinza = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1984 #Buzinza
+
+			c_buzinza = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_buzinza = {
+				}
+
+			}
+			c_ukerewe = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_ukerewe = {
+				}
+
+			}
+
+
+		}
+	}
+	k_luo = {
+
+		color = { 255 255 0 }
+		color2 = { 250 250 250 }
+
+		capital = 1950 #Funj
+
+		d_funj = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1950 #Funj
+
+			c_funj = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_funj = {
+				}
+
+			}
+			c_dinka = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_dinka = {
+				}
+
+			}
+		}
+		d_shilluk = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1952 #Shilluk
+
+			c_shilluk = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_shilluk = {
+				}
+
+			}
+			c_belanda = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_belanda = {
+				}
+
+			}
+		}
+		d_anuak = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1954 #Anuak
+
+			c_anuak = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_anuak = {
+				}
+
+			}
+			c_wipaco = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_wipaco = {
+				}
+
+			}
+		}
+		d_tegidi = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1956 #Tegidi
+
+			c_tegidi = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_tegidi = {
+				}
+
+			}
+			c_baar = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_baar = {
+				}
+
+			}
+		}
+		d_joka = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1962 #Jok a-Jok
+
+			c_jok_a_jok = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_jok_a_jok = {
+				}
+
+			}
+			c_pakwak = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_pakwak = {
+				}
+
+			}
+			c_pokot = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_pokot = {
+				}
+
+			}
+		}
+	}
+}

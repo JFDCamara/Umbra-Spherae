@@ -1,0 +1,67 @@
+507.3.3={
+	liege="e_japan"
+}
+##Matsumoto Dynasty (Placeholders)
+750.1.1={
+	holder=1000076238 #Ujifusa
+}
+780.1.1={
+	holder=1000076239 #Terumori
+}
+810.1.1={
+	holder=1000076240 #Tanechika
+}
+840.1.1={
+	holder=1000076241 #Satoshi
+}
+870.1.1={
+	holder=1000076242 #Noritaka
+}
+900.1.1={
+	holder=1000076243 #Tadatoshi
+}
+930.1.1={
+	holder=1000076244 #Norisuke
+}
+960.1.1={
+	holder=1000076245 #Tadatsugu
+}
+990.1.1={
+	holder=1000076246 #Takahide
+}
+1020.1.1={
+	holder=1000076247 #Sadakage
+}
+1050.1.1={
+	holder=1000076248 #Okikazu
+}
+1080.1.1={
+	holder=1000076249 #Okimori
+}
+1110.1.1={
+	holder=1000076250 #Takaoki
+}
+1140.1.1={
+	holder=1000076251 #Takamishi
+}
+1170.1.1={
+	holder=1000076252 #Tadatoki
+}
+1200.1.1={
+	holder=1000076253 #Noritada
+}
+1230.1.1={
+	holder=1000076254 #Reiji
+}
+1260.1.1={
+	holder=1000076255 #Noriyori
+}
+1290.1.1={
+	holder=1000076256 #Sukemasa
+}
+1320.1.1={
+	holder=1000076257 #Shigekiyo
+}
+1350.1.1={
+	holder=1000076258 #Sadato
+}

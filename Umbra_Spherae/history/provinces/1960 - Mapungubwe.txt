@@ -1,0 +1,28 @@
+# 1960 - Mapungubwe
+
+# County Title
+title = c_mapungubwe
+
+# Settlements
+max_settlements = 5
+b_mapungubwe = tribal
+b_bambandyanalo = tribal
+#b_machemma = 
+#b_maramani = 
+#b_raditshaba = 
+#b_makado = 
+#b_chamumnanga = 
+#b_lutombe = 
+
+# Misc
+culture = kalanga
+religion = south_bantu_mythology
+
+# History
+
+1075.1.1 = {
+	b_mapungubwe = castle
+	b_bambandyanalo = city
+	b_machemma = temple
+	b_maramani = city
+}

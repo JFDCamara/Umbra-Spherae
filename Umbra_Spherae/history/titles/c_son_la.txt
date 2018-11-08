@@ -1,0 +1,202 @@
+#Tang Dynasty
+618.6.18={
+	liege="e_china"
+}
+#Tang
+618.6.18 = {
+	holder = 217700 #Gaozu of Tang
+}
+626.9.4 = {
+	holder = 217701 #Taizong of Tang
+}
+649.7.10 = {
+	holder = 217702 #Gaozong of Tang
+}
+683.12.27 = {
+	holder = 217799 # Zhongdong
+}
+684.2.27 = {
+	holder = 217703 #Ruizong of Tang
+}
+690.10.16 = {
+	holder = 217704 #Wu Zetian
+}
+705.12.16 = {
+	holder = 217799 # again
+}
+710.7.3 = {
+	holder = 217705 #Shang of Tang
+}
+710.7.8 = {
+	holder = 217703
+}
+712.9.8 = {
+	holder = 217706 #Xuanzong of Tang
+}
+756.8.12 = {
+	holder = 217707 #Suzong of Tang
+}
+762.5.16 = {
+	holder = 217708 #Daizong of Tang
+}
+779.5.23 = {
+	holder = 217709 #Dezong of Tang
+}
+805.2.25 = {
+	holder = 217710 #Shunzong of Tang
+}
+805.9.5 = {
+	holder = 217711 #Xianzong of Tang
+}
+820.2.14 = {
+	holder = 217712 #Muzong of Tang
+}
+824.2.25 = {
+	holder = 217713 #Jingzong of Tang
+}
+827.1.9 = {
+	holder = 217714 #Wenzong of Tang
+}
+840.2.10 = {
+	holder = 217715 #Wuzong of Tang
+}
+846.4.22 = {
+	holder = 217716 #Xuanzong of Tang
+}
+859.9.7 = {
+	holder = 217717 #Yizong of Tang
+}
+873.8.15 = {
+	holder = 217718 #Xizong of Tang
+}
+888.4.20 = {
+	holder = 217719 #Zhaozong of Tang
+}
+#900.12.1
+#	holder = #Prince Li Yu
+#}
+904.9.22 = {
+	holder = 217720 #Aidi of Tang
+}
+
+#Khuc Dynasty
+905.1.1={
+	liege="k_dai_viet"
+}
+905.1.1={
+	holder=1000080060 #Khuc Thua Du
+}
+907.1.1={
+	holder=1000080061 #Khuc Hao
+}
+917.1.1={
+	holder=1000080062 #Khuc Thua My
+}
+
+#Duong Dynasty
+931.1.1={
+	holder=1000080063 #Duong Dinh Nghe
+}
+
+#Kieu Dynasty
+937.1.1={
+	holder=1000080064 #Kieu Cong Tien
+}
+
+#Ngo Dynasty
+939.1.1={
+	holder=1000080065 #Ngo Quyen
+}
+
+#Duong Dynasty (restored)
+944.1.1={
+	holder=1000080066 #Duong Tam Kha
+}
+
+#Ngo Dynasty (restored)
+950.1.1={
+	holder=1000080067 #Ngo Xuong Van
+}
+951.1.1={
+	holder=1000080068 #Ngo Xuong Ngap (actually co-rule)
+}
+954.1.1={
+	holder=1000080067 #Ngo Xuong Van (end of co-rule)
+}
+
+#Dinh Dynasty
+968.1.1={
+	holder=1000080069 #Dinh Tien Hoang
+}
+979.1.1={
+	holder=1000080070 #Dinh Phe De
+}
+
+#Lê Dynasty
+980.1.1={
+	holder=1000080071 #Lê Dai Hanh
+}
+1005.1.1={
+	holder=1000080072 #Lê Trung Tong
+}
+1005.1.3={
+	holder=1000080073 #Lê Long Dinh
+}
+
+#Ly Dynasty
+1009.1.1={
+	holder=1000076000 #Ly Thai To
+}
+1028.1.1={
+	holder=1000076001 #Ly Thai Tong
+}
+1054.1.1={
+	holder=1000076002 #Ly Thanh Tong
+}
+1072.1.1={
+	holder=1000076004 #Ly Nhan Tong
+}
+1127.1.1={
+	holder=1000080074 #Ly Than Tong
+}
+1138.1.1={
+	holder=1000080075 #Ly Anh Tong
+}
+1176.1.1={
+	holder=1000080076 #Ly Cao Tong
+}
+1211.1.1={
+	holder=1000080077 #Ly Hue Tong
+}
+1224.1.1={
+	holder=1000080078 #Ly Chieu Hoang
+}
+
+#Tran Dynasty
+1226.1.11={
+	holder=1000080079 #Tran Thai Tong
+}
+1258.1.30={
+	holder=1000080080 #Tran Thanh Tong
+}
+1278.1.1={
+	holder=1000080081 #Tran Nhan Tong
+}
+1293.1.1={
+	holder=1000080082 #Tran Anh Tong
+}
+1314.1.1={
+	holder=1000080083 #Tran Minh Tong
+}
+1329.1.1={
+	holder=1000080084 #Tran Hien Tong
+}
+1341.1.1={
+	holder=1000080087 #Tran Du Tong
+}
+1370.1.1={
+	holder=1000080086 #Tran Nghe Tong
+}
+1373.1.1={
+	holder=1000080085 #Tran Due Tong
+}

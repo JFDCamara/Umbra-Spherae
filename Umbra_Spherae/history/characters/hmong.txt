@@ -1,0 +1,3137 @@
+#placeholders for c_giem
+
+1000453757 ={
+	name = "XianXian"
+	dynasty = 1000156336
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	592.5.5 ={
+		birth = "592.5.5"
+	}
+	648.10.8 ={
+		death = "648.10.8"
+	}
+}
+
+1000453758 ={
+	name = "XinMin"
+	dynasty = 1000156336
+	culture = "hmong"
+	father = 1000453757
+	religion = "ua_dab"
+	616.7.4 ={
+		birth = "616.7.4"
+	}
+	675.3.28 ={
+		death = "675.3.28"
+	}
+}
+
+1000453759 ={
+	name = "Quan"
+	dynasty = 1000156336
+	culture = "hmong"
+	father = 1000453758
+	religion = "ua_dab"
+	642.1.27 ={
+		birth = "642.1.27"
+	}
+	694.9.19 ={
+		death = "694.9.19"
+	}
+}
+
+1000453760 ={
+	name = "ShiJing"
+	dynasty = 1000156336
+	culture = "hmong"
+	father = 1000453759
+	religion = "ua_dab"
+	665.9.23 ={
+		birth = "665.9.23"
+	}
+	723.3.11 ={
+		death = "723.3.11"
+	}
+}
+
+1000453761 ={
+	name = "GuoBi"
+	dynasty = 1000156336
+	culture = "hmong"
+	father = 1000453760
+	religion = "ua_dab"
+	684.12.16 ={
+		birth = "684.12.16"
+	}
+	744.4.15 ={
+		death = "744.4.15"
+	}
+}
+
+1000453762 ={
+	name = "ZhongYi"
+	dynasty = 1000156336
+	culture = "hmong"
+	father = 1000453761
+	religion = "ua_dab"
+	714.5.9 ={
+		birth = "714.5.9"
+	}
+	764.10.11 ={
+		death = "764.10.11"
+	}
+}
+
+1000453763 ={
+	name = "Ping"
+	dynasty = 1000156336
+	culture = "hmong"
+	father = 1000453762
+	religion = "ua_dab"
+	732.2.7 ={
+		birth = "732.2.7"
+	}
+	786.6.14 ={
+		death = "786.6.14"
+	}
+}
+
+1000453764 ={
+	name = "BiRen"
+	dynasty = 1000156336
+	culture = "hmong"
+	father = 1000453763
+	religion = "ua_dab"
+	764.2.20 ={
+		birth = "764.2.20"
+	}
+	823.9.10 ={
+		death = "823.9.10"
+	}
+}
+
+1000453765 ={
+	name = "SongXian"
+	dynasty = 1000156336
+	culture = "hmong"
+	father = 1000453764
+	religion = "ua_dab"
+	797.1.9 ={
+		birth = "797.1.9"
+	}
+	848.3.19 ={
+		death = "848.3.19"
+	}
+}
+
+1000453766 ={
+	name = "GuangQuan"
+	dynasty = 1000156336
+	culture = "hmong"
+	father = 1000453765
+	religion = "ua_dab"
+	817.4.8 ={
+		birth = "817.4.8"
+	}
+	877.4.20 ={
+		death = "877.4.20"
+	}
+}
+
+1000453767 ={
+	name = "GuoZi"
+	dynasty = 1000156336
+	culture = "hmong"
+	father = 1000453766
+	religion = "ua_dab"
+	846.6.8 ={
+		birth = "846.6.8"
+	}
+	906.5.20 ={
+		death = "906.5.20"
+	}
+}
+
+1000453768 ={
+	name = "GangShi"
+	dynasty = 1000156336
+	culture = "hmong"
+	father = 1000453767
+	religion = "ua_dab"
+	870.10.26 ={
+		birth = "870.10.26"
+	}
+	928.6.10 ={
+		death = "928.6.10"
+	}
+}
+
+1000453769 ={
+	name = "MinJing"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	931.10.15 ={
+		birth = "931.10.15"
+	}
+	988.5.8 ={
+		death = "988.5.8"
+	}
+}
+
+1000453770 ={
+	name = "YiXun"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 1000453769
+	religion = "ua_dab"
+	963.7.15 ={
+		birth = "963.7.15"
+	}
+	1014.12.10 ={
+		death = "1014.12.10"
+	}
+}
+
+1000453771 ={
+	name = "LongXi"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 1000453770
+	religion = "ua_dab"
+	992.6.26 ={
+		birth = "992.6.26"
+	}
+	1042.5.18 ={
+		death = "1042.5.18"
+	}
+}
+
+1000453772 ={
+	name = "LongQuan"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 1000453771
+	religion = "ua_dab"
+	1012.5.18 ={
+		birth = "1012.5.18"
+	}
+	1070.6.13 ={
+		death = "1070.6.13"
+	}
+}
+
+1000453773 ={
+	name = "HongYuan"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 1000453772
+	religion = "ua_dab"
+	1049.3.4 ={
+		birth = "1049.3.4"
+	}
+	1100.5.15 ={
+		death = "1100.5.15"
+	}
+}
+
+1000453774 ={
+	name = "XiJi"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 1000453773
+	religion = "ua_dab"
+	1068.5.16 ={
+		birth = "1068.5.16"
+	}
+	1124.7.5 ={
+		death = "1124.7.5"
+	}
+}
+
+1000453775 ={
+	name = "LiLi"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 1000453774
+	religion = "ua_dab"
+	1094.3.22 ={
+		birth = "1094.3.22"
+	}
+	1147.7.20 ={
+		death = "1147.7.20"
+	}
+}
+
+1000453776 ={
+	name = "PingYi"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 1000453775
+	religion = "ua_dab"
+	1118.1.17 ={
+		birth = "1118.1.17"
+	}
+	1170.5.28 ={
+		death = "1170.5.28"
+	}
+}
+
+1000453777 ={
+	name = "Jing"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 1000453776
+	religion = "ua_dab"
+	1149.12.12 ={
+		birth = "1149.12.12"
+	}
+	1202.4.11 ={
+		death = "1202.4.11"
+	}
+}
+
+1000453778 ={
+	name = "RenGong"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 1000453777
+	religion = "ua_dab"
+	1168.10.2 ={
+		birth = "1168.10.2"
+	}
+	1226.6.4 ={
+		death = "1226.6.4"
+	}
+}
+
+1000453779 ={
+	name = "ZheZhong"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 1000453778
+	religion = "ua_dab"
+	1203.7.19 ={
+		birth = "1203.7.19"
+	}
+	1251.10.15 ={
+		death = "1251.10.15"
+	}
+}
+
+1000453780 ={
+	name = "JingQuan"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 1000453779
+	religion = "ua_dab"
+	1227.4.12 ={
+		birth = "1227.4.12"
+	}
+	1275.2.23 ={
+		death = "1275.2.23"
+	}
+}
+
+1000453781 ={
+	name = "GangXi"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 1000453780
+	religion = "ua_dab"
+	1243.9.1 ={
+		birth = "1243.9.1"
+	}
+	1299.5.15 ={
+		death = "1299.5.15"
+	}
+}
+
+1000453782 ={
+	name = "JingDao"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 1000453781
+	religion = "ua_dab"
+	1277.3.13 ={
+		birth = "1277.3.13"
+	}
+	1328.3.24 ={
+		death = "1328.3.24"
+	}
+}
+
+1000453783 ={
+	name = "Ping"
+	dynasty = 1000156337
+	culture = "hmong"
+	father = 1000453782
+	religion = "ua_dab"
+	1304.6.10 ={
+		birth = "1304.6.10"
+	}
+	1355.6.9 ={
+		death = "1355.6.9"
+	}
+}
+
+#placeholders for c_trin
+
+1000453729 ={
+	name = "Dao"
+	dynasty = 1000156334
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	599.11.9 ={
+		birth = "599.11.9"
+	}
+	642.4.18 ={
+		death = "642.4.18"
+	}
+}
+
+1000453730 ={
+	name = "Qing"
+	dynasty = 1000156334
+	culture = "hmong"
+	father = 1000453729
+	religion = "ua_dab"
+	617.11.13 ={
+		birth = "617.11.13"
+	}
+	668.7.24 ={
+		death = "668.7.24"
+	}
+}
+
+1000453731 ={
+	name = "XiangGuang"
+	dynasty = 1000156334
+	culture = "hmong"
+	father = 1000453730
+	religion = "ua_dab"
+	635.5.14 ={
+		birth = "635.5.14"
+	}
+	683.10.22 ={
+		death = "683.10.22"
+	}
+}
+
+1000453732 ={
+	name = "WanDa"
+	dynasty = 1000156334
+	culture = "hmong"
+	father = 1000453731
+	religion = "ua_dab"
+	655.4.22 ={
+		birth = "655.4.22"
+	}
+	715.8.10 ={
+		death = "715.8.10"
+	}
+}
+
+1000453733 ={
+	name = "XiangBo"
+	dynasty = 1000156334
+	culture = "hmong"
+	father = 1000453732
+	religion = "ua_dab"
+	691.6.27 ={
+		birth = "691.6.27"
+	}
+	741.5.13 ={
+		death = "741.5.13"
+	}
+}
+
+1000453734 ={
+	name = "LiBo"
+	dynasty = 1000156334
+	culture = "hmong"
+	father = 1000453733
+	religion = "ua_dab"
+	708.3.11 ={
+		birth = "708.3.11"
+	}
+	763.11.24 ={
+		death = "763.11.24"
+	}
+}
+
+1000453735 ={
+	name = "Min"
+	dynasty = 1000156334
+	culture = "hmong"
+	father = 1000453734
+	religion = "ua_dab"
+	735.9.24 ={
+		birth = "735.9.24"
+	}
+	795.3.24 ={
+		death = "795.3.24"
+	}
+}
+
+1000453736 ={
+	name = "JingXiao"
+	dynasty = 1000156334
+	culture = "hmong"
+	father = 1000453735
+	religion = "ua_dab"
+	759.10.28 ={
+		birth = "759.10.28"
+	}
+	812.3.11 ={
+		death = "812.3.11"
+	}
+}
+
+1000453737 ={
+	name = "Su"
+	dynasty = 1000156334
+	culture = "hmong"
+	father = 1000453736
+	religion = "ua_dab"
+	783.12.13 ={
+		birth = "783.12.13"
+	}
+	840.6.21 ={
+		death = "840.6.21"
+	}
+}
+
+1000453738 ={
+	name = "HaoAn"
+	dynasty = 1000156334
+	culture = "hmong"
+	father = 1000453737
+	religion = "ua_dab"
+	803.8.17 ={
+		birth = "803.8.17"
+	}
+	862.7.1 ={
+		death = "862.7.1"
+	}
+}
+
+1000453739 ={
+	name = "DaJi"
+	dynasty = 1000156334
+	culture = "hmong"
+	father = 1000453738
+	religion = "ua_dab"
+	839.11.13 ={
+		birth = "839.11.13"
+	}
+	888.4.4 ={
+		death = "888.4.4"
+	}
+}
+
+1000453740 ={
+	name = "XiChong"
+	dynasty = 1000156334
+	culture = "hmong"
+	father = 1000453739
+	religion = "ua_dab"
+	858.10.4 ={
+		birth = "858.10.4"
+	}
+	916.8.10 ={
+		death = "916.8.10"
+	}
+}
+
+1000453741 ={
+	name = "ShiXun"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	938.11.23 ={
+		birth = "938.11.23"
+	}
+	990.7.25 ={
+		death = "990.7.25"
+	}
+}
+
+1000453742 ={
+	name = "ZiHong"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453741
+	religion = "ua_dab"
+	969.9.28 ={
+		birth = "969.9.28"
+	}
+	1024.9.15 ={
+		death = "1024.9.15"
+	}
+}
+
+1000453743 ={
+	name = "BiXun"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453742
+	religion = "ua_dab"
+	991.3.25 ={
+		birth = "991.3.25"
+	}
+	1038.11.17 ={
+		death = "1038.11.17"
+	}
+}
+
+1000453744 ={
+	name = "WanGuang"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453743
+	religion = "ua_dab"
+	1011.1.11 ={
+		birth = "1011.1.11"
+	}
+	1053.1.28 ={
+		death = "1053.1.28"
+	}
+}
+
+1000453745 ={
+	name = "XinXiang"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453744
+	religion = "ua_dab"
+	1030.6.12 ={
+		birth = "1030.6.12"
+	}
+	1081.6.10 ={
+		death = "1081.6.10"
+	}
+}
+
+1000453746 ={
+	name = "GongGuo"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453745
+	religion = "ua_dab"
+	1062.3.7 ={
+		birth = "1062.3.7"
+	}
+	1115.6.8 ={
+		death = "1115.6.8"
+	}
+}
+
+1000453747 ={
+	name = "GuangRen"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453746
+	religion = "ua_dab"
+	1082.8.18 ={
+		birth = "1082.8.18"
+	}
+	1140.12.6 ={
+		death = "1140.12.6"
+	}
+}
+
+1000453748 ={
+	name = "An"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453747
+	religion = "ua_dab"
+	1107.3.1 ={
+		birth = "1107.3.1"
+	}
+	1154.9.15 ={
+		death = "1154.9.15"
+	}
+}
+
+1000453749 ={
+	name = "MinRen"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453748
+	religion = "ua_dab"
+	1125.6.7 ={
+		birth = "1125.6.7"
+	}
+	1180.5.16 ={
+		death = "1180.5.16"
+	}
+}
+
+1000453750 ={
+	name = "ZhongXian"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453749
+	religion = "ua_dab"
+	1148.12.26 ={
+		birth = "1148.12.26"
+	}
+	1198.8.13 ={
+		death = "1198.8.13"
+	}
+}
+
+1000453751 ={
+	name = "Xin"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453750
+	religion = "ua_dab"
+	1165.9.20 ={
+		birth = "1165.9.20"
+	}
+	1224.1.23 ={
+		death = "1224.1.23"
+	}
+}
+
+1000453752 ={
+	name = "Ji"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453751
+	religion = "ua_dab"
+	1196.2.22 ={
+		birth = "1196.2.22"
+	}
+	1256.10.17 ={
+		death = "1256.10.17"
+	}
+}
+
+1000453753 ={
+	name = "GongLi"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453752
+	religion = "ua_dab"
+	1215.3.13 ={
+		birth = "1215.3.13"
+	}
+	1274.4.1 ={
+		death = "1274.4.1"
+	}
+}
+
+1000453754 ={
+	name = "CaiGong"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453753
+	religion = "ua_dab"
+	1252.9.24 ={
+		birth = "1252.9.24"
+	}
+	1307.11.16 ={
+		death = "1307.11.16"
+	}
+}
+
+1000453755 ={
+	name = "ZheLi"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453754
+	religion = "ua_dab"
+	1269.8.19 ={
+		birth = "1269.8.19"
+	}
+	1326.2.25 ={
+		death = "1326.2.25"
+	}
+}
+
+1000453756 ={
+	name = "ZhongXi"
+	dynasty = 1000156335
+	culture = "hmong"
+	father = 1000453755
+	religion = "ua_dab"
+	1295.11.16 ={
+		birth = "1295.11.16"
+	}
+	1349.1.3 ={
+		death = "1349.1.3"
+	}
+}
+
+#placeholders for c_kyung
+
+1000453701 ={
+	name = "GuangZhong"
+	dynasty = 1000156332
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	599.10.10 ={
+		birth = "599.10.10"
+	}
+	657.8.5 ={
+		death = "657.8.5"
+	}
+}
+
+1000453702 ={
+	name = "HuiBi"
+	dynasty = 1000156332
+	culture = "hmong"
+	father = 1000453701
+	religion = "ua_dab"
+	626.4.16 ={
+		birth = "626.4.16"
+	}
+	680.5.14 ={
+		death = "680.5.14"
+	}
+}
+
+1000453703 ={
+	name = "Gong"
+	dynasty = 1000156332
+	culture = "hmong"
+	father = 1000453702
+	religion = "ua_dab"
+	655.9.4 ={
+		birth = "655.9.4"
+	}
+	707.10.2 ={
+		death = "707.10.2"
+	}
+}
+
+1000453704 ={
+	name = "XiuHui"
+	dynasty = 1000156332
+	culture = "hmong"
+	father = 1000453703
+	religion = "ua_dab"
+	687.12.20 ={
+		birth = "687.12.20"
+	}
+	731.4.3 ={
+		death = "731.4.3"
+	}
+}
+
+1000453705 ={
+	name = "DaZi"
+	dynasty = 1000156332
+	culture = "hmong"
+	father = 1000453704
+	religion = "ua_dab"
+	707.4.22 ={
+		birth = "707.4.22"
+	}
+	765.4.15 ={
+		death = "765.4.15"
+	}
+}
+
+1000453706 ={
+	name = "SongGuo"
+	dynasty = 1000156332
+	culture = "hmong"
+	father = 1000453705
+	religion = "ua_dab"
+	737.1.13 ={
+		birth = "737.1.13"
+	}
+	790.9.7 ={
+		death = "790.9.7"
+	}
+}
+
+1000453707 ={
+	name = "HuiGong"
+	dynasty = 1000156332
+	culture = "hmong"
+	father = 1000453706
+	religion = "ua_dab"
+	760.3.15 ={
+		birth = "760.3.15"
+	}
+	818.1.15 ={
+		death = "818.1.15"
+	}
+}
+
+1000453708 ={
+	name = "An"
+	dynasty = 1000156332
+	culture = "hmong"
+	father = 1000453707
+	religion = "ua_dab"
+	780.3.22 ={
+		birth = "780.3.22"
+	}
+	837.11.18 ={
+		death = "837.11.18"
+	}
+}
+
+1000453709 ={
+	name = "ChongCheng"
+	dynasty = 1000156332
+	culture = "hmong"
+	father = 1000453708
+	religion = "ua_dab"
+	805.8.11 ={
+		birth = "805.8.11"
+	}
+	865.8.2 ={
+		death = "865.8.2"
+	}
+}
+
+1000453710 ={
+	name = "ZhengXiao"
+	dynasty = 1000156332
+	culture = "hmong"
+	father = 1000453709
+	religion = "ua_dab"
+	828.12.6 ={
+		birth = "828.12.6"
+	}
+	883.2.23 ={
+		death = "883.2.23"
+	}
+}
+
+1000453711 ={
+	name = "Quan"
+	dynasty = 1000156332
+	culture = "hmong"
+	father = 1000453710
+	religion = "ua_dab"
+	859.6.7 ={
+		birth = "859.6.7"
+	}
+	919.3.8 ={
+		death = "919.3.8"
+	}
+}
+
+1000453712 ={
+	name = "Hua"
+	dynasty = 1000156332
+	culture = "hmong"
+	father = 1000453711
+	religion = "ua_dab"
+	877.8.18 ={
+		birth = "877.8.18"
+	}
+	928.10.17 ={
+		death = "928.10.17"
+	}
+}
+
+1000453713 ={
+	name = "FeiXian"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	939.8.20 ={
+		birth = "939.8.20"
+	}
+	992.1.22 ={
+		death = "992.1.22"
+	}
+}
+
+1000453714 ={
+	name = "JiBi"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453713
+	religion = "ua_dab"
+	963.2.24 ={
+		birth = "963.2.24"
+	}
+	1021.3.5 ={
+		death = "1021.3.5"
+	}
+}
+
+1000453715 ={
+	name = "XiaoJing"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453714
+	religion = "ua_dab"
+	996.7.23 ={
+		birth = "996.7.23"
+	}
+	1055.3.11 ={
+		death = "1055.3.11"
+	}
+}
+
+1000453716 ={
+	name = "ZhengLi"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453715
+	religion = "ua_dab"
+	1013.11.6 ={
+		birth = "1013.11.6"
+	}
+	1068.9.5 ={
+		death = "1068.9.5"
+	}
+}
+
+1000453717 ={
+	name = "Hui"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453716
+	religion = "ua_dab"
+	1050.12.24 ={
+		birth = "1050.12.24"
+	}
+	1105.8.23 ={
+		death = "1105.8.23"
+	}
+}
+
+1000453718 ={
+	name = "Gong"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453717
+	religion = "ua_dab"
+	1073.12.18 ={
+		birth = "1073.12.18"
+	}
+	1129.7.15 ={
+		death = "1129.7.15"
+	}
+}
+
+1000453719 ={
+	name = "DaoZhong"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453718
+	religion = "ua_dab"
+	1096.5.28 ={
+		birth = "1096.5.28"
+	}
+	1147.4.27 ={
+		death = "1147.4.27"
+	}
+}
+
+1000453720 ={
+	name = "HuaSong"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453719
+	religion = "ua_dab"
+	1124.4.16 ={
+		birth = "1124.4.16"
+	}
+	1169.7.28 ={
+		death = "1169.7.28"
+	}
+}
+
+1000453721 ={
+	name = "QuanXiu"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453720
+	religion = "ua_dab"
+	1142.4.22 ={
+		birth = "1142.4.22"
+	}
+	1200.3.15 ={
+		death = "1200.3.15"
+	}
+}
+
+1000453722 ={
+	name = "Xin"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453721
+	religion = "ua_dab"
+	1161.2.1 ={
+		birth = "1161.2.1"
+	}
+	1218.12.7 ={
+		death = "1218.12.7"
+	}
+}
+
+1000453723 ={
+	name = "QingYi"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453722
+	religion = "ua_dab"
+	1193.1.19 ={
+		birth = "1193.1.19"
+	}
+	1242.7.20 ={
+		death = "1242.7.20"
+	}
+}
+
+1000453724 ={
+	name = "JingJi"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453723
+	religion = "ua_dab"
+	1219.5.28 ={
+		birth = "1219.5.28"
+	}
+	1264.5.5 ={
+		death = "1264.5.5"
+	}
+}
+
+1000453725 ={
+	name = "Hua"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453724
+	religion = "ua_dab"
+	1236.5.7 ={
+		birth = "1236.5.7"
+	}
+	1291.2.10 ={
+		death = "1291.2.10"
+	}
+}
+
+1000453726 ={
+	name = "XiaoCai"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453725
+	religion = "ua_dab"
+	1261.11.6 ={
+		birth = "1261.11.6"
+	}
+	1313.2.7 ={
+		death = "1313.2.7"
+	}
+}
+
+1000453727 ={
+	name = "ChengGang"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453726
+	religion = "ua_dab"
+	1288.7.20 ={
+		birth = "1288.7.20"
+	}
+	1347.7.10 ={
+		death = "1347.7.10"
+	}
+}
+
+1000453728 ={
+	name = "Gang"
+	dynasty = 1000156333
+	culture = "hmong"
+	father = 1000453727
+	religion = "ua_dab"
+	1316.11.25 ={
+		birth = "1316.11.25"
+	}
+	1366.8.13 ={
+		death = "1366.8.13"
+	}
+}
+
+#placeholders for c_ngyan
+
+1000453461 ={
+	name = "JingXin"
+	dynasty = 1000156312
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	591.2.25 ={
+		birth = "591.2.25"
+	}
+	651.4.18 ={
+		death = "651.4.18"
+	}
+}
+
+1000453462 ={
+	name = "PuQuan"
+	dynasty = 1000156312
+	culture = "hmong"
+	father = 1000453461
+	religion = "ua_dab"
+	624.10.23 ={
+		birth = "624.10.23"
+	}
+	670.6.11 ={
+		death = "670.6.11"
+	}
+}
+
+1000453463 ={
+	name = "Dao"
+	dynasty = 1000156312
+	culture = "hmong"
+	father = 1000453462
+	religion = "ua_dab"
+	644.4.16 ={
+		birth = "644.4.16"
+	}
+	690.2.11 ={
+		death = "690.2.11"
+	}
+}
+
+1000453464 ={
+	name = "YiDao"
+	dynasty = 1000156312
+	culture = "hmong"
+	father = 1000453463
+	religion = "ua_dab"
+	661.7.1 ={
+		birth = "661.7.1"
+	}
+	720.2.26 ={
+		death = "720.2.26"
+	}
+}
+
+1000453465 ={
+	name = "LongDao"
+	dynasty = 1000156312
+	culture = "hmong"
+	father = 1000453464
+	religion = "ua_dab"
+	687.2.5 ={
+		birth = "687.2.5"
+	}
+	734.6.3 ={
+		death = "734.6.3"
+	}
+}
+
+1000453466 ={
+	name = "RenDa"
+	dynasty = 1000156312
+	culture = "hmong"
+	father = 1000453465
+	religion = "ua_dab"
+	711.11.14 ={
+		birth = "711.11.14"
+	}
+	760.4.21 ={
+		death = "760.4.21"
+	}
+}
+
+1000453467 ={
+	name = "LiChong"
+	dynasty = 1000156312
+	culture = "hmong"
+	father = 1000453466
+	religion = "ua_dab"
+	729.4.14 ={
+		birth = "729.4.14"
+	}
+	779.4.9 ={
+		death = "779.4.9"
+	}
+}
+
+1000453468 ={
+	name = "MinShu"
+	dynasty = 1000156312
+	culture = "hmong"
+	father = 1000453467
+	religion = "ua_dab"
+	759.5.17 ={
+		birth = "759.5.17"
+	}
+	817.1.15 ={
+		death = "817.1.15"
+	}
+}
+
+1000453469 ={
+	name = "YuanYuan"
+	dynasty = 1000156312
+	culture = "hmong"
+	father = 1000453468
+	religion = "ua_dab"
+	775.7.2 ={
+		birth = "775.7.2"
+	}
+	823.7.23 ={
+		death = "823.7.23"
+	}
+}
+
+1000453470 ={
+	name = "ChengXun"
+	dynasty = 1000156312
+	culture = "hmong"
+	father = 1000453469
+	religion = "ua_dab"
+	802.12.26 ={
+		birth = "802.12.26"
+	}
+	853.8.8 ={
+		death = "853.8.8"
+	}
+}
+
+1000453471 ={
+	name = "GongGuo"
+	dynasty = 1000156312
+	culture = "hmong"
+	father = 1000453470
+	religion = "ua_dab"
+	823.8.6 ={
+		birth = "823.8.6"
+	}
+	879.12.1 ={
+		death = "879.12.1"
+	}
+}
+
+1000453472 ={
+	name = "HuaJing"
+	dynasty = 1000156312
+	culture = "hmong"
+	father = 1000453471
+	religion = "ua_dab"
+	841.9.23 ={
+		birth = "841.9.23"
+	}
+	900.1.2 ={
+		death = "900.1.2"
+	}
+}
+
+1000453473 ={
+	name = "HongFei"
+	dynasty = 1000156312
+	culture = "hmong"
+	father = 1000453472
+	religion = "ua_dab"
+	871.5.13 ={
+		birth = "871.5.13"
+	}
+	931.1.5 ={
+		death = "931.1.5"
+	}
+}
+
+1000453474 ={
+	name = "Shi"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	939.4.13 ={
+		birth = "939.4.13"
+	}
+	987.9.15 ={
+		death = "987.9.15"
+	}
+}
+
+1000453475 ={
+	name = "HuiZheng"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453474
+	religion = "ua_dab"
+	958.3.8 ={
+		birth = "958.3.8"
+	}
+	1010.3.8 ={
+		death = "1010.3.8"
+	}
+}
+
+1000453476 ={
+	name = "XiangHong"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453475
+	religion = "ua_dab"
+	978.3.21 ={
+		birth = "978.3.21"
+	}
+	1034.12.18 ={
+		death = "1034.12.18"
+	}
+}
+
+1000453477 ={
+	name = "BiZhong"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453476
+	religion = "ua_dab"
+	1014.8.10 ={
+		birth = "1014.8.10"
+	}
+	1065.10.23 ={
+		death = "1065.10.23"
+	}
+}
+
+1000453478 ={
+	name = "ShuXiang"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453477
+	religion = "ua_dab"
+	1035.11.10 ={
+		birth = "1035.11.10"
+	}
+	1088.1.8 ={
+		death = "1088.1.8"
+	}
+}
+
+1000453479 ={
+	name = "JiGang"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453478
+	religion = "ua_dab"
+	1063.6.8 ={
+		birth = "1063.6.8"
+	}
+	1117.7.12 ={
+		death = "1117.7.12"
+	}
+}
+
+1000453480 ={
+	name = "WanLi"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453479
+	religion = "ua_dab"
+	1087.10.3 ={
+		birth = "1087.10.3"
+	}
+	1146.6.11 ={
+		death = "1146.6.11"
+	}
+}
+
+1000453481 ={
+	name = "GongJing"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453480
+	religion = "ua_dab"
+	1108.10.15 ={
+		birth = "1108.10.15"
+	}
+	1160.4.10 ={
+		death = "1160.4.10"
+	}
+}
+
+1000453482 ={
+	name = "Bo"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453481
+	religion = "ua_dab"
+	1128.8.8 ={
+		birth = "1128.8.8"
+	}
+	1184.8.7 ={
+		death = "1184.8.7"
+	}
+}
+
+1000453483 ={
+	name = "ShiZhong"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453482
+	religion = "ua_dab"
+	1149.12.1 ={
+		birth = "1149.12.1"
+	}
+	1196.3.11 ={
+		death = "1196.3.11"
+	}
+}
+
+1000453484 ={
+	name = "PingRen"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453483
+	religion = "ua_dab"
+	1170.4.19 ={
+		birth = "1170.4.19"
+	}
+	1225.9.13 ={
+		death = "1225.9.13"
+	}
+}
+
+1000453485 ={
+	name = "Su"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453484
+	religion = "ua_dab"
+	1204.10.15 ={
+		birth = "1204.10.15"
+	}
+	1251.6.20 ={
+		death = "1251.6.20"
+	}
+}
+
+1000453486 ={
+	name = "Xiu"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453485
+	religion = "ua_dab"
+	1222.7.17 ={
+		birth = "1222.7.17"
+	}
+	1274.3.25 ={
+		death = "1274.3.25"
+	}
+}
+
+1000453487 ={
+	name = "JingLong"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453486
+	religion = "ua_dab"
+	1242.1.2 ={
+		birth = "1242.1.2"
+	}
+	1289.12.15 ={
+		death = "1289.12.15"
+	}
+}
+
+1000453488 ={
+	name = "ChengGuo"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453487
+	religion = "ua_dab"
+	1272.4.28 ={
+		birth = "1272.4.28"
+	}
+	1321.8.10 ={
+		death = "1321.8.10"
+	}
+}
+
+1000453489 ={
+	name = "CaiZhe"
+	dynasty = 1000156313
+	culture = "hmong"
+	father = 1000453488
+	religion = "ua_dab"
+	1294.3.7 ={
+		birth = "1294.3.7"
+	}
+	1348.10.2 ={
+		death = "1348.10.2"
+	}
+}
+
+#placeholders for c_zjin
+
+1000453433 ={
+	name = "PingLong"
+	dynasty = 1000156310
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	599.12.3 ={
+		birth = "599.12.3"
+	}
+	648.4.26 ={
+		death = "648.4.26"
+	}
+}
+
+1000453434 ={
+	name = "Zhong"
+	dynasty = 1000156310
+	culture = "hmong"
+	father = 1000453433
+	religion = "ua_dab"
+	618.2.11 ={
+		birth = "618.2.11"
+	}
+	674.12.1 ={
+		death = "674.12.1"
+	}
+}
+
+1000453435 ={
+	name = "ZheYi"
+	dynasty = 1000156310
+	culture = "hmong"
+	father = 1000453434
+	religion = "ua_dab"
+	644.11.19 ={
+		birth = "644.11.19"
+	}
+	701.5.8 ={
+		death = "701.5.8"
+	}
+}
+
+1000453436 ={
+	name = "Fei"
+	dynasty = 1000156310
+	culture = "hmong"
+	father = 1000453435
+	religion = "ua_dab"
+	672.8.11 ={
+		birth = "672.8.11"
+	}
+	730.7.23 ={
+		death = "730.7.23"
+	}
+}
+
+1000453437 ={
+	name = "XiangQuan"
+	dynasty = 1000156310
+	culture = "hmong"
+	father = 1000453436
+	religion = "ua_dab"
+	692.5.2 ={
+		birth = "692.5.2"
+	}
+	747.10.21 ={
+		death = "747.10.21"
+	}
+}
+
+1000453438 ={
+	name = "SuPing"
+	dynasty = 1000156310
+	culture = "hmong"
+	father = 1000453437
+	religion = "ua_dab"
+	709.11.26 ={
+		birth = "709.11.26"
+	}
+	763.3.8 ={
+		death = "763.3.8"
+	}
+}
+
+1000453439 ={
+	name = "ShiXian"
+	dynasty = 1000156310
+	culture = "hmong"
+	father = 1000453438
+	religion = "ua_dab"
+	739.12.3 ={
+		birth = "739.12.3"
+	}
+	795.10.3 ={
+		death = "795.10.3"
+	}
+}
+
+1000453440 ={
+	name = "WenXiao"
+	dynasty = 1000156310
+	culture = "hmong"
+	father = 1000453439
+	religion = "ua_dab"
+	762.6.4 ={
+		birth = "762.6.4"
+	}
+	818.8.7 ={
+		death = "818.8.7"
+	}
+}
+
+1000453441 ={
+	name = "LiDa"
+	dynasty = 1000156310
+	culture = "hmong"
+	father = 1000453440
+	religion = "ua_dab"
+	791.2.18 ={
+		birth = "791.2.18"
+	}
+	837.4.27 ={
+		death = "837.4.27"
+	}
+}
+
+1000453442 ={
+	name = "ZhengDao"
+	dynasty = 1000156310
+	culture = "hmong"
+	father = 1000453441
+	religion = "ua_dab"
+	810.7.28 ={
+		birth = "810.7.28"
+	}
+	860.4.18 ={
+		death = "860.4.18"
+	}
+}
+
+1000453443 ={
+	name = "QingShi"
+	dynasty = 1000156310
+	culture = "hmong"
+	father = 1000453442
+	religion = "ua_dab"
+	831.9.21 ={
+		birth = "831.9.21"
+	}
+	882.8.23 ={
+		death = "882.8.23"
+	}
+}
+
+1000453444 ={
+	name = "XunXiu"
+	dynasty = 1000156310
+	culture = "hmong"
+	father = 1000453443
+	religion = "ua_dab"
+	857.1.21 ={
+		birth = "857.1.21"
+	}
+	911.7.28 ={
+		death = "911.7.28"
+	}
+}
+
+1000453445 ={
+	name = "GangJing"
+	dynasty = 1000156310
+	culture = "hmong"
+	father = 1000453444
+	religion = "ua_dab"
+	876.5.13 ={
+		birth = "876.5.13"
+	}
+	933.9.25 ={
+		death = "933.9.25"
+	}
+}
+
+1000453446 ={
+	name = "HongWan"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	932.7.28 ={
+		birth = "932.7.28"
+	}
+	992.1.18 ={
+		death = "992.1.18"
+	}
+}
+
+1000453447 ={
+	name = "Su"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 1000453446
+	religion = "ua_dab"
+	966.1.8 ={
+		birth = "966.1.8"
+	}
+	1015.6.28 ={
+		death = "1015.6.28"
+	}
+}
+
+1000453448 ={
+	name = "ZiSong"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 1000453447
+	religion = "ua_dab"
+	984.5.6 ={
+		birth = "984.5.6"
+	}
+	1043.5.24 ={
+		death = "1043.5.24"
+	}
+}
+
+1000453449 ={
+	name = "Cheng"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 1000453448
+	religion = "ua_dab"
+	1011.12.10 ={
+		birth = "1011.12.10"
+	}
+	1070.11.16 ={
+		death = "1070.11.16"
+	}
+}
+
+1000453450 ={
+	name = "PingXian"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 1000453449
+	religion = "ua_dab"
+	1047.9.18 ={
+		birth = "1047.9.18"
+	}
+	1103.8.12 ={
+		death = "1103.8.12"
+	}
+}
+
+1000453451 ={
+	name = "Xun"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 1000453450
+	religion = "ua_dab"
+	1069.11.1 ={
+		birth = "1069.11.1"
+	}
+	1123.12.27 ={
+		death = "1123.12.27"
+	}
+}
+
+1000453452 ={
+	name = "HuaShi"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 1000453451
+	religion = "ua_dab"
+	1093.4.4 ={
+		birth = "1093.4.4"
+	}
+	1145.3.12 ={
+		death = "1145.3.12"
+	}
+}
+
+1000453453 ={
+	name = "DaChong"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 1000453452
+	religion = "ua_dab"
+	1122.9.4 ={
+		birth = "1122.9.4"
+	}
+	1171.10.21 ={
+		death = "1171.10.21"
+	}
+}
+
+1000453454 ={
+	name = "ZheXiang"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 1000453453
+	religion = "ua_dab"
+	1150.11.7 ={
+		birth = "1150.11.7"
+	}
+	1201.6.24 ={
+		death = "1201.6.24"
+	}
+}
+
+1000453455 ={
+	name = "PingChong"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 1000453454
+	religion = "ua_dab"
+	1176.1.16 ={
+		birth = "1176.1.16"
+	}
+	1232.4.8 ={
+		death = "1232.4.8"
+	}
+}
+
+1000453456 ={
+	name = "HuiShu"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 1000453455
+	religion = "ua_dab"
+	1201.10.8 ={
+		birth = "1201.10.8"
+	}
+	1248.9.13 ={
+		death = "1248.9.13"
+	}
+}
+
+1000453457 ={
+	name = "WanCheng"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 1000453456
+	religion = "ua_dab"
+	1218.11.17 ={
+		birth = "1218.11.17"
+	}
+	1268.12.9 ={
+		death = "1268.12.9"
+	}
+}
+
+1000453458 ={
+	name = "SuLong"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 1000453457
+	religion = "ua_dab"
+	1240.9.4 ={
+		birth = "1240.9.4"
+	}
+	1294.4.22 ={
+		death = "1294.4.22"
+	}
+}
+
+1000453459 ={
+	name = "An"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 1000453458
+	religion = "ua_dab"
+	1268.2.15 ={
+		birth = "1268.2.15"
+	}
+	1321.2.12 ={
+		death = "1321.2.12"
+	}
+}
+
+1000453460 ={
+	name = "Xin"
+	dynasty = 1000156311
+	culture = "hmong"
+	father = 1000453459
+	religion = "ua_dab"
+	1289.10.1 ={
+		birth = "1289.10.1"
+	}
+	1343.4.5 ={
+		death = "1343.4.5"
+	}
+}
+
+#placeholders for c_myoxkang
+
+1000453212 ={
+	name = "ShiXiao"
+	dynasty = 1000156294
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	595.1.11 ={
+		birth = "595.1.11"
+	}
+	649.1.19 ={
+		death = "649.1.19"
+	}
+}
+
+1000453213 ={
+	name = "ZiHua"
+	dynasty = 1000156294
+	culture = "hmong"
+	father = 1000453212
+	religion = "ua_dab"
+	619.3.3 ={
+		birth = "619.3.3"
+	}
+	674.12.17 ={
+		death = "674.12.17"
+	}
+}
+
+1000453214 ={
+	name = "ZhongLong"
+	dynasty = 1000156294
+	culture = "hmong"
+	father = 1000453213
+	religion = "ua_dab"
+	636.11.24 ={
+		birth = "636.11.24"
+	}
+	693.12.14 ={
+		death = "693.12.14"
+	}
+}
+
+1000453215 ={
+	name = "SuZheng"
+	dynasty = 1000156294
+	culture = "hmong"
+	father = 1000453214
+	religion = "ua_dab"
+	663.8.1 ={
+		birth = "663.8.1"
+	}
+	723.9.12 ={
+		death = "723.9.12"
+	}
+}
+
+1000453216 ={
+	name = "QuanDao"
+	dynasty = 1000156294
+	culture = "hmong"
+	father = 1000453215
+	religion = "ua_dab"
+	689.2.4 ={
+		birth = "689.2.4"
+	}
+	748.7.20 ={
+		death = "748.7.20"
+	}
+}
+
+1000453217 ={
+	name = "HaoZhong"
+	dynasty = 1000156294
+	culture = "hmong"
+	father = 1000453216
+	religion = "ua_dab"
+	718.9.9 ={
+		birth = "718.9.9"
+	}
+	776.6.1 ={
+		death = "776.6.1"
+	}
+}
+
+1000453218 ={
+	name = "HaoLi"
+	dynasty = 1000156294
+	culture = "hmong"
+	father = 1000453217
+	religion = "ua_dab"
+	740.1.18 ={
+		birth = "740.1.18"
+	}
+	794.8.15 ={
+		death = "794.8.15"
+	}
+}
+
+1000453219 ={
+	name = "YuanDao"
+	dynasty = 1000156294
+	culture = "hmong"
+	father = 1000453218
+	religion = "ua_dab"
+	761.8.20 ={
+		birth = "761.8.20"
+	}
+	817.12.9 ={
+		death = "817.12.9"
+	}
+}
+
+1000453220 ={
+	name = "XunYuan"
+	dynasty = 1000156294
+	culture = "hmong"
+	father = 1000453219
+	religion = "ua_dab"
+	788.8.24 ={
+		birth = "788.8.24"
+	}
+	848.4.10 ={
+		death = "848.4.10"
+	}
+}
+
+1000453221 ={
+	name = "Ren"
+	dynasty = 1000156294
+	culture = "hmong"
+	father = 1000453220
+	religion = "ua_dab"
+	818.11.27 ={
+		birth = "818.11.27"
+	}
+	876.10.5 ={
+		death = "876.10.5"
+	}
+}
+
+1000453222 ={
+	name = "ShiXin"
+	dynasty = 1000156294
+	culture = "hmong"
+	father = 1000453221
+	religion = "ua_dab"
+	853.4.5 ={
+		birth = "853.4.5"
+	}
+	909.12.5 ={
+		death = "909.12.5"
+	}
+}
+
+1000453223 ={
+	name = "BoChong"
+	dynasty = 1000156294
+	culture = "hmong"
+	father = 1000453222
+	religion = "ua_dab"
+	871.9.8 ={
+		birth = "871.9.8"
+	}
+	927.6.23 ={
+		death = "927.6.23"
+	}
+}
+
+1000453224 ={
+	name = "Min"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	932.10.19 ={
+		birth = "932.10.19"
+	}
+	982.6.20 ={
+		death = "982.6.20"
+	}
+}
+
+1000453225 ={
+	name = "ChongGong"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453224
+	religion = "ua_dab"
+	959.7.22 ={
+		birth = "959.7.22"
+	}
+	1016.10.1 ={
+		death = "1016.10.1"
+	}
+}
+
+1000453226 ={
+	name = "Song"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453225
+	religion = "ua_dab"
+	977.2.26 ={
+		birth = "977.2.26"
+	}
+	1037.9.15 ={
+		death = "1037.9.15"
+	}
+}
+
+1000453227 ={
+	name = "ZheZhong"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453226
+	religion = "ua_dab"
+	1007.11.25 ={
+		birth = "1007.11.25"
+	}
+	1055.3.21 ={
+		death = "1055.3.21"
+	}
+}
+
+1000453228 ={
+	name = "HuiGong"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453227
+	religion = "ua_dab"
+	1026.3.18 ={
+		birth = "1026.3.18"
+	}
+	1080.4.28 ={
+		death = "1080.4.28"
+	}
+}
+
+1000453229 ={
+	name = "ZhongZhe"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453228
+	religion = "ua_dab"
+	1050.6.17 ={
+		birth = "1050.6.17"
+	}
+	1110.9.28 ={
+		death = "1110.9.28"
+	}
+}
+
+1000453230 ={
+	name = "HuiYi"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453229
+	religion = "ua_dab"
+	1074.1.9 ={
+		birth = "1074.1.9"
+	}
+	1129.9.11 ={
+		death = "1129.9.11"
+	}
+}
+
+1000453231 ={
+	name = "BoHui"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453230
+	religion = "ua_dab"
+	1102.5.11 ={
+		birth = "1102.5.11"
+	}
+	1151.3.2 ={
+		death = "1151.3.2"
+	}
+}
+
+1000453232 ={
+	name = "Zhong"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453231
+	religion = "ua_dab"
+	1128.3.12 ={
+		birth = "1128.3.12"
+	}
+	1182.9.14 ={
+		death = "1182.9.14"
+	}
+}
+
+1000453233 ={
+	name = "ChengZheng"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453232
+	religion = "ua_dab"
+	1148.9.25 ={
+		birth = "1148.9.25"
+	}
+	1201.10.13 ={
+		death = "1201.10.13"
+	}
+}
+
+1000453234 ={
+	name = "HaoChong"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453233
+	religion = "ua_dab"
+	1175.8.3 ={
+		birth = "1175.8.3"
+	}
+	1228.11.5 ={
+		death = "1228.11.5"
+	}
+}
+
+1000453235 ={
+	name = "ChongXiang"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453234
+	religion = "ua_dab"
+	1205.12.2 ={
+		birth = "1205.12.2"
+	}
+	1256.11.20 ={
+		death = "1256.11.20"
+	}
+}
+
+1000453236 ={
+	name = "XiangHao"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453235
+	religion = "ua_dab"
+	1229.12.28 ={
+		birth = "1229.12.28"
+	}
+	1287.12.19 ={
+		death = "1287.12.19"
+	}
+}
+
+1000453237 ={
+	name = "Min"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453236
+	religion = "ua_dab"
+	1254.6.5 ={
+		birth = "1254.6.5"
+	}
+	1304.11.26 ={
+		death = "1304.11.26"
+	}
+}
+
+1000453238 ={
+	name = "QingQuan"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453237
+	religion = "ua_dab"
+	1276.5.15 ={
+		birth = "1276.5.15"
+	}
+	1330.1.1 ={
+		death = "1330.1.1"
+	}
+}
+
+1000453239 ={
+	name = "GongZhe"
+	dynasty = 1000156295
+	culture = "hmong"
+	father = 1000453238
+	religion = "ua_dab"
+	1306.3.21 ={
+		birth = "1306.3.21"
+	}
+	1360.12.26 ={
+		death = "1360.12.26"
+	}
+}
+
+#placeholders for c_zjeuh
+
+1000453101 ={
+	name = "JiXiang"
+	dynasty = 1000156286
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	590.4.23 ={
+		birth = "590.4.23"
+	}
+	649.6.20 ={
+		death = "649.6.20"
+	}
+}
+
+1000453102 ={
+	name = "GuoWen"
+	dynasty = 1000156286
+	culture = "hmong"
+	father = 1000453101
+	religion = "ua_dab"
+	616.7.26 ={
+		birth = "616.7.26"
+	}
+	674.10.18 ={
+		death = "674.10.18"
+	}
+}
+
+1000453103 ={
+	name = "HaoWan"
+	dynasty = 1000156286
+	culture = "hmong"
+	father = 1000453102
+	religion = "ua_dab"
+	638.10.5 ={
+		birth = "638.10.5"
+	}
+	697.8.6 ={
+		death = "697.8.6"
+	}
+}
+
+1000453104 ={
+	name = "Bi"
+	dynasty = 1000156286
+	culture = "hmong"
+	father = 1000453103
+	religion = "ua_dab"
+	677.1.28 ={
+		birth = "677.1.28"
+	}
+	736.11.11 ={
+		death = "736.11.11"
+	}
+}
+
+1000453105 ={
+	name = "Gang"
+	dynasty = 1000156286
+	culture = "hmong"
+	father = 1000453104
+	religion = "ua_dab"
+	694.1.17 ={
+		birth = "694.1.17"
+	}
+	749.11.25 ={
+		death = "749.11.25"
+	}
+}
+
+1000453106 ={
+	name = "FeiHao"
+	dynasty = 1000156286
+	culture = "hmong"
+	father = 1000453105
+	religion = "ua_dab"
+	726.5.26 ={
+		birth = "726.5.26"
+	}
+	771.2.14 ={
+		death = "771.2.14"
+	}
+}
+
+1000453107 ={
+	name = "XunShi"
+	dynasty = 1000156286
+	culture = "hmong"
+	father = 1000453106
+	religion = "ua_dab"
+	747.2.15 ={
+		birth = "747.2.15"
+	}
+	789.5.1 ={
+		death = "789.5.1"
+	}
+}
+
+1000453108 ={
+	name = "GangGuo"
+	dynasty = 1000156286
+	culture = "hmong"
+	father = 1000453107
+	religion = "ua_dab"
+	767.10.17 ={
+		birth = "767.10.17"
+	}
+	821.5.10 ={
+		death = "821.5.10"
+	}
+}
+
+1000453109 ={
+	name = "HuiChong"
+	dynasty = 1000156286
+	culture = "hmong"
+	father = 1000453108
+	religion = "ua_dab"
+	790.7.7 ={
+		birth = "790.7.7"
+	}
+	847.9.12 ={
+		death = "847.9.12"
+	}
+}
+
+1000453110 ={
+	name = "XiangHong"
+	dynasty = 1000156286
+	culture = "hmong"
+	father = 1000453109
+	religion = "ua_dab"
+	809.2.8 ={
+		birth = "809.2.8"
+	}
+	867.12.6 ={
+		death = "867.12.6"
+	}
+}
+
+1000453111 ={
+	name = "LongCheng"
+	dynasty = 1000156286
+	culture = "hmong"
+	father = 1000453110
+	religion = "ua_dab"
+	826.4.2 ={
+		birth = "826.4.2"
+	}
+	879.10.23 ={
+		death = "879.10.23"
+	}
+}
+
+1000453112 ={
+	name = "RenPu"
+	dynasty = 1000156286
+	culture = "hmong"
+	father = 1000453111
+	religion = "ua_dab"
+	851.11.3 ={
+		birth = "851.11.3"
+	}
+	903.6.1 ={
+		death = "903.6.1"
+	}
+}
+
+1000453113 ={
+	name = "Yuan"
+	dynasty = 1000156286
+	culture = "hmong"
+	father = 1000453112
+	religion = "ua_dab"
+	873.6.16 ={
+		birth = "873.6.16"
+	}
+	922.3.24 ={
+		death = "922.3.24"
+	}
+}
+
+1000453114 ={
+	name = "HongGuo"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	937.3.23 ={
+		birth = "937.3.23"
+	}
+	983.6.2 ={
+		death = "983.6.2"
+	}
+}
+
+1000453115 ={
+	name = "WenZhong"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 1000453114
+	religion = "ua_dab"
+	954.2.4 ={
+		birth = "954.2.4"
+	}
+	1010.1.21 ={
+		death = "1010.1.21"
+	}
+}
+
+1000453116 ={
+	name = "MinWen"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 1000453115
+	religion = "ua_dab"
+	984.3.11 ={
+		birth = "984.3.11"
+	}
+	1043.4.20 ={
+		death = "1043.4.20"
+	}
+}
+
+1000453117 ={
+	name = "QuanQing"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 1000453116
+	religion = "ua_dab"
+	1017.1.22 ={
+		birth = "1017.1.22"
+	}
+	1076.10.16 ={
+		death = "1076.10.16"
+	}
+}
+
+1000453118 ={
+	name = "Xiao"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 1000453117
+	religion = "ua_dab"
+	1035.7.5 ={
+		birth = "1035.7.5"
+	}
+	1095.9.7 ={
+		death = "1095.9.7"
+	}
+}
+
+1000453119 ={
+	name = "QuanShu"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 1000453118
+	religion = "ua_dab"
+	1074.3.1 ={
+		birth = "1074.3.1"
+	}
+	1125.11.25 ={
+		death = "1125.11.25"
+	}
+}
+
+1000453120 ={
+	name = "BoZhe"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 1000453119
+	religion = "ua_dab"
+	1091.5.28 ={
+		birth = "1091.5.28"
+	}
+	1146.11.4 ={
+		death = "1146.11.4"
+	}
+}
+
+1000453121 ={
+	name = "AnSong"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 1000453120
+	religion = "ua_dab"
+	1111.5.20 ={
+		birth = "1111.5.20"
+	}
+	1168.3.17 ={
+		death = "1168.3.17"
+	}
+}
+
+1000453122 ={
+	name = "PingHao"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 1000453121
+	religion = "ua_dab"
+	1145.12.19 ={
+		birth = "1145.12.19"
+	}
+	1194.7.7 ={
+		death = "1194.7.7"
+	}
+}
+
+1000453123 ={
+	name = "Xun"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 1000453122
+	religion = "ua_dab"
+	1165.7.5 ={
+		birth = "1165.7.5"
+	}
+	1222.12.28 ={
+		death = "1222.12.28"
+	}
+}
+
+1000453124 ={
+	name = "BoShi"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 1000453123
+	religion = "ua_dab"
+	1191.8.6 ={
+		birth = "1191.8.6"
+	}
+	1249.2.18 ={
+		death = "1249.2.18"
+	}
+}
+
+1000453125 ={
+	name = "HuaDao"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 1000453124
+	religion = "ua_dab"
+	1230.6.19 ={
+		birth = "1230.6.19"
+	}
+	1284.7.27 ={
+		death = "1284.7.27"
+	}
+}
+
+1000453126 ={
+	name = "YiBo"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 1000453125
+	religion = "ua_dab"
+	1249.6.25 ={
+		birth = "1249.6.25"
+	}
+	1293.8.15 ={
+		death = "1293.8.15"
+	}
+}
+
+1000453127 ={
+	name = "Xi"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 1000453126
+	religion = "ua_dab"
+	1268.8.20 ={
+		birth = "1268.8.20"
+	}
+	1324.9.17 ={
+		death = "1324.9.17"
+	}
+}
+
+1000453128 ={
+	name = "BoYi"
+	dynasty = 1000156287
+	culture = "hmong"
+	father = 1000453127
+	religion = "ua_dab"
+	1290.4.9 ={
+		birth = "1290.4.9"
+	}
+	1348.10.27 ={
+		death = "1348.10.27"
+	}
+}
+
+#placeholders for c_chrioxzyen
+
+1000453185 ={
+	name = "Quan"
+	dynasty = 1000156292
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	597.11.4 ={
+		birth = "597.11.4"
+	}
+	640.4.22 ={
+		death = "640.4.22"
+	}
+}
+
+1000453186 ={
+	name = "Qing"
+	dynasty = 1000156292
+	culture = "hmong"
+	father = 1000453185
+	religion = "ua_dab"
+	616.7.26 ={
+		birth = "616.7.26"
+	}
+	666.9.2 ={
+		death = "666.9.2"
+	}
+}
+
+1000453187 ={
+	name = "GongBi"
+	dynasty = 1000156292
+	culture = "hmong"
+	father = 1000453186
+	religion = "ua_dab"
+	635.6.27 ={
+		birth = "635.6.27"
+	}
+	692.11.4 ={
+		death = "692.11.4"
+	}
+}
+
+1000453188 ={
+	name = "WanShu"
+	dynasty = 1000156292
+	culture = "hmong"
+	father = 1000453187
+	religion = "ua_dab"
+	663.7.3 ={
+		birth = "663.7.3"
+	}
+	715.7.3 ={
+		death = "715.7.3"
+	}
+}
+
+1000453189 ={
+	name = "QingQuan"
+	dynasty = 1000156292
+	culture = "hmong"
+	father = 1000453188
+	religion = "ua_dab"
+	696.11.24 ={
+		birth = "696.11.24"
+	}
+	747.11.12 ={
+		death = "747.11.12"
+	}
+}
+
+1000453190 ={
+	name = "JiQing"
+	dynasty = 1000156292
+	culture = "hmong"
+	father = 1000453189
+	religion = "ua_dab"
+	713.12.12 ={
+		birth = "713.12.12"
+	}
+	771.7.24 ={
+		death = "771.7.24"
+	}
+}
+
+1000453191 ={
+	name = "Xiu"
+	dynasty = 1000156292
+	culture = "hmong"
+	father = 1000453190
+	religion = "ua_dab"
+	749.1.27 ={
+		birth = "749.1.27"
+	}
+	807.11.19 ={
+		death = "807.11.19"
+	}
+}
+
+1000453192 ={
+	name = "XiangXiang"
+	dynasty = 1000156292
+	culture = "hmong"
+	father = 1000453191
+	religion = "ua_dab"
+	778.4.13 ={
+		birth = "778.4.13"
+	}
+	832.5.7 ={
+		death = "832.5.7"
+	}
+}
+
+1000453193 ={
+	name = "YiYuan"
+	dynasty = 1000156292
+	culture = "hmong"
+	father = 1000453192
+	religion = "ua_dab"
+	795.11.3 ={
+		birth = "795.11.3"
+	}
+	840.3.27 ={
+		death = "840.3.27"
+	}
+}
+
+1000453194 ={
+	name = "Cai"
+	dynasty = 1000156292
+	culture = "hmong"
+	father = 1000453193
+	religion = "ua_dab"
+	812.3.7 ={
+		birth = "812.3.7"
+	}
+	872.1.21 ={
+		death = "872.1.21"
+	}
+}
+
+1000453195 ={
+	name = "XiaoXiao"
+	dynasty = 1000156292
+	culture = "hmong"
+	father = 1000453194
+	religion = "ua_dab"
+	841.10.20 ={
+		birth = "841.10.20"
+	}
+	891.5.8 ={
+		death = "891.5.8"
+	}
+}
+
+1000453196 ={
+	name = "Wan"
+	dynasty = 1000156292
+	culture = "hmong"
+	father = 1000453195
+	religion = "ua_dab"
+	862.2.4 ={
+		birth = "862.2.4"
+	}
+	918.10.17 ={
+		death = "918.10.17"
+	}
+}
+
+1000453197 ={
+	name = "Wen"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 0
+	religion = "ua_dab"
+	934.7.25 ={
+		birth = "934.7.25"
+	}
+	990.9.6 ={
+		death = "990.9.6"
+	}
+}
+
+1000453198 ={
+	name = "ShiXun"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 1000453197
+	religion = "ua_dab"
+	965.5.14 ={
+		birth = "965.5.14"
+	}
+	1023.1.26 ={
+		death = "1023.1.26"
+	}
+}
+
+1000453199 ={
+	name = "ChengLi"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 1000453198
+	religion = "ua_dab"
+	997.11.26 ={
+		birth = "997.11.26"
+	}
+	1050.5.24 ={
+		death = "1050.5.24"
+	}
+}
+
+1000453200 ={
+	name = "Pu"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 1000453199
+	religion = "ua_dab"
+	1020.6.24 ={
+		birth = "1020.6.24"
+	}
+	1065.12.20 ={
+		death = "1065.12.20"
+	}
+}
+
+1000453201 ={
+	name = "YiXin"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 1000453200
+	religion = "ua_dab"
+	1043.9.2 ={
+		birth = "1043.9.2"
+	}
+	1099.3.22 ={
+		death = "1099.3.22"
+	}
+}
+
+1000453202 ={
+	name = "XiYuan"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 1000453201
+	religion = "ua_dab"
+	1071.10.19 ={
+		birth = "1071.10.19"
+	}
+	1125.10.19 ={
+		death = "1125.10.19"
+	}
+}
+
+1000453203 ={
+	name = "GuoPing"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 1000453202
+	religion = "ua_dab"
+	1092.2.24 ={
+		birth = "1092.2.24"
+	}
+	1148.1.17 ={
+		death = "1148.1.17"
+	}
+}
+
+1000453204 ={
+	name = "GuoFei"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 1000453203
+	religion = "ua_dab"
+	1108.4.19 ={
+		birth = "1108.4.19"
+	}
+	1164.12.10 ={
+		death = "1164.12.10"
+	}
+}
+
+1000453205 ={
+	name = "HuaSu"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 1000453204
+	religion = "ua_dab"
+	1131.1.9 ={
+		birth = "1131.1.9"
+	}
+	1187.11.2 ={
+		death = "1187.11.2"
+	}
+}
+
+1000453206 ={
+	name = "ZhongGang"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 1000453205
+	religion = "ua_dab"
+	1168.7.5 ={
+		birth = "1168.7.5"
+	}
+	1219.5.25 ={
+		death = "1219.5.25"
+	}
+}
+
+1000453207 ={
+	name = "JingRen"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 1000453206
+	religion = "ua_dab"
+	1194.1.16 ={
+		birth = "1194.1.16"
+	}
+	1249.6.2 ={
+		death = "1249.6.2"
+	}
+}
+
+1000453208 ={
+	name = "Long"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 1000453207
+	religion = "ua_dab"
+	1211.8.4 ={
+		birth = "1211.8.4"
+	}
+	1267.12.26 ={
+		death = "1267.12.26"
+	}
+}
+
+1000453209 ={
+	name = "Shi"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 1000453208
+	religion = "ua_dab"
+	1241.3.13 ={
+		birth = "1241.3.13"
+	}
+	1297.10.1 ={
+		death = "1297.10.1"
+	}
+}
+
+1000453210 ={
+	name = "FeiZheng"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 1000453209
+	religion = "ua_dab"
+	1264.11.14 ={
+		birth = "1264.11.14"
+	}
+	1322.10.16 ={
+		death = "1322.10.16"
+	}
+}
+
+1000453211 ={
+	name = "DaoYi"
+	dynasty = 1000156293
+	culture = "hmong"
+	father = 1000453210
+	religion = "ua_dab"
+	1289.9.21 ={
+		birth = "1289.9.21"
+	}
+	1341.3.19 ={
+		death = "1341.3.19"
+	}
+}

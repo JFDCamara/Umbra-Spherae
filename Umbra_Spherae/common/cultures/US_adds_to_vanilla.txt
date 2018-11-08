@@ -1,0 +1,17 @@
+#This is what was changed in 00_cultures.txt
+
+#moved alan to iranian - not done yet
+
+#added aragonese to iberian - not done yet
+
+#added coptic to byzantine  - not done yet
+#added syriac to byzantine - not done yet
+#added omotic to east african
+#added interior_cushitic to east african
+#added nilotic to east african
+
+#added bai to chinese
+
+#added mohe to altaic
+
+#added qiang to tibetan

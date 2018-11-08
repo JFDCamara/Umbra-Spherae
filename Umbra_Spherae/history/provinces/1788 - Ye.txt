@@ -1,0 +1,21 @@
+# 1157 - Ye
+
+# County Title
+title = c_ye
+
+# Settlements
+max_settlements = 4
+b_abaw = castle
+b_ye = city
+b_asin = temple
+#b_duya =
+#b_hangan =
+#b_kyai_long =
+#b_kauk_mi_chaung =
+#b_khaw_ngar =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

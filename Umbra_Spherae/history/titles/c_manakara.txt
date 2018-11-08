@@ -1,0 +1,66 @@
+#Harifanja Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076487 #Mandresy
+	law = true_cognatic_succession
+}
+780.1.1={
+	holder=1000076488 #Niaina
+}
+810.1.1={
+	holder=1000076489 #Haja
+}
+840.1.1={
+	holder=1000076490 #Andrianjaka
+}
+870.1.1={
+	holder=1000076491 #Narisoa
+}
+900.1.1={
+	holder=1000076492 #Lova
+}
+930.1.1={
+	holder=1000076493 #Rano
+}
+960.1.1={
+	holder=1000076494 #Andrianantoandro
+}
+990.1.1={
+	holder=1000076495 #Andriantsitakatrandriana
+}
+1020.1.1={
+	holder=1000076496 #Andriantsimitoviaminandriana
+}
+1050.1.1={
+	holder=1000076497 #Andrianavalona
+}
+1080.1.1={
+	holder=1000076498 #Tombovelo
+}
+1110.1.1={
+	holder=1000076499 #Haja
+}
+1140.1.1={
+	holder=1000076500 #Solofo
+}
+1170.1.1={
+	holder=1000076501 #Tsilavohery
+}
+1200.1.1={
+	holder=1000076502 #Tovohery
+}
+1230.1.1={
+	holder=1000076503 #Zazaharivelo
+}
+1260.1.1={
+	holder=1000076504 #Mandresy
+}
+1290.1.1={
+	holder=1000076505 #Andriantsimitoviaminandriandehibe
+}
+1320.1.1={
+	holder=1000076506 #Niaina
+}
+1350.1.1={
+	holder=1000076507 #Sedera
+}

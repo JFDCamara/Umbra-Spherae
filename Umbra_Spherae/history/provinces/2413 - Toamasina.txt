@@ -1,0 +1,23 @@
+# 2413 - Toamasina
+
+# County Title
+title = c_toamasina
+
+# Settlements
+max_settlements = 5
+b_ambodisiny = tribal
+b_toamasina = tribal
+b_mananara = tribal
+#b_seranambe = 
+#b_andrangazaha = 
+#b_vohilava = 
+#b_anjahambe = 
+#b_antanambe = 
+
+# Misc
+culture = vazimba
+religion = malagasy_religion
+
+# History
+
+1050.1.1 = { culture = malagasy }

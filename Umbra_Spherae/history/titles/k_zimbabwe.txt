@@ -1,0 +1,20 @@
+#Garanganga Dynasty (Placeholders)
+
+1220.1.1={
+	holder=1000083776 #Chisi
+}
+1230.1.1={
+	holder=1000083777 #Chisi
+}
+1260.1.1={
+	holder=1000083778 #Mbada
+}
+1290.1.1={
+	holder=1000083779 #Dzingai
+}
+1320.1.1={
+	holder=1000083780 #Chivere
+}
+1350.1.1={
+	holder=1000083781 #Muchaneta
+}

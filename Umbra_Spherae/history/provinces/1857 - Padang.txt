@@ -1,0 +1,21 @@
+# 1226 - Padang
+
+# County Title
+title = c_padang
+
+# Settlements
+max_settlements = 3
+b_padangsarai = castle
+b_padang = city
+#b_kajuara =
+#b_pasar_sungainjal =
+#b_sungaitalang =
+#b_painan =
+#b_lubukbargalung =
+#b_sungailundang =
+
+# Misc
+culture = minangkabau
+religion = sumatran_religion
+
+# History

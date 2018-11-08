@@ -1,0 +1,23 @@
+# 1429 - Haix
+
+# County Title
+title = c_haix
+
+# Settlements
+max_settlements = 4
+b_gyosren = castle
+b_tunghaix = city
+b_ghruai_njin = city
+#b_liensjuix =
+#b_zsjyijang =
+#b_limghung =
+#b_ghuxkhiu =
+#b_kimzjeng_haix =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

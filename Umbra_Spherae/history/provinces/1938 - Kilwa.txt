@@ -1,0 +1,31 @@
+# 1938 - Kilwa
+
+# County Title
+title = c_kilwa
+
+# Settlements
+max_settlements = 7
+b_kilwa_kisiwani = castle
+b_sanje = city
+b_magoma = temple
+#b_kilwa_kivinje = 
+#b_kizimbani = 
+#b_kiwawa = 
+#b_mitole = 
+#b_kikundi = 
+
+# Misc
+culture = wangozi
+religion = east_bantu_mythology
+
+# History
+
+1100.1.1 = {
+	religion = sunni
+}
+1170.1.1 = {
+	b_kilwa_kivinje = city
+	b_kizimbani = castle
+	b_kiwawa = city
+	culture = swahili
+}

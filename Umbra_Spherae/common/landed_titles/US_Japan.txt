@@ -1,0 +1,1255 @@
+e_japan = {
+
+	color={ 201 23 30 }
+	color2={ 255 255 255 }
+	
+	capital = 1590 # Yamashiro (Kyoto)
+	
+	male_names = {
+		Nijo Sanjo Gojo Rokujo Shichijo Hachijo Shirakawa Horikawa Toba Konoe
+		Takakura Tsuchimikado Chukyo Kameyama Fushimi Hanazono Chokei
+		Kogon Komyo Sukou Iwakura Takano Karasuma Kamo Imadegawa Ohara
+		Yase Kurama Kitano Shoko Ogimachi
+		Muromachi Murasakino Sakuragi Omiya Kiyomizu Uzumasa Mimuro Tokiwa
+		Narutaki Umezu Fujimori Kuga Momoyama Kinugasa Kyojin
+	}
+
+	female_names = {
+		Nijo Sanjo Gojo Rokujo Shichijo Hachijo Shirakawa Horikawa Toba Konoe
+		Takakura Tsuchimikado Chukyo Kameyama Fushimi Hanazono Chokei
+		Kogon Komyo Sukou Iwakura Takano Karasuma Kamo Imadegawa Ohara
+		Yase Kurama Kitano Shoko Ogimachi
+		Muromachi Murasakino Sakuragi Omiya Kiyomizu Uzumasa Mimuro Tokiwa
+		Narutaki Umezu Fujimori Kuga Momoyama Kinugasa Kyojin
+	}
+
+	k_japan = {
+
+		color={ 225 152 180 }
+		color2={ 255 255 255 }
+		
+		capital = 1590 # Yamashiro (Kyoto)
+		
+        	d_kanto = {
+
+			color={ 225 132 180 }
+			color2={ 255 255 255 }
+
+			capital = 2444 # Sagami
+
+            		c_sagami = { # capital of this duchy
+
+				color={ 225 132 200 }
+				color2={ 255 255 255 }
+
+                		b_kamakura = {
+                		}
+                		b_ashigara = {
+                		}
+               			b_aiko = {
+              		 	}
+                		b_matsuzaki = {
+                		}
+                		b_oba = {
+                		}
+                		b_kinugasa = {
+                		}
+                		b_izu = {
+                		}
+				b_hatano = {
+				}
+            		}
+            		c_musashi = {
+
+				color={ 205 132 180 }
+				color2={ 255 255 255 }
+
+                		b_tama = {
+                		}
+                		b_kawagoe = {
+                		}
+                		b_adachi = {
+                		}
+                		b_saitama = {
+                		}
+                		b_chichibu = {
+                		}
+                		b_toshima = {
+                		}
+                		b_kodama = {
+                		}
+                		b_hiki = {
+                		}
+            		}
+            		c_kazusa = {
+
+				color={ 225 132 160 }
+				color2={ 255 255 255 }
+
+                		b_chiba = {
+                		}
+                		b_katori = { # temple
+                		}
+                		b_soma = {
+                		}
+                		b_sosa = {
+                		}
+                		b_yuki = {
+                		}
+                		b_nagasa = {
+                		}
+                		b_unakami = {
+                		}
+                		b_nagara = {
+                		}
+            		}
+            		c_kozuke = {
+
+				color={ 215 142 180 }
+				color2={ 255 255 255 }
+
+                		b_gunma = {
+                		}
+                		b_tsuga = {
+                		}
+                		b_nitta = {
+                		}
+                		b_ashikaga = {
+                		}
+                		b_utsunomiya = {
+                		}
+                		b_nasu = {
+                		}
+                		b_usui = {
+                		}
+                		b_oyama = {
+                		}
+            		}
+            		c_hitachi = {
+
+				color={ 225 142 170 }
+				color2={ 255 255 255 }
+
+                		b_ibaraki = {
+                		}
+                		b_tsukuba = {
+                		}
+                		b_kashima = { # temple
+                		}
+                		b_makabe = {
+                		}
+                		b_take = {
+                		}
+                		b_baba = {
+                		}
+                		b_shida = {
+                		}
+                		b_niihari = {
+                		}
+            		}
+            		c_kai = {
+
+				color={ 215 132 190 }
+				color2={ 255 255 255 }
+
+                		b_kofu = {
+                		}
+                		b_ishiwa = {
+                		}
+                		b_tsuru = {
+                		}
+                		b_yatsushiro = {
+                		}
+                		b_koma = {
+                		}
+                		b_yamanashi = {
+                		}
+                		b_minobu = {
+                		}
+				b_gunnai = {
+				}
+            		}
+        	}
+        	d_hokuriku = {
+
+			color={ 225 152 160 }
+			color2={ 255 255 255 }
+
+			capital = 1586 # Echizen
+
+            		c_echizen = { # capital of this duchy
+
+				color={ 215 162 160 }
+				color2={ 255 255 255 }
+
+                		b_imatachi = {
+                		}
+                		b_tsuruga = { # city
+                		}
+                		b_kehi = { # temple
+                		}
+                		b_ono = {
+                		}
+                		b_niu = {
+                		}
+                		b_asuwa = {
+                		}
+                		b_katsuyama = { # temple
+                		}
+                		b_oi = {
+                		}
+            		}
+            		c_echigo = {
+
+				color={ 245 152 160 }
+				color2={ 255 255 255 }
+
+                		b_kubiki = {
+                		}
+                		b_naoetsu = { # city
+                		}
+                		b_oguni = {
+                		}
+                		b_uonuma = {
+                		}
+                		b_sado = {
+                		}
+                		b_kanbara = {
+                		}
+               			b_iwafune = {
+                		}
+                		b_koshi = {
+                		}
+            		}
+            		c_etchu = {
+
+				color={ 225 172 160 }
+				color2={ 255 255 255 }
+
+                		b_fushiki = {
+                		}
+                		b_tateyama = { # temple
+                		}
+                		b_hannyano = {
+                		}
+                		b_niikawa = {
+                		}
+                		b_imizu = {
+                		}
+                		b_nei = {
+                		}
+                		b_tonami = {
+                		}
+				b_hojozu = {
+				}
+            		}
+            		c_kaga = {
+
+				color={ 225 152 140 }
+				color2={ 255 255 255 }
+
+                		b_kaga = {
+                		}
+                		b_wajima = { # city
+                		}
+                		b_hakusan = { # temple
+                		}
+                		b_nanao = {
+                		}
+                		b_yokoe = {
+                		}
+                		b_suzu = {
+                		}
+                		b_ishikawa = {
+                		}
+                		b_komatsu = {
+                		}
+            		}
+        	}
+        	d_tokai = {
+
+			color={ 205 132 190 }
+			color2={ 255 255 255 }
+
+			capital = 1582 # Owari
+		
+            		c_suruga = {
+
+				color={ 205 132 190 }
+				color2={ 255 255 255 }
+				
+					holy_site = nihon_shinto
+
+                		b_abe = {
+                		}
+                		b_fuji = { # temple
+                		}
+                		b_iwata = {
+                		}
+                		b_mashizu = {
+                		}
+                		b_fuchi = {
+                		}
+                		b_suruga = {
+                		}
+                		b_kiko = {
+                		}
+                		b_ihara = {
+                		}
+            		}
+            		c_owari = { # capital of this duchy
+
+				color={ 215 122 190 }
+				color2={ 255 255 255 }
+
+                		b_kasugabe = {
+                		}
+                		b_atsuta = { # temple
+                		}
+                		b_nukata = {
+                		}
+                		b_aichi = {
+                		}
+                		b_niwa = {
+                		}
+                		b_kaibe = {
+                		}
+                		b_chita = {
+                		}
+                		b_atsumi = {
+               			}
+            		}
+            		c_ise = {
+
+				color={ 215 132 200 }
+				color2={ 255 255 255 }
+				
+					holy_site = nihon_shinto
+					holy_site = ryukyu_shinto
+
+                		b_suzuka = {
+                		}
+                		b_ise = { # temple
+                		}
+                		b_watarai = {
+                		}
+                		b_shima = {
+                		}
+                		b_mie = {
+                		}
+                		b_kuwana = {
+                		}
+                		b_ichishi = {
+                		}
+                		b_inabe = {
+                		}
+            		}
+            		c_mino = {
+
+				color={ 195 132 180 }
+				color2={ 255 255 255 }
+
+                		b_fuwa_japan = {
+                		}
+                		b_kagami = {
+                		}
+                		b_hida = {
+                		}
+                		b_kani = {
+                		}
+                		b_ahachi = {
+                		}
+                		b_ishizu = {
+                		}
+                		b_ikeda = {
+                		}
+				b_ena = {
+				}
+            		}
+            		c_shinano = {
+
+				color={ 205 112 190 }
+				color2={ 255 255 255 }
+
+                		b_tsukama = {
+                		}
+                		b_minuchi = {
+                		}
+                		b_suwa = { # temple
+                		}
+                		b_kiso = {
+                		}
+                		b_saku = {
+                		}
+                		b_chiisagata = {
+                		}
+                		b_hanishina = {
+                		}
+                		b_azumi = {
+                		}
+            		}
+        	}
+        	d_kinai = { # capital of this kingdom
+
+			color={ 225 202 180 }
+			color2={ 255 255 255 }
+
+			capital = 1590 # Yamashiro (Kyoto)
+
+            		c_yamashiro = { # capital of this duchy
+
+				color={ 245 202 180 }
+				color2={ 255 255 255 }
+				
+					holy_site = nihon_shinto
+
+                		b_dairi = {
+                		}
+                		b_heiankyo = { # city
+                		}
+                		b_gion = { # temple
+                		}
+                		b_toba = {
+                		}
+                		b_fushimi = {
+                		}
+                		b_uji = {
+                		}
+                		b_rokuhara = {
+                		}
+				b_muromachi = {
+				}
+            		}
+            		c_omi = {
+
+				color={ 225 232 180 }
+				color2={ 255 255 255 }
+
+                		b_otsu = {
+                		}
+                		b_enryakuji = { # temple
+                		}
+                		b_onjoji = { # temple
+                		}
+                		b_gamo = {
+                		}
+                		b_azai = {
+                		}
+                		b_koga = {
+                		}
+                		b_sakata = {
+                		}
+                		b_shiga = {
+                		}
+            		}
+            		c_settsu = {
+
+				color={ 225 212 170 }
+				color2={ 255 255 255 }
+
+                		b_naniwa = {
+               			}
+                		b_sumiyoshi = { # temple
+                		}
+                		b_izumi = {
+                		}
+                		b_shiki = {
+                		}
+                		b_kawabe = {
+                		}
+                		b_owada = {
+                		}
+                		b_sakai = {
+                		}
+				b_arima = {
+				}
+            		}
+            		c_yamato = {
+
+				color={ 235 202 190 }
+				color2={ 255 255 255 }
+				
+					holy_site = nihon_shinto
+
+                		b_kofukuji = { # temple
+                		}
+                		b_todaiji = { # temple
+                		}
+                		b_katsuragi = {
+                		}
+                		b_yoshino = {
+                		}
+                		b_toichi = {
+                		}
+                		b_takaichi = {
+                		}
+                		b_uda_yamato = {
+                		}
+                		b_yamabe = {
+                		}
+            		}
+            		c_kii = {
+
+				color={ 215 212 180 }
+				color2={ 255 255 255 }
+
+                		b_nagusa = {
+                		}
+                		b_kongobuji = { # temple
+                		}
+                		b_kumano = { # temple
+                		}
+                		b_yuasa = {
+                		}
+                		b_tanabe = {
+                		}
+                		b_naga_kii = {
+                		}
+                		b_muro = {
+                		}
+                		b_ito = {
+                		}
+            		}
+            		c_tango = {
+
+				color={ 225 192 190 }
+				color2={ 255 255 255 }
+
+                		b_kasa = {
+                		}
+                		b_kuwada = {
+                		}
+                		b_funai = {
+                		}
+                		b_yosa = {
+                		}
+                		b_ikaruga = {
+                		}
+                		b_hikami = {
+                		}
+                		b_amata = {
+                		}
+                		b_tanabe_tango = {
+                		}
+            		}
+        	}
+        	d_sanyo = {
+
+			color={ 225 152 130 }
+			color2={ 255 255 255 }
+
+			capital = 2423 # Bingo
+
+            		c_bingo = { # capital of this duchy
+
+				color={ 225 132 130 }
+				color2={ 255 255 255 }
+
+                		b_ashida = {
+                		}
+                		b_kaya = {
+                		}
+                		b_onomichi = { # city
+                		}
+                		b_tomonoura = { # city
+                		}
+                		b_kameshi = {
+                		}
+                		b_tetta = {
+                		}
+                		b_yasuna = {
+                		}
+                		b_mitsuki = {
+                		}
+            		}
+            		c_harima = {
+
+				color={ 215 142 120 }
+				color2={ 255 255 255 }
+
+                		b_shikama = {
+                		}
+                		b_tomata = {
+                		}
+                		b_ibo = {
+                		}
+                		b_akashi = {
+                		}
+                		b_ako = {
+                		}
+                		b_aita = {
+                		}
+                		b_kojima = {
+                		}
+                		b_akasaka = {
+                		}
+            		}
+            		c_aki = {
+
+				color={ 235 112 130 }
+				color2={ 255 255 255 }
+
+                		b_aki = {
+                		}
+                		b_itsukushima = { # temple
+                		}
+                		b_nuta = {
+                		}
+                		b_saeki = {
+                		}
+                		b_yamagata = {
+                		}
+                		b_toyota = {
+                		}
+                		b_takamiya = {
+                		}
+                		b_kamo = {
+                		}
+            		}
+            		c_nagato = {
+
+				color={ 225 142 140 }
+				color2={ 255 255 255 }
+
+                		b_toyoura = {
+                		}
+                		b_saba = {
+                		}
+                		b_kumage = {
+                		}
+                		b_asa = {
+                		}
+                		b_yoshiki = {
+                		}
+                		b_abu_nagato = {
+                		}
+                		b_yamaguchi = {
+                		}
+                		b_tsuno = {
+                		}
+            		}
+        	}
+		d_sanin = {
+
+			color={ 245 152 150 }
+			color2={ 255 255 255 }
+
+			capital = 2422 # Izumo
+
+            		c_izumo = {
+
+				color={ 245 122 150 }
+				color2={ 255 255 255 }
+				
+					holy_site = nihon_shinto
+					holy_site = ryukyu_shinto
+
+                		b_ou = {
+                		}
+                		b_izumo = { #temple
+                		}
+                		b_kume = {
+                		}
+                		b_iishi = {
+                		}
+                		b_aimi = {
+                		}
+                		b_aika = {
+                		}
+                		b_oki = {
+                		}
+                		b_kando = {
+               			}
+            		}
+			c_tajima = {
+
+				color={ 235 152 160 }
+				color2={ 255 255 255 }
+
+                		b_keta = {
+                		}
+                		b_homi = {
+                		}
+                		b_tottori = {
+                		}
+                		b_yafu = {
+                		}
+                		b_takakusa = {
+                		}
+                		b_izushi = {
+                		}
+                		b_asago = {
+                		}
+                		b_futakata = {
+                		}
+            		}
+            		c_iwami = {
+
+				color={ 245 127 155 }
+				color2={ 255 255 255 }
+
+                		b_naka = {
+                		}
+                		b_kanoashi = {
+                		}
+                		b_mino = {
+                		}
+                		b_oochi = {
+                		}
+                		b_nima = {
+                		}
+                		b_masuda = {
+                		}
+                		b_tsuwano = {
+                		}
+                		b_hamada = {
+                		}
+            		}
+		}
+        	d_shikoku = {
+
+			color={ 225 192 170 }
+			color2={ 255 255 255 }
+
+			capital = 2429 # Iyo
+
+            		c_awa = {
+
+				color={ 235 172 170 }
+				color2={ 255 255 255 }
+
+                		b_nakata = {
+                		}
+                		b_ano = {
+                		}
+                		b_kagawa = {
+                		}
+                		b_awaji = {
+                		}
+                		b_shozu = {
+                		}
+                		b_miyoshi = {
+                		}
+                		b_tado = {
+                		}
+                		b_katsuura = {
+                		}
+            		}
+            		c_tosa = {
+
+				color={ 235 192 150 }
+				color2={ 255 255 255 }
+
+                		b_nagaoka = {
+                		}
+                		b_tosa = {
+                		}
+                		b_takaoka = {
+                		}
+                		b_hata = {
+                		}
+                		b_kami = {
+                		}
+                		b_agawa = {
+                		}
+                		b_okou = {
+                		}
+                		b_nakamura = {
+                		}
+            		}
+            		c_iyo = { # capital of this duchy
+
+				color={ 205 192 170 }
+				color2={ 255 255 255 }
+
+                		b_ochi = {
+                		}
+                		b_noma = {
+                		}
+                		b_iyo = {
+                		}
+                		b_nii = {
+                		}
+                		b_uma = {
+                		}
+                		b_kazahaya = {
+                		}
+                		b_onsen = {
+                		}
+                		b_uwa = {
+                		}
+            		}
+        	}
+        	d_kyushu = {
+
+			color={ 225 102 180 }
+			color2={ 255 255 255 }
+
+			capital = 2431 #Chikuzen
+			
+            		c_chikuzen = { # capital of this duchy
+
+				color={ 235 102 190 }
+				color2={ 255 255 255 }
+
+                		b_dazaifu = {
+                		}
+                		b_hakata = { # city
+                		}
+                		b_munakata = { # temple
+                		}
+                		b_mikasa = {
+                		}
+                		b_honami = {
+                		}
+                		b_yasu = {
+                		}
+                		b_sawara = {
+                		}
+                		b_onga = {
+                		}
+            		}
+            		c_bungo = {
+
+				color={ 225 112 190 }
+				color2={ 255 255 255 }
+
+                		b_oita = {
+                		}
+                		b_nakatsu = {
+                		}
+                		b_usa = { # temple
+                		}
+                		b_hayami = {
+                		}
+                		b_kunisaki = {
+                		}
+                		b_amabe = {
+                		}
+                		b_moji = {
+                		}
+               			b_hita = {
+                		}
+            		}
+            		c_hizen = {
+
+				color={ 225 82 180 }
+				color2={ 255 255 255 }
+
+                		b_saga = {
+                		}
+                		b_mii = {
+                		}
+                		b_tsushima = {
+               			}
+                		b_matsura = {
+                		}
+                		b_goto = {
+                		}
+                		b_sonoki = {
+                		}
+                		b_mihara = {
+                		}
+                		b_kishima = {
+                		}
+            		}
+            		c_higo = {
+
+				color={ 245 102 180 }
+				color2={ 255 255 255 }
+				
+					holy_site = ryukyu_shinto
+
+                		b_mashiki = {
+                		}
+                		b_aso = { # temple
+                		}
+                		b_kikuchi = {
+                		}
+                		b_udo = {
+                		}
+                		b_takuma = {
+                		}
+                		b_amakusa = {
+                		}
+                		b_yatsushiro_higo = {
+                		}
+                		b_yamamoto = {
+                		}
+            		}
+            		c_satsuma = {
+
+				color={ 225 82 180 }
+				color2={ 255 255 255 }
+
+                		b_satsuma = {
+                		}
+                		b_kuwabara = {
+                		}
+                		b_bonotsu = { # city
+                		}
+                		b_kagoshima = {
+                		}
+                		b_ei = {
+                		}
+                		b_kimotsuki = {
+                		}
+                		b_tanegashima = {
+                		}
+                		b_ata = {
+                		}
+            		}
+            		c_hyuga = {
+
+				color={ 225 102 200 }
+				color2={ 255 255 255 }
+
+                		b_koyu = {
+                		}
+                		b_usuki = {
+                		}
+                		b_shimazu = {
+                		}
+                		b_miyazaki = {
+                		}
+                		b_morokata = {
+                		}
+                		b_nobeoka = {
+                		}
+                		b_obi = {
+                		}
+                		b_takanabe = {
+                		}
+            		}
+					c_tsushima = {
+					
+					korean = "Daemado"
+
+					color={ 164 229 213 }
+					color2={ 255 255 255 }
+
+						b_kaneda = {
+						}
+					}
+        	}
+	}
+	k_ainumosir = {
+
+	capital = 1597 # Oshima
+	
+	culture = ainu
+	
+	color={ 49 103 69 }
+	color2={ 255 255 255 }
+	
+	        d_tohoku = {
+				
+				ainu = Emishi
+
+			color={ 205 152 180 }
+			color2={ 255 255 255 }
+
+			capital = 2436 # Mutsu
+
+			c_mutsu = { # capital of this duchy
+
+				color={ 205 132 180 }
+				color2={ 255 255 255 }
+				
+				holy_site = ainu_pantheism
+				holy_site = ainu_pantheism_reformed
+
+                		b_hiraizumi = {
+                		}
+                		b_tosaminato = { # city
+                		}
+                		b_hei = {
+                		}
+                		b_iwate = {
+                		}
+                		b_tsugaru = {
+                		}
+                		b_kita = {
+                		}
+                		b_sannohe = {
+                		}
+				b_waga = {
+				}
+			}
+            		c_rikuzen = {
+
+				color={ 205 152 160 }
+				color2={ 255 255 255 }
+
+                		b_taga = {
+                		}
+                		b_kesen = {
+                		}
+                		b_shirakawa = {
+                		}
+                		b_iwaki = {
+                		}
+                		b_aizu = {
+                		}
+                		b_date = {
+               			}
+                		b_kurokawa = {
+                		}
+				b_inawashiro = {
+				}
+           		}
+            		c_dewa = {
+
+				color={ 205 152 200 }
+				color2={ 255 255 255 }
+
+                		b_akita = {
+                		}
+                		b_dewa = { # temple
+                		}
+                		b_kagae = {
+                		}
+                		b_yuri = {
+                		}
+                		b_daihoji = {
+                		}
+               			b_mogami = {
+                		}
+                		b_senboku = {
+                		}
+				b_hiraka = {
+				}
+            		}
+        	}
+
+        d_hokkaido = { # capital of this kingdom
+
+		capital = 1597 # Oshima
+		
+		ainu = Kai
+		japanese = Ezo
+	
+		color={ 49 153 69 }
+		color2={ 255 255 255 }
+
+            	c_oshima = { # capital of this duchy
+
+			color={ 59 153 79 }
+			color2={ 255 255 255 }
+			
+				holy_site = ainu_pantheism
+				holy_site = ainu_pantheism_reformed
+
+                	b_oshima = {
+                	}
+                	b_hiyama = {
+                	}
+                	b_iburi = {
+                	}
+                	b_tokapuchi = {
+                	}
+                	b_hidaka = {
+                	}
+                	b_shiribeshi = {
+                	}
+                	b_tomakomanay = {
+                	}
+                	b_nupurpet = {
+                	}
+            	}
+            	c_ishikari = {
+
+			color={ 39 163 69 }
+			color2={ 255 255 255 }
+			
+				holy_site = ainu_pantheism
+				holy_site = ainu_pantheism_reformed
+
+                	b_ishikari = {
+                	}
+                	b_teshiho = {
+                	}
+                	b_satporo = {
+                	}
+                	b_rurumoppe = {
+                	}
+                	b_chiupet = {
+                	}
+                	b_furanui = {
+                	}
+                	b_mashike = {
+                	}
+                	b_tomai = {
+                	}
+            	}
+            	c_kusuri = {
+
+			color={ 59 153 59 }
+			color2={ 255 255 255 }
+			
+				holy_site = ainu_pantheism
+				holy_site = ainu_pantheism_reformed
+
+                	b_kusuri = {
+                	}
+                	b_nemuro = {
+                	}
+                	b_soya = {
+                	}
+                	b_shari = {
+                	}
+                	b_riishiri = {
+                	}
+                	b_monbetsu = {
+                	}
+                	b_abashiri = {
+                	}
+                	b_wakkanai = {
+                	}
+            	}
+        }
+        d_sakhalin = {
+
+		color={ 49 103 19 }
+		color2={ 255 255 255 }
+	
+		capital = 1596 # Karput
+
+            	c_karput = { # capital of this duchy
+
+			color={ 59 103 29 }
+			color2={ 255 255 255 }
+			
+					holy_site = ainu_pantheism
+					holy_site = ainu_pantheism_reformed
+
+                	b_tomari = {
+                	}
+                	b_sistukari = {
+                	}
+                	b_yuzhnosakhalinsk = {
+                	}
+                	b_nevelsk = {
+                	}
+			b_kholmsk = {
+                	}
+			b_uglegorsk = {
+                	}
+			b_makarovsk = {
+                	}
+			b_smirnik = {
+                	}
+            	}
+            	c_kuye = {
+
+			color={ 49 123 19 }
+			color2={ 255 255 255 }
+
+                	b_sakhalin = {
+                	}
+                	b_oha = {
+                	}
+                	b_kuye = {
+                	}
+                	b_aniva = {
+                	}
+                	b_nogliki = {
+                	}
+                	b_poronay = {
+                	}
+                	b_shakhtyorsk  = {
+                	}
+                	b_tymovskoye = {
+                	}
+            	}
+        }
+}
+k_ryukyu = {
+
+	color={ 90 121 186 }
+	color2={ 255 255 255 }
+	
+	culture = ryukyuan
+	
+	capital = 1601 # Ryukyu
+
+        d_ryukyu = { # capital of this kingdom
+
+		color={ 40 121 186 }
+		color2={ 255 255 255 }
+	
+		capital = 1601 # Ryukyu
+
+            	c_ryukyu = { # capital of this duchy
+
+			color={ 30 111 176 }
+			color2={ 255 255 255 }
+			
+				holy_site = ryukyu_shinto
+
+               		b_shuri = {
+                	}
+                	b_naha_ryukyu = { # city
+                	}
+                	b_goeku = {
+                	}
+                	b_kunigami = {
+                	}
+                	b_nakagami = {
+                	}
+                	b_shimajiri = {
+                	}
+                	b_minna = {
+                	}
+                	b_ikei = {
+                	}
+            	}
+            	c_amami = {
+
+			color={ 50 131 196 }
+			color2={ 255 255 255 }
+			
+				holy_site = ryukyu_shinto
+
+                	b_amami = {
+                	}
+                	b_kikai = {
+                	}
+                	b_tokunoshima = {
+                	}
+                	b_yoro = {
+                	}
+                	b_uke = {
+                	}
+                	b_okinoerabu = {
+                	}
+                	b_kakeroma = {
+                	}
+                	b_eniya = {
+                	}
+            	}
+            	c_sakishima = {
+
+			color={ 50 111 176 }
+			color2={ 255 255 255 }
+
+                	b_ishigaki = {
+                	}
+                	b_yonaguni = {
+                	}
+                	b_irabu = {
+                	}
+                	b_miyako = {
+                	}
+                	b_yaeyama = {
+                	}
+                	b_ikema = {
+                	}
+                	b_tarama = {
+                	}
+                	b_iriomote = {
+                	}
+            	}
+        }
+}
+}

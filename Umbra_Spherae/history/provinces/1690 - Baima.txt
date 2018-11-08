@@ -1,0 +1,20 @@
+# 1750 - Baima
+
+# County Title
+title = c_baima
+
+# Settlements
+max_settlements = 3
+b_baima = castle
+#b_goincang = temple
+#b_zhingda = castle
+b_kharnang = temple
+#b_jigzhi = castle
+#b_darlag = castle
+#b_gade = castle
+
+# Misc
+culture = qiang
+religion = rmagao
+
+# History

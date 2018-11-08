@@ -1,0 +1,22 @@
+# 1837 - Sagami
+
+# County Title
+title = c_sagami
+
+# Settlements
+max_settlements = 5
+b_kamakura = castle
+b_ashigara = castle
+b_aiko = castle
+
+#b_matsuzaki = castle
+#b_oba = castle
+#b_kinugasa = castle
+#b_izu = castle
+#b_hatano = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

@@ -1,0 +1,23 @@
+# 1468 - Gyo
+
+# County Title
+title = c_gyo
+
+# Settlements
+max_settlements = 5
+b_sean = castle
+b_lyungju = city
+b_khaihruah = city
+b_zjangsren = city
+#b_krungsren =
+#b_lexghen = 
+
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

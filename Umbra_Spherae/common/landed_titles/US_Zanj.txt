@@ -1,0 +1,779 @@
+e_zanj = {
+
+	color = { 228 172 33 }
+	color2 = { 250 250 250 }
+
+	capital = 1938 #Kilwa
+
+	
+		k_swahili = {
+
+		color = { 0 106 0 }
+		color2 = { 250 250 250 }
+
+		capital = 1938 #Kilwa
+
+		d_kilwa = {
+
+			color = { 126 118 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1938 #Kilwa
+
+			c_kilwa = {
+
+				color = { 126 128 10 }
+				color2 = { 250 250 250 }
+
+				holy_site=south_bantu_mythology
+				holy_site=south_bantu_mythology_reformed
+				holy_site=east_bantu_mythology
+				holy_site=east_bantu_mythology_reformed
+				holy_site=omotic_pagan
+				holy_site=omotic_pagan_reformed
+				holy_site=cushitic_pagan
+				holy_site=cushitic_pagan_reformed
+				holy_site=nilotic_pagan
+				holy_site=nilotic_pagan_reformed
+				holy_site=malagasy_religion
+				holy_site=malagasy_religion_reformed
+
+				b_kilwa_kisiwani = {
+				}
+				b_sanje = {
+				}
+				b_magoma = {
+				}
+				b_kilwa_kivinje = {
+				}
+				b_kizimbani = {
+				}
+				b_kiwawa = {
+				}
+				b_mitole = {
+				}
+				b_kikundi = {
+				}
+			}
+			c_mafia = {
+
+				color = { 126 128 20 }
+				color2 = { 250 250 250 }
+
+				b_kisimani_mafia = {
+				}
+				b_kwa = {
+				}
+				b_bweni = {
+				}
+				b_kikale = {
+				}
+				b_ikwiriri = {
+				}
+				b_nyamwage = {
+				}
+				b_kibiti = {
+				}
+				b_mchukwi = {
+				}
+			}
+			c_mozambique = {
+
+				color = { 126 128 20 }
+				color2 = { 250 250 250 }
+
+				b_mozambique = {
+				}
+				b_lumbo = {
+				}
+				b_mossuril = {
+				}
+				b_monapo = {
+				}
+				b_carapira = {
+				}
+				b_nacala = {
+				}
+				b_itoculo = {
+				}
+				b_memba = {
+				}
+			}
+		}
+		d_manda = {
+
+			color = { 81 211 114 }
+			color2 = { 250 250 250 }
+
+			capital = 1937 #Manda
+
+			c_manda = {
+
+				color = { 81 221 124 }
+				color2 = { 250 250 250 }
+
+				b_manda_manda = {
+				}
+				b_lamu = {
+				}
+				b_kililana = {
+				}
+				b_mokowe = {
+				}
+				b_jipe = {
+				}
+				b_hidio = {
+				}
+				b_shela = {
+				}
+				b_matondoni = {
+				}
+			}
+			c_pate = {
+
+				color = { 81 221 134 }
+				color2 = { 250 250 250 }
+
+				b_pate = {
+				}
+				b_faza = {
+				}
+				b_siyu = {
+				}
+				b_kiwayu = {
+				}
+				b_kizingitini = {
+				}
+				b_kiangwe = {
+				}
+				b_dodori = {
+				}
+				b_ankish = {
+				}
+			}
+		}
+		d_gedi = {
+
+			color = { 178 211 114 }
+			color2 = { 250 250 250 }
+
+			capital = 1939 #Gedi
+
+			c_gedi = {
+
+				color = { 178 221 124 }
+				color2 = { 250 250 250 }
+
+				b_gedi = {
+				}
+				b_kilifi = {
+				}
+				b_watamu = {
+				}
+				b_uyombo = {
+				}
+				b_matsangoni = {
+				}
+				b_sokoke = {
+				}
+				b_jaribuni = {
+				}
+				b_takaungu = {
+				}
+			}
+			c_malindi = {
+
+				color = { 178 221 134 }
+				color2 = { 250 250 250 }
+				
+				b_malindi = {
+				}
+				b_arabuko = {
+				}
+				b_dagamra = {
+				}
+				b_mambrui = {
+				}
+				b_gongoni = {
+				}
+				b_magarini = {
+				}
+				b_marafa = {
+				}
+				b_kakoneni = {
+				}
+			}
+			c_mombasa = {
+
+				color = { 178 221 144 }
+				color2 = { 250 250 250 }
+				
+				b_mombasa = {
+				}
+				b_mtwapa = {
+				}
+				b_mazeras = {
+				}
+				b_bomani = {
+				}
+				b_waa = {
+				}
+				b_tiwi = {
+				}
+				b_mienzeni = {
+				}
+				b_mariakani = {
+				}
+			}
+		}
+		d_unguja = {
+
+			color = { 240 240 89 }
+			color2 = { 250 250 250 }
+
+			capital = 1934 #Unguja
+
+			c_unguja = {
+
+				color = { 240 250 99 }
+				color2 = { 250 250 250 }
+
+				b_unguja = {
+				}
+				b_kizimkazi = {
+				}
+				b_tampatu = {
+				}
+				b_nungwi = {
+				}
+				b_uroa = {
+				}
+				b_pingwe = {
+				}
+				b_jambiani = {
+				}
+				b_fumba = {
+				}
+			}
+			c_pemba = {
+
+				color = { 240 250 109 }
+				color2 = { 250 250 250 }
+
+				b_pemba = {
+				}
+				b_matumbini = {
+				}
+				b_mtangani = {
+				}
+				b_kiuyu = {
+				}
+				b_kojana = {
+				}
+				b_mkanjuni = {
+				}
+				b_panza = {
+				}
+				b_mkoani = {
+				}
+			}
+			c_pangani = {
+
+				color = { 240 250 119 }
+				color2 = { 250 250 250 }
+
+				b_pangani = {
+				}
+				b_kaple = {
+				}
+				b_tanga = {
+				}
+				b_bagamoyo = {
+				}
+				b_mkwaja = {
+				}
+				b_saadani = {
+				}
+				b_mvomero = {
+				}
+				b_yambe = {
+				}
+			}
+		}
+		d_sofala = {
+
+			color = { 253 241 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1947 #Sofala
+
+			c_sofala = {
+
+				color = { 253 250 10 }
+				color2 = { 250 250 250 }
+
+				b_sofala = {
+				}
+				b_dondo = {
+				}
+				b_mafambisse = {
+				}
+				b_muanza = {
+				}
+				b_tica = {
+				}
+				b_chitengo = {
+				}
+				b_componi = {
+				}
+				b_inchope = {
+				}
+			}
+			c_quelimane = {
+
+				color = { 253 250 20 }
+				color2 = { 250 250 250 }
+
+				b_quelimane = {
+				}
+				b_macuze = {
+				}
+				b_namacurra = {
+				}
+				b_chinde = {
+				}
+				b_luabo = {
+				}
+				b_marromeu = {
+				}
+				b_capenga = {
+				}
+				b_chupanga = {
+				}
+			}
+			c_angoche = {
+
+				color = { 253 250 30 }
+				color2 = { 250 250 250 }
+
+				b_angoche = {
+				}
+				b_marue = {
+				}
+				b_quinga = {
+				}
+				b_liupo = {
+				}
+				b_nametil = {
+				}
+				b_corrane = {
+				}
+				b_mogincual = {
+				}
+				b_iuluti = {
+				}
+			}
+		}
+		d_qumur = {
+
+			color = { 216 253 170 }
+			color2 = { 250 250 250 }
+
+			capital = 1943 #Nzwani
+
+			c_nzwani = {
+
+				color = { 226 253 180 }
+				color2 = { 250 250 250 }
+
+				b_mutsamudu = {
+				}
+				b_mirontsi = {
+				}
+				b_bambao_mtrouni = {
+				}
+				b_domoni = {
+				}
+				b_bimbini = {
+				}
+				b_sima = {
+				}
+				b_ouani = {
+				}
+				b_koni_djodjo = {
+				}
+			}
+			c_maore = {
+
+				color = { 226 253 190 }
+				color2 = { 250 250 250 }
+
+				b_mamudzu = {
+				}
+				b_mtsahara = {
+				}
+				b_chirongui = {
+				}
+				b_iloni = {
+				}
+				b_pamandzi = {
+				}
+				b_metesangamuji = {
+				}
+				b_bandraboua = {
+				}
+				b_chiconi = {
+				}
+			}
+			c_mwali = {
+
+				color = { 226 253 200 }
+				color2 = { 250 250 250 }
+
+				b_fomboni = {
+				}
+				b_djolezi = {
+				}
+				b_wanani = {
+				}
+				b_kangani = {
+				}
+				b_itsamia = {
+				}
+				b_miringoni = {
+				}
+				b_nioumachoua = {
+				}
+				b_mirereni = {
+				}
+			}
+			c_ngazija = {
+
+				color = { 226 253 210 }
+				color2 = { 250 250 250 }
+
+				b_bambao = {
+				}
+				b_moroni = {
+				}
+				b_itsandra = {
+				}
+				b_iconi = {
+				}
+				b_mitsamihuli = {
+				}
+				b_washili = {
+				}
+				b_bajini = {
+				}
+				b_hambuu = {
+				}
+			}
+		}
+	}
+	
+	k_madagascar = {
+
+		color = { 248 187 86 }
+		color2 = { 250 250 250 }
+
+		capital = 2415 #Antananarivo
+
+		d_merina = {
+
+			color = { 255 137 86 }
+			color2 = { 250 250 250 }
+
+			capital = 2415 #Antananarivo
+
+			c_antananarivo = {
+
+				color = { 255 147 96 }
+				color2 = { 250 250 250 }
+
+				holy_site=south_bantu_mythology
+				holy_site=south_bantu_mythology_reformed
+				holy_site=east_bantu_mythology
+				holy_site=east_bantu_mythology_reformed
+				holy_site=omotic_pagan
+				holy_site=omotic_pagan_reformed
+				holy_site=cushitic_pagan
+				holy_site=cushitic_pagan_reformed
+				holy_site=nilotic_pagan
+				holy_site=nilotic_pagan_reformed
+				holy_site=malagasy_religion
+				holy_site=malagasy_religion_reformed
+
+				b_ampasambazimba = {
+				}
+				b_antananarivo = {
+				}
+				b_sakay = {
+				}
+				b_ambatolampy = {
+				}
+				b_tsiroanomandidy = {
+				}
+				b_fiadanana = {
+				}
+				b_ambohimena = {
+				}
+				b_manakana = {
+				}
+			}
+			c_fianarantsoa = {
+
+				color = { 255 147 106 }
+				color2 = { 250 250 250 }
+
+				b_fianarantsoa = {
+				}
+				b_ranohira = {
+				}
+				b_menamaty_iloro = {
+				}
+				b_ambatomainty = {
+				}
+				b_mandronarivo = {
+				}
+				b_amborompotsy = {
+				}
+				b_malaimbandy = {
+				}
+				b_antsirabe = {
+				}
+			}
+		}
+		d_sakalava = {
+
+			color = { 255 233 86 }
+			color2 = { 250 250 250 }
+
+			capital = 2414 #Boina
+
+			c_boina = {
+
+				color = { 255 243 96 }
+				color2 = { 250 250 250 }
+
+				b_mahajunga = {
+				}
+				b_boina = {
+				}
+				b_bali = {
+				}
+				b_nosy_mania = {
+				}
+				b_analalava = {
+				}
+				b_maintirano = {
+				}
+				b_antsalova = {
+				}
+				b_besalampy = {
+				}
+			}
+			c_menabe = {
+
+				color = { 255 243 106 }
+				color2 = { 250 250 250 }
+
+				b_morondava = {
+				}
+				b_morombe = {
+				}
+				b_ambohibe = {
+				}
+				b_ankoba = {
+				}
+				b_belo = {
+				}
+				b_manometimay = {
+				}
+				b_manja = {
+				}
+				b_nosy_ambositra = {
+				}
+			}
+		}
+		d_betsimisaraka = {
+
+			color = { 237 233 86 }
+			color2 = { 250 250 250 }
+
+			capital = 2418 #Manakara
+
+			c_manakara = {
+
+				color = { 237 243 96 }
+				color2 = { 250 250 250 }
+
+				b_marosiky = {
+				}
+				b_mananjary = {
+				}
+				b_vohipeno = {
+				}
+				b_farafangana = {
+				}
+				b_vangaindrano = {
+				}
+				b_vatomandry = {
+				}
+				b_lopary = {
+				}
+				b_sahasinaka = {
+				}
+			}
+			c_toamasina = {
+
+				color = { 237 243 106 }
+				color2 = { 250 250 250 }
+				
+				b_ambodisiny = {
+				}
+				b_toamasina = {
+				}
+				b_mananara = {
+				}
+				b_seranambe = {
+				}
+				b_andrangazaha = {
+				}
+				b_vohilava = {
+				}
+				b_anjahambe = {
+				}
+				b_antanambe = {
+				}
+			}
+			c_antongil = {
+
+				color = { 237 243 116 }
+				color2 = { 250 250 250 }
+				
+				b_maroantsetra = {
+				}
+				b_mandritsara = {
+				}
+				b_marovotry = {
+				}
+				b_doany = {
+				}
+				b_matsoandakana = {
+				}
+				b_rantabe = {
+				}
+				b_mandritsara_antongil = {
+				}
+				b_marotandrano = {
+				}
+			}
+		}
+		d_antankara = {
+
+			color = { 237 227 156 }
+			color2 = { 250 250 250 }
+
+			capital = 2412 #Antsiranana
+
+			c_antsiranana = {
+
+				color = { 237 237 166 }
+				color2 = { 250 250 250 }
+
+				b_vohemar = {
+				}
+				b_irodo = {
+				}
+				b_antsiranana = {
+				}
+				b_anjiabe = {
+				}
+				b_ampisikinana = {
+				}
+				b_daraina = {
+				}
+				b_ampondra = {
+				}
+				b_sambava = {
+				}
+			}
+			c_sambirano = {
+
+				color = { 237 237 176 }
+				color2 = { 250 250 250 }
+
+				b_sada_sambirano = {
+				}
+				b_mahilaka = {
+				}
+				b_ambanja = {
+				}
+				b_bealanana = {
+				}
+				b_ambilobe = {
+				}
+				b_bemanevikabe = {
+				}
+				b_bobasakoa = {
+				}
+				b_ambatoharanana = {
+				}
+			}
+		}
+		d_mahafaly_antemoro = {
+
+			color = { 255 192 177 }
+			color2 = { 250 250 250 }
+
+			capital = 2417 #Androy
+
+			c_androy = {
+
+				color = { 255 202 187 }
+				color2 = { 250 250 250 }
+
+				b_talaky = {
+				}
+				b_andranosoa = {
+				}
+				b_andaro = {
+				}
+				b_betanty = {
+				}
+				b_beloha = {
+				}
+				b_lavanono = {
+				}
+				b_beaniky = {
+				}
+				b_mahatalaky = {
+				}
+			}
+			c_toliara = {
+
+				color = { 255 202 197 }
+				color2 = { 250 250 250 }
+
+				b_sarodrano = {
+				}
+				b_taolambiby = {
+				}
+				b_lamboharana = {
+				}
+				b_toliara = {
+				}
+				b_anakao = {
+				}
+				b_tanambao = {
+				}
+				b_betioky = {
+				}
+				b_ankiliarivo = {
+				}
+			}
+		}
+	}
+
+}

@@ -1,0 +1,17 @@
+# 1848 - Onon
+
+# County Title
+title = c_onon
+
+# Settlements
+max_settlements = 4
+b_bukachacha = tribal
+b_bukhta = tribal
+#b_kumakanda =
+#b_anamzhak =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

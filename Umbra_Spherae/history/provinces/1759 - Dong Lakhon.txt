@@ -1,0 +1,21 @@
+# 1128 - Dong Lakhon
+
+# County Title
+title = c_dong_lakhon
+
+# Settlements
+max_settlements = 4
+b_mueang_nakhon_nayok = castle
+b_dong_lakhon = city
+b_pak_phli = temple
+#b_tha_chang =
+#b_phrommani =
+#b_khao_phra =
+#b_sarika =
+#b_ban_na =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

@@ -1,0 +1,23 @@
+# 1643 - Cinh
+
+# County Title
+title = c_cinh
+
+# Settlements
+max_settlements = 4
+b_limbyon = castle
+b_drieuxzjeng = city
+b_huakip = city
+#b_ghungdungh =
+#b_byonse =
+#b_ghuachjyen =
+#b_kiihzjex =
+#b_zsjinsren =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

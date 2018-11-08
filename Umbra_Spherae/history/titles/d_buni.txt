@@ -1,0 +1,40 @@
+#Galuh Dynasty
+678.1.1 = {
+	liege="k_galuh"
+}
+678.1.1 = {
+	holder=1000080574 #Aji-Putih
+}
+721.1.1 = {
+	holder=1000080575 #Tajimalela
+}
+778.1.1 = {
+	holder=1000080576 #Jayabrata
+}
+830.1.1 = {
+	holder=1000080577 #Jayabrata (split in two)
+}
+893.1.1 = {
+	holder=1000080578 #Atmabrata
+}
+930.1.1 = {
+	holder=1000080580 #Atmabrata (split in two)
+}
+998.1.1 = {
+	holder=1000080581 #Wirajaya
+}
+1050.1.1 = {
+	holder=1000080582 #Wirajaya (split in two)
+}
+1114.1.1 = {
+	holder=1000080583 #Mertalaya
+}
+1170.1.1 = {
+	holder=1000080584 #Mertalaya (split in two)
+}
+1237.1.1 = {
+	holder=1000080585 #Tirta-Kusuma
+}
+1300.1.1 = {
+	holder=1000080586 #Tirta-Kusuma (split in two)
+}

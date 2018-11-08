@@ -1,0 +1,21 @@
+# 1198 - Tanjungpura
+
+# County Title
+title = c_tanjungpura
+
+# Settlements
+max_settlements = 6
+b_kualamandor = castle
+b_tanjungpura = city
+b_sungaikakap = temple
+b_siantan = city
+#b_rasau_jaya =
+#b_sungaiambawang =
+#b_telukpadekai =
+#b_kubu_tanjungpura =
+
+# Misc
+culture = dayak
+religion = bornean_religion
+
+# History

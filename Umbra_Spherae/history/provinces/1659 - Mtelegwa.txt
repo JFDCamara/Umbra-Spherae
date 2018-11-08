@@ -1,0 +1,21 @@
+# 1659 - Mtelegwa
+
+# County Title
+title = c_mtelegwa
+
+# Settlements
+max_settlements = 4
+b_mtelegwa = tribal
+#b_tabazika_mambo = 
+#b_dete = 
+#b_kamativi = 
+#b_tinde = 
+#b_lubimbi = 
+#b_lusulu = 
+#b_mibizi = 
+
+# Misc
+culture = kalanga
+religion = south_bantu_mythology
+
+# History

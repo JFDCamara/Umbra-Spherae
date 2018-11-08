@@ -1,0 +1,87 @@
+#Goguryeo Kingdom
+3.1.1={
+	liege="k_goguryeo"
+}
+698.1.1={
+	liege="k_balhae"
+}
+##Iohulu Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076365 #Mutalu
+}
+780.1.1={
+	holder=1000076366 #Hasaiæ
+}
+810.1.1={
+	holder=1000076367 #Cægæ
+}
+840.1.1={
+	holder=1000076368 #Aludai
+}
+870.1.1={
+	holder=1000076369 #Caoha
+}
+900.1.1={
+	holder=1000076370 #Asur
+}
+926.1.1 = {
+	liege="k_dan_gur"
+}
+930.1.1={
+	holder=1000076371 #Telin
+}
+936.1.1 = {
+	liege="k_jurchens"
+}
+960.1.1={
+	holder=1000076372 #Nuhu
+}
+990.1.1={
+	holder=1000076373 #Tugesu
+}
+1020.1.1={
+	holder=1000076374 #Heye
+}
+1050.1.1={
+	holder=1000076375 #Gulan
+}
+1080.1.1={
+	holder=1000076376 #Ulu
+}
+1110.1.1={
+	holder=1000076377 #Hanpu
+}
+1115.1.28 = {
+	liege="e_anchuhu"
+}
+1140.1.1={
+	holder=1000076378 #Cala
+}
+1170.1.1={
+	holder=1000076379 #Wolibu
+}
+1200.1.1={
+	holder=1000076380 #Alin
+}
+1212.1.1 = {
+	liege="e_mongol_empire"
+}
+1227.12.2 = {
+	liege="k_mongolia"
+}
+1230.1.1={
+	holder=1000076381 #Elu
+}
+1260.1.1={
+	holder=1000076382 #Abaohan
+}
+1290.1.1={
+	holder=1000076383 #Aha
+}
+1320.1.1={
+	holder=1000076384 #Uda
+}
+1350.1.1={
+	holder=1000076385 #Bulo
+}

@@ -1,0 +1,22 @@
+1.1.1 ={
+	vice_royalty = yes
+	government = confucian_bureaucracy
+	law = agnatic_succession
+}
+
+1279.3.19 ={
+	liege = e_china
+}
+
+1279.3.19 ={
+	holder = 1000455217
+}
+
+1305.11.20 ={
+	holder = 1000455218
+}
+
+1330.4.7 ={
+	holder = 1000455219
+}
+

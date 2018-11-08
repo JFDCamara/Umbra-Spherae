@@ -1,0 +1,23 @@
+# 1081 - Angkor Wat
+
+# County Title
+title = c_angkor_wat
+
+# Settlements
+max_settlements = 7
+#b_angkor_wat = 
+b_siem_reap = castle
+b_phnom_krom = city
+b_chong_khneas = temple
+#b_rokar_kambot =
+#b_puok =
+#b_pradak =
+#b_phumi_khna =
+
+# Misc
+culture = khmer
+religion = hindu
+
+# History
+
+1150.1.1 = { b_angkor_wat = city }

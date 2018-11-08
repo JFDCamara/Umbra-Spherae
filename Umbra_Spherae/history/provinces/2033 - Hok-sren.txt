@@ -1,0 +1,12 @@
+# 1777 - Hok-sren
+
+# County Title
+title = c_hoksren
+
+# Settlements
+max_settlements = 1
+b_hoksren = castle
+
+# Misc
+culture = tangut
+religion = buddhist

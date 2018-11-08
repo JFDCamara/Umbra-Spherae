@@ -1,0 +1,21 @@
+# 1083 - Hariharalaya
+
+# County Title
+title = c_hariharalaya
+
+# Settlements
+max_settlements = 6
+b_kampong_chhnang = castle
+b_hariharalaya = city
+b_prey_khmer = temple
+#b_tuek_phos =
+#b_udong =
+#b_kampong_stoeng =
+#b_krakor =
+#b_bamnak =
+
+# Misc
+culture = khmer
+religion = hindu
+
+# History

@@ -1,0 +1,21 @@
+# 1756 - Kianh-chjang
+
+# County Title
+title = c_kianhchjang
+
+# Settlements
+max_settlements = 6
+b_lioghonh = castle
+b_mukgyi = city
+b_gyungbox = temple
+b_ado = castle
+#b_srazjeng =
+#b_khuah =
+#b_prachyih =
+#b_kyit =
+
+# Misc
+culture = lolo
+religion = bimojiao
+
+# History

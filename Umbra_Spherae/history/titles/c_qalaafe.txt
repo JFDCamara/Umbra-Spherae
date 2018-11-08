@@ -1,0 +1,68 @@
+#Egal Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083352 #Sa'adaddin
+}
+780.1.1={
+	holder=1000083353 #Hamar
+}
+810.1.1={
+	holder=1000083354 #Kedafu
+}
+840.1.1={
+	holder=1000083355 #Ali
+}
+870.1.1={
+	holder=1000083356 #Sabr
+}
+900.1.1={
+	holder=1000083357 #Yayyo
+}
+930.1.1={
+	holder=1000083358 #Hantale
+}
+960.1.1={
+	holder=1000083359 #Omer
+}
+990.1.1={
+	holder=1000083360 #Amlale
+}
+1020.1.1={
+	holder=1000083361 #Abu-Bakr
+}
+1050.1.1={
+	holder=1000083362 #Ali
+}
+1080.1.1={
+	holder=1000083363 #Sabr
+}
+1110.1.1={
+	holder=1000083364 #Hamalmal
+}
+1140.1.1={
+	holder=1000083365 #Yayyo
+}
+1170.1.1={
+	holder=1000083366 #Hamalmal
+}
+1200.1.1={
+	holder=1000083367 #Nassir
+}
+1230.1.1={
+	holder=1000083368 #Yayyo
+}
+1238.1.1={
+	liege="k_somalia"
+}
+1260.1.1={
+	holder=1000083369 #Hamid
+}
+1290.1.1={
+	holder=1000083370 #Mahamed
+}
+1320.1.1={
+	holder=1000083371 #Sabir
+}
+1350.1.1={
+	holder=1000083372 #Mahammad
+}

@@ -1,0 +1,21 @@
+# 1964 - Chedzugwe
+
+# County Title
+title = c_chedzugwe
+
+# Settlements
+max_settlements = 4
+b_chedzugwe = tribal
+#b_urupande = 
+#b_karoi = 
+#b_magunje = 
+#b_mwami = 
+#b_makuti = 
+#b_kariba = 
+#b_kazangarare = 
+
+# Misc
+culture = karanga
+religion = south_bantu_mythology
+
+# History

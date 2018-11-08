@@ -1,0 +1,23 @@
+# 1443 - Bienh
+
+# County Title
+title = c_bienh
+
+# Settlements
+max_settlements = 7
+b_khaibyung = castle
+b_zsiangbyo = castle
+b_drinliu = castle
+b_yungkhiu = city
+b_siangip = city
+b_thadkhang = city
+b_ienling = city
+#b_pyungkhiu = city
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

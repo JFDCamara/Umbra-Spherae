@@ -1,0 +1,26 @@
+#Baraawe
+
+b_biruni = {
+	culture = somali
+	religion = sunni
+}
+
+b_mafoqi = {
+	culture = somali
+	religion = sunni
+}
+
+b_marmiisi = {
+	culture = somali
+	religion = sunni
+}
+
+b_ntiini = {
+	culture = somali
+	religion = sunni
+}
+
+b_naraan = {
+	culture = wangozi
+	religion = sunni
+}

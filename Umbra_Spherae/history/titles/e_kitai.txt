@@ -1,0 +1,47 @@
+#Yelu/Liao Dynasty
+907.2.27 = {
+	holder=194325 #Abaoji
+}
+926.9.6 = {
+	holder=194326 #Deguang
+}
+947.5.15 = {
+	holder=194328 #Ruan
+}
+951.10.7 = {
+	holder=194329 #Jing
+}
+969.3.12 = {
+	holder=194330 #Xian
+}
+982.10.13 = {
+	holder=194331 #Longxu
+}
+1031.6.25 = {
+	holder=194332
+}
+1055.8.28 = {
+	holder=194333
+}
+1101.2.12 = {
+	holder=194334
+}
+#Kara Khitai
+1125.3.26 = {
+	holder=188905 # Yelü-Dashi, Kara Khitan conquest
+}
+1143.1.1={
+	holder=188907 # Yelü-Yilie
+}
+1163.1.1={
+	holder=188908 # Pusuwan
+}
+1177.1.1={
+	holder=188912 # Yelü-Zhilugu
+}
+1211.1.1={
+	holder=188914 # Kuchlug (de facto)
+}
+1212.1.1={
+	holder=0
+}

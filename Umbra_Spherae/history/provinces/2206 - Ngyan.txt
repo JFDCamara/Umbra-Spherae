@@ -1,0 +1,24 @@
+# 1539 - Ngyan
+
+# County Title
+title = c_ngyan
+
+# Settlements
+max_settlements = 5
+b_lojang = castle
+b_ankrung = castle
+b_ghungkrung = castle
+b_ghuangx = temple
+#b_giemjang =
+#b_mrajang =
+#b_bjenkhe =
+#b_ghuaikhe =
+
+
+# Misc
+culture = hmong
+religion = ua_dab
+
+# History
+
+

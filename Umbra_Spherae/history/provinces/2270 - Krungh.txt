@@ -1,0 +1,23 @@
+# 1642 - Krungh
+
+# County Title
+title = c_krungh
+
+# Settlements
+max_settlements = 4
+b_cjenghbjen = castle
+b_krungh = city
+b_khyukuuk = city
+#b_jikzjeng =
+#b_yankhyuk =
+#b_thadbjen_krungh =
+#b_ciksren =
+#b_hiangneng =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

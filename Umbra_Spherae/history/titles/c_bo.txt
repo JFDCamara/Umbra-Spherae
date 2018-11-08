@@ -1,0 +1,186 @@
+618.6.18={
+	liege=e_china
+}
+
+#Tang
+618.6.18 = {
+	holder = 217700 #Gaozu of Tang
+}
+626.9.4 = {
+	holder = 217701 #Taizong of Tang
+}
+649.7.10 = {
+	holder = 217702 #Gaozong of Tang
+}
+683.12.27 = {
+	holder = 217799 # Zhongdong
+}
+684.2.27 = {
+	holder = 217703 #Ruizong of Tang
+}
+690.10.16 = {
+	holder = 217704 #Wu Zetian
+}
+705.12.16 = {
+	holder = 217799 # again
+}
+710.7.3 = {
+	holder = 217705 #Shang of Tang
+}
+710.7.8 = {
+	holder = 217703
+}
+712.9.8 = {
+	holder = 217706 #Xuanzong of Tang
+}
+756.8.12 = {
+	holder = 217707 #Suzong of Tang
+}
+762.5.16 = {
+	holder = 217708 #Daizong of Tang
+}
+779.5.23 = {
+	holder = 217709 #Dezong of Tang
+}
+805.2.25 = {
+	holder = 217710 #Shunzong of Tang
+}
+805.9.5 = {
+	holder = 217711 #Xianzong of Tang
+}
+820.2.14 = {
+	holder = 217712 #Muzong of Tang
+}
+824.2.25 = {
+	holder = 217713 #Jingzong of Tang
+}
+827.1.9 = {
+	holder = 217714 #Wenzong of Tang
+}
+840.2.10 = {
+	holder = 217715 #Wuzong of Tang
+}
+846.4.22 = {
+	holder = 217716 #Xuanzong of Tang
+}
+859.9.7 = {
+	holder = 217717 #Yizong of Tang
+}
+873.8.15 = {
+	holder = 217718 #Xizong of Tang
+}
+888.4.20 = {
+	holder = 217719 #Zhaozong of Tang
+}
+#900.12.1
+#	holder = #Prince Li Yu
+#}
+904.9.22 = {
+	holder = 217720 #Aidi of Tang
+}
+
+#5 Dynasties
+907.5.12 = {
+	holder = 0 # 5 dynasties
+}
+
+960.2.4 ={
+	liege = d_kiengdrieux
+}
+
+960.2.4 ={
+	holder = 1000454438
+}
+
+988.11.5 ={
+	holder = 1000454439
+}
+
+1011.9.10 ={
+	holder = 1000454440
+}
+
+1035.5.1 ={
+	holder = 1000454441
+}
+
+1062.12.23 ={
+	holder = 1000454442
+}
+
+1085.11.26 ={
+	holder = 1000454443
+}
+
+1106.1.1 ={
+	holder = 1000454444
+}
+
+1127.1.9 ={
+	liege = e_anchuhu
+}
+
+1127.1.9 = {
+	holder=217731 #Wuqimai
+}
+1135.2.9 = {
+	holder=217732 #Hela
+}
+1150.1.9 = {
+	holder=217734 #Digunai
+}
+1161.12.15 = {
+	holder=217735 #Wulu
+}
+1189.1.20 = {
+	holder=217736 #Madage
+}
+1208.12.29 = {
+	holder=217737 #Yongji
+}
+1213.9.11 = {
+	holder=217738 #Wudubu
+}
+1224.1.14 = {
+	holder=217739 #Ningjiasu
+}
+1234.2.9 = {
+	holder=217740 #Chenglin
+}
+
+1234.2.10 ={
+	liege = k_mongolia
+}
+
+1234.2.10 ={
+	holder = 172005
+}
+
+1241.12.11 ={
+	holder = 172007
+}
+
+1248.1.1 ={
+	holder = 217265
+}
+
+1259.8.11 ={
+	holder = 217266
+}
+
+1279.3.19 ={
+	liege = d_kiengdrieux
+}
+
+1279.3.19 ={
+	holder = 1000454445
+}
+
+1303.2.18 ={
+	holder = 1000454446
+}
+
+1332.5.24 ={
+	holder = 1000454447
+}
+

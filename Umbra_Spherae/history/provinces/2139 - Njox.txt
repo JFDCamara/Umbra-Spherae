@@ -1,0 +1,23 @@
+# 1447 - Njox
+
+# County Title
+title = c_njox
+
+# Settlements
+max_settlements = 5
+b_liang_njox = castle
+b_lyunghing = city
+b_loxsren = city
+b_siangzjeng = city
+#b_sjep_njox =
+#b_limnjox =
+#b_drieuxlak =
+#b_kiangtemh =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

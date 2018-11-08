@@ -1,0 +1,24 @@
+# 1458 - Siuh
+
+# County Title
+title = c_siuh
+
+# Settlements
+max_settlements = 5
+b_krahing = castle
+b_ghruadeng = city
+b_haixjem = city
+b_zriungtok = city
+#b_zjanghhaix = 
+#b_kimsren_siuh =
+#b_nenghaix =
+#b_chengtuon =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

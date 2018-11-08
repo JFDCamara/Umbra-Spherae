@@ -1,0 +1,21 @@
+# 1225 - Pagarruyung
+
+# County Title
+title = c_pagarruyung
+
+# Settlements
+max_settlements = 3
+b_sumpur_kudus = castle
+b_pagarruyung = city
+#b_lintau_buo =
+#b_tanjung_emas =
+#b_lareh_sago_halaban =
+#b_harau =
+#b_singingi_hilir =
+#b_kampar_kiri =
+
+# Misc
+culture = minangkabau
+religion = sumatran_religion
+
+# History

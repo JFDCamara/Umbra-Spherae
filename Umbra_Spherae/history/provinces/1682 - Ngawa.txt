@@ -1,0 +1,23 @@
+# 1897 - Ngawa
+
+# County Title
+title = c_ngawa
+# Settlements
+max_settlements = 5
+b_barkam = tribal
+b_ngawa = city
+#b_rongzhag = city
+#b_rilong = castle
+#b_gyelten_phuntsoling = temple
+b_topgyel = temple
+#b_zamtang = castle
+
+# Misc
+culture = qiang
+religion = rmagao
+
+# History
+
+1050.1.1 = { religion = buddhist }
+1107.1.1 = { b_gyelten_phuntsoling = temple }
+1150.1.1 = { culture = bodpa }

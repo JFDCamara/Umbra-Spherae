@@ -1,0 +1,22 @@
+# 1154 - Salavan
+
+# County Title
+title = c_salavan
+
+# Settlements
+max_settlements = 2
+b_salavan = castle
+b_nakosao = temple
+#b_ban_soung =
+#b_nongboua =
+#b_ban_houaythamao =
+#b_ban_luktoungka_nua =
+#b_mouang_taoy =
+#b_houn =
+
+# Misc
+culture = lao
+religion = buddhist
+
+# History
+

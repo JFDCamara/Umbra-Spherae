@@ -1,0 +1,24 @@
+# 1563 - Liih
+
+# County Title
+title = c_liih
+
+# Settlements
+max_settlements = 4
+b_mjenkuk = castle
+b_krachjyen = city
+b_ghuangdrakzsih = temple
+#b_kramreng =
+#b_cjeuhruah =
+#b_samzyen =
+#b_kimngiu =
+#b_chengo =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

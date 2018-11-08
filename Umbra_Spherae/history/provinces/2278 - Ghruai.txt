@@ -1,0 +1,23 @@
+# 1650 - Ghruai
+
+# County Title
+title = c_ghruai
+
+# Settlements
+max_settlements = 5
+b_ghanuaih = castle
+b_myoxtrik = city
+b_siumyox = city
+b_ngyatsrenzsih = temple
+#b_myanhzjenx =
+#b_chienghruah_ghruai =
+#b_myoxtok =
+#b_suunghkuak =
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

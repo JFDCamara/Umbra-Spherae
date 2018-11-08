@@ -1,0 +1,67 @@
+507.3.3={
+	liege="e_japan"
+}
+##Yamashita Dynasty (Placeholders)
+750.1.1={
+	holder=1000076259 #Akisuke
+}
+780.1.1={
+	holder=1000076260 #Hirokado
+}
+810.1.1={
+	holder=1000076261 #Harutane
+}
+840.1.1={
+	holder=1000076262 #Hisayasu
+}
+870.1.1={
+	holder=1000076263 #Kazunobu
+}
+900.1.1={
+	holder=1000076264 #Koremasa
+}
+930.1.1={
+	holder=1000076265 #Chikatoki
+}
+960.1.1={
+	holder=1000076266 #Akinaga
+}
+990.1.1={
+	holder=1000076267 #Hidenao
+}
+1020.1.1={
+	holder=1000076268 #Doronosuke
+}
+1050.1.1={
+	holder=1000076269 #Kagehiro
+}
+1080.1.1={
+	holder=1000076270 #Katahide
+}
+1110.1.1={
+	holder=1000076271 #Kuniuji
+}
+1140.1.1={
+	holder=1000076272 #Akinao
+}
+1170.1.1={
+	holder=1000076273 #Masaie
+}
+1200.1.1={
+	holder=1000076274 #Haruzumi
+}
+1230.1.1={
+	holder=1000076275 #Eisaburo
+}
+1260.1.1={
+	holder=1000076276 #Fuyuki
+}
+1290.1.1={
+	holder=1000076277 #Kazuemon
+}
+1320.1.1={
+	holder=1000076278 #Eishi
+}
+1350.1.1={
+	holder=1000076279 #Genzo
+}

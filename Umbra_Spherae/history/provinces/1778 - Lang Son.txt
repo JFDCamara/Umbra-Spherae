@@ -1,0 +1,21 @@
+# 1147 - Lang Son
+
+# County Title
+title = c_lang_son
+
+# Settlements
+max_settlements = 4
+b_van_thuy = castle
+b_lang_son = city
+b_bao_lam = temple
+#b_ban_xam =
+#b_mau_son =
+#b_xuan_man =
+#b_loc_binh =
+#b_van_quan =
+
+# Misc
+culture = viet
+religion = thangiao
+
+# History

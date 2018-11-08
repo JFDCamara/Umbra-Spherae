@@ -1,0 +1,21 @@
+# 1068 - Thaton
+
+# County Title
+title = c_thaton
+
+# Settlements
+max_settlements = 4
+b_kathapa_anauk = castle
+b_thaton = city
+b_budin = temple
+#b_theinzeik =
+#b_kadaik =
+#b_donwun =
+#b_bilin =
+#b_kawhlainggale =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

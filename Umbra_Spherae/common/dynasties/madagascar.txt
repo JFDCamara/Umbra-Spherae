@@ -1,0 +1,44 @@
+1000028276 = {
+    name="Tsiandopy"
+    culture=vazimba
+}
+1000028277 = {
+    name="Harifanja"
+    culture=vazimba
+}
+1000028278 = {
+    name="Rakotondramboa"
+    culture=vazimba
+}
+1000028279 = {
+    name="Zakaheloy"
+    culture=vazimba
+}
+1000028280 = {
+    name="Rasoarizay"
+    culture=vazimba
+}
+1000028281 = {
+    name="Saholinirina"
+    culture=vazimba
+}
+1000028282 = {
+    name="Randrianekena"
+    culture=vazimba
+}
+1000028283 = {
+    name="Rabarivony"
+    culture=vazimba
+}
+1000028284 = {
+    name="Rakotomanga"
+    culture=vazimba
+}
+1000028285 = {
+    name="Andrianaivo"
+    culture=vazimba
+}
+1000028286 = {
+    name="Rajaozara"
+    culture=vazimba
+}

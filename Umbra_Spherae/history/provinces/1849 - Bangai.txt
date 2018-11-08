@@ -1,0 +1,21 @@
+# 1218 - Bangal
+
+# County Title
+title = c_bangal
+
+# Settlements
+max_settlements = 3
+b_wonomulyo = tribal
+b_bangal = tribal
+#b_polewali =
+#b_sumarorong =
+#b_tutallu =
+#b_malunda =
+#b_tapalang =
+#b_mambi =
+
+# Misc
+culture = bugi
+religion = sulawesi_religion
+
+# History

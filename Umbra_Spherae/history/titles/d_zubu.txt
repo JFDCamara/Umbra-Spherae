@@ -1,0 +1,28 @@
+#Proto-Kereid
+840.1.1 = {	
+	historical_nomad = yes
+}
+840.1.1 = {
+	liege="k_mongolia"
+}
+840.1.1 = {
+	holder=1000081088 #Temur
+}
+900.1.1 = {
+	holder=1000081089 #Nazar
+}
+940.1.1 = {
+	holder=1000202587 #Adil
+}
+950.1.1 = {
+	holder=1000081091 #Gutugtu
+}
+968.1.1 = {
+	holder=1000081092 #Khar Nudetu
+}
+1010.1.1 = {
+	holder=1000202452 #Markus
+}
+1060.1.1 = {
+	holder=0
+}

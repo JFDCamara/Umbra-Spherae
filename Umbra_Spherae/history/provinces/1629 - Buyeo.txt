@@ -1,0 +1,17 @@
+# 1911 - Buyeo
+
+# County Title
+title = c_buyeo
+
+# Settlements
+max_settlements = 2
+b_buju = tribal
+b_seonju = tribal
+
+# Misc
+culture = buyeo
+religion = shingyo
+
+# History
+
+1050.1.1 = { culture = jurchen religion = jurchen_pagan }

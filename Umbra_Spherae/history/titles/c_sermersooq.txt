@@ -1,0 +1,66 @@
+#Sermersooq Dynasty (placeholders)
+750.1.1={
+	holder=1000205233 #Sinaaq
+}
+780.1.1={
+	holder=1000205234 #Tikivik
+}
+810.1.1={
+	holder=1000205235 #Tonrar
+}
+840.1.1={
+	holder=1000083264 #Maniitok
+}
+870.1.1={
+	holder=1000203479 #Makpigat
+}
+900.1.1={
+	holder=1000203480 #Mangokpok
+}
+930.1.1={
+	holder=1000203483 #Tulukaruk
+}
+960.1.1={
+	holder=1000203484 #Anernerk
+}
+
+#Vestribyggð Dynasty (placeholders)
+986.1.1={
+	holder=1000203489 #Olav
+}
+1020.1.1={
+	holder=1000203490 #Torstein
+}
+1050.1.1={
+	holder=1000203491 #Ragnar
+}
+1080.1.1={
+	holder=1000203492 #Arne
+}
+1110.1.1={
+	holder=1000203493 #Odd
+}
+1140.1.1={
+	holder=1000203494 #Torbrand
+}
+1170.1.1={
+	holder=1000203495 #Grim
+}
+1200.1.1={
+	holder=1000203496 #Gudleik
+}
+1230.1.1={
+	holder=1000203497 #Haldor
+}
+1260.1.1={
+	holder=1000203498 #Rolf
+}
+1290.1.1={
+	holder=1000203499 #Eigil
+}
+1320.1.1={
+	holder=1000203500 #Balder
+}
+1350.1.1={
+	holder=1000203501 #Ragnar
+}

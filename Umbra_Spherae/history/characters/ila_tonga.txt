@@ -1,0 +1,885 @@
+#Silwamba Dynasty (Placeholders) of Ingomba Ilele
+
+1000083614 = {
+	name="Mbonyazo"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083615 = {
+	name="Muyuni"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083614
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083616 = {
+	name="Chimuka"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083615
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083617 = {
+	name="Mweene"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083616
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083618 = {
+	name="Chimuka"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083617
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083619 = {
+	name="Muleya"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083618
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083620 = {
+	name="Mazuba"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083619
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083621 = {
+	name="Moono"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083620
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083622 = {
+	name="Mwaka"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083621
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083623 = {
+	name="Luyando"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083622
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083624 = {
+	name="Luyando"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083623
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083625 = {
+	name="Choolwe"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083624
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083626 = {
+	name="Lingubona"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083625
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083627 = {
+	name="Hakainde"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083626
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083628 = {
+	name="Mayaba"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083627
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083629 = {
+	name="Chabota"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083628
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083630 = {
+	name="Mwaka"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083629
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083631 = {
+	name="Moono"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083630
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083632 = {
+	name="Muleya"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083631
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083633 = {
+	name="Hakainde"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083632
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083634 = {
+	name="Kuchiswa"
+	dynasty=1000028356 #Silwamba
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083633
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Katete Dynasty (Placeholders) of Isamu Pati
+
+1000083635 = {
+	name="Luumuno"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083636 = {
+	name="Milimo"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083635
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083637 = {
+	name="Lingubona"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083636
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083638 = {
+	name="Muleya"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083637
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083639 = {
+	name="Luyando"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083638
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083640 = {
+	name="Linda"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083639
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083641 = {
+	name="Muleya"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083640
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083642 = {
+	name="Malambo"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083641
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083643 = {
+	name="Mabotu"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083642
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083644 = {
+	name="Mainza"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083643
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083645 = {
+	name="Milumbe"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083644
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083646 = {
+	name="Muleya"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083645
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083647 = {
+	name="Mabotu"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083646
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083648 = {
+	name="Mwaka"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083647
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083649 = {
+	name="Mapenzi"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083648
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083650 = {
+	name="Beenzu"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083649
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083651 = {
+	name="Hachikoko"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083650
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083652 = {
+	name="Malindi"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083651
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083653 = {
+	name="Lushomo"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083652
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083654 = {
+	name="Chipo"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083653
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083655 = {
+	name="Muchindu"
+	dynasty=1000028357 #Katete
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083654
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Ndhlovu Dynasty (Placeholders) of Kangila
+
+1000083656 = {
+	name="Muchaala"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083657 = {
+	name="Mutinta"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083656
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083658 = {
+	name="Linda"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083657
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083659 = {
+	name="Mpimpa"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083658
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083660 = {
+	name="Nchimunya"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083659
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083661 = {
+	name="Milumbe"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083660
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083662 = {
+	name="Malindi"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083661
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083663 = {
+	name="Muchaala"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083662
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083664 = {
+	name="Mutinta"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083663
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083665 = {
+	name="Milumbe"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083664
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083666 = {
+	name="Beenzu"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083665
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083667 = {
+	name="Linda"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083666
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083668 = {
+	name="Muchimba"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083667
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083669 = {
+	name="Muchindu"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083668
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083670 = {
+	name="Kulenga"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083669
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083671 = {
+	name="Munkombwe"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083670
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083672 = {
+	name="Luse"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083671
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083673 = {
+	name="Mazuba"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083672
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083674 = {
+	name="Mazuba"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083673
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083675 = {
+	name="Makani"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083674
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083676 = {
+	name="Mabotu"
+	dynasty=1000028358 #Ndhlovu
+	religion="south_bantu_mythology"
+	culture="ila_tonga"
+	father=1000083675
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+

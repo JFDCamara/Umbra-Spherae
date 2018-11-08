@@ -1,0 +1,24 @@
+# 1506 - Gjyeng
+
+# County Title
+title = c_gjyeng
+
+# Settlements
+max_settlements = 5
+b_gjyengsren = castle
+b_ngielyn = city
+b_hlai = castle
+#b_myanhneng =
+#b_myonchjang =
+#b_drangmrad =
+#b_chjanghruah =
+#b_komxon =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

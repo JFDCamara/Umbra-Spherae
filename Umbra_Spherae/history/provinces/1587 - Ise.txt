@@ -1,0 +1,22 @@
+# 1846 - Ise
+
+# County Title
+title = c_ise
+
+# Settlements
+max_settlements = 5
+b_suzuka = castle
+b_ise = temple
+b_watarai = castle
+b_shima = castle
+
+#b_mie = castle
+#b_kuwana = castle
+#b_ichishi = castle
+#b_inabe = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

@@ -1,0 +1,24 @@
+# 1570 - Gio
+
+# County Title
+title = c_gio
+
+# Settlements
+max_settlements = 4
+b_liukrung = castle
+b_giokrung = city
+b_linsren = city
+#b_linsjyix =
+#b_ngrukdrie =
+#b_sinmieng =
+#b_ghuakhe =
+#b_dadtriuk =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

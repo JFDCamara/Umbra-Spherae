@@ -1,0 +1,21 @@
+# 1194 - Tumapel
+
+# County Title
+title = c_tumapel
+
+# Settlements
+max_settlements = 6
+b_malang = castle
+b_tumapel = city
+b_tirto_yudo = temple
+b_bantur = castle
+#b_sumbermanjing =
+#b_jabung_tumapel =
+#b_wajak =
+#b_toeren =
+
+# Misc
+culture = javanese
+religion = java_religion
+
+# History

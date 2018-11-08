@@ -1,0 +1,24 @@
+# 1476 - Hingkuok
+
+# County Title
+title = c_hingkuok
+
+# Settlements
+max_settlements = 5
+b_yengxhing = castle
+b_dadjax = city
+b_thungsren = city
+#b_zigho =
+#b_byotdo =
+#b_samkhe =
+#b_yoingyan =
+#b_piuhdrie =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

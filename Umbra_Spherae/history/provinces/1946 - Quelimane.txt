@@ -1,0 +1,25 @@
+# 1946 - Quelimane
+
+# County Title
+title = c_quelimane
+
+# Settlements
+max_settlements = 4
+b_quelimane = castle
+b_macuze = city
+b_namacurra = temple
+#b_chinde = 
+#b_luabo = 
+#b_marromeu = 
+#b_capenga = 
+#b_chupanga = 
+
+# Misc
+culture = karanga
+religion = south_bantu_mythology
+
+# History
+
+1300.1.1 = {
+	religion = sunni
+}

@@ -1,0 +1,21 @@
+# 1820 - Won
+
+# County Title
+title = c_won
+
+# Settlements
+max_settlements = 5
+b_won = castle
+b_hoengseong = castle
+#b_yeongwol =
+#b_pyeongchan =
+#b_jeongseon =
+
+
+# Misc
+culture = baekje
+religion = shingyo
+
+# History
+
+936.1.1 = { culture = korean}

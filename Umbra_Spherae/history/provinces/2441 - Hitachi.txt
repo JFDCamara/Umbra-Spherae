@@ -1,0 +1,22 @@
+# 1834 - Hitachi
+
+# County Title
+title = c_hitachi
+
+# Settlements
+max_settlements = 4
+b_ibaraki = castle
+b_kashima = temple
+b_tsukuba = castle
+
+#b_makabe = castle
+#b_take = castle
+#b_baba = castle
+#b_shida = castle
+#b_niihari = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

@@ -1,0 +1,69 @@
+#Nanzhao Dynasty
+653.1.1 = {
+	liege="k_dali"
+}
+##Chen Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076407 #Xilie
+}
+780.1.1={
+	holder=1000076408 #Liben
+}
+810.1.1={
+	holder=1000076409 #Guan
+}
+840.1.1={
+	holder=1000076410 #Rangyi
+}
+870.1.1={
+	holder=1000076411 #Kang
+}
+900.1.1={
+	holder=1000076412 #Qinwang
+}
+930.1.1={
+	holder=1000076413 #Wuzi
+}
+960.1.1={
+	holder=1000076414 #Shifang
+}
+990.1.1={
+	holder=1000076415 #Chujun
+}
+1020.1.1={
+	holder=1000076416 #Zhihong
+}
+1050.1.1={
+	holder=1000076417 #Shidao
+}
+1080.1.1={
+	holder=1000076418 #Yixing
+}
+1110.1.1={
+	holder=1000076419 #Xun
+}
+1140.1.1={
+	holder=1000076420 #Xinfu
+}
+1170.1.1={
+	holder=1000076421 #Yun
+}
+1200.1.1={
+	holder=1000076422 #Sili
+}
+1230.1.1={
+	holder=1000076423 #Xiujing
+}
+1260.1.1={
+	holder=1000076424 #Yanbo
+}
+1290.1.1={
+	holder=1000076425 #Ting
+}
+1320.1.1={
+	holder=1000076426 #Yaoqin
+}
+1350.1.1={
+	holder=1000076427 #Sengru
+}

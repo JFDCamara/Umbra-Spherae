@@ -1,0 +1,17 @@
+# 1801 - Sjingh
+
+# County Title
+title = c_sjingh
+
+# Settlements
+max_settlements = 4
+#b_sjingjyolim =
+#b_ghapjin =
+b_sjingghachieng = tribal
+b_kimsiuk = tribal
+
+# Misc
+culture = khitan
+religion = tengri_pagan
+
+# History

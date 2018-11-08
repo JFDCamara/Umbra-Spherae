@@ -1,0 +1,21 @@
+# 1654 - Dambarare
+
+# County Title
+title = c_dambarare
+
+# Settlements
+max_settlements = 4
+b_dambarare = tribal
+#b_chipadze = 
+#b_rimuka = 
+#b_maramuka = 
+#b_tafuna = 
+#b_chitonborwizi = 
+#b_kadoma = 
+#b_chigweli = 
+
+# Misc
+culture = karanga
+religion = south_bantu_mythology
+
+# History

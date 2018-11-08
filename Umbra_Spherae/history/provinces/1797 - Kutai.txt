@@ -1,0 +1,21 @@
+# 1166 - Kutai
+
+# County Title
+title = c_kutai
+
+# Settlements
+max_settlements = 4
+b_sangasanga = castle
+b_kutai = city
+b_samboja = temple
+#b_balikpapan =
+#b_panajam =
+#b_longkalis =
+#b_tenggarong =
+#b_muarakaleng =
+
+# Misc
+culture = banjar
+religion = bornean_religion
+
+# History

@@ -1,0 +1,21 @@
+# 1224 - Bengkulu
+
+# County Title
+title = c_bengkulu
+
+# Settlements
+max_settlements = 4
+b_teluk_segara = castle
+b_bengkulu = city
+b_muara_bangka_hulu = temple
+#b_gading_cempaka =
+#b_selebar =
+#b_talang_empat =
+#b_pondok_kelapa =
+#b_kerkap =
+
+# Misc
+culture = malay
+religion = sumatran_religion
+
+# History

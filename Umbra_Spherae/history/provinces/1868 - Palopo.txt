@@ -1,0 +1,21 @@
+# 1237 - Palopo
+
+# County Title
+title = c_palopo
+
+# Settlements
+max_settlements = 3
+b_bastem = tribal
+b_palopo = tribal
+#b_barakanginangin =
+#b_saluputti =
+#b_rindingallo =
+#b_lamasi =
+#b_malangke =
+#b_masamba =
+
+# Misc
+culture = bugi
+religion = sulawesi_religion
+
+# History

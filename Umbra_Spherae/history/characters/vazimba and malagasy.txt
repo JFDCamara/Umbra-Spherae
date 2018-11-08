@@ -1,0 +1,3278 @@
+#Harifanja Dynasty (Placeholders) of Manakara
+
+1000076487 = {
+	name="Mandresy"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="vazimba"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076488 = {
+	name="Niaina"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076487
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076489 = {
+	name="Haja"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076488
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076490 = {
+	name="Andrianjaka"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076489
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076491 = {
+	name="Narisoa"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076490
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076492 = {
+	name="Lova"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076491
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076493 = {
+	name="Rano"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076492
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076494 = {
+	name="Andrianantoandro"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076493
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076495 = {
+	name="Andriantsitakatrandriana"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076494
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076496 = {
+	name="Andriantsimitoviaminandriana"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076495
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076497 = {
+	name="Andrianavalona"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076496
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1050.1.1={
+		culture="malagasy"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076498 = {
+	name="Tombovelo"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076497
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076499 = {
+	name="Haja"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076498
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076500 = {
+	name="Solofo"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076499
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076501 = {
+	name="Tsilavohery"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076500
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076502 = {
+	name="Tovohery"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076501
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076503 = {
+	name="Zazaharivelo"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076502
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076504 = {
+	name="Mandresy"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076503
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076505 = {
+	name="Andriantsimitoviaminandriandehibe"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076504
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076506 = {
+	name="Niaina"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076505
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076507 = {
+	name="Sedera"
+	dynasty=1000028277 #Harifanja
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076506
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Rakotondramboa Dynasty (Placeholders) of Toamasina
+
+1000076508 = {
+	name="Toavina"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="vazimba"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076509 = {
+	name="Rano"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076508
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076510 = {
+	name="Andrianampoinimerina"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076509
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076511 = {
+	name="Andrianavalona"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076510
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076512 = {
+	name="Jaona"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076511
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076513 = {
+	name="Tsimisotry"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076512
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076514 = {
+	name="Hamada"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076513
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076515 = {
+	name="Mamisoa"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076514
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076516 = {
+	name="Andrianantoandro"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076515
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076517 = {
+	name="Zazaharivelo"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076516
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076518 = {
+	name="Andriambelomasina"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076517
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1050.1.1={
+		culture="malagasy"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076519 = {
+	name="Odon"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076518
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076520 = {
+	name="Mandresy"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076519
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076521 = {
+	name="Faneva"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076520
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076522 = {
+	name="Andriantsitakatrandriana"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076521
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076523 = {
+	name="Zazaharivelo"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076522
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076524 = {
+	name="Lova"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076523
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076525 = {
+	name="Mamisoa"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076524
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076526 = {
+	name="Andrianjaka"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076525
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076527 = {
+	name="Odon"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076526
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076528 = {
+	name="Andrianasy"
+	dynasty=1000028278 #Rakotondramboa
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076527
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+#Zakaheloy Dynasty (Placeholders) of Antongil
+
+1000076529 = {
+	name="Narisoa"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="vazimba"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076530 = {
+	name="Andrianantoandro"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076529
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076531 = {
+	name="Tsilavohery"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076530
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076532 = {
+	name="Haja"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076531
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076533 = {
+	name="Andriamasinavalona"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076532
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076534 = {
+	name="Jaona"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076533
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076535 = {
+	name="Zafiamiarina"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076534
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076536 = {
+	name="Hamada"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076535
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076537 = {
+	name="Andrianavalona"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076536
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076538 = {
+	name="Niaina"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076537
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076539 = {
+	name="Andrianantoandro"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076538
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1050.1.1={
+		culture="malagasy"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076540 = {
+	name="Tsimisotry"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076539
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076541 = {
+	name="Andriambelomasina"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076540
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076542 = {
+	name="Mandresy"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076541
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076543 = {
+	name="Andriamasinavalona"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076542
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076544 = {
+	name="Mandresy"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076543
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076545 = {
+	name="Mampihao"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076544
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076546 = {
+	name="Mandresy"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076545
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076547 = {
+	name="Solofo"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076546
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076548 = {
+	name="Ralambo"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076547
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076549 = {
+	name="Solofo"
+	dynasty=1000028279 #Zakaheloy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076548
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Rasoarizay Dynasty (Placeholders) of Antsiranana
+
+1000076550 = {
+	name="Andriambelomasina"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="vazimba"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076551 = {
+	name="Andriamasinavalona"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076550
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076552 = {
+	name="Haja"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076551
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076553 = {
+	name="Mamisoa"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076552
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076554 = {
+	name="Mandresy"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076553
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076555 = {
+	name="Solofo"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076554
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076556 = {
+	name="Solofo"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076555
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076557 = {
+	name="Jaona"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076556
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076558 = {
+	name="Andrianantoandro"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076557
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076559 = {
+	name="Tsilavohery"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076558
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076560 = {
+	name="Tovohery"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076559
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1050.1.1={
+		culture="malagasy"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076561 = {
+	name="Mandresy"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076560
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076562 = {
+	name="Tsilavohery"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076561
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076563 = {
+	name="Andrianantoandro"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076562
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076564 = {
+	name="Andriantsimitoviaminandriana"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076563
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076565 = {
+	name="Anja"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076564
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076566 = {
+	name="Rano"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076565
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076567 = {
+	name="Andriamasinavalona"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076566
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076568 = {
+	name="Lova"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076567
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076569 = {
+	name="Niaina"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076568
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076570 = {
+	name="Radama"
+	dynasty=1000028280 #Rasoarizay
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076569
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Saholinirina Dynasty (Placeholders) of Sambirano
+
+1000076571 = {
+	name="Andrianampoinimerina"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="vazimba"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076572 = {
+	name="Lova"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076571
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076573 = {
+	name="Jaona"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076572
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076574 = {
+	name="Jaona"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076573
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076575 = {
+	name="Andrianary"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076574
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076576 = {
+	name="Andriantsimitoviaminandriana"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076575
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076577 = {
+	name="Zafiamiarina"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076576
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076578 = {
+	name="Narisoa"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076577
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076579 = {
+	name="Andrianampoinimerina"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076578
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076580 = {
+	name="Hamada"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076579
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076581 = {
+	name="Andrianavalona"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076580
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1050.1.1={
+		culture="malagasy"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076582 = {
+	name="Andrianavalona"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076581
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076583 = {
+	name="Andrianavalona"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076582
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076584 = {
+	name="Andriambelomasina"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076583
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076585 = {
+	name="Anja"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076584
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076586 = {
+	name="Andrianampoinimerina"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076585
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076587 = {
+	name="Andriantsimitoviaminandriana"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076586
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076588 = {
+	name="Andrianavalona"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076587
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076589 = {
+	name="Andriambelomasina"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076588
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076590 = {
+	name="Andriantsimitoviaminandriandehibe"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076589
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076591 = {
+	name="Andrianavalona"
+	dynasty=1000028281 #Saholinirina
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076590
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Rabarivony Dynasty (Placeholders) of Androy
+
+1000076592 = {
+	name="Tombovelo"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="vazimba"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076593 = {
+	name="Andrianantoandro"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076592
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076594 = {
+	name="Andriantsimitoviaminandriandehibe"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076593
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076595 = {
+	name="Tsimisotry"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076594
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076596 = {
+	name="Andrianjafynandriamanitra"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076595
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076597 = {
+	name="Rano"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076596
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076598 = {
+	name="Tsiory"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076597
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076599 = {
+	name="Andriantsimitoviaminandriana"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076598
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076600 = {
+	name="Faneva"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076599
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076601 = {
+	name="Tsiory"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076600
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076602 = {
+	name="Andriantsimitoviaminandriana"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076601
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1050.1.1={
+		culture="malagasy"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076603 = {
+	name="Andriambelomasina"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076602
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076604 = {
+	name="Andrianjafynandriamanitra"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076603
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076605 = {
+	name="Niaina"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076604
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076606 = {
+	name="Mampihao"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076605
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076607 = {
+	name="Andrianary"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076606
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076608 = {
+	name="Jaona"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076607
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076609 = {
+	name="Radama"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076608
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076610 = {
+	name="Andrianantoandro"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076609
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076611 = {
+	name="Radama"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076610
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076612 = {
+	name="Mandresy"
+	dynasty=1000028283 #Rabarivony
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076611
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Rakotomanga Dynasty (Placeholders) of Toliara
+
+1000076613 = {
+	name="Tombovelo"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="vazimba"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076614 = {
+	name="Mamisoa"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076613
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076615 = {
+	name="Toavina"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076614
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076616 = {
+	name="Andriantsimitoviaminandriana"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076615
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076617 = {
+	name="Narisoa"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076616
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076618 = {
+	name="Andrianavalona"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076617
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076619 = {
+	name="Tovohery"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076618
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076620 = {
+	name="Andrianavalona"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076619
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076621 = {
+	name="Narisoa"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076620
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076622 = {
+	name="Mamisoa"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076621
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076623 = {
+	name="Niaina"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076622
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1050.1.1={
+		culture="malagasy"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076624 = {
+	name="Anja"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076623
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076625 = {
+	name="Andriantsimitoviaminandriandehibe"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076624
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076626 = {
+	name="Toavina"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076625
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076627 = {
+	name="Mampihao"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076626
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076628 = {
+	name="Andriantsitakatrandriana"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076627
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076629 = {
+	name="Lova"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076628
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076630 = {
+	name="Andrianampoinimerina"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076629
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076631 = {
+	name="Narisoa"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076630
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076632 = {
+	name="Rano"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076631
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076633 = {
+	name="Tsimisotry"
+	dynasty=1000028284 #Rakotomanga
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076632
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Andrianaivo Dynasty (Placeholders) of Boina
+
+1000076634 = {
+	name="Andrianantoandro"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="vazimba"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076635 = {
+	name="Tsilavohery"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076634
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076636 = {
+	name="Andriantsimitoviaminandriandehibe"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076635
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076637 = {
+	name="Andrianjaka"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076636
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076638 = {
+	name="Andriamasinavalona"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076637
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076639 = {
+	name="Zazaharivelo"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076638
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076640 = {
+	name="Zafiamiarina"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076639
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076641 = {
+	name="Andriantsimitoviaminandriandehibe"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076640
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076642 = {
+	name="Tovohery"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076641
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076643 = {
+	name="Anja"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076642
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076644 = {
+	name="Odon"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076643
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1050.1.1={
+		culture="malagasy"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076645 = {
+	name="Zazaharivelo"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076644
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076646 = {
+	name="Hamada"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076645
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076647 = {
+	name="Lova"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076646
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076648 = {
+	name="Andriamasinavalona"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076647
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076649 = {
+	name="Narisoa"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076648
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076650 = {
+	name="Mandresy"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076649
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076651 = {
+	name="Andrianantoandro"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076650
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076652 = {
+	name="Jaona"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076651
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076653 = {
+	name="Andrianjaka"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076652
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076654 = {
+	name="Andrianjafynandriamanitra"
+	dynasty=1000028285 #Andrianaivo
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076653
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Rajaozara Dynasty (Placeholders) of Menabe
+
+1000076655 = {
+	name="Haja"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="vazimba"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076656 = {
+	name="Andrianampoinimerina"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076655
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076657 = {
+	name="Ralambo"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076656
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076658 = {
+	name="Andriantsitakatrandriana"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076657
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076659 = {
+	name="Razafitiana"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076658
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076660 = {
+	name="Tsilavohery"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076659
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076661 = {
+	name="Tovohery"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076660
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076662 = {
+	name="Mandresy"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076661
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076663 = {
+	name="Tsiory"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076662
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076664 = {
+	name="Andriantsitakatrandriana"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076663
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076665 = {
+	name="Andrianasy"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076664
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1050.1.1={
+		culture="malagasy"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076666 = {
+	name="Mamisoa"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076665
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076667 = {
+	name="Andriantsimitoviaminandriandehibe"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076666
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076668 = {
+	name="Andriantsitakatrandriana"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076667
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076669 = {
+	name="Tombovelo"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076668
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076670 = {
+	name="Tsilavohery"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076669
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076671 = {
+	name="Andrianasy"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076670
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076672 = {
+	name="Radama"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076671
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076673 = {
+	name="Tombovelo"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076672
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076674 = {
+	name="Andriantsitakatrandriana"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076673
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076675 = {
+	name="Andrianasy"
+	dynasty=1000028286 #Rajaozara
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076674
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Tsiandopy Dynasty (Placeholders) of Fianarantsoa
+
+1000076445 = {
+	name="Haja"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="vazimba"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076446 = {
+	name="Andrianjaka"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076445
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076447 = {
+	name="Rano"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076446
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076448 = {
+	name="Jaona"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076447
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076449 = {
+	name="Tsilavohery"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076448
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076450 = {
+	name="Odon"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076449
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076451 = {
+	name="Toavina"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076450
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076452 = {
+	name="Andrianantoandro"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076451
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076453 = {
+	name="Andrianasy"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076452
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076454 = {
+	name="Mamisoa"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076453
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076455 = {
+	name="Anja"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076454
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1050.1.1={
+		culture="malagasy"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076456 = {
+	name="Mandresy"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076455
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076457 = {
+	name="Rano"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076456
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076458 = {
+	name="Anja"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076457
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076459 = {
+	name="Mamisoa"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076458
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076460 = {
+	name="Faneva"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076459
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076461 = {
+	name="Zafiamiarina"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076460
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076462 = {
+	name="Sedera"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076461
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076463 = {
+	name="Anja"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076462
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076464 = {
+	name="Niaina"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076463
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076465 = {
+	name="Solofo"
+	dynasty=1000028276 #Tsiandopy
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076464
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Randrianekena Dynasty (Placeholders) of Antananarivo
+
+1000076466 = {
+	name="Rano"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="vazimba"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076467 = {
+	name="Andriambelomasina"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076466
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076468 = {
+	name="Mamisoa"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076467
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076469 = {
+	name="Anja"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076468
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076470 = {
+	name="Lova"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076469
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076471 = {
+	name="Tovohery"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076470
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076472 = {
+	name="Lova"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076471
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076473 = {
+	name="Andrianampoinimerina"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076472
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076474 = {
+	name="Tsilavohery"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076473
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076475 = {
+	name="Andrianary"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076474
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076476 = {
+	name="Hamada"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="vazimba"
+	father=1000076475
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1050.1.1={
+		culture="malagasy"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076477 = {
+	name="Andrianjaka"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076476
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076478 = {
+	name="Tsilavohery"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076477
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076479 = {
+	name="Mampihao"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076478
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076480 = {
+	name="Odon"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076479
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076481 = {
+	name="Zafiamiarina"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076480
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076482 = {
+	name="Andrianavalona"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076481
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076483 = {
+	name="Mampihao"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076482
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076484 = {
+	name="Radama"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076483
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076485 = {
+	name="Tsimisotry"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076484
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076486 = {
+	name="Sedera"
+	dynasty=1000028282 #Randrianekena
+	religion="malagasy_religion"
+	culture="malagasy"
+	father=1000076485
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+

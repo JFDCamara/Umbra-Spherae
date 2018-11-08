@@ -1,0 +1,28 @@
+# 1942 - Mwali
+
+# County Title
+title = c_mwali
+
+# Settlements
+max_settlements = 2
+b_fomboni = castle
+b_djolezi = city
+#b_wanani = 
+#b_kangani = 
+#b_itsamia = 
+#b_miringoni = 
+#b_nioumachoua = 
+#b_mirereni = 
+
+# Misc
+culture = wangozi
+religion = east_bantu_mythology
+
+# History
+
+1170.1.1 = {
+	culture = swahili
+}
+1200.1.1 = {
+	religion = sunni
+}

@@ -1,0 +1,65 @@
+#Tongofa Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000080021 #Matope
+}
+780.1.1={
+	holder=1000080022 #Dzingai
+}
+810.1.1={
+	holder=1000080023 #Chisi
+}
+840.1.1={
+	holder=1000080024 #Tichaona
+}
+870.1.1={
+	holder=1000080025 #Hosho
+}
+900.1.1={
+	holder=1000080026 #Iwe
+}
+930.1.1={
+	holder=1000080027 #Takudzwa
+}
+960.1.1={
+	holder=1000080028 #Mbada
+}
+990.1.1={
+	holder=1000080029 #Simba
+}
+1020.1.1={
+	holder=1000080030 #Tashongedzwa
+}
+1050.1.1={
+	holder=1000080031 #Tazvitya
+}
+1080.1.1={
+	holder=1000080032 #Nyatsimba
+}
+1110.1.1={
+	holder=1000080033 #Siti
+}
+1140.1.1={
+	holder=1000080034 #Tashongedzwa
+}
+1170.1.1={
+	holder=1000080035 #Chenjerai
+}
+1200.1.1={
+	holder=1000080036 #Tsungirirai
+}
+1230.1.1={
+	holder=1000080037 #Dzingai
+}
+1260.1.1={
+	holder=1000080038 #Neshangwe
+}
+1290.1.1={
+	holder=1000080039 #Nyakambira
+}
+1320.1.1={
+	holder=1000080040 #Tinaye
+}
+1350.1.1={
+	holder=1000080041 #Gatsi
+}

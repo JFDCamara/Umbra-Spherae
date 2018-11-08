@@ -1,0 +1,21 @@
+# 1247 - Larantuka
+
+# County Title
+title = c_larantuka
+
+# Settlements
+max_settlements = 4
+b_waiwerang = tribal
+b_larantuka = tribal
+#b_maumere =
+#b_ruting =
+#b_ende =
+#b_labuhanbajo =
+#b_mborong =
+#b_danga =
+
+# Misc
+culture = tenggaran
+religion = flores_religion
+
+# History

@@ -1,0 +1,21 @@
+# 1169 - Lingga
+
+# County Title
+title = c_lingga
+
+# Settlements
+max_settlements = 3
+b_daik = castle
+b_lingga = city
+#b_singkep =
+#b_singkep_barat =
+#b_senayang =
+#b_kado =
+#b_pelanduk =
+#b_linau =
+
+# Misc
+culture = malay
+religion = buddhist
+
+# History

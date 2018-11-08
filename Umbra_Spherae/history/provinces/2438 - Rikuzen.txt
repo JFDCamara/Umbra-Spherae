@@ -1,0 +1,22 @@
+# 1831 - Rikuzen
+
+# County Title
+title = c_rikuzen
+
+# Settlements
+max_settlements = 5
+b_taga = castle
+b_kesen = castle
+b_shirakawa = castle
+
+#b_iwaki = castle
+#b_aizu = castle
+#b_date = castle
+#b_kurokawa = castle
+#b_inawashiro = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

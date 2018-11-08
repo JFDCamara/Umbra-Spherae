@@ -1,0 +1,12 @@
+# 1778 - Iux-siang
+
+# County Title
+title = c_iuxsiang
+
+# Settlements
+max_settlements = 1
+b_iuxsiang = castle
+
+# Misc
+culture = tangut
+religion = buddhist

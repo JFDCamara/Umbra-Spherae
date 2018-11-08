@@ -1,0 +1,24 @@
+#This is what was changed in landed_titles.txt
+
+#Deccan
+#added c_kavaratti to d_chera_nadu
+
+#Scandinavia
+#added d_tuniit_nunaat (with new provinces) to k_norway
+
+#Tartaria
+#added c_dornogobi and c_khara_narin_ula to d_khangai
+#added c_brakmrax, c_hoksren and c_iuxsiang to d_ikh_bogd
+#added d_dorno_tal to k_mongolia (with new provinces)
+#added d_baigal_nuur to k_mongolia (with new provinces)
+#added k_khitans (with new provinces)
+
+#Tibet
+#added c_dartsedo to d_dege
+#added d_erma to k_kham (with new provinces)
+#added c_ghraxliang and c_kam to d_jiuquan
+#added d_hingkhieng to k_xixia (with new provinces)
+#added d_bjenghrax to k_xixia (with new provinces)
+#capital of k_xixia changed
+
+#Holy sites of Taoist removed

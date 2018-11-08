@@ -1,0 +1,19 @@
+#Tibet
+
+technology = {
+	titles = {
+		d_erma 
+	}
+
+	769 = {
+		military = 1.5
+		economy = 0.5
+		culture = 1.0
+	}
+		
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}

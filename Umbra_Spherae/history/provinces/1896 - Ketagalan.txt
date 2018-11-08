@@ -1,0 +1,26 @@
+# 1337 - Ketagalan
+
+# County Title
+title = c_ketagalan
+
+# Settlements
+max_settlements = 3
+b_kelang = tribal
+#b_hoba = 
+#b_tayopae = 
+#b_kipatauw = 
+#b_pattsiran = 
+#b_kinpa = 
+#b_tayouan = 
+#b_tayour = 
+
+
+
+# Misc
+culture = middag
+religion = taiwanese_religion
+terrain = plains
+
+# History
+
+

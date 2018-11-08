@@ -1,0 +1,23 @@
+# 1652 - Danh
+
+# County Title
+title = c_danh
+
+# Settlements
+max_settlements = 4
+b_pukjang = castle
+b_limgha_danh = city
+b_yednom = city
+#b_chiengphiung =
+#b_nomlak =
+#b_drieuzjeng =
+#b_kuanzjeng =
+#b_ghantriang =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

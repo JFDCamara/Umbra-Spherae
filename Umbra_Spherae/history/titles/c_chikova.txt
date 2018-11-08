@@ -1,0 +1,65 @@
+#Manyuchi Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083866 #Baroma
+}
+780.1.1={
+	holder=1000083867 #Kumbirai
+}
+810.1.1={
+	holder=1000083868 #Musafare
+}
+840.1.1={
+	holder=1000083869 #Baroma
+}
+870.1.1={
+	holder=1000083870 #Kuseka
+}
+900.1.1={
+	holder=1000083871 #Dzingai
+}
+930.1.1={
+	holder=1000083872 #Baroma
+}
+960.1.1={
+	holder=1000083873 #Tichayana
+}
+990.1.1={
+	holder=1000083874 #Dambanyika
+}
+1020.1.1={
+	holder=1000083875 #Matope
+}
+1050.1.1={
+	holder=1000083876 #Dambanyika
+}
+1080.1.1={
+	holder=1000083877 #Nyenyedzi
+}
+1110.1.1={
+	holder=1000083878 #Taurai
+}
+1140.1.1={
+	holder=1000083879 #Chivere
+}
+1170.1.1={
+	holder=1000083880 #Kuseka
+}
+1200.1.1={
+	holder=1000083881 #Tashongedzwa
+}
+1230.1.1={
+	holder=1000083882 #Neshangwe
+}
+1260.1.1={
+	holder=1000083883 #Tinaye
+}
+1290.1.1={
+	holder=1000083884 #Takudzwa
+}
+1320.1.1={
+	holder=1000083885 #Mavura
+}
+1350.1.1={
+	holder=1000083886 #Nyambu
+}

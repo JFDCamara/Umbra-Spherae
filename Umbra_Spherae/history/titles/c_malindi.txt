@@ -1,0 +1,71 @@
+#Meli Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076718 #Busara
+}
+780.1.1={
+	holder=1000076719 #Atieno
+}
+810.1.1={
+	holder=1000076720 #Salene
+}
+840.1.1={
+	holder=1000076721 #Msia
+}
+870.1.1={
+	holder=1000076722 #Kiama
+}
+900.1.1={
+	holder=1000076723 #Jata
+}
+930.1.1={
+	holder=1000076724 #Zawadi
+}
+960.1.1={
+	holder=1000076725 #Juma
+}
+990.1.1={
+	holder=1000076726 #Hodari
+}
+1020.1.1={
+	holder=1000076727 #Kifeda
+}
+1050.1.1={
+	holder=1000076728 #Moyo
+}
+1080.1.1={
+	holder=1000076729 #Baraka
+}
+1110.1.1={
+	holder=1000076730 #Msia
+}
+1140.1.1={
+	holder=1000076731 #Msia
+}
+1170.1.1={
+	holder=1000076732 #Issa
+}
+1180.1.1={
+	liege="k_swahili"
+}
+1200.1.1={
+	holder=1000076733 #Simba
+}
+1203.1.1={
+	liege=0
+}
+1230.1.1={
+	holder=1000076734 #Jumaane
+}
+1260.1.1={
+	holder=1000076735 #Kereenyaga
+}
+1290.1.1={
+	holder=1000076736 #Elea
+}
+1320.1.1={
+	holder=1000076737 #Njowga
+}
+1350.1.1={
+	holder=1000076738 #Moyo
+}

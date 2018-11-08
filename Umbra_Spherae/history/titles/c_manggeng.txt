@@ -1,0 +1,70 @@
+#Samudra Dynasty
+750.1.1={
+	liege="d_pasai"
+}
+750.1.1={
+	holder=1000203978 #Kefli
+}
+780.1.1={
+	holder=1000203979 #Ungu
+}
+810.1.1={
+	holder=1000203980 #Yunos
+}
+840.1.1={
+	holder=1000080785 #Ubit
+}
+870.1.1={
+	holder=1000080786 #Agam
+}
+900.1.1={
+	holder=1000080787 #Itam
+}
+930.1.1={
+	holder=1000080788 #Gapeueh
+}
+960.1.1={
+	holder=1000080789 #Bintang
+}
+990.1.1={
+	holder=1000080790 #Rayek
+}
+1020.1.1={
+	holder=1000080791 #Teguh-Agam-Meutuwah
+}
+1050.1.1={
+	holder=1000076207 #Banta
+}
+1080.1.1={
+	holder=1000080792 #Puteh
+}
+1110.1.1={
+	holder=1000080793 #Jeumpa
+}
+1140.1.1={
+	holder=1000080794 #Meurah
+}
+1170.1.1={
+	holder=1000080795 #Gapi
+}
+1200.1.1={
+	holder=1000080796 #Agam-Na-Rahmat
+}
+1230.1.1={
+	holder=1000080797 #Muda
+}
+1267.1.1={
+	liege="k_samudra_pasai"
+}
+1267.1.1={
+	holder=1000080721 #Malik
+}
+1297.1.1={
+	holder=1000080722 #Muhammad
+}
+1326.1.1={
+	holder=1000080723 #Mahmud
+}
+1345.1.1={
+	holder=1000080724 #Ahmad
+}

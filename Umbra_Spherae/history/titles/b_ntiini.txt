@@ -1,0 +1,69 @@
+#Maalin Dynasty (Placeholders) of Ntiini estate of Baraawe
+
+750.1.1={
+	holding_dynasty = 1000028354
+	liege="d_baraawe"
+}
+750.1.1={
+	holder=1000083572 #Irir
+}
+780.1.1={
+	holder=1000083573 #Liban
+}
+810.1.1={
+	holder=1000083574 #Salah
+}
+840.1.1={
+	holder=1000083575 #Adan
+}
+870.1.1={
+	holder=1000083576 #Dhidhin
+}
+900.1.1={
+	holder=1000083577 #Abram
+}
+930.1.1={
+	holder=1000083578 #Talha
+}
+960.1.1={
+	holder=1000083579 #Talha
+}
+990.1.1={
+	holder=1000083580 #Umardin
+}
+1020.1.1={
+	holder=1000083581 #Siciid
+}
+1050.1.1={
+	holder=1000083582 #Ciise
+}
+1080.1.1={
+	holder=1000083583 #Sa'ad
+}
+1110.1.1={
+	holder=1000083584 #Jamal
+}
+1140.1.1={
+	holder=1000083585 #Salah
+}
+1170.1.1={
+	holder=1000083586 #Abu-Bakr
+}
+1200.1.1={
+	holder=1000083587 #Abram
+}
+1230.1.1={
+	holder=1000083588 #Umar
+}
+1260.1.1={
+	holder=1000083589 #Nur
+}
+1290.1.1={
+	holder=1000083590 #Adan
+}
+1320.1.1={
+	holder=1000083591 #Yayyo
+}
+1350.1.1={
+	holder=1000083592 #Sabraddin
+}

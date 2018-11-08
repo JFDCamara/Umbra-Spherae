@@ -1,0 +1,65 @@
+#Mariga Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083887 #Tichaona
+}
+780.1.1={
+	holder=1000083888 #Zivanai
+}
+810.1.1={
+	holder=1000083889 #Zivanai
+}
+840.1.1={
+	holder=1000083890 #Tavonga
+}
+870.1.1={
+	holder=1000083891 #Tichaona
+}
+900.1.1={
+	holder=1000083892 #Tichayana
+}
+930.1.1={
+	holder=1000083893 #Baroma
+}
+960.1.1={
+	holder=1000083894 #Hosho
+}
+990.1.1={
+	holder=1000083895 #Muchaneta
+}
+1020.1.1={
+	holder=1000083896 #Tichaona
+}
+1050.1.1={
+	holder=1000083897 #Gatsi
+}
+1080.1.1={
+	holder=1000083898 #Chenjerai
+}
+1110.1.1={
+	holder=1000083899 #Baroma
+}
+1140.1.1={
+	holder=1000083900 #Tapiwa
+}
+1170.1.1={
+	holder=1000083901 #Twiza
+}
+1200.1.1={
+	holder=1000083902 #Kuseka
+}
+1230.1.1={
+	holder=1000083903 #Nyatsimba
+}
+1260.1.1={
+	holder=1000083904 #Tichayana
+}
+1290.1.1={
+	holder=1000083905 #Tateguru
+}
+1320.1.1={
+	holder=1000083906 #Kamharapasu
+}
+1350.1.1={
+	holder=1000083907 #Tinodaishe
+}

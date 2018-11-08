@@ -1,0 +1,25 @@
+# 1947 - Sofala
+
+# County Title
+title = c_sofala
+
+# Settlements
+max_settlements = 6
+b_sofala = castle
+b_dondo = city
+b_mafambisse = temple
+b_muanza = city
+#b_tica = 
+#b_chitengo = 
+#b_componi = 
+#b_inchope = 
+
+# Misc
+culture = karanga
+religion = south_bantu_mythology
+
+# History
+
+1300.1.1 = {
+	religion = sunni
+}

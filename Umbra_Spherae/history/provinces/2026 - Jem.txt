@@ -1,0 +1,14 @@
+# 1770 - Jem
+
+# County Title
+title = c_jem
+
+# Settlements
+max_settlements = 3
+b_brakdrie = castle
+b_ngoxngyan = city
+b_thetmuonkruan = castle
+
+# Misc
+culture = tangut
+religion = buddhist

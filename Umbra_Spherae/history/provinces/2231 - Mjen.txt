@@ -1,0 +1,24 @@
+# 1583 - Mjen
+
+# County Title
+title = c_mjen
+
+# Settlements
+max_settlements = 4
+b_prase = castle
+b_cjangmieng = city
+b_lakrung = city
+#b_mjenzsjinzyen =
+#b_ngyoihzjeng =
+#b_lyungan =
+#b_mjenzjekzyen =
+#b_jemzyen =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

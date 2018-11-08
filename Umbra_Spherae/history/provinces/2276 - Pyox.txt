@@ -1,0 +1,23 @@
+# 1648 - Pyox
+
+# County Title
+title = c_pyox
+
+# Settlements
+max_settlements = 4
+b_yengxanpyox = castle
+b_ziengxhruah = castle
+b_nengpyox = castle
+#b_pyoxsean = castle
+#b_praksjingh = castle
+#b_anphiungpyox = castle
+#b_ghapjin_pyox = castle
+#b_pyoxkuk = city
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

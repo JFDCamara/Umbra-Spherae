@@ -1,0 +1,23 @@
+# 1645 - Zjek
+
+# County Title
+title = c_zjek
+
+# Settlements
+max_settlements = 4
+b_liezjek = castle
+b_bjenjii = city
+b_pyangsren = city
+#b_denghgho =
+#b_limzyen =
+#b_cinhneng = castle
+#b_thungzin = castle
+#b_ngopaux = castle
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

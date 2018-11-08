@@ -1,0 +1,21 @@
+# 1828 - Morotai
+
+# County Title
+title = c_morotai
+
+# Settlements
+max_settlements = 3
+b_sambiko = tribal
+b_daruba = tribal
+#b_wewemo =
+#b_tawakal =
+#b_losuwo =
+#b_hapo =
+#b_tilai =
+#b_capali =
+
+# Misc
+culture = malukan
+religion = melanesian_religion
+
+# History

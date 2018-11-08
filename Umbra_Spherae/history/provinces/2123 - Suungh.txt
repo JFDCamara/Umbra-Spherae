@@ -1,0 +1,24 @@
+# 1427 - Suungh
+
+# County Title
+title = c_suungh
+
+# Settlements
+max_settlements = 7
+b_suunghzjeng = castle
+b_nengling = castle
+b_kukzhuk = city
+b_ghraxip = city
+b_cjahzjeng = city
+b_yingtian = temple
+#b_ngyozjeng =
+#b_chrioxkjiu =
+#b_ghuaddeng =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

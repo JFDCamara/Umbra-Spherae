@@ -1,0 +1,21 @@
+# 1662 - Khami
+
+# County Title
+title = c_khami
+
+# Settlements
+max_settlements = 5
+b_khami = tribal
+#b_dananombe = 
+#b_naletale = 
+#b_shangangwe = 
+#b_dhlodhlo = 
+#b_manyanga = 
+#b_bulawayo = 
+#b_inyati = 
+
+# Misc
+culture = kalanga
+religion = south_bantu_mythology
+
+# History

@@ -1,0 +1,17 @@
+# 1866 - Saihan Tal
+
+# County Title
+title = c_saihan_tal
+
+# Settlements
+max_settlements = 4
+b_erenhot = tribal
+b_zamyn_uud = tribal
+#b_sonid_youqi =
+#b_sonid_zuoqi =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

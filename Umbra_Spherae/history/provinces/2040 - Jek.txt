@@ -1,0 +1,17 @@
+# 1784 - Jek
+
+# County Title
+title = c_jek_en
+
+# Settlements
+max_settlements = 4
+b_jek_jek = castle
+b_laisjyix = city
+b_ciexliengkruan = castle
+b_sjenghthapzsih = temple
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

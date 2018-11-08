@@ -1,0 +1,23 @@
+# 1446 - Driengh
+
+# County Title
+title = c_driengh
+
+# Settlements
+max_settlements = 5
+b_kuanxzjeng = castle
+b_mit = city
+b_ngyanmyox = city
+b_ghuengjang = city
+#b_ghuengdrak =
+#b_sindriengh =
+#b_janggieu =
+#b_kraxkuk =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

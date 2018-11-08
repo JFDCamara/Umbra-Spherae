@@ -1,0 +1,21 @@
+# 1929 - Kismaayo
+
+# County Title
+title = c_kismaayo
+
+# Settlements
+max_settlements = 4
+b_kismaayo = castle
+b_goobweyn = city
+b_yoontoy = temple
+#b_rassini = 
+#b_kaambooni = 
+#b_kolbio = 
+#b_turdo = 
+#b_jamaane = 
+
+# Misc
+culture = somali
+religion = sunni
+
+# History

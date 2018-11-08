@@ -1,0 +1,22 @@
+# 1089 - Angkor Borei
+
+# County Title
+title = c_angkor_borei
+
+# Settlements
+max_settlements = 4
+b_takeo = castle
+b_angkor_borei = temple
+b_baray = city
+#b_swai_samrong =
+#b_phumi_kampong_chak =
+#b_phumi_don_tuot =
+#b_phumi_cheang_tong =
+#b_phumi_andong_thom =
+
+# Misc
+culture = khmer
+religion = hindu
+
+# History
+

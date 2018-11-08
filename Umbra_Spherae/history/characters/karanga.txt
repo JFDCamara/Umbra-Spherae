@@ -1,0 +1,4130 @@
+#Mnangagwa Dynasty (Placeholders) of Sofala
+
+1000076676 = {
+	name="Tapiwa"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076677 = {
+	name="Tichafara"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076676
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076678 = {
+	name="Chipinduka"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076677
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076679 = {
+	name="Tavonga"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076678
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076680 = {
+	name="Twiza"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076679
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076681 = {
+	name="Kuseka"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076680
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076682 = {
+	name="Nhamo"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076681
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076683 = {
+	name="Hosho"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076682
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076684 = {
+	name="Tavonga"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076683
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076685 = {
+	name="Tashongedzwa"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076684
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076686 = {
+	name="Tendekai"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076685
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076687 = {
+	name="Takudzwa"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076686
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076688 = {
+	name="Hosho"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076687
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076689 = {
+	name="Goridhe"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076688
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076690 = {
+	name="Biria"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076689
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076691 = {
+	name="Goridhe"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076690
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076692 = {
+	name="Iwe"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076691
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076693 = {
+	name="Dzingai"
+	dynasty=1000028322 #Mnangagwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000076692
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076694 = {
+	name="Itai"
+	dynasty=1000028322 #Mnangagwa
+	religion="sunni"
+	culture="karanga"
+	father=1000076693
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076695 = {
+	name="Nyashadzashe"
+	dynasty=1000028322 #Mnangagwa
+	religion="sunni"
+	culture="karanga"
+	father=1000076694
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076696 = {
+	name="Itai"
+	dynasty=1000028322 #Mnangagwa
+	religion="sunni"
+	culture="karanga"
+	father=1000076695
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Garanganga Dynasty (Placeholders) of Zimbabwe
+
+1000083761 = {
+	name="Mavura"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083762 = {
+	name="Tashongedzwa"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083761
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083763 = {
+	name="Nyamaende"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083762
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083764 = {
+	name="Tsungirirai"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083763
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083765 = {
+	name="Kuseka"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083764
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083766 = {
+	name="Tapiwa"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083765
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083767 = {
+	name="Tichaona"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083766
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083768 = {
+	name="Itai"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083767
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083769 = {
+	name="Samatambira"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083768
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083770 = {
+	name="Tichafara"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083769
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083771 = {
+	name="Neshangwe"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083770
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083772 = {
+	name="Chipinduka"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083771
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083773 = {
+	name="Nhamo"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083772
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083774 = {
+	name="Dambanyika"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083773
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083775 = {
+	name="Chenjerai"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083774
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083776 = {
+	name="Chisi"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083775
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083777 = {
+	name="Chisi"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083776
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083778 = {
+	name="Mbada"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083777
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083779 = {
+	name="Dzingai"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083778
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083780 = {
+	name="Chivere"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083779
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083781 = {
+	name="Muchaneta"
+	dynasty=1000028363 #Garanganga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083780
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Hatendi Dynasty (Placeholders) of Matendera
+
+1000083782 = {
+	name="Nyakambira"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083783 = {
+	name="Changamire"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083782
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083784 = {
+	name="Nyatsimba"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083783
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083785 = {
+	name="Samatambira"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083784
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083786 = {
+	name="Mbada"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083785
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083787 = {
+	name="Tapiwa"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083786
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083788 = {
+	name="Gatsi"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083787
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083789 = {
+	name="Siti"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083788
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083790 = {
+	name="Chenjerai"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083789
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083791 = {
+	name="Dzingai"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083790
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083792 = {
+	name="Tichayana"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083791
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083793 = {
+	name="Tsungirirai"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083792
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083794 = {
+	name="Negomo"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083793
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083795 = {
+	name="Nyatsusu"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083794
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083796 = {
+	name="Nyahuma"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083795
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083797 = {
+	name="Nyatsimba"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083796
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083798 = {
+	name="Nyamaende"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083797
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083799 = {
+	name="Matope"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083798
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083800 = {
+	name="Itai"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083799
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083801 = {
+	name="Mbada"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083800
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083802 = {
+	name="Tichayana"
+	dynasty=1000028364 #Hatendi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083801
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Kachingwe Dynasty (Placeholders) of Chibvumani
+
+1000083803 = {
+	name="Tapiwa"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083804 = {
+	name="Gatsi"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083803
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083805 = {
+	name="Tsungirirai"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083804
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083806 = {
+	name="Tashongedzwa"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083805
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083807 = {
+	name="Simba"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083806
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083808 = {
+	name="Moyo"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083807
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083809 = {
+	name="Muchaneta"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083808
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083810 = {
+	name="Nyashadzashe"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083809
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083811 = {
+	name="Chikuyo"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083810
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083812 = {
+	name="Kumbirai"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083811
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083813 = {
+	name="Kuseka"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083812
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083814 = {
+	name="Negomo"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083813
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083815 = {
+	name="Nyambu"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083814
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083816 = {
+	name="Nhamo"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083815
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083817 = {
+	name="Samatambira"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083816
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083818 = {
+	name="Gatsi"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083817
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083819 = {
+	name="Moyo"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083818
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083820 = {
+	name="Tichayana"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083819
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083821 = {
+	name="Nhamo"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083820
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083822 = {
+	name="Tichafara"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083821
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083823 = {
+	name="Kuseka"
+	dynasty=1000028365 #Kachingwe
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083822
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Mabuwa Dynasty (Placeholders) of Zvongombe
+
+1000083824 = {
+	name="Tinodaishe"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083825 = {
+	name="Mhuru"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083824
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083826 = {
+	name="Zivanai"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083825
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083827 = {
+	name="Neshangwe"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083826
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083828 = {
+	name="Tapiwa"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083827
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083829 = {
+	name="Muchaneta"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083828
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083830 = {
+	name="Tashongedzwa"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083829
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083831 = {
+	name="Chisi"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083830
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083832 = {
+	name="Muchaneta"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083831
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083833 = {
+	name="Nyatsusu"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083832
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083834 = {
+	name="Tapiwa"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083833
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083835 = {
+	name="Mavura"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083834
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083836 = {
+	name="Nyamaende"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083835
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083837 = {
+	name="Baroma"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083836
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083838 = {
+	name="Goridhe"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083837
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083839 = {
+	name="Nyashadzashe"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083838
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083840 = {
+	name="Tichayana"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083839
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083841 = {
+	name="Tichayana"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083840
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083842 = {
+	name="Nyambu"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083841
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083843 = {
+	name="Dambanyika"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083842
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083844 = {
+	name="Taurai"
+	dynasty=1000028366 #Mabuwa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083843
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Mangwende Dynasty (Placeholders) of Chedzugwe
+
+1000083845 = {
+	name="Nyenyedzi"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083846 = {
+	name="Baroma"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083845
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083847 = {
+	name="Taurai"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083846
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083848 = {
+	name="Tsungirirai"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083847
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083849 = {
+	name="Biria"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083848
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083850 = {
+	name="Tateguru"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083849
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083851 = {
+	name="Takudzwa"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083850
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083852 = {
+	name="Matope"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083851
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083853 = {
+	name="Hosho"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083852
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083854 = {
+	name="Zivanai"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083853
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083855 = {
+	name="Nyahuma"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083854
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083856 = {
+	name="Dzingai"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083855
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083857 = {
+	name="Tapiwa"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083856
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083858 = {
+	name="Dambanyika"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083857
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083859 = {
+	name="Nyakambira"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083858
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083860 = {
+	name="Nyahuma"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083859
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083861 = {
+	name="Dambanyika"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083860
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083862 = {
+	name="Kumbirai"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083861
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083863 = {
+	name="Dambanyika"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083862
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083864 = {
+	name="Mhuru"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083863
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083865 = {
+	name="Nyatsimba"
+	dynasty=1000028367 #Mangwende
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083864
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Manyuchi Dynasty (Placeholders) of Chikova
+
+1000083866 = {
+	name="Baroma"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083867 = {
+	name="Kumbirai"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083866
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083868 = {
+	name="Musafare"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083867
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083869 = {
+	name="Baroma"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083868
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083870 = {
+	name="Kuseka"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083869
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083871 = {
+	name="Dzingai"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083870
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083872 = {
+	name="Baroma"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083871
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083873 = {
+	name="Tichayana"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083872
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083874 = {
+	name="Dambanyika"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083873
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083875 = {
+	name="Matope"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083874
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083876 = {
+	name="Dambanyika"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083875
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083877 = {
+	name="Nyenyedzi"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083876
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083878 = {
+	name="Taurai"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083877
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083879 = {
+	name="Chivere"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083878
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083880 = {
+	name="Kuseka"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083879
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083881 = {
+	name="Tashongedzwa"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083880
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083882 = {
+	name="Neshangwe"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083881
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083883 = {
+	name="Tinaye"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083882
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083884 = {
+	name="Takudzwa"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083883
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083885 = {
+	name="Mavura"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083884
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083886 = {
+	name="Nyambu"
+	dynasty=1000028368 #Manyuchi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083885
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Mariga Dynasty (Placeholders) of Zumbo
+
+1000083887 = {
+	name="Tichaona"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083888 = {
+	name="Zivanai"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083887
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083889 = {
+	name="Zivanai"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083888
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083890 = {
+	name="Tavonga"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083889
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083891 = {
+	name="Tichaona"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083890
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083892 = {
+	name="Tichayana"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083891
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083893 = {
+	name="Baroma"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083892
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083894 = {
+	name="Hosho"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083893
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083895 = {
+	name="Muchaneta"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083894
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083896 = {
+	name="Tichaona"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083895
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083897 = {
+	name="Gatsi"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083896
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083898 = {
+	name="Chenjerai"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083897
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083899 = {
+	name="Baroma"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083898
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083900 = {
+	name="Tapiwa"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083899
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083901 = {
+	name="Twiza"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083900
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083902 = {
+	name="Kuseka"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083901
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083903 = {
+	name="Nyatsimba"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083902
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083904 = {
+	name="Tichayana"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083903
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083905 = {
+	name="Tateguru"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083904
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083906 = {
+	name="Kamharapasu"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083905
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083907 = {
+	name="Tinodaishe"
+	dynasty=1000028369 #Mariga
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083906
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Mupfumira Dynasty (Placeholders) of Inyanga
+
+1000083908 = {
+	name="Neshangwe"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083909 = {
+	name="Tsungirirai"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083908
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083910 = {
+	name="Tateguru"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083909
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083911 = {
+	name="Moyo"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083910
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083912 = {
+	name="Mhuru"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083911
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083913 = {
+	name="Tazvitya"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083912
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083914 = {
+	name="Nyashadzashe"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083913
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083915 = {
+	name="Mhuru"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083914
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083916 = {
+	name="Tazvitya"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083915
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083917 = {
+	name="Hatitye"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083916
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083918 = {
+	name="Chikuyo"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083917
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083919 = {
+	name="Kumbirai"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083918
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083920 = {
+	name="Takudzwa"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083919
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083921 = {
+	name="Iwe"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083920
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083922 = {
+	name="Biria"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083921
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083923 = {
+	name="Jongwe"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083922
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083924 = {
+	name="Baroma"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083923
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083925 = {
+	name="Tinodaishe"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083924
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083926 = {
+	name="Goridhe"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083925
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083927 = {
+	name="Matope"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083926
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083928 = {
+	name="Chikuyo"
+	dynasty=1000028370 #Mupfumira
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083927
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Ndandarika Dynasty (Placeholders) of Dambarare
+
+1000083929 = {
+	name="Itai"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083930 = {
+	name="Goridhe"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083929
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083931 = {
+	name="Baba"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083930
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083932 = {
+	name="Nyamaende"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083931
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083933 = {
+	name="Dzingai"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083932
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083934 = {
+	name="Chikuyo"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083933
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083935 = {
+	name="Muchaneta"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083934
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083936 = {
+	name="Dambanyika"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083935
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083937 = {
+	name="Nyatsusu"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083936
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083938 = {
+	name="Tichaona"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083937
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083939 = {
+	name="Gatsi"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083938
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083940 = {
+	name="Negomo"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083939
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083941 = {
+	name="Twiza"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083940
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083942 = {
+	name="Dzingai"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083941
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083943 = {
+	name="Zivanai"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083942
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083944 = {
+	name="Hatitye"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083943
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083945 = {
+	name="Tsungirirai"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083944
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083946 = {
+	name="Tateguru"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083945
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083947 = {
+	name="Changamire"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083946
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083948 = {
+	name="Nyashadzashe"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083947
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083949 = {
+	name="Nyenyedzi"
+	dynasty=1000028371 #Ndandarika
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083948
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Nyakasikana Dynasty (Placeholders) of Masekesa
+
+1000083950 = {
+	name="Nhamo"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083951 = {
+	name="Tichaona"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083950
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083952 = {
+	name="Chenjerai"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083951
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083953 = {
+	name="Jongwe"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083952
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083954 = {
+	name="Siti"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083953
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083955 = {
+	name="Chipinduka"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083954
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083956 = {
+	name="Nhamo"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083955
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083957 = {
+	name="Tichafara"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083956
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083958 = {
+	name="Matope"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083957
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083959 = {
+	name="Muchaneta"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083958
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083960 = {
+	name="Changamire"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083959
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083961 = {
+	name="Mhuru"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083960
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083962 = {
+	name="Kuseka"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083961
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083963 = {
+	name="Tendekai"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083962
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083964 = {
+	name="Dzingai"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083963
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083965 = {
+	name="Baba"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083964
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083966 = {
+	name="Muchaneta"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083965
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083967 = {
+	name="Muchaneta"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083966
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083968 = {
+	name="Tichafara"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083967
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083969 = {
+	name="Tendekai"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083968
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083970 = {
+	name="Simba"
+	dynasty=1000028372 #Nyakasikana
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083969
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Nyandoro Dynasty (Placeholders) of Tere
+
+1000083971 = {
+	name="Taurai"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083972 = {
+	name="Takudzwa"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083971
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083973 = {
+	name="Tsungirirai"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083972
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083974 = {
+	name="Chivere"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083973
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083975 = {
+	name="Tapiwa"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083974
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083976 = {
+	name="Kamharapasu"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083975
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083977 = {
+	name="Taurai"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083976
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083978 = {
+	name="Hosho"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083977
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083979 = {
+	name="Gatsi"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083978
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083980 = {
+	name="Dehwe"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083979
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083981 = {
+	name="Mbada"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083980
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083982 = {
+	name="Tichayana"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083981
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083983 = {
+	name="Dzingai"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083982
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083984 = {
+	name="Mbada"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083983
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083985 = {
+	name="Nyakambira"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083984
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083986 = {
+	name="Simba"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083985
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083987 = {
+	name="Nyashadzashe"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083986
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083988 = {
+	name="Dehwe"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083987
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083989 = {
+	name="Nyakambira"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083988
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083990 = {
+	name="Chipinduka"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083989
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083991 = {
+	name="Kuseka"
+	dynasty=1000028373 #Nyandoro
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000083990
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Nyathi Dynasty (Placeholders) of Sena
+
+1000080000 = {
+	name="Nyakambira"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000080001 = {
+	name="Zivanai"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080000
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000080002 = {
+	name="Tinodaishe"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080001
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000080003 = {
+	name="Tinaye"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080002
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000080004 = {
+	name="Baroma"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080003
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000080005 = {
+	name="Chisi"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080004
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000080006 = {
+	name="Chikuyo"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080005
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000080007 = {
+	name="Negomo"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080006
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000080008 = {
+	name="Dehwe"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080007
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000080009 = {
+	name="Tavonga"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080008
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000080010 = {
+	name="Tavonga"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080009
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000080011 = {
+	name="Chipinduka"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080010
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000080012 = {
+	name="Mhuru"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080011
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000080013 = {
+	name="Nyatsusu"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080012
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000080014 = {
+	name="Tendekai"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080013
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000080015 = {
+	name="Hatitye"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080014
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000080016 = {
+	name="Nyatsimba"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080015
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000080017 = {
+	name="Nyakambira"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080016
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000080018 = {
+	name="Chisi"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080017
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000080019 = {
+	name="Chisi"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080018
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000080020 = {
+	name="Goridhe"
+	dynasty=1000028374 #Nyathi
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080019
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Tongofa Dynasty (Placeholders) of Tete
+
+1000080021 = {
+	name="Matope"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000080022 = {
+	name="Dzingai"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080021
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000080023 = {
+	name="Chisi"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080022
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000080024 = {
+	name="Tichaona"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080023
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000080025 = {
+	name="Hosho"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080024
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000080026 = {
+	name="Iwe"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080025
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000080027 = {
+	name="Takudzwa"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080026
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000080028 = {
+	name="Mbada"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080027
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000080029 = {
+	name="Simba"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080028
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000080030 = {
+	name="Tashongedzwa"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080029
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000080031 = {
+	name="Tazvitya"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080030
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000080032 = {
+	name="Nyatsimba"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080031
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000080033 = {
+	name="Siti"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080032
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000080034 = {
+	name="Tashongedzwa"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080033
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000080035 = {
+	name="Chenjerai"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080034
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000080036 = {
+	name="Tsungirirai"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080035
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000080037 = {
+	name="Dzingai"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080036
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000080038 = {
+	name="Neshangwe"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080037
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000080039 = {
+	name="Nyakambira"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080038
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000080040 = {
+	name="Tinaye"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080039
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000080041 = {
+	name="Gatsi"
+	dynasty=1000028375 #Tongofa
+	religion="south_bantu_mythology"
+	culture="karanga"
+	father=1000080040
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+

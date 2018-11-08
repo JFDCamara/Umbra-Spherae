@@ -1,0 +1,65 @@
+#Bali Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083331 #Bahdoon
+}
+780.1.1={
+	holder=1000083332 #Othman
+}
+810.1.1={
+	holder=1000083333 #Waabberi
+}
+840.1.1={
+	holder=1000083334 #Warsame
+}
+870.1.1={
+	holder=1000083335 #Kaahin
+}
+900.1.1={
+	holder=1000083336 #Bahdoon
+}
+930.1.1={
+	holder=1000083337 #Ibrahiim
+}
+960.1.1={
+	holder=1000083338 #Cusmaan
+}
+990.1.1={
+	holder=1000083339 #Aberashid
+}
+1020.1.1={
+	holder=1000083340 #Naleye
+}
+1050.1.1={
+	holder=1000083341 #Umar
+}
+1080.1.1={
+	holder=1000083342 #Kalif
+}
+1110.1.1={
+	holder=1000083343 #Badlay
+}
+1140.1.1={
+	holder=1000083344 #Yusuf
+}
+1170.1.1={
+	holder=1000083345 #Maxamed
+}
+1200.1.1={
+	holder=1000083346 #Omar
+}
+1230.1.1={
+	holder=1000083347 #Hanad
+}
+1260.1.1={
+	holder=1000083348 #Omer
+}
+1290.1.1={
+	holder=1000083349 #Shermarke
+}
+1320.1.1={
+	holder=1000083350 #Osman
+}
+1350.1.1={
+	holder=1000083351 #Ibrahim
+}

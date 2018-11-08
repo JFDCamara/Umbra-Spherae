@@ -1,0 +1,21 @@
+# 1205 - Sukadana
+
+# County Title
+title = c_sukadana
+
+# Settlements
+max_settlements = 4
+b_telukmelano = tribal
+b_sukadana = tribal
+#b_siduk =
+#b_sungatulak =
+#b_jerukung =
+#b_aurkuning =
+#b_nagatayap =
+#b_tanjungsatai =
+
+# Misc
+culture = dayak
+religion = bornean_religion
+
+# History

@@ -1,0 +1,21 @@
+# 1138 - Kon Tum
+
+# County Title
+title = c_kon_tum
+
+# Settlements
+max_settlements = 4
+b_chu_hreng = castle
+b_kon_tum = city
+b_vinh_quang = temple
+#b_kroong =
+#b_ia_chim =
+#b_sa_binh =
+#b_ya_tang =
+#b_dak_ha_kon_tum =
+
+# Misc
+culture = cham
+religion = hindu
+
+# History

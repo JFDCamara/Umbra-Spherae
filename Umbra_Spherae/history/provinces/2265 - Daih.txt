@@ -1,0 +1,24 @@
+# 1637 - Daih
+
+# County Title
+title = c_daih
+
+# Settlements
+max_settlements = 4
+b_jangmyox = castle
+b_segheng = castle
+b_ghokuk = castle
+#b_mrakuk = castle
+#b_ngranhmuon = city
+#b_buancjix = city
+#b_ngoxthaisren = city
+#b_kuak =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

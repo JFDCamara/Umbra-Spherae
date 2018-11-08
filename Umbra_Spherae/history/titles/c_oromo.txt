@@ -1,0 +1,65 @@
+#Oromo Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083310 #Abdullahi
+}
+780.1.1={
+	holder=1000083311 #Awaale
+}
+810.1.1={
+	holder=1000083312 #Hadji
+}
+840.1.1={
+	holder=1000083313 #Ibraahin
+}
+870.1.1={
+	holder=1000083314 #Bahdoon
+}
+900.1.1={
+	holder=1000083315 #Ibraahin
+}
+930.1.1={
+	holder=1000083316 #Sabr
+}
+960.1.1={
+	holder=1000083317 #Hassan
+}
+990.1.1={
+	holder=1000083318 #Sherif
+}
+1020.1.1={
+	holder=1000083319 #Hassan
+}
+1050.1.1={
+	holder=1000083320 #Othman
+}
+1080.1.1={
+	holder=1000083321 #Liban
+}
+1110.1.1={
+	holder=1000083322 #Maxamed
+}
+1140.1.1={
+	holder=1000083323 #Maxamuud
+}
+1170.1.1={
+	holder=1000083324 #Aberashid
+}
+1200.1.1={
+	holder=1000083325 #Liibaan
+}
+1230.1.1={
+	holder=1000083326 #Ciise
+}
+1260.1.1={
+	holder=1000083327 #Abdi
+}
+1290.1.1={
+	holder=1000083328 #Mansur
+}
+1320.1.1={
+	holder=1000083329 #Geeddi
+}
+1350.1.1={
+	holder=1000083330 #Nahwi
+}

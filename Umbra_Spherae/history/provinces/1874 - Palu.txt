@@ -1,0 +1,21 @@
+# 1243 - Palu
+
+# County Title
+title = c_palu
+
+# Settlements
+max_settlements = 3
+b_sigi_biromaru = tribal
+b_palu = tribal
+#b_kulawi =
+#b_lore_utara =
+#b_banawa =
+#b_marawola =
+#b_parigi =
+#b_poso_pesisir =
+
+# Misc
+culture = minahasa
+religion = sulawesi_religion
+
+# History

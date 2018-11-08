@@ -1,0 +1,21 @@
+# 1142 - Lai Chau
+
+# County Title
+title = c_lai_chau
+
+# Settlements
+max_settlements = 4
+b_ho_thau = castle
+b_lai_chau = city
+b_pa_vay_su = temple
+#b_mo_si_san =
+#b_ma_ly_chai =
+#b_mu_sang =
+#b_muong_so =
+#b_phong_tho =
+
+# Misc
+culture = viet
+religion = thangiao
+
+# History

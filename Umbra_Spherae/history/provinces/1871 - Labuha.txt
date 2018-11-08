@@ -1,0 +1,21 @@
+# 1240 - Labuha
+
+# County Title
+title = c_labuha
+
+# Settlements
+max_settlements = 3
+b_wayakuba = tribal
+b_labuha = tribal
+#b_sayoang =
+#b_geti =
+#b_opang =
+#b_kusu =
+#b_palmea =
+#b_jere =
+
+# Misc
+culture = malukan
+religion = melanesian_religion
+
+# History

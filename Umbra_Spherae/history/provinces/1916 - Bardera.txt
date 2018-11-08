@@ -1,0 +1,21 @@
+# 1916 - Bardera
+
+# County Title
+title = c_bardera
+
+# Settlements
+max_settlements = 3
+b_bardera = castle
+b_baidoa = city
+#b_luuq = 
+#b_madiino = 
+#b_garbahaarey = 
+#b_buurdhuubo = 
+#b_wajid = 
+#b_mandera_bardera = 
+
+# Misc
+culture = somali
+religion = sunni
+
+# History

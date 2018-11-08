@@ -1,0 +1,21 @@
+# 1921 - Kaffa
+
+# County Title
+title = c_kaffa
+
+# Settlements
+max_settlements = 3
+b_kaffa_kaffa = tribal
+#b_bonga_kaffa = 
+#b_mezhenger = 
+#b_bench_maji = 
+#b_bita = 
+#b_chena = 
+#b_gewata = 
+#b_menjiwo = 
+
+# Misc
+culture = omotic
+religion = omotic_pagan
+
+# History

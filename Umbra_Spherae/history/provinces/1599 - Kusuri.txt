@@ -1,0 +1,19 @@
+# 1333 - Kusuri
+
+# County Title
+title = c_kusuri
+
+# Settlements
+max_settlements = 4
+b_kusuri = tribal
+b_nemuro = tribal
+
+#b_soya = castle
+#b_shari = castle
+
+
+# Misc
+culture = ainu
+religion = ainu_pantheism
+
+# History

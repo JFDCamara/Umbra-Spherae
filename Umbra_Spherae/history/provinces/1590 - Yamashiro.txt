@@ -1,0 +1,22 @@
+# 1927 - Yamashiro
+
+# County Title
+title = c_yamashiro
+
+# Settlements
+max_settlements = 6
+b_dairi = castle
+b_heiankyo = city
+b_gion = temple
+b_toba = castle
+
+#b_fushimi = city
+#b_uji = castle
+#b_rokuhara = castle
+#b_muromachi = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

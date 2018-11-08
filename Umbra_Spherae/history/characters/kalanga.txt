@@ -1,0 +1,2360 @@
+#Moyo Dynasty (Placeholders) of Mapungubwe
+
+1000080353 = {
+	name="Chingombe"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000080354 = {
+	name="Mosojane"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080353
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000080355 = {
+	name="Chikura"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080354
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000080356 = {
+	name="Nichasike"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080355
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000080357 = {
+	name="Gumboremvura"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080356
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000080358 = {
+	name="Chirisa"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080357
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000080359 = {
+	name="Ntalaolte"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080358
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000080360 = {
+	name="Chirisamhuru"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080359
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000080361 = {
+	name="Zwikono"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080360
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000080362 = {
+	name="Rupengo"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080361
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000080363 = {
+	name="Chikuyo"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080362
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000080364 = {
+	name="Rupandamanhanga"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080363
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000080365 = {
+	name="Rupengo"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080364
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000080366 = {
+	name="Ninhenbwe"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080365
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000080367 = {
+	name="Kwelekwele"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080366
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000080368 = {
+	name="Nigwande"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080367
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000080369 = {
+	name="Madabhale"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080368
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000080370 = {
+	name="Nimale"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080369
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000080371 = {
+	name="Mutinhima"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080370
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000080372 = {
+	name="Rupandamanhanga"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080371
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000080373 = {
+	name="Zwikono"
+	dynasty=1000028376 #Moyo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080372
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Mpala Dynasty (Placeholders) of Mapela
+
+1000080374 = {
+	name="Chibundule"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000080375 = {
+	name="Ntalaolte"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080374
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000080376 = {
+	name="Chirisamhuru"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080375
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000080377 = {
+	name="Mwayile"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080376
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000080378 = {
+	name="Nichasike"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080377
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000080379 = {
+	name="Makulukusa"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080378
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000080380 = {
+	name="Vunamakuni"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080379
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000080381 = {
+	name="Kambgun"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080380
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000080382 = {
+	name="Nichasike"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080381
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000080383 = {
+	name="Maluzapi"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080382
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000080384 = {
+	name="Vunamakuni"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080383
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000080385 = {
+	name="Nichibombwe"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080384
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000080386 = {
+	name="Chibamubamu"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080385
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000080387 = {
+	name="Nkuse"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080386
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000080388 = {
+	name="Nkami"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080387
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000080389 = {
+	name="Nkami"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080388
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000080390 = {
+	name="Zwikono"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080389
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000080391 = {
+	name="Chingombe"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080390
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000080392 = {
+	name="Chibamubamu"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080391
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000080393 = {
+	name="Mhange"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080392
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000080394 = {
+	name="Mpengo"
+	dynasty=1000028377 #Mpala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080393
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Mpofu Dynasty (Placeholders) of Malumba
+
+1000080395 = {
+	name="Langane"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000080396 = {
+	name="Rupengo"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080395
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000080397 = {
+	name="Chirisamhuru"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080396
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000080398 = {
+	name="Masola"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080397
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000080399 = {
+	name="Chirisa"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080398
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000080400 = {
+	name="Nigwande"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080399
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000080401 = {
+	name="Dlembeubu"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080400
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000080402 = {
+	name="Mhange"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080401
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000080403 = {
+	name="Dlembeubu"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080402
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000080404 = {
+	name="Tohwechipi"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080403
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000080405 = {
+	name="Chirisa"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080404
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000080406 = {
+	name="Hungwe"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080405
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000080407 = {
+	name="Nimale"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080406
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000080408 = {
+	name="Chirisa"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080407
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000080409 = {
+	name="Ninhenbwe"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080408
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000080410 = {
+	name="Ninhenbwe"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080409
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000080411 = {
+	name="Nimale"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080410
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000080412 = {
+	name="Makulukusa"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080411
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000080413 = {
+	name="Madlazwegwendo"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080412
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000080414 = {
+	name="Dalaunde"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080413
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000080415 = {
+	name="Maluzapi"
+	dynasty=1000028378 #Mpofu
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080414
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Nkala Dynasty (Placeholders) of Toutswemogala
+
+1000080416 = {
+	name="Nkami"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000080417 = {
+	name="Nichasike"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080416
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000080418 = {
+	name="Mudavanhu"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080417
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000080419 = {
+	name="Nigwande"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080418
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000080420 = {
+	name="Mosojane"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080419
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000080421 = {
+	name="Ninhenbwe"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080420
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000080422 = {
+	name="Nichasike"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080421
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000080423 = {
+	name="Vunamakuni"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080422
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000080424 = {
+	name="Gumboremvura"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080423
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000080425 = {
+	name="Chibamubamu"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080424
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000080426 = {
+	name="Nkuse"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080425
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000080427 = {
+	name="Kwelekwele"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080426
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000080428 = {
+	name="Nichibombwe"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080427
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000080429 = {
+	name="Nkuse"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080428
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000080430 = {
+	name="Chibundule"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080429
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000080431 = {
+	name="Nimale"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080430
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000080432 = {
+	name="Gumboremvura"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080431
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000080433 = {
+	name="Dombo"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080432
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000080434 = {
+	name="Kambgun"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080433
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000080435 = {
+	name="Zwikono"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080434
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000080436 = {
+	name="Chirisa"
+	dynasty=1000028379 #Nkala
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080435
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Tshwene Dynasty (Placeholders) of Toranjuu
+
+1000080437 = {
+	name="Mudavanhu"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000080438 = {
+	name="Nikati"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080437
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000080439 = {
+	name="Nkami"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080438
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000080440 = {
+	name="Vunamakuni"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080439
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000080441 = {
+	name="Kambgun"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080440
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000080442 = {
+	name="Mwayile"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080441
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000080443 = {
+	name="Dalaunde"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080442
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000080444 = {
+	name="Ntalaolte"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080443
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000080445 = {
+	name="Masola"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080444
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000080446 = {
+	name="Vunamakuni"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080445
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000080447 = {
+	name="Masola"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080446
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000080448 = {
+	name="Mpengo"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080447
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000080449 = {
+	name="Mpengo"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080448
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000080450 = {
+	name="Vunamakuni"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080449
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000080451 = {
+	name="Kambgun"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080450
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000080452 = {
+	name="Mutinhima"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080451
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000080453 = {
+	name="Chingombe"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080452
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000080454 = {
+	name="Makulukusa"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080453
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000080455 = {
+	name="Mosojane"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080454
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000080456 = {
+	name="Ntalaolte"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080455
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000080457 = {
+	name="Mwayile"
+	dynasty=1000028380 #Tshwene
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000080456
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Gumo Dynasty (Placeholders) of Khami
+
+1000202358 = {
+	name="Chirisa"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202359 = {
+	name="Mosojane"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202358
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202360 = {
+	name="Mosojane"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202359
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202361 = {
+	name="Ninhenbwe"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202360
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202362 = {
+	name="Ntalaolte"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202361
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202363 = {
+	name="Nikati"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202362
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202364 = {
+	name="Chingombe"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202363
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202365 = {
+	name="Dombo"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202364
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202366 = {
+	name="Chibamubamu"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202365
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202367 = {
+	name="Kambgun"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202366
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000202368 = {
+	name="Mhange"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202367
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202369 = {
+	name="Madabhale"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202368
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202370 = {
+	name="Chibundule"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202369
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202371 = {
+	name="Gumboremvura"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202370
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202372 = {
+	name="Mwayile"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202371
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202373 = {
+	name="Chikura"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202372
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202374 = {
+	name="Masola"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202373
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202375 = {
+	name="Rupandamanhanga"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202374
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000202376 = {
+	name="Mutinhima"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202375
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202377 = {
+	name="Mudavanhu"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202376
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000202378 = {
+	name="Mpengo"
+	dynasty=1000028381 #Gumo
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202377
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Khupe Dynasty (Placeholders) of Domboshava
+
+1000202390 = {
+	name="Vunamakuni"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202391 = {
+	name="Madabhale"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202390
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202392 = {
+	name="Chibundule"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202391
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202393 = {
+	name="Misola"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202392
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202394 = {
+	name="Langane"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202393
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202395 = {
+	name="Zwikono"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202394
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202396 = {
+	name="Mosojane"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202395
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202397 = {
+	name="Hungwe"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202396
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202398 = {
+	name="Ninhenbwe"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202397
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202399 = {
+	name="Hungwe"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202398
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000202400 = {
+	name="Madabhale"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202399
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202401 = {
+	name="Chibundule"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202400
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202402 = {
+	name="Dombo"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202401
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202403 = {
+	name="Chibundule"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202402
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202404 = {
+	name="Vunamakuni"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202403
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202405 = {
+	name="Kwelekwele"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202404
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202406 = {
+	name="Tohwechipi"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202405
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202407 = {
+	name="Chikura"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202406
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000202408 = {
+	name="Zwikono"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202407
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202409 = {
+	name="Mwayile"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202408
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000202410 = {
+	name="Maluzapi"
+	dynasty=1000028382 #Khupe
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202409
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Dube Dynasty (Placeholders) of Mtelegwa
+
+1000202411 = {
+	name="Nkami"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202412 = {
+	name="Kambgun"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202411
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202413 = {
+	name="Mudavanhu"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202412
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202414 = {
+	name="Nikati"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202413
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202415 = {
+	name="Misola"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202414
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202416 = {
+	name="Kwelekwele"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202415
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202417 = {
+	name="Langane"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202416
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202418 = {
+	name="Masola"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202417
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202419 = {
+	name="Chingombe"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202418
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202420 = {
+	name="Nichasike"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202419
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000202421 = {
+	name="Nichasike"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202420
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202422 = {
+	name="Kwelekwele"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202421
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202423 = {
+	name="Chibamubamu"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202422
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202424 = {
+	name="Tumbare"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202423
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202425 = {
+	name="Madlazwegwendo"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202424
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202426 = {
+	name="Nkami"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202425
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202427 = {
+	name="Kambgun"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202426
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202428 = {
+	name="Tumbare"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202427
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000202429 = {
+	name="Nkuse"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202428
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202430 = {
+	name="Makulukusa"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202429
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000202431 = {
+	name="Tumbare"
+	dynasty=1000028383 #Dube
+	religion="south_bantu_mythology"
+	culture="kalanga"
+	father=1000202430
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+

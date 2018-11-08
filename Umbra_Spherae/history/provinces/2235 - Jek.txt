@@ -1,0 +1,25 @@
+# 1589 - Jek
+
+# County Title
+title = c_jek
+
+# Settlements
+max_settlements = 7
+b_ghruahjang = castle
+b_zjengto = city
+b_bie = city
+b_srungliu = city
+b_sinbyan = city
+b_kuangxto = city
+b_heming = temple
+#b_lengzyen =
+#b_sinto_jek =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

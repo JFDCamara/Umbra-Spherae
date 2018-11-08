@@ -1,0 +1,71 @@
+#Mpofu Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000080395 #Langane
+}
+780.1.1={
+	holder=1000080396 #Rupengo
+}
+810.1.1={
+	holder=1000080397 #Chirisamhuru
+}
+840.1.1={
+	holder=1000080398 #Masola
+}
+870.1.1={
+	holder=1000080399 #Chirisa
+}
+900.1.1={
+	holder=1000080400 #Nigwande
+}
+930.1.1={
+	holder=1000080401 #Dlembeubu
+}
+960.1.1={
+	holder=1000080402 #Mhange
+}
+990.1.1={
+	holder=1000080403 #Dlembeubu
+}
+1020.1.1={
+	holder=1000080404 #Tohwechipi
+}
+1050.1.1={
+	holder=1000080405 #Chirisa
+}
+1075.1.1={
+	liege="d_mapungubwe"
+}
+1080.1.1={
+	holder=1000080406 #Hungwe
+}
+1110.1.1={
+	holder=1000080407 #Nimale
+}
+1140.1.1={
+	holder=1000080408 #Chirisa
+}
+1170.1.1={
+	holder=1000080409 #Ninhenbwe
+}
+1200.1.1={
+	holder=1000080410 #Ninhenbwe
+}
+1220.1.1={
+	liege=0
+}
+1230.1.1={
+	holder=1000080411 #Nimale
+}
+1260.1.1={
+	holder=1000080412 #Makulukusa
+}
+1290.1.1={
+	holder=1000080413 #Madlazwegwendo
+}
+1320.1.1={
+	holder=1000080414 #Dalaunde
+}
+1350.1.1={
+	holder=1000080415 #Maluzapi
+}

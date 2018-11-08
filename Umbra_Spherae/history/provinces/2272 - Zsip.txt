@@ -1,0 +1,23 @@
+# 1644 - Zsip
+
+# County Title
+title = c_zsip
+
+# Settlements
+max_settlements = 4
+b_brakpek = castle
+b_zsipchjyen = city
+b_kjithiang = city
+#b_zjeklu = city
+#b_yengxghua =
+#b_dadneng =
+#b_bo =
+#b_uonzjen =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

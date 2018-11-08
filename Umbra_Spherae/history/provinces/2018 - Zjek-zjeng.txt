@@ -1,0 +1,19 @@
+# 1762 - Zjek-zjeng
+
+# County Title
+title = c_zjekzjeng
+
+# Settlements
+max_settlements = 4
+b_muamje = castle
+b_khyukziengx = city
+b_laiung = castle
+#b_sintreng =
+#b_mjeluk =
+#b_sriicuung =
+
+# Misc
+culture = thai
+religion = sastsana_phi
+
+# History

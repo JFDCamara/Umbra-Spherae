@@ -1,0 +1,874 @@
+e_khmer_empire = {
+
+    	color= { 127 180 60 }
+    	color2= { 183 176 194 }
+
+	capital = 1712 #Angkor Wat
+
+	# Regnal names
+	#male_names = {
+	#	Bhavavarman Mahendravarman Isanavarman Jayavarman Sambhuvarman Rajendravarman Mahipatavarman
+	#	Yasovarman Harshavarman Udayadityavarman Prithindravarman Rudravarman Noriditdravarman Dharanindravarman
+	#	Tribhuvanidityavarman Srei-Jayavarman
+	#}
+
+	k_kambuja = {
+
+    		color= { 88 126 41 }
+    		color2= { 183 176 194 }
+
+		culture = khmer
+
+		capital = 1712 #Angkor Wat
+
+		# Regnal names
+		#male_names = {
+		#	Bhavavarman Mahendravarman Isanavarman Jayavarman Sambhuvarman Rajendravarman Mahipatavarman
+		#	Yasovarman Harshavarman Udayadityavarman Prithindravarman Rudravarman Noriditdravarman Dharanindravarman
+		#	Tribhuvanidityavarman Srei-Jayavarman
+		#}
+
+		d_angkor = {
+
+    			color= { 70 123 45 }
+    			color2= { 183 176 194 }
+
+			capital = 1712 #Angkor Wat
+
+			c_angkor_wat = {
+
+    				color= { 75 123 45 }
+    				color2= { 183 176 194 }
+
+				b_angkor_wat = {
+				}
+				b_siem_reap = {
+				}
+				b_phnom_krom = {
+				}
+				b_chong_khneas = {
+				}
+				b_rokar_kambot = {
+				}
+				b_puok = {
+				}
+				b_pradak = {
+				}
+				b_phumi_khna = {
+				}
+			}
+			c_banteay_srei = {
+
+    				color= { 70 128 45 }
+    				color2= { 183 176 194 }
+
+				b_banteay_srei = {
+				}
+				b_phumi_champei = {
+				}
+				b_sre_noy = {
+				}
+				b_phumi_lovea = {
+				}
+				b_ihr = {
+				}
+				b_phumi_don_em = {
+				}
+				b_roessei_thum = {
+				}
+				b_phumi_aprak_slab = {
+				}
+			}
+			c_preah_vihear = {
+
+    				color= { 70 123 50 }
+    				color2= { 183 176 194 }
+
+				b_preah_vihear = {
+				}
+				b_kulen = {
+				}
+				b_phnum_tbeng_mean_chey = {
+				}
+				b_chhuk = {
+				}
+				b_phumi_boeng = {
+				}
+				b_phumi_chrak_krasang = {
+				}
+				b_cheam_til = {
+				}
+				b_phumi_kantuot_samraong = {
+				}
+			}
+		}
+		d_sambor = {
+
+    			color= { 38 130 40 }
+    			color2= { 183 176 194 }
+
+			capital = 1718 #Sambor Prei Kuk
+
+			c_sambor_prei_kuk = {
+
+    				color= { 43 130 40 }
+    				color2= { 183 176 194 }
+
+				b_sambor_prei_kuk = {
+				}
+				b_kampong_thom = {
+				}
+				b_roluos = {
+				}
+				b_trapeang_veng = {
+				}
+				b_o_tasek = {
+				}
+				b_phlong = {
+				}
+				b_voa_yeav = {
+				}
+				b_ang_konh = {
+				}
+			}
+			c_stung_treng = {
+
+    				color= { 38 135 40 }
+    				color2= { 183 176 194 }
+
+				b_stung_treng = {
+				}
+				b_phumi_thalabarivat = {
+				}
+				b_ban_tak_deth = {
+				}
+				b_kang_cham = {
+				}
+				b_phumi_thma_sar = {
+				}
+				b_ban_dan_ky = {
+				}
+				b_phumi_khsach_non = {
+				}
+				b_ban_bung = {
+				}
+			}
+			c_wat_nokor = {
+
+    				color= { 38 130 45 }
+    				color2= { 183 176 194 }
+
+				b_wat_nokor = {
+				}
+				b_kampong_cham = {
+				}
+				b_kaoh_pan = {
+				}
+				b_sre_seam = {
+				}
+				b_phumi_kriel_thmei = {
+				}
+				b_peam_chileang = {
+				}
+				b_kaoh_treng = {
+				}
+				b_khum_tuol_snuol = {
+				}
+			}
+		}
+		d_battambang = {
+
+    			color= { 28 140 72 }
+    			color2= { 183 176 194 }
+
+			capital = 1762 #Battambang
+
+			c_battambang = {
+
+    				color= { 33 140 72 }
+    				color2= { 183 176 194 }
+
+				b_battambang = {
+				}
+				b_reang_keseil = {
+				}
+				b_o_krasang = {
+				}
+				b_sneung = {
+				}
+				b_phumi_kouk_kdouch = {
+				}
+				b_phnum_thippadei = {
+				}
+				b_moung_roessei = {
+				}
+				b_phumi_chhak_rokar = {
+				}
+			}
+			c_hariharalaya = {
+
+    				color= { 28 145 72 }
+    				color2= { 183 176 194 }
+
+				b_hariharalaya = {
+				}
+				b_kampong_chhnang = {
+				}
+				b_prey_khmer = {
+				}
+				b_tuek_phos = {
+				}
+				b_udong = {
+				}
+				b_kampong_stoeng = {
+				}
+				b_krakor = {
+				}
+				b_bamnak = {
+				}
+			}
+			c_angkor_borei = {
+
+    				color= { 28 140 77 }
+    				color2= { 183 176 194 }
+
+				b_angkor_borei = {
+				}
+				b_takeo = {
+				}
+				b_baray = {
+				}
+				b_swai_samrong = {
+				}
+				b_phumi_kampong_chak = {
+				}
+				b_phumi_don_tuot = {
+				}
+				b_phumi_cheang_tong = {
+				}
+				b_phumi_andong_thom = {
+				}
+			}
+		}
+		d_oc_eo = {
+
+    			color= { 48 143 24 }
+    			color2= { 183 176 194 }
+
+			capital = 1721 #Oc Eo
+
+			c_oc_eo = {
+
+    				color= { 53 143 24 }
+    				color2= { 183 176 194 }
+
+				b_oc_eo = {
+				}
+				b_rach_gia = {
+				}
+				b_ca_mau = {
+				}
+				b_thanh_an = {
+				}
+				b_thanh_phu = {
+				}
+				b_truong_xuan = {
+				}
+				b_long_xuyen = {
+				}
+				b_thanh_loc = {
+				}
+			}
+			c_prey_nokor = {
+
+    				color= { 48 148 24 }
+    				color2= { 183 176 194 }
+
+				b_prey_nokor = {
+				}
+				b_thuan_an = {
+				}
+				b_di_an = {
+				}
+				b_thu_dau_mot = {
+				}
+				b_tan_phu_trung = {
+				}
+				b_long_hoa = {
+				}
+				b_ly_nhon = {
+				}
+				b_go_cong = {
+				}
+			}
+			c_preah_trapeang = {
+
+    				color= { 48 143 29 }
+    				color2= { 183 176 194 }
+
+				b_preah_trapeang = {
+				}
+				b_tra_vinh = {
+				}
+				b_ben_tre = {
+				}
+				b_my_tho = {
+				}
+				b_soc_trang = {
+				}
+				b_vinh_chao = {
+				}
+				b_bac_lieu = {
+				}
+				b_vi_thanh = {
+				}
+			}
+		}
+	}
+	k_lan_xang = {
+
+    		color= { 210 46 28 }
+    		color2= { 202 112 85 }
+
+		culture = lao
+
+		capital = 1734 #Luang Prabang
+
+		d_luang_prabang = {
+
+    			color= { 218 60 20 }
+    			color2= { 202 112 85 }
+
+			capital = 1734 #Luang Prabang
+
+			c_luang_prabang = {
+
+    				color= { 223 60 20 }
+    				color2= { 202 112 85 }
+
+				b_luang_prabang = {
+				}
+				b_ban_xiang_nouak = {
+				}
+				b_chomingoua = {
+				}
+				b_napho = {
+				}
+				b_ban_souey = {
+				}
+				b_ban_xieng_lom = {
+				}
+				b_pha_o = {
+				}
+				b_ban_maeu = {
+				}
+			}
+			c_wiang_jung = {
+
+    				color= { 218 65 20 }
+    				color2= { 202 112 85 }
+
+				b_wiang_jung = {
+				}
+				b_sikeut = {
+				}
+				b_don_noun = {
+				}
+				b_dongmakkhai = {
+				}
+				b_tha_ngon = {
+				}
+				b_nathe = {
+				}
+				b_nadi = {
+				}
+				b_thongmang = {
+				}
+			}
+			c_xiangkhouang = {
+
+    				color= { 218 60 25 }
+    				color2= { 202 112 85 }
+
+				b_xiangkhouang = {
+				}
+				b_phonsavan = {
+				}
+				b_na_nu = {
+				}
+				b_thuang = {
+				}
+				b_lat_sen = {
+				}
+				b_nak_ho = {
+				}
+				b_ban_pho = {
+				}
+				b_na_lin = {
+				}
+			}
+			c_thakhek = {
+
+    				color= { 213 60 20 }
+    				color2= { 202 112 85 }
+
+				b_thakhek = {
+				}
+				b_xiangliab = {
+				}
+				b_ban_nahouangoua = {
+				}
+				b_chout_song = {
+				}
+				b_houay_aek = {
+				}
+				b_mai_nam_pakan = {
+				}
+				b_nong_hoi = {
+				}
+				b_ban_nadon = {
+				}
+			}
+		}
+		d_khorat = {
+
+    			color= { 164 28 28 }
+    			color2= { 202 112 85 }
+
+			capital = 1711 #Phimai
+
+			c_phimai = {
+
+    				color= { 169 28 28 }
+    				color2= { 202 112 85 }
+
+				b_phimai = {
+				}
+				b_non_sung = {
+				}
+				b_mueang_nakhon_ratchasima = {
+				}
+				b_pak_thong_chai = {
+				}
+				b_dan_khun_thot = {
+				}
+				b_sikhio = {
+				}
+				b_pak_chong = {
+				}
+				b_khon_buri = {
+				}
+			}
+			c_chaiyaphum = {
+
+    				color= { 164 33 28 }
+    				color2= { 202 112 85 }
+
+				b_chaiyaphum = {
+				}
+				b_ban_khwao = {
+				}
+				b_chatturat = {
+				}
+				b_bamnet_narong = {
+				}
+				b_sap_yai = {
+				}
+				b_nong_bua_rawe = {
+				}
+				b_khon_sawan = {
+				}
+				b_kaeng_khro = {
+				}
+			}
+			c_phutthaisong = {
+
+    				color= { 164 28 33 }
+    				color2= { 202 112 85 }
+
+				b_phutthaisong = {
+				}
+				b_na_pho = {
+				}
+				b_nong_waeng = {
+				}
+				b_hai_sok = {
+				}
+				b_ban_yang = {
+				}
+				b_ban_chan = {
+				}
+				b_mafueang = {
+				}
+				b_ban_waeng = {
+				}
+			}
+			c_muang_fa_daet = {
+
+    				color= { 159 28 28 }
+    				color2= { 202 112 85 }
+
+				b_muang_fa_daet = {
+				}
+				b_mueang_kalasin = {
+				}
+				b_kamalasai = {
+				}
+				b_khong_chai = {
+				}
+				b_yang_talat = {
+				}
+				b_huai_mek = {
+				}
+				b_nong_kung_si = {
+				}
+				b_na_mon = {
+				}
+			}
+		}
+		d_champassak = {
+
+    			color= { 221 60 60 }
+    			color2= { 202 112 85 }
+
+			capital = 1716 #Champassak
+
+			c_champassak = {
+
+    				color= { 226 60 60 }
+    				color2= { 202 112 85 }
+
+				b_champassak = {
+				}
+				b_pakxe = {
+				}
+				b_houay_lusy = {
+				}
+				b_lao_ya = {
+				}
+				b_pak_tuay = {
+				}
+				b_wat_muang_kao = {
+				}
+				b_patumphon = {
+				}
+				b_ban_done_mak_giang = {
+				}
+			}
+			c_salavan = {
+
+    				color= { 221 65 60 }
+    				color2= { 202 112 85 }
+
+				b_salavan = {
+				}
+				b_nakosao = {
+				}
+				b_ban_soung = {
+				}
+				b_nongboua = {
+				}
+				b_ban_houaythamao = {
+				}
+				b_ban_luktoungka_nua = {
+				}
+				b_mouang_taoy = {
+				}
+				b_houn = {
+				}
+			}
+			c_savannakhet = {
+
+    				color= { 221 60 65 }
+    				color2= { 202 112 85 }
+
+				b_savannakhet = {
+				}
+				b_ban_that = {
+				}
+				b_ban_nhiang = {
+				}
+				b_nasy = {
+				}
+				b_sompha_vilai = {
+				}
+				b_ban_khap_phuang = {
+				}
+				b_lao_fai = {
+				}
+				b_nadung = {
+				}
+			}
+		}
+	}
+	k_lavo = {
+
+    		color= { 172 179 130 }
+    		color2= { 255 255 255 }
+
+		culture = mon
+
+		capital = 1701 #Lavodapura
+
+		d_lavodapura = {
+
+    			color= { 177 182 126 }
+    			color2= { 255 255 255 }
+
+			capital = 1701 #Lavodapura
+
+			c_lavodayapura = {
+
+    				color= { 187 182 126 }
+    				color2= { 255 255 255 }
+
+				b_lavodayapura = {
+				}
+				b_thanon_yai = {
+				}
+				b_pho_kao_ton = {
+				}
+				b_tha_wung = {
+				}
+				b_ban_mi = {
+				}
+				b_khok_samrong = {
+				}
+				b_sa_bot = {
+				}
+				b_phatthana_nikhon = {
+				}
+			}
+			c_si_thep = {
+
+    				color= { 177 192 126 }
+    				color2= { 255 255 255 }
+
+				b_si_thep = {
+				}
+				b_wichian_buri = {
+				}
+				b_bueng_sam_phan = {
+				}
+				b_nong_phai = {
+				}
+				b_chon_daen = {
+				}
+				b_kan_chu = {
+				}
+				b_phet_lakhon = {
+				}
+				b_ban_kluai = {
+				}
+			}
+			c_nakhon_sawan = {
+
+    				color= { 177 182 136 }
+    				color2= { 255 255 255 }
+
+				b_nakhon_sawan = {
+				}
+				b_lat_yao = {
+				}
+				b_mae_wong = {
+				}
+				b_kok_phra = {
+				}
+				b_phayuha_khiri = {
+				}
+				b_banphot_phisai = {
+				}
+				b_mae_poen = {
+				}
+				b_chum_ta_bong = {
+				}
+			}
+		}
+		d_phanat = {
+
+    			color= { 175 166 133 }
+    			color2= { 255 255 255 }
+
+			capital = 1758 #Phanat
+
+			c_phanat = {
+
+    				color= { 185 166 133 }
+    				color2= { 255 255 255 }
+
+				b_phanat = {
+				}
+				b_mueang_chon_buri = {
+				}
+				b_ban_bueng = {
+				}
+				b_ko_chan = {
+				}
+				b_bo_thong = {
+				}
+				b_nong_yai = {
+				}
+				b_bang_lamung = {
+				}
+				b_sattahip = {
+				}
+			}
+			c_dong_si_maha_phot = {
+
+    				color= { 175 176 133 }
+    				color2= { 255 255 255 }
+
+				b_dong_si_maha_phot = {
+				}
+				b_kabin_buri = {
+				}
+				b_na_di = {
+				}
+				b_mueang_sa_kaeo = {
+				}
+				b_khao_chakan = {
+				}
+				b_watthana_nakhon = {
+				}
+				b_aranyaprathet = {
+				}
+				b_wang_nam_yen = {
+				}
+			}
+			c_dong_lakhon = {
+
+    				color= { 175 166 143 }
+    				color2= { 255 255 255 }
+
+				b_dong_lakhon = {
+				}
+				b_mueang_nakhon_nayok = {
+				}
+				b_pak_phli = {
+				}
+				b_tha_chang = {
+				}
+				b_phrommani = {
+				}
+				b_khao_phra = {
+				}
+				b_sarika = {
+				}
+				b_ban_na = {
+				}
+			}
+		}
+		d_u_thong = {
+
+    			color= { 185 194 114 }
+    			color2= { 255 255 255 }
+
+			capital = 1702 #U Thong
+
+			c_u_thong = {
+
+    				color= { 195 194 114 }
+    				color2= { 255 255 255 }
+
+				b_u_thong = {
+				}
+				b_lao_khwan = {
+				}
+				b_huai_krachao = {
+				}
+				b_nong_pradu = {
+				}
+				b_nong_prue = {
+				}
+				b_don_salaep = {
+				}
+				b_bo_phloi = {
+				}
+				b_si_sawat = {
+				}
+			}
+			c_nakhon_pathom = {
+
+    				color= { 185 204 114 }
+    				color2= { 255 255 255 }
+
+				b_nakhon_pathom = {
+				}
+				b_sam_phran = {
+				}
+				b_mueang_samut_sakhon = {
+				}
+				b_pak_kret = {
+				}
+				b_nakhon_chai_si = {
+				}
+				b_don_tum = {
+				}
+				b_kamphaeng_saen = {
+				}
+				b_bang_len = {
+				}
+			}
+		}
+		d_ratchaburi = {
+
+    			color= { 192 169 116 }
+    			color2= { 255 255 255 }
+
+			capital = 1703 #Ratchaburi
+
+			c_ratchaburi = {
+
+    				color= { 202 169 116 }
+    				color2= { 255 255 255 }
+
+				b_ratchaburi = {
+				}
+				b_pak_tho = {
+				}
+				b_photharam = {
+				}
+				b_suan_phueng = {
+				}
+				b_chom_bueng = {
+				}
+				b_ban_pong = {
+				}
+				b_khok_mo = {
+				}
+				b_wat_phleng = {
+				}
+			}
+			c_phetchaburi = {
+
+    				color= { 192 179 116 }
+    				color2= { 255 255 255 }
+
+				b_phetchaburi = {
+				}
+				b_ban_laem = {
+				}
+				b_tha_yang = {
+				}
+				b_cha_am = {
+				}
+				b_kaeng_krachan = {
+				}
+				b_nong_ya_plong = {
+				}
+				b_khao_yoi = {
+				}
+				b_ban_lat = {
+				}
+			}
+		}
+	}
+}
+
+d_supannabhum = {
+
+    	color= { 195 194 114 }
+    	color2= { 255 255 255 }
+
+	capital = 1702 #U Thong
+}

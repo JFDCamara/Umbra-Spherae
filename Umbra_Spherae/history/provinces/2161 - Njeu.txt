@@ -1,0 +1,23 @@
+# 1474 - Njeu
+
+# County Title
+title = c_njeu
+
+# Settlements
+max_settlements = 4
+b_buajang = castle
+b_biuliang = city
+#b_joghan =
+#b_lakbjen =
+#b_tokhing =
+#b_annjin =
+#b_kiengxtok =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

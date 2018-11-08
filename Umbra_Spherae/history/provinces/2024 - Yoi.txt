@@ -1,0 +1,14 @@
+# 1768 - Yoi
+
+# County Title
+title = c_ghraxyoi
+
+# Settlements
+max_settlements = 3
+b_miengsra = castle
+b_uondrie = city
+b_inghlix = castle
+
+# Misc
+culture = tangut
+religion = buddhist

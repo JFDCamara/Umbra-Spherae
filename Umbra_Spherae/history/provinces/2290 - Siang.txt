@@ -1,0 +1,24 @@
+# 1671 - Siang
+
+# County Title
+title = c_drieuxsiang
+
+# Settlements
+max_settlements = 5
+b_anjang = castle
+b_thennengzsih = temple
+b_lengzyenzsih = temple
+b_miengpiukzsih = temple
+#b_thangim =
+#b_limlioh =
+#b_limcjang =
+#b_siudenghzsih =
+
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

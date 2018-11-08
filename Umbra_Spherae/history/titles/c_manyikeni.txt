@@ -1,0 +1,65 @@
+#Mpfumo Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083719 #Nyeleti
+}
+780.1.1={
+	holder=1000083720 #Nyeleti
+}
+810.1.1={
+	holder=1000083721 #Masingita
+}
+840.1.1={
+	holder=1000083722 #Amukelani
+}
+870.1.1={
+	holder=1000083723 #Ntwanano
+}
+900.1.1={
+	holder=1000083724 #Masana
+}
+930.1.1={
+	holder=1000083725 #Masana
+}
+960.1.1={
+	holder=1000083726 #Eletsa
+}
+990.1.1={
+	holder=1000083727 #Amukelani
+}
+1020.1.1={
+	holder=1000083728 #Ntsako
+}
+1050.1.1={
+	holder=1000083729 #Nyeleti
+}
+1080.1.1={
+	holder=1000083730 #Ntosvelo
+}
+1110.1.1={
+	holder=1000083731 #Nyeleti
+}
+1140.1.1={
+	holder=1000083732 #Minkateko
+}
+1170.1.1={
+	holder=1000083733 #Nsuku
+}
+1200.1.1={
+	holder=1000083734 #Rhulani
+}
+1230.1.1={
+	holder=1000083735 #Rhulani
+}
+1260.1.1={
+	holder=1000083736 #Nyeleti
+}
+1290.1.1={
+	holder=1000083737 #Ntosvelo
+}
+1320.1.1={
+	holder=1000083738 #Nyeleti
+}
+1350.1.1={
+	holder=1000083739 #Rhulani
+}

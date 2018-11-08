@@ -1,0 +1,28 @@
+#Myinsaing Dynasty
+1315.5.16 = {
+	holder=1000080205 #Sawyun
+}
+
+#Sagaing Dynasty
+1327.2.5 = {
+	holder=1000080207 #Tarabya I
+}
+1335.1.1 = {
+	holder=1000080208 #Shwetaungtet
+}
+
+#Myinsaing Dynasty (restored)
+1339.1.1 = {
+	holder=1000080209 #Kyaswa
+}
+1348.1.1 = {
+	holder=1000080210 #Nawrahta-Minye
+}
+1350.2.1 = {
+	holder=1000080211 #Tarabya II
+}
+
+#Minbyauk Dynasty
+1352.2.23 = {
+	holder=1000080213 #Minbyauk-Thihapate
+}

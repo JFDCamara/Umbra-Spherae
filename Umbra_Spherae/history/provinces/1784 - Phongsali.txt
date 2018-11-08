@@ -1,0 +1,21 @@
+# 1153 - Phongsali
+
+# County Title
+title = c_phongsali
+
+# Settlements
+max_settlements = 4
+b_khun_suk = castle
+b_phongsali = city
+b_chakhamsan = temple
+#b_bo_cong =
+#b_macalong =
+#b_chakhampa =
+#b_phong_sek =
+#b_pia_say =
+
+# Misc
+culture = lao
+religion = buddhist
+
+# History

@@ -1,0 +1,21 @@
+# 1167 - Barus
+
+# County Title
+title = c_barus
+
+# Settlements
+max_settlements = 3
+b_sosor_gadong = castle
+b_barus = city
+#b_pakkat =
+#b_onan_ganjang =
+#b_manduamas =
+#b_singkil =
+#b_trumon =
+#b_bakongan =
+
+# Misc
+culture = batak
+religion = sumatran_religion
+
+# History

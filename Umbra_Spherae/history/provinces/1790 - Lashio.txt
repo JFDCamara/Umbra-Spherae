@@ -1,0 +1,21 @@
+# 1159 - Lashio
+
+# County Title
+title = c_lashio
+
+# Settlements
+max_settlements = 4
+b_mehan = castle
+b_lashio = city
+b_ho_ta = temple
+#b_loi_pye =
+#b_man_hsa_long =
+#b_san_men =
+#b_nogmon =
+#b_kaungkha =
+
+# Misc
+culture = shan
+religion = buddhist
+
+# History

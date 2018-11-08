@@ -1,0 +1,25 @@
+# 1339 - Puyuma
+
+# County Title
+title = c_puyuma
+
+# Settlements
+max_settlements = 5
+b_kilai = tribal
+#b_turumoan = 
+#b_chikasoan = 
+#b_sanasai = 
+#b_tayotouk = 
+#b_mawucave = 
+#b_venan = 
+#b_dihif_kawas = 
+
+
+# Misc
+culture = kilai
+religion = taiwanese_religion
+terrain = mountain
+
+# History
+
+

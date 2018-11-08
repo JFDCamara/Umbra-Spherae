@@ -1,0 +1,18 @@
+# 1634 - Thau
+
+# County Title
+title = c_thau
+
+# Settlements
+max_settlements = 1
+b_limthau = castle
+#b_thebo =
+
+
+# Misc
+culture = tangut
+religion = rmagao
+
+# History
+
+

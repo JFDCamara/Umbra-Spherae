@@ -1,0 +1,21 @@
+# 1251 - Dungun
+
+# County Title
+title = c_dungun
+
+# Settlements
+max_settlements = 3
+b_kerteh = castle
+b_dungun = city
+#b_paka =
+#b_ketengah_jaya =
+#b_bukit_besi =
+#b_kampung_baru =
+#b_felda_jerangau =
+#b_kampung_pulut =
+
+# Misc
+culture = malay
+religion = hindu
+
+# History

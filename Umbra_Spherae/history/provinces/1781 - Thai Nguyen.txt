@@ -1,0 +1,21 @@
+# 1150 - Thai Nguyen
+
+# County Title
+title = c_thai_nguyen
+
+# Settlements
+max_settlements = 4
+b_song_cong = castle
+b_thai_nguyen = city
+b_quyet_thang = temple
+#b_thinh_duc =
+#b_tuc_duyen =
+#b_trung_thanh =
+#b_cai_dan =
+#b_quan_trieu =
+
+# Misc
+culture = viet
+religion = thangiao
+
+# History

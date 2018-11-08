@@ -1,0 +1,22 @@
+# 1329 - Kuye
+
+# County Title
+title = c_kuye
+
+# Settlements
+max_settlements = 3
+b_sakhalin = tribal
+
+b_oha = tribal
+#b_kuye
+#b_aniva
+#b_nogliki
+#b_poronay
+#b_shakhtyors
+#b_tymovskoye
+
+# Misc
+culture = ainu
+religion = ainu_pantheism
+
+# History

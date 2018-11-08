@@ -1,0 +1,23 @@
+# 1605 - Jeuh
+
+# County Title
+title = c_jeuh
+
+# Settlements
+max_settlements = 4
+b_ghruahngyan = castle
+b_samngyan = city
+b_miixngyan = city
+#b_dungkuan =
+#b_yonjang =
+#b_piuhbjen =
+#b_zjynhruah =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

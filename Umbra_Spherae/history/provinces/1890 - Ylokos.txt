@@ -1,0 +1,21 @@
+# 1259 - Ylokos
+
+# County Title
+title = c_ylokos
+
+# Settlements
+max_settlements = 3
+b_vigan = tribal
+b_ylokos = tribal
+#b_bangued =
+#b_cabugao =
+#b_candon =
+#b_badoc =
+#b_batac =
+#b_laoag =
+
+# Misc
+culture = tagalog
+religion = philippine_religion
+
+# History

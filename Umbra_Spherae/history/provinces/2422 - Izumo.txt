@@ -1,0 +1,22 @@
+# 937 - Izumo
+
+# County Title
+title = c_izumo
+
+# Settlements
+max_settlements = 5
+b_ou = castle
+b_izumo = temple
+b_kume = castle
+
+#b_iishi = castle
+#b_aimi = castle
+#b_aika = castle
+#b_oki = castle
+#b_kando = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

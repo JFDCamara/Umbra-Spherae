@@ -1,0 +1,26 @@
+# 1923 - Bali
+
+# County Title
+title = c_bali
+
+# Settlements
+max_settlements = 3
+b_bali_bali = tribal
+#b_agarfa = 
+#b_raytu = 
+#b_seweyna = 
+#b_sinana = 
+#b_dinsho = 
+#b_dawe_kachen = 
+#b_gasera = 
+
+# Misc
+culture = interior_cushitic
+religion = cushitic_pagan
+
+# History
+
+950.1.1 = {
+	religion = sunni
+	culture = somali
+}

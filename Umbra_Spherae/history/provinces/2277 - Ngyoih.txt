@@ -1,0 +1,23 @@
+# 1649 - Ngyoih
+
+# County Title
+title = c_ngyoih
+
+# Settlements
+max_settlements = 7
+b_ngyanzjeng = castle
+b_dadmjeng = city
+b_ngyoih = city
+b_kuanhdau = city
+b_limchieng = city
+b_cuungzjeng = city
+#b_nuaihghuang =
+#b_zjengan_ngyoih =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

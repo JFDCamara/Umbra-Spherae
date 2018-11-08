@@ -1,0 +1,21 @@
+# 1235 - Taliwang
+
+# County Title
+title = c_taliwang
+
+# Settlements
+max_settlements = 3
+b_alas = tribal
+b_taliwang = tribal
+#b_lape =
+#b_sumbawa_besar =
+#b_plampang =
+#b_endeh =
+#b_ampang =
+#b_mungkin =
+
+# Misc
+culture = tenggaran
+religion = flores_religion
+
+# History

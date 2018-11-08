@@ -1,0 +1,21 @@
+# 1151 - Hoa Tinh
+
+# County Title
+title = c_hoa_tinh
+
+# Settlements
+max_settlements = 4
+b_tan_hoa = castle
+b_hoa_tinh = city
+b_trung_minh = temple
+#b_doc_lap =
+#b_vay_nua =
+#b_thung_nai =
+#b_binh_thanh =
+#b_bac_phong =
+
+# Misc
+culture = viet
+religion = buddhist
+
+# History

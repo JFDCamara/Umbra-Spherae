@@ -1,0 +1,122 @@
+#Wimbi Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076865 #Kifeda
+}
+780.1.1={
+	holder=1000076866 #Kwanzaa
+}
+810.1.1={
+	holder=1000076867 #Nyo
+}
+840.1.1={
+	holder=1000076868 #Ayo
+}
+870.1.1={
+	holder=1000076869 #Zahur
+}
+900.1.1={
+	holder=1000076870 #Kereenyaga
+}
+930.1.1={
+	holder=1000076871 #Mkubwa
+}
+
+#Shirazi Dynasty (Sultans of Kilwa)
+
+957.1.1={
+	liege="k_swahili"
+}
+957.1.1={
+	holder=1000076991 #Ali ibn Hassan
+}
+958.1.1={
+	holder=1000076992 #Muhammad ibn Ali
+}
+996.1.1={
+	holder=1000076994 #Ali ibn Bashat
+}
+1001.1.1={
+	holder=1000076995 #Dawud ibn Ali
+}
+1005.1.1={
+	holder=1000083068 #Khalid ibn Bakr
+}
+1007.1.1={
+	holder=1000076998 #Hassan ibn Suleiman ibn Ali
+}
+1023.1.1={
+	holder=1000076999 #Ali ibn Dawud
+}
+1083.1.1={
+	holder=1000083071 #Ali ibn Dawud ibn Ali
+}
+1106.1.1={
+	holder=1000083072 #Hassan ibn Dawud
+}
+1129.1.1={
+	holder=1000083073 #Suleiman (ibn Hassan here)
+}
+1131.1.1={
+	holder=1000083200 #Dawud ibn Suleiman
+}
+1170.1.1={
+	holder=1000083201 #Suleiman ibn Hassan ibn Suleiman
+}
+1189.1.1={
+	holder=1000083202 #Dawud ibn Suleiman
+}
+1190.1.1={
+	holder=1000083203 #Talut ibn Suleiman
+}
+1191.1.1={
+	holder=1000083204 #Hassan ibn Suleiman
+}
+1215.1.1={
+	holder=1000083205 #Khalid ibn Suleiman
+}
+1225.1.1={
+	holder=1000083207 #Abu ibn Suleiman ibn Suleiman
+}
+1263.1.1={
+	holder=1000083209 #Ali ibn Dawud
+}
+
+#Mahdali Dynasty (Sultans of Kilwa)
+
+1277.1.1={
+	holder=1000083212 #Hassan ibn Talut
+}
+1294.1.1={
+	holder=1000083213 #Suleiman ibn Hassan
+}
+1308.1.1={
+	holder=1000083214 #Dawud ibn Suleiman
+}
+1310.1.1={
+	holder=1000083215 #Abu ibn Suleiman
+}
+1333.1.1={
+	holder=1000083214 #Dawud ibn Suleiman (again)
+}
+1356.1.1={
+	holder=1000083216 #Suleiman ibn Dawud
+}
+1356.1.20={
+	holder=1000083217 #Hassan ibn Suleiman
+}
+1362.1.1={
+	holder=1000083218 #Talut ibn Dawud
+}
+1364.1.1={
+	holder=1000083216 #Suleiman ibn Dawud (again)
+}
+1366.1.1={
+	holder=1000083219 #Suleiman ibn Suleiman ibn Hassan
+}
+1389.1.1={
+	holder=1000083220 #Hassan ibn Suleiman
+}
+1412.1.1={
+	holder=1000083221 #Muhammad ibn Suleiman
+}

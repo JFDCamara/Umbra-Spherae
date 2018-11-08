@@ -1,0 +1,21 @@
+# 1957 - Manyikeni
+
+# County Title
+title = c_manyikeni
+
+# Settlements
+max_settlements = 4
+b_manyikeni = tribal
+#b_maimelane = 
+#b_pambarra = 
+#b_mapinhane = 
+#b_naite = 
+#b_mabote = 
+#b_tesselo = 
+#b_inhassoro = 
+
+# Misc
+culture = venda_tsonga
+religion = south_bantu_mythology
+
+# History

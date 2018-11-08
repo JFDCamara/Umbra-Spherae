@@ -1,0 +1,23 @@
+# 1449 - Drin
+
+# County Title
+title = c_drin
+
+# Settlements
+max_settlements = 5
+b_yanxkhiu = castle
+b_seghrua = city
+b_sjangsjyix = city
+b_ghrungxzjeng = city
+#b_nomtuonh =
+#b_driangbjen =
+#b_biungdang =
+#b_chad_khux =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

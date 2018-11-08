@@ -1,0 +1,22 @@
+# 1126 - Muang Fa Daet
+
+# County Title
+title = c_muang_fa_daet
+
+# Settlements
+max_settlements = 4
+b_mueang_kalasin = castle
+b_muang_fa_daet = city
+b_kamalasai = temple
+#b_khong_chai =
+#b_yang_talat =
+#b_huai_mek =
+#b_nong_kung_si =
+#b_na_mon =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History
+

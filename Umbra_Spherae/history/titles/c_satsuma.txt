@@ -1,0 +1,68 @@
+507.3.3={
+	liege="e_japan"
+}
+##Fujita Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076217 #Moriharu
+}
+780.1.1={
+	holder=1000076218 #Kagetake
+}
+810.1.1={
+	holder=1000076219 #Fujiatsu
+}
+840.1.1={
+	holder=1000076220 #Akitada
+}
+870.1.1={
+	holder=1000076221 #Yoshiyori
+}
+900.1.1={
+	holder=1000076222 #Yorikatsu
+}
+930.1.1={
+	holder=1000076223 #Tsugutsura
+}
+960.1.1={
+	holder=1000076224 #Tokimori
+}
+990.1.1={
+	holder=1000076225 #Tadahiro
+}
+1020.1.1={
+	holder=1000076226 #Shigetane
+}
+1050.1.1={
+	holder=1000076227 #Naomasa
+}
+1080.1.1={
+	holder=1000076228 #Mitsukuni
+}
+1110.1.1={
+	holder=1000076229 #Katsuyori
+}
+1140.1.1={
+	holder=1000076230 #Hideyuki
+}
+1170.1.1={
+	holder=1000076231 #Akiyoshi
+}
+1200.1.1={
+	holder=1000076232 #Fusasada
+}
+1230.1.1={
+	holder=1000076233 #Kintara
+}
+1260.1.1={
+	holder=1000076234 #Munemura
+}
+1290.1.1={
+	holder=1000076235 #Shigetsuna
+}
+1320.1.1={
+	holder=1000076236 #Takeaki
+}
+1350.1.1={
+	holder=1000076237 #Toshikage
+}

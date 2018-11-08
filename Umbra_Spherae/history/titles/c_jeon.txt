@@ -1,0 +1,85 @@
+#Baekje
+3.1.1={
+	liege="k_baekje"
+}
+#Silla
+676.1.1={
+	liege="k_silla"
+}
+##Jeon Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076302 #Ajin
+}
+780.1.1={
+	holder=1000076303 #Jonghyeok
+}
+810.1.1={
+	holder=1000076304 #Gangmin
+}
+822.1.1={
+	liege="k_baekje"
+}
+822.9.1={
+	liege="k_silla"
+}
+840.1.1={
+	holder=1000076305 #Deoksu
+}
+870.1.1={
+	holder=1000076306 #Minu
+}
+900.1.1={
+	holder=1000076307 #Jaebeom
+}
+900.1.1={
+	liege="k_baekje"
+}
+930.1.1={
+	holder=1000076308 #Gyeongtae
+}
+936.1.1={
+	liege="k_goryeo"
+}
+960.1.1={
+	holder=1000076309 #Dongju
+}
+990.1.1={
+	holder=1000076310 #Muyeol
+}
+1020.1.1={
+	holder=1000076311 #Hanbin
+}
+1050.1.1={
+	holder=1000076312 #Munsik
+}
+1080.1.1={
+	holder=1000076313 #Gyu
+}
+1110.1.1={
+	holder=1000076314 #Gimun
+}
+1140.1.1={
+	holder=1000076315 #Jaejun
+}
+1170.1.1={
+	holder=1000076316 #Jeongsu
+}
+1200.1.1={
+	holder=1000076317 #Seok
+}
+1230.1.1={
+	holder=1000076318 #Hyeon
+}
+1260.1.1={
+	holder=1000076319 #Gyu
+}
+1290.1.1={
+	holder=1000076320 #Hae
+}
+1320.1.1={
+	holder=1000076321 #Gyeongcheol
+}
+1350.1.1={
+	holder=1000076322 #Sanghun
+}

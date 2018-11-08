@@ -1,0 +1,21 @@
+# 1161 - Luang Namtha
+
+# County Title
+title = c_luang_namtha
+
+# Settlements
+max_settlements = 4
+b_ban_ai_one = castle
+b_luang_namtha = city
+b_ban_sene_luang_keo = temple
+#b_ban_lacha =
+#b_muang_sing =
+#b_ban_mau =
+#b_ban_cha_kanta =
+#b_wan_hkung =
+
+# Misc
+culture = lao
+religion = buddhist
+
+# History

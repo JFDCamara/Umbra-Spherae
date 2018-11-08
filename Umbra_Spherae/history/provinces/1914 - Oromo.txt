@@ -1,0 +1,21 @@
+# 1914 - Oromo
+
+# County Title
+title = c_oromo
+
+# Settlements
+max_settlements = 4
+b_oromo = tribal
+#b_abaya = 
+#b_arero = 
+#b_gelana = 
+#b_miyu = 
+#b_yabelo = 
+#b_dire = 
+#b_bule_hora = 
+
+# Misc
+culture = interior_cushitic
+religion = cushitic_pagan
+
+# History

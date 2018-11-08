@@ -1,0 +1,21 @@
+# 1761 - Zjeng-chjenx
+
+# County Title
+title = c_zjengchjenx
+
+# Settlements
+max_settlements = 7
+b_zjengchjenx = castle
+b_gioxgieu = city
+b_uonpiuh = city
+b_jiingyan = city
+b_giacuung = castle
+#b_siungmieng =
+#b_aneng =
+#b_lakmung =
+
+# Misc
+culture = lolo
+religion = bimojiao
+
+# History

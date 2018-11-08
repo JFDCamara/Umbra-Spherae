@@ -1,0 +1,20 @@
+# 1498 - Drieu
+
+# County Title
+title = c_drieu
+
+# Settlements
+max_settlements = 3
+b_haixjang = castle
+b_lenhruazsih = temple
+#b_drieujang =
+#b_ghanmyonkungzsi =
+
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

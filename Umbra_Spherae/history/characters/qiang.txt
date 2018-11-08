@@ -1,0 +1,1711 @@
+
+#County of Baima
+
+1000083018 = {
+	name="Dache"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	812.1.1={
+		birth="842.1.1"
+	}
+	872.1.1={
+		death="872.1.1"
+	}
+}
+
+1000083019 = {
+	name="Chophel"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083018
+	842.1.1={
+		birth="842.1.1"
+	}
+	902.1.1={
+		death="902.1.1"
+	}
+}
+
+1000083020 = {
+	name="Chodrak"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083019
+	872.1.1={
+		birth="872.1.1"
+	}
+	932.1.1={
+		death="932.1.1"
+	}
+}
+
+1000083021 = {
+	name="Rinchen"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083020
+	902.1.1={
+		birth="902.1.1"
+	}
+	962.1.1={
+		death="962.1.1"
+	}
+}
+
+1000083022 = {
+	name="Kundun"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083021
+	932.1.1={
+		birth="932.1.1"
+	}
+	992.1.1={
+		death="992.1.1"
+	}
+}
+
+1000083023 = {
+	name="Cetan"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083022
+	962.1.1={
+		birth="962.1.1"
+	}
+	1022.1.1={
+		death="1022.1.1"
+	}
+}
+
+1000083024 = {
+	name="Kasa"
+	female=yes
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083023
+	992.1.1={
+		birth="992.1.1"
+	}
+	1052.1.1={
+		death="1052.1.1"
+	}
+}
+
+1000083025 = {
+	name="Dhargey"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	mother=1000083024
+	1022.1.1={
+		birth="1022.1.1"
+	}
+	1052.1.1={
+		add_spouse=1000083036
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+1000083026 = {
+	name="Choejor"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083025
+	mother=1000083036
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1082.1.1={
+		add_spouse=1000083037
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+1000083027 = {
+	name="Dachen"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083026
+	mother=1000083037
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1112.1.1={
+		add_spouse=1000083038
+	}
+	1142.1.1={
+		death="1142.1.1"
+	}
+}
+
+1000083028 = {
+	name="Nguntre"
+	female=yes
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083027
+	mother=1000083038
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+1000083029 = {
+	name="Gyaltso"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083039
+	mother=1000083028
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1172.1.1={
+		add_spouse=1000083040
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+1000083030 = {
+	name="Kipu"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083029
+	mother=1000083040
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1202.1.1={
+		add_spouse=1000083041
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+1000083031 = {
+	name="Pasang"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083030
+	mother=1000083041
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1232.1.1={
+		add_spouse=1000083042
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+1000083032 = {
+	name="Thokmay"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083031
+	mother=1000083042
+	1232.1.1={
+		birth="1232.1.1"
+	}
+	1262.1.1={
+		add_spouse=1000083043
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+1000083033 = {
+	name="Phuntsok"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083032
+	mother=1000083043
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1292.1.1={
+		add_spouse=1000083044
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+
+1000083034 = {
+	name="Kona"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083033
+	mother=1000083044
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1322.1.1={
+		add_spouse=1000083045
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+1000083035 = {
+	name="Lobsang"
+	dynasty=1000028339 #Baima
+	religion=rmagao
+	culture="qiang"
+	father=1000083034
+	mother=1000083045
+	1322.1.1={
+		birth="1322.1.1"
+	}
+	1382.1.1={
+		death="1382.1.1"
+	}
+}
+
+#Spouses
+
+1000083036 = {
+	name="Zopa"
+	female=yes
+	religion="rmagao"
+	culture="qiang"
+	1022.1.1={
+		birth="1022.1.1"
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+1000083037 = {
+	name="Assam"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+1000083038 = {
+	name="Mida"
+	female=yes
+	religion="rmagao"
+	culture="qiang"
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1142.1.1={
+		death="1142.1.1"
+	}
+}
+
+1000083039 = {
+	name="Rabten"
+	religion=rmagao
+	culture="qiang"
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1142.1.1={
+		add_spouse=1000083028
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+1000083040 = {
+	name="Chodrak"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+1000083041 = {
+	name="Chime"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+1000083042 = {
+	name="Dolma"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+1000083043 = {
+	name="Dohna"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1232.1.1={
+		birth="1232.1.1"
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+1000083044 = {
+	name="Chesa"
+	female=yes
+	religion="rmagao"
+	culture="qiang"
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+
+1000083045 = {
+	name="Brag-srin-mo"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+#County of Dzoi
+
+1000083074 = {
+	name="Poso"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	812.1.1={
+		birth="842.1.1"
+	}
+	872.1.1={
+		death="872.1.1"
+	}
+}
+
+1000083075 = {
+	name="Gephel"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083074
+	842.1.1={
+		birth="842.1.1"
+	}
+	902.1.1={
+		death="902.1.1"
+	}
+}
+
+1000083076 = {
+	name="Lobsang"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083075
+	872.1.1={
+		birth="872.1.1"
+	}
+	932.1.1={
+		death="932.1.1"
+	}
+}
+
+1000083077 = {
+	name="Temba"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083076
+	902.1.1={
+		birth="902.1.1"
+	}
+	962.1.1={
+		death="962.1.1"
+	}
+}
+
+1000083078 = {
+	name="Thubten"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083077
+	932.1.1={
+		birth="932.1.1"
+	}
+	992.1.1={
+		death="992.1.1"
+	}
+}
+
+1000083079 = {
+	name="Jetsan"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083078
+	962.1.1={
+		birth="962.1.1"
+	}
+	1022.1.1={
+		death="1022.1.1"
+	}
+}
+
+1000083080 = {
+	name="Goba"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083079
+	992.1.1={
+		birth="992.1.1"
+	}
+	1052.1.1={
+		death="1052.1.1"
+	}
+}
+
+1000083081 = {
+	name="Zas-ster-ma-dmar-mo"
+	female=yes
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083080
+	1022.1.1={
+		birth="1022.1.1"
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+1000083082 = {
+	name="Dorjee"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083092
+	mother=1000083081
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1082.1.1={
+		add_spouse=1000083093
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+1000083083 = {
+	name="Dache"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083082
+	mother=1000083093
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1112.1.1={
+		add_spouse=1000083094
+	}
+	1142.1.1={
+		death="1142.1.1"
+	}
+}
+
+1000083084 = {
+	name="Akar"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083083
+	mother=1000083094
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1142.1.1={
+		add_spouse=1000083095
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+1000083085 = {
+	name="Daivika"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083084
+	mother=1000083095
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1172.1.1={
+		add_spouse=1000083096
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+1000083086 = {
+	name="Dampa"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083085
+	mother=1000083096
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1202.1.1={
+		add_spouse=1000083097
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+1000083087 = {
+	name="Nima"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083086
+	mother=1000083097
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1232.1.1={
+		add_spouse=1000083098
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+1000083088 = {
+	name="Norbu"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083087
+	mother=1000083098
+	1232.1.1={
+		birth="1232.1.1"
+	}
+	1262.1.1={
+		add_spouse=1000083099
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+1000083089 = {
+	name="Tenzing"
+	female=yes
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083088
+	mother=1000083099
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+
+1000083090 = {
+	name="Thokmay"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083100
+	mother=1000083089
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1322.1.1={
+		add_spouse=1000083101
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+1000083091 = {
+	name="Nima"
+	dynasty=1000028341 #Dzoi
+	religion=rmagao
+	culture="qiang"
+	father=1000083090
+	mother=1000083101
+	1322.1.1={
+		birth="1322.1.1"
+	}
+	1382.1.1={
+		death="1382.1.1"
+	}
+}
+
+#Spouses
+
+1000083092 = {
+	name="Lha-mo"
+	religion=rmagao
+	culture="qiang"
+	1022.1.1={
+		birth="1022.1.1"
+	}
+	1052.1.1={
+		add_spouse=1000083081
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+1000083093 = {
+	name="Rinchen"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+1000083094 = {
+	name="Rabten"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1142.1.1={
+		death="1142.1.1"
+	}
+}
+
+1000083095 = {
+	name="Prajnaparamita"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+1000083096 = {
+	name="Lhamu"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+1000083097 = {
+	name="Ngodup"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+1000083098 = {
+	name="Somba"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+1000083099 = {
+	name="Sonam"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1232.1.1={
+		birth="1232.1.1"
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+1000083100 = {
+	name="Yonten"
+	religion=rmagao
+	culture="qiang"
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1292.1.1={
+		add_spouse=1000083089
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+
+1000083101 = {
+	name="Yum-chen-mo"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+
+#County of Diexi
+
+1000083102 = {
+	name="Lhak-pa"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	812.1.1={
+		birth="842.1.1"
+	}
+	872.1.1={
+		death="872.1.1"
+	}
+}
+
+1000083103 = {
+	name="Kipu"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	father=1000083102
+	842.1.1={
+		birth="842.1.1"
+	}
+	902.1.1={
+		death="902.1.1"
+	}
+}
+
+1000083104 = {
+	name="Zapa"
+	female=yes
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	father=1000083103
+	872.1.1={
+		birth="872.1.1"
+	}
+	932.1.1={
+		death="932.1.1"
+	}
+}
+
+1000083105 = {
+	name="Wangdue"
+	female=yes
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	mother=1000083104
+	902.1.1={
+		birth="902.1.1"
+	}
+	962.1.1={
+		death="962.1.1"
+	}
+}
+
+1000083106 = {
+	name="Chesa"
+	female=yes
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	mother=1000083105
+	932.1.1={
+		birth="932.1.1"
+	}
+	992.1.1={
+		death="992.1.1"
+	}
+}
+
+1000083107 = {
+	name="Jampa"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	mother=1000083106
+	962.1.1={
+		birth="962.1.1"
+	}
+	1022.1.1={
+		death="1022.1.1"
+	}
+}
+
+1000083108 = {
+	name="Gyalwa"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	father=1000083107
+	992.1.1={
+		birth="992.1.1"
+	}
+	1052.1.1={
+		death="1052.1.1"
+	}
+}
+
+1000083109 = {
+	name="Wangchuk"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	father=1000083108
+	1022.1.1={
+		birth="1022.1.1"
+	}
+	1052.1.1={
+		add_spouse=1000083120
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+1000083110 = {
+	name="Tsewang"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	father=1000083109
+	mother=1000083120
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1082.1.1={
+		add_spouse=1000083121
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+1000083111 = {
+	name="Khandro"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	father=1000083110
+	mother=1000083121
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1112.1.1={
+		add_spouse=1000083122
+	}
+	1142.1.1={
+		death="1142.1.1"
+	}
+}
+
+1000083112 = {
+	name="Kona"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	father=1000083111
+	mother=1000083122
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1142.1.1={
+		add_spouse=1000083123
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+1000083113 = {
+	name="Chodrak"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	father=1000083112
+	mother=1000083123
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1172.1.1={
+		add_spouse=1000083124
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+1000083114 = {
+	name="Champo"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	father=1000083113
+	mother=1000083124
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1202.1.1={
+		add_spouse=1000083125
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+1000083115 = {
+	name="Pabu"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	father=1000083114
+	mother=1000083125
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1232.1.1={
+		add_spouse=1000083126
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+1000083116 = {
+	name="Jetsan"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	father=1000083115
+	mother=1000083126
+	1232.1.1={
+		birth="1232.1.1"
+	}
+	1262.1.1={
+		add_spouse=1000083127
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+1000083117 = {
+	name="Jalus"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	father=1000083116
+	mother=1000083127
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1292.1.1={
+		add_spouse=1000083128
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+
+1000083118 = {
+	name="Kundun"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	father=1000083117
+	mother=1000083128
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1322.1.1={
+		add_spouse=1000083129
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+1000083119 = {
+	name="Poso"
+	dynasty=1000028342 #Diexi
+	religion=rmagao
+	culture="qiang"
+	father=1000083118
+	mother=1000083129
+	1322.1.1={
+		birth="1322.1.1"
+	}
+	1382.1.1={
+		death="1382.1.1"
+	}
+}
+
+#Spouses
+
+1000083120 = {
+	name="Nele"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1022.1.1={
+		birth="1022.1.1"
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+1000083121 = {
+	name="Sgeg-mo-ma"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+1000083122 = {
+	name="Sengemo"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1142.1.1={
+		death="1142.1.1"
+	}
+}
+
+1000083123 = {
+	name="Dawa"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+1000083124 = {
+	name="Cimba"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+1000083125 = {
+	name="Assam"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+1000083126 = {
+	name="Bhasundara"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+1000083127 = {
+	name="Cepla"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1232.1.1={
+		birth="1232.1.1"
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+1000083128 = {
+	name="Nguntre"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+
+1000083129 = {
+	name="Zopa"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+
+#County of Sungqu
+
+1000083130 = {
+	name="Yongten"
+	female=yes
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	812.1.1={
+		birth="842.1.1"
+	}
+	872.1.1={
+		death="872.1.1"
+	}
+}
+
+1000083131 = {
+	name="Chogyal"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	mother=1000083130
+	842.1.1={
+		birth="842.1.1"
+	}
+	902.1.1={
+		death="902.1.1"
+	}
+}
+
+1000083132 = {
+	name="Sashi"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083131
+	872.1.1={
+		birth="872.1.1"
+	}
+	932.1.1={
+		death="932.1.1"
+	}
+}
+
+1000083133 = {
+	name="Dedan"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083132
+	902.1.1={
+		birth="902.1.1"
+	}
+	962.1.1={
+		death="962.1.1"
+	}
+}
+
+1000083134 = {
+	name="Denpa"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083133
+	932.1.1={
+		birth="932.1.1"
+	}
+	992.1.1={
+		death="992.1.1"
+	}
+}
+
+1000083135 = {
+	name="Kona"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083134
+	962.1.1={
+		birth="962.1.1"
+	}
+	1022.1.1={
+		death="1022.1.1"
+	}
+}
+
+1000083136 = {
+	name="Champo"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083135
+	992.1.1={
+		birth="992.1.1"
+	}
+	1052.1.1={
+		death="1052.1.1"
+	}
+}
+
+1000083137 = {
+	name="Akar"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083136
+	1022.1.1={
+		birth="1022.1.1"
+	}
+	1052.1.1={
+		add_spouse=1000083148
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+1000083138 = {
+	name="Anil"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083137
+	mother=1000083148
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1082.1.1={
+		add_spouse=1000083149
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+1000083139 = {
+	name="Wangdak"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083138
+	mother=1000083149
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1112.1.1={
+		add_spouse=1000083150
+	}
+	1142.1.1={
+		death="1142.1.1"
+	}
+}
+
+1000083140 = {
+	name="Karma"
+	female=yes
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083139
+	mother=1000083150
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+1000083141 = {
+	name="Rinchen"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083151
+	mother=1000083140
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1172.1.1={
+		add_spouse=1000083152
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+1000083142 = {
+	name="Tenzing"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083141
+	mother=1000083152
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1202.1.1={
+		add_spouse=1000083153
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+1000083143 = {
+	name="Jetsan"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083142
+	mother=1000083153
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1232.1.1={
+		add_spouse=1000083154
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+1000083144 = {
+	name="Tho-og"
+	female=yes
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083143
+	mother=1000083154
+	1232.1.1={
+		birth="1232.1.1"
+	}
+	1262.1.1={
+		add_spouse=1000083155
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+1000083145 = {
+	name="Popo"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083155
+	mother=1000083144
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1292.1.1={
+		add_spouse=1000083156
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+
+1000083146 = {
+	name="Khalama"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083145
+	mother=1000083156
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1322.1.1={
+		add_spouse=1000083157
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+1000083147 = {
+	name="Kitsi"
+	dynasty=1000028343 #Sungqu
+	religion=rmagao
+	culture="qiang"
+	father=1000083146
+	mother=1000083157
+	1322.1.1={
+		birth="1322.1.1"
+	}
+	1382.1.1={
+		death="1382.1.1"
+	}
+}
+
+#Spouses
+
+1000083148 = {
+	name="Rinzen"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1022.1.1={
+		birth="1022.1.1"
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+1000083149 = {
+	name="Zenji"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1052.1.1={
+		birth="1052.1.1"
+	}
+	1112.1.1={
+		death="1112.1.1"
+	}
+}
+
+1000083150 = {
+	name="Chime"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1142.1.1={
+		death="1142.1.1"
+	}
+}
+
+1000083151 = {
+	name="Tsewang"
+	religion=rmagao
+	culture="qiang"
+	1112.1.1={
+		birth="1112.1.1"
+	}
+	1142.1.1={
+		add_spouse=1000083140
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+
+1000083152 = {
+	name="Ngawang"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+1000083153 = {
+	name="Poso"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+1000083154 = {
+	name="Phuntsok"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1202.1.1={
+		birth="1202.1.1"
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+1000083155 = {
+	name="Tsering"
+	religion=rmagao
+	culture="qiang"
+	1232.1.1={
+		birth="1232.1.1"
+	}
+	1262.1.1={
+		add_spouse=1000083144
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+1000083156 = {
+	name="Nele"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+
+1000083157 = {
+	name="Gawa"
+	female=yes
+	religion=rmagao
+	culture="qiang"
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+

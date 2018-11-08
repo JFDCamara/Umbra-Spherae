@@ -1,0 +1,21 @@
+# 1127 - Phanat
+
+# County Title
+title = c_phanat
+
+# Settlements
+max_settlements = 4
+b_mueang_chon_buri = castle
+b_phanat = city
+b_ban_bueng = temple
+#b_ko_chan =
+#b_bo_thong =
+#b_nong_yai =
+#b_bang_lamung =
+#b_sattahip =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

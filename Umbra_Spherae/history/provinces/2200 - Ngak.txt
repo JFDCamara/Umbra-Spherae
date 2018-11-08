@@ -1,0 +1,24 @@
+# 1532 - Ngak
+
+# County Title
+title = c_ngak
+
+# Settlements
+max_settlements = 5
+b_krungghrax = castle
+b_myoxchjang = city
+b_driangchjynkuanh = temple
+#b_ghremneng =
+#b_krangio =
+#b_bongion =
+#b_zriungjang =
+#b_thungzjeng =
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

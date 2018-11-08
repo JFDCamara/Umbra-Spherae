@@ -1,0 +1,24 @@
+# 1602 - Bo
+
+# County Title
+title = c_bo
+
+# Settlements
+max_settlements = 4
+b_ghatung = castle
+b_ngyohiang = city
+b_ghuxcikzsi = temple
+#b_limcinh = city
+#b_yenggho =
+#b_myanhzyen =
+#b_iezjex =
+#b_lyungmuon_bo =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

@@ -1,0 +1,21 @@
+# 1105 - Sukhothai
+
+# County Title
+title = c_sukhothai
+
+# Settlements
+max_settlements = 4
+b_si_samrong = castle
+b_sukhothai = city
+b_sawankhalok = temple
+#b_thung_saliam =
+#b_ban_dan_lan_hoi =
+#b_si_samrong_sukhothai =
+#b_kong_krailat =
+#b_phichai =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

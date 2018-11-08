@@ -1,0 +1,22 @@
+# 1847 - Omi
+
+# County Title
+title = c_omi
+
+# Settlements
+max_settlements = 5
+b_enryakuji = temple
+b_onjoji = temple
+b_otsu = castle
+b_azai = castle
+
+#b_azai = castle
+#b_koga = castle
+#b_sakata = castle
+#b_shiga = castle
+
+# Misc
+culture = japanese
+religion = buddhist
+
+# History

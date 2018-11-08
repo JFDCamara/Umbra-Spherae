@@ -1,0 +1,24 @@
+# 1564 - Pra
+
+# County Title
+title = c_pra
+
+# Settlements
+max_settlements = 6
+b_hruahzjeng = castle
+b_onjang = city
+b_congkhux = city
+b_thungkrung = city
+b_nankrung = city
+#b_buandaux =
+#b_gicjang =
+#b_kuangxnop =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

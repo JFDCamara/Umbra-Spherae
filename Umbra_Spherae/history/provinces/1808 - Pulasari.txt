@@ -1,0 +1,21 @@
+# 1177 - Pulasari
+
+# County Title
+title = c_pulasari
+
+# Settlements
+max_settlements = 6
+b_jiput = castle
+b_pulasari = city
+b_menes = temple
+b_pagelaran = temple
+#b_labuhan =
+#b_panimbang =
+#b_cibaliung =
+#b_cimanggu_pulasari =
+
+# Misc
+culture = sundanese
+religion = hindu
+
+# History

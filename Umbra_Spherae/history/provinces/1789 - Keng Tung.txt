@@ -1,0 +1,21 @@
+# 1158 - Keng Tung
+
+# County Title
+title = c_keng_tung
+
+# Settlements
+max_settlements = 4
+b_wan_tong = castle
+b_keng_tung = city
+b_wan_um = temple
+#b_wan_kong_keng_tung =
+#b_wan_hwe =
+#b_wan_tong =
+#b_pangkawkawm =
+#b_yangka =
+
+# Misc
+culture = thai
+religion = buddhist
+
+# History

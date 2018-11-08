@@ -1,0 +1,21 @@
+# 1220 - Katingan
+
+# County Title
+title = c_katingan
+
+# Settlements
+max_settlements = 2
+b_sampit = tribal
+b_katingan = tribal
+#b_palangkaraya =
+#b_kuala_kapuas =
+#b_samuda =
+#b_kasongan =
+#b_tangkiling =
+#b_muarateweh =
+
+# Misc
+culture = banjar
+religion = bornean_religion
+
+# History

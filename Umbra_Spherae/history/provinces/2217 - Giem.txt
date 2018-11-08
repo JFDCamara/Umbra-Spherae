@@ -1,0 +1,24 @@
+# 1558 - Giem
+
+# County Title
+title = c_giem
+
+# Settlements
+max_settlements = 4
+b_brangsjyix = castle
+b_kyoxcju = castle
+b_giemphoxneng = castle
+#b_giemkrung =
+#b_myohchjyen =
+#b_anjii =
+#b_gyungsjyix =
+#b_ghuamyox =
+
+
+# Misc
+culture = hmong
+religion = ua_dab
+
+# History
+
+

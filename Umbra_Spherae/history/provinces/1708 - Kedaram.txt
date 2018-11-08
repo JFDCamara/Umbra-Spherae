@@ -1,0 +1,23 @@
+# 1077 - Kedaram
+
+# County Title
+title = c_kedaram
+
+# Settlements
+max_settlements = 6
+b_jitra = castle
+b_kedaram = city
+b_ayer_hitam = temple
+b_kodiang = city
+b_arau = castle
+#b_kangar =
+#b_kuala_nerang =
+#b_pendang =
+
+# Misc
+culture = malay
+religion = hindu
+
+# History
+
+1136.1.1={ religion = sunni }

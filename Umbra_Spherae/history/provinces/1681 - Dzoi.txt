@@ -1,0 +1,19 @@
+# 1896 - Dzoi
+
+# County Title
+title = c_dzoi
+# Settlements
+max_settlements = 4
+b_bsangqu = tribal
+b_dzoi = city
+b_jone = temple
+#b_maqu_dzoi = castle
+#b_luqu = city
+#b_tewo = castle
+#b_zhugqu = castle
+
+# Misc
+culture = qiang
+religion = rmagao
+
+# History

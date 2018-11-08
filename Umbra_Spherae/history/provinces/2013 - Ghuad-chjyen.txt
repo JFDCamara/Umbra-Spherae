@@ -1,0 +1,19 @@
+# 1757 - Ghuad-chjyen
+
+# County Title
+title = c_ghuadchjyen
+
+# Settlements
+max_settlements = 4
+b_dalikrungh = castle
+b_pyaphrue = city
+b_dalilyung = castle
+#b_lungne =
+#b_mralung =
+#b_lekhu =
+
+# Misc
+culture = lolo
+religion = bimojiao
+
+# History

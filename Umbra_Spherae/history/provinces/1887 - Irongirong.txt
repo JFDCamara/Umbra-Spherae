@@ -1,0 +1,21 @@
+# 1256 - Irong-Irong
+
+# County Title
+title = c_irong_irong
+
+# Settlements
+max_settlements = 4
+b_oton = tribal
+b_irong_irong = tribal
+b_pototan = tribal
+#b_passi =
+#b_dumarao =
+#b_bago =
+#b_hinigaran =
+#b_binalbagan =
+
+# Misc
+culture = cebuan
+religion = philippine_religion
+
+# History

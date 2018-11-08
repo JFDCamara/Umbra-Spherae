@@ -1,0 +1,21 @@
+# 1175 - Tanah Abang
+
+# County Title
+title = c_tanah_abang
+
+# Settlements
+max_settlements = 3
+b_prabumulih = castle
+b_tanah_abang = city
+#b_penukal_abab =
+#b_sungai_rotan =
+#b_gelumbang =
+#b_rambang_dangku =
+#b_genung_megang =
+#b_talang_ubi =
+
+# Misc
+culture = malay
+religion = sumatran_religion
+
+# History

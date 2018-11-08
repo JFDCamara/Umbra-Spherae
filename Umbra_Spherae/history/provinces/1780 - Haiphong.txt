@@ -1,0 +1,21 @@
+# 1149 - Haiphong
+
+# County Title
+title = c_haiphong
+
+# Settlements
+max_settlements = 4
+b_vinh_niem = castle
+b_haiphong = city
+b_bac_son = temple
+#b_hung_thang =
+#b_nam_son =
+#b_cat_hai =
+#b_minh_duc =
+#b_dai_ban =
+
+# Misc
+culture = viet
+religion = buddhist
+
+# History

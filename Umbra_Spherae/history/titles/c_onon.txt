@@ -1,0 +1,127 @@
+#Burte Chino
+640.1.1 = {
+	liege="d_mongol"
+}
+640.1.1 = {
+	holder=166849 #Burte-Chino
+}
+682.1.1 = {
+	holder=166848 #Batachi
+}
+708.1.1 = {
+	holder=166847 #Damachi
+}
+743.1.1 = {
+	holder=166846 #Khorichar-Mergen
+}
+769.1.1 = {
+	holder=166845 #Agujim-Borokhul
+}
+775.1.1 = {
+	holder=166844 #Sali-Khajau
+}
+798.1.1 = {
+	holder=166843 #Ikh-Nuden
+}
+813.1.1 = {
+	holder=166842 #Shim-Sochi
+}
+829.1.1 = {
+	holder=166841 #Kharchu
+}
+840.1.1 = {
+	holder=166838 #Borjigidai-Mergen
+}
+873.1.1 = {
+	holder=166835 #Torgoljin-Bayan
+}
+
+#Borjigin
+906.1.1 = {
+	holder=166821 #Bodonchar-Munkhag
+}
+977.1.1 = {
+	holder=166820 #Khabich-Baatar
+}
+1014.1.1 = {
+	holder=166819 #Menen-Tudun
+}
+1049.1.1 = {
+	holder=166818 #Khachi-Khulug
+}
+1076.1.1 = {
+	holder=166817 #Khaidu
+}
+
+#1068.1.1 = {
+#	holder=166812 #Baishinkhor Dogshin
+#}
+1098.1.1 = {
+	holder=166808 #Tumbinai-Setsen
+}
+
+
+1132.1.1 = {
+	holder=166801 #Khabul
+}
+
+1149.1.1 = {
+	holder=166804 #Hotula
+}
+1160.1.1 = {
+	holder=93055 #Yesügei
+}
+1171.1.1 = {
+	holder=125501 #Genghis
+}
+1206.1.1={
+	liege="e_mongol_empire"
+}
+1227.12.2 = {
+	liege="k_mongolia"
+}
+1227.12.2 = {
+	holder = 172005 # Ögedei Khan
+}
+1241.12.11 = {
+	holder = 172007 # Güyük Khan
+}
+1248.1.1 = {
+	holder = 217265 # Möngke Khan
+}
+1259.8.11 = {
+	holder = 217266 # Kublai Khan
+}
+1294.2.18 = {
+	holder = 217269 # Temür Khan
+}
+1307.2.10 = {
+	holder = 217271 # Külüg Khan
+}
+1311.1.27 = {
+	holder = 217272 # Buyantu Khan
+}
+1320.3.1 = {
+	holder = 217274 # Gegeen Khan
+}
+1323.9.4 = {
+	holder = 217279 # Yesün Temür Khan
+}
+1328.8.15 = {
+	holder = 217280 # Ragibagh Khan
+}
+1328.11.14 = {
+	holder = 217281 # Jayaatu Khan
+}
+1329.2.27 = {
+	holder = 217282 # Khutughtu Khan Kusala
+}
+1329.8.30 = { # Enthroned 1329.9.8
+	holder = 217281 # Jayaatu Khan
+}
+1332.9.2 = { # Coronation 1332.10.23
+	holder = 217283 # Rinchinbal Khan
+}
+1332.12.14 = {
+	holder = 217284 # Toghon Temür Khan
+}

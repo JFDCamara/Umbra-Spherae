@@ -1,0 +1,19 @@
+# 1895 - Diexi
+
+# County Title
+title = c_diexi
+# Settlements
+max_settlements = 5
+b_diexi = tribal
+#b_heishui = castle
+#b_li = castle
+b_fengyi = city
+b_nanxin = temple
+b_weizhou = city
+#b_xuankou = temple
+
+# Misc
+culture = qiang
+religion = rmagao
+
+# History

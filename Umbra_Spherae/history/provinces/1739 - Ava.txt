@@ -1,0 +1,21 @@
+# 1108 - Ava
+
+# County Title
+title = c_ava
+
+# Settlements
+max_settlements = 4
+b_sagaing = castle
+b_ava = city
+b_amarapura = temple
+#b_mandalay =
+#b_patheingyi =
+#b_min_kun =
+#b_tha_phan_dauk =
+#b_madaya =
+
+# Misc
+culture = bamar
+religion = nat
+
+# History

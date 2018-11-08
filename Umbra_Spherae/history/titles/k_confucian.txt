@@ -1,0 +1,15 @@
+#1035.1.1 = {
+#	liege="e_china"
+	#government = confucian_bureaucracy
+	#law = agnatic_succession
+	#law = succ_primogeniture
+#}
+#1035.1.1 = {
+#	holder=1000079040
+#}
+#1068.1.1 = {
+#	holder=1000079041
+#}
+#1098.1.1 = {
+#	holder=1000079042
+#}

@@ -1,0 +1,3081 @@
+#Placeholders for c_nomyatngo and d_wkuangxnom
+
+1000452744 ={
+	name = "JingPu"
+	dynasty = 1000156260
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	591.9.20 ={
+		birth = "591.9.20"
+	}
+	649.1.22 ={
+		death = "649.1.22"
+	}
+}
+
+1000452745 ={
+	name = "FeiLi"
+	dynasty = 1000156260
+	culture = "zhuang"
+	father = 1000452744
+	religion = "nugyauq"
+	618.8.27 ={
+		birth = "618.8.27"
+	}
+	677.8.2 ={
+		death = "677.8.2"
+	}
+}
+
+1000452746 ={
+	name = "GongZhong"
+	dynasty = 1000156260
+	culture = "zhuang"
+	father = 1000452745
+	religion = "nugyauq"
+	637.8.14 ={
+		birth = "637.8.14"
+	}
+	684.7.22 ={
+		death = "684.7.22"
+	}
+}
+
+1000452747 ={
+	name = "XiShi"
+	dynasty = 1000156260
+	culture = "zhuang"
+	father = 1000452746
+	religion = "nugyauq"
+	659.10.12 ={
+		birth = "659.10.12"
+	}
+	715.3.21 ={
+		death = "715.3.21"
+	}
+}
+
+1000452748 ={
+	name = "ZhongFei"
+	dynasty = 1000156260
+	culture = "zhuang"
+	father = 1000452747
+	religion = "nugyauq"
+	686.2.13 ={
+		birth = "686.2.13"
+	}
+	739.4.1 ={
+		death = "739.4.1"
+	}
+}
+
+1000452749 ={
+	name = "YuanRen"
+	dynasty = 1000156260
+	culture = "zhuang"
+	father = 1000452748
+	religion = "nugyauq"
+	706.3.16 ={
+		birth = "706.3.16"
+	}
+	759.12.2 ={
+		death = "759.12.2"
+	}
+}
+
+1000452750 ={
+	name = "Bi"
+	dynasty = 1000156260
+	culture = "zhuang"
+	father = 1000452749
+	religion = "nugyauq"
+	733.2.18 ={
+		birth = "733.2.18"
+	}
+	787.4.2 ={
+		death = "787.4.2"
+	}
+}
+
+1000452751 ={
+	name = "HongGong"
+	dynasty = 1000156260
+	culture = "zhuang"
+	father = 1000452750
+	religion = "nugyauq"
+	759.4.6 ={
+		birth = "759.4.6"
+	}
+	813.9.5 ={
+		death = "813.9.5"
+	}
+}
+
+1000452752 ={
+	name = "Ping"
+	dynasty = 1000156260
+	culture = "zhuang"
+	father = 1000452751
+	religion = "nugyauq"
+	794.3.14 ={
+		birth = "794.3.14"
+	}
+	848.2.20 ={
+		death = "848.2.20"
+	}
+}
+
+1000452753 ={
+	name = "ZhengXiu"
+	dynasty = 1000156260
+	culture = "zhuang"
+	father = 1000452752
+	religion = "nugyauq"
+	821.3.11 ={
+		birth = "821.3.11"
+	}
+	881.11.5 ={
+		death = "881.11.5"
+	}
+}
+
+1000452754 ={
+	name = "Yi"
+	dynasty = 1000156260
+	culture = "zhuang"
+	father = 1000452753
+	religion = "nugyauq"
+	840.10.22 ={
+		birth = "840.10.22"
+	}
+	899.10.7 ={
+		death = "899.10.7"
+	}
+}
+
+1000452755 ={
+	name = "XiuMin"
+	dynasty = 1000156260
+	culture = "zhuang"
+	father = 1000452754
+	religion = "nugyauq"
+	878.3.23 ={
+		birth = "878.3.23"
+	}
+	932.12.28 ={
+		death = "932.12.28"
+	}
+}
+
+1000452756 ={
+	name = "XiaoCheng"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	931.5.7 ={
+		birth = "931.5.7"
+	}
+	989.9.12 ={
+		death = "989.9.12"
+	}
+}
+
+1000452757 ={
+	name = "ZhongCai"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452756
+	religion = "nugyauq"
+	964.4.16 ={
+		birth = "964.4.16"
+	}
+	1012.9.9 ={
+		death = "1012.9.9"
+	}
+}
+
+1000452758 ={
+	name = "XiuWen"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452757
+	religion = "nugyauq"
+	985.3.1 ={
+		birth = "985.3.1"
+	}
+	1031.5.11 ={
+		death = "1031.5.11"
+	}
+}
+
+1000452759 ={
+	name = "ShiJing"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452758
+	religion = "nugyauq"
+	1002.12.16 ={
+		birth = "1002.12.16"
+	}
+	1059.3.6 ={
+		death = "1059.3.6"
+	}
+}
+
+1000452760 ={
+	name = "ZheSong"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452759
+	religion = "nugyauq"
+	1027.11.14 ={
+		birth = "1027.11.14"
+	}
+	1084.11.17 ={
+		death = "1084.11.17"
+	}
+}
+
+1000452761 ={
+	name = "GongSong"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452760
+	religion = "nugyauq"
+	1060.4.17 ={
+		birth = "1060.4.17"
+	}
+	1114.12.20 ={
+		death = "1114.12.20"
+	}
+}
+
+1000452762 ={
+	name = "ChongZhong"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452761
+	religion = "nugyauq"
+	1092.10.16 ={
+		birth = "1092.10.16"
+	}
+	1145.9.1 ={
+		death = "1145.9.1"
+	}
+}
+
+1000452763 ={
+	name = "GuangXi"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452762
+	religion = "nugyauq"
+	1118.3.21 ={
+		birth = "1118.3.21"
+	}
+	1167.2.23 ={
+		death = "1167.2.23"
+	}
+}
+
+1000452764 ={
+	name = "ZhongDao"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452763
+	religion = "nugyauq"
+	1143.4.8 ={
+		birth = "1143.4.8"
+	}
+	1203.8.18 ={
+		death = "1203.8.18"
+	}
+}
+
+1000452765 ={
+	name = "Xiao"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452764
+	religion = "nugyauq"
+	1164.1.7 ={
+		birth = "1164.1.7"
+	}
+	1210.5.6 ={
+		death = "1210.5.6"
+	}
+}
+
+1000452766 ={
+	name = "XiuQuan"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452765
+	religion = "nugyauq"
+	1188.6.13 ={
+		birth = "1188.6.13"
+	}
+	1236.11.28 ={
+		death = "1236.11.28"
+	}
+}
+
+1000452767 ={
+	name = "LiDao"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452766
+	religion = "nugyauq"
+	1211.4.13 ={
+		birth = "1211.4.13"
+	}
+	1271.4.19 ={
+		death = "1271.4.19"
+	}
+}
+
+1000452768 ={
+	name = "Cai"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452767
+	religion = "nugyauq"
+	1234.1.17 ={
+		birth = "1234.1.17"
+	}
+	1289.9.16 ={
+		death = "1289.9.16"
+	}
+}
+
+1000452769 ={
+	name = "MinJi"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452768
+	religion = "nugyauq"
+	1254.9.28 ={
+		birth = "1254.9.28"
+	}
+	1306.8.10 ={
+		death = "1306.8.10"
+	}
+}
+
+1000452770 ={
+	name = "ChongXin"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452769
+	religion = "nugyauq"
+	1282.12.8 ={
+		birth = "1282.12.8"
+	}
+	1340.6.19 ={
+		death = "1340.6.19"
+	}
+}
+
+1000452771 ={
+	name = "DaoShi"
+	dynasty = 1000156261
+	culture = "zhuang"
+	father = 1000452770
+	religion = "nugyauq"
+	1309.5.7 ={
+		birth = "1309.5.7"
+	}
+	1369.5.9 ={
+		death = "1369.5.9"
+	}
+}
+
+#Placeholders for c_yung
+
+1000452827 ={
+	name = "ZheFei"
+	dynasty = 1000156266
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	591.10.17 ={
+		birth = "591.10.17"
+	}
+	639.9.24 ={
+		death = "639.9.24"
+	}
+}
+
+1000452828 ={
+	name = "WenSu"
+	dynasty = 1000156266
+	culture = "zhuang"
+	father = 1000452827
+	religion = "nugyauq"
+	620.2.4 ={
+		birth = "620.2.4"
+	}
+	677.8.18 ={
+		death = "677.8.18"
+	}
+}
+
+1000452829 ={
+	name = "Gong"
+	dynasty = 1000156266
+	culture = "zhuang"
+	father = 1000452828
+	religion = "nugyauq"
+	641.8.25 ={
+		birth = "641.8.25"
+	}
+	698.1.12 ={
+		death = "698.1.12"
+	}
+}
+
+1000452830 ={
+	name = "ZhengDao"
+	dynasty = 1000156266
+	culture = "zhuang"
+	father = 1000452829
+	religion = "nugyauq"
+	659.7.26 ={
+		birth = "659.7.26"
+	}
+	717.1.11 ={
+		death = "717.1.11"
+	}
+}
+
+1000452831 ={
+	name = "DaoFei"
+	dynasty = 1000156266
+	culture = "zhuang"
+	father = 1000452830
+	religion = "nugyauq"
+	693.5.13 ={
+		birth = "693.5.13"
+	}
+	751.8.22 ={
+		death = "751.8.22"
+	}
+}
+
+1000452832 ={
+	name = "XiangGong"
+	dynasty = 1000156266
+	culture = "zhuang"
+	father = 1000452831
+	religion = "nugyauq"
+	710.5.9 ={
+		birth = "710.5.9"
+	}
+	769.11.20 ={
+		death = "769.11.20"
+	}
+}
+
+1000452833 ={
+	name = "PingYuan"
+	dynasty = 1000156266
+	culture = "zhuang"
+	father = 1000452832
+	religion = "nugyauq"
+	750.7.15 ={
+		birth = "750.7.15"
+	}
+	801.11.15 ={
+		death = "801.11.15"
+	}
+}
+
+1000452834 ={
+	name = "Jing"
+	dynasty = 1000156266
+	culture = "zhuang"
+	father = 1000452833
+	religion = "nugyauq"
+	770.7.17 ={
+		birth = "770.7.17"
+	}
+	822.10.27 ={
+		death = "822.10.27"
+	}
+}
+
+1000452835 ={
+	name = "ChengXiu"
+	dynasty = 1000156266
+	culture = "zhuang"
+	father = 1000452834
+	religion = "nugyauq"
+	800.1.9 ={
+		birth = "800.1.9"
+	}
+	859.4.20 ={
+		death = "859.4.20"
+	}
+}
+
+1000452836 ={
+	name = "DaoMin"
+	dynasty = 1000156266
+	culture = "zhuang"
+	father = 1000452835
+	religion = "nugyauq"
+	821.3.6 ={
+		birth = "821.3.6"
+	}
+	873.9.9 ={
+		death = "873.9.9"
+	}
+}
+
+1000452837 ={
+	name = "YuanDa"
+	dynasty = 1000156266
+	culture = "zhuang"
+	father = 1000452836
+	religion = "nugyauq"
+	840.12.19 ={
+		birth = "840.12.19"
+	}
+	900.1.15 ={
+		death = "900.1.15"
+	}
+}
+
+1000452838 ={
+	name = "XinJi"
+	dynasty = 1000156266
+	culture = "zhuang"
+	father = 1000452837
+	religion = "nugyauq"
+	871.7.12 ={
+		birth = "871.7.12"
+	}
+	928.2.1 ={
+		death = "928.2.1"
+	}
+}
+
+1000452839 ={
+	name = "GongDao"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	942.5.20 ={
+		birth = "942.5.20"
+	}
+	993.2.6 ={
+		death = "993.2.6"
+	}
+}
+
+1000452840 ={
+	name = "Jing"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 1000452839
+	religion = "nugyauq"
+	965.5.14 ={
+		birth = "965.5.14"
+	}
+	1016.3.9 ={
+		death = "1016.3.9"
+	}
+}
+
+1000452841 ={
+	name = "XiangJing"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 1000452840
+	religion = "nugyauq"
+	985.12.21 ={
+		birth = "985.12.21"
+	}
+	1041.6.14 ={
+		death = "1041.6.14"
+	}
+}
+
+1000452842 ={
+	name = "AnXi"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 1000452841
+	religion = "nugyauq"
+	1014.3.7 ={
+		birth = "1014.3.7"
+	}
+	1055.11.1 ={
+		death = "1055.11.1"
+	}
+}
+
+1000452843 ={
+	name = "JingZhong"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 1000452842
+	religion = "nugyauq"
+	1031.4.20 ={
+		birth = "1031.4.20"
+	}
+	1078.8.14 ={
+		death = "1078.8.14"
+	}
+}
+
+1000452844 ={
+	name = "CaiLong"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 1000452843
+	religion = "nugyauq"
+	1050.12.23 ={
+		birth = "1050.12.23"
+	}
+	1102.10.18 ={
+		death = "1102.10.18"
+	}
+}
+
+1000452845 ={
+	name = "PuCheng"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 1000452844
+	religion = "nugyauq"
+	1068.6.25 ={
+		birth = "1068.6.25"
+	}
+	1128.3.15 ={
+		death = "1128.3.15"
+	}
+}
+
+1000452846 ={
+	name = "DaChong"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 1000452845
+	religion = "nugyauq"
+	1102.6.7 ={
+		birth = "1102.6.7"
+	}
+	1158.10.12 ={
+		death = "1158.10.12"
+	}
+}
+
+1000452847 ={
+	name = "YuanJing"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 1000452846
+	religion = "nugyauq"
+	1133.5.22 ={
+		birth = "1133.5.22"
+	}
+	1188.7.2 ={
+		death = "1188.7.2"
+	}
+}
+
+1000452848 ={
+	name = "Xian"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 1000452847
+	religion = "nugyauq"
+	1160.8.10 ={
+		birth = "1160.8.10"
+	}
+	1210.5.7 ={
+		death = "1210.5.7"
+	}
+}
+
+1000452849 ={
+	name = "Ji"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 1000452848
+	religion = "nugyauq"
+	1184.5.19 ={
+		birth = "1184.5.19"
+	}
+	1244.3.11 ={
+		death = "1244.3.11"
+	}
+}
+
+1000452850 ={
+	name = "Hong"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 1000452849
+	religion = "nugyauq"
+	1210.8.17 ={
+		birth = "1210.8.17"
+	}
+	1267.10.25 ={
+		death = "1267.10.25"
+	}
+}
+
+1000452851 ={
+	name = "JiBo"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 1000452850
+	religion = "nugyauq"
+	1238.6.26 ={
+		birth = "1238.6.26"
+	}
+	1294.10.1 ={
+		death = "1294.10.1"
+	}
+}
+
+1000452852 ={
+	name = "ChengJing"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 1000452851
+	religion = "nugyauq"
+	1267.2.25 ={
+		birth = "1267.2.25"
+	}
+	1318.6.16 ={
+		death = "1318.6.16"
+	}
+}
+
+1000452853 ={
+	name = "Pu"
+	dynasty = 1000156267
+	culture = "zhuang"
+	father = 1000452852
+	religion = "nugyauq"
+	1295.6.6 ={
+		birth = "1295.6.6"
+	}
+	1342.3.18 ={
+		death = "1342.3.18"
+	}
+}
+
+#Placeholders for c_zsiangx
+
+1000452800 ={
+	name = "SongXi"
+	dynasty = 1000156264
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	600.5.8 ={
+		birth = "600.5.8"
+	}
+	653.12.20 ={
+		death = "653.12.20"
+	}
+}
+
+1000452801 ={
+	name = "SuBi"
+	dynasty = 1000156264
+	culture = "zhuang"
+	father = 1000452800
+	religion = "nugyauq"
+	627.4.7 ={
+		birth = "627.4.7"
+	}
+	677.7.14 ={
+		death = "677.7.14"
+	}
+}
+
+1000452802 ={
+	name = "DaWen"
+	dynasty = 1000156264
+	culture = "zhuang"
+	father = 1000452801
+	religion = "nugyauq"
+	646.3.21 ={
+		birth = "646.3.21"
+	}
+	702.7.24 ={
+		death = "702.7.24"
+	}
+}
+
+1000452803 ={
+	name = "ShiXiang"
+	dynasty = 1000156264
+	culture = "zhuang"
+	father = 1000452802
+	religion = "nugyauq"
+	674.5.21 ={
+		birth = "674.5.21"
+	}
+	730.7.13 ={
+		death = "730.7.13"
+	}
+}
+
+1000452804 ={
+	name = "Ren"
+	dynasty = 1000156264
+	culture = "zhuang"
+	father = 1000452803
+	religion = "nugyauq"
+	694.1.10 ={
+		birth = "694.1.10"
+	}
+	751.9.27 ={
+		death = "751.9.27"
+	}
+}
+
+1000452805 ={
+	name = "ChongGang"
+	dynasty = 1000156264
+	culture = "zhuang"
+	father = 1000452804
+	religion = "nugyauq"
+	730.12.25 ={
+		birth = "730.12.25"
+	}
+	784.6.14 ={
+		death = "784.6.14"
+	}
+}
+
+1000452806 ={
+	name = "HongZhe"
+	dynasty = 1000156264
+	culture = "zhuang"
+	father = 1000452805
+	religion = "nugyauq"
+	751.10.5 ={
+		birth = "751.10.5"
+	}
+	811.12.26 ={
+		death = "811.12.26"
+	}
+}
+
+1000452807 ={
+	name = "Bo"
+	dynasty = 1000156264
+	culture = "zhuang"
+	father = 1000452806
+	religion = "nugyauq"
+	784.7.15 ={
+		birth = "784.7.15"
+	}
+	841.6.20 ={
+		death = "841.6.20"
+	}
+}
+
+1000452808 ={
+	name = "DaoDao"
+	dynasty = 1000156264
+	culture = "zhuang"
+	father = 1000452807
+	religion = "nugyauq"
+	818.8.2 ={
+		birth = "818.8.2"
+	}
+	873.7.15 ={
+		death = "873.7.15"
+	}
+}
+
+1000452809 ={
+	name = "PingPing"
+	dynasty = 1000156264
+	culture = "zhuang"
+	father = 1000452808
+	religion = "nugyauq"
+	846.7.5 ={
+		birth = "846.7.5"
+	}
+	891.1.16 ={
+		death = "891.1.16"
+	}
+}
+
+1000452810 ={
+	name = "XinLong"
+	dynasty = 1000156264
+	culture = "zhuang"
+	father = 1000452809
+	religion = "nugyauq"
+	872.12.24 ={
+		birth = "872.12.24"
+	}
+	913.9.20 ={
+		death = "913.9.20"
+	}
+}
+
+1000452811 ={
+	name = "Yi"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	943.5.23 ={
+		birth = "943.5.23"
+	}
+	993.12.15 ={
+		death = "993.12.15"
+	}
+}
+
+1000452812 ={
+	name = "JingZheng"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452811
+	religion = "nugyauq"
+	964.4.16 ={
+		birth = "964.4.16"
+	}
+	1013.6.2 ={
+		death = "1013.6.2"
+	}
+}
+
+1000452813 ={
+	name = "Long"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452812
+	religion = "nugyauq"
+	991.11.8 ={
+		birth = "991.11.8"
+	}
+	1050.3.24 ={
+		death = "1050.3.24"
+	}
+}
+
+1000452814 ={
+	name = "PingGong"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452813
+	religion = "nugyauq"
+	1012.3.27 ={
+		birth = "1012.3.27"
+	}
+	1071.5.25 ={
+		death = "1071.5.25"
+	}
+}
+
+1000452815 ={
+	name = "HongQing"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452814
+	religion = "nugyauq"
+	1043.12.22 ={
+		birth = "1043.12.22"
+	}
+	1099.5.7 ={
+		death = "1099.5.7"
+	}
+}
+
+1000452816 ={
+	name = "PuHong"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452815
+	religion = "nugyauq"
+	1068.1.7 ={
+		birth = "1068.1.7"
+	}
+	1119.12.25 ={
+		death = "1119.12.25"
+	}
+}
+
+1000452817 ={
+	name = "ZiMin"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452816
+	religion = "nugyauq"
+	1095.5.18 ={
+		birth = "1095.5.18"
+	}
+	1142.12.13 ={
+		death = "1142.12.13"
+	}
+}
+
+1000452818 ={
+	name = "GongSong"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452817
+	religion = "nugyauq"
+	1116.6.23 ={
+		birth = "1116.6.23"
+	}
+	1172.4.24 ={
+		death = "1172.4.24"
+	}
+}
+
+1000452819 ={
+	name = "Su"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452818
+	religion = "nugyauq"
+	1139.6.6 ={
+		birth = "1139.6.6"
+	}
+	1199.6.7 ={
+		death = "1199.6.7"
+	}
+}
+
+1000452820 ={
+	name = "BiDao"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452819
+	religion = "nugyauq"
+	1165.8.20 ={
+		birth = "1165.8.20"
+	}
+	1223.10.22 ={
+		death = "1223.10.22"
+	}
+}
+
+1000452821 ={
+	name = "WenShu"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452820
+	religion = "nugyauq"
+	1188.1.16 ={
+		birth = "1188.1.16"
+	}
+	1237.6.1 ={
+		death = "1237.6.1"
+	}
+}
+
+1000452822 ={
+	name = "Hao"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452821
+	religion = "nugyauq"
+	1214.4.26 ={
+		birth = "1214.4.26"
+	}
+	1272.10.15 ={
+		death = "1272.10.15"
+	}
+}
+
+1000452823 ={
+	name = "MinHong"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452822
+	religion = "nugyauq"
+	1233.8.1 ={
+		birth = "1233.8.1"
+	}
+	1291.12.13 ={
+		death = "1291.12.13"
+	}
+}
+
+1000452824 ={
+	name = "Xiu"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452823
+	religion = "nugyauq"
+	1264.11.6 ={
+		birth = "1264.11.6"
+	}
+	1317.10.10 ={
+		death = "1317.10.10"
+	}
+}
+
+1000452825 ={
+	name = "ZiPing"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452824
+	religion = "nugyauq"
+	1285.12.2 ={
+		birth = "1285.12.2"
+	}
+	1328.3.28 ={
+		death = "1328.3.28"
+	}
+}
+
+1000452826 ={
+	name = "ShuDa"
+	dynasty = 1000156265
+	culture = "zhuang"
+	father = 1000452825
+	religion = "nugyauq"
+	1303.4.4 ={
+		birth = "1303.4.4"
+	}
+	1362.2.6 ={
+		death = "1362.2.6"
+	}
+}
+
+#Placeholders for c_jyung
+
+1000452772 ={
+	name = "Bo"
+	dynasty = 1000156262
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	591.4.26 ={
+		birth = "591.4.26"
+	}
+	646.9.7 ={
+		death = "646.9.7"
+	}
+}
+
+1000452773 ={
+	name = "GongZheng"
+	dynasty = 1000156262
+	culture = "zhuang"
+	father = 1000452772
+	religion = "nugyauq"
+	623.6.22 ={
+		birth = "623.6.22"
+	}
+	677.5.20 ={
+		death = "677.5.20"
+	}
+}
+
+1000452774 ={
+	name = "ZhengXi"
+	dynasty = 1000156262
+	culture = "zhuang"
+	father = 1000452773
+	religion = "nugyauq"
+	640.2.14 ={
+		birth = "640.2.14"
+	}
+	697.4.14 ={
+		death = "697.4.14"
+	}
+}
+
+1000452775 ={
+	name = "YuanHao"
+	dynasty = 1000156262
+	culture = "zhuang"
+	father = 1000452774
+	religion = "nugyauq"
+	664.10.2 ={
+		birth = "664.10.2"
+	}
+	722.3.12 ={
+		death = "722.3.12"
+	}
+}
+
+1000452776 ={
+	name = "HaoXi"
+	dynasty = 1000156262
+	culture = "zhuang"
+	father = 1000452775
+	religion = "nugyauq"
+	695.8.11 ={
+		birth = "695.8.11"
+	}
+	743.1.21 ={
+		death = "743.1.21"
+	}
+}
+
+1000452777 ={
+	name = "MinZhong"
+	dynasty = 1000156262
+	culture = "zhuang"
+	father = 1000452776
+	religion = "nugyauq"
+	713.9.28 ={
+		birth = "713.9.28"
+	}
+	771.10.22 ={
+		death = "771.10.22"
+	}
+}
+
+1000452778 ={
+	name = "Wan"
+	dynasty = 1000156262
+	culture = "zhuang"
+	father = 1000452777
+	religion = "nugyauq"
+	741.12.11 ={
+		birth = "741.12.11"
+	}
+	788.12.1 ={
+		death = "788.12.1"
+	}
+}
+
+1000452779 ={
+	name = "ZhongLong"
+	dynasty = 1000156262
+	culture = "zhuang"
+	father = 1000452778
+	religion = "nugyauq"
+	765.2.3 ={
+		birth = "765.2.3"
+	}
+	823.10.28 ={
+		death = "823.10.28"
+	}
+}
+
+1000452780 ={
+	name = "GangXin"
+	dynasty = 1000156262
+	culture = "zhuang"
+	father = 1000452779
+	religion = "nugyauq"
+	791.6.1 ={
+		birth = "791.6.1"
+	}
+	840.7.8 ={
+		death = "840.7.8"
+	}
+}
+
+1000452781 ={
+	name = "XiuQuan"
+	dynasty = 1000156262
+	culture = "zhuang"
+	father = 1000452780
+	religion = "nugyauq"
+	808.5.18 ={
+		birth = "808.5.18"
+	}
+	866.4.16 ={
+		death = "866.4.16"
+	}
+}
+
+1000452782 ={
+	name = "Shi"
+	dynasty = 1000156262
+	culture = "zhuang"
+	father = 1000452781
+	religion = "nugyauq"
+	841.12.15 ={
+		birth = "841.12.15"
+	}
+	901.12.1 ={
+		death = "901.12.1"
+	}
+}
+
+1000452783 ={
+	name = "WanFei"
+	dynasty = 1000156262
+	culture = "zhuang"
+	father = 1000452782
+	religion = "nugyauq"
+	864.12.25 ={
+		birth = "864.12.25"
+	}
+	920.6.26 ={
+		death = "920.6.26"
+	}
+}
+
+1000452784 ={
+	name = "Xiang"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	936.5.26 ={
+		birth = "936.5.26"
+	}
+	995.11.5 ={
+		death = "995.11.5"
+	}
+}
+
+1000452785 ={
+	name = "Qing"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452784
+	religion = "nugyauq"
+	960.8.22 ={
+		birth = "960.8.22"
+	}
+	1015.2.11 ={
+		death = "1015.2.11"
+	}
+}
+
+1000452786 ={
+	name = "XianXin"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452785
+	religion = "nugyauq"
+	988.9.13 ={
+		birth = "988.9.13"
+	}
+	1045.7.21 ={
+		death = "1045.7.21"
+	}
+}
+
+1000452787 ={
+	name = "WanYi"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452786
+	religion = "nugyauq"
+	1005.3.10 ={
+		birth = "1005.3.10"
+	}
+	1057.4.1 ={
+		death = "1057.4.1"
+	}
+}
+
+1000452788 ={
+	name = "ChongZi"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452787
+	religion = "nugyauq"
+	1028.3.6 ={
+		birth = "1028.3.6"
+	}
+	1073.9.4 ={
+		death = "1073.9.4"
+	}
+}
+
+1000452789 ={
+	name = "XunXiu"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452788
+	religion = "nugyauq"
+	1049.10.20 ={
+		birth = "1049.10.20"
+	}
+	1095.12.10 ={
+		death = "1095.12.10"
+	}
+}
+
+1000452790 ={
+	name = "An"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452789
+	religion = "nugyauq"
+	1078.4.10 ={
+		birth = "1078.4.10"
+	}
+	1126.4.3 ={
+		death = "1126.4.3"
+	}
+}
+
+1000452791 ={
+	name = "Xun"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452790
+	religion = "nugyauq"
+	1097.10.11 ={
+		birth = "1097.10.11"
+	}
+	1148.1.3 ={
+		death = "1148.1.3"
+	}
+}
+
+1000452792 ={
+	name = "LongZhe"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452791
+	religion = "nugyauq"
+	1117.8.3 ={
+		birth = "1117.8.3"
+	}
+	1175.12.7 ={
+		death = "1175.12.7"
+	}
+}
+
+1000452793 ={
+	name = "GangBi"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452792
+	religion = "nugyauq"
+	1146.3.4 ={
+		birth = "1146.3.4"
+	}
+	1198.4.23 ={
+		death = "1198.4.23"
+	}
+}
+
+1000452794 ={
+	name = "HuaDao"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452793
+	religion = "nugyauq"
+	1167.8.24 ={
+		birth = "1167.8.24"
+	}
+	1222.8.25 ={
+		death = "1222.8.25"
+	}
+}
+
+1000452795 ={
+	name = "SuXin"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452794
+	religion = "nugyauq"
+	1203.1.24 ={
+		birth = "1203.1.24"
+	}
+	1253.2.27 ={
+		death = "1253.2.27"
+	}
+}
+
+1000452796 ={
+	name = "ChongAn"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452795
+	religion = "nugyauq"
+	1228.3.24 ={
+		birth = "1228.3.24"
+	}
+	1286.1.11 ={
+		death = "1286.1.11"
+	}
+}
+
+1000452797 ={
+	name = "XinPu"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452796
+	religion = "nugyauq"
+	1246.10.4 ={
+		birth = "1246.10.4"
+	}
+	1306.5.16 ={
+		death = "1306.5.16"
+	}
+}
+
+1000452798 ={
+	name = "XunYuan"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452797
+	religion = "nugyauq"
+	1281.8.9 ={
+		birth = "1281.8.9"
+	}
+	1339.2.28 ={
+		death = "1339.2.28"
+	}
+}
+
+1000452799 ={
+	name = "DaoZi"
+	dynasty = 1000156263
+	culture = "zhuang"
+	father = 1000452798
+	religion = "nugyauq"
+	1298.8.6 ={
+		birth = "1298.8.6"
+	}
+	1352.10.19 ={
+		death = "1352.10.19"
+	}
+}
+
+#Placeholders for c_khim
+
+1000452717 ={
+	name = "ChengZheng"
+	dynasty = 1000156258
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	592.2.22 ={
+		birth = "592.2.22"
+	}
+	652.11.27 ={
+		death = "652.11.27"
+	}
+}
+
+1000452718 ={
+	name = "QingHong"
+	dynasty = 1000156258
+	culture = "zhuang"
+	father = 1000452717
+	religion = "nugyauq"
+	620.9.3 ={
+		birth = "620.9.3"
+	}
+	679.10.4 ={
+		death = "679.10.4"
+	}
+}
+
+1000452719 ={
+	name = "ChongXiang"
+	dynasty = 1000156258
+	culture = "zhuang"
+	father = 1000452718
+	religion = "nugyauq"
+	655.3.2 ={
+		birth = "655.3.2"
+	}
+	697.5.25 ={
+		death = "697.5.25"
+	}
+}
+
+1000452720 ={
+	name = "JingPing"
+	dynasty = 1000156258
+	culture = "zhuang"
+	father = 1000452719
+	religion = "nugyauq"
+	678.7.10 ={
+		birth = "678.7.10"
+	}
+	736.1.23 ={
+		death = "736.1.23"
+	}
+}
+
+1000452721 ={
+	name = "LongZhe"
+	dynasty = 1000156258
+	culture = "zhuang"
+	father = 1000452720
+	religion = "nugyauq"
+	709.10.19 ={
+		birth = "709.10.19"
+	}
+	764.6.27 ={
+		death = "764.6.27"
+	}
+}
+
+1000452722 ={
+	name = "GongShi"
+	dynasty = 1000156258
+	culture = "zhuang"
+	father = 1000452721
+	religion = "nugyauq"
+	738.11.1 ={
+		birth = "738.11.1"
+	}
+	797.9.27 ={
+		death = "797.9.27"
+	}
+}
+
+1000452723 ={
+	name = "DaHua"
+	dynasty = 1000156258
+	culture = "zhuang"
+	father = 1000452722
+	religion = "nugyauq"
+	759.11.9 ={
+		birth = "759.11.9"
+	}
+	806.10.13 ={
+		death = "806.10.13"
+	}
+}
+
+1000452724 ={
+	name = "SongGong"
+	dynasty = 1000156258
+	culture = "zhuang"
+	father = 1000452723
+	religion = "nugyauq"
+	780.1.17 ={
+		birth = "780.1.17"
+	}
+	838.10.9 ={
+		death = "838.10.9"
+	}
+}
+
+1000452725 ={
+	name = "ZiXun"
+	dynasty = 1000156258
+	culture = "zhuang"
+	father = 1000452724
+	religion = "nugyauq"
+	799.1.24 ={
+		birth = "799.1.24"
+	}
+	848.10.19 ={
+		death = "848.10.19"
+	}
+}
+
+1000452726 ={
+	name = "JiLong"
+	dynasty = 1000156258
+	culture = "zhuang"
+	father = 1000452725
+	religion = "nugyauq"
+	818.7.24 ={
+		birth = "818.7.24"
+	}
+	870.8.16 ={
+		death = "870.8.16"
+	}
+}
+
+1000452727 ={
+	name = "ShiXiao"
+	dynasty = 1000156258
+	culture = "zhuang"
+	father = 1000452726
+	religion = "nugyauq"
+	846.2.26 ={
+		birth = "846.2.26"
+	}
+	892.7.6 ={
+		death = "892.7.6"
+	}
+}
+
+1000452728 ={
+	name = "GangShi"
+	dynasty = 1000156258
+	culture = "zhuang"
+	father = 1000452727
+	religion = "nugyauq"
+	869.12.11 ={
+		birth = "869.12.11"
+	}
+	921.4.23 ={
+		death = "921.4.23"
+	}
+}
+
+1000452729 ={
+	name = "JiPu"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	934.4.1 ={
+		birth = "934.4.1"
+	}
+	986.1.15 ={
+		death = "986.1.15"
+	}
+}
+
+1000452730 ={
+	name = "Li"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 1000452729
+	religion = "nugyauq"
+	965.7.19 ={
+		birth = "965.7.19"
+	}
+	1025.2.17 ={
+		death = "1025.2.17"
+	}
+}
+
+1000452731 ={
+	name = "WanWen"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 1000452730
+	religion = "nugyauq"
+	993.3.20 ={
+		birth = "993.3.20"
+	}
+	1049.11.4 ={
+		death = "1049.11.4"
+	}
+}
+
+1000452732 ={
+	name = "JingHong"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 1000452731
+	religion = "nugyauq"
+	1013.2.16 ={
+		birth = "1013.2.16"
+	}
+	1071.3.10 ={
+		death = "1071.3.10"
+	}
+}
+
+1000452733 ={
+	name = "ZheQuan"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 1000452732
+	religion = "nugyauq"
+	1048.2.13 ={
+		birth = "1048.2.13"
+	}
+	1097.12.4 ={
+		death = "1097.12.4"
+	}
+}
+
+1000452734 ={
+	name = "ShuAn"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 1000452733
+	religion = "nugyauq"
+	1072.11.21 ={
+		birth = "1072.11.21"
+	}
+	1131.12.4 ={
+		death = "1131.12.4"
+	}
+}
+
+1000452735 ={
+	name = "GuoHong"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 1000452734
+	religion = "nugyauq"
+	1099.12.28 ={
+		birth = "1099.12.28"
+	}
+	1146.11.22 ={
+		death = "1146.11.22"
+	}
+}
+
+1000452736 ={
+	name = "GongXun"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 1000452735
+	religion = "nugyauq"
+	1122.12.19 ={
+		birth = "1122.12.19"
+	}
+	1175.4.24 ={
+		death = "1175.4.24"
+	}
+}
+
+1000452737 ={
+	name = "XiaoGuang"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 1000452736
+	religion = "nugyauq"
+	1145.12.3 ={
+		birth = "1145.12.3"
+	}
+	1204.11.5 ={
+		death = "1204.11.5"
+	}
+}
+
+1000452738 ={
+	name = "ZiMin"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 1000452737
+	religion = "nugyauq"
+	1167.6.23 ={
+		birth = "1167.6.23"
+	}
+	1226.9.11 ={
+		death = "1226.9.11"
+	}
+}
+
+1000452739 ={
+	name = "Ji"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 1000452738
+	religion = "nugyauq"
+	1199.3.9 ={
+		birth = "1199.3.9"
+	}
+	1248.5.20 ={
+		death = "1248.5.20"
+	}
+}
+
+1000452740 ={
+	name = "LongShu"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 1000452739
+	religion = "nugyauq"
+	1225.8.28 ={
+		birth = "1225.8.28"
+	}
+	1275.4.21 ={
+		death = "1275.4.21"
+	}
+}
+
+1000452741 ={
+	name = "QingCheng"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 1000452740
+	religion = "nugyauq"
+	1255.1.18 ={
+		birth = "1255.1.18"
+	}
+	1315.5.27 ={
+		death = "1315.5.27"
+	}
+}
+
+1000452742 ={
+	name = "YiGuang"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 1000452741
+	religion = "nugyauq"
+	1272.11.3 ={
+		birth = "1272.11.3"
+	}
+	1330.1.15 ={
+		death = "1330.1.15"
+	}
+}
+
+1000452743 ={
+	name = "Jing"
+	dynasty = 1000156259
+	culture = "zhuang"
+	father = 1000452742
+	religion = "nugyauq"
+	1300.2.10 ={
+		birth = "1300.2.10"
+	}
+	1353.4.2 ={
+		death = "1353.4.2"
+	}
+}
+
+#Placeholders for c_kueh and d_ziengxkrung
+
+1000452854 ={
+	name = "Hua"
+	dynasty = 1000156268
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	591.12.23 ={
+		birth = "591.12.23"
+	}
+	649.3.20 ={
+		death = "649.3.20"
+	}
+}
+
+1000452855 ={
+	name = "Bo"
+	dynasty = 1000156268
+	culture = "zhuang"
+	father = 1000452854
+	religion = "nugyauq"
+	618.12.27 ={
+		birth = "618.12.27"
+	}
+	677.8.25 ={
+		death = "677.8.25"
+	}
+}
+
+1000452856 ={
+	name = "GuangShi"
+	dynasty = 1000156268
+	culture = "zhuang"
+	father = 1000452855
+	religion = "nugyauq"
+	652.9.10 ={
+		birth = "652.9.10"
+	}
+	710.1.24 ={
+		death = "710.1.24"
+	}
+}
+
+1000452857 ={
+	name = "Zheng"
+	dynasty = 1000156268
+	culture = "zhuang"
+	father = 1000452856
+	religion = "nugyauq"
+	680.3.19 ={
+		birth = "680.3.19"
+	}
+	739.5.19 ={
+		death = "739.5.19"
+	}
+}
+
+1000452858 ={
+	name = "PuCai"
+	dynasty = 1000156268
+	culture = "zhuang"
+	father = 1000452857
+	religion = "nugyauq"
+	696.4.9 ={
+		birth = "696.4.9"
+	}
+	754.1.8 ={
+		death = "754.1.8"
+	}
+}
+
+1000452859 ={
+	name = "AnXin"
+	dynasty = 1000156268
+	culture = "zhuang"
+	father = 1000452858
+	religion = "nugyauq"
+	724.4.11 ={
+		birth = "724.4.11"
+	}
+	781.3.28 ={
+		death = "781.3.28"
+	}
+}
+
+1000452860 ={
+	name = "BoHua"
+	dynasty = 1000156268
+	culture = "zhuang"
+	father = 1000452859
+	religion = "nugyauq"
+	750.12.28 ={
+		birth = "750.12.28"
+	}
+	807.12.25 ={
+		death = "807.12.25"
+	}
+}
+
+1000452861 ={
+	name = "HongHao"
+	dynasty = 1000156268
+	culture = "zhuang"
+	father = 1000452860
+	religion = "nugyauq"
+	782.5.24 ={
+		birth = "782.5.24"
+	}
+	827.7.1 ={
+		death = "827.7.1"
+	}
+}
+
+1000452862 ={
+	name = "Shu"
+	dynasty = 1000156268
+	culture = "zhuang"
+	father = 1000452861
+	religion = "nugyauq"
+	803.6.4 ={
+		birth = "803.6.4"
+	}
+	857.6.6 ={
+		death = "857.6.6"
+	}
+}
+
+1000452863 ={
+	name = "Gang"
+	dynasty = 1000156268
+	culture = "zhuang"
+	father = 1000452862
+	religion = "nugyauq"
+	822.2.19 ={
+		birth = "822.2.19"
+	}
+	878.2.23 ={
+		death = "878.2.23"
+	}
+}
+
+1000452864 ={
+	name = "ChengXiao"
+	dynasty = 1000156268
+	culture = "zhuang"
+	father = 1000452863
+	religion = "nugyauq"
+	859.6.23 ={
+		birth = "859.6.23"
+	}
+	912.4.6 ={
+		death = "912.4.6"
+	}
+}
+
+1000452865 ={
+	name = "JingYuan"
+	dynasty = 1000156268
+	culture = "zhuang"
+	father = 1000452864
+	religion = "nugyauq"
+	880.10.8 ={
+		birth = "880.10.8"
+	}
+	936.7.10 ={
+		death = "936.7.10"
+	}
+}
+
+1000452866 ={
+	name = "Wan"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	931.3.22 ={
+		birth = "931.3.22"
+	}
+	990.10.12 ={
+		death = "990.10.12"
+	}
+}
+
+1000452867 ={
+	name = "MinHao"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452866
+	religion = "nugyauq"
+	967.10.28 ={
+		birth = "967.10.28"
+	}
+	1026.10.3 ={
+		death = "1026.10.3"
+	}
+}
+
+1000452868 ={
+	name = "GuangHua"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452867
+	religion = "nugyauq"
+	985.10.5 ={
+		birth = "985.10.5"
+	}
+	1041.7.7 ={
+		death = "1041.7.7"
+	}
+}
+
+1000452869 ={
+	name = "ZhengCheng"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452868
+	religion = "nugyauq"
+	1004.6.7 ={
+		birth = "1004.6.7"
+	}
+	1060.12.13 ={
+		death = "1060.12.13"
+	}
+}
+
+1000452870 ={
+	name = "PingFei"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452869
+	religion = "nugyauq"
+	1032.6.26 ={
+		birth = "1032.6.26"
+	}
+	1083.1.25 ={
+		death = "1083.1.25"
+	}
+}
+
+1000452871 ={
+	name = "ShuBi"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452870
+	religion = "nugyauq"
+	1057.9.19 ={
+		birth = "1057.9.19"
+	}
+	1115.9.15 ={
+		death = "1115.9.15"
+	}
+}
+
+1000452872 ={
+	name = "ZiCheng"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452871
+	religion = "nugyauq"
+	1090.1.1 ={
+		birth = "1090.1.1"
+	}
+	1135.6.13 ={
+		death = "1135.6.13"
+	}
+}
+
+1000452873 ={
+	name = "YiGang"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452872
+	religion = "nugyauq"
+	1108.2.9 ={
+		birth = "1108.2.9"
+	}
+	1158.1.2 ={
+		death = "1158.1.2"
+	}
+}
+
+1000452874 ={
+	name = "Zhong"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452873
+	religion = "nugyauq"
+	1135.3.4 ={
+		birth = "1135.3.4"
+	}
+	1195.10.28 ={
+		death = "1195.10.28"
+	}
+}
+
+1000452875 ={
+	name = "ShuChong"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452874
+	religion = "nugyauq"
+	1160.11.25 ={
+		birth = "1160.11.25"
+	}
+	1216.6.2 ={
+		death = "1216.6.2"
+	}
+}
+
+1000452876 ={
+	name = "YiCai"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452875
+	religion = "nugyauq"
+	1184.3.6 ={
+		birth = "1184.3.6"
+	}
+	1238.7.5 ={
+		death = "1238.7.5"
+	}
+}
+
+1000452877 ={
+	name = "Da"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452876
+	religion = "nugyauq"
+	1204.4.25 ={
+		birth = "1204.4.25"
+	}
+	1258.3.2 ={
+		death = "1258.3.2"
+	}
+}
+
+1000452878 ={
+	name = "GongQing"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452877
+	religion = "nugyauq"
+	1229.3.11 ={
+		birth = "1229.3.11"
+	}
+	1279.10.21 ={
+		death = "1279.10.21"
+	}
+}
+
+1000452879 ={
+	name = "AnGong"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452878
+	religion = "nugyauq"
+	1259.8.12 ={
+		birth = "1259.8.12"
+	}
+	1315.10.28 ={
+		death = "1315.10.28"
+	}
+}
+
+1000452880 ={
+	name = "Guang"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452879
+	religion = "nugyauq"
+	1276.3.16 ={
+		birth = "1276.3.16"
+	}
+	1335.3.14 ={
+		death = "1335.3.14"
+	}
+}
+
+1000452881 ={
+	name = "BoHong"
+	dynasty = 1000156269
+	culture = "zhuang"
+	father = 1000452880
+	religion = "nugyauq"
+	1310.3.5 ={
+		birth = "1310.3.5"
+	}
+	1366.1.17 ={
+		death = "1366.1.17"
+	}
+}
+
+#Placeholders for c_jung
+
+1000452882 ={
+	name = "JingXiao"
+	dynasty = 1000156270
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	599.10.11 ={
+		birth = "599.10.11"
+	}
+	645.6.14 ={
+		death = "645.6.14"
+	}
+}
+
+1000452883 ={
+	name = "Hui"
+	dynasty = 1000156270
+	culture = "zhuang"
+	father = 1000452882
+	religion = "nugyauq"
+	621.8.11 ={
+		birth = "621.8.11"
+	}
+	671.2.4 ={
+		death = "671.2.4"
+	}
+}
+
+1000452884 ={
+	name = "GongGuo"
+	dynasty = 1000156270
+	culture = "zhuang"
+	father = 1000452883
+	religion = "nugyauq"
+	638.8.15 ={
+		birth = "638.8.15"
+	}
+	691.5.17 ={
+		death = "691.5.17"
+	}
+}
+
+1000452885 ={
+	name = "RenGong"
+	dynasty = 1000156270
+	culture = "zhuang"
+	father = 1000452884
+	religion = "nugyauq"
+	667.11.5 ={
+		birth = "667.11.5"
+	}
+	723.3.6 ={
+		death = "723.3.6"
+	}
+}
+
+1000452886 ={
+	name = "Hao"
+	dynasty = 1000156270
+	culture = "zhuang"
+	father = 1000452885
+	religion = "nugyauq"
+	691.3.24 ={
+		birth = "691.3.24"
+	}
+	745.12.15 ={
+		death = "745.12.15"
+	}
+}
+
+1000452887 ={
+	name = "Hui"
+	dynasty = 1000156270
+	culture = "zhuang"
+	father = 1000452886
+	religion = "nugyauq"
+	723.12.4 ={
+		birth = "723.12.4"
+	}
+	771.10.15 ={
+		death = "771.10.15"
+	}
+}
+
+1000452888 ={
+	name = "SuSong"
+	dynasty = 1000156270
+	culture = "zhuang"
+	father = 1000452887
+	religion = "nugyauq"
+	746.8.27 ={
+		birth = "746.8.27"
+	}
+	798.11.14 ={
+		death = "798.11.14"
+	}
+}
+
+1000452889 ={
+	name = "XiangLong"
+	dynasty = 1000156270
+	culture = "zhuang"
+	father = 1000452888
+	religion = "nugyauq"
+	773.3.21 ={
+		birth = "773.3.21"
+	}
+	827.8.7 ={
+		death = "827.8.7"
+	}
+}
+
+1000452890 ={
+	name = "WenRen"
+	dynasty = 1000156270
+	culture = "zhuang"
+	father = 1000452889
+	religion = "nugyauq"
+	790.1.26 ={
+		birth = "790.1.26"
+	}
+	847.12.23 ={
+		death = "847.12.23"
+	}
+}
+
+1000452891 ={
+	name = "XiZhong"
+	dynasty = 1000156270
+	culture = "zhuang"
+	father = 1000452890
+	religion = "nugyauq"
+	811.6.18 ={
+		birth = "811.6.18"
+	}
+	869.12.21 ={
+		death = "869.12.21"
+	}
+}
+
+1000452892 ={
+	name = "Gang"
+	dynasty = 1000156270
+	culture = "zhuang"
+	father = 1000452891
+	religion = "nugyauq"
+	836.11.12 ={
+		birth = "836.11.12"
+	}
+	888.3.5 ={
+		death = "888.3.5"
+	}
+}
+
+1000452893 ={
+	name = "QingHui"
+	dynasty = 1000156270
+	culture = "zhuang"
+	father = 1000452892
+	religion = "nugyauq"
+	869.7.19 ={
+		birth = "869.7.19"
+	}
+	920.6.15 ={
+		death = "920.6.15"
+	}
+}
+
+1000452894 ={
+	name = "PingRen"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	932.8.21 ={
+		birth = "932.8.21"
+	}
+	991.12.15 ={
+		death = "991.12.15"
+	}
+}
+
+1000452895 ={
+	name = "QuanWan"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 1000452894
+	religion = "nugyauq"
+	956.5.23 ={
+		birth = "956.5.23"
+	}
+	1014.6.7 ={
+		death = "1014.6.7"
+	}
+}
+
+1000452896 ={
+	name = "RenShi"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 1000452895
+	religion = "nugyauq"
+	985.5.1 ={
+		birth = "985.5.1"
+	}
+	1045.9.20 ={
+		death = "1045.9.20"
+	}
+}
+
+1000452897 ={
+	name = "MinRen"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 1000452896
+	religion = "nugyauq"
+	1015.5.9 ={
+		birth = "1015.5.9"
+	}
+	1067.2.10 ={
+		death = "1067.2.10"
+	}
+}
+
+1000452898 ={
+	name = "WanJing"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 1000452897
+	religion = "nugyauq"
+	1045.1.24 ={
+		birth = "1045.1.24"
+	}
+	1096.10.27 ={
+		death = "1096.10.27"
+	}
+}
+
+1000452899 ={
+	name = "Gong"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 1000452898
+	religion = "nugyauq"
+	1069.6.12 ={
+		birth = "1069.6.12"
+	}
+	1129.3.11 ={
+		death = "1129.3.11"
+	}
+}
+
+1000452900 ={
+	name = "HuaXian"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 1000452899
+	religion = "nugyauq"
+	1093.12.18 ={
+		birth = "1093.12.18"
+	}
+	1151.5.9 ={
+		death = "1151.5.9"
+	}
+}
+
+1000452901 ={
+	name = "XiuDa"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 1000452900
+	religion = "nugyauq"
+	1129.10.12 ={
+		birth = "1129.10.12"
+	}
+	1184.8.18 ={
+		death = "1184.8.18"
+	}
+}
+
+1000452902 ={
+	name = "MinGong"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 1000452901
+	religion = "nugyauq"
+	1151.11.9 ={
+		birth = "1151.11.9"
+	}
+	1208.5.2 ={
+		death = "1208.5.2"
+	}
+}
+
+1000452903 ={
+	name = "JingQing"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 1000452902
+	religion = "nugyauq"
+	1172.7.10 ={
+		birth = "1172.7.10"
+	}
+	1226.1.12 ={
+		death = "1226.1.12"
+	}
+}
+
+1000452904 ={
+	name = "BoXian"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 1000452903
+	religion = "nugyauq"
+	1205.9.13 ={
+		birth = "1205.9.13"
+	}
+	1250.6.19 ={
+		death = "1250.6.19"
+	}
+}
+
+1000452905 ={
+	name = "ZhengXi"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 1000452904
+	religion = "nugyauq"
+	1232.2.27 ={
+		birth = "1232.2.27"
+	}
+	1274.8.1 ={
+		death = "1274.8.1"
+	}
+}
+
+1000452906 ={
+	name = "Guo"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 1000452905
+	religion = "nugyauq"
+	1250.8.10 ={
+		birth = "1250.8.10"
+	}
+	1295.6.6 ={
+		death = "1295.6.6"
+	}
+}
+
+1000452907 ={
+	name = "ZhengJing"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 1000452906
+	religion = "nugyauq"
+	1267.9.17 ={
+		birth = "1267.9.17"
+	}
+	1324.2.8 ={
+		death = "1324.2.8"
+	}
+}
+
+1000452908 ={
+	name = "Xian"
+	dynasty = 1000156271
+	culture = "zhuang"
+	father = 1000452907
+	religion = "nugyauq"
+	1301.6.11 ={
+		birth = "1301.6.11"
+	}
+	1360.1.22 ={
+		death = "1360.1.22"
+	}
+}
+
+#Placeholders for c_ngie
+
+1000452909 ={
+	name = "ZhongShi"
+	dynasty = 1000156272
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	600.8.24 ={
+		birth = "600.8.24"
+	}
+	654.4.9 ={
+		death = "654.4.9"
+	}
+}
+
+1000452910 ={
+	name = "XinGong"
+	dynasty = 1000156272
+	culture = "zhuang"
+	father = 1000452909
+	religion = "nugyauq"
+	621.4.7 ={
+		birth = "621.4.7"
+	}
+	673.1.20 ={
+		death = "673.1.20"
+	}
+}
+
+1000452911 ={
+	name = "WanHua"
+	dynasty = 1000156272
+	culture = "zhuang"
+	father = 1000452910
+	religion = "nugyauq"
+	638.8.10 ={
+		birth = "638.8.10"
+	}
+	696.9.25 ={
+		death = "696.9.25"
+	}
+}
+
+1000452912 ={
+	name = "HongXun"
+	dynasty = 1000156272
+	culture = "zhuang"
+	father = 1000452911
+	religion = "nugyauq"
+	662.7.17 ={
+		birth = "662.7.17"
+	}
+	722.4.20 ={
+		death = "722.4.20"
+	}
+}
+
+1000452913 ={
+	name = "Shi"
+	dynasty = 1000156272
+	culture = "zhuang"
+	father = 1000452912
+	religion = "nugyauq"
+	689.12.5 ={
+		birth = "689.12.5"
+	}
+	746.11.8 ={
+		death = "746.11.8"
+	}
+}
+
+1000452914 ={
+	name = "WenJing"
+	dynasty = 1000156272
+	culture = "zhuang"
+	father = 1000452913
+	religion = "nugyauq"
+	723.3.12 ={
+		birth = "723.3.12"
+	}
+	777.9.19 ={
+		death = "777.9.19"
+	}
+}
+
+1000452915 ={
+	name = "HaoXiang"
+	dynasty = 1000156272
+	culture = "zhuang"
+	father = 1000452914
+	religion = "nugyauq"
+	754.12.24 ={
+		birth = "754.12.24"
+	}
+	812.8.20 ={
+		death = "812.8.20"
+	}
+}
+
+1000452916 ={
+	name = "LiCheng"
+	dynasty = 1000156272
+	culture = "zhuang"
+	father = 1000452915
+	religion = "nugyauq"
+	780.9.27 ={
+		birth = "780.9.27"
+	}
+	834.3.13 ={
+		death = "834.3.13"
+	}
+}
+
+1000452917 ={
+	name = "ChongXun"
+	dynasty = 1000156272
+	culture = "zhuang"
+	father = 1000452916
+	religion = "nugyauq"
+	802.3.22 ={
+		birth = "802.3.22"
+	}
+	847.4.11 ={
+		death = "847.4.11"
+	}
+}
+
+1000452918 ={
+	name = "Pu"
+	dynasty = 1000156272
+	culture = "zhuang"
+	father = 1000452917
+	religion = "nugyauq"
+	823.10.9 ={
+		birth = "823.10.9"
+	}
+	874.4.25 ={
+		death = "874.4.25"
+	}
+}
+
+1000452919 ={
+	name = "XianJi"
+	dynasty = 1000156272
+	culture = "zhuang"
+	father = 1000452918
+	religion = "nugyauq"
+	845.7.20 ={
+		birth = "845.7.20"
+	}
+	900.5.25 ={
+		death = "900.5.25"
+	}
+}
+
+1000452920 ={
+	name = "QuanPing"
+	dynasty = 1000156272
+	culture = "zhuang"
+	father = 1000452919
+	religion = "nugyauq"
+	870.8.27 ={
+		birth = "870.8.27"
+	}
+	930.1.13 ={
+		death = "930.1.13"
+	}
+}
+
+1000452921 ={
+	name = "ZhengLong"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 0
+	religion = "nugyauq"
+	941.1.20 ={
+		birth = "941.1.20"
+	}
+	996.11.23 ={
+		death = "996.11.23"
+	}
+}
+
+1000452922 ={
+	name = "ShiBi"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 1000452921
+	religion = "nugyauq"
+	966.11.25 ={
+		birth = "966.11.25"
+	}
+	1015.6.27 ={
+		death = "1015.6.27"
+	}
+}
+
+1000452923 ={
+	name = "BiXiang"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 1000452922
+	religion = "nugyauq"
+	985.12.28 ={
+		birth = "985.12.28"
+	}
+	1042.6.5 ={
+		death = "1042.6.5"
+	}
+}
+
+1000452924 ={
+	name = "MinSu"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 1000452923
+	religion = "nugyauq"
+	1012.4.8 ={
+		birth = "1012.4.8"
+	}
+	1066.2.4 ={
+		death = "1066.2.4"
+	}
+}
+
+1000452925 ={
+	name = "XiaoPing"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 1000452924
+	religion = "nugyauq"
+	1042.3.4 ={
+		birth = "1042.3.4"
+	}
+	1099.4.28 ={
+		death = "1099.4.28"
+	}
+}
+
+1000452926 ={
+	name = "JiFei"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 1000452925
+	religion = "nugyauq"
+	1074.11.11 ={
+		birth = "1074.11.11"
+	}
+	1119.11.2 ={
+		death = "1119.11.2"
+	}
+}
+
+1000452927 ={
+	name = "YiXiao"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 1000452926
+	religion = "nugyauq"
+	1092.4.27 ={
+		birth = "1092.4.27"
+	}
+	1150.12.3 ={
+		death = "1150.12.3"
+	}
+}
+
+1000452928 ={
+	name = "ChengZhong"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 1000452927
+	religion = "nugyauq"
+	1111.10.14 ={
+		birth = "1111.10.14"
+	}
+	1167.3.1 ={
+		death = "1167.3.1"
+	}
+}
+
+1000452929 ={
+	name = "Guo"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 1000452928
+	religion = "nugyauq"
+	1145.12.5 ={
+		birth = "1145.12.5"
+	}
+	1202.12.3 ={
+		death = "1202.12.3"
+	}
+}
+
+1000452930 ={
+	name = "Xian"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 1000452929
+	religion = "nugyauq"
+	1162.1.28 ={
+		birth = "1162.1.28"
+	}
+	1216.12.3 ={
+		death = "1216.12.3"
+	}
+}
+
+1000452931 ={
+	name = "Zheng"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 1000452930
+	religion = "nugyauq"
+	1189.12.4 ={
+		birth = "1189.12.4"
+	}
+	1243.12.22 ={
+		death = "1243.12.22"
+	}
+}
+
+1000452932 ={
+	name = "RenDa"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 1000452931
+	religion = "nugyauq"
+	1221.12.25 ={
+		birth = "1221.12.25"
+	}
+	1268.1.23 ={
+		death = "1268.1.23"
+	}
+}
+
+1000452933 ={
+	name = "YiZhong"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 1000452932
+	religion = "nugyauq"
+	1249.6.12 ={
+		birth = "1249.6.12"
+	}
+	1296.7.5 ={
+		death = "1296.7.5"
+	}
+}
+
+1000452934 ={
+	name = "FeiXun"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 1000452933
+	religion = "nugyauq"
+	1266.11.20 ={
+		birth = "1266.11.20"
+	}
+	1316.11.2 ={
+		death = "1316.11.2"
+	}
+}
+
+1000452935 ={
+	name = "XinLong"
+	dynasty = 1000156273
+	culture = "zhuang"
+	father = 1000452934
+	religion = "nugyauq"
+	1288.2.8 ={
+		birth = "1288.2.8"
+	}
+	1345.1.8 ={
+		death = "1345.1.8"
+	}
+}

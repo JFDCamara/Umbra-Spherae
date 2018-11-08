@@ -1,0 +1,28 @@
+# 1936 - Mafia
+
+# County Title
+title = c_mafia
+
+# Settlements
+max_settlements = 5
+b_kisimani_mafia = castle
+b_kwa = city
+b_bweni = temple
+#b_kikale = 
+#b_ikwiriri = 
+#b_nyamwage = 
+#b_kibiti = 
+#b_mchukwi = 
+
+# Misc
+culture = wangozi
+religion = east_bantu_mythology
+
+# History
+
+1100.1.1 = {
+	religion = sunni
+}
+1170.1.1 = {
+	culture = swahili
+}

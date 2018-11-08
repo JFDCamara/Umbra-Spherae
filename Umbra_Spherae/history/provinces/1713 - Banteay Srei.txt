@@ -1,0 +1,22 @@
+# 1082 - Banteay Srei
+
+# County Title
+title = c_banteay_srei
+
+# Settlements
+max_settlements = 4
+b_phumi_champei = castle
+b_banteay_srei = temple
+b_sre_noy = city
+#b_phumi_lovea =
+#b_ihr =
+#b_phumi_don_em =
+#b_roessei_thum =
+#b_phumi_aprak_slab
+
+# Misc
+culture = khmer
+religion = hindu
+
+# History
+

@@ -1,0 +1,22 @@
+# 1335 - Ryukyu (Okinawa)
+
+# County Title
+title = c_ryukyu
+
+# Settlements
+max_settlements = 5
+b_shuri = castle
+b_naha_ryukyu = city
+b_goeku = castle
+
+#b_kunigami = castle
+#b_nakagami = castle
+#b_shimajiri = castle
+#b_minna = castle
+#b_ikei = castle
+
+# Misc
+culture = ryukyuan
+religion = ryukyu_shinto
+
+# History

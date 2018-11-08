@@ -1,0 +1,21 @@
+# 1246 - Takang
+
+# County Title
+title = c_takang
+
+# Settlements
+max_settlements = 3
+b_waikabubak = tribal
+b_waingapu = tribal
+#b_kandesa =
+#b_larawali =
+#b_baing =
+#b_lalindi =
+#b_omatena =
+#b_tengairi =
+
+# Misc
+culture = tenggaran
+religion = flores_religion
+
+# History

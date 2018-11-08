@@ -1,0 +1,21 @@
+# 1160 - Hansawadi
+
+# County Title
+title = c_hansawadi
+
+# Settlements
+max_settlements = 4
+b_kunhing = castle
+b_hansawadi = city
+b_mong_yang = temple
+#b_wan_na_noi =
+#b_nawnghit =
+#b_nawnghkio =
+#b_ho_lao =
+#b_hsaw =
+
+# Misc
+culture = shan
+religion = buddhist
+
+# History

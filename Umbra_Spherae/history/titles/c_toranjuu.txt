@@ -1,0 +1,65 @@
+#Tshwene Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000080437 #Mudavanhu
+}
+780.1.1={
+	holder=1000080438 #Nikati
+}
+810.1.1={
+	holder=1000080439 #Nkami
+}
+840.1.1={
+	holder=1000080440 #Vunamakuni
+}
+870.1.1={
+	holder=1000080441 #Kambgun
+}
+900.1.1={
+	holder=1000080442 #Mwayile
+}
+930.1.1={
+	holder=1000080443 #Dalaunde
+}
+960.1.1={
+	holder=1000080444 #Ntalaolte
+}
+990.1.1={
+	holder=1000080445 #Masola
+}
+1020.1.1={
+	holder=1000080446 #Vunamakuni
+}
+1050.1.1={
+	holder=1000080447 #Masola
+}
+1080.1.1={
+	holder=1000080448 #Mpengo
+}
+1110.1.1={
+	holder=1000080449 #Mpengo
+}
+1140.1.1={
+	holder=1000080450 #Vunamakuni
+}
+1170.1.1={
+	holder=1000080451 #Kambgun
+}
+1200.1.1={
+	holder=1000080452 #Mutinhima
+}
+1230.1.1={
+	holder=1000080453 #Chingombe
+}
+1260.1.1={
+	holder=1000080454 #Makulukusa
+}
+1290.1.1={
+	holder=1000080455 #Mosojane
+}
+1320.1.1={
+	holder=1000080456 #Ntalaolte
+}
+1350.1.1={
+	holder=1000080457 #Mwayile
+}

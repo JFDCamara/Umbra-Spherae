@@ -1,0 +1,174 @@
+###########################################
+#                                         #
+# US culture conversion events  		  #
+#                                         #
+# ID US.1-US.499                          #
+#                                         #
+###########################################
+
+namespace = US
+
+###########################################
+# Province conversions                    #
+###########################################
+
+#Silla to Korean
+province_event = {
+	id = US.1
+	desc = EVTDESC_US_1
+	picture = GFX_evt_india_temple
+
+	trigger = {
+		culture = silla
+		owner = {
+			NOT = {	culture = silla }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+	}
+
+	option = {
+		name = EVTOPTA_US_1
+		culture = korean
+	}
+}
+
+#Baekje to Korean
+province_event = {
+	id = US.2
+	desc = EVTDESC_US_2
+	picture = GFX_evt_india_temple
+
+	trigger = {
+		culture = baekje
+		owner = {
+			NOT = {	culture = baekje }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+	}
+
+	option = {
+		name = EVTOPTA_US_2
+		culture = korean
+	}
+}
+
+#Guryeo to Korean
+province_event = {
+	id = US.3
+	desc = EVTDESC_US_3
+	picture = GFX_evt_india_temple
+
+	trigger = {
+		culture = guryeo
+		owner = {
+			NOT = {	culture = guryeo }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+	}
+
+	option = {
+		name = EVTOPTA_US_3
+		culture = korean
+	}
+}
+
+#Buyeo to Korean
+province_event = {
+	id = US.4
+	desc = EVTDESC_US_4
+	picture = GFX_evt_india_temple
+
+	trigger = {
+		culture = buyeo
+		owner = {
+			NOT = {	culture = buyeo }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+	}
+
+	option = {
+		name = EVTOPTA_US_4
+		culture = korean
+	}
+}
+
+#Mohe to Jurchen
+province_event = {
+	id = US.5
+	desc = EVTDESC_US_5
+	picture = GFX_evt_india_temple
+
+	trigger = {
+		culture = mohe
+		owner = {
+			NOT = {	culture = mohe }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+	}
+
+	option = {
+		name = EVTOPTA_US_5
+		culture = jurchen
+	}
+}
+
+#Wangozi to Swahili
+province_event = {
+	id = US.6
+	desc = EVTDESC_US_6
+	picture = GFX_evt_india_temple
+
+	trigger = {
+		culture = wangozi
+		owner = {
+			NOT = {	culture = wangozi }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+	}
+
+	option = {
+		name = EVTOPTA_US_6
+		culture = swahili
+	}
+}
+
+#Vazimba to Malagasy
+province_event = {
+	id = US.7
+	desc = EVTDESC_US_7
+	picture = GFX_evt_india_temple
+
+	trigger = {
+		culture = vazimba
+		owner = {
+			NOT = {	culture = vazimba }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+	}
+
+	option = {
+		name = EVTOPTA_US_7
+		culture = malagasy
+	}
+}

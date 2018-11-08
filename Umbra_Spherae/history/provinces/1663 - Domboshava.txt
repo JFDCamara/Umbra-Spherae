@@ -1,0 +1,21 @@
+# 1663 - Domboshava
+
+# County Title
+title = c_domboshava
+
+# Settlements
+max_settlements = 4
+b_domboshava = tribal
+#b_malalume = 
+#b_ndolwane = 
+#b_maitengwe = 
+#b_mapoka = 
+#b_ramokgwebana = 
+#b_butale = 
+#b_masunga = 
+
+# Misc
+culture = kalanga
+religion = south_bantu_mythology
+
+# History

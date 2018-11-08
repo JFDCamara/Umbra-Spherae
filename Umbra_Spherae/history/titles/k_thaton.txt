@@ -1,0 +1,37 @@
+#Thaton Dynasty
+760.1.1 = {
+	holder=1000080327 #Ottama-Yaza
+}
+787.1.1 = {
+	holder=1000080326 #Thiri-Yaza
+}
+814.1.1 = {
+	holder=1000080325 #Dhamma-Yaza
+}
+841.1.1 = {
+	holder=1000080324 #Maha-Seitta-Yaza
+}
+868.1.1 = {
+	holder=1000080323 #Ganda-Yaza
+}
+895.1.1 = {
+	holder=1000080322 #Zeya-Yaza
+}
+922.1.1 = {
+	holder=1000080321 #Thumana-Yaza
+}
+949.1.1 = {
+	holder=1000080320 #Maddaka-Yaza
+}
+976.1.1 = {
+	holder=1000080319 #Aminna-Yaza
+}
+1003.1.1 = {
+	holder=1000080318 #Uddina-Yaza
+}
+1030.1.1 = {
+	holder=1000080317 #Manuha
+}
+1057.1.1 = {
+	holder=0
+}

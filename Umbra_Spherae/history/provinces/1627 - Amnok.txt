@@ -1,0 +1,19 @@
+# 1909 - Amnok
+
+# County Title
+title = c_amnok
+
+# Settlements
+max_settlements = 4
+b_sinju = castle
+b_hwanju = castle
+b_pungju = temple
+#b_jeongju_amnok =
+
+# Misc
+culture = guryeo
+religion = shingyo
+
+# History
+
+936.1.1 = { culture = korean }

@@ -1,0 +1,22 @@
+# 1152 - Savannakhet
+
+# County Title
+title = c_savannakhet
+
+# Settlements
+max_settlements = 2
+b_savannakhet = castle
+b_ban_that = temple
+#b_ban_nhiang =
+#b_nasy =
+#b_sompha_vilai =
+#b_ban_khap_phuang =
+#b_lao_fai =
+#b_nadung =
+
+# Misc
+culture = lao
+religion = buddhist
+
+# History
+

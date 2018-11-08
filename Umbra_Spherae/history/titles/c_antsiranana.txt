@@ -1,0 +1,66 @@
+#Rasoarizay Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076550 #Andriambelomasina
+	law = true_cognatic_succession
+}
+780.1.1={
+	holder=1000076551 #Andriamasinavalona
+}
+810.1.1={
+	holder=1000076552 #Haja
+}
+840.1.1={
+	holder=1000076553 #Mamisoa
+}
+870.1.1={
+	holder=1000076554 #Mandresy
+}
+900.1.1={
+	holder=1000076555 #Solofo
+}
+930.1.1={
+	holder=1000076556 #Solofo
+}
+960.1.1={
+	holder=1000076557 #Jaona
+}
+990.1.1={
+	holder=1000076558 #Andrianantoandro
+}
+1020.1.1={
+	holder=1000076559 #Tsilavohery
+}
+1050.1.1={
+	holder=1000076560 #Tovohery
+}
+1080.1.1={
+	holder=1000076561 #Mandresy
+}
+1110.1.1={
+	holder=1000076562 #Tsilavohery
+}
+1140.1.1={
+	holder=1000076563 #Andrianantoandro
+}
+1170.1.1={
+	holder=1000076564 #Andriantsimitoviaminandriana
+}
+1200.1.1={
+	holder=1000076565 #Anja
+}
+1230.1.1={
+	holder=1000076566 #Rano
+}
+1260.1.1={
+	holder=1000076567 #Andriamasinavalona
+}
+1290.1.1={
+	holder=1000076568 #Lova
+}
+1320.1.1={
+	holder=1000076569 #Niaina
+}
+1350.1.1={
+	holder=1000076570 #Radama
+}

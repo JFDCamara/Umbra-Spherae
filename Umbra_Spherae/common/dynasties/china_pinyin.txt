@@ -1,0 +1,517 @@
+#########New Chinese Dynasty id Range 1.000.156.000 - 1.000.156.999 ######
+
+1000027500 = {
+    name="Zhào"#Zhào-?
+    culture = han
+}
+
+1000027501 = {
+		name="Jiàn"#Jiàn-?
+		culture = han
+}
+
+1000027502 = {
+		name="Sün"#Sun-?
+		culture = han
+}
+
+1000027503 = {
+		name="Lî"#Li-?
+		culture = han
+}
+
+1000027504 = {
+		name="Zhöu"#Zhou-?
+		culture = han
+}
+
+1000027505 = {
+		name="Wú"#Wú-?
+		culture = han
+}
+
+1000027506 = {
+		name="Zhèng"#Zhèng-?
+		culture = han
+}
+
+1000027507 = {
+		name="Wáng"#Wáng-?
+		culture = han
+}
+
+1000027508 = {
+		name="Féng"#Féng-?
+		culture = han
+}
+
+1000027509 = {
+		name="Chén"#Chén-?
+		culture = han
+}
+
+1000027510 = {
+		name="Chû"#Chu-?
+		culture = han
+}
+
+1000027511 = {
+		name="Wèi"#Wèi-?
+		culture = han
+}
+
+1000027512 = {
+		name="Jiâng"#Jiang-?
+		culture = han
+}
+
+1000027513 = {
+		name="Hán"#Hán-?
+		culture = han
+}
+
+1000027514 = {
+		name="Yáng"#Yáng-?
+		culture = han
+}
+
+1000027515 = {
+		name="Shû"#Shu-?
+		culture = han
+}
+
+1000027516 = {
+		name="Jïn"#Jin-?
+		culture = han
+}
+
+1000027517 = {
+		name="Yóu"#Yóu-?
+		culture = han
+}
+
+1000027518 = {
+		name="Xú"#Xú-?
+		culture = han
+}
+
+1000027519 = {
+		name="Shên"#Shen-?
+		culture = han
+}
+
+1000027520 = {
+		name="Hú"#Hú-?
+		culture = han
+}
+
+1000027521 = {
+		name="Lû"#Lu-?
+		culture = han
+}
+
+1000027522 = {
+		name="Shí"#Shí-?
+		culture = han
+}
+
+1000027523 = {
+		name="Zhäng"#Zhang-?
+		culture = han
+}
+
+1000027524 = {
+		name="Kông"#Kong-?
+		culture = han
+}
+
+1000027525 = {
+		name="Cáo"#Cáo-?
+		culture = han
+}
+
+1000027526 = {
+		name="Yán"#Yán-?
+		culture = han
+}
+
+1000027527 = {
+		name="Huà"#Huà-?
+		culture = han
+}
+
+1000027528 = {
+		name="Jìn"#Jìn-?
+		culture = han
+}
+
+1000027529 = {
+		name="Wèi"#Wèi-?
+		culture = han
+}
+
+1000027530 = {
+		name="Táo"#Táo-?
+		culture = han
+}
+
+1000027531 = {
+		name="Jiäng"#Jiang-?
+		culture = han
+}
+
+1000027532 = {
+		name="Qí"#Qí-?
+		culture = han
+}
+
+1000027533 = {
+		name="Xiäo"#Xiao-?
+		culture = han
+}
+
+1000027534 = {
+		name="Zöu"#Zou-?
+		culture = han
+}
+
+1000027535 = {
+		name="Yú"#Yú-?
+		culture = han
+}
+
+1000027536 = {
+		name="Bái"#Bái-?
+		culture = han
+}
+
+1000027537 = {
+		name="Shuî"#Shui-?
+		culture = han
+}
+
+1000027538 = {
+		name="Dòu"#Dòu-?
+		culture = han
+}
+
+1000027539 = {
+		name="Zhäng"#Zhang-?
+		culture = han
+}
+
+1000027540 = {
+		name="Yun"#?
+		culture = han
+}
+
+1000027541 = {
+		name="Sü"#Su-?
+		culture = han
+}
+
+1000027542 = {
+		name="Pän"#Pan-?
+		culture = han
+}
+
+1000027543 = {
+		name="Ge"#?
+		culture = han
+}
+
+1000027544 = {
+		name="Xi"#?
+		culture = han
+}
+
+1000027545 = {
+		name="Fàn"#Fàn-?
+		culture = han
+}
+
+1000027546 = {
+		name="Péng"#Péng-?
+		culture = han
+}
+
+1000027547 = {
+		name="Lang"#?
+		culture = han
+}
+
+1000027548 = {
+		name="Lü"#Lu-?
+		culture = han
+}
+
+1000027549 = {
+		name="Wèi"#Wèi-?
+		culture = han
+}
+
+1000027550 = {
+		name="Cháng"#Cháng-?
+		culture = han
+}
+
+1000027551 = {
+		name="Mâ"#Ma-?
+		culture = han
+}
+
+1000027552 = {
+		name="Miao"#?
+		culture = han
+}
+
+1000027553 = {
+		name="Dèng"#Dèng-?
+		culture = han
+}
+
+1000027554 = {
+		name="Hua"#?
+		culture = han
+}
+
+1000027555 = {
+		name="Fäng"#Fang-?
+		culture = han
+}
+
+1000027556 = {
+		name="Yú"#Yú-?
+		culture = han
+}
+
+1000027557 = {
+		name="Rèn"#Rèn-?
+		culture = han
+}
+
+1000027558 = {
+		name="Yuán"#Yuán-?
+		culture = han
+}
+
+1000027559 = {
+		name="Liú"#Liú-?
+		culture = han
+}
+
+1000027560 = {
+		name="Feng"#?
+		culture = han
+}
+
+1000027561 = {
+		name="Bao"#?
+		culture = han
+}
+
+1000027562 = {
+		name="Shî"#Shi-?
+		culture = han
+}
+
+1000027563 = {
+		name="Táng"#Táng-?
+		culture = han
+}
+
+1000027564 = {
+		name="Fei"#?
+		culture = han
+}
+
+1000027565 = {
+		name="Lian"#?
+		culture = han
+}
+
+1000027566 = {
+		name="Cen"#?
+		culture = han
+}
+
+1000027567 = {
+		name="Bai"#?
+		culture = han
+}
+
+1000027568 = {
+		name="Léi"#Léi-?
+		culture = han
+}
+
+1000027569 = {
+		name="Hé"#Hé-?
+		culture = han
+}
+
+1000027570 = {
+		name="Ni"#?
+		culture = han
+}
+
+1000027571 = {
+		name="Shang"#?
+		culture = han
+}
+
+1000027572 = {
+		name="Teng"#?
+		culture = han
+}
+
+1000027573 = {
+		name="Yîn"#Yin-?
+		culture = han
+}
+
+1000027574 = {
+		name="Luó"#Luó-?
+		culture = han
+}
+
+1000027575 = {
+		name="Bi"#?
+		culture = han
+}
+
+1000027576 = {
+		name="Hâo"#Hao-?
+		culture = han
+}
+
+1000027577 = {
+		name="Huáng"#Huáng-?
+		culture = han
+}
+
+1000027578 = {
+		name="Än"#An-?
+		culture = han
+}
+
+1000027579 = {
+		name="Zhäng"#Zhang-?
+		culture = han
+}
+
+1000027699 = {
+		name="Wû"#Wu-?
+		culture = han
+}
+
+1000027610 = {
+	name="Nanzhao"
+	culture = bai
+}
+1000027611 = {
+	name="Da Changhe"
+	culture = bai
+}
+1000027612 = {
+	name="Da Tianxing"
+	culture = bai
+}
+1000027613 = {
+	name="Da Yining"
+	culture = bai
+}
+1000027614 = {
+	name="Da Zhong"
+	culture = bai
+}
+1000028326 = {
+	name="Duàn"#Duàn-?
+	culture = bai
+}
+
+1000027696 = {
+    name="Yaolian"
+    culture=khitan
+}
+1000028327 = {
+    name="Yelu"
+    culture=khitan
+}
+
+1000028328 = {
+    name="Wanyan"
+    culture=jurchen
+	religion = jurchen_pagan
+}
+
+1000027697 = {
+    name="Shiwei"
+    culture=khitan
+}
+#New Range begins
+1000156000 = {
+		name="Än"#An-?
+		culture = zhuhui
+}
+1000156001 = {
+		name="Jïn"#Jin-?
+		culture = zhuhui
+}
+1000156002 = {
+		name="Shí"#Shí-?
+		culture = zhuhui
+}
+1000156003 = {
+		name="Lî"#Li-?
+		culture = zhuhui
+}
+1000156004 = {
+    name="Zhào"#Zhào-?
+    culture = zhuhui
+}
+1000156005 = {
+		name="Zhäng"#Zhang-?
+		culture = zhuhui
+}
+1000156006 = {
+		name="Ài"#Ài-?
+		culture = zhuhui
+}
+1000156007 = {
+		name="Gäo"#Gao-?
+		culture = zhuhui
+}
+1000156008 = {
+		name="Nungz"#Nóng-?
+		culture = zhuang
+}
+1000156009 = {
+		name="Veiz"#Wéi-?
+		culture = zhuang
+}
+1000156010 = {
+		name="Bya"#Ba-?
+		culture = zhuang
+}
+1000156011 = {
+		name="Luz"#Lù-?
+		culture = zhuang
+}
+1000156012 = {
+		name="Leix"#Li-?
+		culture = zhuang
+}
+1000156013 = {
+		name="Vangz"#Huáng-?
+		culture = zhuang
+}
+1000156014 = {
+		name="Maj"#Ma-?
+		culture = zhuang
+}
+
+1000028275 = {
+    name="Chen"
+    culture=bai
+}

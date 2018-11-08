@@ -1,0 +1,68 @@
+#Chui Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076823 #Simba
+}
+780.1.1={
+	holder=1000076824 #Anasa
+}
+810.1.1={
+	holder=1000076825 #Kwanzaa
+}
+840.1.1={
+	holder=1000076826 #Kwanzaa
+}
+870.1.1={
+	holder=1000076827 #Kwanzaa
+}
+900.1.1={
+	holder=1000076828 #Kitwana
+}
+930.1.1={
+	holder=1000076829 #Msia
+}
+960.1.1={
+	holder=1000076830 #Duma
+}
+990.1.1={
+	holder=1000076831 #Simba
+}
+996.1.1={
+	liege="k_swahili"
+}
+1020.1.1={
+	holder=1000076832 #Jafari
+}
+1050.1.1={
+	holder=1000076833 #Jata
+}
+1080.1.1={
+	holder=1000076834 #Hodari
+}
+1110.1.1={
+	holder=1000076835 #Jafari
+}
+1140.1.1={
+	holder=1000076836 #Busar
+}
+1170.1.1={
+	holder=1000076837 #Busara
+}
+1200.1.1={
+	holder=1000076838 #Msia
+}
+1230.1.1={
+	holder=1000076839 #Ashon
+}
+1260.1.1={
+	holder=1000076840 #Kito
+}
+1290.1.1={
+	holder=1000076841 #Jumaane
+}
+1320.1.1={
+	holder=1000076842 #Salene
+}
+1350.1.1={
+	holder=1000076843 #Kereenyaga
+}

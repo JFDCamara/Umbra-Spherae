@@ -1,0 +1,17 @@
+# 1794 - 'iih
+
+# County Title
+title = c_iih
+
+# Settlements
+max_settlements = 4
+b_zsjynhan = castle
+b_ngiemjin = city
+b_nengsren = city
+#b_dungchjang =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History

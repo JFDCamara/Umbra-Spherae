@@ -1,0 +1,24 @@
+# 1609 - Phyo
+
+# County Title
+title = c_phyo
+
+# Settlements
+max_settlements = 4
+b_lakkrau = castle
+b_pauxsjitzsih = temple
+b_praksrenzsih = temple
+#b_lakchjyen = city
+#b_Phyozjeng = city
+#b_drikla =
+#b_zjekruengzsih =
+#b_thadghuasren = temple (taoist)
+
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

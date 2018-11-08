@@ -1,0 +1,24 @@
+# 1813 - Hwang
+
+# County Title
+title = c_hwang
+
+# Settlements
+max_settlements = 5
+b_hwang = castle
+b_phyongsan = castle
+b_sohung = city
+#b_yonsan =
+#b_kaephung =
+#b_kangnam =
+#b_thosan =
+#b_yonthan =
+
+
+# Misc
+culture = guryeo
+religion = shingyo
+
+# History
+
+936.1.1 = { culture = korean}

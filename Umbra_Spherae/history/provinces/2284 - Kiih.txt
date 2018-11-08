@@ -1,0 +1,23 @@
+# 1658 - Kiih
+
+# County Title
+title = c_kiih
+
+# Settlements
+max_settlements = 5
+b_sinto = castle
+b_nomkiung = city
+b_cauxgiang = city
+b_pauxyonzsih = temple
+#b_myoxip =
+#b_ghrangsjyix =
+#b_thek =
+#b_singha =
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

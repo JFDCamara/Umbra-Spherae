@@ -1,0 +1,17 @@
+# 1751 - Kavaratti
+
+# County Title
+title = c_kavaratti
+
+# Settlements
+max_settlements = 2
+b_kavaratti = tribal
+#b_andrott =
+#b_amini =
+#b_minicoy =
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

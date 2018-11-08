@@ -1,0 +1,17 @@
+# 1809 - Hurha
+
+# County Title
+title = c_hurha
+
+# Settlements
+max_settlements = 2
+b_hurha = tribal
+b_odoli = tribal
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+
+1050.1.1 = { culture = jurchen }

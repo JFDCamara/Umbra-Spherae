@@ -1,0 +1,66 @@
+#Zakaheloy Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076529 #Narisoa
+	law = true_cognatic_succession
+}
+780.1.1={
+	holder=1000076530 #Andrianantoandro
+}
+810.1.1={
+	holder=1000076531 #Tsilavohery
+}
+840.1.1={
+	holder=1000076532 #Haja
+}
+870.1.1={
+	holder=1000076533 #Andriamasinavalona
+}
+900.1.1={
+	holder=1000076534 #Jaona
+}
+930.1.1={
+	holder=1000076535 #Zafiamiarina
+}
+960.1.1={
+	holder=1000076536 #Hamada
+}
+990.1.1={
+	holder=1000076537 #Andrianavalona
+}
+1020.1.1={
+	holder=1000076538 #Niaina
+}
+1050.1.1={
+	holder=1000076539 #Andrianantoandro
+}
+1080.1.1={
+	holder=1000076540 #Tsimisotry
+}
+1110.1.1={
+	holder=1000076541 #Andriambelomasina
+}
+1140.1.1={
+	holder=1000076542 #Mandresy
+}
+1170.1.1={
+	holder=1000076543 #Andriamasinavalona
+}
+1200.1.1={
+	holder=1000076544 #Mandresy
+}
+1230.1.1={
+	holder=1000076545 #Mampihao
+}
+1260.1.1={
+	holder=1000076546 #Mandresy
+}
+1290.1.1={
+	holder=1000076547 #Solofo
+}
+1320.1.1={
+	holder=1000076548 #Ralambo
+}
+1350.1.1={
+	holder=1000076549 #Solofo
+}

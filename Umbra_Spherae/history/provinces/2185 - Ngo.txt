@@ -1,0 +1,24 @@
+# 1509 - Nomyatngo
+
+# County Title
+title = c_nomyatngo
+
+# Settlements
+max_settlements = 5
+b_changngo = castle
+b_bjenlak = city
+b_limghah = city
+b_domcin = city
+#b_zrimkhe =
+#b_lyungbjen =
+#b_piuhchjyen =
+#b_kyungzjeng =
+
+
+# Misc
+culture = zhuang
+religion = nugyauq
+
+# History
+
+

@@ -1,0 +1,14 @@
+# 1772 - Ngin
+
+# County Title
+title = c_ngin
+
+# Settlements
+max_settlements = 3
+b_nengsruk = castle
+b_njyolim = city
+b_cjinhiang = castle
+
+# Misc
+culture = tangut
+religion = buddhist

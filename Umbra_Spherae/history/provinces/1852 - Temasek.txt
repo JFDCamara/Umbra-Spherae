@@ -1,0 +1,21 @@
+# 1221 - Temasek
+
+# County Title
+title = c_temasek
+
+# Settlements
+max_settlements = 4
+b_tuas = castle
+b_temasek = city
+#b_bukit_timah =
+#b_yishun =
+#b_sengkang =
+#b_bedok =
+#b_nongsa =
+#b_sei_beduk =
+
+# Misc
+culture = malay
+religion = hindu
+
+# History

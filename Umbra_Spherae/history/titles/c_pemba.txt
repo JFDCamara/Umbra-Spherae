@@ -1,0 +1,71 @@
+#Pembe Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076760 #Kwanzaa
+}
+780.1.1={
+	holder=1000076761 #Elea
+}
+810.1.1={
+	holder=1000076762 #Ikeno
+}
+840.1.1={
+	holder=1000076763 #Moyo
+}
+870.1.1={
+	holder=1000076764 #Salene
+}
+900.1.1={
+	holder=1000076765 #Salene
+}
+930.1.1={
+	holder=1000076766 #Simba
+}
+960.1.1={
+	holder=1000076767 #Msia
+}
+990.1.1={
+	holder=1000076768 #Mbita
+}
+1020.1.1={
+	holder=1000076769 #Atieno
+}
+1050.1.1={
+	holder=1000076770 #Ashon
+}
+1080.1.1={
+	holder=1000076771 #Zahur
+}
+1110.1.1={
+	holder=1000076772 #Msia
+}
+1140.1.1={
+	holder=1000076773 #Mbita
+}
+1170.1.1={
+	holder=1000076774 #Hamadi
+}
+1180.1.1={
+	liege="k_swahili"
+}
+1200.1.1={
+	holder=1000076775 #Juma
+}
+1203.1.1={
+	liege=0
+}
+1230.1.1={
+	holder=1000076776 #Zawadi
+}
+1260.1.1={
+	holder=1000076777 #Zahur
+}
+1290.1.1={
+	holder=1000076778 #Salene
+}
+1320.1.1={
+	holder=1000076779 #Duma
+}
+1350.1.1={
+	holder=1000076780 #Kereenyaga
+}

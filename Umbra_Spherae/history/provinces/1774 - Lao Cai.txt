@@ -1,0 +1,21 @@
+# 1143 - Lao Cai
+
+# County Title
+title = c_lao_cai
+
+# Settlements
+max_settlements = 4
+b_kim_tan = castle
+b_lao_cai = city
+b_cam_duong = temple
+#b_ban_phiet =
+#b_ban_cam =
+#b_thanh_binh =
+#b_lung_khau_nhin =
+#b_ta_ngai_cho =
+
+# Misc
+culture = viet
+religion = thangiao
+
+# History

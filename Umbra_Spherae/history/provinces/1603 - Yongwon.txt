@@ -1,0 +1,19 @@
+# 1807 - Yongwon
+
+# County Title
+title = c_yongwon
+
+# Settlements
+max_settlements = 4
+b_gyeongju = castle
+b_yeomju = castle
+b_mokju = castle
+#b_haju =
+
+# Misc
+culture = guryeo
+religion = shingyo
+
+# History
+
+936.1.1 = { culture = korean }

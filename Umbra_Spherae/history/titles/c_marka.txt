@@ -1,0 +1,71 @@
+#Duale Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083415 #Abu-Bakr
+}
+780.1.1={
+	holder=1000083416 #Jamal
+}
+810.1.1={
+	holder=1000083417 #Abu-Bakr
+}
+840.1.1={
+	holder=1000083418 #Nur
+}
+850.1.1={
+	liege="d_mogadishu"
+}
+870.1.1={
+	holder=1000083419 #Yayyo
+}
+900.1.1={
+	holder=1000083420 #Hantale
+}
+930.1.1={
+	holder=1000083421 #Abu-Bakr
+}
+960.1.1={
+	holder=1000083422 #Abu-Bakr
+}
+990.1.1={
+	holder=1000083423 #Harire
+}
+1020.1.1={
+	holder=1000083424 #Haqq
+}
+1050.1.1={
+	holder=1000083425 #Adan
+}
+1080.1.1={
+	holder=1000083426 #Sabir
+}
+1110.1.1={
+	holder=1000083427 #Talha
+}
+1140.1.1={
+	holder=1000083428 #Sadiq
+}
+1170.1.1={
+	holder=1000083429 #Naleye
+}
+1200.1.1={
+	holder=1000083430 #Abdale
+}
+1230.1.1={
+	holder=1000083431 #Khalaf
+}
+1238.1.1={
+	liege="k_somalia"
+}
+1260.1.1={
+	holder=1000083432 #Adan
+}
+1290.1.1={
+	holder=1000083433 #Ali
+}
+1320.1.1={
+	holder=1000083434 #Sadiq
+}
+1350.1.1={
+	holder=1000083435 #Balad
+}

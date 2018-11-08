@@ -1,0 +1,19 @@
+# 1782 - Dan
+
+# County Title
+title = c_dan
+
+# Settlements
+max_settlements = 5
+b_mityon = castle
+#b_danghrangdang =
+#b_ghruainju =
+b_koxpokkhux = castle
+b_phoxcjeuhzsih = temple #buddhist
+b_janglienghkungzsi = temple
+
+# Misc
+culture = han
+religion = confucian
+
+# History

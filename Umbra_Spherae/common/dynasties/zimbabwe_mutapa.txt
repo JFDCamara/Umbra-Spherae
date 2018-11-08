@@ -1,0 +1,115 @@
+1000028356 = {
+	name="Silwamba"
+	culture=ila_tonga
+}
+1000028357 = {
+	name="Katete"
+	culture=ila_tonga
+}
+1000028358 = {
+	name="Ndhlovu"
+	culture=ila_tonga
+}
+
+1000028359 = {
+	name="Netulamela"
+	culture=venda_tsonga
+}
+1000028360 = {
+	name="Nedzata"
+	culture=venda_tsonga
+}
+1000028361 = {
+	name="Mpfumo"
+	culture=venda_tsonga
+}
+1000028362 = {
+	name="Livombo"
+	culture=venda_tsonga
+}
+
+1000028363 = {
+	name="Garanganga"
+	culture=karanga
+}
+1000028364 = {
+	name="Hatendi"
+	culture=karanga
+}
+1000028365 = {
+	name="Kachingwe"
+	culture=karanga
+}
+1000028366 = {
+	name="Mabuwa"
+	culture=karanga
+}
+1000028367 = {
+	name="Mangwende"
+	culture=karanga
+}
+1000028368 = {
+	name="Manyuchi"
+	culture=karanga
+}
+1000028369 = {
+	name="Mariga"
+	culture=karanga
+}
+1000028370 = {
+	name="Mupfumira"
+	culture=karanga
+}
+1000028371 = {
+	name="Ndandarika"
+	culture=karanga
+}
+1000028372 = {
+	name="Nyakasikana"
+	culture=karanga
+}
+1000028373 = {
+	name="Nyandoro"
+	culture=karanga
+}
+1000028374 = {
+	name="Nyathi"
+	culture=karanga
+}
+1000028375 = {
+	name="Tongofa"
+	culture=karanga
+}
+
+1000028376 = {
+	name="Moyo"
+	culture=kalanga
+}
+1000028377 = {
+	name="Mpala"
+	culture=kalanga
+}
+1000028378 = {
+	name="Mpofu"
+	culture=kalanga
+}
+1000028379 = {
+	name="Nkala"
+	culture=kalanga
+}
+1000028380 = {
+	name="Tshwene"
+	culture=kalanga
+}
+1000028381 = {
+	name="Gumbo"
+	culture=kalanga
+}
+1000028382 = {
+	name="Khupe"
+	culture=kalanga
+}
+1000028383 = {
+	name="Dube"
+	culture=kalanga
+}

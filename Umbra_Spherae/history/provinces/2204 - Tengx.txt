@@ -1,0 +1,22 @@
+# 1537 - Tengx
+
+# County Title
+title = c_tengx
+
+# Settlements
+max_settlements = 4
+b_myoxling = castle
+b_zjinjang = city
+b_dauchjyenkiung = temple
+#b_daungyan =
+#b_ngyankrung =
+#b_zriunghrauh =
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

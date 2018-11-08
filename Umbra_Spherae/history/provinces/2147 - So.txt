@@ -1,0 +1,24 @@
+# 1457 - So
+
+# County Title
+title = c_so
+
+# Settlements
+max_settlements = 6
+b_ngo = castle
+b_driangcju = city
+b_ngokrung = city
+b_limukdungh = temple
+b_lengngiamzsih = temple #buddhist
+#b_zjangzjuk =
+#b_kuonsren = 
+#b_kradengh =
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

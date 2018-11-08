@@ -1,0 +1,19 @@
+# 1788 - 'yoih
+
+# County Title
+title = c_cinhyoih
+
+# Settlements
+max_settlements = 5
+b_pyoigho = castle
+b_lengsien = city
+b_kuangxling = city
+#b_denghan_cinhyoih =
+b_lengkhiu = city
+b_nomanzsih = temple
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

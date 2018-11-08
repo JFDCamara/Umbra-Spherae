@@ -1,0 +1,21 @@
+# 1207 - Ketapang
+
+# County Title
+title = c_ketapang
+
+# Settlements
+max_settlements = 2
+b_mulakerta = tribal
+b_ketapang = tribal
+#b_pesaguan =
+#b_bagankemitung =
+#b_tanjung =
+#b_senengka =
+#b_matua =
+#b_kendawangan =
+
+# Misc
+culture = dayak
+religion = bornean_religion
+
+# History

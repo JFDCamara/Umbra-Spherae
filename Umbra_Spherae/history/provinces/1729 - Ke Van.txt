@@ -1,0 +1,21 @@
+# 1098 - Ke Van
+
+# County Title
+title = c_ke_van
+
+# Settlements
+max_settlements = 4
+b_cua_lo = castle
+b_ke_van = city
+b_kim_lien = temple
+#b_thanh_thuy =
+#b_phuc_son =
+#b_chau_khe =
+#b_nghia_phuc =
+#b_cau_giat =
+
+# Misc
+culture = viet
+religion = thangiao
+
+# History

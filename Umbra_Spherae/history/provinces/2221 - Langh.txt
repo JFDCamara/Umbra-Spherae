@@ -1,0 +1,23 @@
+# 1566 - Langh
+
+# County Title
+title = c_langh
+
+# Settlements
+max_settlements = 5
+b_langhtriung = castle
+b_changkhe = city
+b_byungkuok = city
+b_yengxanzsih = temple
+#b_nombox =
+#b_sinciengx =
+#b_sincjengh =
+#b_sesjyix =
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

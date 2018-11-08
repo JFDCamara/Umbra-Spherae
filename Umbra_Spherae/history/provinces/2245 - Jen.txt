@@ -1,0 +1,24 @@
+# 1606 - Jen
+
+# County Title
+title = c_jen
+
+# Settlements
+max_settlements = 4
+b_pyosje = castle
+b_kamzyen = city
+b_phyocjengh = city
+#b_jenchjyen =
+#b_jendriang =
+#b_limcjin =
+#b_pauxan =
+#b_muonsren =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

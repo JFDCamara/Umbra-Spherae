@@ -1,0 +1,21 @@
+# 1063 - Bagan
+
+# County Title
+title = c_bagan
+
+# Settlements
+max_settlements = 6
+b_myingyan = castle
+b_bagan = city
+b_pakokku = temple
+b_monywa = castle
+b_ma_au = city
+#b_myaing =
+#b_myitche =
+#b_pauk =
+
+# Misc
+culture = bamar
+religion = buddhist
+
+# History

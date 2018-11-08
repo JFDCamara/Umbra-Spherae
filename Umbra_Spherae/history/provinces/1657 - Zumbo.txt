@@ -1,0 +1,21 @@
+# 1657 - Zumbo
+
+# County Title
+title = c_zumbo
+
+# Settlements
+max_settlements = 4
+b_zumbo_zumbo = tribal
+#b_carinde = 
+#b_luangwa = 
+#b_kapoche = 
+#b_katondwe = 
+#b_zambue = 
+#b_bembere = 
+#b_kacholola = 
+
+# Misc
+culture = karanga
+religion = south_bantu_mythology
+
+# History

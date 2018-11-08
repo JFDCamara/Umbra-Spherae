@@ -1,0 +1,21 @@
+# 1101 - Thang Long
+
+# County Title
+title = c_thang_long
+
+# Settlements
+max_settlements = 7
+b_hoang_liet = castle
+b_thang_long = city
+b_my_dinh = temple
+b_dong_ngac = city
+b_trau_quy = castle
+#b_tu_son =
+#b_phu_luong =
+#b_phu_cuong =
+
+# Misc
+culture = viet
+religion = buddhist
+
+# History

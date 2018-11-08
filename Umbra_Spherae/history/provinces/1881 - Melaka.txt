@@ -1,0 +1,21 @@
+# 1250 - Melaka
+
+# County Title
+title = c_melaka
+
+# Settlements
+max_settlements = 4
+b_muar = castle
+b_melaka = city
+#b_seremban =
+#b_batu_pahat =
+#b_merlimau =
+#b_bakri =
+#b_pagoh =
+#b_bukit_gambir =
+
+# Misc
+culture = malay
+religion = buddhist
+
+# History

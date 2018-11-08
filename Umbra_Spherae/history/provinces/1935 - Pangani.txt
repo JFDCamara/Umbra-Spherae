@@ -1,0 +1,28 @@
+# 1935 - Pangani
+
+# County Title
+title = c_pangani
+
+# Settlements
+max_settlements = 4
+b_pangani = castle
+b_kaple = city
+b_tanga = temple
+#b_bagamoyo = 
+#b_mkwaja = 
+#b_saadani = 
+#b_mvomero = 
+#b_yambe = 
+
+# Misc
+culture = wangozi
+religion = east_bantu_mythology
+
+# History
+
+1100.1.1 = {
+	religion = sunni
+}
+1170.1.1 = {
+	culture = swahili
+}

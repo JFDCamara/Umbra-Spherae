@@ -1,0 +1,28 @@
+# 1931 - Malindi
+
+# County Title
+title = c_malindi
+
+# Settlements
+max_settlements = 4
+b_malindi = castle
+b_arabuko = city
+b_dagamra = temple
+#b_mambrui = 
+#b_gongoni = 
+#b_magarini = 
+#b_marafa = 
+#b_kakoneni = 
+
+# Misc
+culture = wangozi
+religion = east_bantu_mythology
+
+# History
+
+1000.1.1 = {
+	religion = sunni
+}
+1170.1.1 = {
+	culture = swahili
+}

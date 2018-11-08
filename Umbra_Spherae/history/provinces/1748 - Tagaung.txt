@@ -1,0 +1,21 @@
+# 1117 - Tagaung
+
+# County Title
+title = c_tagaung
+
+# Settlements
+max_settlements = 4
+b_magyi_gon = castle
+b_tagaung = city
+b_shein_ma_kar = temple
+#b_chundaung =
+#b_tawma =
+#b_kyungyi =
+#b_myadaung =
+#b_htidawgaing =
+
+# Misc
+culture = kachin
+religion = nat
+
+# History

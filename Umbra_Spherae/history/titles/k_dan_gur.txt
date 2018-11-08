@@ -1,0 +1,15 @@
+#Yelu Dynasty
+926.1.1 = {
+	liege="e_kitai"
+}
+926.1.1 = {
+	#holder=1000202509 #Bei
+	holder=194327 #Bei
+}
+930.1.1 = {
+	holder=194328 #Ruan
+}
+936.1.1 = {
+	liege=""
+	holder=0
+}

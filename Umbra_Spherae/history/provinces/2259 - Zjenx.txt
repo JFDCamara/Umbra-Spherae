@@ -1,0 +1,20 @@
+# 1627 - Zinzjenx
+
+# County Title
+title = c_zinzjenx
+
+# Settlements
+max_settlements = 2
+b_seneng = castle
+b_nengse = castle
+#b_chiengbjen = castle
+#b_lyungcje = castle
+
+
+# Misc
+culture = tangut
+religion = shenjiao
+
+# History
+
+

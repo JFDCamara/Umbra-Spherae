@@ -1,0 +1,21 @@
+# 1340 - Jailolo
+
+# County Title
+title = c_jailolo
+
+# Settlements
+max_settlements = 3
+b_tobelo = tribal
+b_jailolo = tribal
+#b_susupo =
+#b_totulu =
+#b_majid =
+#b_ekor =
+#b_subaim =
+#b_dorosaga =
+
+# Misc
+culture = malukan
+religion = melanesian_religion
+
+# History

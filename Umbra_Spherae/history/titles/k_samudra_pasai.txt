@@ -1,0 +1,13 @@
+#Samudra Dynasty
+1267.1.1={
+	holder=1000080721 #Malik
+}
+1297.1.1={
+	holder=1000080722 #Muhammad
+}
+1326.1.1={
+	holder=1000080723 #Mahmud
+}
+1345.1.1={
+	holder=1000080724 #Ahmad
+}

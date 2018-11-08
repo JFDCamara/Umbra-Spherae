@@ -1,0 +1,22 @@
+# 1674 - Sjim
+
+# County Title
+title = c_sjim
+
+# Settlements
+max_settlements = 4
+b_ziengxan = castle
+b_sjyukluk = city
+b_sjenghkomieuh = temple
+#b_myoxgiang =
+#b_njeujang =
+#b_anbjen =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

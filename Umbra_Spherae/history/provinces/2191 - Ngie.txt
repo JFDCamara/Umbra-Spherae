@@ -1,0 +1,24 @@
+# 1518 - Ngie
+
+# County Title
+title = c_ngie
+
+# Settlements
+max_settlements = 5
+b_ngiesren = castle
+b_kimzjengngie = castle
+b_anhruahngie = castle
+#b_thengha =
+#b_sion =
+#b_kyoinjin =
+#b_liehphua =
+#b_uonzyen =
+
+
+# Misc
+culture = zhuang
+religion = nugyauq
+
+# History
+
+

@@ -1,0 +1,23 @@
+# 2418 - Fianarantsoa
+
+# County Title
+title = c_fianarantsoa
+
+# Settlements
+max_settlements = 3
+b_fianarantsoa = tribal
+b_ranohira = tribal
+#b_menamaty_iloro = 
+#b_ambatomainty = 
+#b_mandronarivo = 
+#b_amborompotsy = 
+#b_malaimbandy = 
+#b_antsirabe = 
+
+# Misc
+culture = vazimba
+religion = malagasy_religion
+
+# History
+
+1050.1.1 = { culture = malagasy }

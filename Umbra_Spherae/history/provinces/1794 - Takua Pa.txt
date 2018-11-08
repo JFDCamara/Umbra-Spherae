@@ -1,0 +1,21 @@
+# 1163 - Takua Pa
+
+# County Title
+title = c_takua_pa
+
+# Settlements
+max_settlements = 2
+b_kapong = castle
+b_takua_pa = city
+#b_phuket =
+#b_plai_phraya =
+#b_ao_luek =
+#b_ko_yao =
+#b_phang_nga =
+#b_takua_thung =
+
+# Misc
+culture = malay
+religion = hindu
+
+# History

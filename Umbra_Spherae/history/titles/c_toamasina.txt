@@ -1,0 +1,66 @@
+#Rakotondramboa Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076508 #Toavina
+	law = true_cognatic_succession
+}
+780.1.1={
+	holder=1000076509 #Rano
+}
+810.1.1={
+	holder=1000076510 #Andrianampoinimerina
+}
+840.1.1={
+	holder=1000076511 #Andrianavalona
+}
+870.1.1={
+	holder=1000076512 #Jaona
+}
+900.1.1={
+	holder=1000076513 #Tsimisotry
+}
+930.1.1={
+	holder=1000076514 #Hamada
+}
+960.1.1={
+	holder=1000076515 #Mamisoa
+}
+990.1.1={
+	holder=1000076516 #Andrianantoandro
+}
+1020.1.1={
+	holder=1000076517 #Zazaharivelo
+}
+1050.1.1={
+	holder=1000076518 #Andriambelomasina
+}
+1080.1.1={
+	holder=1000076519 #Odon
+}
+1110.1.1={
+	holder=1000076520 #Mandresy
+}
+1140.1.1={
+	holder=1000076521 #Faneva
+}
+1170.1.1={
+	holder=1000076522 #Andriantsitakatrandriana
+}
+1200.1.1={
+	holder=1000076523 #Zazaharivelo
+}
+1230.1.1={
+	holder=1000076524 #Lova
+}
+1260.1.1={
+	holder=1000076525 #Mamisoa
+}
+1290.1.1={
+	holder=1000076526 #Andrianjaka
+}
+1320.1.1={
+	holder=1000076527 #Odon
+}
+1350.1.1={
+	holder=1000076528 #Andrianasy
+}

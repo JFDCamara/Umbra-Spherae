@@ -1,0 +1,21 @@
+# 1347 - Kuntodarussalam
+
+# County Title
+title = c_kuntodarussalam
+
+# Settlements
+max_settlements = 3
+b_kepenuhan = castle
+b_kuntodarussalam = city
+#b_tembusai_hutara =
+#b_rambah_samo =
+#b_tandun =
+#b_tapung_kiri =
+#b_koto_kampar =
+#b_bangkinang =
+
+# Misc
+culture = minangkabau
+religion = sumatran_religion
+
+# History

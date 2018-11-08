@@ -1,0 +1,22 @@
+# 1437 - Zjuh
+
+# County Title
+title = c_zjuh
+
+# Settlements
+max_settlements = 6
+b_ghraxchad = castle
+b_zjuhchjyn = city
+b_cjyunglie = city
+b_denghyanx = city
+b_anphiung = city
+#b_liukan =
+#b_huakkhiu =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

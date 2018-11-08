@@ -1,0 +1,21 @@
+# 1219 - Hutan Kadali
+
+# County Title
+title = c_hutan_kadali
+
+# Settlements
+max_settlements = 3
+b_seit = tribal
+b_namlea = tribal
+#b_bara_hutan_kadali =
+#b_wafehai =
+#b_wamasi =
+#b_waeplau =
+#b_tifu =
+#b_waergugat =
+
+# Misc
+culture = malukan
+religion = melanesian_religion
+
+# History

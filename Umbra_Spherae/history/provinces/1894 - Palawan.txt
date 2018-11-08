@@ -1,0 +1,21 @@
+# 1263 - Palawan
+
+# County Title
+title = c_palawan
+
+# Settlements
+max_settlements = 3
+b_narra = tribal
+b_busuanga = tribal
+#b_aborlan =
+#b_taytay =
+#b_dumaran =
+#b_linapacan =
+#b_culion =
+#b_coron_palawan =
+
+# Misc
+culture = tagalog
+religion = philippine_religion
+
+# History

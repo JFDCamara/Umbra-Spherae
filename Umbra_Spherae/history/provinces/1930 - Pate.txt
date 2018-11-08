@@ -1,0 +1,28 @@
+# 1930 - Pate
+
+# County Title
+title = c_pate
+
+# Settlements
+max_settlements = 5
+b_pate = castle
+b_faza = city
+b_siyu = temple
+#b_kiwayu = 
+#b_kizingitini = 
+#b_kiangwe = 
+#b_dodori = 
+#b_ankish = 
+
+# Misc
+culture = wangozi
+religion = east_bantu_mythology
+
+# History
+
+1000.1.1 = {
+	religion = sunni
+}
+1170.1.1 = {
+	culture = swahili
+}

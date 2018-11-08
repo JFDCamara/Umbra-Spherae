@@ -1,0 +1,21 @@
+# 1200 - Kelantan
+
+# County Title
+title = c_kelantan
+
+# Settlements
+max_settlements = 3
+b_kelantan = castle
+b_kuala_krai = temple
+#b_narathiwat =
+#b_sungai_kolok =
+#b_rangae =
+#b_gua_musang =
+#b_kuala_balah =
+#b_dabong =
+
+# Misc
+culture = malay
+religion = hindu
+
+# History

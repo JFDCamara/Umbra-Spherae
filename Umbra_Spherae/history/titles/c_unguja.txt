@@ -1,0 +1,71 @@
+#Ngome Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076781 #Moyo
+}
+780.1.1={
+	holder=1000076782 #Farijika
+}
+810.1.1={
+	holder=1000076783 #Jata
+}
+840.1.1={
+	holder=1000076784 #Ayo
+}
+870.1.1={
+	holder=1000076785 #Hodari
+}
+900.1.1={
+	holder=1000076786 #Moyo
+}
+930.1.1={
+	holder=1000076787 #Maulidi
+}
+960.1.1={
+	holder=1000076788 #Simba
+}
+990.1.1={
+	holder=1000076789 #Farijika
+}
+1020.1.1={
+	holder=1000076790 #Tian
+}
+1050.1.1={
+	holder=1000076791 #Tian
+}
+1080.1.1={
+	holder=1000076792 #Kitwana
+}
+1110.1.1={
+	holder=1000076793 #Keambiroiro
+}
+1140.1.1={
+	holder=1000076794 #Mhina
+}
+1170.1.1={
+	holder=1000076795 #Kitwana
+}
+1180.1.1={
+	liege="k_swahili"
+}
+1200.1.1={
+	holder=1000076796 #Kifeda
+}
+1203.1.1={
+	liege=0
+}
+1230.1.1={
+	holder=1000076797 #Maulidi
+}
+1260.1.1={
+	holder=1000076798 #Ayo
+}
+1290.1.1={
+	holder=1000076799 #Hamadi
+}
+1320.1.1={
+	holder=1000076800 #Atieno
+}
+1350.1.1={
+	holder=1000076801 #Kereenyaga
+}

@@ -1,0 +1,19 @@
+# 1763 - Cuad-neng
+
+# County Title
+title = c_cuadneng
+
+# Settlements
+max_settlements = 4
+b_ngopme = castle
+b_angyat = castle
+#b_yanglunghsren =
+#b_kraughop =
+#b_sjaxcii =
+#b_ghuehmuax =
+
+# Misc
+culture = thai
+religion = sastsana_phi
+
+# History

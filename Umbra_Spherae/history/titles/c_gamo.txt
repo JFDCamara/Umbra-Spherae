@@ -1,0 +1,65 @@
+#Gamo Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083268 #Negasi
+}
+780.1.1={
+	holder=1000083269 #Tengene
+}
+810.1.1={
+	holder=1000083270 #Fethee
+}
+840.1.1={
+	holder=1000083271 #Rahad
+}
+870.1.1={
+	holder=1000083272 #Gondar
+}
+900.1.1={
+	holder=1000083273 #Tefere
+}
+930.1.1={
+	holder=1000083274 #Dawit
+}
+960.1.1={
+	holder=1000083275 #Iskinder
+}
+990.1.1={
+	holder=1000083276 #Hackeem
+}
+1020.1.1={
+	holder=1000083277 #Semere
+}
+1050.1.1={
+	holder=1000083278 #Iyasu
+}
+1080.1.1={
+	holder=1000083279 #Negash
+}
+1110.1.1={
+	holder=1000083280 #Hagos
+}
+1140.1.1={
+	holder=1000083281 #Aman
+}
+1170.1.1={
+	holder=1000083282 #Fethee
+}
+1200.1.1={
+	holder=1000083283 #Berihun
+}
+1230.1.1={
+	holder=1000083284 #Tessema
+}
+1260.1.1={
+	holder=1000083285 #Merille
+}
+1290.1.1={
+	holder=1000083286 #Iyasu
+}
+1320.1.1={
+	holder=1000083287 #Ogbai
+}
+1350.1.1={
+	holder=1000083288 #Jima
+}

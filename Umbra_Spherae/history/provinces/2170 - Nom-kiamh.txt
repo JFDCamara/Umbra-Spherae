@@ -1,0 +1,24 @@
+# 1485 - Nomkiamh
+
+# County Title
+title = c_nomkiamh
+
+# Settlements
+max_settlements = 5
+b_kiamhbo = castle
+b_zsjynhchjang = city
+b_cianglak = city
+#b_sra =
+#b_iukhe =
+#b_tungcin =
+#b_langyan =
+#b_secin =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

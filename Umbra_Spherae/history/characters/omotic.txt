@@ -1,0 +1,885 @@
+#Hinnario Dynasty (Placeholders) of Hinnario
+
+1000083222 = {
+	name="Iskinder"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083223 = {
+	name="Lebna"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083222
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083224 = {
+	name="Kaleb"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083223
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083225 = {
+	name="Tariku"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083224
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083226 = {
+	name="Semer"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083225
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083227 = {
+	name="Semer"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083226
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083228 = {
+	name="Iyasu"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083227
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083229 = {
+	name="Dahnay"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083228
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083230 = {
+	name="Teferi"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083229
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083231 = {
+	name="Rahad"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083230
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083232 = {
+	name="Hakiem"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083231
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083233 = {
+	name="Miruts"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083232
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083234 = {
+	name="Daniachew"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083233
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083235 = {
+	name="Kaleb"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083234
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083236 = {
+	name="Iyasu"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083235
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083237 = {
+	name="Berhanua"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083236
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083238 = {
+	name="Fethee"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083237
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083239 = {
+	name="Geteye"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083238
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083240 = {
+	name="Jima"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083239
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083241 = {
+	name="Abai"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083240
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083242 = {
+	name="Dahnay"
+	dynasty=1000028325 #Hinnario
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083241
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Mato Dynasty (Placeholders) of Kaffa
+
+1000083243 = {
+	name="Abai"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083244 = {
+	name="Getachew"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083243
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083245 = {
+	name="Gebre"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083244
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083246 = {
+	name="Dawit"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083245
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083247 = {
+	name="Teruworq"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083246
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083248 = {
+	name="Gondar"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083247
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083249 = {
+	name="Hackeem"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083248
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083250 = {
+	name="Hakiem"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083249
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083251 = {
+	name="Gondar"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083250
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083252 = {
+	name="Hakym"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083251
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083253 = {
+	name="Lebna"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083252
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083254 = {
+	name="Oromo"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083253
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083255 = {
+	name="Hakiem"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083254
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083256 = {
+	name="Daniachew"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083255
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083257 = {
+	name="Gondar"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083256
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083258 = {
+	name="Hakeem"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083257
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083259 = {
+	name="Tewodros"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083258
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083260 = {
+	name="Gondar"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083259
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083261 = {
+	name="Tekle"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083260
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083262 = {
+	name="Iskinder"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083261
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083263 = {
+	name="Aman"
+	dynasty=1000028330 #Mato
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083262
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Gamo Dynasty (Placeholders) of Gamo
+
+1000083268 = {
+	name="Negasi"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083269 = {
+	name="Tengene"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083268
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083270 = {
+	name="Fethee"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083269
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083271 = {
+	name="Rahad"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083270
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083272 = {
+	name="Gondar"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083271
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083273 = {
+	name="Tefere"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083272
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083274 = {
+	name="Dawit"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083273
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083275 = {
+	name="Iskinder"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083274
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083276 = {
+	name="Hackeem"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083275
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083277 = {
+	name="Semere"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083276
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083278 = {
+	name="Iyasu"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083277
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083279 = {
+	name="Negash"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083278
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083280 = {
+	name="Hagos"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083279
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083281 = {
+	name="Aman"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083280
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083282 = {
+	name="Fethee"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083281
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083283 = {
+	name="Berihun"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083282
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083284 = {
+	name="Tessema"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083283
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083285 = {
+	name="Merille"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083284
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083286 = {
+	name="Iyasu"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083285
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083287 = {
+	name="Ogbai"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083286
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083288 = {
+	name="Jima"
+	dynasty=1000028332 #Gamo
+	religion="omotic_pagan"
+	culture="omotic"
+	father=1000083287
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+

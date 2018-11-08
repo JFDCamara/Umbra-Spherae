@@ -1,0 +1,66 @@
+#Saholinirina Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076571 #Andrianampoinimerina
+	law = true_cognatic_succession
+}
+780.1.1={
+	holder=1000076572 #Lova
+}
+810.1.1={
+	holder=1000076573 #Jaona
+}
+840.1.1={
+	holder=1000076574 #Jaona
+}
+870.1.1={
+	holder=1000076575 #Andrianary
+}
+900.1.1={
+	holder=1000076576 #Andriantsimitoviaminandriana
+}
+930.1.1={
+	holder=1000076577 #Zafiamiarina
+}
+960.1.1={
+	holder=1000076578 #Narisoa
+}
+990.1.1={
+	holder=1000076579 #Andrianampoinimerina
+}
+1020.1.1={
+	holder=1000076580 #Hamada
+}
+1050.1.1={
+	holder=1000076581 #Andrianavalona
+}
+1080.1.1={
+	holder=1000076582 #Andrianavalona
+}
+1110.1.1={
+	holder=1000076583 #Andrianavalona
+}
+1140.1.1={
+	holder=1000076584 #Andriambelomasina
+}
+1170.1.1={
+	holder=1000076585 #Anja
+}
+1200.1.1={
+	holder=1000076586 #Andrianampoinimerina
+}
+1230.1.1={
+	holder=1000076587 #Andriantsimitoviaminandriana
+}
+1260.1.1={
+	holder=1000076588 #Andrianavalona
+}
+1290.1.1={
+	holder=1000076589 #Andriambelomasina
+}
+1320.1.1={
+	holder=1000076590 #Andriantsimitoviaminandriandehibe
+}
+1350.1.1={
+	holder=1000076591 #Andrianavalona
+}

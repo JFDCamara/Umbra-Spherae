@@ -1,0 +1,41 @@
+#Rajasa Dynasty
+1222.1.1={
+	holder=1000080682 #Ranggah-Rajasa
+}
+
+#Tumapel Dynasty
+1227.1.1={
+	holder=1000080674 #Anusapati
+}
+
+#Rajasa Dynasty (restored)
+1248.1.1={
+	holder=1000080685 #Tohjaya
+}
+
+#Tumapel Dynasty (restored)
+1250.1.1={
+	holder=1000080675 #Wishnu-Wardhana
+}
+1268.1.1={
+	holder=1000080676 #Kertanegara
+}
+
+#Warmadewa Dynasty
+1292.1.1={
+	holder=1000080519 #Jayakatwang
+}
+
+#Rajasa Dynasty (restored again)
+1293.1.1={
+	holder=1000080689 #Kertarajasa-Jayawardhana
+}
+1309.1.1={
+	holder=1000080690 #Jayanegara
+}
+1328.1.1={
+	holder=1000080691 #Wijayatunggadewi
+}
+1350.1.1={
+	holder=1000080697 #Rajasanagara
+}

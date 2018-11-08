@@ -1,0 +1,22 @@
+# 1844 - Kaga
+
+# County Title
+title = c_kaga
+
+# Settlements
+max_settlements = 4
+b_kaga = castle
+b_wajima = city
+b_hakusan = temple
+
+#b_nanao = castle
+#b_yokoe = castle
+#b_suzu = castle
+#b_ishikawa = castle
+#b_komatsu = castle
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History

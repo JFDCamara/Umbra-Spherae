@@ -1,0 +1,21 @@
+# 1254 - Maysapan
+
+# County Title
+title = c_maysapan
+
+# Settlements
+max_settlements = 5
+b_balayan = castle
+b_maysapan = city
+b_tanay = temple
+#b_lipa =
+#b_labo =
+#b_naga_maysapan =
+#b_legazpi =
+#b_sorsogon =
+
+# Misc
+culture = tagalog
+religion = hindu
+
+# History

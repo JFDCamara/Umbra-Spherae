@@ -1,0 +1,23 @@
+# 1222 - Samudra
+
+# County Title
+title = c_samudra
+
+# Settlements
+max_settlements = 6
+b_jangka = castle
+b_samudra = city
+b_ganda_pura = temple
+b_makmur = city
+#b_peusangan =
+#b_sawang =
+#b_kuta_makmur =
+#b_lhokseumawe =
+
+# Misc
+culture = samudran
+religion = hindu
+
+# History
+
+1267.1.1={ religion = sunni }

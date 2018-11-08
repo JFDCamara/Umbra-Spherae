@@ -1,0 +1,21 @@
+# 1145 - Ha Giang
+
+# County Title
+title = c_ha_giang
+
+# Settlements
+max_settlements = 4
+b_ngoc_duong = castle
+b_ha_giang = city
+b_phong_quang = temple
+#b_phuong_tien =
+#b_cao_bo =
+#b_vi_xuyen =
+#b_linh_ho =
+#b_ngoc_minh =
+
+# Misc
+culture = viet
+religion = thangiao
+
+# History

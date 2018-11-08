@@ -1,0 +1,21 @@
+# 1963 - Zvongombe
+
+# County Title
+title = c_zvongombe
+
+# Settlements
+max_settlements = 6
+b_zvongombe = tribal
+#b_masapa = 
+#b_ruanga = 
+#b_mutota = 
+#b_kasekete = 
+#b_bedza = 
+#b_chipera = 
+#b_bakasa = 
+
+# Misc
+culture = karanga
+religion = south_bantu_mythology
+
+# History

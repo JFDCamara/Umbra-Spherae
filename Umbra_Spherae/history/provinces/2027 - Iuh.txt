@@ -1,0 +1,12 @@
+# 1771 - Iuh
+
+# County Title
+title = c_iuh
+
+# Settlements
+max_settlements = 1
+b_driangdrak = castle
+
+# Misc
+culture = tangut
+religion = buddhist

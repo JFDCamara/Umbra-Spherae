@@ -1,0 +1,24 @@
+# 1148 - Atayal
+
+# County Title
+title = c_atayal
+
+# Settlements
+max_settlements = 3
+b_qiluxulay = tribal
+#b_lalashan = 
+#b_keitago = 
+#b_taroko = 
+#b_nanauw = 
+#b_hamalan = 
+#b_sauwowo = 
+#b_linas = 
+
+# Misc
+culture = kilai
+religion = taiwanese_religion
+terrain = mountain
+
+# History
+
+

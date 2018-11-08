@@ -1,0 +1,16 @@
+# 1865 - Khara Narin Ula
+
+# County Title
+title = c_khara_narin_ula
+
+# Settlements
+max_settlements = 3
+b_bayan_nur = tribal
+b_toudaqiaoxiang = tribal
+#b_chengxi =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

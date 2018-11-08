@@ -1,0 +1,21 @@
+# 1099 - Thanh Hoa
+
+# County Title
+title = c_thanh_hoa
+
+# Settlements
+max_settlements = 4
+b_hoang_dai = castle
+b_thanh_hoa = city
+b_tao_xuyen = temple
+#b_nhoi =
+#b_yen_cat =
+#b_sam_son =
+#b_trieu_son =
+#b_xuan_du =
+
+# Misc
+culture = viet
+religion = thangiao
+
+# History

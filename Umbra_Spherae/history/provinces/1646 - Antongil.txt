@@ -1,0 +1,23 @@
+# 1646 - Antongil
+
+# County Title
+title = c_antongil
+
+# Settlements
+max_settlements = 3
+b_maroantsetra = tribal
+b_mandritsara = tribal
+#b_marovotry = 
+#b_doany = 
+#b_matsoandakana = 
+#b_rantabe = 
+#b_mandritsara_antongil = 
+#b_marotandrano = 
+
+# Misc
+culture = vazimba
+religion = malagasy_religion
+
+# History
+
+1050.1.1 = { culture = malagasy }

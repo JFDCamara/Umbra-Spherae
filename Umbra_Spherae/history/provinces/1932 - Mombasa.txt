@@ -1,0 +1,28 @@
+# 1932 - Mombasa
+
+# County Title
+title = c_mombasa
+
+# Settlements
+max_settlements = 6
+b_mombasa = castle
+b_mtwapa = city
+b_mazeras = temple
+#b_bomani = 
+#b_waa = 
+#b_tiwi = 
+#b_mienzeni = 
+#b_mariakani = 
+
+# Misc
+culture = wangozi
+religion = east_bantu_mythology
+
+# History
+
+1100.1.1 = {
+	religion = sunni
+}
+1170.1.1 = {
+	culture = swahili
+}

@@ -1,0 +1,21 @@
+# 1244 - Luwuk
+
+# County Title
+title = c_luwuk
+
+# Settlements
+max_settlements = 3
+b_lamala = tribal
+b_luwuk = tribal
+#b_balantak =
+#b_pagimana =
+#b_kintom =
+#b_bunta =
+#b_batui =
+#b_ampana_tete =
+
+# Misc
+culture = bugi
+religion = sulawesi_religion
+
+# History

@@ -1,0 +1,16 @@
+# 1765 - Yengx-chjang
+
+# County Title
+title = c_yengxchjang
+
+# Settlements
+max_settlements = 3
+b_pauxsren = castle
+b_kuangxjii = city
+b_sjinghhiang = city
+
+# Misc
+culture = thai
+religion = buddhist
+
+# History

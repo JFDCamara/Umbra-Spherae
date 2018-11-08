@@ -1,0 +1,66 @@
+#Rabarivony Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076592 #Tombovelo
+	law = true_cognatic_succession
+}
+780.1.1={
+	holder=1000076593 #Andrianantoandro
+}
+810.1.1={
+	holder=1000076594 #Andriantsimitoviaminandriandehibe
+}
+840.1.1={
+	holder=1000076595 #Tsimisotry
+}
+870.1.1={
+	holder=1000076596 #Andrianjafynandriamanitra
+}
+900.1.1={
+	holder=1000076597 #Rano
+}
+930.1.1={
+	holder=1000076598 #Tsiory
+}
+960.1.1={
+	holder=1000076599 #Andriantsimitoviaminandriana
+}
+990.1.1={
+	holder=1000076600 #Faneva
+}
+1020.1.1={
+	holder=1000076601 #Tsiory
+}
+1050.1.1={
+	holder=1000076602 #Andriantsimitoviaminandriana
+}
+1080.1.1={
+	holder=1000076603 #Andriambelomasina
+}
+1110.1.1={
+	holder=1000076604 #Andrianjafynandriamanitra
+}
+1140.1.1={
+	holder=1000076605 #Niaina
+}
+1170.1.1={
+	holder=1000076606 #Mampihao
+}
+1200.1.1={
+	holder=1000076607 #Andrianary
+}
+1230.1.1={
+	holder=1000076608 #Jaona
+}
+1260.1.1={
+	holder=1000076609 #Radama
+}
+1290.1.1={
+	holder=1000076610 #Andrianantoandro
+}
+1320.1.1={
+	holder=1000076611 #Radama
+}
+1350.1.1={
+	holder=1000076612 #Mandresy
+}

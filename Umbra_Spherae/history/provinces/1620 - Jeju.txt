@@ -1,0 +1,20 @@
+# 1824 - Jeju
+
+# County Title
+title = c_jeju
+
+# Settlements
+max_settlements = 4
+b_jeju = tribal
+b_seogwipo = tribal
+b_halla = temple
+#b_marado =
+
+
+# Misc
+culture = tamna
+religion = shingyo
+
+# History
+
+

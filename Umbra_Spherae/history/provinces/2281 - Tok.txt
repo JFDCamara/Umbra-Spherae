@@ -1,0 +1,23 @@
+# 1654 - Tok
+
+# County Title
+title = c_tok
+
+# Settlements
+max_settlements = 5
+b_antok = castle
+b_tokbjen = city
+b_bjenngyan = city
+b_sjyixmyoh = city
+#b_buangha =
+#b_hiangxhruah =
+#b_zipak =
+#b_ghruainjin =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

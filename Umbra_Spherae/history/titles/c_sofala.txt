@@ -1,0 +1,68 @@
+#Mnangagwa Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076676 #Tapiwa
+}
+780.1.1={
+	holder=1000076677 #Tichafara
+}
+810.1.1={
+	holder=1000076678 #Chipinduka
+}
+840.1.1={
+	holder=1000076679 #Tavonga
+}
+870.1.1={
+	holder=1000076680 #Twiza
+}
+900.1.1={
+	holder=1000076681 #Kuseka
+}
+930.1.1={
+	holder=1000076682 #Nhamo
+}
+960.1.1={
+	holder=1000076683 #Hosho
+}
+990.1.1={
+	holder=1000076684 #Tavonga
+}
+1020.1.1={
+	holder=1000076685 #Tashongedzwa
+}
+1050.1.1={
+	holder=1000076686 #Tendekai
+}
+1080.1.1={
+	holder=1000076687 #Takudzwa
+}
+1110.1.1={
+	holder=1000076688 #Hosho
+}
+1140.1.1={
+	holder=1000076689 #Goridhe
+}
+1170.1.1={
+	holder=1000076690 #Biria
+}
+1180.1.1={
+	liege="k_swahili"
+}
+1200.1.1={
+	holder=1000076691 #Goridhe
+}
+1230.1.1={
+	holder=1000076692 #Iwe
+}
+1260.1.1={
+	holder=1000076693 #Dzingai
+}
+1290.1.1={
+	holder=1000076694 #Itai
+}
+1320.1.1={
+	holder=1000076695 #Nyashadzashe
+}
+1350.1.1={
+	holder=1000076696 #Itai
+}

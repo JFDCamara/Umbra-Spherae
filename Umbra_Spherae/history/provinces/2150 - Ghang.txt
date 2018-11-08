@@ -1,0 +1,24 @@
+# 1460 - Ghang
+
+# County Title
+title = c_ghang
+
+# Settlements
+max_settlements = 6
+b_ziendang = castle
+b_njinghua = city
+b_joghang = city
+b_liman = city
+b_piuhjang = city
+#b_yoziem =
+#b_jemkuan =
+#b_lengionxzsih =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

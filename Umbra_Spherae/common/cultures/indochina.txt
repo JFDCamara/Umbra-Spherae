@@ -1,0 +1,268 @@
+vietic = {
+
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
+		
+	viet = {
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.2 0.4 0.4 }
+		
+		male_names = {
+			Anh Antoan Cadao Can Cham Chim Chong-Duy Gia Hai Hoc Nien Pin Ban Bao Bien Binh Chung Chuong Dinh Dong Duc Dung Duy
+			Hieu Hoai Hoang Hung Huy Khoi Lam Loc Minh Nam Phong Phuc Phuoc Quang Tan Teo Thai Thanh Thuyet Tu Tuan Viet
+			Thai-To Thai-Tong Thanh-Tong Nhan-Tong
+		}
+		female_names = {
+			Hoa Back-Yen Bian Cais Diem Diep Duyen Hang Hanh Hao Hien Hong Hop Hue Huong Huyen Khanh Khuong Khuyen Kieu Lan Lieu Linh
+			Loan Ly Nhi Nhu Nhung Nu Phuong Quynh Sen Thao Thi Thu Thuong Thuy Thy Tien Toan Trang Trinh Trung Tuyen Tuyet Uyen Vui Xuan
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+}
+
+tai_kadai = {
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
+		
+	thai = {
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.3 0.8 0.2 }
+		
+		male_names = {
+			Coeng_Zhen
+			Aran Aroon Banthorn Chaisai Chanarong Chon Choonhavon Daw Dithakar Ditt Ittiporn Kamol Kanokpol Kasem Khemkhaeng Kiet Klahan Kraiwin Krita Krom-Luang Mongkut Narong Nattakamol Niran Nodthakorn Paponthanai Petch Praween Pu Puttipat Ruang Sarathoon Som Son-Chai Sud Suda Sunan Suriyawong Su-Suk Tak-Sin Tanutam Thananop Virote
+		}
+		female_names = {
+			Banjit Boon-Nam Charanya Chumbot Cintna Duangnet Isra Kanya Kulap Lawan Mae-Khao Mali Manya-Phathon Nong-Yao Nisarra Pakpao Phailin Phueng Piam Pim Preeya Ratana Rochana Somchai Somsri Son-Klin Srinak Suchin Sukhon Sumalee Sup Tasanee Thurian Tola Udom Vanida
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	lao = {
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.6 0.5 0.7 }
+		
+		male_names = {
+			Akamu Analu Aron Aulii Bane Fuseni Havika Ikaika Kaipo Kalani Kale Keoki Keowynn Khampeng Khamsone Kimo Konala Lae Leilani Liko Maik Makaio Makan Makani Malo Meka Mya Noi Palani Papep Paxathipatai Pekelo Phaivanh Phettakoun Sand Saravan Sommai Sonxai Sothanalat Sounanxay Tay Teyvada Xaikeo
+		}
+		female_names = {
+			Aelan Ailani Akela Haimi Iokina Ipo Kaiah Kalea Kalena Kawena Keahi Keilana Keili Lari Loe Lokelani Mahina Maile Makala Makana Makenna Malana Mauli Mimio Okelani Olina Onaona Palila Roselani Saengvone Sallymata Sasilvia Sathit So-Yeon Ululani Wanika
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	shan = {
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.3 0.2 0.8 }
+		
+		male_names = {
+			Aran Aroon Chanarong Daw Kamol Kasem Khemkhaeng Kiet Klahan Mongkut Niran Som Sunan Virote
+		}
+		female_names = {
+			Isra Kanya Kulap Lawan Mali Pakpao Phailin Phueng Ratana Somchai Somsri Suchin Sukhon Sumalee Tasanee Thurian Tola Vanida
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	zhuang = {
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.12 0.5 0.9 }
+		
+		male_names = {
+			Bing_Bing Byauh_Biao Cenzfuk_Quanfu Ciqgaoh_Zhigao Ciucuek_Zhaozhuo Cuengh_Zhen Gozcing_Guoqing Yenfanh_Xianfan
+			Aran Aroon Chanarong Daw Kamol Kasem Khemkhaeng Kiet Klahan Mongkut Niran Som Sunan Virote
+		}
+		female_names = {
+			Bing_Bing
+			Isra Kanya Kulap Lawan Mali Pakpao Phailin Phueng Ratana Somchai Somsri Suchin Sukhon Sumalee Tasanee Thurian Tola Vanida
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+}
+
+hmong_mien = {
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
+	
+	hmong = { #Miao culture
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.65 0.12 0.3 }
+		
+		male_names = {
+			Bing_Bing Byauh_Biao Cenzfuk_Quanfu Ciqgaoh_Zhigao Ciucuek_Zhaozhuo Cuengh_Zhen Gozcing_Guoqing Yenfanh_Xianfan
+
+			Ahsy-Neng By-Ntxhw Cheng-Ntsuab Fwam-Xob Hiav-Kau Hnub-Cha Kao-Tswj-Hwm Keebkwm-Fu Looj-Tseemci Seng-Fong Thaiv-Huas Tsawb-Hiav Tsawb-Ku Tshwjxeeb-Touchondue Tuam-Ying Xiong-Dej Yang-Tsim Yias-Txoov Zongneng-Ceev Zoov-Peng
+		}
+		female_names = {
+			Bing_Bing
+			
+			Boa-Sai Che-Ger Che-Kouaeia Chue-Mao Der-Ntsais Hnub-Kalue Huab-Kalue Ia-Nkauj Ib-Nao Lee-Tswb Liab-Nao Mai-Kaj Maikia-Mo Me-Maiv Mouachy-Lig Nkauj-Dib Si-Zer Treu-Shoua Xee-Maly Zer-Nhia
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	mien = { #Yao culture
+		graphical_cultures = { bodpagfx chinesegfx mongolgfx indiangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.45 0.12 0.3 }
+		
+		male_names = {
+			Bing_Bing Byauh_Biao Cenzfuk_Quanfu Ciqgaoh_Zhigao Ciucuek_Zhaozhuo Cuengh_Zhen Gozcing_Guoqing Yenfanh_Xianfan
+			
+			Ahsy-Neng By-Ntxhw Cheng-Ntsuab Fwam-Xob Hiav-Kau Hnub-Cha Kao-Tswj-Hwm Keebkwm-Fu Looj-Tseemci Seng-Fong Thaiv-Huas Tsawb-Hiav Tsawb-Ku Tshwjxeeb-Touchondue Tuam-Ying Xiong-Dej Yang-Tsim Yias-Txoov Zongneng-Ceev Zoov-Peng
+		}
+		female_names = {
+			Bing_Bing
+			Boa-Sai Che-Ger Che-Kouaeia Chue-Mao Der-Ntsais Hnub-Kalue Huab-Kalue Ia-Nkauj Ib-Nao Lee-Tswb Liab-Nao Mai-Kaj Maikia-Mo Me-Maiv Mouachy-Lig Nkauj-Dib Si-Zer Treu-Shoua Xee-Maly Zer-Nhia
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+}
+
+burman = {
+		graphical_cultures = { bodpagfx chinesegfx mongolgfx indiangfx muslimgfx }
+	
+	bamar = {
+		graphical_cultures = { bodpagfx chinesegfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.4 0.4 0.2 }
+		
+		male_names = {
+			Arun Aung Aye Bourey Chankrisna Dara Hlaing Maung
+		}
+		female_names = {
+			Chit Cho Hla
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	lolo = {
+		graphical_cultures = { bodpagfx chinesegfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.6 0.4 0.2 }
+		
+		male_names = {
+			Arun Aung Aye Bourey Chankrisna Dara Hlaing Maung
+		}
+		female_names = {
+			Chit Cho Hla
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	kachin = {
+		graphical_cultures = { bodpagfx chinesegfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.5 0.5 0.2 }
+		
+		male_names = {
+			Gam-Shawng Gun-Maw La-Nan La-Rip Lum-Dau
+		}
+		female_names = {
+			Chit Cho Hla
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+}
+
+mon_khmer = {
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
+		
+	mon = {
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.7 0.8 0.4 }
+		
+		male_names = {
+			Amara Anol Arun Bona Bora Bourey Chea Dara Kong Kou Lee Lim Munny Nhean Pheakdet Phirun Pich Rithisak Sakngea Samnang Saron Sereyuth Sokheng Sokyana Somnang
+			Sopheak Sopheap Sothorn Sovann Teige Toto Veasna Vibol Viphop
+		}
+		female_names = {
+			Botum Boupha Champei Champey Chan Channary Chantou Chantrea Chenda Chhean Darareaksmey Elita Jorani Kalliyan Kanha Kolab Kunthea Maly Mealea Pheakkley
+			Phhoung Puthykol Raksa Seab Solyna Sreykeo Sreyneang Thida Vatey Veata
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	khmer = {
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.7 0.8 0.2 }
+		
+		male_names = {
+			Amara Anol Arun Bona Bora Bourey Chea Dara Kong Kou Lee Lim Munny Nhean Pheakdet Phirun Pich Rithisak Sakngea Samnang Saron Sereyuth Sokheng Sokyana Somnang
+			Sopheak Sopheap Sothorn Sovann Teige Toto Veasna Vibol Viphop
+		}
+		female_names = {
+			Botum Boupha Champei Champey Chan Channary Chantou Chantrea Chenda Chhean Darareaksmey Elita Jorani Kalliyan Kanha Kolab Kunthea Maly Mealea Pheakkley
+			Phhoung Puthykol Raksa Seab Solyna Sreykeo Sreyneang Thida Vatey Veata
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+}
+
+chamic = {
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
+		
+	cham = {
+		graphical_cultures = { chinesegfx bodpagfx mongolgfx indiangfx muslimgfx }
+		
+		color = { 0.4 0.2 0.2 }
+		
+		male_names = {
+			Adi Adiputra Agung Agus Ahad Andika Anuar Atan Awang Baba Bachok Bagus Bambang Basuki Bayu Bestari Bintang
+			Biru Bongsu Bujang Budi Budiarto Bulat Che Chik Danang Danial Daud Demak Demang Deraman Deris Desa Dollah
+			Dumadi Elyas Embong Fajar Gombak Hamengku Haron Hijau Hitam Indera Ishak Izzat Jati Jaya Jebat Jiwa Johan
+			Jumaat Jusoh Kechik Kefli Kesuma Khamis Kuning Leman Lokman Luncai Mad Mail Malim Megat Merdeka Muda Mulia Nerang
+			Noh Omar Osman Perang Perwira Putra Puteh Rabu Raja Sabtu Selamat Selasa Senin Shuib Sulong Suria Tanggang
+			Teh Teruna Tuah Uda Ujang Ungu Usop Wira Yaakob Yahaya Yeop Yunos Zakaria Zulkarnain Zulkifli
+		}
+		female_names = {
+			Adiputri Aishah Ayu Bunga Cahaya Cempaka Cik Dara Dayang Delima Dewi Dian Embun Esah Hapsah Harum Haryati Indah
+			Intan Izzati Jenab Juwita Kartika Kartini Kembang Kemboja Kemuning Khatijah Kuntum Latipah Mahsuri Mahura
+			Manjalara Mariah Mariam Mas Masayu Mastini Mayang Mawar Maya Melati Melur Minah Munah Murni Nawar Nilam Nirmala
+			Pertiwi Puspa Puspawati Putri Saadong Sari Sayang Sepiah Seri Suriani Suriawati Surintan Tempawan Teratai Tijah
+			Tipah Wangi Wati Yati Zamrud
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+}

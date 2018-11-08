@@ -1,0 +1,23 @@
+# 1595 - Ngrax
+
+# County Title
+title = c_ngrax
+
+# Settlements
+max_settlements = 3
+b_jaxchjyen = castle
+b_sesren = castle
+#b_ngiamdaux =
+#b_mjengsren =
+#b_prakdriangx =
+#b_losren =
+#b_yengkeng =
+
+
+# Misc
+culture = lolo
+religion = bimojiao
+
+# History
+
+

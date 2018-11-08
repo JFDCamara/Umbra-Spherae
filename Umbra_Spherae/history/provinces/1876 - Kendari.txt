@@ -1,0 +1,21 @@
+# 1245 - Kendari
+
+# County Title
+title = c_kendari
+
+# Settlements
+max_settlements = 3
+b_abuki = tribal
+b_kendari = tribal
+#b_wolo =
+#b_mowewe =
+#b_asera =
+#b_nuha =
+#b_bungku_selatan =
+#b_petasia =
+
+# Misc
+culture = bugi
+religion = sulawesi_religion
+
+# History

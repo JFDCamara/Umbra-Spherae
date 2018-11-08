@@ -1,0 +1,24 @@
+# 1513 - Yung
+
+# County Title
+title = c_yung
+
+# Settlements
+max_settlements = 5
+b_syenhruah = castle
+b_koxmyanh = castle
+b_yungthadbjen = castle
+b_yengxbjen = temple
+#b_myoxjyen =
+#b_tokhang =
+#b_byungxngieh =
+#b_myoxlung =
+
+
+# Misc
+culture = zhuang
+religion = nugyauq
+
+# History
+
+

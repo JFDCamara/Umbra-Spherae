@@ -1,0 +1,21 @@
+# 1238 - Ambon
+
+# County Title
+title = c_ambon
+
+# Settlements
+max_settlements = 5
+b_latuhalat = tribal
+b_ambon = tribal
+#b_hutumuri =
+#b_tulehu =
+#b_morela =
+#b_kaitetu =
+#b_asilulu =
+#b_alang =
+
+# Misc
+culture = malukan
+religion = melanesian_religion
+
+# History

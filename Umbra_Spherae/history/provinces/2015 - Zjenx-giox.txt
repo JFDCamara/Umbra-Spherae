@@ -1,0 +1,20 @@
+# 1759 - Zjenx-giox
+
+# County Title
+title = c_zjenxgiox
+
+# Settlements
+max_settlements = 5
+b_njokhoh = castle
+b_dalizjenglix = city
+b_dalihiangzjeng = city
+b_lagyungh = castle
+#b_kiux =
+#b_sam =
+#b_ngiu =
+
+# Misc
+culture = bai
+religion = benzhujiao
+
+# History

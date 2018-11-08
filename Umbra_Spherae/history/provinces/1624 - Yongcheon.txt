@@ -1,0 +1,18 @@
+# 1906 - Yongcheon
+
+# County Title
+title = c_yongcheon
+
+# Settlements
+max_settlements = 3
+b_yongju = tribal
+b_hoju = tribal
+#b_balju =
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+
+1050.1.1 = { culture = jurchen }

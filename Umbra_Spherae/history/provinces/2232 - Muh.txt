@@ -1,0 +1,24 @@
+# 1584 - Muh
+
+# County Title
+title = c_muh
+
+# Settlements
+max_settlements = 4
+b_minsren = castle
+b_zji = castle
+b_tang = castle
+#b_minchjyen =
+#b_dangh =
+#b_drik =
+#b_kecuungkruan =
+#b_daukruan =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

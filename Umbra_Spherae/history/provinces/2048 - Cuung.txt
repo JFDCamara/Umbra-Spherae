@@ -1,0 +1,17 @@
+# 1792 - Cuung
+
+# County Title
+title = c_cuung
+
+# Settlements
+max_settlements = 4
+b_laipjin = castle
+b_haixpjin = city
+b_chienmjin = city
+#b_haixjang_cuung =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History

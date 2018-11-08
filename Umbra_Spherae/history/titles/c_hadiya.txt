@@ -1,0 +1,65 @@
+#Hadiya Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083289 #Yusuf
+}
+780.1.1={
+	holder=1000083290 #Sa'ad
+}
+810.1.1={
+	holder=1000083291 #Nur
+}
+840.1.1={
+	holder=1000083292 #Barakat
+}
+870.1.1={
+	holder=1000083293 #Abtidoon
+}
+900.1.1={
+	holder=1000083294 #Ahmad
+}
+930.1.1={
+	holder=1000083295 #Othman
+}
+960.1.1={
+	holder=1000083296 #Sherif
+}
+990.1.1={
+	holder=1000083297 #Roble
+}
+1020.1.1={
+	holder=1000083298 #Kaahin
+}
+1050.1.1={
+	holder=1000083299 #Mohamud
+}
+1080.1.1={
+	holder=1000083300 #Barre
+}
+1110.1.1={
+	holder=1000083301 #Dalmr
+}
+1140.1.1={
+	holder=1000083302 #Umar
+}
+1170.1.1={
+	holder=1000083303 #Abtidoon
+}
+1200.1.1={
+	holder=1000083304 #Abdisalaan
+}
+1230.1.1={
+	holder=1000083305 #Mohammed
+}
+1260.1.1={
+	holder=1000083306 #Sihab
+}
+1290.1.1={
+	holder=1000083307 #Abdelahi
+}
+1320.1.1={
+	holder=1000083308 #Dalmr
+}
+1350.1.1={
+	holder=1000083309 #Sihab
+}

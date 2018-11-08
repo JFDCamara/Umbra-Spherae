@@ -1,0 +1,84 @@
+#Balhae
+698.1.1={
+	liege="k_balhae"
+}
+##Karnuk Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076344 #Zhanmeihe
+}
+780.1.1={
+	holder=1000076345 #Telin
+}
+810.1.1={
+	holder=1000076346 #Dašïn
+}
+840.1.1={
+	holder=1000076347 #Nudægæ
+}
+870.1.1={
+	holder=1000076348 #Cïnu
+}
+900.1.1={
+	holder=1000076349 #Gioli
+}
+926.1.1 = {
+	liege="k_dan_gur"
+}
+930.1.1={
+	holder=1000076350 #Dumu
+}
+936.1.1 = {
+	liege="k_jurchens"
+}
+960.1.1={
+	holder=1000076351 #Yangha
+}
+990.1.1={
+	holder=1000076352 #Labuda
+}
+1020.1.1={
+	holder=1000076353 #Cangho
+}
+1050.1.1={
+	holder=1000076354 #Bahai
+}
+1080.1.1={
+	holder=1000076355 #Ali
+}
+1110.1.1={
+	holder=1000076356 #Ajungha
+}
+1115.1.28 = {
+	liege="e_anchuhu"
+}
+1140.1.1={
+	holder=1000076357 #Wodai
+}
+1170.1.1={
+	holder=1000076358 #Bugil
+}
+1200.1.1={
+	holder=1000076359 #Ancu
+}
+1212.1.1 = {
+	liege="e_mongol_empire"
+}
+1227.12.2 = {
+	liege="k_mongolia"
+}
+1230.1.1={
+	holder=1000076360 #Tege
+}
+1260.1.1={
+	holder=1000076361 #Wugucu
+}
+1290.1.1={
+	holder=1000076362 #Iji
+}
+1320.1.1={
+	holder=1000076363 #Alihan
+}
+1350.1.1={
+	holder=1000076364 #Aguo
+}

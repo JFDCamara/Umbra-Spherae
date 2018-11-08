@@ -1,0 +1,21 @@
+# 1241 - Manado
+
+# County Title
+title = c_manado
+
+# Settlements
+max_settlements = 3
+b_bitung = tribal
+b_manado = tribal
+#b_likupang =
+#b_tombatu =
+#b_kotabunan =
+#b_modayag =
+#b_poigar =
+#b_pinolosian =
+
+# Misc
+culture = minahasa
+religion = sulawesi_religion
+
+# History

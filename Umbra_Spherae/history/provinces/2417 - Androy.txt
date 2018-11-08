@@ -1,0 +1,23 @@
+# 2417 - Androy
+
+# County Title
+title = c_androy
+
+# Settlements
+max_settlements = 5
+b_talaky = tribal
+b_andranosoa = tribal
+b_andaro = tribal
+#b_betanty = 
+#b_beloha = 
+#b_lavanono = 
+#b_beaniky = 
+#b_mahatalaky = 
+
+# Misc
+culture = vazimba
+religion = malagasy_religion
+
+# History
+
+1050.1.1 = { culture = malagasy }

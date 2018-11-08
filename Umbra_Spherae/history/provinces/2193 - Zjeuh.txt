@@ -1,0 +1,24 @@
+# 1521 - Zjeuh
+
+# County Title
+title = c_zjeuh
+
+# Settlements
+max_settlements = 5
+b_zjeuhjang = castle
+b_cjahkhe = castle
+b_yonkhe = castle
+#b_sinhruah =
+#b_siekkhe =
+#b_sjimkhe =
+#b_dongkhe =
+#b_braksra =
+
+
+# Misc
+culture = hmong
+religion = ua_dab
+
+# History
+
+

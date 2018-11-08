@@ -1,0 +1,19 @@
+# 1499 - Zsyn
+
+# County Title
+title = c_zsyn
+
+# Settlements
+max_settlements = 3
+b_lyungchjyen = castle
+#b_zsyndriunglak =
+#b_hingneng =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

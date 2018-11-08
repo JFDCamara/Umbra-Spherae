@@ -1,0 +1,20 @@
+# 1607 - Syi
+
+# County Title
+title = c_syi
+
+# Settlements
+max_settlements = 2
+b_chiengkranh = castle
+b_mexcjii = castle
+#b_syitok =
+#b_ansaih =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

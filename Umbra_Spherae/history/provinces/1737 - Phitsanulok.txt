@@ -1,0 +1,21 @@
+# 1106 - Phitsanulok
+
+# County Title
+title = c_phitsanulok
+
+# Settlements
+max_settlements = 4
+b_bang_rakam = castle
+b_phitsanulok = city
+b_wang_thom = temple
+#b_wat_bot =
+#b_phrom_phiram =
+#b_bang_krathum =
+#b_noen_maprang =
+#b_kaeng_sopha =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

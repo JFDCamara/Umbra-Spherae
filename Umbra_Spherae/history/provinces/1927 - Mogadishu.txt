@@ -1,0 +1,21 @@
+# 1927 - Mogadishu
+
+# County Title
+title = c_mogadishu
+
+# Settlements
+max_settlements = 7
+b_mogadishu = castle
+b_warsheikh = city
+b_hamar_weyne = temple
+b_shangani = city
+b_afgooye = city
+#b_xamar = 
+#b_mareeg = 
+#b_adale = 
+
+# Misc
+culture = somali
+religion = sunni
+
+# History

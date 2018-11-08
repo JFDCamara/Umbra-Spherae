@@ -1,0 +1,28 @@
+# 1937 - Manda
+
+# County Title
+title = c_manda
+
+# Settlements
+max_settlements = 6
+b_manda_manda = castle
+b_lamu = city
+b_kililana = temple
+b_mokowe = city
+#b_jipe = 
+#b_hidio = 
+#b_shela = 
+#b_matondoni = 
+
+# Misc
+culture = wangozi
+religion = east_bantu_mythology
+
+# History
+
+1000.1.1 = {
+	religion = sunni
+}
+1170.1.1 = {
+	culture = swahili
+}

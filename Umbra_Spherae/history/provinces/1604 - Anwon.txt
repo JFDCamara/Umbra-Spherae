@@ -1,0 +1,19 @@
+# 1808 - Anwon
+
+# County Title
+title = c_anwon
+
+# Settlements
+max_settlements = 4
+b_yeongju = tribal
+b_miju = tribal
+#b_moju =
+#b_sangju =
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+
+1050.1.1 = { culture = jurchen }

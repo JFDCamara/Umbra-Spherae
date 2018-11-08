@@ -1,0 +1,18 @@
+# 1632 - Krai
+
+# County Title
+title = c_krai
+
+# Settlements
+max_settlements = 1
+b_piukcin = castle
+#b_ciangliih =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

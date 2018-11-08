@@ -1,0 +1,17 @@
+# 1796 - Chjimx
+
+# County Title
+title = c_chjimx
+
+# Settlements
+max_settlements = 2
+b_lakkrau_chjimx = castle
+b_leupjin = castle
+
+# Misc
+culture = mohe
+religion = jurchen_pagan
+
+# History
+
+1050.1.1 = { culture = jurchen }

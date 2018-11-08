@@ -1,0 +1,24 @@
+# 1574 - Ghop
+
+# County Title
+title = c_ghop
+
+# Settlements
+max_settlements = 5
+b_zjekcjeuh = castle
+b_hanhchrio = city
+b_prachjyen = city
+b_dungliang = city
+#b_chjeksjyix =
+#b_ankio =
+#b_laithan =
+#b_yonmuon =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

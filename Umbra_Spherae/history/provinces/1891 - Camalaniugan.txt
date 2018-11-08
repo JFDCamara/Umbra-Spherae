@@ -1,0 +1,21 @@
+# 1260 - Camalaniugan
+
+# County Title
+title = c_camalaniugan
+
+# Settlements
+max_settlements = 3
+b_baggao = tribal
+b_camalaniugan = tribal
+#b_buguey =
+#b_tuguegarao =
+#b_ilagan =
+#b_cauayan =
+#b_palanan =
+#b_amulung =
+
+# Misc
+culture = tagalog
+religion = philippine_religion
+
+# History

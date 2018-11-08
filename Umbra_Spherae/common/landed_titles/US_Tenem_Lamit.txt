@@ -1,0 +1,689 @@
+e_tenem_lamit = {
+
+    	color= { 95 179 21  }
+    	color2= { 255 255 255 }
+
+	capital = 2295 # Paiwan
+
+	k_taiwan = {
+		color={ 34 183 55 }
+		color2={ 255 255 255 }
+		
+		capital = 1731 # Middag (Hoanya)
+		
+		#culture_group = taiwanese
+
+		middag = "Tayouan"
+		kilai = "Tayouan"
+		
+		d_middag = {
+			color={ 25 191 131 }
+			color2={ 255 255 255 }
+			
+			capital = 1731 # Middag (Hoanya)
+
+			culture = middag
+		
+			c_ketagalan = {
+				color={ 81 249 188 }
+				color2={ 255 255 255 }
+				
+				holy_site = taiwanese_religion
+				holy_site = taiwanese_religion_reformed
+				
+				b_kelang = {
+					han = "Keelung"
+				}
+				b_hoba = {
+					han = "Danshui"
+				}
+				b_tayopae = {
+					han = "Taipei"
+				}
+				b_kipatauw = {
+					han = "Peitou"
+				}
+				b_pattsiran = {
+					han = "Shilin"
+				}
+				b_kinpa = {
+					han = "Xinbei"
+				}
+				b_tayouan = {
+					han = "Taoziyuan"
+				}
+				b_tayour = {
+					han = "Neihu"
+				}
+			}
+			c_taokas = {
+				color={ 15 255 148 }
+				color2={ 255 255 255 }
+				
+				b_tek-kham = {
+					han = "Hsinchu"
+				}
+				b_pali_taokas = {
+					han = "Miaoli"
+				}
+				b_tayoun = {
+					han = "Taian"
+				}
+				b_mawubu = {
+					han = "Guanxi"
+				}
+				b_bewubu = {
+					han = "Beipu"
+				}
+				b_naqeji = {
+					han = "Chientzuli"
+				}
+				b_namatauw = {
+					han = "Qingshui"
+				}
+				b_takoham = {
+					han = "Dasi"
+				}
+			}
+			c_hoanya = {
+				color={ 48 216 135 }
+				color2={ 255 255 255 }
+				
+				b_middag = {
+					han = "Dadu"
+				}
+				b_ramtau = {
+					han = "Nantou"
+				}
+				b_tirosen = {
+					han = "Chulôsan"
+				}
+				b_poasoa = {
+					han = "Changhua"
+				}
+				b_daliyi = {
+					han = "Dali"
+				}
+				b_benantanar = {
+					han = "Dadun"
+				}
+				b_tayoloedan = {
+					han = "Fengyuan"
+				}
+				b_dalivo = {
+					han = "Dounan"
+				}
+			}
+			c_siraya = {
+				color={ 83 248 149 }
+				color2={ 255 255 255 }
+				
+				holy_site = taiwanese_religion
+				holy_site = taiwanese_religion_reformed
+				
+				b_tayonuan = {
+					han = "Tainan"
+				}
+				b_moatau = {
+					han = "Madou"
+				}
+				b_bakaloan = {
+					han = "Shanhua"
+				}
+				b_sakam = {
+					han = "Chihkan"
+				}
+				b_tavocan = {
+					han = "Xinhua"
+				}
+				b_sinckan = {
+					han = "Xinshi"
+				}
+				b_soulang = {
+					han = "Jiali"
+				}
+				b_pongsoya = {
+					han = "Fengshan"
+				}
+			}
+		}	
+		
+		d_kilai = {
+			color={ 36 169 155 }
+			color2={ 255 255 255 }
+			
+			capital = 1898 # Kilai (Puyuma)
+
+			culture = kilai
+		
+			c_paiwan = {
+				color={ 41 217 198 }
+				color2={ 255 255 255 }
+				
+				holy_site = taiwanese_religion
+				holy_site = taiwanese_religion_reformed
+				
+				b_jabauli = {
+					han = "Taimali"
+				}
+				b_a-kau = {
+					han = "Pingtung"
+				}
+				b_takau = {
+					han = "Kaohsiung"
+				}
+				b_katauw = {
+					han = "Jiadong"
+				}
+				b_laiyi = {
+					han = "Dawu"
+				}
+				b_goran = {
+					han = "Hengchun"
+				}
+				b_irala = {
+					han = "Hongtouyu"
+				}
+				b_makazayazaya = {
+					han = "Majia"
+				}
+			}
+			c_bunun = {
+				color={ 111 193 184 }
+				color2={ 255 255 255 }
+				
+				holy_site = taiwanese_religion
+				holy_site = taiwanese_religion_reformed
+				
+				b_namasia = {
+					han = "Sanmin"
+				}
+				b_malang_bunun = {
+					han = "Meinong"
+				}
+				b_mororao = {
+					han = "Maolin"
+				}
+				b_taynonoun = {
+					han = "Taoyuan"
+				}
+				b_namdomonu = {
+					han = "Sandimen"
+				}
+				b_chiv-chiv = {
+					han = "Jiji"
+				}
+				b_sabaha_bakalas = {
+					han = "Posia"
+				}
+				b_zintun = {
+					han = "Yuchi"
+				}
+			}
+			c_atayal = {
+				color={ 118 238 225 }
+				color2={ 255 255 255 }
+				
+				b_qiluxulay = {
+					han = "Wulai"
+				}
+				b_lalashan = {
+					han = "Fusing"
+				}
+				b_keitago = {
+					han = "Guilunshe"
+				}
+				b_taroko = {
+					han = "Xiulin"
+				}
+				b_nanauw = {
+					han = "Dongyue"
+				}
+				b_hamalan = {
+					han = "Yilan"
+				}
+				b_sauwowo = {
+					han = "Su-ao"
+				}
+				b_linas = {
+					han = "Ren-ai"
+				}
+			}
+			c_puyuma = {
+				color={ 2 234 209 }
+				color2={ 255 255 255 }
+				
+				holy_site = taiwanese_religion
+				holy_site = taiwanese_religion_reformed
+				
+				b_kilai = {
+					han = "Hualien"
+				}
+				b_turumoan = {
+					han = "Wanrong"
+				}
+				b_chikasoan = {
+					han = "Ji'an"
+				}
+				b_sanasai = {
+					han = "Huoshao Yu"
+				}
+				b_tayotouk = {
+					han = "Taitung"
+				}
+				b_mawucave = {
+					han = "Donghe"
+				}
+				b_venan = {
+					han = "Beinan"
+				}
+				b_dihif_kawas = {
+					han = "Bashian"
+				}
+			}
+		}
+	}
+	k_ma_i = {
+
+   		color= { 247 167 2 }
+    		color2= { 0 0 0  }
+
+		capital = 1888 #Maidh
+
+		d_maidh = {
+
+   			color= { 243 184 5 }
+    			color2= { 0 0 0  }
+
+			capital = 1888 #Maidh
+
+			c_maidh = {
+
+   				color= { 253 184 5 }
+    				color2= { 0 0 0  }
+
+				holy_site = philippine_religion
+				holy_site = philippine_religion_reformed
+					
+				b_maidh = {
+				}
+				b_sablayan = {
+				}
+				b_rizal = {
+				}
+				b_mansalay = {
+				}
+				b_naujan = {
+				}
+				b_calapan = {
+				}
+				b_mamburao = {
+				}
+				b_calintaan = {
+				}
+			}
+			c_palawan = {
+
+   				color= { 243 194 5 }
+    				color2= { 0 0 0  }
+
+				b_busuanga = {
+				}
+				b_narra = {
+				}
+				b_aborlan = {
+				}
+				b_taytay = {
+				}
+				b_dumaran = {
+				}
+				b_linapacan = {
+				}
+				b_culion = {
+				}
+				b_coron_palawan = {
+				}
+			}
+		}
+		d_luzon = {
+
+   			color= { 241 119 7 }
+    			color2= { 0 0 0  }
+
+			capital = 1884 #Tondo
+
+			c_tondo = {
+
+   				color= { 251 119 7 }
+    				color2= { 0 0 0  }
+
+				holy_site = philippine_religion
+				holy_site = philippine_religion_reformed
+					
+				b_tondo = {
+				}
+				b_caloocan = {
+				}
+				b_obando = {
+				}
+				b_pandi = {
+				}
+				b_plaridel = {
+				}
+				b_malolos = {
+				}
+				b_hagonoy = {
+				}
+				b_calumpit = {
+				}
+			}
+			c_maysapan = {
+
+   				color= { 241 129 7 }
+	    			color2= { 0 0 0  }
+
+				b_maysapan = {
+				}
+				b_balayan = {
+				}
+				b_tanay = {
+				}
+				b_lipa = {
+				}
+				b_labo = {
+				}
+				b_naga_maysapan = {
+				}
+				b_legazpi = {
+				}
+				b_sorsogon = {
+				}
+			}
+			c_ylokos = {
+
+	   			color= { 241 119 17 }
+    				color2= { 0 0 0  }
+
+				b_ylokos = {
+				}
+				b_vigan = {
+				}
+				b_bangued = {
+				}
+				b_cabugao = {
+				}
+				b_candon = {
+				}
+				b_badoc = {
+				}
+				b_batac = {
+				}
+				b_laoag = {
+				}
+			}
+			c_camalaniugan = {
+
+	   			color= { 251 109 7 }
+    				color2= { 0 0 0  }
+
+				b_camalaniugan = {
+				}
+				b_baggao = {
+				}
+				b_buguey = {
+				}
+				b_tuguegarao = {
+				}
+				b_ilagan = {
+				}
+				b_cauayan = {
+				}
+				b_palanan = {
+				}
+				b_amulung = {
+				}
+			}
+		}
+		d_visayas = {
+
+	   		color= { 233 140 16 }
+	    		color2= { 0 0 0  }
+
+			capital = 1886 #Aklan
+
+			c_aklan = {
+
+	   			color= { 243 140 16 }
+    				color2= { 0 0 0  }
+
+				holy_site = philippine_religion
+				holy_site = philippine_religion_reformed
+					
+				b_aklan = {
+				}
+				b_madalag = {
+				}
+				b_kalibo = {
+				}
+				b_ibajay = {
+				}
+				b_culasi = {
+				}
+				b_tibiao = {
+				}
+				b_makato = {
+				}
+				b_malinao = {
+				}
+			}
+			c_irong_irong = {
+
+   				color= { 233 150 16 }
+	    			color2= { 0 0 0  }
+
+				b_irong_irong = {
+				}
+				b_oton = {
+				}
+				b_pototan = {
+				}
+				b_passi = {
+				}
+				b_dumarao = {
+				}
+				b_bago = {
+				}
+				b_hinigaran = {
+				}
+				b_binalbagan = {
+				}
+			}
+			c_kankabatok = {
+
+	   			color= { 233 140 26 }
+    				color2= { 0 0 0  }
+
+				b_kankabatok = {
+				}
+				b_tacloban = {
+				}
+				b_marabut = {
+				}
+				b_balangiga = {
+				}
+				b_guiuan = {
+				}
+				b_baybay = {
+				}
+				b_ormoc = {
+				}
+				b_catbalogan = {
+				}
+			}
+		}
+		d_mindanao = {
+
+   			color= { 239 205 10 }
+    			color2= { 0 0 0  }
+
+			capital = 1883 #Butuan
+
+			c_butuan = {
+
+   				color= { 249 205 10 }
+    				color2= { 0 0 0  }
+
+				holy_site = philippine_religion
+				holy_site = philippine_religion_reformed
+					
+				b_butuan = {
+				}
+				b_cabadbaran = {
+				}
+				b_tubay = {
+				}
+				b_jabonga = {
+				}
+				b_kitcharao = {
+				}
+				b_mainit = {
+				}
+				b_tubod = {
+				}
+				b_malimono = {
+				}
+			}
+			c_tagoloan = {
+
+   				color= { 239 215 10 }
+    				color2= { 0 0 0  }
+
+				b_tagoloan = {
+				}
+				b_davao = {
+				}
+				b_malitbog = {
+				}
+				b_jasaan = {
+				}
+				b_sumilao = {
+				}
+				b_lantapan = {
+				}
+				b_maramag = {
+				}
+				b_kitaotao = {
+				}
+			}
+			c_marawi = {
+
+   				color= { 239 205 20 }
+    				color2= { 0 0 0  }
+
+				b_marawi_mindanao = {
+				}
+				b_iligan = {
+				}
+				b_cotabato = {
+				}
+				b_midsayap = {
+				}
+				b_tangub = {
+				}
+				b_dumingag = {
+				}
+				b_pagadian = {
+				}
+				b_midsalip = {
+				}
+			}
+		}
+		d_sulu = {
+
+   			color= { 213 129 36 }
+    			color2= { 0 0 0  }
+
+			capital = 1862 #Jolo
+
+			c_jolo = {
+
+   				color= { 223 129 36 }
+    				color2= { 0 0 0  }
+					
+				holy_site = philippine_religion
+				holy_site = philippine_religion_reformed
+
+				b_jolo = {
+				}
+				b_indanan = {
+				}
+				b_patikul = {
+				}
+				b_seit_jolo = {
+				}
+				b_panglima_estino = {
+				}
+				b_luuk = {
+				}
+				b_omar = {
+				}
+				b_maimbung = {
+				}
+			}
+			c_kinabatangan = {
+
+   				color= { 213 139 36 }
+	    			color2= { 0 0 0  }
+
+				b_kinabatangan = {
+				}
+				b_kota_kinabalu = {
+				}
+				b_tuaran = {
+				}
+				b_kota_belud = {
+				}
+				b_kundasang = {
+				}
+				b_sandakan = {
+				}
+				b_kota_marudu = {
+				}
+				b_limbuak = {
+				}
+			}
+		}
+	}
+}
+
+d_tondo = {
+
+	color= { 251 119 7 }
+	color2= { 0 0 0  }
+
+	capital = 1884 #Tondo
+}
+
+d_namayan = {
+
+	color= { 241 129 7 }
+	color2= { 0 0 0  }
+
+	capital = 1885 #Maysapan
+}
+
+d_madyaas = {
+
+	color= { 243 140 16 }
+	color2= { 0 0 0  }
+
+	capital = 1886 #Aklan
+}
+
+d_butuan = {
+
+	color= { 249 205 10 }
+	color2= { 0 0 0  }
+
+	capital = 1883 #Butuan
+}

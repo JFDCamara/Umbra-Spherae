@@ -1,0 +1,25 @@
+# 1469 - Syen
+
+# County Title
+title = c_syen
+
+# Settlements
+max_settlements = 4
+b_syenzjeng = castle
+b_nengkuok = city
+b_keng = city
+#b_thadbjen =
+#b_ciengtok =
+#b_nomling = 
+#b_sjyixjang =
+#b_doxchien = 
+
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

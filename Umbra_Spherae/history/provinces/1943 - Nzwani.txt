@@ -1,0 +1,28 @@
+# 1943 - Nzwani
+
+# County Title
+title = c_nzwani
+
+# Settlements
+max_settlements = 5
+b_mutsamudu = castle
+b_mirontsi = city
+b_bambao_mtrouni = temple
+#b_domoni = 
+#b_bimbini = 
+#b_sima = 
+#b_ouani = 
+#b_koni_djodjo = 
+
+# Misc
+culture = wangozi
+religion = east_bantu_mythology
+
+# History
+
+1170.1.1 = {
+	culture = swahili
+}
+1200.1.1 = {
+	religion = sunni
+}

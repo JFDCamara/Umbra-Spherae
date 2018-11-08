@@ -1,0 +1,24 @@
+# 1549 - Gyi
+
+# County Title
+title = c_gyi
+
+# Settlements
+max_settlements = 6
+b_byungxcet = castle
+b_dadneng_gyi = city
+b_yonan = city
+b_brakdehmieuh = temple
+b_triangghuanghumieuh = temple
+#b_myosren =
+#b_dadchjang =
+#b_kaujang_gyi =
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

@@ -1,0 +1,21 @@
+# 1242 - Gorontalo
+
+# County Title
+title = c_gorontalo
+
+# Settlements
+max_settlements = 3
+b_limboto = tribal
+b_gorontalo = tribal
+#b_kwandang =
+#b_boliyohut =
+#b_tilamuta =
+#b_paguat =
+#b_momunu =
+#b_popayato =
+
+# Misc
+culture = minahasa
+religion = sulawesi_religion
+
+# History

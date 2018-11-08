@@ -1,0 +1,23 @@
+# 1434 - Jang
+
+# County Title
+title = c_jang
+
+# Settlements
+max_settlements = 5
+b_krungto = castle
+b_thendriang = city
+b_kauiu = city
+b_limdrak = city
+#b_ngieling =
+#b_dadngie =
+#b_zjekliang =
+#b_krua_cju =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

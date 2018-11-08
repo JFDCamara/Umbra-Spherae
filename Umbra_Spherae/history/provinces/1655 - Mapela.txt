@@ -1,0 +1,21 @@
+# 1655 - Mapela
+
+# County Title
+title = c_mapela
+
+# Settlements
+max_settlements = 4
+b_mapela = tribal
+#b_machacuta = 
+#b_hwali = 
+#b_mashaba = 
+#b_masase = 
+#b_gwanda = 
+#b_kezi = 
+#b_filabusi = 
+
+# Misc
+culture = kalanga
+religion = south_bantu_mythology
+
+# History

@@ -1,0 +1,21 @@
+# 1113 - Mergui
+
+# County Title
+title = c_mergui
+
+# Settlements
+max_settlements = 4
+b_kyaukpya = castle
+b_mergui = city
+b_kinso = temple
+#b_palon =
+#b_kywegu =
+#b_lutlut =
+#b_tamok =
+#b_kanbyin_mergui =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

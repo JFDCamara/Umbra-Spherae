@@ -1,0 +1,21 @@
+# 1344 - Dumai
+
+# County Title
+title = c_dumai
+
+# Settlements
+max_settlements = 3
+b_rupat = castle
+b_dumai = city
+#b_sungai_sembilan =
+#b_tanah_putih =
+#b_dumai_timur =
+#b_tanjungmedang =
+#b_mandau =
+#b_bukit_kapur =
+
+# Misc
+culture = malay
+religion = buddhist
+
+# History

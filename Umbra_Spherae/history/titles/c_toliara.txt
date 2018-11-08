@@ -1,0 +1,66 @@
+#Rakotomanga Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076613 #Tombovelo
+	law = true_cognatic_succession
+}
+780.1.1={
+	holder=1000076614 #Mamisoa
+}
+810.1.1={
+	holder=1000076615 #Toavina
+}
+840.1.1={
+	holder=1000076616 #Andriantsimitoviaminandriana
+}
+870.1.1={
+	holder=1000076617 #Narisoa
+}
+900.1.1={
+	holder=1000076618 #Andrianavalona
+}
+930.1.1={
+	holder=1000076619 #Tovohery
+}
+960.1.1={
+	holder=1000076620 #Andrianavalona
+}
+990.1.1={
+	holder=1000076621 #Narisoa
+}
+1020.1.1={
+	holder=1000076622 #Mamisoa
+}
+1050.1.1={
+	holder=1000076623 #Niaina
+}
+1080.1.1={
+	holder=1000076624 #Anja
+}
+1110.1.1={
+	holder=1000076625 #Andriantsimitoviaminandriandehibe
+}
+1140.1.1={
+	holder=1000076626 #Toavina
+}
+1170.1.1={
+	holder=1000076627 #Mampihao
+}
+1200.1.1={
+	holder=1000076628 #Andriantsitakatrandriana
+}
+1230.1.1={
+	holder=1000076629 #Lova
+}
+1260.1.1={
+	holder=1000076630 #Andrianampoinimerina
+}
+1290.1.1={
+	holder=1000076631 #Narisoa
+}
+1320.1.1={
+	holder=1000076632 #Rano
+}
+1350.1.1={
+	holder=1000076633 #Tsimisotry
+}

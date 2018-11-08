@@ -1,0 +1,24 @@
+# 1480 - Phyox
+
+# County Title
+title = c_phyox
+
+# Settlements
+max_settlements = 4
+b_limchjyen = castle
+b_nomzjeng = city
+b_zriungnjin = city
+b_longhu = temple
+#b_ngieghuang =
+#b_kimkhe =
+#b_nomphiung =
+#b_sientokuanh =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

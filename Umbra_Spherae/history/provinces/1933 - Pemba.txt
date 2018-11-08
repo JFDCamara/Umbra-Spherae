@@ -1,0 +1,28 @@
+# 1933 - Pemba
+
+# County Title
+title = c_pemba
+
+# Settlements
+max_settlements = 5
+b_pemba = castle
+b_matumbini = city
+b_mtangani = temple
+#b_kiuyu = 
+#b_kojana = 
+#b_mkanjuni = 
+#b_panza = 
+#b_mkoani = 
+
+# Misc
+culture = wangozi
+religion = east_bantu_mythology
+
+# History
+
+1000.1.1 = {
+	religion = sunni
+}
+1170.1.1 = {
+	culture = swahili
+}

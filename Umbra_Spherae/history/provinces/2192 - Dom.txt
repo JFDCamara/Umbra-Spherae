@@ -1,0 +1,25 @@
+# 1520 - Dom
+
+# County Title
+title = c_dom
+
+# Settlements
+max_settlements = 6
+b_driangsra = castle
+b_zjenxhruah = city
+b_siangdom = city
+b_lexling = city
+b_nomngruk = temple
+b_yuelu = temple
+#b_jekjang =
+#b_siangim =
+#b_liujang =
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

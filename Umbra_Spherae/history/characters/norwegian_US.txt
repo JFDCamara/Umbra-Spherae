@@ -1,0 +1,381 @@
+#Vestribyggð Dynasty (Placeholders for County of Sermsersooq)
+
+1000203489 = {
+	name="Olav"
+	dynasty=1000078070 #Vestribyggð
+	religion="norse_pagan"
+	culture="norse"
+	960.1.1={
+		birth="960.1.1"
+	}
+	1000.1.1={
+		culture="norwegian"
+		religion="catholic"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203490 = {
+	name="Torstein"
+	dynasty=1000078070 #Vestribyggð
+	religion="norse_pagan"
+	culture="norse"
+	father=1000203489
+	990.1.1={
+		birth="990.1.1"
+	}
+	1000.1.1={
+		culture="norwegian"
+		religion="catholic"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203491 = {
+	name="Ragnar"
+	dynasty=1000078070 #Vestribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203490
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203492 = {
+	name="Arne"
+	dynasty=1000078070 #Vestribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203491
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203493 = {
+	name="Odd"
+	dynasty=1000078070 #Vestribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203492
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203494 = {
+	name="Torbrand"
+	dynasty=1000078070 #Vestribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203493
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203495 = {
+	name="Grim"
+	dynasty=1000078070 #Vestribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203494
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203496 = {
+	name="Gudleik"
+	dynasty=1000078070 #Vestribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203495
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203497 = {
+	name="Haldor"
+	dynasty=1000078070 #Vestribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203496
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203498 = {
+	name="Rolf"
+	dynasty=1000078070 #Vestribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203497
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203499 = {
+	name="Eigil"
+	dynasty=1000078070 #Vestribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203498
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203500 = {
+	name="Balder"
+	dynasty=1000078070 #Vestribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203499
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203501 = {
+	name="Ragnar"
+	dynasty=1000078070 #Vestribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203500
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Eystribyggð Dynasty (Placeholders for County of Kujalleq)
+
+1000203502 = {
+	name="Torolf"
+	dynasty=1000078071 #Eystribyggð
+	religion="norse_pagan"
+	culture="norse"
+	960.1.1={
+		birth="960.1.1"
+	}
+	1000.1.1={
+		culture="norwegian"
+		religion="catholic"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203503 = {
+	name="Anund"
+	dynasty=1000078071 #Eystribyggð
+	religion="norse_pagan"
+	culture="norse"
+	father=1000203502
+	990.1.1={
+		birth="990.1.1"
+	}
+	1000.1.1={
+		culture="norwegian"
+		religion="catholic"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203504 = {
+	name="Alv"
+	dynasty=1000078071 #Eystribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203503
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203505 = {
+	name="Arnfinn"
+	dynasty=1000078071 #Eystribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203504
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203506 = {
+	name="Olav"
+	dynasty=1000078071 #Eystribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203505
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203507 = {
+	name="Ogmund"
+	dynasty=1000078071 #Eystribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203506
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203508 = {
+	name="Trond"
+	dynasty=1000078071 #Eystribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203507
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203509 = {
+	name="Torgeir"
+	dynasty=1000078071 #Eystribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203508
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203510 = {
+	name="Tormod"
+	dynasty=1000078071 #Eystribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203509
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203511 = {
+	name="Frej"
+	dynasty=1000078071 #Eystribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203510
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203512 = {
+	name="Lodin"
+	dynasty=1000078071 #Eystribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203511
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203513 = {
+	name="Kolbein"
+	dynasty=1000078071 #Eystribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203512
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203514 = {
+	name="Sverre"
+	dynasty=1000078071 #Eystribyggð
+	culture="norwegian"
+	religion="catholic"
+	father=1000203513
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}

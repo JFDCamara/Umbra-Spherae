@@ -1,0 +1,21 @@
+# 1109 - Lampang
+
+# County Title
+title = c_lampang
+
+# Settlements
+max_settlements = 4
+b_ngao = castle
+b_lampang = city
+b_mae_tha_lampang = temple
+#b_mae_mo =
+#b_ko_kha =
+#b_hang_chat =
+#b_soem_ngam =
+#b_sop_prap =
+
+# Misc
+culture = mon
+religion = buddhist
+
+# History

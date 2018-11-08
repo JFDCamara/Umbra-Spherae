@@ -1,0 +1,69 @@
+#Sarafu Dynasty (Placeholders) of Naraan estate of Baraawe
+
+750.1.1={
+	holding_dynasty = 1000028355
+	liege="d_baraawe"
+}
+750.1.1={
+	holder=1000083593 #Elea
+}
+780.1.1={
+	holder=1000083594 #Adhama
+}
+810.1.1={
+	holder=1000083595 #Musa
+}
+840.1.1={
+	holder=1000083596 #Tian
+}
+870.1.1={
+	holder=1000083597 #Zahur
+}
+900.1.1={
+	holder=1000083598 #Anasa
+}
+930.1.1={
+	holder=1000083599 #Ashon
+}
+960.1.1={
+	holder=1000083600 #Jafari
+}
+990.1.1={
+	holder=1000083601 #Juma
+}
+1020.1.1={
+	holder=1000083602 #Elea
+}
+1050.1.1={
+	holder=1000083603 #Mbita
+}
+1080.1.1={
+	holder=1000083604 #Taji
+}
+1110.1.1={
+	holder=1000083605 #Juma
+}
+1140.1.1={
+	holder=1000083606 #Ashon
+}
+1170.1.1={
+	holder=1000083607 #Hali
+}
+1200.1.1={
+	holder=1000083608 #Jafari
+}
+1230.1.1={
+	holder=1000083609 #Atieno
+}
+1260.1.1={
+	holder=1000083610 #Baraka
+}
+1290.1.1={
+	holder=1000083611 #Elea
+}
+1320.1.1={
+	holder=1000083612 #Kitwana
+}
+1350.1.1={
+	holder=1000083613 #Kifeda
+}

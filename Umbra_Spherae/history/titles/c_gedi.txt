@@ -1,0 +1,71 @@
+#Simi Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076886 #Nyo
+}
+780.1.1={
+	holder=1000076887 #Mbita
+}
+810.1.1={
+	holder=1000076888 #Jamba
+}
+840.1.1={
+	holder=1000076889 #Mkubwa
+}
+870.1.1={
+	holder=1000076890 #Jata
+}
+900.1.1={
+	holder=1000076891 #Baraka
+}
+930.1.1={
+	holder=1000076892 #Kito
+}
+960.1.1={
+	holder=1000076893 #Atieno
+}
+990.1.1={
+	holder=1000076894 #Maulidi
+}
+1020.1.1={
+	holder=1000076895 #Hamadi
+}
+1050.1.1={
+	holder=1000076896 #Taji
+}
+1080.1.1={
+	holder=1000076897 #Kitwana
+}
+1110.1.1={
+	holder=1000076898 #Jamba
+}
+1140.1.1={
+	holder=1000076899 #Kifeda
+}
+1170.1.1={
+	holder=1000076900 #Jata
+}
+1180.1.1={
+	liege="k_swahili"
+}
+1200.1.1={
+	holder=1000076901 #Adhama
+}
+1203.1.1={
+	liege=0
+}
+1230.1.1={
+	holder=1000076902 #Kifeda
+}
+1260.1.1={
+	holder=1000076903 #Mkubwa
+}
+1290.1.1={
+	holder=1000076904 #Tian
+}
+1320.1.1={
+	holder=1000076905 #Mkubwa
+}
+1350.1.1={
+	holder=1000076906 #Hali
+}

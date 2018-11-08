@@ -1,0 +1,24 @@
+# 1604 - Ghruah
+
+# County Title
+title = c_ghruah
+
+# Settlements
+max_settlements = 5
+b_driengh = castle
+b_ghruahim = city
+b_sengrukmieuh = temple
+b_yoihnom = city
+#b_bozjeng =
+#b_ghraxkue =
+#b_dungkruan =
+#b_ziemlyungzsih = temple (buddhist)
+
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

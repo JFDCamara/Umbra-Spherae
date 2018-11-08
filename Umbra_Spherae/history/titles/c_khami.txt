@@ -1,0 +1,68 @@
+#Gumo Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000202358 #Chirisa
+}
+780.1.1={
+	holder=1000202359 #Mosojane
+}
+810.1.1={
+	holder=1000202360 #Mosojane
+}
+840.1.1={
+	holder=1000202361 #Ninhenbwe
+}
+870.1.1={
+	holder=1000202362 #Ntalaolte
+}
+900.1.1={
+	holder=1000202363 #Nikati
+}
+930.1.1={
+	holder=1000202364 #Chingombe
+}
+960.1.1={
+	holder=1000202365 #Dombo
+}
+990.1.1={
+	holder=1000202366 #Chibamubamu
+}
+1020.1.1={
+	holder=1000202367 #Kambgun
+}
+1050.1.1={
+	holder=1000202368 #Mhange
+}
+1080.1.1={
+	holder=1000202369 #Madabhale
+}
+1110.1.1={
+	holder=1000202370 #Chibundule
+}
+1140.1.1={
+	holder=1000202371 #Gumboremvura
+}
+1170.1.1={
+	holder=1000202372 #Mwayile
+}
+1200.1.1={
+	holder=1000202373 #Chikura
+}
+1220.1.1={
+	liege="k_zimbabwe"
+}
+1230.1.1={
+	holder=1000202374 #Masola
+}
+1260.1.1={
+	holder=1000202375 #Rupandamanhanga
+}
+1290.1.1={
+	holder=1000202376 #Mutinhima
+}
+1320.1.1={
+	holder=1000202377 #Mudavanhu
+}
+1350.1.1={
+	holder=1000202378 #Mpengo
+}

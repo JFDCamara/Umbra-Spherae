@@ -1,0 +1,21 @@
+# 1948 - Tete
+
+# County Title
+title = c_tete
+
+# Settlements
+max_settlements = 4
+b_tete = tribal
+#b_moatize = 
+#b_chileka = 
+#b_chikwawa = 
+#b_nchalo = 
+#b_kasisi = 
+#b_tambara = 
+#b_therere = 
+
+# Misc
+culture = karanga
+religion = south_bantu_mythology
+
+# History

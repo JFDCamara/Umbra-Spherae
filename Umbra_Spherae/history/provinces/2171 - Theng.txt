@@ -1,0 +1,21 @@
+# 1487 - Theng
+
+# County Title
+title = c_theng
+
+# Settlements
+max_settlements = 3
+b_driungtheng = castle
+#b_zjanghghang =
+#b_myoxbjen =
+#b_nenghruah_theng =
+#b_chiengliu_theng =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

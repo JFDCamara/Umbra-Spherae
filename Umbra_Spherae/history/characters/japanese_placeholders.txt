@@ -1,0 +1,885 @@
+##Fujita Dynasty (Placeholders)
+
+1000076217 = {
+	name="Moriharu"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076218 = {
+	name="Kagetake"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076217
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076219 = {
+	name="Fujiatsu"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076218
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076220 = {
+	name="Akitada"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076219
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076221 = {
+	name="Yoshiyori"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076220
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076222 = {
+	name="Yorikatsu"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076221
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076223 = {
+	name="Tsugutsura"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076222
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076224 = {
+	name="Tokimori"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076223
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076225 = {
+	name="Tadahiro"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076224
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076226 = {
+	name="Shigetane"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076225
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076227 = {
+	name="Naomasa"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076226
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076228 = {
+	name="Mitsukuni"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076227
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076229 = {
+	name="Katsuyori"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076228
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076230 = {
+	name="Hideyuki"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076229
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076231 = {
+	name="Akiyoshi"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076230
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076232 = {
+	name="Fusasada"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076231
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076233 = {
+	name="Kintara"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076232
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076234 = {
+	name="Munemura"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076233
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076235 = {
+	name="Shigetsuna"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076234
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076236 = {
+	name="Takeaki"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076235
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076237 = {
+	name="Toshikage"
+	dynasty=1000028266 #Fujita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076236
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+##Matsumoto Dynasty (Placeholders)
+
+1000076238 = {
+	name="Ujifusa"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076239 = {
+	name="Terumori"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076238
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076240 = {
+	name="Tanechika"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076239
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076241 = {
+	name="Satoshi"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076240
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076242 = {
+	name="Noritaka"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076241
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076243 = {
+	name="Tadatoshi"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076242
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076244 = {
+	name="Norisuke"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076243
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076245 = {
+	name="Tadatsugu"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076244
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076246 = {
+	name="Takahide"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076245
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076247 = {
+	name="Sadakage"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076246
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076248 = {
+	name="Okikazu"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076247
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076249 = {
+	name="Okimori"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076248
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076250 = {
+	name="Takaoki"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076249
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076251 = {
+	name="Takamishi"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076250
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076252 = {
+	name="Tadatoki"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076251
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076253 = {
+	name="Noritada"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076252
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076254 = {
+	name="Reiji"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076253
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076255 = {
+	name="Noriyori"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076254
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076256 = {
+	name="Sukemasa"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076255
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076257 = {
+	name="Shigekiyo"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076256
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076258 = {
+	name="Sadato"
+	dynasty=1000028267 #Matsumoto
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076257
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+##Yamashita Dynasty (Placeholders)
+
+1000076259 = {
+	name="Akisuke"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076260 = {
+	name="Hirokado"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076259
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076261 = {
+	name="Harutane"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076260
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076262 = {
+	name="Hisayasu"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076261
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076263 = {
+	name="Kazunobu"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076262
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076264 = {
+	name="Koremasa"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076263
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076265 = {
+	name="Chikatoki"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076264
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076266 = {
+	name="Akinaga"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076265
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076267 = {
+	name="Hidenao"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076266
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076268 = {
+	name="Doronosuke"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076267
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076269 = {
+	name="Kagehiro"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076268
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076270 = {
+	name="Katahide"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076269
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076271 = {
+	name="Kuniuji"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076270
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076272 = {
+	name="Akinao"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076271
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076273 = {
+	name="Masaie"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076272
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076274 = {
+	name="Haruzumi"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076273
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076275 = {
+	name="Eisaburo"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076274
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076276 = {
+	name="Fuyuki"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076275
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076277 = {
+	name="Kazuemon"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076276
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076278 = {
+	name="Eishi"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076277
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076279 = {
+	name="Genzo"
+	dynasty=1000028268 #Yamashita
+	religion="nihon_shinto"
+	culture="japanese"
+	father=1000076278
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+

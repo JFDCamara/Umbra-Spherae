@@ -1,0 +1,130 @@
+#Far East
+
+technology = {
+	titles = {
+		d_cricheng
+		d_kraulai
+		d_thenbjen 
+		d_kiengdrieux
+		d_phyojen
+		d_ghruankhiengh
+		d_zinbiungh
+		d_dungkhiengh
+		d_ghatung
+		d_liungtok
+		d_lomzjek
+		d_linpyox
+		d_daddung
+		d_dadmjeng
+		d_kaujang
+		d_cjindengh
+		d_triungsren 
+		d_byamxjang
+		d_daddengh
+		d_ghrembjen
+		d_leujang 
+		d_hingkhieng
+		d_bjenghrax
+		d_syenmyox
+		d_kyoitok
+		d_eghruainom
+		d_wghruainom
+		d_iuhkuok
+		d_triungmyox
+		d_kianhkhang
+		d_wliangxcjet
+		d_eliangcjet
+		d_ekrungnom
+		d_piukkianh
+		d_wmin
+		d_smin
+		d_ekuangxnom
+		d_liengxtung
+		d_drieux-khiengh
+		d_ziengxhaix
+		d_wkuangxnom
+		d_ziengxkrung
+		d_wkrungnom
+		d_skienggho
+		d_nkienggho
+		d_siangjang
+		d_gyicju
+		d_liihcju
+		d_dungchjyen
+		d_zjengto
+	}
+	
+	769 = {
+		military = 0.5
+		economy = 2.0
+		culture = 1.5
+	}
+		
+	1337 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
+
+technology = {
+	titles = {
+		d_sanggyeong
+		d_buyeo
+		d_donggyeong
+		d_jungnyeong
+		d_yemaek
+		d_okjeo
+		d_seohae
+		d_gyoju
+		d_yanggwang
+		d_jeolla
+		d_tamna
+		d_gyeongsang
+		d_kanto
+		d_hokuriku
+		d_tokai
+		d_kinai
+		d_sanyo
+		d_sanin
+		d_shikoku
+		d_kyushu 
+		d_tohoku
+		d_hokkaido
+		d_sakhalin
+		d_ryukyu 
+	}
+	
+	769 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.5
+	}
+		
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}
+
+technology = {
+	titles = {
+		d_hokkaido
+		d_sakhalin
+		d_middag
+		d_kilai
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+		
+	1337 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}

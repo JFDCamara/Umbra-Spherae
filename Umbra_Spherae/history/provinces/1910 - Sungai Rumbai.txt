@@ -1,0 +1,21 @@
+# 1351 - Sungai Rumbai
+
+# County Title
+title = c_sungai_rumbai
+
+# Settlements
+max_settlements = 3
+b_koto_baru = castle
+b_sungai_rumbai = city
+#b_pulau_punjung =
+#b_kamang_baru =
+#b_tanjung_gadang =
+#b_sungai_pagu =
+#b_kupitan =
+#b_lubuk_tarok =
+
+# Misc
+culture = minangkabau
+religion = sumatran_religion
+
+# History

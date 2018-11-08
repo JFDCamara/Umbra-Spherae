@@ -1,0 +1,71 @@
+#Moyo Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000080353 #Chingombe
+}
+780.1.1={
+	holder=1000080354 #Mosojane
+}
+810.1.1={
+	holder=1000080355 #Chikura
+}
+840.1.1={
+	holder=1000080356 #Nichasike
+}
+870.1.1={
+	holder=1000080357 #Gumboremvura
+}
+900.1.1={
+	holder=1000080358 #Chirisa
+}
+930.1.1={
+	holder=1000080359 #Ntalaolte
+}
+960.1.1={
+	holder=1000080360 #Chirisamhuru
+}
+990.1.1={
+	holder=1000080361 #Zwikono
+}
+1020.1.1={
+	holder=1000080362 #Rupengo
+}
+1050.1.1={
+	holder=1000080363 #Chikuyo
+}
+1075.1.1={
+	liege="d_mapungubwe"
+}
+1080.1.1={
+	holder=1000080364 #Rupandamanhanga
+}
+1110.1.1={
+	holder=1000080365 #Rupengo
+}
+1140.1.1={
+	holder=1000080366 #Ninhenbwe
+}
+1170.1.1={
+	holder=1000080367 #Kwelekwele
+}
+1200.1.1={
+	holder=1000080368 #Nigwande
+}
+1220.1.1={
+	liege=0
+}
+1230.1.1={
+	holder=1000080369 #Madabhale
+}
+1260.1.1={
+	holder=1000080370 #Nimale
+}
+1290.1.1={
+	holder=1000080371 #Mutinhima
+}
+1320.1.1={
+	holder=1000080372 #Rupandamanhanga
+}
+1350.1.1={
+	holder=1000080373 #Zwikono
+}

@@ -1,0 +1,23 @@
+# 2418 - Manakara
+
+# County Title
+title = c_manakara
+
+# Settlements
+max_settlements = 5
+b_marosiky = tribal
+b_mananjary = tribal
+b_vohipeno = tribal
+#b_farafangana = 
+#b_vangaindrano = 
+#b_vatomandry = 
+#b_lopary = 
+#b_sahasinaka = 
+
+# Misc
+culture = vazimba
+religion = malagasy_religion
+
+# History
+
+1050.1.1 = { culture = malagasy }

@@ -1,0 +1,22 @@
+# 1598 - Sjang
+
+# County Title
+title = c_sjang
+
+# Settlements
+max_settlements = 3
+b_zjangxlak = castle
+b_sjanglak = city
+b_laknom = city
+#b_myoxkruan =
+#b_zjangcin =
+#b_phiungjang =
+
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

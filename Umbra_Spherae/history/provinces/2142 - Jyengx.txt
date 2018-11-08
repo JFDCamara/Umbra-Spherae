@@ -1,0 +1,23 @@
+# 1450 - Jyengx
+
+# County Title
+title = c_jyengx
+
+# Settlements
+max_settlements = 5
+b_njoxim = castle
+b_myanhzjuh = city
+b_sjimxkhiu = city
+#b_jyengxzjangh =
+#b_cjenghjang =
+#b_kraihsjux =
+#b_cieupie =
+#b_krungpie =
+
+# Misc
+culture = han
+religion = confucian
+
+# History
+
+

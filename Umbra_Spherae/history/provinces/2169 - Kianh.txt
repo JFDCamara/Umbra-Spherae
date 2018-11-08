@@ -1,0 +1,24 @@
+# 1484 - Kianh
+
+# County Title
+title = c_kianh
+
+# Settlements
+max_settlements = 5
+b_kianhan = castle
+b_uneng = city
+b_driunghiuhkuanh = temple
+#b_kianhjang =
+#b_zriungan =
+#b_zsyungkhe =
+#b_kruanleh =
+#b_bozjeng_kianh =
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

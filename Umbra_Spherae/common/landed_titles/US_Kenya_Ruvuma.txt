@@ -1,0 +1,244 @@
+e_kenya_ruvuma = {
+
+	color = { 234 234 210 }
+	color2 = { 250 250 250 }
+
+	capital = 1993 #Ongamo
+
+	k_kenya = {
+
+		color = { 255 255 0 }
+		color2 = { 250 250 250 }
+
+		capital = 1993 #Ongamo
+
+		d_kenya = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1993 #Ongamo
+
+			c_ongamo = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_ongamo = {
+				}
+
+			}
+			c_gumba = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_gumba = {
+				}
+
+			}
+			c_sabaki = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_sabaki = {
+				}
+
+			}
+		}
+		d_kalenjin_tato = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1994 #Kalenjin
+
+			c_kalenjin = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_kalenjin = {
+				}
+
+			}
+			c_tato = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_tato = {
+				}
+
+			}
+		}
+		d_dahalo = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 1990 #Dahalo
+
+			c_dahalo = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_dahalo = {
+				}
+
+			}
+			c_garee = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_garee = {
+				}
+
+			}
+			c_el_molo = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_el_molo = {
+				}
+
+			}
+
+		}
+		d_kilimanjaro = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 2001 #Dadog
+
+			c_dadog = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_dadog = {
+				}
+
+			}
+			c_hatsa = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_hatsa = {
+				}
+
+			}
+			c_asa = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_asa = {
+				}
+
+			}
+			c_asu = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_asu = {
+				}
+
+			}
+		}
+	}
+	k_ruvuma = {
+
+		color = { 255 255 0 }
+		color2 = { 250 250 250 }
+
+		capital = 2063 #Ruvu
+
+		d_ruvuma = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 2063 #Ruvu
+
+			c_ruvu = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_ruvu = {
+				}
+
+			}
+			c_maa = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_maa = {
+				}
+
+			}
+			c_iringa = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_iringa = {
+				}
+
+			}
+			c_mwera = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_mwera = {
+				}
+
+			}
+		}
+		d_kwadza_iramba = {
+
+			color = { 233 194 0 }
+			color2 = { 250 250 250 }
+
+			capital = 2005 #Kwa'dza
+
+			c_kwadza = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_kwadza = {
+				}
+
+			}
+			c_sandawe = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_sandawe = {
+				}
+
+			}
+			c_iramba = {
+
+				color = { 234 204 10 }
+				color2 = { 250 250 250 }
+
+				b_iramba = {
+				}
+
+			}
+		}
+	}
+}

@@ -1,0 +1,163 @@
+1000028287 = {
+    name="Mwezi"
+    culture=wangozi
+}
+1000028288 = {
+    name="Meli"
+    culture=wangozi
+}
+1000028289 = {
+    name="Papa"
+    culture=wangozi
+}
+1000028290 = {
+    name="Pembe"
+    culture=wangozi
+}
+1000028291 = {
+    name="Ngome"
+    culture=wangozi
+}
+1000028292 = {
+    name="Tai"
+    culture=wangozi
+}
+1000028293 = {
+    name="Chui"
+    culture=wangozi
+}
+1000028294 = {
+    name="Mamba"
+    culture=wangozi
+}
+1000028295 = {
+    name="Wimbi"
+    culture=wangozi
+}
+1000028296 = {
+    name="Simi"
+    culture=wangozi
+}
+1000028297 = {
+    name="Mshale"
+    culture=wangozi
+}
+1000028298 = {
+    name="Tembo"
+    culture=wangozi
+}
+1000028317 = {
+    name="Jua"
+    culture=wangozi
+}
+1000028318 = {
+    name="Mchungaji"
+    culture=wangozi
+}
+1000028319 = {
+    name="Fedha"
+    culture=wangozi
+}
+1000028320 = {
+    name="Twiga"
+    culture=wangozi
+}
+1000028321 = {
+    name="Dhahabu"
+    culture=wangozi
+}
+1000028322 = {
+    name="Mnangagwa"
+    culture=karanga
+}
+
+1000028323 = {
+    name="Shirazi"
+    culture=persian
+}
+1000028324 = {
+    name="Mahdali"
+    culture=bedouin_arabic
+}
+
+1000028325 = {
+    name="Hinnario"
+    culture=omotic
+}
+1000028330 = {
+    name="Mato"
+    culture=omotic
+}
+1000028331 = {
+    name="Hadiya"
+    culture=interior_cushitic
+}
+1000028332 = {
+    name="Gamo"
+    culture=omotic
+}
+1000028333 = {
+    name="Oromo"
+    culture=interior_cushitic
+}
+1000028350 = {
+    name="Dawaro"
+    culture=interior_cushitic
+}
+1000028335 = {
+    name="Bali"
+    culture=interior_cushitic
+}
+1000028334 = {
+    name="Ali Madahweyne"
+    culture=somali
+}
+1000028336 = {
+    name="Egal"
+    culture=somali
+}
+1000028337 = {
+    name="Samatar"
+    culture=somali
+}
+1000028338 = {
+    name="Dirie"
+    culture=somali
+}
+1000028340 = {
+    name="Duale"
+    culture=somali
+}
+1000028344 = {
+    name="Abdullahi"
+    culture=somali
+}
+1000028347 = {
+    name="Madoowbe"
+    culture=somali
+}
+1000028348 = {
+    name="Raage"
+    culture=somali
+}
+1000028351 = {
+    name="Garen"
+    culture=somali
+}
+1000028352 = {
+    name="Jibril"
+    culture=somali
+}
+1000028353 = {
+    name="Tako"
+    culture=somali
+}
+1000028354 = {
+    name="Maalin"
+    culture=somali
+}
+1000028355 = {
+    name="Sarafu"
+    culture=wangozi
+}
+

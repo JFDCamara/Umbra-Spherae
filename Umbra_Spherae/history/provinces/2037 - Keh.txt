@@ -1,0 +1,21 @@
+# 1781 - Keh
+
+# County Title
+title = c_keh
+
+# Settlements
+max_settlements = 5
+b_ngiojang = castle
+#b_samgha =
+#b_cynhruah =
+#b_ngyukden =
+#b_hianggha =
+b_sinchang = city
+b_zjenlimzsih = temple
+b_seyonzsih = temple
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

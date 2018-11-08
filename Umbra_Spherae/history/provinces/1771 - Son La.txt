@@ -1,0 +1,21 @@
+# 1140 - Son La
+
+# County Title
+title = c_son_la
+
+# Settlements
+max_settlements = 4
+b_ban_chom = castle
+b_son_la = city
+b_chieng_kheo = temple
+#b_muong_chanh =
+#b_chieng_noi =
+#b_nam_ty =
+#b_ban_cat =
+#b_co_ma =
+
+# Misc
+culture = viet
+religion = thangiao
+
+# History

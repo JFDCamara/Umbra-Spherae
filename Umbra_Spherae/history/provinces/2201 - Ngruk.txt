@@ -1,0 +1,24 @@
+# 1533 - Ngruk
+
+# County Title
+title = c_ngruk
+
+# Settlements
+max_settlements = 5
+b_koxlu = castle
+b_kyotcixzsi = temple #(confucian)
+b_kyonsren_ngruk = temple
+b_zizjexzsih = temple #(buddhist)
+#b_praling =
+#b_limsiang =
+#b_bjenkrung =
+#b_ghruajyung =
+
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+
+

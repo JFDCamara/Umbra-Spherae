@@ -1,0 +1,22 @@
+# 1673 - Paux
+
+# County Title
+title = c_paux
+
+# Settlements
+max_settlements = 3
+b_pauxsaih = castle
+b_hingkuokzsih = temple
+#b_pakjax =
+#b_kaujang =
+#b_ansiuk =
+#b_zsyihzjeng =
+
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+
+

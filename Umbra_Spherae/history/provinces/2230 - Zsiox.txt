@@ -1,0 +1,23 @@
+# 1580 - Zsiox
+
+# County Title
+title = c_zsiox
+
+# Settlements
+max_settlements = 4
+b_pokdaux = castle
+b_sjang = castle
+b_zsioxghruaiyanx = castle
+#b_nomkhe =
+#b_khienghbyo =
+#b_laibyoh =
+#b_ngiepjin =
+
+
+# Misc
+culture = lolo
+religion = bimojiao
+
+# History
+
+

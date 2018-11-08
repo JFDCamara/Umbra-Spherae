@@ -1,0 +1,23 @@
+# 1424 - Zsio
+
+# County Title
+title = c_zsio
+
+# Settlements
+max_settlements = 4
+b_brangzjeng = castle
+b_seu = city
+b_phiung = city
+#b_pad =
+#b_dong =
+#b_liihkuok =
+#b_liuzjeng =
+#b_braktox =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

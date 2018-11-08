@@ -1,0 +1,21 @@
+# 1922 - Gamo
+
+# County Title
+title = c_gamo
+
+# Settlements
+max_settlements = 3
+b_gamo_gamo = tribal
+#b_ganz = 
+#b_kambata = 
+#b_arba_minch = 
+#b_bonk = 
+#b_boreda = 
+#b_melokoza = 
+#b_sawla = 
+
+# Misc
+culture = omotic
+religion = omotic_pagan
+
+# History

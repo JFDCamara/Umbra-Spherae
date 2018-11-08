@@ -1,0 +1,20 @@
+# 1442 - Kuot
+
+# County Title
+title = c_kuot
+
+# Settlements
+max_settlements = 3
+b_brakmrax = castle
+b_zohzjeng = city
+#b_yoizjeng =
+#b_lenggha =
+#b_myoxkhiu =
+
+# Misc
+culture = han
+religion = shenjiao
+
+# History
+
+

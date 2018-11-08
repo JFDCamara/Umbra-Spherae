@@ -1,0 +1,65 @@
+#Nedzata Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000083698 #Dowelani
+}
+780.1.1={
+	holder=1000083699 #Mphedziseni
+}
+810.1.1={
+	holder=1000083700 #Thinawanga
+}
+840.1.1={
+	holder=1000083701 #Khathutshelo
+}
+870.1.1={
+	holder=1000083702 #Khathu
+}
+900.1.1={
+	holder=1000083703 #Thinawanga
+}
+930.1.1={
+	holder=1000083704 #Tshinyalani
+}
+960.1.1={
+	holder=1000083705 #Azwinndini
+}
+990.1.1={
+	holder=1000083706 #Dowelani
+}
+1020.1.1={
+	holder=1000083707 #Mutsutshudzi
+}
+1050.1.1={
+	holder=1000083708 #Khathu
+}
+1080.1.1={
+	holder=1000083709 #Tshifhiwa
+}
+1110.1.1={
+	holder=1000083710 #Arehone
+}
+1140.1.1={
+	holder=1000083711 #Alu
+}
+1170.1.1={
+	holder=1000083712 #Mpfareleli
+}
+1200.1.1={
+	holder=1000083713 #Tshiananeo
+}
+1230.1.1={
+	holder=1000083714 #Dowe
+}
+1260.1.1={
+	holder=1000083715 #Tshiananeo
+}
+1290.1.1={
+	holder=1000083716 #Tshinyalani
+}
+1320.1.1={
+	holder=1000083717 #Rabe
+}
+1350.1.1={
+	holder=1000083718 #Dowelani
+}

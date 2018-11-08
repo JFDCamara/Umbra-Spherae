@@ -1,0 +1,28 @@
+# 1941 - Ngazija
+
+# County Title
+title = c_ngazija
+
+# Settlements
+max_settlements = 5
+b_bambao = castle
+b_moroni = city
+b_itsandra = temple
+#b_iconi = 
+#b_mitsamihuli = 
+#b_washili = 
+#b_bajini = 
+#b_hambuu = 
+
+# Misc
+culture = wangozi
+religion = east_bantu_mythology
+
+# History
+
+1170.1.1 = {
+	culture = swahili
+}
+1200.1.1 = {
+	religion = sunni
+}

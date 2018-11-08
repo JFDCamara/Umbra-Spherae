@@ -1,0 +1,99 @@
+#Goguryeo Kingdom
+3.1.1={
+	liege="k_goguryeo"
+}
+698.1.1={
+	liege="k_balhae"
+}
+##Gingciri Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000076386 #Haæu
+}
+780.1.1={
+	holder=1000076387 #Diku
+}
+810.1.1={
+	holder=1000076388 #Abulang
+}
+840.1.1={
+	holder=1000076389 #Moliye
+}
+870.1.1={
+	holder=1000076390 #Kunuma
+}
+900.1.1={
+	holder=1000076391 #Yawuta
+}
+926.1.1 = {
+	liege="k_dan_gur"
+}
+927.1.1={
+	liege="k_balhae"
+}
+930.1.1={
+	holder=1000076392 #Ahai
+}
+960.1.1={
+	holder=1000076393 #Ilungha
+}
+990.1.1={
+	holder=1000076394 #Dili
+}
+1007.1.1 = {
+	liege="k_jurchens"
+}
+1020.1.1={
+	holder=1000076395 #Beilu
+}
+1029.1.1={
+	liege="k_balhae"
+}
+1030.1.1={
+	liege="k_jurchens"
+}
+1050.1.1={
+	holder=1000076396 #Andahai
+}
+1080.1.1={
+	holder=1000076397 #Wulie
+}
+1110.1.1={
+	holder=1000076398 #Iji
+}
+1113.1.1 = {
+	liege="k_balhae"
+}
+1115.1.28 = {
+	liege="e_anchuhu"
+}
+1140.1.1={
+	holder=1000076399 #Alihemen
+}
+1170.1.1={
+	holder=1000076400 #Guantu
+}
+1200.1.1={
+	holder=1000076401 #Eiyeku
+}
+1212.1.1 = {
+	liege="e_mongol_empire"
+}
+1227.12.2 = {
+	liege="k_mongolia"
+}
+1230.1.1={
+	holder=1000076402 #Yingge
+}
+1260.1.1={
+	holder=1000076403 #Ahaibaifu
+}
+1290.1.1={
+	holder=1000076404 #Ningjiasu
+}
+1320.1.1={
+	holder=1000076405 #Hulijia
+}
+1350.1.1={
+	holder=1000076406 #Agu
+}

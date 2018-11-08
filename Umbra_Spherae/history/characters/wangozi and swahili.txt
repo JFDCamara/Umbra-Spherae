@@ -1,0 +1,5920 @@
+#Mwezi Dynasty (Placeholders) of Pate
+
+1000076697 = {
+	name="Anasa"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076698 = {
+	name="Atieno"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076697
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076699 = {
+	name="Kwanzaa"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076698
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076700 = {
+	name="Juma"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076699
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076701 = {
+	name="Busar"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076700
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076702 = {
+	name="Busar"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076701
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076703 = {
+	name="Ashon"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076702
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076704 = {
+	name="Mkubwa"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076703
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076705 = {
+	name="Duma"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076704
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076706 = {
+	name="Jamba"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076705
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076707 = {
+	name="Kereenyaga"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076706
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076708 = {
+	name="Tian"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076707
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076709 = {
+	name="Adhama"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076708
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076710 = {
+	name="Zahur"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076709
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076711 = {
+	name="Farijika"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076710
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076712 = {
+	name="Hodari"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="swahili"
+	father=1000076711
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076713 = {
+	name="Anasa"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="swahili"
+	father=1000076712
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076714 = {
+	name="Hamadi"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="swahili"
+	father=1000076713
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076715 = {
+	name="Juma"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="swahili"
+	father=1000076714
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076716 = {
+	name="Kereenyaga"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="swahili"
+	father=1000076715
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076717 = {
+	name="Hali"
+	dynasty=1000028287 #Mwezi
+	religion="sunni"
+	culture="swahili"
+	father=1000076716
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Meli Dynasty (Placeholders) of Malindi
+
+1000076718 = {
+	name="Busara"
+	dynasty=1000028288 #Meli
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076719 = {
+	name="Atieno"
+	dynasty=1000028288 #Meli
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076718
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076720 = {
+	name="Salene"
+	dynasty=1000028288 #Meli
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076719
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076721 = {
+	name="Msia"
+	dynasty=1000028288 #Meli
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076720
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076722 = {
+	name="Kiama"
+	dynasty=1000028288 #Meli
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076721
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076723 = {
+	name="Jata"
+	dynasty=1000028288 #Meli
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076722
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076724 = {
+	name="Zawadi"
+	dynasty=1000028288 #Meli
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076723
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076725 = {
+	name="Juma"
+	dynasty=1000028288 #Meli
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076724
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076726 = {
+	name="Hodari"
+	dynasty=1000028288 #Meli
+	religion="sunni"
+	culture="wangozi"
+	father=1000076725
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076727 = {
+	name="Kifeda"
+	dynasty=1000028288 #Meli
+	religion="sunni"
+	culture="wangozi"
+	father=1000076726
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076728 = {
+	name="Moyo"
+	dynasty=1000028288 #Meli
+	religion="sunni"
+	culture="wangozi"
+	father=1000076727
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076729 = {
+	name="Baraka"
+	dynasty=1000028288 #Meli
+	religion="sunni"
+	culture="wangozi"
+	father=1000076728
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076730 = {
+	name="Msia"
+	dynasty=1000028288 #Meli
+	religion="sunni"
+	culture="wangozi"
+	father=1000076729
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076731 = {
+	name="Msia"
+	dynasty=1000028288 #Meli
+	religion="sunni"
+	culture="wangozi"
+	father=1000076730
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076732 = {
+	name="Issa"
+	dynasty=1000028288 #Meli
+	religion="sunni"
+	culture="wangozi"
+	father=1000076731
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076733 = {
+	name="Simba"
+	dynasty=1000028288 #Meli
+	religion="sunni"
+	culture="swahili"
+	father=1000076732
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076734 = {
+	name="Jumaane"
+	dynasty=1000028288 #Meli
+	religion="sunni"
+	culture="swahili"
+	father=1000076733
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076735 = {
+	name="Kereenyaga"
+	dynasty=1000028288 #Meli
+	religion="sunni"
+	culture="swahili"
+	father=1000076734
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076736 = {
+	name="Elea"
+	dynasty=1000028288 #Meli
+	religion="sunni"
+	culture="swahili"
+	father=1000076735
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076737 = {
+	name="Njowga"
+	dynasty=1000028288 #Meli
+	religion="sunni"
+	culture="swahili"
+	father=1000076736
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076738 = {
+	name="Moyo"
+	dynasty=1000028288 #Meli
+	religion="sunni"
+	culture="swahili"
+	father=1000076737
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Papa Dynasty (Placeholders) of Mombasa
+
+1000076739 = {
+	name="Ashon"
+	dynasty=1000028289 #Papa
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076740 = {
+	name="Elea"
+	dynasty=1000028289 #Papa
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076739
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076741 = {
+	name="Kifeda"
+	dynasty=1000028289 #Papa
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076740
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076742 = {
+	name="Hamadi"
+	dynasty=1000028289 #Papa
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076741
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076743 = {
+	name="Atieno"
+	dynasty=1000028289 #Papa
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076742
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076744 = {
+	name="Ikeno"
+	dynasty=1000028289 #Papa
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076743
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076745 = {
+	name="Issa"
+	dynasty=1000028289 #Papa
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076744
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076746 = {
+	name="Ikeno"
+	dynasty=1000028289 #Papa
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076745
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076747 = {
+	name="Kitwana"
+	dynasty=1000028289 #Papa
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076746
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076748 = {
+	name="Zahur"
+	dynasty=1000028289 #Papa
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076747
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076749 = {
+	name="Mosi"
+	dynasty=1000028289 #Papa
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076748
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076750 = {
+	name="Moyo"
+	dynasty=1000028289 #Papa
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076749
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076751 = {
+	name="Taji"
+	dynasty=1000028289 #Papa
+	religion="sunni"
+	culture="wangozi"
+	father=1000076750
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076752 = {
+	name="Mhina"
+	dynasty=1000028289 #Papa
+	religion="sunni"
+	culture="wangozi"
+	father=1000076751
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076753 = {
+	name="Ayo"
+	dynasty=1000028289 #Papa
+	religion="sunni"
+	culture="wangozi"
+	father=1000076752
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076754 = {
+	name="Keambiroiro"
+	dynasty=1000028289 #Papa
+	religion="sunni"
+	culture="swahili"
+	father=1000076753
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076755 = {
+	name="Atieno"
+	dynasty=1000028289 #Papa
+	religion="sunni"
+	culture="swahili"
+	father=1000076754
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076756 = {
+	name="Msia"
+	dynasty=1000028289 #Papa
+	religion="sunni"
+	culture="swahili"
+	father=1000076755
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076757 = {
+	name="Adhama"
+	dynasty=1000028289 #Papa
+	religion="sunni"
+	culture="swahili"
+	father=1000076756
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076758 = {
+	name="Jamba"
+	dynasty=1000028289 #Papa
+	religion="sunni"
+	culture="swahili"
+	father=1000076757
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076759 = {
+	name="Elea"
+	dynasty=1000028289 #Papa
+	religion="sunni"
+	culture="swahili"
+	father=1000076758
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Pembe Dynasty (Placeholders) of Pemba
+
+1000076760 = {
+	name="Kwanzaa"
+	dynasty=1000028290 #Pembe
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076761 = {
+	name="Elea"
+	dynasty=1000028290 #Pembe
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076760
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076762 = {
+	name="Ikeno"
+	dynasty=1000028290 #Pembe
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076761
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076763 = {
+	name="Moyo"
+	dynasty=1000028290 #Pembe
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076762
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076764 = {
+	name="Salene"
+	dynasty=1000028290 #Pembe
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076763
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076765 = {
+	name="Salene"
+	dynasty=1000028290 #Pembe
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076764
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076766 = {
+	name="Simba"
+	dynasty=1000028290 #Pembe
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076765
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076767 = {
+	name="Msia"
+	dynasty=1000028290 #Pembe
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076766
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076768 = {
+	name="Mbita"
+	dynasty=1000028290 #Pembe
+	religion="sunni"
+	culture="wangozi"
+	father=1000076767
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076769 = {
+	name="Atieno"
+	dynasty=1000028290 #Pembe
+	religion="sunni"
+	culture="wangozi"
+	father=1000076768
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076770 = {
+	name="Ashon"
+	dynasty=1000028290 #Pembe
+	religion="sunni"
+	culture="wangozi"
+	father=1000076769
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076771 = {
+	name="Zahur"
+	dynasty=1000028290 #Pembe
+	religion="sunni"
+	culture="wangozi"
+	father=1000076770
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076772 = {
+	name="Msia"
+	dynasty=1000028290 #Pembe
+	religion="sunni"
+	culture="wangozi"
+	father=1000076771
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076773 = {
+	name="Mbita"
+	dynasty=1000028290 #Pembe
+	religion="sunni"
+	culture="wangozi"
+	father=1000076772
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076774 = {
+	name="Hamadi"
+	dynasty=1000028290 #Pembe
+	religion="sunni"
+	culture="wangozi"
+	father=1000076773
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076775 = {
+	name="Juma"
+	dynasty=1000028290 #Pembe
+	religion="sunni"
+	culture="swahili"
+	father=1000076774
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076776 = {
+	name="Zawadi"
+	dynasty=1000028290 #Pembe
+	religion="sunni"
+	culture="swahili"
+	father=1000076775
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076777 = {
+	name="Zahur"
+	dynasty=1000028290 #Pembe
+	religion="sunni"
+	culture="swahili"
+	father=1000076776
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076778 = {
+	name="Salene"
+	dynasty=1000028290 #Pembe
+	religion="sunni"
+	culture="swahili"
+	father=1000076777
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076779 = {
+	name="Duma"
+	dynasty=1000028290 #Pembe
+	religion="sunni"
+	culture="swahili"
+	father=1000076778
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076780 = {
+	name="Kereenyaga"
+	dynasty=1000028290 #Pembe
+	religion="sunni"
+	culture="swahili"
+	father=1000076779
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Ngome Dynasty (Placeholders) of Unguja
+
+1000076781 = {
+	name="Moyo"
+	dynasty=1000028291 #Ngome
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076782 = {
+	name="Farijika"
+	dynasty=1000028291 #Ngome
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076781
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076783 = {
+	name="Jata"
+	dynasty=1000028291 #Ngome
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076782
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076784 = {
+	name="Ayo"
+	dynasty=1000028291 #Ngome
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076783
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076785 = {
+	name="Hodari"
+	dynasty=1000028291 #Ngome
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076784
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076786 = {
+	name="Moyo"
+	dynasty=1000028291 #Ngome
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076785
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076787 = {
+	name="Maulidi"
+	dynasty=1000028291 #Ngome
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076786
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076788 = {
+	name="Simba"
+	dynasty=1000028291 #Ngome
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076787
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076789 = {
+	name="Farijika"
+	dynasty=1000028291 #Ngome
+	religion="sunni"
+	culture="wangozi"
+	father=1000076788
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076790 = {
+	name="Tian"
+	dynasty=1000028291 #Ngome
+	religion="sunni"
+	culture="wangozi"
+	father=1000076789
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076791 = {
+	name="Tian"
+	dynasty=1000028291 #Ngome
+	religion="sunni"
+	culture="wangozi"
+	father=1000076790
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076792 = {
+	name="Kitwana"
+	dynasty=1000028291 #Ngome
+	religion="sunni"
+	culture="wangozi"
+	father=1000076791
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076793 = {
+	name="Keambiroiro"
+	dynasty=1000028291 #Ngome
+	religion="sunni"
+	culture="wangozi"
+	father=1000076792
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076794 = {
+	name="Mhina"
+	dynasty=1000028291 #Ngome
+	religion="sunni"
+	culture="wangozi"
+	father=1000076793
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076795 = {
+	name="Kitwana"
+	dynasty=1000028291 #Ngome
+	religion="sunni"
+	culture="wangozi"
+	father=1000076794
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076796 = {
+	name="Kifeda"
+	dynasty=1000028291 #Ngome
+	religion="sunni"
+	culture="swahili"
+	father=1000076795
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076797 = {
+	name="Maulidi"
+	dynasty=1000028291 #Ngome
+	religion="sunni"
+	culture="swahili"
+	father=1000076796
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076798 = {
+	name="Ayo"
+	dynasty=1000028291 #Ngome
+	religion="sunni"
+	culture="swahili"
+	father=1000076797
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076799 = {
+	name="Hamadi"
+	dynasty=1000028291 #Ngome
+	religion="sunni"
+	culture="swahili"
+	father=1000076798
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076800 = {
+	name="Atieno"
+	dynasty=1000028291 #Ngome
+	religion="sunni"
+	culture="swahili"
+	father=1000076799
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076801 = {
+	name="Kereenyaga"
+	dynasty=1000028291 #Ngome
+	religion="sunni"
+	culture="swahili"
+	father=1000076800
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Tai Dynasty (Placeholders) of Pangani
+
+1000076802 = {
+	name="Kiama"
+	dynasty=1000028292 #Tai
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076803 = {
+	name="Atieno"
+	dynasty=1000028292 #Tai
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076802
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076804 = {
+	name="Msia"
+	dynasty=1000028292 #Tai
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076803
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076805 = {
+	name="Salene"
+	dynasty=1000028292 #Tai
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076804
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076806 = {
+	name="Mhina"
+	dynasty=1000028292 #Tai
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076805
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076807 = {
+	name="Kuende"
+	dynasty=1000028292 #Tai
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076806
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076808 = {
+	name="Kwanzaa"
+	dynasty=1000028292 #Tai
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076807
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076809 = {
+	name="Elea"
+	dynasty=1000028292 #Tai
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076808
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076810 = {
+	name="Jamba"
+	dynasty=1000028292 #Tai
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076809
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076811 = {
+	name="Farijika"
+	dynasty=1000028292 #Tai
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076810
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076812 = {
+	name="Maulidi"
+	dynasty=1000028292 #Tai
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076811
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076813 = {
+	name="Busara"
+	dynasty=1000028292 #Tai
+	religion="sunni"
+	culture="wangozi"
+	father=1000076812
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076814 = {
+	name="Ashon"
+	dynasty=1000028292 #Tai
+	religion="sunni"
+	culture="wangozi"
+	father=1000076813
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076815 = {
+	name="Simba"
+	dynasty=1000028292 #Tai
+	religion="sunni"
+	culture="wangozi"
+	father=1000076814
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076816 = {
+	name="Njowga"
+	dynasty=1000028292 #Tai
+	religion="sunni"
+	culture="wangozi"
+	father=1000076815
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076817 = {
+	name="Jafari"
+	dynasty=1000028292 #Tai
+	religion="sunni"
+	culture="swahili"
+	father=1000076816
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076818 = {
+	name="Msia"
+	dynasty=1000028292 #Tai
+	religion="sunni"
+	culture="swahili"
+	father=1000076817
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076819 = {
+	name="Mkubwa"
+	dynasty=1000028292 #Tai
+	religion="sunni"
+	culture="swahili"
+	father=1000076818
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076820 = {
+	name="Hali"
+	dynasty=1000028292 #Tai
+	religion="sunni"
+	culture="swahili"
+	father=1000076819
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076821 = {
+	name="Hamadi"
+	dynasty=1000028292 #Tai
+	religion="sunni"
+	culture="swahili"
+	father=1000076820
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076822 = {
+	name="Jafari"
+	dynasty=1000028292 #Tai
+	religion="sunni"
+	culture="swahili"
+	father=1000076821
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Chui Dynasty (Placeholders) of Mafia
+
+1000076823 = {
+	name="Simba"
+	dynasty=1000028293 #Chui
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076824 = {
+	name="Anasa"
+	dynasty=1000028293 #Chui
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076823
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076825 = {
+	name="Kwanzaa"
+	dynasty=1000028293 #Chui
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076824
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076826 = {
+	name="Kwanzaa"
+	dynasty=1000028293 #Chui
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076825
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076827 = {
+	name="Kwanzaa"
+	dynasty=1000028293 #Chui
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076826
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076828 = {
+	name="Kitwana"
+	dynasty=1000028293 #Chui
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076827
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076829 = {
+	name="Msia"
+	dynasty=1000028293 #Chui
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076828
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076830 = {
+	name="Duma"
+	dynasty=1000028293 #Chui
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076829
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076831 = {
+	name="Simba"
+	dynasty=1000028293 #Chui
+	religion="sunni"
+	culture="wangozi"
+	father=1000076830
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076832 = {
+	name="Jafari"
+	dynasty=1000028293 #Chui
+	religion="sunni"
+	culture="wangozi"
+	father=1000076831
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076833 = {
+	name="Jata"
+	dynasty=1000028293 #Chui
+	religion="sunni"
+	culture="wangozi"
+	father=1000076832
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076834 = {
+	name="Hodari"
+	dynasty=1000028293 #Chui
+	religion="sunni"
+	culture="wangozi"
+	father=1000076833
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076835 = {
+	name="Jafari"
+	dynasty=1000028293 #Chui
+	religion="sunni"
+	culture="wangozi"
+	father=1000076834
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076836 = {
+	name="Busar"
+	dynasty=1000028293 #Chui
+	religion="sunni"
+	culture="wangozi"
+	father=1000076835
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076837 = {
+	name="Busara"
+	dynasty=1000028293 #Chui
+	religion="sunni"
+	culture="wangozi"
+	father=1000076836
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076838 = {
+	name="Msia"
+	dynasty=1000028293 #Chui
+	religion="sunni"
+	culture="swahili"
+	father=1000076837
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076839 = {
+	name="Ashon"
+	dynasty=1000028293 #Chui
+	religion="sunni"
+	culture="swahili"
+	father=1000076838
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076840 = {
+	name="Kito"
+	dynasty=1000028293 #Chui
+	religion="sunni"
+	culture="swahili"
+	father=1000076839
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076841 = {
+	name="Jumaane"
+	dynasty=1000028293 #Chui
+	religion="sunni"
+	culture="swahili"
+	father=1000076840
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076842 = {
+	name="Salene"
+	dynasty=1000028293 #Chui
+	religion="sunni"
+	culture="swahili"
+	father=1000076841
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076843 = {
+	name="Kereenyaga"
+	dynasty=1000028293 #Chui
+	religion="sunni"
+	culture="swahili"
+	father=1000076842
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Mamba Dynasty (Placeholders) of Manda
+
+1000076844 = {
+	name="Duma"
+	dynasty=1000028294 #Mamba
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076845 = {
+	name="Mosi"
+	dynasty=1000028294 #Mamba
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076844
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076846 = {
+	name="Kereenyaga"
+	dynasty=1000028294 #Mamba
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076845
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076847 = {
+	name="Ayo"
+	dynasty=1000028294 #Mamba
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076846
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076848 = {
+	name="Keambiroiro"
+	dynasty=1000028294 #Mamba
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076847
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076849 = {
+	name="Musa"
+	dynasty=1000028294 #Mamba
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076848
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076850 = {
+	name="Mhina"
+	dynasty=1000028294 #Mamba
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076849
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076851 = {
+	name="Duma"
+	dynasty=1000028294 #Mamba
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076850
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076852 = {
+	name="Tian"
+	dynasty=1000028294 #Mamba
+	religion="sunni"
+	culture="wangozi"
+	father=1000076851
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076853 = {
+	name="Zawadi"
+	dynasty=1000028294 #Mamba
+	religion="sunni"
+	culture="wangozi"
+	father=1000076852
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076854 = {
+	name="Simba"
+	dynasty=1000028294 #Mamba
+	religion="sunni"
+	culture="wangozi"
+	father=1000076853
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076855 = {
+	name="Salene"
+	dynasty=1000028294 #Mamba
+	religion="sunni"
+	culture="wangozi"
+	father=1000076854
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076856 = {
+	name="Njowga"
+	dynasty=1000028294 #Mamba
+	religion="sunni"
+	culture="wangozi"
+	father=1000076855
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076857 = {
+	name="Jafari"
+	dynasty=1000028294 #Mamba
+	religion="sunni"
+	culture="wangozi"
+	father=1000076856
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076858 = {
+	name="Kuende"
+	dynasty=1000028294 #Mamba
+	religion="sunni"
+	culture="wangozi"
+	father=1000076857
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076859 = {
+	name="Baraka"
+	dynasty=1000028294 #Mamba
+	religion="sunni"
+	culture="swahili"
+	father=1000076858
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076860 = {
+	name="Juma"
+	dynasty=1000028294 #Mamba
+	religion="sunni"
+	culture="swahili"
+	father=1000076859
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076861 = {
+	name="Jata"
+	dynasty=1000028294 #Mamba
+	religion="sunni"
+	culture="swahili"
+	father=1000076860
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076862 = {
+	name="Anasa"
+	dynasty=1000028294 #Mamba
+	religion="sunni"
+	culture="swahili"
+	father=1000076861
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076863 = {
+	name="Baraka"
+	dynasty=1000028294 #Mamba
+	religion="sunni"
+	culture="swahili"
+	father=1000076862
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076864 = {
+	name="Mbita"
+	dynasty=1000028294 #Mamba
+	religion="sunni"
+	culture="swahili"
+	father=1000076863
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Wimbi Dynasty (Placeholders) of Kilwa
+
+1000076865 = {
+	name="Kifeda"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076866 = {
+	name="Kwanzaa"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076865
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076867 = {
+	name="Nyo"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076866
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076868 = {
+	name="Ayo"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076867
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076869 = {
+	name="Zahur"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076868
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076870 = {
+	name="Kereenyaga"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076869
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076871 = {
+	name="Mkubwa"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076870
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076872 = {
+	name="Mhina"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076871
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076873 = {
+	name="Moyo"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076872
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076874 = {
+	name="Ikeno"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076873
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076875 = {
+	name="Mbita"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076874
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076876 = {
+	name="Hodari"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076875
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076877 = {
+	name="Ayo"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076876
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076878 = {
+	name="Ikeno"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076877
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076879 = {
+	name="Kereenyaga"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076878
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076880 = {
+	name="Mhina"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="swahili"
+	father=1000076879
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076881 = {
+	name="Hodari"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="swahili"
+	father=1000076880
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076882 = {
+	name="Elea"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="swahili"
+	father=1000076881
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076883 = {
+	name="Njowga"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="swahili"
+	father=1000076882
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076884 = {
+	name="Mkubwa"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="swahili"
+	father=1000076883
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076885 = {
+	name="Jamba"
+	dynasty=1000028295 #Wimbi
+	religion="east_bantu_mythology"
+	culture="swahili"
+	father=1000076884
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Simi Dynasty (Placeholders) of Gedi
+
+1000076886 = {
+	name="Nyo"
+	dynasty=1000028296 #Simi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076887 = {
+	name="Mbita"
+	dynasty=1000028296 #Simi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076886
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076888 = {
+	name="Jamba"
+	dynasty=1000028296 #Simi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076887
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076889 = {
+	name="Mkubwa"
+	dynasty=1000028296 #Simi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076888
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076890 = {
+	name="Jata"
+	dynasty=1000028296 #Simi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076889
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076891 = {
+	name="Baraka"
+	dynasty=1000028296 #Simi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076890
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076892 = {
+	name="Kito"
+	dynasty=1000028296 #Simi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076891
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076893 = {
+	name="Atieno"
+	dynasty=1000028296 #Simi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076892
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076894 = {
+	name="Maulidi"
+	dynasty=1000028296 #Simi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076893
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076895 = {
+	name="Hamadi"
+	dynasty=1000028296 #Simi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076894
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076896 = {
+	name="Taji"
+	dynasty=1000028296 #Simi
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076895
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076897 = {
+	name="Kitwana"
+	dynasty=1000028296 #Simi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076896
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076898 = {
+	name="Jamba"
+	dynasty=1000028296 #Simi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076897
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076899 = {
+	name="Kifeda"
+	dynasty=1000028296 #Simi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076898
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076900 = {
+	name="Jata"
+	dynasty=1000028296 #Simi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076899
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076901 = {
+	name="Adhama"
+	dynasty=1000028296 #Simi
+	religion="sunni"
+	culture="swahili"
+	father=1000076900
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076902 = {
+	name="Kifeda"
+	dynasty=1000028296 #Simi
+	religion="sunni"
+	culture="swahili"
+	father=1000076901
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076903 = {
+	name="Mkubwa"
+	dynasty=1000028296 #Simi
+	religion="sunni"
+	culture="swahili"
+	father=1000076902
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076904 = {
+	name="Tian"
+	dynasty=1000028296 #Simi
+	religion="sunni"
+	culture="swahili"
+	father=1000076903
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076905 = {
+	name="Mkubwa"
+	dynasty=1000028296 #Simi
+	religion="sunni"
+	culture="swahili"
+	father=1000076904
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076906 = {
+	name="Hali"
+	dynasty=1000028296 #Simi
+	religion="sunni"
+	culture="swahili"
+	father=1000076905
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Mshale Dynasty (Placeholders) of Mozambique
+
+1000076907 = {
+	name="Kitwana"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076908 = {
+	name="Kiama"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076907
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076909 = {
+	name="Msia"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076908
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076910 = {
+	name="Keambiroiro"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076909
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076911 = {
+	name="Anasa"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076910
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076912 = {
+	name="Jata"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076911
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076913 = {
+	name="Jafari"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076912
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076914 = {
+	name="Zahur"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076913
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076915 = {
+	name="Hali"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076914
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076916 = {
+	name="Hodari"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076915
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076917 = {
+	name="Farijika"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076916
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076918 = {
+	name="Kuende"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076917
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076919 = {
+	name="Nyo"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076918
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076920 = {
+	name="Tian"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076919
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076921 = {
+	name="Adhama"
+	dynasty=1000028297 #Mshale
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076920
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076922 = {
+	name="Issa"
+	dynasty=1000028297 #Mshale
+	religion="sunni"
+	culture="swahili"
+	father=1000076921
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076923 = {
+	name="Simba"
+	dynasty=1000028297 #Mshale
+	religion="sunni"
+	culture="swahili"
+	father=1000076922
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076924 = {
+	name="Hamadi"
+	dynasty=1000028297 #Mshale
+	religion="sunni"
+	culture="swahili"
+	father=1000076923
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076925 = {
+	name="Kifeda"
+	dynasty=1000028297 #Mshale
+	religion="sunni"
+	culture="swahili"
+	father=1000076924
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076926 = {
+	name="Jumaane"
+	dynasty=1000028297 #Mshale
+	religion="sunni"
+	culture="swahili"
+	father=1000076925
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076927 = {
+	name="Kuende"
+	dynasty=1000028297 #Mshale
+	religion="sunni"
+	culture="swahili"
+	father=1000076926
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Tembo Dynasty (Placeholders) of Ngazija
+
+1000076928 = {
+	name="Musa"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076929 = {
+	name="Maulidi"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076928
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076930 = {
+	name="Anasa"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076929
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076931 = {
+	name="Moyo"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076930
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076932 = {
+	name="Busara"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076931
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076933 = {
+	name="Hamadi"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076932
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076934 = {
+	name="Atieno"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076933
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076935 = {
+	name="Taji"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076934
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076936 = {
+	name="Mhina"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076935
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076937 = {
+	name="Atieno"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076936
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076938 = {
+	name="Kuende"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076937
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076939 = {
+	name="Jamba"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076938
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076940 = {
+	name="Keambiroiro"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076939
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076941 = {
+	name="Zawadi"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076940
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076942 = {
+	name="Busar"
+	dynasty=1000028298 #Tembo
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076941
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076943 = {
+	name="Simba"
+	dynasty=1000028298 #Tembo
+	religion="sunni"
+	culture="swahili"
+	father=1000076942
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076944 = {
+	name="Moyo"
+	dynasty=1000028298 #Tembo
+	religion="sunni"
+	culture="swahili"
+	father=1000076943
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076945 = {
+	name="Keambiroiro"
+	dynasty=1000028298 #Tembo
+	religion="sunni"
+	culture="swahili"
+	father=1000076944
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076946 = {
+	name="Kuende"
+	dynasty=1000028298 #Tembo
+	religion="sunni"
+	culture="swahili"
+	father=1000076945
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076947 = {
+	name="Mbita"
+	dynasty=1000028298 #Tembo
+	religion="sunni"
+	culture="swahili"
+	father=1000076946
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076948 = {
+	name="Duma"
+	dynasty=1000028298 #Tembo
+	religion="sunni"
+	culture="swahili"
+	father=1000076947
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Jua Dynasty (Placeholders) of Mwali
+
+1000076949 = {
+	name="Busara"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076950 = {
+	name="Kifeda"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076949
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076951 = {
+	name="Kito"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076950
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076952 = {
+	name="Zahur"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076951
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076953 = {
+	name="Njowga"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076952
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076954 = {
+	name="Zahur"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076953
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076955 = {
+	name="Atieno"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076954
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076956 = {
+	name="Hali"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076955
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076957 = {
+	name="Kiama"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076956
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076958 = {
+	name="Jata"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076957
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076959 = {
+	name="Kito"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076958
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076960 = {
+	name="Musa"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076959
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076961 = {
+	name="Mosi"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076960
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076962 = {
+	name="Taji"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076961
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076963 = {
+	name="Anasa"
+	dynasty=1000028317 #Jua
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076962
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076964 = {
+	name="Hodari"
+	dynasty=1000028317 #Jua
+	religion="sunni"
+	culture="swahili"
+	father=1000076963
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076965 = {
+	name="Musa"
+	dynasty=1000028317 #Jua
+	religion="sunni"
+	culture="swahili"
+	father=1000076964
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076966 = {
+	name="Hali"
+	dynasty=1000028317 #Jua
+	religion="sunni"
+	culture="swahili"
+	father=1000076965
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076967 = {
+	name="Jata"
+	dynasty=1000028317 #Jua
+	religion="sunni"
+	culture="swahili"
+	father=1000076966
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076968 = {
+	name="Hamadi"
+	dynasty=1000028317 #Jua
+	religion="sunni"
+	culture="swahili"
+	father=1000076967
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076969 = {
+	name="Taji"
+	dynasty=1000028317 #Jua
+	religion="sunni"
+	culture="swahili"
+	father=1000076968
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Mchungaji Dynasty (Placeholders) of Nzwani
+
+1000076970 = {
+	name="Kiama"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000076971 = {
+	name="Tian"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076970
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000076972 = {
+	name="Hali"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076971
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000076973 = {
+	name="Zawadi"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076972
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000076974 = {
+	name="Mkubwa"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076973
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000076975 = {
+	name="Jumaane"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076974
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000076976 = {
+	name="Busara"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076975
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076977 = {
+	name="Jamba"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076976
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000076978 = {
+	name="Kereenyaga"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076977
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076979 = {
+	name="Kitwana"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076978
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076980 = {
+	name="Kito"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076979
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076981 = {
+	name="Jamba"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076980
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000076982 = {
+	name="Duma"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076981
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076983 = {
+	name="Maulidi"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076982
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076984 = {
+	name="Jumaane"
+	dynasty=1000028318 #Mchungaji
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000076983
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076985 = {
+	name="Ayo"
+	dynasty=1000028318 #Mchungaji
+	religion="sunni"
+	culture="swahili"
+	father=1000076984
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076986 = {
+	name="Msia"
+	dynasty=1000028318 #Mchungaji
+	religion="sunni"
+	culture="swahili"
+	father=1000076985
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076987 = {
+	name="Kito"
+	dynasty=1000028318 #Mchungaji
+	religion="sunni"
+	culture="swahili"
+	father=1000076986
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000076988 = {
+	name="Mbita"
+	dynasty=1000028318 #Mchungaji
+	religion="sunni"
+	culture="swahili"
+	father=1000076987
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000076989 = {
+	name="Hodari"
+	dynasty=1000028318 #Mchungaji
+	religion="sunni"
+	culture="swahili"
+	father=1000076988
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076990 = {
+	name="Moyo"
+	dynasty=1000028318 #Mchungaji
+	religion="sunni"
+	culture="swahili"
+	father=1000076989
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Fedha Dynasty (Placeholders) of Maore
+
+1000083046 = {
+	name="Farijika"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083047 = {
+	name="Kito"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083046
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083048 = {
+	name="Maulidi"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083047
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083049 = {
+	name="Hodari"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083048
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083050 = {
+	name="Jumaane"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083049
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083051 = {
+	name="Busar"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083050
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083052 = {
+	name="Jumaane"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083051
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083053 = {
+	name="Zahur"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083052
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083054 = {
+	name="Hodari"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083053
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083055 = {
+	name="Hodari"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083054
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083056 = {
+	name="Moyo"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083055
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083057 = {
+	name="Keambiroiro"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083056
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083058 = {
+	name="Hamadi"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083057
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083059 = {
+	name="Kereenyaga"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083058
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083060 = {
+	name="Juma"
+	dynasty=1000028319 #Fedha
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083059
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083061 = {
+	name="Duma"
+	dynasty=1000028319 #Fedha
+	religion="sunni"
+	culture="swahili"
+	father=1000083060
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083062 = {
+	name="Kereenyaga"
+	dynasty=1000028319 #Fedha
+	religion="sunni"
+	culture="swahili"
+	father=1000083061
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083063 = {
+	name="Keambiroiro"
+	dynasty=1000028319 #Fedha
+	religion="sunni"
+	culture="swahili"
+	father=1000083062
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083064 = {
+	name="Njowga"
+	dynasty=1000028319 #Fedha
+	religion="sunni"
+	culture="swahili"
+	father=1000083063
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083065 = {
+	name="Ayo"
+	dynasty=1000028319 #Fedha
+	religion="sunni"
+	culture="swahili"
+	father=1000083064
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083066 = {
+	name="Jumaane"
+	dynasty=1000028319 #Fedha
+	religion="sunni"
+	culture="swahili"
+	father=1000083065
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Twiga Dynasty (Placeholders) of Angoche
+
+1000083158 = {
+	name="Nyo"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083159 = {
+	name="Salene"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083158
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083160 = {
+	name="Hali"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083159
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083161 = {
+	name="Moyo"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083160
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083162 = {
+	name="Juma"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083161
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083163 = {
+	name="Hamadi"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083162
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083164 = {
+	name="Hamadi"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083163
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083165 = {
+	name="Kifeda"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083164
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083166 = {
+	name="Tian"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083165
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083167 = {
+	name="Nyo"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083166
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083168 = {
+	name="Ashon"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083167
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083169 = {
+	name="Atieno"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083168
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083170 = {
+	name="Ayo"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083169
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083171 = {
+	name="Keambiroiro"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083170
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083172 = {
+	name="Mhina"
+	dynasty=1000028320 #Twiga
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083171
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083173 = {
+	name="Kwanzaa"
+	dynasty=1000028320 #Twiga
+	religion="sunni"
+	culture="swahili"
+	father=1000083172
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083174 = {
+	name="Atieno"
+	dynasty=1000028320 #Twiga
+	religion="sunni"
+	culture="swahili"
+	father=1000083173
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083175 = {
+	name="Jamba"
+	dynasty=1000028320 #Twiga
+	religion="sunni"
+	culture="swahili"
+	father=1000083174
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083176 = {
+	name="Jumaane"
+	dynasty=1000028320 #Twiga
+	religion="sunni"
+	culture="swahili"
+	father=1000083175
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083177 = {
+	name="Taji"
+	dynasty=1000028320 #Twiga
+	religion="sunni"
+	culture="swahili"
+	father=1000083176
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083178 = {
+	name="Tian"
+	dynasty=1000028320 #Twiga
+	religion="sunni"
+	culture="swahili"
+	father=1000083177
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Dhahabu Dynasty (Placeholders) of Quelimane
+
+1000083179 = {
+	name="Issa"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083180 = {
+	name="Musa"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083179
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083181 = {
+	name="Mkubwa"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083180
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083182 = {
+	name="Ayo"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083181
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083183 = {
+	name="Taji"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083182
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083184 = {
+	name="Hodari"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083183
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083185 = {
+	name="Kiama"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083184
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083186 = {
+	name="Jata"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083185
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083187 = {
+	name="Kitwana"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083186
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083188 = {
+	name="Msia"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083187
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083189 = {
+	name="Kereenyaga"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083188
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083190 = {
+	name="Kuende"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083189
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083191 = {
+	name="Baraka"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083190
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083192 = {
+	name="Juma"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083191
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083193 = {
+	name="Hamadi"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="wangozi"
+	father=1000083192
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083194 = {
+	name="Kwanzaa"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="swahili"
+	father=1000083193
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083195 = {
+	name="Zahur"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="swahili"
+	father=1000083194
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083196 = {
+	name="Farijika"
+	dynasty=1000028321 #Dhahabu
+	religion="east_bantu_mythology"
+	culture="swahili"
+	father=1000083195
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083197 = {
+	name="Hamadi"
+	dynasty=1000028321 #Dhahabu
+	religion="sunni"
+	culture="swahili"
+	father=1000083196
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083198 = {
+	name="Baraka"
+	dynasty=1000028321 #Dhahabu
+	religion="sunni"
+	culture="swahili"
+	father=1000083197
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083199 = {
+	name="Busara"
+	dynasty=1000028321 #Dhahabu
+	religion="sunni"
+	culture="swahili"
+	father=1000083198
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Shirazi Dynasy (Sultans of Kilwa)
+
+1000083067 = {
+	name="Hassan"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	907.1.1={
+		birth="907.1.1"
+	}
+	957.1.1={
+		death="957.1.1"
+	}
+}
+
+1000076991 = {
+	name="Ali"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000083067
+	927.1.1={
+		birth="927.1.1"
+	}
+	958.1.1={
+		death="958.1.1"
+	}
+}
+
+1000076993 = {
+	name="Bashat"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000083067
+	928.1.1={
+		birth="928.1.1"
+	}
+	958.1.1={
+		death="958.1.1"
+	}
+}
+
+1000076992 = {
+	name="Muhammad"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076991
+	947.1.1={
+		birth="947.1.1"
+	}
+	996.1.1={
+		death="996.1.1"
+	}
+}
+
+1000076994 = {
+	name="Ali"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076993
+	948.1.1={
+		birth="948.1.1"
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+
+1000076996 = {
+	name="Bakr"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076993
+	949.1.1={
+		birth="949.1.1"
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+
+1000076995 = {
+	name="Dawud"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076994
+	968.1.1={
+		birth="968.1.1"
+	}
+	1005.1.1={
+		death="1005.1.1"
+	}
+}
+
+1000076997 = {
+	name="Suleiman"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076994
+	969.1.1={
+		birth="969.1.1"
+	}
+	1005.1.1={
+		death="1005.1.1"
+	}
+}
+
+1000083068 = {
+	name="Khalid"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076996
+	969.1.1={
+		birth="969.1.1"
+	}
+	1007.1.1={
+		death="1007.1.1"
+	}
+}
+
+1000076998 = {
+	name="Hassan"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076997
+	989.1.1={
+		birth="989.1.1"
+	}
+	1023.1.1={
+		death="1023.1.1"
+	}
+}
+
+1000083069 = {
+	name="Dawud"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076997
+	990.1.1={
+		birth="990.1.1"
+	}
+	1023.1.1={
+		death="1023.1.1"
+	}
+}
+
+1000076999 = {
+	name="Ali"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000083069
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1083.1.1={
+		death="1083.1.1"
+	}
+}
+
+1000083070 = {
+	name="Dawud"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000076999
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1083.1.1={
+		death="1083.1.1"
+	}
+}
+
+1000083071 = {
+	name="Ali"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000083070
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1106.1.1={
+		death="1106.1.1"
+	}
+}
+
+1000083072 = {
+	name="Hassan"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000083070
+	1051.1.1={
+		birth="1051.1.1"
+	}
+	1129.1.1={
+		death="1129.1.1"
+	}
+}
+
+1000083073 = {
+	name="Suleiman"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000083072
+	1071.1.1={
+		birth="1071.1.1"
+	}
+	1131.1.1={
+		death="1131.1.1"
+	}
+}
+
+1000083200 = {
+	name="Dawud"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000083073
+	1091.1.1={
+		birth="1091.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083201 = {
+	name="Suleiman"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000083072
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1189.1.1={
+		death="1189.1.1"
+	}
+}
+
+1000083202 = {
+	name="Dawud"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000083201
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+1000083203 = {
+	name="Talut"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000083201
+	1141.1.1={
+		birth="1141.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1191.1.1={
+		death="1191.1.1"
+	}
+}
+
+1000083204 = {
+	name="Hassan"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000083201
+	1142.1.1={
+		birth="1142.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1215.1.1={
+		death="1215.1.1"
+	}
+}
+
+1000083205 = {
+	name="Khalid"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000083201
+	1143.1.1={
+		birth="1143.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+1000083206 = {
+	name="Suleiman"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="wangozi"
+	father=1000083201
+	1144.1.1={
+		birth="1144.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+
+1000083207 = {
+	name="Abu"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="swahili"
+	father=1000083206
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1263.1.1={
+		death="1263.1.1"
+	}
+}
+
+1000083208 = {
+	name="Dawud"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="swahili"
+	father=1000083207
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1263.1.1={
+		death="1263.1.1"
+	}
+}
+
+1000083209 = {
+	name="Ali"
+	dynasty=1000028323 #Shirazi
+	religion="sunni"
+	culture="swahili"
+	father=1000083208
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1277.1.1={
+		death="1277.1.1"
+	}
+}
+
+1000083211 = {
+	name="Fatima"
+	dynasty=1000028323 #Shirazi
+	female = yes
+	religion="sunni"
+	culture="swahili"
+	father=1000083209
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1277.1.1={
+		death="1277.1.1"
+	}
+}
+
+#Mahdali Dynasy (Sultans of Kilwa)
+
+1000083210 = {
+	name="Talut"
+	dynasty=1000028324 #Mahdali
+	religion="sunni"
+	culture="swahili"
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1256.1.1={
+		add_spouse=1000083211
+	}
+	1277.1.1={
+		death="1277.1.1"
+	}
+}
+
+1000083212 = {
+	name="Hassan"
+	dynasty=1000028324 #Mahdali
+	religion="sunni"
+	culture="swahili"
+	father=1000083210
+	mother=1000083211
+	1256.1.1={
+		birth="1256.1.1"
+	}
+	1294.1.1={
+		death="1294.1.1"
+	}
+}
+
+1000083213 = {
+	name="Suleiman"
+	dynasty=1000028324 #Mahdali
+	religion="sunni"
+	culture="swahili"
+	father=1000083212
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+
+1000083214 = {
+	name="Dawud"
+	dynasty=1000028324 #Mahdali
+	religion="sunni"
+	culture="swahili"
+	father=1000083213
+	1289.1.1={
+		birth="1289.1.1"
+	}
+	1356.1.1={
+		death="1356.1.1"
+	}
+}
+
+1000083215 = {
+	name="Abu"
+	dynasty=1000028324 #Mahdali
+	religion="sunni"
+	culture="swahili"
+	father=1000083213
+	1288.1.1={
+		birth="1288.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+
+1000083216 = {
+	name="Suleiman"
+	dynasty=1000028324 #Mahdali
+	religion="sunni"
+	culture="swahili"
+	father=1000083214
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1366.1.1={
+		death="1366.1.1"
+	}
+}
+
+1000083217 = {
+	name="Hassan"
+	dynasty=1000028324 #Mahdali
+	religion="sunni"
+	culture="swahili"
+	father=1000083213
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+
+1000083218 = {
+	name="Talut"
+	dynasty=1000028324 #Mahdali
+	religion="sunni"
+	culture="swahili"
+	father=1000083214
+	1306.1.1={
+		birth="1306.1.1"
+	}
+	1364.1.1={
+		death="1364.1.1"
+	}
+}
+
+1000083219 = {
+	name="Suleiman"
+	dynasty=1000028324 #Mahdali
+	religion="sunni"
+	culture="swahili"
+	father=1000083213
+	1307.1.1={
+		birth="1307.1.1"
+	}
+	1389.1.1={
+		death="1389.1.1"
+	}
+}
+
+1000083220 = {
+	name="Hassan"
+	dynasty=1000028324 #Mahdali
+	religion="sunni"
+	culture="swahili"
+	father=1000083219
+	1330.1.1={
+		birth="1330.1.1"
+	}
+	1412.1.1={
+		death="1412.1.1"
+	}
+}
+
+1000083221 = {
+	name="Muhammad"
+	dynasty=1000028324 #Mahdali
+	religion="sunni"
+	culture="swahili"
+	father=1000083219
+	1335.1.1={
+		birth="1335.1.1"
+	}
+	1421.1.1={
+		death="1421.1.1"
+	}
+}
+
+#Sarafu Dynasty (Placeholders) of Naraan estate of Baraawe
+
+1000083593 = {
+	name="Elea"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000083594 = {
+	name="Adhama"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	father=1000083593
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083595 = {
+	name="Musa"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	father=1000083594
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000083596 = {
+	name="Tian"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	father=1000083595
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083597 = {
+	name="Zahur"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	father=1000083596
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083598 = {
+	name="Anasa"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	father=1000083597
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083599 = {
+	name="Ashon"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	father=1000083598
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083600 = {
+	name="Jafari"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	father=1000083599
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083601 = {
+	name="Juma"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	father=1000083600
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083602 = {
+	name="Elea"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	father=1000083601
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083603 = {
+	name="Mbita"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	father=1000083602
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083604 = {
+	name="Taji"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	father=1000083603
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000083605 = {
+	name="Juma"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	father=1000083604
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083606 = {
+	name="Ashon"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	father=1000083605
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000083607 = {
+	name="Hali"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="wangozi"
+	father=1000083606
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1170.1.1 = {
+		culture="swahili"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083608 = {
+	name="Jafari"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="swahili"
+	father=1000083607
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083609 = {
+	name="Atieno"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="swahili"
+	father=1000083608
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083610 = {
+	name="Baraka"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="swahili"
+	father=1000083609
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083611 = {
+	name="Elea"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="swahili"
+	father=1000083610
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083612 = {
+	name="Kitwana"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="swahili"
+	father=1000083611
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083613 = {
+	name="Kifeda"
+	dynasty=1000028355 #Sarafu
+	religion="sunni"
+	culture="swahili"
+	father=1000083612
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
