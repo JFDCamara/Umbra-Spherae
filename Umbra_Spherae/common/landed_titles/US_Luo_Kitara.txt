@@ -26,7 +26,20 @@ e_luo_kitara = {
 
 				b_bugagainzi = {
 				}
-
+				b_hoima = {
+				}
+				b_kibuye = {
+				}
+				b_kyangwali = {
+				}
+				b_bukwiri = {
+				}
+				b_kitoba = {
+				}
+				b_nalweyo = {
+				}
+				b_kakindu = {
+				}
 			}
 			c_mwenge = {
 
@@ -35,7 +48,20 @@ e_luo_kitara = {
 
 				b_mwenge = {
 				}
-
+				b_ntoroko = {
+				}
+				b_bundibugyo = {
+				}
+				b_kyenjojo = {
+				}
+				b_kijura = {
+				}
+				b_rugombe = {
+				}
+				b_kikorba = {
+				}
+				b_yenga = {
+				}
 			}
 			c_pawir = {
 
@@ -44,7 +70,20 @@ e_luo_kitara = {
 
 				b_pawir = {
 				}
-
+				b_buliisa = {
+				}
+				b_pakuba = {
+				}
+				b_biso = {
+				}
+				b_busingiro = {
+				}
+				b_masindi = {
+				}
+				b_kitanyata = {
+				}
+				b_butiaba = {
+				}
 			}
 		}
 		d_buganda = {
@@ -61,7 +100,20 @@ e_luo_kitara = {
 
 				b_buganda = {
 				}
-
+				b_kampala = {
+				}
+				b_lyamutundwe = {
+				}
+				b_entebbe = {
+				}
+				b_seeta = {
+				}
+				b_wobulenzi = {
+				}
+				b_luweero = {
+				}
+				b_butuntumula = {
+				}
 			}
 			c_syan = {
 
@@ -70,7 +122,20 @@ e_luo_kitara = {
 
 				b_syan = {
 				}
-
+				b_iganga = {
+				}
+				b_busembatia = {
+				}
+				b_kibwiza = {
+				}
+				b_bugiri = {
+				}
+				b_bukanya = {
+				}
+				b_jinja = {
+				}
+				b_buganza = {
+				}
 			}
 
 		}
@@ -88,7 +153,20 @@ e_luo_kitara = {
 
 				b_nkore = {
 				}
-
+				b_isingiro = {
+				}
+				b_kitagwenda = {
+				}
+				b_kooki = {
+				}
+				b_buddu = {
+				}
+				b_bwera = {
+				}
+				b_bigo = {
+				}
+				b_masaka = {
+				}
 			}
 			c_buhweju = {
 
@@ -97,7 +175,20 @@ e_luo_kitara = {
 
 				b_buhweju = {
 				}
-
+				b_buzimba = {
+				}
+				b_kamwenge = {
+				}
+				b_mpanga = {
+				}
+				b_kabujogera = {
+				}
+				b_ibanda = {
+				}
+				b_kitongore = {
+				}
+				b_kichwamba = {
+				}
 			}
 
 		}
@@ -115,7 +206,20 @@ e_luo_kitara = {
 
 				b_karagwe = {
 				}
-
+				b_mubari = {
+				}
+				b_bugara = {
+				}
+				b_kaisho = {
+				}
+				b_kyerwa = {
+				}
+				b_nkwenda = {
+				}
+				b_kituntu = {
+				}
+				b_kayanga = {
+				}
 			}
 			c_kiziba = {
 
@@ -124,7 +228,20 @@ e_luo_kitara = {
 
 				b_kiziba = {
 				}
-
+				b_bugabo = {
+				}
+				b_kyamutwara = {
+				}
+				b_kyanja = {
+				}
+				b_inhangiro = {
+				}
+				b_maruku = {
+				}
+				b_bukoba = {
+				}
+				b_muhutwe = {
+				}
 			}
 
 		}
@@ -142,7 +259,20 @@ e_luo_kitara = {
 
 				b_gisaka = {
 				}
-
+				b_bugesera = {
+				}
+				b_buganza = {
+				}
+				b_busozo = {
+				}
+				b_bukunzi = {
+				}
+				b_gisuma = {
+				}
+				b_karaba = {
+				}
+				b_gikongoro = {
+				}
 			}
 			c_mpororo = {
 
@@ -151,7 +281,20 @@ e_luo_kitara = {
 
 				b_mpororo = {
 				}
-
+				b_goma = {
+				}
+				b_buhumba = {
+				}
+				b_ngiko = {
+				}
+				b_muhindo = {
+				}
+				b_bambo = {
+				}
+				b_birambizo = {
+				}
+				b_ngololo = {
+				}
 			}
 			c_ndorwa = {
 
@@ -160,7 +303,20 @@ e_luo_kitara = {
 
 				b_ndorwa = {
 				}
-
+				b_cyingogo = {
+				}
+				b_bushiru = {
+				}
+				b_buhoma = {
+				}
+				b_kabale = {
+				}
+				b_bubale = {
+				}
+				b_kamuganguzi = {
+				}
+				b_bafunda = {
+				}
 			}
 
 		}
@@ -178,7 +334,20 @@ e_luo_kitara = {
 
 				b_burundi = {
 				}
-
+				b_nkoma = {
+				}
+				b_mutambu = {
+				}
+				b_gitaza = {
+				}
+				b_minago = {
+				}
+				b_buyengero = {
+				}
+				b_matana = {
+				}
+				b_bisoro = {
+				}
 			}
 			c_buha = {
 
@@ -187,7 +356,20 @@ e_luo_kitara = {
 
 				b_buha = {
 				}
-
+				b_bushubi = {
+				}
+				b_buyogoma = {
+				}
+				b_buyungu = {
+				}
+				b_muhambwe = {
+				}
+				b_bushingo = {
+				}
+				b_ruguru = {
+				}
+				b_mutumba = {
+				}
 			}
 			c_bujiji = {
 
@@ -196,7 +378,20 @@ e_luo_kitara = {
 
 				b_bujiji = {
 				}
-
+				b_mwandiga = {
+				}
+				b_simbo = {
+				}
+				b_kidahwe = {
+				}
+				b_bolombola = {
+				}
+				b_kazuramimba = {
+				}
+				b_musosi = {
+				}
+				b_mwamgongo = {
+				}
 			}
 
 		}
@@ -214,7 +409,20 @@ e_luo_kitara = {
 
 				b_buzinza = {
 				}
-
+				b_rusubi = {
+				}
+				b_bwina = {
+				}
+				b_nzera = {
+				}
+				b_katoro = {
+				}
+				b_geita = {
+				}
+				b_kasama = {
+				}
+				b_kahunda = {
+				}
 			}
 			c_ukerewe = {
 
@@ -223,10 +431,21 @@ e_luo_kitara = {
 
 				b_ukerewe = {
 				}
-
+				b_nansimo = {
+				}
+				b_kibara = {
+				}
+				b_nyahanga = {
+				}
+				b_lomadai = {
+				}
+				b_mkula = {
+				}
+				b_kitongo = {
+				}
+				b_kayenze = {
+				}
 			}
-
-
 		}
 	}
 	k_luo = {
@@ -250,7 +469,20 @@ e_luo_kitara = {
 
 				b_funj = {
 				}
-
+				b_damazin = {
+				}
+				b_kurmuk = {
+				}
+				b_er_roseires = {
+				}
+				b_tadamon = {
+				}
+				b_bau = {
+				}
+				b_qeissan = {
+				}
+				b_abania = {
+				}
 			}
 			c_dinka = {
 
@@ -259,7 +491,20 @@ e_luo_kitara = {
 
 				b_dinka = {
 				}
-
+				b_baliet = {
+				}
+				b_fashoda = {
+				}
+				b_longechuk = {
+				}
+				b_maban = {
+				}
+				b_malakai = {
+				}
+				b_manyo = {
+				}
+				b_maiwut = {
+				}
 			}
 		}
 		d_shilluk = {
@@ -276,7 +521,20 @@ e_luo_kitara = {
 
 				b_shilluk = {
 				}
-
+				b_diling = {
+				}
+				b_talodi = {
+				}
+				b_kadugli = {
+				}
+				b_gedir = {
+				}
+				b_takoi = {
+				}
+				b_biem = {
+				}
+				b_buram = {
+				}
 			}
 			c_belanda = {
 
@@ -285,7 +543,20 @@ e_luo_kitara = {
 
 				b_belanda = {
 				}
-
+				b_fangak = {
+				}
+				b_waat = {
+				}
+				b_ayod = {
+				}
+				b_duk_padiet = {
+				}
+				b_duk_payuel = {
+				}
+				b_wernyol = {
+				}
+				b_kongor = {
+				}
 			}
 		}
 		d_anuak = {
@@ -302,7 +573,20 @@ e_luo_kitara = {
 
 				b_anuak = {
 				}
-
+				b_akobo = {
+				}
+				b_pibor = {
+				}
+				b_pochalla = {
+				}
+				b_tirgol = {
+				}
+				b_manyeran = {
+				}
+				b_wunkok = {
+				}
+				b_chargoz = {
+				}
 			}
 			c_wipaco = {
 
@@ -311,7 +595,20 @@ e_luo_kitara = {
 
 				b_wipaco = {
 				}
-
+				b_lobira = {
+				}
+				b_kapoeta = {
+				}
+				b_narongyet = {
+				}
+				b_tchumakori = {
+				}
+				b_lumeyen = {
+				}
+				b_nawayareng = {
+				}
+				b_lodomei = {
+				}
 			}
 		}
 		d_tegidi = {
@@ -328,7 +625,20 @@ e_luo_kitara = {
 
 				b_tegidi = {
 				}
-
+				b_kaaling = {
+				}
+				b_todonyang = {
+				}
+				b_lowarengak = {
+				}
+				b_nariokotome = {
+				}
+				b_lokitaung = {
+				}
+				b_kaeris = {
+				}
+				b_kokuro = {
+				}
 			}
 			c_baar = {
 
@@ -337,7 +647,20 @@ e_luo_kitara = {
 
 				b_baar = {
 				}
-
+				b_kaigo = {
+				}
+				b_poko = {
+				}
+				b_juba = {
+				}
+				b_mongalla = {
+				}
+				b_liria = {
+				}
+				b_torit = {
+				}
+				b_magwi = {
+				}
 			}
 		}
 		d_joka = {
@@ -354,7 +677,20 @@ e_luo_kitara = {
 
 				b_jok_a_jok = {
 				}
-
+				b_obalang = {
+				}
+				b_aloi = {
+				}
+				b_alebtong = {
+				}
+				b_orwamuge = {
+				}
+				b_arapai = {
+				}
+				b_lwala = {
+				}
+				b_dokolo = {
+				}
 			}
 			c_pakwak = {
 
@@ -363,7 +699,20 @@ e_luo_kitara = {
 
 				b_pakwak = {
 				}
-
+				b_lolim = {
+				}
+				b_purongo = {
+				}
+				b_anaka = {
+				}
+				b_nwoya = {
+				}
+				b_ongako = {
+				}
+				b_gulu = {
+				}
+				b_olwiyo = {
+				}
 			}
 			c_pokot = {
 
@@ -372,7 +721,20 @@ e_luo_kitara = {
 
 				b_pokot = {
 				}
-
+				b_nadoto = {
+				}
+				b_kerio = {
+				}
+				b_lodwar = {
+				}
+				b_nadapal = {
+				}
+				b_turkwel = {
+				}
+				b_loperot = {
+				}
+				b_lokichar = {
+				}
 			}
 		}
 	}
