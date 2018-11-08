@@ -1,27 +1,27 @@
 e_kenya_ruvuma = {
 
-	color = { 234 234 210 }
+	color = { 176 109 87 }
 	color2 = { 250 250 250 }
 
 	capital = 1993 #Ongamo
 
 	k_kenya = {
 
-		color = { 255 255 0 }
+		color = { 149 109 87 }
 		color2 = { 250 250 250 }
 
 		capital = 1993 #Ongamo
 
 		d_kenya = {
 
-			color = { 233 194 0 }
+			color = { 188 152 143 }
 			color2 = { 250 250 250 }
 
 			capital = 1993 #Ongamo
 
 			c_ongamo = {
 
-				color = { 234 204 10 }
+				color = { 198 162 143 }
 				color2 = { 250 250 250 }
 
 				b_ongamo = {
@@ -30,7 +30,7 @@ e_kenya_ruvuma = {
 			}
 			c_gumba = {
 
-				color = { 234 204 10 }
+				color = { 198 172 143 }
 				color2 = { 250 250 250 }
 
 				b_gumba = {
@@ -39,7 +39,7 @@ e_kenya_ruvuma = {
 			}
 			c_sabaki = {
 
-				color = { 234 204 10 }
+				color = { 198 182 143 }
 				color2 = { 250 250 250 }
 
 				b_sabaki = {
@@ -49,14 +49,14 @@ e_kenya_ruvuma = {
 		}
 		d_kalenjin_tato = {
 
-			color = { 233 194 0 }
+			color = { 220 152 143 }
 			color2 = { 250 250 250 }
 
 			capital = 1994 #Kalenjin
 
 			c_kalenjin = {
 
-				color = { 234 204 10 }
+				color = { 230 162 143 }
 				color2 = { 250 250 250 }
 
 				b_kalenjin = {
@@ -65,7 +65,7 @@ e_kenya_ruvuma = {
 			}
 			c_tato = {
 
-				color = { 234 204 10 }
+				color = { 230 172 143 }
 				color2 = { 250 250 250 }
 
 				b_tato = {
@@ -75,14 +75,14 @@ e_kenya_ruvuma = {
 		}
 		d_dahalo = {
 
-			color = { 233 194 0 }
+			color = { 220 152 110 }
 			color2 = { 250 250 250 }
 
 			capital = 1990 #Dahalo
 
 			c_dahalo = {
 
-				color = { 234 204 10 }
+				color = { 230 162 110 }
 				color2 = { 250 250 250 }
 
 				b_dahalo = {
@@ -91,7 +91,7 @@ e_kenya_ruvuma = {
 			}
 			c_garee = {
 
-				color = { 234 204 10 }
+				color = { 230 172 110 }
 				color2 = { 250 250 250 }
 
 				b_garee = {
@@ -100,7 +100,7 @@ e_kenya_ruvuma = {
 			}
 			c_el_molo = {
 
-				color = { 234 204 10 }
+				color = { 230 182 110 }
 				color2 = { 250 250 250 }
 
 				b_el_molo = {
@@ -111,14 +111,14 @@ e_kenya_ruvuma = {
 		}
 		d_kilimanjaro = {
 
-			color = { 233 194 0 }
+			color = { 220 191 180 }
 			color2 = { 250 250 250 }
 
 			capital = 2001 #Dadog
 
 			c_dadog = {
 
-				color = { 234 204 10 }
+				color = { 230 201 180 }
 				color2 = { 250 250 250 }
 
 				b_dadog = {
@@ -127,7 +127,7 @@ e_kenya_ruvuma = {
 			}
 			c_hatsa = {
 
-				color = { 234 204 10 }
+				color = { 230 221 180 }
 				color2 = { 250 250 250 }
 
 				b_hatsa = {
@@ -136,7 +136,7 @@ e_kenya_ruvuma = {
 			}
 			c_asa = {
 
-				color = { 234 204 10 }
+				color = { 230 231 180 }
 				color2 = { 250 250 250 }
 
 				b_asa = {
@@ -145,7 +145,7 @@ e_kenya_ruvuma = {
 			}
 			c_asu = {
 
-				color = { 234 204 10 }
+				color = { 230 241 180 }
 				color2 = { 250 250 250 }
 
 				b_asu = {
@@ -156,21 +156,21 @@ e_kenya_ruvuma = {
 	}
 	k_ruvuma = {
 
-		color = { 255 255 0 }
+		color = { 220 191 231 }
 		color2 = { 250 250 250 }
 
 		capital = 2063 #Ruvu
 
 		d_ruvuma = {
 
-			color = { 233 194 0 }
+			color = { 236 221 245 }
 			color2 = { 250 250 250 }
 
 			capital = 2063 #Ruvu
 
 			c_ruvu = {
 
-				color = { 234 204 10 }
+				color = { 236 231 245 }
 				color2 = { 250 250 250 }
 
 				b_ruvu = {
@@ -179,7 +179,7 @@ e_kenya_ruvuma = {
 			}
 			c_maa = {
 
-				color = { 234 204 10 }
+				color = { 236 241 245 }
 				color2 = { 250 250 250 }
 
 				b_maa = {
@@ -188,7 +188,7 @@ e_kenya_ruvuma = {
 			}
 			c_iringa = {
 
-				color = { 234 204 10 }
+				color = { 236 251 245 }
 				color2 = { 250 250 250 }
 
 				b_iringa = {
@@ -197,7 +197,7 @@ e_kenya_ruvuma = {
 			}
 			c_mwera = {
 
-				color = { 234 204 10 }
+				color = { 236 255 251 }
 				color2 = { 250 250 250 }
 
 				b_mwera = {
@@ -207,14 +207,14 @@ e_kenya_ruvuma = {
 		}
 		d_kwadza_iramba = {
 
-			color = { 233 194 0 }
+			color = { 223 180 200 }
 			color2 = { 250 250 250 }
 
 			capital = 2005 #Kwa'dza
 
 			c_kwadza = {
 
-				color = { 234 204 10 }
+				color = { 233 190 200 }
 				color2 = { 250 250 250 }
 
 				b_kwadza = {
@@ -223,7 +223,7 @@ e_kenya_ruvuma = {
 			}
 			c_sandawe = {
 
-				color = { 234 204 10 }
+				color = { 233 200 200 }
 				color2 = { 250 250 250 }
 
 				b_sandawe = {
@@ -232,7 +232,7 @@ e_kenya_ruvuma = {
 			}
 			c_iramba = {
 
-				color = { 234 204 10 }
+				color = { 233 210 200 }
 				color2 = { 250 250 250 }
 
 				b_iramba = {

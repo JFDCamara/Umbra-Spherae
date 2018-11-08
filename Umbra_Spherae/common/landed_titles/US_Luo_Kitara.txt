@@ -1,27 +1,27 @@
 e_luo_kitara = {
 
-	color = { 234 234 210 }
+	color = { 243 236 110 }
 	color2 = { 250 250 250 }
 
 	capital = 1967 #Bugagainzi
 
 	k_kitara = {
 
-		color = { 255 255 0 }
+		color = { 197 205 241 }
 		color2 = { 250 250 250 }
 
 		capital = 1967 #Bugagainzi
 
 		d_bunyoro_kitara = {
 
-			color = { 233 194 0 }
+			color = { 129 140 255 }
 			color2 = { 250 250 250 }
 
 			capital = 1967 #Bugagainzi
 
 			c_bugagainzi = {
 
-				color = { 234 204 10 }
+				color = { 139 150 255 }
 				color2 = { 250 250 250 }
 
 				b_bugagainzi = {
@@ -30,7 +30,7 @@ e_luo_kitara = {
 			}
 			c_mwenge = {
 
-				color = { 234 204 10 }
+				color = { 139 160 255 }
 				color2 = { 250 250 250 }
 
 				b_mwenge = {
@@ -39,7 +39,7 @@ e_luo_kitara = {
 			}
 			c_pawir = {
 
-				color = { 234 204 10 }
+				color = { 139 170 255 }
 				color2 = { 250 250 250 }
 
 				b_pawir = {
@@ -49,14 +49,14 @@ e_luo_kitara = {
 		}
 		d_buganda = {
 
-			color = { 233 194 0 }
+			color = { 163 140 255 }
 			color2 = { 250 250 250 }
 
 			capital = 1972 #Buganda
 
 			c_buganda = {
 
-				color = { 234 204 10 }
+				color = { 173 150 255 }
 				color2 = { 250 250 250 }
 
 				b_buganda = {
@@ -65,7 +65,7 @@ e_luo_kitara = {
 			}
 			c_syan = {
 
-				color = { 234 204 10 }
+				color = { 173 160 255 }
 				color2 = { 250 250 250 }
 
 				b_syan = {
@@ -76,14 +76,14 @@ e_luo_kitara = {
 		}
 		d_nkore = {
 
-			color = { 233 194 0 }
+			color = { 163 201 212 }
 			color2 = { 250 250 250 }
 
 			capital = 1974 #Nkore
 
 			c_nkore = {
 
-				color = { 234 204 10 }
+				color = { 173 211 212 }
 				color2 = { 250 250 250 }
 
 				b_nkore = {
@@ -92,7 +92,7 @@ e_luo_kitara = {
 			}
 			c_buhweju = {
 
-				color = { 234 204 10 }
+				color = { 173 221 212 }
 				color2 = { 250 250 250 }
 
 				b_buhweju = {
@@ -103,14 +103,14 @@ e_luo_kitara = {
 		}
 		d_karagwe = {
 
-			color = { 233 194 0 }
+			color = { 163 240 212 }
 			color2 = { 250 250 250 }
 
 			capital = 1976 #Karagwe
 
 			c_karagwe = {
 
-				color = { 234 204 10 }
+				color = { 173 250 212 }
 				color2 = { 250 250 250 }
 
 				b_karagwe = {
@@ -119,7 +119,7 @@ e_luo_kitara = {
 			}
 			c_kiziba = {
 
-				color = { 234 204 10 }
+				color = { 173 255 217 }
 				color2 = { 250 250 250 }
 
 				b_kiziba = {
@@ -130,14 +130,14 @@ e_luo_kitara = {
 		}
 		d_rwanda = {
 
-			color = { 233 194 0 }
+			color = { 214 202 193 }
 			color2 = { 250 250 250 }
 
 			capital = 1980 #Gisaka
 
 			c_gisaka = {
 
-				color = { 234 204 10 }
+				color = { 224 212 193 }
 				color2 = { 250 250 250 }
 
 				b_gisaka = {
@@ -146,7 +146,7 @@ e_luo_kitara = {
 			}
 			c_mpororo = {
 
-				color = { 234 204 10 }
+				color = { 224 222 193 }
 				color2 = { 250 250 250 }
 
 				b_mpororo = {
@@ -155,7 +155,7 @@ e_luo_kitara = {
 			}
 			c_ndorwa = {
 
-				color = { 234 204 10 }
+				color = { 224 232 193 }
 				color2 = { 250 250 250 }
 
 				b_ndorwa = {
@@ -166,14 +166,14 @@ e_luo_kitara = {
 		}
 		d_burundi = {
 
-			color = { 233 194 0 }
+			color = { 231 109 108 }
 			color2 = { 250 250 250 }
 
 			capital = 1981 #Burundi
 
 			c_burundi = {
 
-				color = { 234 204 10 }
+				color = { 241 119 108 }
 				color2 = { 250 250 250 }
 
 				b_burundi = {
@@ -182,7 +182,7 @@ e_luo_kitara = {
 			}
 			c_buha = {
 
-				color = { 234 204 10 }
+				color = { 241 129 108 }
 				color2 = { 250 250 250 }
 
 				b_buha = {
@@ -191,7 +191,7 @@ e_luo_kitara = {
 			}
 			c_bujiji = {
 
-				color = { 234 204 10 }
+				color = { 241 139 108 }
 				color2 = { 250 250 250 }
 
 				b_bujiji = {
@@ -202,14 +202,14 @@ e_luo_kitara = {
 		}
 		d_buzinza = {
 
-			color = { 233 194 0 }
+			color = { 174 109 108 }
 			color2 = { 250 250 250 }
 
 			capital = 1984 #Buzinza
 
 			c_buzinza = {
 
-				color = { 234 204 10 }
+				color = { 184 119 108 }
 				color2 = { 250 250 250 }
 
 				b_buzinza = {
@@ -218,7 +218,7 @@ e_luo_kitara = {
 			}
 			c_ukerewe = {
 
-				color = { 234 204 10 }
+				color = { 184 129 108 }
 				color2 = { 250 250 250 }
 
 				b_ukerewe = {
@@ -231,21 +231,21 @@ e_luo_kitara = {
 	}
 	k_luo = {
 
-		color = { 255 255 0 }
+		color = { 243 231 176 }
 		color2 = { 250 250 250 }
 
 		capital = 1950 #Funj
 
 		d_funj = {
 
-			color = { 233 194 0 }
+			color = { 213 213 213 }
 			color2 = { 250 250 250 }
 
 			capital = 1950 #Funj
 
 			c_funj = {
 
-				color = { 234 204 10 }
+				color = { 223 223 213 }
 				color2 = { 250 250 250 }
 
 				b_funj = {
@@ -254,7 +254,7 @@ e_luo_kitara = {
 			}
 			c_dinka = {
 
-				color = { 234 204 10 }
+				color = { 223 233 213 }
 				color2 = { 250 250 250 }
 
 				b_dinka = {
@@ -264,14 +264,14 @@ e_luo_kitara = {
 		}
 		d_shilluk = {
 
-			color = { 233 194 0 }
+			color = { 203 203 239 }
 			color2 = { 250 250 250 }
 
 			capital = 1952 #Shilluk
 
 			c_shilluk = {
 
-				color = { 234 204 10 }
+				color = { 213 213 239 }
 				color2 = { 250 250 250 }
 
 				b_shilluk = {
@@ -280,7 +280,7 @@ e_luo_kitara = {
 			}
 			c_belanda = {
 
-				color = { 234 204 10 }
+				color = { 213 223 239 }
 				color2 = { 250 250 250 }
 
 				b_belanda = {
@@ -290,14 +290,14 @@ e_luo_kitara = {
 		}
 		d_anuak = {
 
-			color = { 233 194 0 }
+			color = { 203 221 202 }
 			color2 = { 250 250 250 }
 
 			capital = 1954 #Anuak
 
 			c_anuak = {
 
-				color = { 234 204 10 }
+				color = { 213 231 202 }
 				color2 = { 250 250 250 }
 
 				b_anuak = {
@@ -306,7 +306,7 @@ e_luo_kitara = {
 			}
 			c_wipaco = {
 
-				color = { 234 204 10 }
+				color = { 213 241 202 }
 				color2 = { 250 250 250 }
 
 				b_wipaco = {
@@ -316,14 +316,14 @@ e_luo_kitara = {
 		}
 		d_tegidi = {
 
-			color = { 233 194 0 }
+			color = { 239 221 202 }
 			color2 = { 250 250 250 }
 
 			capital = 1956 #Tegidi
 
 			c_tegidi = {
 
-				color = { 234 204 10 }
+				color = { 249 231 202 }
 				color2 = { 250 250 250 }
 
 				b_tegidi = {
@@ -332,7 +332,7 @@ e_luo_kitara = {
 			}
 			c_baar = {
 
-				color = { 234 204 10 }
+				color = { 249 241 202 }
 				color2 = { 250 250 250 }
 
 				b_baar = {
@@ -342,14 +342,14 @@ e_luo_kitara = {
 		}
 		d_joka = {
 
-			color = { 233 194 0 }
+			color = { 142 221 202 }
 			color2 = { 250 250 250 }
 
 			capital = 1962 #Jok a-Jok
 
 			c_jok_a_jok = {
 
-				color = { 234 204 10 }
+				color = { 152 231 202 }
 				color2 = { 250 250 250 }
 
 				b_jok_a_jok = {
@@ -358,7 +358,7 @@ e_luo_kitara = {
 			}
 			c_pakwak = {
 
-				color = { 234 204 10 }
+				color = { 152 241 202 }
 				color2 = { 250 250 250 }
 
 				b_pakwak = {
@@ -367,7 +367,7 @@ e_luo_kitara = {
 			}
 			c_pokot = {
 
-				color = { 234 204 10 }
+				color = { 152 251 202 }
 				color2 = { 250 250 250 }
 
 				b_pokot = {
