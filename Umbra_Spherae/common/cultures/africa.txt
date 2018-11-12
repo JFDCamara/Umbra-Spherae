@@ -64,6 +64,119 @@ east_bantu = {
 		dukes_called_kings = yes
 		modifier = default_culture_modifier
 	}
+	ruvu_kikuyu_takama = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.4 0.2 0.7 }
+
+		male_names = {´
+			#Kamba
+			Kioko Makau Mbiti Munyambu Mutongoi Mutua Mutuku Musyoka Musili Musumbi Muthui Ngumbau Nzoka Wambua
+			#Kikuyu
+			Ciugu Gachara Gathanja Gathongo Gicheha Gichohi Gichuhi Gichuki Gitau Gitura Kamau Karanja Kariuki Kibachia Kibaki Kihiu Kimunya Kinyanjui Maina Makena Mburu Muchoki Muraya Murigi
+			Murimi Muthui Mwangi Nderitu Ndungu Ngengi Ngichu Njaramba Njuki Nyamu Waititu Wamahiu Wanjohi Watene
+			#Kisii
+			Makori Morani Muga Nyachae Omariba Omwancha Onkwani Sokoro
+		}
+		female_names = {
+			#Kamba
+			Kasyoka Mbuku Mumbe Mumbua Mueni Mutuo Mwikali Nduku Nditi Ndila Wayua
+			#Kikuyu
+			Jata Kioni Makena Moombi Mukami Mukina Mumbi Muringo Muthoni Ngina Njeri Nyambura Nyawira Nyokabi Wairimu Wambui Wamuhu Wamweru Wangari Wangeci Wangui Wanjiku Wanjiru Wathira
+			#Kisii
+			Barongo Kerubo Kwamboka Mongina Moraa Nyanjera Nyathera
+			#Meru
+			Kaweria Mugure
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	ganda_rwanda_rundi = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.4 0.6 0.2 }
+
+		male_names = {
+			#Ankole
+			Akiki
+			#Ateso
+			Ojore
+			#Basoga
+			Balondemu Mulogo
+			#Buganda
+			Musoke Nakisisa
+			#Ganda
+			Adroa Batte Bbale Bikutwala Birungi Bitalo Damba Dembe Gwandoya Isingoma Kamoga Kamya Kasozi Kasumba Kibuuka Kato Kigongo Kirabo Kizza Lutalo Madongo Magomu Mubiru Munanire Najja Ogwambi Wasswa Wemusa
+			#Kiga
+			Businge Munyiga
+			#Luhya
+			Nyongesa Simyu Wafula Wamalwa Wanjala Wanyonyi Wekesa
+			#Mudama
+			Kadokechi
+			#Mugwere
+			Luzige
+			#Rwanda
+			Dukuzumuremyi Gahiji Gahuj Gumisiriza Habimana Hakizimana Kurembera Mukuru Mutabazi Niyonzima Nkundiushuti Nyillingondo Runihura Sebahive Sentwali
+		}
+		female_names = {
+			#Basoga
+			Namusobiya Nasiche Wesesa
+			#Buganda
+			Kissa Masani Nabulungi Nalongo Namono Zesiro
+			#Ganda
+			Babirye Birungi Dembe Jendyose Kigongo Kirabo Mirembe Nabirye Nabukwasi Nafuna Nakato Ssanyu Zilabamuzale
+			#Karamojong
+			Emojung
+			#Kiga
+			Businge
+			#Luhya
+			Nafula Naliaka Nanjala Nasimiyu Nekesa
+			#Mudama
+			Abbo
+			#Musamia
+			Mangeni
+			#Rwanda
+			Kurembera Mukamutara Mukantagara Mukuru Muteteli Mutoni Nyframahoro Urimana Uwimana
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+	rufiji_nyasa = { 
+		graphical_cultures = { westafricangfx africangfx muslimgfx }
+		
+		color = { 0.4 0.3 0.2 }
+
+		male_names = {
+			#Chewa
+			Alinafe Chifundo Chifuniro Chikondi Chikumbutso Chimwemwe Chisomo Chiyembekezo Dalitso Fatsani Ganizani Kondwani Kumbukani Limbani Limbikani Madalitso Mavuto Mayamiko
+			Mayeso Mphatso Mtendere Pemphero Pilirani Tadala Takondwa Tamandani Thokozani Tiyamike Yamikani Zikomo
+			#Mwera
+			Chilemba Chitundo Chiumbo Lipapwiche Makalani Mpenda Nangwaya Njowga Thabiti Tuwile
+			#Tumbuka
+			Kondwani Masozi Nthanda Penjani Sekani Taonga Tionge Wanangwa
+			#Yao
+			Chimwala Ligongo Masamba Useni Usi
+		}
+		female_names = {
+			#Chewa
+			Alinafe Chifundo Chifuniro Chikondi Chikumbutso Chimwemwe Chisomo Chiyembekezo Dalitso Fatsani Ganizani Kondwani Kumbukani Limbani Limbikani Madalitso Mavuto Mayamiko
+			Mayeso Mphatso Mtendere Pemphero Pilirani Tadala Takondwa Tamandani Thokozani Tiyamike Yamikani Zikomo
+			#Mwera
+			Aluna Jumapili Kanika
+			#Tumbuka
+			Kondwani Masozi Nthanda Penjani Taonga Tionge Wanangwa
+			#Yao
+			Buseje Chimwala Njemile
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
 }
 
 south_bantu = {

@@ -26,7 +26,20 @@ e_kenya_ruvuma = {
 
 				b_ongamo = {
 				}
-
+				b_thagicu = {
+				}
+				b_nkubu = {
+				}
+				b_chogoria = {
+				}
+				b_chuka = {
+				}
+				b_embu = {
+				}
+				b_kutus = {
+				}
+				b_kerugoya = {
+				}
 			}
 			c_gumba = {
 
@@ -35,7 +48,20 @@ e_kenya_ruvuma = {
 
 				b_gumba = {
 				}
-
+				b_barata = {
+				}
+				b_merti = {
+				}
+				b_garba_tula = {
+				}
+				b_laisamis = {
+				}
+				b_gudas = {
+				}
+				b_benane = {
+				}
+				b_mado_gashi = {
+				}
 			}
 			c_sabaki = {
 
@@ -44,7 +70,20 @@ e_kenya_ruvuma = {
 
 				b_sabaki = {
 				}
-
+				b_bangali = {
+				}
+				b_garissa = {
+				}
+				b_kamudi = {
+				}
+				b_bura = {
+				}
+				b_higlet = {
+				}
+				b_chewele = {
+				}
+				b_balguda = {
+				}
 			}
 		}
 		d_kalenjin_tato = {
@@ -61,7 +100,20 @@ e_kenya_ruvuma = {
 
 				b_kalenjin = {
 				}
-
+				b_kitoki = {
+				}
+				b_nandia = {
+				}
+				b_maasai = {
+				}
+				b_kisumu = {
+				}
+				b_maseno = {
+				}
+				b_kakamega = {
+				}
+				b_bungoma = {
+				}
 			}
 			c_tato = {
 
@@ -70,7 +122,20 @@ e_kenya_ruvuma = {
 
 				b_tato = {
 				}
-
+				b_mara = {
+				}
+				b_musoma = {
+				}
+				b_sonjo = {
+				}
+				b_lemek = {
+				}
+				b_kaboson = {
+				}
+				b_ngorengore = {
+				}
+				b_ololulunga = {
+				}
 			}
 		}
 		d_dahalo = {
@@ -87,7 +152,20 @@ e_kenya_ruvuma = {
 
 				b_dahalo = {
 				}
-
+				b_pokomo = {
+				}
+				b_liboi = {
+				}
+				b_dif = {
+				}
+				b_dadaab = {
+				}
+				b_sabuli = {
+				}
+				b_spaju = {
+				}
+				b_habaswein = {
+				}
 			}
 			c_garee = {
 
@@ -96,7 +174,20 @@ e_kenya_ruvuma = {
 
 				b_garee = {
 				}
-
+				b_duse = {
+				}
+				b_tarba = {
+				}
+				b_wajir = {
+				}
+				b_el_ben = {
+				}
+				b_el_wak = {
+				}
+				b_ajao = {
+				}
+				b_buna = {
+				}
 			}
 			c_el_molo = {
 
@@ -105,7 +196,20 @@ e_kenya_ruvuma = {
 
 				b_el_molo = {
 				}
-
+				b_rendille = {
+				}
+				b_loiyangalani = {
+				}
+				b_kalacha = {
+				}
+				b_maikona = {
+				}
+				b_bubisa = {
+				}
+				b_kargi = {
+				}
+				b_choba = {
+				}
 			}
 
 		}
@@ -123,7 +227,20 @@ e_kenya_ruvuma = {
 
 				b_dadog = {
 				}
-
+				b_chagga = {
+				}
+				b_asax = {
+				}
+				b_arusha = {
+				}
+				b_monduli = {
+				}
+				b_machame = {
+				}
+				b_kingori = {
+				}
+				b_mererani = {
+				}
 			}
 			c_hatsa = {
 
@@ -132,7 +249,20 @@ e_kenya_ruvuma = {
 
 				b_hatsa = {
 				}
-
+				b_sinoni = {
+				}
+				b_endulen = {
+				}
+				b_seronera = {
+				}
+				b_kisesa = {
+				}
+				b_kilimi = {
+				}
+				b_somanda = {
+				}
+				b_lalago = {
+				}
 			}
 			c_asa = {
 
@@ -141,7 +271,20 @@ e_kenya_ruvuma = {
 
 				b_asa = {
 				}
-
+				b_bisil = {
+				}
+				b_mailua = {
+				}
+				b_lipatimmro = {
+				}
+				b_lianai = {
+				}
+				b_mashuru = {
+				}
+				b_kiu = {
+				}
+				b_konza = {
+				}
 			}
 			c_asu = {
 
@@ -150,7 +293,20 @@ e_kenya_ruvuma = {
 
 				b_asu = {
 				}
-
+				b_taita = {
+				}
+				b_pare = {
+				}
+				b_sangala = {
+				}
+				b_ndome = {
+				}
+				b_maktau = {
+				}
+				b_manyani = {
+				}
+				b_voi = {
+				}
 			}
 		}
 	}
@@ -175,7 +331,20 @@ e_kenya_ruvuma = {
 
 				b_ruvu = {
 				}
-
+				b_mbugua = {
+				}
+				b_magindu = {
+				}
+				b_chalinze = {
+				}
+				b_msolwa = {
+				}
+				b_msoga = {
+				}
+				b_kinonko = {
+				}
+				b_mikese = {
+				}
 			}
 			c_maa = {
 
@@ -184,7 +353,20 @@ e_kenya_ruvuma = {
 
 				b_maa = {
 				}
-
+				b_seuta = {
+				}
+				b_ndedo = {
+				}
+				b_handeni = {
+				}
+				b_mswaki = {
+				}
+				b_kwediboma = {
+				}
+				b_mgera = {
+				}
+				b_kijungu = {
+				}
 			}
 			c_iringa = {
 
@@ -193,7 +375,20 @@ e_kenya_ruvuma = {
 
 				b_iringa = {
 				}
-
+				b_kidatu = {
+				}
+				b_ifakara = {
+				}
+				b_idete = {
+				}
+				b_lupiro = {
+				}
+				b_mahenge = {
+				}
+				b_mwaya = {
+				}
+				b_ilonga = {
+				}
 			}
 			c_mwera = {
 
@@ -202,7 +397,20 @@ e_kenya_ruvuma = {
 
 				b_mwera = {
 				}
-
+				b_kimambi = {
+				}
+				b_barikiwa = {
+				}
+				b_hemedi = {
+				}
+				b_liwale = {
+				}
+				b_muira = {
+				}
+				b_njinjo = {
+				}
+				b_mnero = {
+				}
 			}
 		}
 		d_kwadza_iramba = {
@@ -219,7 +427,20 @@ e_kenya_ruvuma = {
 
 				b_kwadza = {
 				}
-
+				b_hehe = {
+				}
+				b_serya = {
+				}
+				b_kondoa = {
+				}
+				b_haubi = {
+				}
+				b_busi = {
+				}
+				b_goima = {
+				}
+				b_pahi = {
+				}
 			}
 			c_sandawe = {
 
@@ -228,7 +449,20 @@ e_kenya_ruvuma = {
 
 				b_sandawe = {
 				}
-
+				b_mgandu = {
+				}
+				b_itigi = {
+				}
+				b_sanjaranda = {
+				}
+				b_manyoni = {
+				}
+				b_chikola = {
+				}
+				b_majiri = {
+				}
+				b_kilimatinde = {
+				}
 			}
 			c_iramba = {
 
@@ -237,7 +471,20 @@ e_kenya_ruvuma = {
 
 				b_iramba = {
 				}
-
+				b_nyaturu = {
+				}
+				b_alagwa = {
+				}
+				b_burungi = {
+				}
+				b_irangi = {
+				}
+				b_ilongero = {
+				}
+				b_iguguno = {
+				}
+				b_singida = {
+				}
 			}
 		}
 	}

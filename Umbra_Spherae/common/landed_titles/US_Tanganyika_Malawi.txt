@@ -1,0 +1,469 @@
+e_tanganyika_malawi = {
+
+	color = { 118 160 108 }
+	color2 = { 250 250 250 }
+
+	capital = 2076 #Nkope
+
+	k_malawi_nyasa = {
+
+		color = { 230 80 80 }
+		color2 = { 250 250 250 }
+
+		capital = 2076 #Nkope
+
+		d_maravi = {
+
+			color = { 190 80 80 }
+			color2 = { 250 250 250 }
+
+			capital = 2076 #Nkope
+
+			c_nkope = {
+
+				color = { 200 90 80 }
+				color2 = { 250 250 250 }
+
+				b_nkope = {
+				}
+				b_nanyangu = {
+				}
+				b_kapeni = {
+				}
+				b_nankumba = {
+				}
+				b_nkopola = {
+				}
+				b_nankhwali = {
+				}
+				b_chembe = {
+				}
+				b_lizulu = {
+				}
+			}
+			c_zomba = {
+
+				color = { 200 100 80 }
+				color2 = { 250 250 250 }
+
+				b_zomba = {
+				}
+				b_namichimba = {
+				}
+				b_domasi = {
+				}
+				b_malosa = {
+				}
+				b_machinga = {
+				}
+				b_phalombe = {
+				}
+				b_liwonde = {
+				}
+				b_nsanama = {
+				}
+			}
+			c_thandwe_maravi = {
+
+				color = { 200 110 80 }
+				color2 = { 250 250 250 }
+
+				b_thandwe_maravi = {
+				}
+				b_chimuka = {
+				}
+				b_chasya = {
+				}
+				b_kasuwa = {
+				}
+				b_petauke = {
+				}
+				b_chataika = {
+				}
+				b_chassa = {
+				}
+				b_chilembwe = {
+				}
+			}
+			c_kamnama = {
+
+				color = { 200 120 80 }
+				color2 = { 250 250 250 }
+
+				b_kamnama = {
+				}
+				b_chintheche = {
+				}
+				b_chikangawa = {
+				}
+				b_mzimba = {
+				}
+				b_manyamula = {
+				}
+				b_edingeni = {
+				}
+				b_chasefu = {
+				}
+				b_lundazi = {
+				}
+			}
+		}
+		d_yao_nhanja = {
+
+			color = { 155 92 100 }
+			color2 = { 250 250 250 }
+
+			capital = 2070 #Yao
+
+			c_yao = {
+
+				color = { 165 102 100 }
+				color2 = { 250 250 250 }
+
+				b_yao = {
+				}
+				b_milepa = {
+				}
+				b_matchendje = {
+				}
+				b_kandulu = {
+				}
+				b_macalonge = {
+				}
+				b_chamba = {
+				}
+				b_mataca = {
+				}
+				b_valadim = {
+				}
+			}
+			c_nhanja = {
+
+				color = { 165 112 100 }
+				color2 = { 250 250 250 }
+
+				b_nhanja = {
+				}
+				b_lichinga = {
+				}
+				b_meponda = {
+				}
+				b_mirango = {
+				}
+				b_metangula = {
+				}
+				b_maniamba = {
+				}
+				b_demba = {
+				}
+				b_ajabo = {
+				}
+			}
+			c_kilombero = {
+
+				color = { 165 122 100 }
+				color2 = { 250 250 250 }
+
+				b_kilombero = {
+				}
+				b_songea = {
+				}
+				b_kitanda = {
+				}
+				b_mbinga = {
+				}
+				b_ludewa = {
+				}
+				b_liganga = {
+				}
+				b_madunda = {
+				}
+				b_miangali = {
+				}
+			}
+		}
+		d_makwa_lomwe = {
+
+			color = { 129 125 105 }
+			color2 = { 250 250 250 }
+
+			capital = 2073 #Makwa
+
+			c_makwa = {
+
+				color = { 139 135 105 }
+				color2 = { 250 250 250 }
+
+				b_makwa = {
+				}
+				b_montepuez = {
+				}
+				b_napaha = {
+				}
+				b_morrola = {
+				}
+				b_culue = {
+				}
+				b_balama = {
+				}
+				b_nungo = {
+				}
+				b_marrupa = {
+				}
+			}
+			c_lomwe = {
+
+				color = { 139 145 105 }
+				color2 = { 250 250 250 }
+
+				b_lomwe = {
+				}
+				b_nampula = {
+				}
+				b_mocuburi = {
+				}
+				b_namina = {
+				}
+				b_baciano = {
+				}
+				b_ribaue = {
+				}
+				b_iapala = {
+				}
+				b_lalaua = {
+				}
+			}
+			c_makonde = {
+
+				color = { 139 155 105 }
+				color2 = { 250 250 250 }
+
+				b_makonde = {
+				}
+				b_masasi = {
+				}
+				b_mikangaula = {
+				}
+				b_nangomba = {
+				}
+				b_likokona = {
+				}
+				b_negomane = {
+				}
+				b_masuguru = {
+				}
+				b_michiga = {
+				}
+			}
+		}
+	}
+	k_tanganyika = {
+
+		color = { 107 203 214 }
+		color2 = { 250 250 250 }
+
+		capital = 2069 #Waha
+
+		d_rukwa = {
+
+			color = { 54 224 227 }
+			color2 = { 250 250 250 }
+
+			capital = 2069 #Waha
+
+			c_waha = {
+
+				color = { 64 234 227 }
+				color2 = { 250 250 250 }
+
+				b_waha = {
+				}
+				b_lagosa = {
+				}
+				b_karema = {
+				}
+				b_sitalike = {
+				}
+				b_magamba = {
+				}
+				b_mpanda = {
+				}
+				b_ugalla = {
+				}
+				b_kisi = {
+				}
+			}
+			c_lapwa = {
+
+				color = { 64 244 227 }
+				color2 = { 250 250 250 }
+
+				b_lapwa = {
+				}
+				b_kalundi = {
+				}
+				b_izinga = {
+				}
+				b_mpasa = {
+				}
+				b_muzi = {
+				}
+				b_kasanga = {
+				}
+				b_sumbawanga = {
+				}
+				b_ntendo = {
+				}
+			}
+			c_kimbu = {
+
+				color = { 64 254 227 }
+				color2 = { 250 250 250 }
+
+				b_kimbu = {
+				}
+				b_kapalala = {
+				}
+				b_lukwati = {
+				}
+				b_ilungu = {
+				}
+				b_usule = {
+				}
+				b_inyonga = {
+				}
+				b_utende = {
+				}
+				b_malote = {
+				}
+			}
+		}
+		d_tumbuka = {
+
+			color = { 171 191 255 }
+			color2 = { 250 250 250 }
+
+			capital = 2080 #Mwabulambo
+
+			c_mwabulambo = {
+
+				color = { 181 201 255 }
+				color2 = { 250 250 250 }
+
+				b_mwabulambo = {
+				}
+				b_mwamasapa = {
+				}
+				b_nyakyusa = {
+				}
+				b_ngonde = {
+				}
+				b_nyiha = {
+				}
+				b_kyela = {
+				}
+				b_ipinda = {
+				}
+				b_kaporo = {
+				}
+			}
+			c_phopo = {
+
+				color = { 181 211 255 }
+				color2 = { 250 250 250 }
+
+				b_phopo = {
+				}
+				b_chilumba = {
+				}
+				b_chiweta = {
+				}
+				b_chelinda = {
+				}
+				b_rhumpi = {
+				}
+				b_chitango = {
+				}
+				b_mzuzu = {
+				}
+				b_usisya = {
+				}
+			}
+			c_nyamwanga = {
+
+				color = { 181 221 255 }
+				color2 = { 250 250 250 }
+
+				b_nyamwanga = {
+				}
+				b_chibesakunda = {
+				}
+				b_bulaya = {
+				}
+				b_matumbo = {
+				}
+				b_kalulu = {
+				}
+				b_chitumbwa = {
+				}
+				b_msitu = {
+				}
+				b_ndalama = {
+				}
+			}
+		}
+		d_nyamwezi_sukuma = {
+
+			color = { 180 191 202 }
+			color2 = { 250 250 250 }
+
+			capital = 2062 #Nyamwezi
+
+			c_nyamwezi = {
+
+				color = { 190 201 202 }
+				color2 = { 250 250 250 }
+
+				b_nyamwezi = {
+				}
+				b_tabora = {
+				}
+				b_sikonge = {
+				}
+				b_igalula = {
+				}
+				b_kwihara = {
+				}
+				b_tumbi = {
+				}
+				b_mabama = {
+				}
+				b_chali = {
+				}
+			}
+			c_sukuma = {
+
+				color = { 190 211 202 }
+				color2 = { 250 250 250 }
+
+				b_sukuma = {
+				}
+				b_kahama = {
+				}
+				b_isaka = {
+				}
+				b_ushetu = {
+				}
+				b_bukene = {
+				}
+				b_itobo = {
+				}
+				b_jomu = {
+				}
+				b_nzega = {
+				}
+			}
+
+		}
+	}
+}
