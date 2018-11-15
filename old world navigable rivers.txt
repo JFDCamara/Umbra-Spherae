@@ -1,0 +1,150 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf100
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Old World Navigable Rivers:\
+\
+Mesopotamia:\
+Euphrates River starting near Morhamam or Elazig\
+Tigris River starting near Mosul\
+Karun River starting near Algi\
+\
+Kura-Aras system:\
+Kura River starting near Mingachevir and flowing into the Caspian Sea\
+Aras River starting near Nakhchivan and flowing to meet with the Kura River near Sabirabad\
+\
+Canal of the Pharaohs:\
+Linking Suez Gulf with Nile River, in use from reign of Darius the Great until 767 AD\
+\
+Nile Extension:\
+White Nile extended to connect with Lake Albert\
+Victoria Nile connecting Lake Albert with Lake Kyoga\
+Victoria Nile connecting Lake Kyoga with Lake Victoria\
+Semliki River connecting Lake Edward with Lake Albert\
+Katonga River connecting Lake Victoria with Lake George\
+Kazinga Channel connecting Lake George with Lake Edward\
+\
+Congo River system:\
+Lualaba River starting around Bukama\
+Ruzizi River connecting Lake Kivu to Lake Tanganyika\
+Lukuga River connecting Lake Tanganyika with Lualaba River\
+Luvua River connecting Lake Mweru to Lualaba River\
+Lualaba River turning into Congo River around Ubundu\
+Congo River extending from Ubundu out to the Atlantic Ocean\
+Kasai River starting around Ilebo connecting with the Congo River\
+Sankuru River starting around Bakwanga (Mbuji-Mayi) and connecting with Kasai River\
+Lomami River starting near Kamina and connecting with the Congo River\
+Tshuapa River starting near Ikela and connecting with the Congo River\
+Ubangi River starting near Yakoma and connecting with the Congo River\
+\
+Lake Chad-Niger system:\
+Chari River starting near Sarh and connecting with Lake Chad\
+Logone River starting near Kim and connecting with Chari River near N\'92Djamena\
+Mayo Kebbi River either extending off of Logone River (Roman Era and Medieval Lake Chad was much larger than 19th century Lake Chad, and presence of Niger River and Atlantic fauna in the Chari River suggest a connection between Lake Chad and the Atlantic) or connected overland to each other\
+Mayo Kebbi River connecting with the Benue/Chadda River near Garoua\
+Benue/Chadda River connecting with the Niger River near Lokoja\
+Gongola River starting near Nafada and connecting with the Benue/Chadda River near Numan\
+Niger River Starting near Bamako and connecting with the Atlantic Ocean\
+\
+Zambezi System:\
+Zambezi River starting near the modern Lake Kariba and flowing out to the Indian Ocean\
+The Shire River flowing out from Lake Malawi and connecting with Zambezi River\
+\
+Orange River System:\
+Gariep\'92 River (Later named Orange by the English) starting downstream of Augrabies Falls and flowing out to the Atlantic Ocean\
+\
+Amur System:\
+Argun River staring near Lake Hulun and turning into the Amur River when converging with Shilka River, and flowing out to the Straight of Tartary\
+Shilka River starting where Onon and Ingoda Rivers meet. and converging with the Argun River to become the Amur River\
+Songhua River starting near Jilin City and converging with the Amur River\
+Ussuri River starting in Khanka Lake and meeting with the Amur River\
+Amgun River starting at its source (confluence of Ayakit and Suduk rivers) and merging with Amur River\
+Zeya River starting near Zeya City and merging into the Amur River\
+\
+Nakdong River:\
+Nakdong starting near Andong and flowing out to the Ocean\
+\
+Yalu/Amnok River:\
+Starting near Chunggang and flowing out to the Ocean\
+\
+Siberia:\
+Ob River starting near Novosibirsk and connecting with Gulf of Ob\
+Add Gulf of Ob and connect it with Kara Sea\
+Angara River starting at Lake Baikal and connecting with the Yenisei River\
+Yenisei River starting near Abakan and connecting with the Arctic Ocean\
+Add Yenisei Sea and connect with Gulf of Ob\
+Lena River starting near Lake Baikal and connected to Lake Baikal overland, with Lena River emptying extending out to the Arctic Ocean\
+Split the Eastern Siberian Sea province in half, and make the western section a new province called Kolyma Gulf\
+Kolyma River starting near Sinegorye and flowing out into the new Kolyma Gulf\
+Add Lena Sea and connect with Yenisei Sea and Kolyma Gulf\
+Omolon River starting near Omolon until it connects with Kolyma River\
+\
+British Isles:\
+River Thames starting near Oxford and flowing out to the North Sea\
+River Severn starting near Shrewsbury and flowing out to the Bristol Channel\
+River Ouse starting near York and turning into the Humber\
+River Shannon starting in Lough Allen and flowing out into the Shannon Esturary\
+\
+Spain/Portugal:\
+Guadalquivir starting near Cordoba and flowing into the Ocean\
+Tagus starting near Toledo and flowing into the Ocean near Lisbon\
+Ebro starting near Tudela and flowing out into the Med. Sea\
+Douro River near Valladolid and flowing out into the Ocean\
+Tormes starting near Salamanca until converging with the Douro River\
+\
+Italy:\
+Po River starting near Pavia and flowing out into the Adriatic Sea\
+\
+France:\
+Rhone River starting near Lyon\
+Meuse River starting near Verdun and flowing to converge with the Rhine\
+\
+Germany/Poland:\
+Oder River starting near Kedzierzyn-Kozle\
+\
+SE Asia:\
+Chao Phyaya River starting near Nakhon Sawan and flowing out to the Gulf of Thailand\
+Irrawaddy River starting near Bhamo and flowing out into the Andaman Sea\
+Chindwin River starting near Mingin until it combines with Irrawaddy River\
+Thanlyin River starting near Hpasawng and flowing out in the Andaman Sea\
+Lancing River starting near Simaogangzhen and turning into the Mekong River starting near Ban Mau, and continuing its flow out into the East Vietnam Sea\
+Tonle Sap River staring in Tonle Sap and connecting with the Mekong River\
+Yuanjiang/Red River starting near Dong\'92ezhen and flowing out into the South China Sea\
+Da River starting near Murong Lay until it combines with the Red River\
+\
+Pearl (Zhu) River System, China:\
+You River starting near Baise, turning into the Yong River near Nanning, turning into the Yu River near Liujingzhen, turning into the Xun River near Guiping, turning into the Xi River near Wuzhou and flowing out to the South China Sea\
+Bei River starting near Shaoguan, converging with the Xijiang River near Sanshui, but also flowing out to the South China Sea through the Dongping Waterway\
+Jiuqu River starting with the Bei River near Sizhou, becoming the Zhu (Pearl) River near Jinyecun, and flowing out to the South China Sea via the Shizi Ocean\
+Dong River starting near Longchuan, flowing to connect with the Zhu (Pearl) River near Dongguan\
+Sui River starting near Guilin and merging with the Xun river near Wuzhou\
+He River starting near Hezhou and merging with the Xun River near Wuzhou\
+Hongshui River starting near Hongduzhen and turning into the Qian River near Huangmaozhen, which later merges with the Xun River near Guiping\
+Rong River starting near Rong\'92an, which turns into the Liu River near Liuzhou, and later combines with the Qian River near Huangmaozhen\
+Some of the various tributaries of the Pearl River Delta near Guangzhou\
+\
+Yangtze River System:\
+Jinsha River starting near Panzhihua, turning into the Changjiang (ancient name for Yangtze) near Yibin all the way to its mouth in the Ocean\
+Min River starting near Chengdu until it converges with Jinsha near Yibin to for the Changjian (Yangtze)\
+Xiang River starting near Zhuzhou, flowing past Changsha and into Dongting Lake, and connecting with the Yangtze River\
+Gan River starting near Ji\'92an, flowing past Nanchang an into Poyang Lake and connecting with the Yangtze River\
+Tai Lake connected to the mouth of the Yangtze River via a canal\
+Chao Lake connected to the Yangtze River via Yuxi River\
+\
+Huang (Yellow) River and Chinese Grand Canal System:\
+(Lower) Huang River starting near Hukou Falls near Yichuan, and flowing its course out to the sea\
+(Upper) Huang River starting near Lanzhou and flowing down until Hukou Falls, being connected by land with the lower section of the Yellow River\
+Wei River starting near Baoji, Shaanxi, flowing to converge with the Huang River at Hangu Pass\
+Huai River starting near Huainan and following its course to converge with the Yangtze River through Lakes Hongze and Gaoyou\
+Tonghui River starting near Beijing and flowing out to the Bahai Sea\
+Various sections of the Chinese Grand Canal: for reference, check Wikipedia: https://en.wikipedia.org/wiki/Grand_Canal_(China) and this map: https://upload.wikimedia.org/wikipedia/commons/e/ee/Grand-Canal.png\
+\
+Liao River:\
+Liao River starting near Tieling an flowing out into the Bohai Sea\
+\
+Australia:\
+Murray River (could be named Ngurunderi after the native myth story of the river) starting near Wodonga and flowing out to the Ocean\
+}
