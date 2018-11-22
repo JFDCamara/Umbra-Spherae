@@ -1,0 +1,176 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf100
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 New World (Americas) Navigable Rivers:\
+\
+Great Lakes System:\
+Kaniatarowanenneh (St. Lawrence) River starting in North Eastern Lake Ontario and flowing into the Atlantic Ocean\
+Pitawbagok (Richelieu) River connecting Lake Champlain with the St. Lawrence River\
+Separated sections of the Niagara River connecting Lakes Ontario and Erie, connected with each other via a portage road (used by natives and colonists alike until the building of the Welland Canal)\
+Otsiketa (Detroit) and Waawiyaataan (St. Clair) Rivers connecting Lakes Erie, Waawiyaataan (St. Clair) and Huron\
+Baawirigong (St. Mary\'92s) River connecting Lakes Huron and Superior\
+Pigeon River (need to find a native name) connecting with Gojiji-zaaga\'92igan (Rainy) Lake which connects via the Gojiji-ziibi (Rainy) River to Lake Minitie (Lake of the Woods)\
+Connection of Lake Minitie (Lake of the Woods) with Lake Winnipeg via the Winnipeg River\
+Lake Winnipeg flowing out into the Hudson Bay via the Sipiwesk (Nelson) River\
+Lakes Winnipegosis and Manitoba connected to Lake Winnipeg via the Pineimuta (Dauphin) River\
+Nakota (Red) River flowing from near Grand Forks into Lake Winnipeg\
+Asiniibwaan (Assiniboine) River flowing from near St-Lazare until merging with the Nakota (Red) River\
+Saskatchewan River starting near Medicine Hat and flowing into Lake Winnipeg via Cedar Lake\
+Omakaty (North Saskatchewan) River starting near Edmonton and converging with the Saskatchewan River\
+Hudson River starting near Glens Falls, NY and flowing out into the Manhattan Bay\
+Hudson River connected to Lake George/Lake Champlain overland via a portage road\
+Piekuakami Lake (Lac Saint-Jean) flowing out into the Kaniatarowanenneh (St. Lawrence) River via the Piekuakami (Saguenay) River\
+Lake Animbiigoong (Nipigon) connected to Lake Superior via the Animbiigoong (Nipigon) River\
+Apistatikkus (Reindeer) Lake flowing south out through the Apistatikkus (Reindeer) River, where it merges with the Missinipi (Churchill) River until it reaches the Hudson Bay\
+Opawikoscikcan (Sturgeon-Weir) River connecting the Missinipi (Churchill) and Saskatchewan Rivers in order to simulate the interconnected Lakes and Rivers between the two Rivers\
+Denesuline River simulating the Fond du Lac and Cochrane Rivers, connecting Lakes Apistatikkus (Reindeer) and Athabasca\
+Athabasca River starting near Athabasca, Alberta, and flowing into Lake Athabasca (also connected overland to the beginning of the Omakaty (North Saskatchewan) River near Edmonton)\
+Dene Tha (Slave) River connecting Lake Athabaska with Lake Dehocho (Great Slave Lake)\
+Danezaa (Peace) River starting near Peace River, Alberta and flowing into the Dene Tha (Slave) River\
+Dehocho (Mackenzie) River flowing north out of Lake Dehocho (Great Slave Lake) and into the Arctic Ocean\
+Lake Sahtu (Great Bear Lake) connected to the Dehocho (Mackenzie) River via the Sahtu (Great Bear) River\
+Ottawa River starting in Lake Timiskaming and flowing to converge with the Kaniatarowanenneh (St. Lawrence) River near modern Montreal\
+Mattawa River connecting Lake Nipissing with the Ottawa River\
+Wemitigoj-Sibi (French) River connecting Lakes Nipissing and Huron\
+\
+Delaware River:\
+Delaware River starting near Trenton, NJ and flowing out into Delaware Bay\
+\
+Chesapeake System:\
+Potomac River starting near Hancock, MA and flowing into the Chesapeake Bay\
+Susquehanna River starting near Pittston, PA and flowing into the Chesapeake Bay\
+Powhatan (James) River starting near Lynchburg, VA and flowing into the Chesapeake Bay\
+\
+Santee River:\
+Congaree River starting near Columbia, SC and turning into the Santee River when met by the Wateree River\
+\
+Savannah River:\
+Sawanoki (Savannah) River starting near Hartwell, GA and flowing into the Atlantic Ocean\
+\
+Columbia River System:\
+Shonitkwu (Columbia) River starting near Kettle Falls, WA, and flowing into the Pacific Ocean\
+Kimooenim (Snake) River starting near Shoshone Falls and connecting with the Shonitkwu (Columbia) River\
+\
+Sacramento River:\
+Nisenan (Sacramento) River starting near Yuba City, CA and flowing out into the San Francisco Bay\
+\
+Susitna River:\
+Susitnu (Susitna) River starting near Talkeetna, Alaska and flowing into the Pacific Ocean\
+\
+Yukon River:\
+Kuigpak (Yukon) River starting near Tanana, Alaska\
+\
+Mississippi River System:\
+Misizipi (Mississippi) River starting near Minneapolis, MN and flowing down out into the Gulf of Mexico\
+Pekitanoui (Missouri) River starting near Bismark, ND flowing to converge with the Misizipi (Mississippi) River\
+Akansa (Arkansas) River starting near Wichita, KS and flowing to converge with the Misizipi (Mississippi) River\
+Bah\'92hatteno (Red) River starting near Sherman, TX and flowing to converge with the Misizipi (Mississippi) River\
+Inoka (Illinois) River starting near Chicago and connected to Lake Michigan via a overland Portage Road\
+Ohiyo\'92 (Ohio) River starting near Pittsburgh, PA and flowing to converge with the Misizipi (Mississippi) River\
+\
+Colorado River:\
+\'91Aha Kwahwat (Colorado) River starting near Grand Junction, CO and flowing south into the Gulf of California\
+\
+Rio Grande:\
+Kotsoi (Rio Grande) River starting near Albuquerque, NM and flowing out into the Gulf of Mexico\
+\
+Usumacinta River:\
+Usumacinta River starting near Playitas, Guatemala and flowing into the Gulf of Mexico\
+\
+Lake Nicaragua:\
+Lake Xolotlan (Managua) connected to Lake Cocibolca (Nicaragua) via the Tipitapa River\
+Lake Cocibolca (Nicaragua) flowing out into the Caribbean Sea via the Cocibolca (San Juan) River\
+Overland Portage Road connecting Lake Cocibolca (Nicaragua) with the Pacific Ocean\
+\
+Magdalena River:\
+Yuma (Magdalena) River starting near Girardot, Columbia and flowing out into the Caribbean Sea\
+\
+Orinoco River System:\
+Orinoco River starting near Yapacana National Park and flowing out to the Ocean via the various routes of the Orinoco Delta\
+Guayupe (Meta) River starting near Yurimena, Columbia and flowing into the Orinoco River\
+Kukenan (Caroni) River starting near Uriman, Venezuela and flowing into the Orinoco River\
+Inirida River starting near Morichal, Columbia and flowing into the Orinoco River\
+Ariari River starting near Granada, Meta, Columbia and turning into the Guaviare River near Puerto Arturo, Columbia and from there flowing into the Orinoco River\
+\
+Essequibo River System:\
+Essequibo River starting near Kumaka, Guyana and flowing out into the Ocean\
+Mazaruni River starting near Issano, Guyana and flowing into the Essequibo River\
+Cuyuni River starting near El Dorado, Venezuela and flowing into the Essequibo River\
+\
+Courantyne River:\
+Courantyne River starting near Matapi, Suriname and flowing into the Ocean\
+\
+Maroni River:\
+Maroni River starting near Maripasoula, French Guiana and flowing into the Ocean\
+Tapanahony River starting near Apetina, Suriname and flowing into the Maroni River\
+\
+Oyapok River:\
+Oyapok River starting near Campoi, French Guiana and flowing into the Ocean\
+\
+Amazon River System:\
+Ucayali River starting near Pucallpa and turning into the Marajoara (Amazon) River near Iquitos and flowing out into the Atlantic Ocean\
+Shuar (Maranon) River starting near Jaen, Peru and flowing into the Ucayali River\
+Caqueta River starting near Puetro Pizzarro, Columbia and turning into the Japura River near Puerto Cordoba, Columbia, and from there flowing into the Amazon River\
+Cuembi (Putumayo and Ica Rivers) River flowing from near Cuembi, Columbia and into the Amazon\
+Jurua River flowing from Ipixuna, Brazil and into the Amazon\
+Napo River flowing from near Coca, Equador and into the Amazon\
+Guainia (Negro) River starting near Nanquen, Columbia and flowing into the Amazon River\
+Casiquiare River connecting the Guainia (Negro) River and Orinoco Rivers together\
+Takutu (Branco) River starting near Lethem, Guyana and flowing into the Guainia (Negro) River\
+Uaupes (Vaupes) Rivers starting near La Florida, Columbia and flowing into the Guainia (Negro) River\
+Xingu River starting near Suia, Mato Grosso, Brazil and flowing into the Amazon River\
+Iriri River starting near Reserva Extrativista Riozinho, Brazil and flowing into the Xingu River\
+Mamore River starting near Puerto Pailas, Bolivia and turning into the Cuyari (Madeira) River near Villa Bella, Bolivia\
+Itenez (Guappore) River starting near Galerinha, Mato, Brazil and flowing into the Mamore River\
+Mazuco (Madre de Dios) River starting Mazuco, Peru and flowing into the Cuyari (Madeira) River\
+Beni River starting near Rurrenabaque, Bolivia and flowing into the Mazuco (Madre de Dios) River\
+Tapajos River starting near Viuva, Mato Grosso, Brazil and flowing into the Amazon River\
+Juruena River starting near Fontanillas, Mato Grosso, Brazil and flowing into the Tapajos River\
+Tocantins River starting near Jaragua, Goias, Brazil and flowing into the Amazon Delta\
+Araguaia River starting near Barra do Garcas, Mato Grosso, Brazil and flowing into the Tocantins River\
+Purus River starting near Esperanza, Peru and flowing into the Amazon River\
+Aquiri (Acre) River starting near Rio Branco, Acre, Brazil and flowing into the Purus River\
+\
+Parana River System:\
+Opara (Sao Francisco) River starting near Tres Marias, Minas Gerais, Brazil and flowing out into the Atlantic Ocean\
+Parana River (also Rio Grande) starting near Lavras, Minas Gerais, Brazil, and from there flowing out to the Ocean in the Rio de la Plata\
+Paranaiba River starting near Patos de Minas, Minas Gerais, Brazil (connecting with the start of the Opara (Sao Francisco) River via an overland portage road) flowing down until it merges with the Parana River near Aparecida do Taboado\
+Tiete River starting near Sao Paulo, Brazil (connected to the Ocean via a portage road) and flowing into the Parana River\
+Paranapanema River starting near Paranapanema, Brazil and flowing into the Parana River\
+Iguazu River starting near Curitiba, Brazil and flowing into the Parana River\
+Paraguai (Paraguay) River starting near Caceres, Mato Grosso, Brazil and flowing into the Parana River\
+Pillkumayu (Pilcomayo) River starting near Villamontes, Bolivia and flowing into the Parana River\
+Ypita (Bermejo) River starting near Bermejo, Bolivia and flowing into the Parana River\
+Tucuman (Salado) River starting near Macapillo, Argentina and flowing into the Parana River\
+Charrua (Salado del Sur) River starting in Laguna las Flores Grande and flowing into the Rio de la Plata\
+Uruguay River starting near Estrela, Brazil and flowing into the Parana River near the Rio de la Plata\
+Ibicui River starting near Cacequi, Brazil and flowing into the Uruguay River\
+Acegua (Negro) River starting near Bage, Brazil and flowing into the Uruguay River\
+Yi River starting near Cerro Chato, Uruguay and flowing into the Acegua (Negro) River\
+Tacuarembo River starting near Ansina, Uruguay and flowing into the Acegua (Negro) River\
+\
+Guaiba River system:\
+Jacui River starting near Ibiruba, Brazil and turning into the Guaiba River near Porto Alegre, Brazil and flowing into the Lagoa dos Patos\
+Taquari River starting near Tuiuti, Brazil and flowing into the Jacui River\
+\
+Colorado River system:\
+Tinguiririca (Colorado and Grande Rivers) River starting near Bardas Blancas, Mendoza, Argentina and flowing into the Ocean\
+Desaguadero River starting near Encon, Argentina and flowing into the Tinguiririca (Colorado) River\
+\
+Neuquen (Negro) River system:\
+Neuquen (Negro) River starting near Chaos Malal, Neuquen, Argentina and flowing its course into the Ocean\
+Limay River starting near Paso Flores, Rio Negro, Argentina and flowing into the Neuquen (Negro) River\
+\
+Chupat (Chubut) River system:\
+Chupat (Chubut) River starting near Paso del Sapo, Chubut, Argentina\
+Otron River flowing between Lakes Otron (Musters) and Colhue Huapi\
+Colhue Huapi (Chico) River flowing out of Lake Colhue Huapi and into the Chupat (Chubut) River\
+\
+Santa Cruz River:\
+Lake Chalten (Argentino) flowing out into the Ocean via the Chalten (Santa Cruz) River\
+\
+}
