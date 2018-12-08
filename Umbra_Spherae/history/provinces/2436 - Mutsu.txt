@@ -12,7 +12,7 @@ b_tosaminato = city
 #b_toba = castle
 #b_iwate = castle
 #b_tsugaru = castle
-#b_kita = castle
+#b_kita_mutsu = castle
 #b_sannohe = castle
 #b_waga = castle
 

@@ -1,0 +1,21 @@
+# 1216 - Bima
+
+# County Title
+title = c_bima
+
+# Settlements
+max_settlements = 3
+b_dompo = tribal
+b_bima_bima = tribal
+#b_sapi =
+#b_huu =
+#b_gerampi =
+#b_sebaru =
+#b_kawinda =
+#b_dorokaloko =
+
+# Misc
+culture = tenggaran
+religion = flores_religion
+
+# History

@@ -1,4 +1,4 @@
-﻿# Geographical regions
+# Geographical regions
 # Regions can be declared with one or more of the following fields:
 #	duchies = { }, takes duchy title names declared in landed_titles.txt
 #	counties = { }, takes county title names declared in landed_titles.txt
@@ -46,7 +46,7 @@ world_europe_north = {
 		d_karelia d_finland
 		#Denmark
 		d_skane d_sjaelland d_slesvig d_holstein
-		#Sápmi
+		#S�pmi
 		d_kola d_finnmark d_sapmi
 		#Greenland
 		d_tuniit_nunaat # Umbra Spherae

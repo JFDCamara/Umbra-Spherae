@@ -7,7 +7,7 @@ title = c_iwami
 max_settlements = 4
 b_naka = castle
 b_kanoashi = castle
-b_mino = castle
+b_mino_iwami = castle
 
 #b_oochi = castle
 #b_nima = castle

@@ -3,20 +3,20 @@ e_anchuhu = {
     	color = { 253 204 32 }
     	color2 = { 255 255 255  }
 
-	capital = 1624 # Yongcheon
+	capital = 2938 # Yongcheon
 
 	k_silla = {
 
     		color = { 92 150 94 }
    		color2 = { 255 255 255 }
 
-		capital = 1621 # Sang
+		capital = 2935 # Sang
 	
 		culture = silla
 	
 		d_gaya = {
 
-			capital = 1505 # Gang
+			capital = 2819 # Gang
 	
 			culture = gaya
 
@@ -30,7 +30,7 @@ e_anchuhu = {
 		color = { 66 140 176 }
 		color2 = { 255 255 255  }
 
-		capital = 1613 # Gwang
+		capital = 2927 # Gwang
 	
 		culture = baekje
 	}
@@ -40,7 +40,7 @@ e_anchuhu = {
 		color = { 100 198 195 }
 		color2 = { 255 255 255  }
 
-		capital = 1607 # Bukgye
+		capital = 2921 # Bukgye
 	
 		culture = guryeo
 	}
@@ -50,7 +50,7 @@ e_anchuhu = {
     		color = { 141 109 167 }
     		color2 = { 255 255 255  }
 
-			capital = 1624 # Yongcheon
+			capital = 2938 # Yongcheon
 			
 			culture = guryeo
 			buyeo = "Buyeo"
@@ -63,7 +63,7 @@ e_anchuhu = {
     			color = { 102 109 174 }
     			color2 = { 255 255 255  }
 
-				capital = 1624 # Yongcheon
+				capital = 2938 # Yongcheon
 				
 				han = "Shangjing"
 				mohe = "Sushen"
@@ -197,7 +197,7 @@ e_anchuhu = {
 		}
 		d_buyeo = {
 
-			capital = 1629 # Buyeo
+			capital = 2943 # Buyeo
 			
 			culture = buyeo
 
@@ -261,7 +261,7 @@ e_anchuhu = {
 		}
 		d_donggyeong = {
 
-			capital = 1604 # Anwon
+			capital = 2918 # Anwon
 
     			color = { 155 140 166 }
     			color2 = { 255 255 255  }
@@ -350,7 +350,7 @@ e_anchuhu = {
 		}
 		d_jungnyeong = {
 
-			capital = 1628 # Jangnyeong
+			capital = 2942 # Jangnyeong
 
     			color = { 209 172 210 }
     			color2 = { 255 255 255  }
@@ -408,7 +408,7 @@ e_anchuhu = {
     			color = { 172 168 215 }
     			color2 = { 255 255 255  }
 
-			capital = 1627 # Amnok
+			capital = 2941 # Amnok
 			
 			han = "Yanbian"
 
@@ -462,7 +462,7 @@ e_anchuhu = {
     			color = { 120 78 146 }
     			color2 = { 255 255 255  }
 
-			capital = 1626 # Namhae
+			capital = 2940 # Namhae
 			
 			han = "Wozhao"
 			mohe = "Olgi"
@@ -515,7 +515,7 @@ e_anchuhu = {
 	}
 	k_jurchens = {
 
-		capital = 1641 # Ghuad-neng
+		capital = 2955 # Ghuad-neng
 
 		color={ 147 147 147 }
 		color2={ 255 255 255 }
@@ -525,7 +525,7 @@ e_anchuhu = {
 
 		d_girin_ula = {
 
-			capital = 1524 # Ghuad-neng
+			capital = 2838 # Ghuad-neng
 
 			color={ 114 114 114 }
 			color2={ 255 255 255 }
@@ -562,7 +562,7 @@ e_anchuhu = {
 		}
 		d_sahaliyan_ula = {
 
-			capital = 1605 # Hurha
+			capital = 2919 # Hurha
 
 			color={ 78 78 78 }
 			color2={ 255 255 255 }
@@ -597,7 +597,7 @@ e_anchuhu = {
     		color = { 26 53 177 }
     		color2 = { 255 255 255  }
 
-		capital = 1610 # Gyeonggi
+		capital = 2924 # Gyeonggi
 		
 		silla = "Silla"
 		guryeo = "Guryeo"
@@ -613,7 +613,7 @@ e_anchuhu = {
 				
 			silla = "Hanju"
 
-			capital = 1610 # Gyeonggi
+			capital = 2924 # Gyeonggi
 
 			c_gyeonggi = {
 		
@@ -709,7 +709,7 @@ e_anchuhu = {
     			color = { 56 53 177 }
     			color2 = { 255 255 255  }
 
-			capital = 1611 # Gyo
+			capital = 2925 # Gyo
 			
 			silla = "Sakju"
 		
@@ -765,7 +765,7 @@ e_anchuhu = {
     			color = { 63 180 168 }
     			color2 = { 255 255 255  }
 
-			capital = 1613 # Gwang
+			capital = 2927 # Gwang
 			
 			silla = "Ungju"
 
@@ -859,7 +859,7 @@ e_anchuhu = {
     			color = { 86 121 156 }
     			color2 = { 255 255 255  }
 
-			capital = 1617 # Jeon
+			capital = 2931 # Jeon
 			
 			silla = "Muju"
 		
@@ -937,7 +937,7 @@ e_anchuhu = {
 			color = { 80 128 145 }
 			color2 = { 255 255 255  }
 				
-			capital = 1620 # Jeon
+			capital = 2934 # Jeon
 			
 			culture = tamna
 			
@@ -963,7 +963,7 @@ e_anchuhu = {
     			color = { 95 148 126 }
     			color2 = { 255 255 255 }
 
-			capital = 1621 # Sang
+			capital = 2935 # Sang
 			
 			silla = "Saro"
 
@@ -1060,7 +1060,7 @@ k_dan_gur = {
 	color = { 131 119 199 }
 	color2 = { 255 255 255  }
 
-	capital = 1624 # Yongcheon
+	capital = 2938 # Yongcheon
 
 	culture = khitan
 
@@ -1070,7 +1070,7 @@ k_dan_gur = {
 
 k_tataar =  {
 	color = { 218 165 32 }
-	capital = 1970 #Kerlen
+	capital = 3284 #Kerlen
 
 	tribe = yes
 	allow = {
@@ -1094,7 +1094,7 @@ d_bargu = {
 
 d_ongud = {
 	color = { 255 150 0 }
-	capital = 1986 #Khara Narin Ula
+	capital = 3300 #Khara Narin Ula
 
 	tribe = yes
 	allow = {
@@ -1118,7 +1118,7 @@ d_khori_tumed = {
 
 d_zubu = {
 	color = { 178 34 34 }
-	capital = 1985 #Dornogobi
+	capital = 3299 #Dornogobi
 
 	tribe = yes
 	allow = {
@@ -1131,7 +1131,7 @@ d_zubu = {
 
 d_mongol = {
 	color = { 99 166 204 }
-	capital = 1969 # Onon
+	capital = 3283 # Onon
 
 	tribe = yes
 	allow = {
@@ -1143,7 +1143,7 @@ d_mongol = {
 
 k_kereid = {
 	color = { 178 34 34 }
-	capital = 1985 #Dornogobi
+	capital = 2199 #Dornogobi
 
 	tribe = yes
 	allow = {

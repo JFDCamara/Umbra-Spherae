@@ -103,7 +103,7 @@ b_tosaminato;Tosaminato;;;;;;;;;;;;;x
 b_hei;Hei;;;;;;;;;;;;;x
 b_iwate;Iwate;;;;;;;;;;;;;x
 b_tsugaru;Kita;;;;;;;;;;;;;x
-b_kita;Kita;;;;;;;;;;;;;x
+b_kita_mutsu;Kita;;;;;;;;;;;;;x
 b_sannohe;Sannohe;;;;;;;;;;;;;x
 b_waga;Waga;;;;;;;;;;;;;x
 b_akita;Akita;;;;;;;;;;;;;x
@@ -316,7 +316,7 @@ b_yasuna;Yasna;;;;;;;;;;;;;x
 b_mitsuki;Mitsuki;;;;;;;;;;;;;x
 b_naka;Naka;;;;;;;;;;;;;x
 b_kanoashi;Kanoashi;;;;;;;;;;;;;x
-b_mino;Mino;;;;;;;;;;;;;x
+b_mino_iwami;Mino;;;;;;;;;;;;;x
 b_oochi;Oochi;;;;;;;;;;;;;x
 b_nima;Nima;;;;;;;;;;;;;x
 b_masuda;Masuda;;;;;;;;;;;;;x

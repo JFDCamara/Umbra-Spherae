@@ -3,7 +3,7 @@ e_bagan = {
     	color= { 123 216 251 }
     	color2= { 255 255 255 }
 
-	capital = 1694 #Bagan
+	capital = 3008 #Bagan
 
 	k_bagan = {
 
@@ -12,14 +12,14 @@ e_bagan = {
 
 		culture = bamar
 
-		capital = 1694 #Bagan
+		capital = 3008 #Bagan
 
 		d_bagan = {
 
     			color= { 136 251 234 }
 	    		color2= { 255 255 255 }
 
-			capital = 1694 #Bagan
+			capital = 3008 #Bagan
 
 			c_bagan = {
 
@@ -142,7 +142,7 @@ e_bagan = {
     			color= { 138 159 251 }
     			color2= { 255 255 255 }
 
-			capital = 1692 #Vaisali
+			capital = 3006 #Vaisali
 
 			c_waithali = {
 
@@ -216,7 +216,7 @@ e_bagan = {
     			color= { 138 249 166 }
     			color2= { 255 255 255 }
 
-			capital = 1748 #Tagaung
+			capital = 3062 #Tagaung
 
 			c_tagaung = {
 
@@ -290,7 +290,7 @@ e_bagan = {
     			color= { 155 193 232 }
     			color2= { 255 255 255 }
 
-			capital = 1752 #Yawnghwe
+			capital = 3066 #Yawnghwe
 
 			c_yawnghwe = {
 
@@ -389,14 +389,14 @@ e_bagan = {
 
 		culture = mon
 
-		capital = 1696 #Pegu
+		capital = 3010 #Pegu
 
 		d_pegu = {
 
     			color= { 115 162 148  }
     			color2= { 255 255 255 }
 
-			capital = 1696 #Pegu
+			capital = 3010 #Pegu
 
 			c_pegu = {
 
@@ -492,7 +492,7 @@ e_bagan = {
     			color= { 112 176 100  }
     			color2= { 255 255 255 }
 
-			capital = 1754 #Taungoo
+			capital = 3068 #Taungoo
 
 			c_taungoo = {
 
@@ -566,7 +566,7 @@ e_bagan = {
     			color= { 89 187 138  }
     			color2= { 255 255 255 }
 
-			capital = 1698 #Martaban
+			capital = 3012 #Martaban
 
 			c_martaban = {
 
@@ -688,7 +688,7 @@ d_binnaka = {
 	color= { 157 155 200  }
 	color2= { 255 255 255 }
 
-	capital = 1695 #Kyaukse
+	capital = 3009 #Kyaukse
 
 }
 
@@ -697,7 +697,7 @@ d_halin = {
 	color= { 126 211 86  }
 	color2= { 255 255 255 }
 
-	capital = 1693 #Khampat
+	capital = 3007 #Khampat
 
 }
 
@@ -706,7 +706,7 @@ d_tagaung = {
 	color= { 60 140 57  }
 	color2= { 255 255 255 }
 
-	capital = 1748 #Tagaung
+	capital = 3062 #Tagaung
 
 }
 
@@ -715,7 +715,7 @@ d_maingmaw = {
 	color= { 228 253 130  }
 	color2= { 255 255 255 }
 
-	capital = 1752 #Yawnghwe
+	capital = 3066 #Yawnghwe
 
 }
 
@@ -724,7 +724,7 @@ d_beikthano = {
 	color= { 197 131 187  }
 	color2= { 255 255 255 }
 
-	capital = 1747 #Minbu
+	capital = 3061 #Minbu
 
 }
 
@@ -733,7 +733,7 @@ d_sri_ksetra = {
 	color= { 228 166 50  }
 	color2= { 255 255 255 }
 
-	capital = 1746 #Prome
+	capital = 3060 #Prome
 
 }
 
@@ -745,6 +745,6 @@ d_dagon = {
 	color= { 168 179 198  }
 	color2= { 255 255 255 }
 
-	capital = 1697 #Dagon
+	capital = 3011 #Dagon
 
 }

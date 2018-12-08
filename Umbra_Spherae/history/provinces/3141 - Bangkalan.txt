@@ -1,0 +1,21 @@
+# 1196 - Bangkalan
+
+# County Title
+title = c_bangkalan
+
+# Settlements
+max_settlements = 6
+b_geger_bangkalan = castle
+b_bangkalan = city
+b_arosbaya = temple
+b_klampis = city
+#b_sepuluh =
+#b_tanah_merah_bangkalan =
+#b_kwanyar =
+#b_modung =
+
+# Misc
+culture = javanese
+religion = hindu
+
+# History

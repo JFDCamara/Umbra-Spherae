@@ -1,662 +1,421 @@
-e_zimbabwe_mutapa
+e_tanganyika_malawi
 
 
 
-k_zimbabwe
+k_malawi_nyasa
 
 
 
-d_zimbabwe_buhera
+d_maravi
 
 
 
-c_zimbabwe
+c_nkope
 
 
 
-b_zimbabwe
+b_nkope
 
-b_nenga
+b_nanyangu
 
-b_majiri
+b_kapeni
 
-b_musimbira
+b_nankumba
 
-b_masvingo
+b_nkopola
 
-b_ndadza
+b_nankhwali
 
-b_mashava
+b_chembe
 
-b_ngomahuru
+b_lizulu
 
 
+c_zomba
 
-c_matendera
 
 
+b_zomba
 
-b_matendera
+b_namichimba
 
-b_chirongwa
+b_domasi
 
-b_muchuchu
+b_malosa
 
-b_kagumbudzi
+b_machinga
 
-b_dorowa
+b_phalombe
 
-b_gunde
+b_liwonde
 
-b_murambinda
+b_nsanama
 
-b_chitsa
 
+c_thandwe_maravi
 
 
-c_chibvumani
 
+b_thandwe_maravi
 
-b_chibvumani
+b_chimuka
 
-b_chimanimani
+b_chasya
 
-b_chipinge
+b_kasuwa
 
-b_gogoi
+b_petauke
 
-b_sussundenga
+b_chataika
 
-b_nyanyadzi
+b_chassa
 
-b_chibuwe
+b_chilembwe
 
-b_dombe
 
+c_kamnama
 
 
-d_mapungubwe
 
+b_kamnama
 
+b_chintheche
 
-c_mapungubwe
+b_chikangawa
 
+b_mzimba
 
+b_manyamula
 
-b_mapungubwe
+b_edingeni
 
-b_bambandyanalo
+b_chasefu
 
-b_machemma
+b_lundazi
 
-b_maramani
 
-b_raditshaba
 
-b_makado
+d_yao_nhanja
 
-b_chamumnanga
 
-b_lutombe
 
+c_yao
 
-c_mapela
 
 
+b_yao_yao
 
-b_mapela
+b_milepa
 
-b_machacuta
+b_matchendje
 
-b_hwali
+b_kandulu
 
-b_mashaba
+b_macalonge
 
-b_masase
+b_chamba_yao
 
-b_gwanda
+b_mataca
 
-b_kezi
+b_valadim
 
-b_filabusi
 
+c_nhanja
 
-c_malumba
 
 
+b_nhanja
 
-b_malumba
+b_lichinga
 
-b_mwenezi
+b_meponda
 
-b_chomuruvati
+b_mirango
 
-b_rutenga
+b_metangula
 
-b_mbizi
+b_maniamba
 
-b_neshuro
+b_demba
 
-b_chikombedzi
+b_ajabo
 
-b_mabalauta
 
+c_kilombero
 
 
-d_venda
 
+b_kilombero
 
+b_songea
 
-c_tulamela
+b_kitanda
 
+b_mbinga
 
+b_ludewa
 
-b_tulamela
+b_liganga
 
-b_tshaulu
+b_madunda
 
-b_tshilamba
+b_miangali
 
-b_gundani
 
-b_shakadza
 
-b_rambuda
+d_makwa_lomwe
 
-b_tshipise
 
-b_mutele
 
+c_makwa
 
 
-c_dzata
 
+b_makwa
 
-b_dzata
+b_montepuez
 
-b_mandiwana
+b_napaha
 
-b_mavhunga
+b_morrola
 
-b_mulelu
+b_culue
 
-b_tshituni
+b_balama
 
-b_mauluma
+b_nungo
 
-b_mawoni
+b_marrupa
 
-b_tshitavha
 
+c_lomwe
 
 
 
-d_madanda
+b_lomwe
 
+b_nampula
 
+b_mocuburi
 
-c_manyikeni
+b_namina
 
+b_baciano
 
+b_ribaue
 
-b_manyikeni
+b_iapala
 
-b_maimelane
+b_lalaua
 
-b_pambarra
 
-b_mapinhane
+c_makonde
 
-b_naite
 
-b_mabote
 
-b_tesselo
+b_makonde
 
-b_inhassoro
+b_masasi
 
+b_mikangaula
 
-c_inhambane
+b_nangomba
 
+b_likokona
 
+b_negomane
 
-b_inhambane
+b_masuguru
 
-b_jangamo
+b_michiga
 
-b_massinga
 
-b_umguana
 
-b_sitila
 
-b_mavume
+k_tanganyika
 
-b_chacane
 
-b_inharrime
 
+d_rukwa
 
 
-d_toutswe
 
+c_waha
 
 
-c_toutswemogala
 
+b_waha
 
+b_lagosa
 
-b_toutswemogala
+b_karema
 
-b_topisi
+b_sitalike
 
-b_serule
+b_magamba
 
-b_palapye
+b_mpanda
 
-b_mmadinare
+b_ugalla
 
-b_mogapi
+b_kisi
 
-b_maunatlala
 
-b_radisele
+c_lapwa
 
 
 
-c_toranjuu
+b_lapwa
 
+b_kalundi
 
+b_izinga
 
-b_toranjuu
+b_mpasa
 
-b_mosetse
+b_muzi
 
-b_dukwi
+b_kasanga
 
-b_makuta
+b_sumbawanga
 
-b_makaleng
+b_ntendo
 
-b_mathangwane
 
-b_tlhalogang
+c_kimbu
 
-b_tsamaya
 
 
+b_kimbu
 
-d_butwa
+b_kapalala
 
+b_lukwati
 
+b_ilungu
 
-c_khami
+b_usule
 
+b_inyonga
 
+b_utende
 
-b_khami
+b_malote
 
-b_dananombe
 
-b_naletale
 
-b_shangangwe
+d_tumbuka
 
-b_dhlodhlo
 
-b_manyanga
 
-b_bulawayo
+c_mwabulambo
 
-b_inyati
 
 
-c_domboshava
+b_mwabulambo
 
+b_mwamasapa
 
-b_domboshava
+b_nyakyusa
 
-b_malalume
+b_ngonde
 
-b_ndolwane
+b_nyiha
 
-b_maitengwe
+b_kyela
 
-b_mapoka
+b_ipinda
 
-b_ramokgwebana
+b_kaporo
 
-b_butale
 
-b_masunga
+c_phopo
 
 
-c_mtelegwa
 
+b_phopo
 
+b_chilumba
 
-b_mtelegwa
+b_chiweta
 
-b_tabazika_mambo
+b_chelinda
 
-b_dete
+b_rhumpi
 
-b_kamativi
+b_chitango
 
-b_tinde
+b_mzuzu
 
-b_lubimbi
+b_usisya
 
-b_lusulu
 
-b_mibizi
+c_nyamwanga
 
 
 
+b_nyamwanga
 
+b_chibesakunda
 
+b_bulaya
 
-k_mutapa
+b_matumbo
 
+b_kalulu
 
+b_chitumbwa
 
-d_dande_chidima
+b_msitu
 
+b_ndalama
 
 
-c_zvongombe
 
+d_nyamwezi_sukuma
 
 
-b_zvongombe
 
-b_masapa
+c_nyamwezi
 
-b_ruanga
 
-b_mutota
 
-b_kasekete
+b_nyamwezi
 
-b_bedza
+b_tabora
 
-b_chipera
+b_sikonge
 
-b_bakasa
+b_igalula
 
+b_kwihara
 
-c_chedzugwe
+b_tumbi
 
+b_mabama
 
+b_chali
 
-b_chedzugwe
 
-b_urupande
+c_sukuma
 
-b_karoi
 
-b_magunje
 
-b_mwami
+b_sukuma
 
-b_makuti
+b_kahama
 
-b_kariba
+b_isaka
 
-b_kazangarare
+b_ushetu
 
+b_bukene
 
-c_chikova
+b_itobo
 
+b_jomu
 
-
-b_chikova
-
-b_macane
-
-b_magoe
-
-b_fingoe
-
-b_chifunde
-
-b_joje
-
-b_songo
-
-b_chigaco
-
-
-c_zumbo
-
-
-
-b_zumbo
-
-b_carinde
-
-b_luangwa
-
-b_kapoche
-
-b_katondwe
-
-b_zambue
-
-b_bembere
-
-b_kacholola
-
-
-
-d_kalomo
-
-
-
-c_ingomba_ilele
-
-
-
-b_ingomba_ilele
-
-b_choma
-
-b_batoka
-
-b_gwembe
-
-b_chisekesi
-
-b_monze
-
-b_chobana
-
-b_sinazeze
-
-
-c_isamu_pati
-
-
-
-b_isamu_pati
-
-b_simonga
-
-b_kazungula
-
-b_msuna
-
-b_senkobo
-
-b_mutoka
-
-b_makunka
-
-b_popila
-
-
-c_kangila
-
-
-
-b_kangila
-
-b_mazabuka
-
-b_lochinvar
-
-b_namwala
-
-b_chingala
-
-b_kafue
-
-b_lubombo
-
-b_nakambala
-
-
-
-d_maungwe_budya
-
-
-
-c_inyanga
-
-
-
-b_inyanga
-
-b_makaha
-
-b_tsindi
-
-b_bindura
-
-b_ruhanje
-
-b_bokoto
-
-b_sanyatwe
-
-b_chikore
-
-
-
-c_dambarare
-
-
-
-b_dambarare
-
-b_chipadze
-
-b_rimuka
-
-b_maramuka
-
-b_tafuna
-
-b_chitonborwizi
-
-b_kadoma
-
-b_chigweli
-
-
-
-
-d_manyika_uteve
-
-
-
-c_masekesa
-
-
-
-b_masekesa
-
-b_chipangura
-
-b_bandire
-
-b_fetera
-
-b_bandula
-
-b_mutare
-
-b_chimoio
-
-b_zembe
-
-
-
-c_tere
-
-
-
-b_tere
-
-b_changara
-
-b_chioco
-
-b_nyampanda
-
-b_catandica
-
-b_macossa
-
-b_tica
-
-b_inhaminga
-
-
-
-d_barwe_tonga
-
-
-
-c_sena
-
-
-b_sena
-
-b_mutarara
-
-b_juze
-
-b_murraca
-
-b_inhamitanga
-
-b_maringue
-
-b_capenga
-
-b_caia
-
-
-c_tete
-
-
-b_tete
-
-b_moatize
-
-b_chileka
-
-b_chikwawa
-
-b_nchalo
-
-b_kasisi
-
-b_tambara
-
-b_therere
-
+b_nzega
 
 
 

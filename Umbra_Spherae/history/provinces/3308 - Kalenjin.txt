@@ -1,0 +1,21 @@
+# 3308 - Kalenjin
+
+# County Title
+title = c_kalenjin
+
+# Settlements
+max_settlements = 5
+b_kalenjin = tribal
+#b_kitoki =
+#b_nandia =
+#b_maasai =
+#b_kisumu =
+#b_maseno =
+#b_kakamega =
+#b_bungoma =
+
+# Misc
+culture = nilotic
+religion = nilotic_pagan
+
+# History

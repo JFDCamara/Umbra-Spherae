@@ -3,7 +3,7 @@ e_nam_quoc = {
 	color={ 223 173 0 }
 	color2={ 80 79 88 }
 
-	capital = 1732 # Thang Long
+	capital = 3046 # Thang Long
 
 	k_dai_viet = {
 
@@ -12,7 +12,7 @@ e_nam_quoc = {
 
 		culture = viet
 
-		capital = 1732 # Thang Long
+		capital = 3046 # Thang Long
 
 		# Regnal names
 		male_names = {
@@ -26,7 +26,7 @@ e_nam_quoc = {
 			color={ 151 132 74 }
 			color2={ 80 79 88 }
 
-			capital = 1732 # Thang Long
+			capital = 3046 # Thang Long
 
 			c_thang_long = {
 
@@ -127,7 +127,7 @@ e_nam_quoc = {
 			color={ 141 124 84 }
 			color2={ 80 79 88 }
 
-			capital = 1774 # Lao Cai
+			capital = 3088 # Lao Cai
 
 			c_lao_cai = {
 
@@ -245,7 +245,7 @@ e_nam_quoc = {
 			color={ 153 99 72 }
 			color2={ 80 79 88 }
 
-			capital = 1730 # Thanh Hoa
+			capital = 3044 # Thanh Hoa
 
 			c_thanh_hoa = {
 
@@ -319,7 +319,7 @@ e_nam_quoc = {
 			color={ 146 140 80 }
 			color2={ 80 79 88 }
 
-			capital = 1728 # Ha Tinh
+			capital = 3042 # Ha Tinh
 
 			c_ha_tinh = {
 
@@ -375,7 +375,7 @@ e_nam_quoc = {
 
 		culture = cham
 
-		capital = 1725 #Vijaya
+		capital = 3039 #Vijaya
 
 		# Regnal names
 		#male_names = {
@@ -393,7 +393,7 @@ e_nam_quoc = {
    			color= { 57 147 111  }
     			color2= { 154 69 116  }
 
-			capital = 1725 #Vijaya
+			capital = 3039 #Vijaya
 
 			c_vijaya = {
 
@@ -467,7 +467,7 @@ e_nam_quoc = {
    			color= { 60 136 145  }
     			color2= { 154 69 116  }
 
-			capital = 1726 #Indrapura
+			capital = 3040 #Indrapura
 
 			c_indrapura = {
 
@@ -541,7 +541,7 @@ e_nam_quoc = {
 			color= { 47 157 85  }
     			color2= { 154 69 116  }
 
-			capital = 1724 #Kauthara
+			capital = 3038 #Kauthara
 
 			c_kauthara = {
 
@@ -615,7 +615,7 @@ e_nam_quoc = {
 			color= { 79 125 98  }
     			color2= { 154 69 116  }
 
-			capital = 1723 #Panduranga
+			capital = 3037 #Panduranga
 
 			c_panduranga = {
 

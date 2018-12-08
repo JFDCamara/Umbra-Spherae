@@ -3,21 +3,21 @@ e_kenya_ruvuma = {
 	color = { 176 109 87 }
 	color2 = { 250 250 250 }
 
-	capital = 1993 #Ongamo
+	capital = 3307 #Ongamo
 
 	k_kenya = {
 
 		color = { 149 109 87 }
 		color2 = { 250 250 250 }
 
-		capital = 1993 #Ongamo
+		capital = 3307 #Ongamo
 
 		d_kenya = {
 
 			color = { 188 152 143 }
 			color2 = { 250 250 250 }
 
-			capital = 1993 #Ongamo
+			capital = 3307 #Ongamo
 
 			c_ongamo = {
 
@@ -76,7 +76,7 @@ e_kenya_ruvuma = {
 				}
 				b_kamudi = {
 				}
-				b_bura = {
+				b_bura_sabaki = {
 				}
 				b_higlet = {
 				}
@@ -91,7 +91,7 @@ e_kenya_ruvuma = {
 			color = { 220 152 143 }
 			color2 = { 250 250 250 }
 
-			capital = 1994 #Kalenjin
+			capital = 3308 #Kalenjin
 
 			c_kalenjin = {
 
@@ -122,7 +122,7 @@ e_kenya_ruvuma = {
 
 				b_tato = {
 				}
-				b_mara = {
+				b_mara_tato = {
 				}
 				b_musoma = {
 				}
@@ -143,7 +143,7 @@ e_kenya_ruvuma = {
 			color = { 220 152 110 }
 			color2 = { 250 250 250 }
 
-			capital = 1990 #Dahalo
+			capital = 3304 #Dahalo
 
 			c_dahalo = {
 
@@ -269,7 +269,7 @@ e_kenya_ruvuma = {
 				color = { 230 231 180 }
 				color2 = { 250 250 250 }
 
-				b_asa = {
+				b_asa_asa = {
 				}
 				b_bisil = {
 				}
@@ -305,7 +305,7 @@ e_kenya_ruvuma = {
 				}
 				b_manyani = {
 				}
-				b_voi = {
+				b_voi_asu = {
 				}
 			}
 		}
@@ -459,7 +459,7 @@ e_kenya_ruvuma = {
 				}
 				b_chikola = {
 				}
-				b_majiri = {
+				b_majiri_sandawe = {
 				}
 				b_kilimatinde = {
 				}

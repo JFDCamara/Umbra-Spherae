@@ -356,14 +356,14 @@ e_bai_tai = {
 
 		culture = mon
 
-		capital = 1700 #Hariphunchai
+		capital = 3014 #Hariphunchai
 
 		d_hariphunchai = {
 
     			color= { 241 169 194 }
     			color2= { 255 255 255 }
 
-			capital = 1700 #Hariphunchai
+			capital = 3014 #Hariphunchai
 
 			c_hariphunchai = {
 
@@ -459,7 +459,7 @@ e_bai_tai = {
     			color= { 188 170 240 }
     			color2= { 255 255 255 }
 
-			capital = 1742 #Chiang Rai
+			capital = 3056 #Chiang Rai
 
 			c_chiang_rai = {
 
@@ -560,7 +560,7 @@ e_bai_tai = {
     			color= { 253 157 167 }
     			color2= { 255 255 255 }
 
-			capital = 1735 #Nan
+			capital = 3049 #Nan
 
 			c_nan = {
 
@@ -659,7 +659,7 @@ k_chiang_hung = {
 	color= { 157 139 146  }
 	color2= { 255 255 255 }
 
-	capital = 1784 #Phongsali
+	capital = 3098 #Phongsali
 	culture = thai
 }
 
@@ -668,7 +668,7 @@ k_sukhothai = {
     	color= { 249 224 153 }
     	color2= { 255 255 255 }
 
-	capital = 1736 #Sukhothai
+	capital = 3050 #Sukhothai
 	culture = thai
 
 }
@@ -678,7 +678,7 @@ d_phayao = {
     	color= { 253 167 167 }
     	color2= { 255 255 255 }
 
-	capital = 1743 #Phayao
+	capital = 3057 #Phayao
 }
 
 k_lanna = {
@@ -686,7 +686,7 @@ k_lanna = {
     	color= { 188 170 240 }
     	color2= { 255 255 255 }
 
-	capital = 1742 #Chiang Rai
+	capital = 3056 #Chiang Rai
 
 }
 
@@ -695,5 +695,5 @@ d_ngoenyang = {
 	color= { 188 170 250 }
 	color2= { 255 255 255 }
 
-	capital = 1755 #Ngoenyang
+	capital = 3069 #Ngoenyang
 }

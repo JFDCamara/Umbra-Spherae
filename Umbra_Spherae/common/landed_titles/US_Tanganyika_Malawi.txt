@@ -120,7 +120,7 @@ e_tanganyika_malawi = {
 				color = { 165 102 100 }
 				color2 = { 250 250 250 }
 
-				b_yao = {
+				b_yao_yao = {
 				}
 				b_milepa = {
 				}
@@ -130,7 +130,7 @@ e_tanganyika_malawi = {
 				}
 				b_macalonge = {
 				}
-				b_chamba = {
+				b_chamba_yao = {
 				}
 				b_mataca = {
 				}

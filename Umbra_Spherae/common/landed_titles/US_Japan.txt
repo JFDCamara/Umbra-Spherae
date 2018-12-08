@@ -3,7 +3,7 @@ e_japan = {
 	color={ 201 23 30 }
 	color2={ 255 255 255 }
 	
-	capital = 1590 # Yamashiro (Kyoto)
+	capital = 2904 # Yamashiro (Kyoto)
 	
 	male_names = {
 		Nijo Sanjo Gojo Rokujo Shichijo Hachijo Shirakawa Horikawa Toba Konoe
@@ -28,7 +28,7 @@ e_japan = {
 		color={ 225 152 180 }
 		color2={ 255 255 255 }
 		
-		capital = 1590 # Yamashiro (Kyoto)
+		capital = 2904 # Yamashiro (Kyoto)
 		
         	d_kanto = {
 
@@ -175,7 +175,7 @@ e_japan = {
 			color={ 225 152 160 }
 			color2={ 255 255 255 }
 
-			capital = 1586 # Echizen
+			capital = 2900 # Echizen
 
             		c_echizen = { # capital of this duchy
 
@@ -271,7 +271,7 @@ e_japan = {
 			color={ 205 132 190 }
 			color2={ 255 255 255 }
 
-			capital = 1582 # Owari
+			capital = 2896 # Owari
 		
             		c_suruga = {
 
@@ -394,7 +394,7 @@ e_japan = {
 			color={ 225 202 180 }
 			color2={ 255 255 255 }
 
-			capital = 1590 # Yamashiro (Kyoto)
+			capital = 2904 # Yamashiro (Kyoto)
 
             		c_yamashiro = { # capital of this duchy
 
@@ -692,7 +692,7 @@ e_japan = {
                 		}
                 		b_kanoashi = {
                 		}
-                		b_mino = {
+                		b_mino_iwami = {
                 		}
                 		b_oochi = {
                 		}
@@ -935,7 +935,7 @@ e_japan = {
 	}
 	k_ainumosir = {
 
-	capital = 1597 # Oshima
+	capital = 2911 # Oshima
 	
 	culture = ainu
 	
@@ -969,7 +969,7 @@ e_japan = {
                 		}
                 		b_tsugaru = {
                 		}
-                		b_kita = {
+                		b_kita_mutsu = {
                 		}
                 		b_sannohe = {
                 		}
@@ -1024,7 +1024,7 @@ e_japan = {
 
         d_hokkaido = { # capital of this kingdom
 
-		capital = 1597 # Oshima
+		capital = 2911 # Oshima
 		
 		ainu = Kai
 		japanese = Ezo
@@ -1113,7 +1113,7 @@ e_japan = {
 		color={ 49 103 19 }
 		color2={ 255 255 255 }
 	
-		capital = 1596 # Karput
+		capital = 2910 # Karput
 
             	c_karput = { # capital of this duchy
 
@@ -1171,14 +1171,14 @@ k_ryukyu = {
 	
 	culture = ryukyuan
 	
-	capital = 1601 # Ryukyu
+	capital = 2915 # Ryukyu
 
         d_ryukyu = { # capital of this kingdom
 
 		color={ 40 121 186 }
 		color2={ 255 255 255 }
 	
-		capital = 1601 # Ryukyu
+		capital = 2915 # Ryukyu
 
             	c_ryukyu = { # capital of this duchy
 

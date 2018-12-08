@@ -4841,23 +4841,3 @@ k_leu = {
 		war = no
 	}
 }
-
-#k_minyag = {
-
-#	capital = 1906 # Leng
-
-#	culture = tangut
-
-#	color={ 187 128 129 }
-#	color2={ 255 255 255 }
-#}
-
-#k_gansu = {
-
-#	capital = 1912 # Liang
-
-#   	color= { 225 222 91 }
-#   	color2= { 0 0 0  }
-
-#	culture = uyghur
-#}

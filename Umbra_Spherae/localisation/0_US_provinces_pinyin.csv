@@ -1,417 +1,3 @@
-PROV1581;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;x
-PROV1582;Owari;Owari;Owari;Owari;Owari;Owari;Owari;Owari;Owari;Owari;Owari;Owari;Owari;x
-PROV1583;Mino;Mino;Mino;Mino;Mino;Mino;Mino;Mino;Mino;Mino;Mino;Mino;Mino;x
-PROV1584;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;x
-PROV1585;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;x
-PROV1586;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;x
-PROV1587;Ise;Ise;Ise;Ise;Ise;Ise;Ise;Ise;Ise;Ise;Ise;Ise;Ise;x
-PROV1588;Omi;Omi;Omi;Omi;Omi;Omi;Omi;Omi;Omi;Omi;Omi;Omi;Omi;x
-PROV1589;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;x
-PROV1590;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;x
-PROV1591;Tango;Tango;Tango;Tango;Tango;Tango;Tango;Tango;Tango;Tango;Tango;Tango;Tango;x
-PROV1592;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;x
-PROV1593;Kii;Kii;Kii;Kii;Kii;Kii;Kii;Kii;Kii;Kii;Kii;Kii;Kii;x
-PROV1594;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;x
-PROV1595;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;x
-PROV1596;Karput;Karput;Karput;Karput;Karput;Karput;Karput;Karput;Karput;Karput;Karput;Karput;Karput;x
-PROV1597;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;x
-PROV1598;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;x
-PROV1599;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;x
-PROV1600;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;x
-PROV1601;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;x
-PROV1602;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;x
-PROV1603;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;x
-PROV1604;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;x
-PROV1605;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;x
-PROV1606;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;x
-PROV1607;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;x
-PROV1608;Hae;Hae;Hae;Hae;Hae;Hae;Hae;Hae;Hae;Hae;Hae;Hae;Hae;x
-PROV1609;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;x
-PROV1610;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;x
-PROV1611;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;x
-PROV1612;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;x
-PROV1613;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;x
-PROV1614;Gong;Gong;Gong;Gong;Gong;Gong;Gong;Gong;Gong;Gong;Gong;Gong;Gong;x
-PROV1615;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;x
-PROV1616;Won;Won;Won;Won;Won;Won;Won;Won;Won;Won;Won;Won;Won;x
-PROV1617;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;x
-PROV1618;Na;Na;Na;Na;Na;Na;Na;Na;Na;Na;Na;Na;Na;x
-PROV1619;Seung;Seung;Seung;Seung;Seung;Seung;Seung;Seung;Seung;Seung;Seung;Seung;Seung;x
-PROV1620;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;x
-PROV1621;Sang;Sang;Sang;Sang;Sang;Sang;Sang;Sang;Sang;Sang;Sang;Sang;Sang;x
-PROV1622;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;x
-PROV1623;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;x
-PROV1624;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;x
-PROV1625;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;x
-PROV1626;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;x
-PROV1627;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;x
-PROV1628;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;x
-PROV1629;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;x
-PROV1630;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;x
-PROV1631;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;x
-PROV1632;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;x
-PROV1633;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;x
-PROV1634;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;x
-PROV1635;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;x
-PROV1636;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;x
-PROV1637;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;x
-PROV1638;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;x
-PROV1639;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;x
-PROV1640;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;x
-PROV1641;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;x
-PROV1642;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;x
-PROV1643;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;x
-PROV1644;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;x
-PROV1645;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;x
-PROV1646;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;x
-PROV1647;Marka;Marka;Marka;Marka;Marka;Marka;Marka;Marka;Marka;Marka;Marka;Marka;Marka;x
-PROV1648;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;x
-PROV1649;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;x
-PROV1650;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;x
-PROV1651;Tere;Tere;Tere;Tere;Tere;Tere;Tere;Tere;Tere;Tere;Tere;Tere;Tere;x
-PROV1652;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;x
-PROV1653;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;x
-PROV1654;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;x
-PROV1655;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;x
-PROV1656;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;x
-PROV1657;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;x
-PROV1658;Sena;Sena;Sena;Sena;Sena;Sena;Sena;Sena;Sena;Sena;Sena;Sena;Sena;x
-PROV1659;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;x
-PROV1660;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;x
-PROV1661;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;x
-PROV1662;Khami;Khami;Khami;Khami;Khami;Khami;Khami;Khami;Khami;Khami;Khami;Khami;Khami;x
-PROV1663;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;x
-PROV1664;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;x
-PROV1665;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;x
-PROV1666;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;x
-PROV1667;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;x
-PROV1668;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;x
-PROV1669;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;x
-PROV1670;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;x
-PROV1671;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;x
-PROV1672;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;x
-PROV1673;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;x
-PROV1674;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;x
-PROV1675;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;x
-PROV1676;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;x
-PROV1677;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;x
-PROV1678;Xining;Xining;Xining;Xining;Xining;Xining;Xining;Xining;Xining;Xining;Xining;Xining;Xining;x
-PROV1679;Dege;Dege;Dege;Dege;Dege;Dege;Dege;Dege;Dege;Dege;Dege;Dege;Dege;x
-PROV1680;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;x
-PROV1681;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;x
-PROV1682;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;x
-PROV1683;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;x
-PROV1684;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;x
-PROV1685;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;x
-PROV1686;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;x
-PROV1687;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;x
-PROV1688;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;x
-PROV1689;Markam;Markam;Markam;Markam;Markam;Markam;Markam;Markam;Markam;Markam;Markam;Markam;Markam;x
-PROV1690;Baima;Baima;Baima;Baima;Baima;Baima;Baima;Baima;Baima;Baima;Baima;Baima;Baima;x
-PROV1691;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;x
-PROV1692;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;x
-PROV1693;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;x
-PROV1694;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;x
-PROV1695;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;x
-PROV1696;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;x
-PROV1697;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;x
-PROV1698;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;x
-PROV1699;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;x
-PROV1700;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;x
-PROV1701;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;x
-PROV1702;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;x
-PROV1703;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;x
-PROV1704;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;x
-PROV1705;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;x
-PROV1706;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;x
-PROV1707;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;x
-PROV1708;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;x
-PROV1709;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;x
-PROV1710;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;x
-PROV1711;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;x
-PROV1712;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;x
-PROV1713;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;x
-PROV1714;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;x
-PROV1715;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;x
-PROV1716;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;x
-PROV1717;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;x
-PROV1718;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;x
-PROV1719;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;x
-PROV1720;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;x
-PROV1721;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;x
-PROV1722;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;x
-PROV1723;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;x
-PROV1724;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;x
-PROV1725;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;x
-PROV1726;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;x
-PROV1727;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;x
-PROV1728;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;x
-PROV1729;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;x
-PROV1730;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;x
-PROV1731;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;x
-PROV1732;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;x
-PROV1733;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;x
-PROV1734;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;x
-PROV1735;Nan;Nan;Nan;Nan;Nan;Nan;Nan;Nan;Nan;Nan;Nan;Nan;Nan;x
-PROV1736;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;x
-PROV1737;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;x
-PROV1738;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;x
-PROV1739;Ava;Ava;Ava;Ava;Ava;Ava;Ava;Ava;Ava;Ava;Ava;Ava;Ava;x
-PROV1740;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;x
-PROV1741;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;x
-PROV1742;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;x
-PROV1743;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;x
-PROV1744;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;x
-PROV1745;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;x
-PROV1746;Prome;Prome;Prome;Prome;Prome;Prome;Prome;Prome;Prome;Prome;Prome;Prome;Prome;x
-PROV1747;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;x
-PROV1748;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;x
-PROV1749;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;x
-PROV1750;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;x
-PROV1751;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;x
-PROV1752;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;x
-PROV1753;Ann;Ann;Ann;Ann;Ann;Ann;Ann;Ann;Ann;Ann;Ann;Ann;Ann;x
-PROV1754;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;x
-PROV1755;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;x
-PROV1756;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;x
-PROV1757;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;x
-PROV1758;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;x
-PROV1759;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;x
-PROV1760;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;x
-PROV1761;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;x
-PROV1762;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;x
-PROV1763;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;x
-PROV1764;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;x
-PROV1765;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;x
-PROV1766;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;x
-PROV1767;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;x
-PROV1768;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;x
-PROV1769;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;x
-PROV1770;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;x
-PROV1771;Son La;Son La;Son La;Son La;Son La;Son La;Son La;Son La;Son La;Son La;Son La;Son La;Son La;x
-PROV1772;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;x
-PROV1773;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;x
-PROV1774;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;x
-PROV1775;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;x
-PROV1776;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;x
-PROV1777;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;x
-PROV1778;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;x
-PROV1779;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;x
-PROV1780;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;x
-PROV1781;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;x
-PROV1782;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;x
-PROV1783;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;x
-PROV1784;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;x
-PROV1785;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;x
-PROV1786;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;x
-PROV1787;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;x
-PROV1788;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;x
-PROV1789;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;x
-PROV1790;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;x
-PROV1791;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;x
-PROV1792;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;x
-PROV1793;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;x
-PROV1794;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;x
-PROV1795;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;x
-PROV1796;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;x
-PROV1797;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;x
-PROV1798;Barus;Barus;Barus;Barus;Barus;Barus;Barus;Barus;Barus;Barus;Barus;Barus;Barus;x
-PROV1799;Panai;Panai;Panai;Panai;Panai;Panai;Panai;Panai;Panai;Panai;Panai;Panai;Panai;x
-PROV1800;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;x
-PROV1801;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;x
-PROV1802;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;x
-PROV1803;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;x
-PROV1804;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;x
-PROV1805;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;x
-PROV1806;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;x
-PROV1807;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;x
-PROV1808;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;x
-PROV1809;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;x
-PROV1810;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;x
-PROV1811;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;x
-PROV1812;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;x
-PROV1813;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;x
-PROV1814;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;x
-PROV1815;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;x
-PROV1816;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;x
-PROV1817;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;x
-PROV1818;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;x
-PROV1819;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;x
-PROV1820;Daha;Daha;Daha;Daha;Daha;Daha;Daha;Daha;Daha;Daha;Daha;Daha;Daha;x
-PROV1821;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;x
-PROV1822;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;x
-PROV1823;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;x
-PROV1824;Palah;Palah;Palah;Palah;Palah;Palah;Palah;Palah;Palah;Palah;Palah;Palah;Palah;x
-PROV1825;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;x
-PROV1826;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;x
-PROV1827;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;x
-PROV1828;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;x
-PROV1829;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;x
-PROV1830;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;x
-PROV1831;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;x
-PROV1832;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;x
-PROV1833;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;x
-PROV1834;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;x
-PROV1835;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;x
-PROV1836;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;x
-PROV1837;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;x
-PROV1838;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;x
-PROV1839;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;x
-PROV1840;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;x
-PROV1841;Poli;Poli;Poli;Poli;Poli;Poli;Poli;Poli;Poli;Poli;Poli;Poli;Poli;x
-PROV1842;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;x
-PROV1843;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;x
-PROV1844;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;x
-PROV1845;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;x
-PROV1846;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;x
-PROV1847;Bima;Bima;Bima;Bima;Bima;Bima;Bima;Bima;Bima;Bima;Bima;Bima;Bima;x
-PROV1848;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;x
-PROV1849;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;x
-PROV1850;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;x
-PROV1851;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;x
-PROV1852;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;x
-PROV1853;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;x
-PROV1854;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;x
-PROV1855;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;x
-PROV1856;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;x
-PROV1857;Padang;Padang;Padang;Padang;Padang;Padang;Padang;Padang;Padang;Padang;Padang;Padang;Padang;x
-PROV1858;Aru;Aru;Aru;Aru;Aru;Aru;Aru;Aru;Aru;Aru;Aru;Aru;Aru;x
-PROV1859;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;x
-PROV1860;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;x
-PROV1861;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;x
-PROV1862;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;x
-PROV1863;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;x
-PROV1864;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;x
-PROV1865;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;x
-PROV1866;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;x
-PROV1867;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;x
-PROV1868;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;x
-PROV1869;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;x
-PROV1870;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;x
-PROV1871;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;x
-PROV1872;Manado;Manado;Manado;Manado;Manado;Manado;Manado;Manado;Manado;Manado;Manado;Manado;Manado;x
-PROV1873;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;x
-PROV1874;Palu;Palu;Palu;Palu;Palu;Palu;Palu;Palu;Palu;Palu;Palu;Palu;Palu;x
-PROV1875;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;x
-PROV1876;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;x
-PROV1877;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;x
-PROV1878;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;x
-PROV1879;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;x
-PROV1880;Klang;Klang;Klang;Klang;Klang;Klang;Klang;Klang;Klang;Klang;Klang;Klang;Klang;x
-PROV1881;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;x
-PROV1882;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;x
-PROV1883;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;x
-PROV1884;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;x
-PROV1885;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;x
-PROV1886;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;x
-PROV1887;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;x
-PROV1888;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;x
-PROV1889;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;x
-PROV1890;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;x
-PROV1891;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;x
-PROV1892;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;x
-PROV1893;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;x
-PROV1894;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;x
-PROV1895;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;x
-PROV1896;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;x
-PROV1897;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;x
-PROV1898;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;x
-PROV1899;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;x
-PROV1900;Weda;Weda;Weda;Weda;Weda;Weda;Weda;Weda;Weda;Weda;Weda;Weda;Weda;x
-PROV1901;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;x
-PROV1902;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;x
-PROV1903;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;x
-PROV1904;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;x
-PROV1905;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;x
-PROV1906;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;x
-PROV1907;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;x
-PROV1908;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;x
-PROV1909;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;x
-PROV1910;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;x
-PROV1911;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;x
-PROV1912;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;x
-PROV1913;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;x
-PROV1914;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;x
-PROV1915;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;x
-PROV1916;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;x
-PROV1917;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;x
-PROV1918;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;x
-PROV1919;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;x
-PROV1920;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;x
-PROV1921;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;x
-PROV1922;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;x
-PROV1923;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;x
-PROV1924;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;x
-PROV1925;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;x
-PROV1926;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;x
-PROV1927;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;x
-PROV1928;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;x
-PROV1929;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;x
-PROV1930;Pate;Pate;Pate;Pate;Pate;Pate;Pate;Pate;Pate;Pate;Pate;Pate;Pate;x
-PROV1931;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;x
-PROV1932;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;x
-PROV1933;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;x
-PROV1934;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;x
-PROV1935;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;x
-PROV1936;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;x
-PROV1937;Manda;Manda;Manda;Manda;Manda;Manda;Manda;Manda;Manda;Manda;Manda;Manda;Manda;x
-PROV1938;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;x
-PROV1939;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;x
-PROV1940;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;x
-PROV1941;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;x
-PROV1942;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;x
-PROV1943;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;x
-PROV1944;Maore;Maore;Maore;Maore;Maore;Maore;Maore;Maore;Maore;Maore;Maore;Maore;Maore;x
-PROV1945;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;x
-PROV1946;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;x
-PROV1947;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;x
-PROV1948;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;x
-PROV1949;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;x
-PROV1950;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;x
-PROV1951;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;x
-PROV1952;Shilluk;Shilluk;Shilluk;Shilluk;Shilluk;Shilluk;Shilluk;Shilluk;Shilluk;Shilluk;Shilluk;Shilluk;Shilluk;x
-PROV1953;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;x
-PROV1954;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;x
-PROV1955;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;x
-PROV1956;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;x
-PROV1957;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;x
-PROV1958;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;x
-PROV1959;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;x
-PROV1960;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;x
-PROV1961;Baar;Baar;Baar;Baar;Baar;Baar;Baar;Baar;Baar;Baar;Baar;Baar;Baar;x
-PROV1962;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;x
-PROV1963;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;x
-PROV1964;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;x
-PROV1965;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;x
-PROV1966;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;x
-PROV1967;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;x
-PROV1968;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;x
-PROV1969;Onon;Onon;Onon;Onon;Onon;Onon;Onon;Onon;Onon;Onon;Onon;Onon;Onon;x
-PROV1970;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;x
-PROV1971;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;x
-PROV1972;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;x
-PROV1973;Syan;Syan;Syan;Syan;Syan;Syan;Syan;Syan;Syan;Syan;Syan;Syan;Syan;x
-PROV1974;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;x
-PROV1975;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;x
-PROV1976;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;x
-PROV1977;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;x
-PROV1978;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;x
-PROV1979;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;x
-PROV1980;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;x
-PROV1981;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;x
-PROV1982;Buha;Buha;Buha;Buha;Buha;Buha;Buha;Buha;Buha;Buha;Buha;Buha;Buha;x
-PROV1983;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;x
-PROV1984;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;x
-PROV1985;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;x
-PROV1986;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;x
-PROV1987;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;x
-PROV1988;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;x
-PROV1989;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;x
-PROV1990;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;x
-PROV1991;Garee;Garee;Garee;Garee;Garee;Garee;Garee;Garee;Garee;Garee;Garee;Garee;Garee;x
-PROV1992;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;x
-PROV1993;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;x
-PROV1994;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;x
 PROV1995;Gumba;Gumba;Gumba;Gumba;Gumba;Gumba;Gumba;Gumba;Gumba;Gumba;Gumba;Gumba;Gumba;x
 PROV1996;Bargu;Bargu;Bargu;Bargu;Bargu;Bargu;Bargu;Bargu;Bargu;Bargu;Bargu;Bargu;Bargu;x
 PROV1997;Sabaki;Sabaki;Sabaki;Sabaki;Sabaki;Sabaki;Sabaki;Sabaki;Sabaki;Sabaki;Sabaki;Sabaki;Sabaki;x
@@ -796,9 +382,9 @@ PROV2375;Kukunor;Kukunor;Kukunor;Kukunor;Kukunor;Kukunor;Kukunor;Kukunor;Kukunor
 PROV2376;Chad;Chad;Chad;Chad;Chad;Chad;Chad;Chad;Chad;Chad;Chad;Chad;Chad;x
 PROV2377;Tana;Tana;Tana;Tana;Tana;Tana;Tana;Tana;Tana;Tana;Tana;Tana;Tana;x
 PROV2378;Turkana;Turkana;Turkana;Turkana;Turkana;Turkana;Turkana;Turkana;Turkana;Turkana;Turkana;Turkana;Turkana;x
-PROV2379;Albert;Albert;Albert;Albert;Albert;Albert;Albert;Albert;Albert;Albert;Albert;Albert;Albert;x
-PROV2380;Victoria;Victoria;Victoria;Victoria;Victoria;Victoria;Victoria;Victoria;Victoria;Victoria;Victoria;Victoria;Victoria;x
-PROV2381;Edward;Edward;Edward;Edward;Edward;Edward;Edward;Edward;Edward;Edward;Edward;Edward;Edward;x
+PROV2379;Mwitanzige;Mwitanzige;Mwitanzige;Mwitanzige;Mwitanzige;Mwitanzige;Mwitanzige;Mwitanzige;Mwitanzige;Mwitanzige;Mwitanzige;Mwitanzige;Mwitanzige;x
+PROV2380;Nalubaale;Nalubaale;Nalubaale;Nalubaale;Nalubaale;Nalubaale;Nalubaale;Nalubaale;Nalubaale;Nalubaale;Nalubaale;Nalubaale;Nalubaale;x
+PROV2381;Rutanzige;Rutanzige;Rutanzige;Rutanzige;Rutanzige;Rutanzige;Rutanzige;Rutanzige;Rutanzige;Rutanzige;Rutanzige;Rutanzige;Rutanzige;x
 PROV2382;Kivu;Kivu;Kivu;Kivu;Kivu;Kivu;Kivu;Kivu;Kivu;Kivu;Kivu;Kivu;Kivu;x
 PROV2383;Tanganyika;Tanganyika;Tanganyika;Tanganyika;Tanganyika;Tanganyika;Tanganyika;Tanganyika;Tanganyika;Tanganyika;Tanganyika;Tanganyika;Tanganyika;x
 PROV2384;Mweru;Mweru;Mweru;Mweru;Mweru;Mweru;Mweru;Mweru;Mweru;Mweru;Mweru;Mweru;Mweru;x
@@ -1312,3 +898,417 @@ PROV2891;Hiva Sea;Hiva Sea;Hiva Sea;Hiva Sea;;;;;;;;;x;
 PROV2892;Humboldt Sea;Humboldt Sea;Humboldt Sea;Humboldt Sea;;;;;;;;;x;
 PROV2893;Challenge Sea;Challenge Sea;Challenge Sea;Challenge Sea;;;;;;;;;x;
 PROV2894;Eltanin Sea;Eltanin Sea;Eltanin Sea;Eltanin Sea;;;;;;;;;x;
+PROV2895;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;Suruga;x
+PROV2896;Owari;Owari;Owari;Owari;Owari;Owari;Owari;Owari;Owari;Owari;Owari;Owari;Owari;x
+PROV2897;Mino;Mino;Mino;Mino;Mino;Mino;Mino;Mino;Mino;Mino;Mino;Mino;Mino;x
+PROV2898;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;Etchu;x
+PROV2899;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;Kaga;x
+PROV2900;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;Echizen;x
+PROV2901;Ise;Ise;Ise;Ise;Ise;Ise;Ise;Ise;Ise;Ise;Ise;Ise;Ise;x
+PROV2902;Omi;Omi;Omi;Omi;Omi;Omi;Omi;Omi;Omi;Omi;Omi;Omi;Omi;x
+PROV2903;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;Yamato;x
+PROV2904;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;Yamashiro;x
+PROV2905;Tango;Tango;Tango;Tango;Tango;Tango;Tango;Tango;Tango;Tango;Tango;Tango;Tango;x
+PROV2906;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;Settsu;x
+PROV2907;Kii;Kii;Kii;Kii;Kii;Kii;Kii;Kii;Kii;Kii;Kii;Kii;Kii;x
+PROV2908;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;Tajima;x
+PROV2909;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;Kuye;x
+PROV2910;Karput;Karput;Karput;Karput;Karput;Karput;Karput;Karput;Karput;Karput;Karput;Karput;Karput;x
+PROV2911;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;Oshima;x
+PROV2912;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;x
+PROV2913;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;Kusuri;x
+PROV2914;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;x
+PROV2915;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;Ryukyu;x
+PROV2916;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;Sakishima;x
+PROV2917;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;Yongwon;x
+PROV2918;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;Anwon;x
+PROV2919;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;Hurha;x
+PROV2920;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;Bojo;x
+PROV2921;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;Bukgye;x
+PROV2922;Hae;Hae;Hae;Hae;Hae;Hae;Hae;Hae;Hae;Hae;Hae;Hae;Hae;x
+PROV2923;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;Hwang;x
+PROV2924;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;Gyeonggi;x
+PROV2925;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;Gyo;x
+PROV2926;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;Donggye;x
+PROV2927;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;Gwang;x
+PROV2928;Gong;Gong;Gong;Gong;Gong;Gong;Gong;Gong;Gong;Gong;Gong;Gong;Gong;x
+PROV2929;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;Cheong;x
+PROV2930;Won;Won;Won;Won;Won;Won;Won;Won;Won;Won;Won;Won;Won;x
+PROV2931;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;Jeon;x
+PROV2932;Na;Na;Na;Na;Na;Na;Na;Na;Na;Na;Na;Na;Na;x
+PROV2933;Seung;Seung;Seung;Seung;Seung;Seung;Seung;Seung;Seung;Seung;Seung;Seung;Seung;x
+PROV2934;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;Jeju;x
+PROV2935;Sang;Sang;Sang;Sang;Sang;Sang;Sang;Sang;Sang;Sang;Sang;Sang;Sang;x
+PROV2936;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;Gang;x
+PROV2937;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;Yang ;x
+PROV2938;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;Yongcheon;x
+PROV2939;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;Hyeongdeok;x
+PROV2940;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;Namhae;x
+PROV2941;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;Amnok;x
+PROV2942;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;Jangnyeong;x
+PROV2943;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;Buyeo;x
+PROV2944;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;Makhil;x
+PROV2945;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;Jeongri;x
+PROV2946;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;Anbyeon;x
+PROV2947;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;Solbin;x
+PROV2948;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;Dongpyeong;x
+PROV2949;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;Cheoli;x
+PROV2950;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;Hoewon;x
+PROV2951;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;Yeongju;x
+PROV2952;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;Dongju;x
+PROV2953;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;Sokju;x
+PROV2954;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;Tsushima;x
+PROV2955;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;Ghuad-neng;x
+PROV2956;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;Drieux;x
+PROV2957;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;Hispaniola Coast;x
+PROV2958;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;Kamchatka Bay;x
+PROV2959;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;Sambirano;x
+PROV2960;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;Antongil;x
+PROV2961;Marka;Marka;Marka;Marka;Marka;Marka;Marka;Marka;Marka;Marka;Marka;Marka;Marka;x
+PROV2962;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;Isamu Pati;x
+PROV2963;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;Kangila;x
+PROV2964;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;Ingomba Ilele;x
+PROV2965;Tere;Tere;Tere;Tere;Tere;Tere;Tere;Tere;Tere;Tere;Tere;Tere;Tere;x
+PROV2966;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;Masekesa;x
+PROV2967;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;Inyanga;x
+PROV2968;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;Dambarare;x
+PROV2969;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;Mapela;x
+PROV2970;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;Chikova;x
+PROV2971;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;Zumbo;x
+PROV2972;Sena;Sena;Sena;Sena;Sena;Sena;Sena;Sena;Sena;Sena;Sena;Sena;Sena;x
+PROV2973;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;Mtelegwa;x
+PROV2974;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;Malumba;x
+PROV2975;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;Chibvumani;x
+PROV2976;Khami;Khami;Khami;Khami;Khami;Khami;Khami;Khami;Khami;Khami;Khami;Khami;Khami;x
+PROV2977;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;Domboshava;x
+PROV2978;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;Matendera;x
+PROV2979;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;Toutswemogala;x
+PROV2980;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;Dzata;x
+PROV2981;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;Tulamela;x
+PROV2982;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;Nyingchi;x
+PROV2983;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;Coqen;x
+PROV2984;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;Tashkurgan;x
+PROV2985;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;Dartsedo;x
+PROV2986;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;Maqen;x
+PROV2987;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;Mustang;x
+PROV2988;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;Socotra;x
+PROV2989;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;Taktse;x
+PROV2990;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;Gerze;x
+PROV2991;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;Nagormo;x
+PROV2992;Xining;Xining;Xining;Xining;Xining;Xining;Xining;Xining;Xining;Xining;Xining;Xining;Xining;x
+PROV2993;Dege;Dege;Dege;Dege;Dege;Dege;Dege;Dege;Dege;Dege;Dege;Dege;Dege;x
+PROV2994;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;Diexi;x
+PROV2995;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;Dzoi;x
+PROV2996;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;Ngawa;x
+PROV2997;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;Denzong;x
+PROV2998;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;Sungqu;x
+PROV2999;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;Devalgarh;x
+PROV3000;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;Badrinath;x
+PROV3001;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;Champawat;x
+PROV3002;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;Kartikkeyapura;x
+PROV3003;Markam;Markam;Markam;Markam;Markam;Markam;Markam;Markam;Markam;Markam;Markam;Markam;Markam;x
+PROV3004;Baima;Baima;Baima;Baima;Baima;Baima;Baima;Baima;Baima;Baima;Baima;Baima;Baima;x
+PROV3005;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;Thandwe;x
+PROV3006;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;Vaisali;x
+PROV3007;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;Khampat;x
+PROV3008;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;Pagan;x
+PROV3009;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;Kyaukse;x
+PROV3010;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;x
+PROV3011;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;Dagon;x
+PROV3012;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;Martaban;x
+PROV3013;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;x
+PROV3014;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;Hariphunchai;x
+PROV3015;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;Lavodapura;x
+PROV3016;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;U Thong;x
+PROV3017;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;Ratchaburi;x
+PROV3018;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;Phetchaburi;x
+PROV3019;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;Nakhon Pathom;x
+PROV3020;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;Chaiya;x
+PROV3021;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;Nakhon Si Thammarat;x
+PROV3022;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;Kedaram;x
+PROV3023;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;Wiang-jun;x
+PROV3024;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;Si Thep;x
+PROV3025;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;Phimai;x
+PROV3026;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;Angkor Wat;x
+PROV3027;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;Banteay Srei;x
+PROV3028;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;Hariharalaya;x
+PROV3029;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;Preah Vihear;x
+PROV3030;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;Champassak;x
+PROV3031;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;Stung Treng;x
+PROV3032;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;Sambor Prei Kuk;x
+PROV3033;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;Wat Nokor;x
+PROV3034;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;Angkor Borei;x
+PROV3035;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;Oc Eo;x
+PROV3036;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;Prey Nokor;x
+PROV3037;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;Panduranga;x
+PROV3038;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;Kauthara;x
+PROV3039;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;Vijaya;x
+PROV3040;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;Indrapura;x
+PROV3041;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;Amaravati;x
+PROV3042;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;Ha Tinh;x
+PROV3043;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;Ke Van;x
+PROV3044;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;Thanh Hoa;x
+PROV3045;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;Hoanya;x
+PROV3046;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;Thang Long;x
+PROV3047;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;Xiangkhouang;x
+PROV3048;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;Luang Prabang;x
+PROV3049;Nan;Nan;Nan;Nan;Nan;Nan;Nan;Nan;Nan;Nan;Nan;Nan;Nan;x
+PROV3050;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;Sukhothai;x
+PROV3051;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;Phitsanulok;x
+PROV3052;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;Nakhon Sawan;x
+PROV3053;Ava;Ava;Ava;Ava;Ava;Ava;Ava;Ava;Ava;Ava;Ava;Ava;Ava;x
+PROV3054;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;Lampang;x
+PROV3055;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;Chiang Mai;x
+PROV3056;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;Chiang Rai;x
+PROV3057;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;Phayao;x
+PROV3058;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;Mergui;x
+PROV3059;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;Bassein;x
+PROV3060;Prome;Prome;Prome;Prome;Prome;Prome;Prome;Prome;Prome;Prome;Prome;Prome;Prome;x
+PROV3061;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;Minbu;x
+PROV3062;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;Tagaung;x
+PROV3063;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;Bhamo;x
+PROV3064;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;Ngapudaw;x
+PROV3065;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;Mogaung;x
+PROV3066;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;Yawnghwe;x
+PROV3067;Ann;Ann;Ann;Ann;Ann;Ann;Ann;Ann;Ann;Ann;Ann;Ann;Ann;x
+PROV3068;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;Taungoo;x
+PROV3069;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;Ngoenyang;x
+PROV3070;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;Chaiyaphum;x
+PROV3071;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;Muang Fa Daet;x
+PROV3072;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;Phanat Nikhon;x
+PROV3073;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;Dong Lakhon;x
+PROV3074;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;Dong Si Maha Phot;x
+PROV3075;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;Phutthaisong;x
+PROV3076;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;Battambang;x
+PROV3077;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;Preah Trapeang;x
+PROV3078;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;Phan Thiet;x
+PROV3079;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;Gia Nghia;x
+PROV3080;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;Buon Ma Thuot;x
+PROV3081;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;Tuy Hoa;x
+PROV3082;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;Pleiku;x
+PROV3083;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;Kon Tum;x
+PROV3084;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;Dong Hoi;x
+PROV3085;Son La;Son La;Son La;Son La;Son La;Son La;Son La;Son La;Son La;Son La;Son La;Son La;Son La;x
+PROV3086;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;Dien Bien Phu;x
+PROV3087;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;Lai Chau;x
+PROV3088;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;Lao Cai;x
+PROV3089;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;Yen Bai;x
+PROV3090;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;Ha Giang;x
+PROV3091;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;Taokas;x
+PROV3092;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;Lang Son;x
+PROV3093;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;Atayal;x
+PROV3094;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;Haiphong;x
+PROV3095;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;Thai Nguyen;x
+PROV3096;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;Hoa Tinh;x
+PROV3097;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;Savannakhet;x
+PROV3098;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;Phongsali;x
+PROV3099;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;Salavan;x
+PROV3100;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;Thakhet;x
+PROV3101;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;Tavoy;x
+PROV3102;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;Ye;x
+PROV3103;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;Keng Tung;x
+PROV3104;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;Lashio;x
+PROV3105;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;Hansawadi;x
+PROV3106;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;Luang Namtha;x
+PROV3107;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;Ban Houayxay;x
+PROV3108;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;Takua Pa;x
+PROV3109;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;x
+PROV3110;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;Pekan;x
+PROV3111;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;Kutai;x
+PROV3112;Barus;Barus;Barus;Barus;Barus;Barus;Barus;Barus;Barus;Barus;Barus;Barus;Barus;x
+PROV3113;Panai;Panai;Panai;Panai;Panai;Panai;Panai;Panai;Panai;Panai;Panai;Panai;Panai;x
+PROV3114;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;Lingga;x
+PROV3115;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;Kota Kapur;x
+PROV3116;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;x
+PROV3117;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;Karang Berahi;x
+PROV3118;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;Palembang;x
+PROV3119;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;Palas Pasemah;x
+PROV3120;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;Tanah Abang;x
+PROV3121;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;Banten Girang;x
+PROV3122;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;Pulasari;x
+PROV3123;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;Cibadak;x
+PROV3124;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;Pakuan Pajajaran;x
+PROV3125;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;Tugu;x
+PROV3126;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;Cimanuk;x
+PROV3127;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;Kawali;x
+PROV3128;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;Pangandaran;x
+PROV3129;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;Cangkuang;x
+PROV3130;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;Bojong Menje;x
+PROV3131;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;Dieng;x
+PROV3132;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;Gianyar;x
+PROV3133;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;Kahuripan;x
+PROV3134;Daha;Daha;Daha;Daha;Daha;Daha;Daha;Daha;Daha;Daha;Daha;Daha;Daha;x
+PROV3135;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;Barabudur;x
+PROV3136;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;Lwaram;x
+PROV3137;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;Prambanan;x
+PROV3138;Palah;Palah;Palah;Palah;Palah;Palah;Palah;Palah;Palah;Palah;Palah;Palah;Palah;x
+PROV3139;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;Tumapel;x
+PROV3140;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;Wwatan;x
+PROV3141;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;Bangkalan;x
+PROV3142;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;Pasuruhan;x
+PROV3143;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;Tanjungpura;x
+PROV3144;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;Terengganu;x
+PROV3145;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;Kelantan;x
+PROV3146;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;Lamuri;x
+PROV3147;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;x
+PROV3148;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;Ternate;x
+PROV3149;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;Banjarmasin;x
+PROV3150;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;Sukadana;x
+PROV3151;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;Sambas;x
+PROV3152;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;Ketapang;x
+PROV3153;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;Tarakan;x
+PROV3154;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;Bakulapura;x
+PROV3155;Poli;Poli;Poli;Poli;Poli;Poli;Poli;Poli;Poli;Poli;Poli;Poli;Poli;x
+PROV3156;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;Banggai;x
+PROV3157;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;Jenggi;x
+PROV3158;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;Tiwu;x
+PROV3159;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;Huangmachu;x
+PROV3160;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;Gurun;x
+PROV3161;Bima;Bima;Bima;Bima;Bima;Bima;Bima;Bima;Bima;Bima;Bima;Bima;Bima;x
+PROV3162;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;Makassar;x
+PROV3163;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;Bangai;x
+PROV3164;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;Hutan Kadali;x
+PROV3165;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;Katingan;x
+PROV3166;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;Temasek;x
+PROV3167;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;Samudra;x
+PROV3168;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;Tulangbawang;x
+PROV3169;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;Bengkulu;x
+PROV3170;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;x
+PROV3171;Padang;Padang;Padang;Padang;Padang;Padang;Padang;Padang;Padang;Padang;Padang;Padang;Padang;x
+PROV3172;Aru;Aru;Aru;Aru;Aru;Aru;Aru;Aru;Aru;Aru;Aru;Aru;Aru;x
+PROV3173;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;Pariaman;x
+PROV3174;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;Mukomuko;x
+PROV3175;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;Sanggau;x
+PROV3176;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;Jolo;x
+PROV3177;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;x
+PROV3178;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;Bintulu;x
+PROV3179;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;Bontang;x
+PROV3180;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;Taliwang;x
+PROV3181;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;Baubau;x
+PROV3182;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;Palopo;x
+PROV3183;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;Ambon;x
+PROV3184;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;Tidore;x
+PROV3185;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;Labuha;x
+PROV3186;Manado;Manado;Manado;Manado;Manado;Manado;Manado;Manado;Manado;Manado;Manado;Manado;Manado;x
+PROV3187;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;Gorontalo;x
+PROV3188;Palu;Palu;Palu;Palu;Palu;Palu;Palu;Palu;Palu;Palu;Palu;Palu;Palu;x
+PROV3189;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;Luwuk;x
+PROV3190;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;Kendari;x
+PROV3191;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;Takang;x
+PROV3192;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;Larantuka;x
+PROV3193;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;Dobo;x
+PROV3194;Klang;Klang;Klang;Klang;Klang;Klang;Klang;Klang;Klang;Klang;Klang;Klang;Klang;x
+PROV3195;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;Melaka;x
+PROV3196;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;Dungun;x
+PROV3197;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;Butuan;x
+PROV3198;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;Tondo;x
+PROV3199;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;Maysapan;x
+PROV3200;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;Aklan;x
+PROV3201;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;Irongirong;x
+PROV3202;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;Maidh;x
+PROV3203;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;Marawi;x
+PROV3204;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;Ylokos;x
+PROV3205;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;Camalaniugan;x
+PROV3206;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;Tagoloan;x
+PROV3207;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;Kankabatok;x
+PROV3208;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;Palawan;x
+PROV3209;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;Andaman;x
+PROV3210;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;Ketagalan;x
+PROV3211;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;Siraya;x
+PROV3212;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;Puyuma;x
+PROV3213;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;Jailolo;x
+PROV3214;Weda;Weda;Weda;Weda;Weda;Weda;Weda;Weda;Weda;Weda;Weda;Weda;Weda;x
+PROV3215;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;Saumlaki;x
+PROV3216;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;Kalabahi;x
+PROV3217;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;Dumai;x
+PROV3218;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;Bukit Raya;x
+PROV3219;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;Sibolga;x
+PROV3220;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;Kuntodarussalam;x
+PROV3221;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;Hibala;x
+PROV3222;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;Cengal;x
+PROV3223;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;Gaung;x
+PROV3224;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;Sungai Rumbai;x
+PROV3225;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;Lemong;x
+PROV3226;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;Manggeng;x
+PROV3227;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;Morotai;x
+PROV3228;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;Oromo;x
+PROV3229;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;Qalaafe;x
+PROV3230;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;Bardera;x
+PROV3231;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;x
+PROV3232;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;x
+PROV3233;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;Kavaratti;x
+PROV3234;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;Hinnario;x
+PROV3235;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;Kaffa;x
+PROV3236;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;Gamo;x
+PROV3237;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;Bali;x
+PROV3238;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;Hadiya;x
+PROV3239;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;Dawaro;x
+PROV3240;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;Hobyo;x
+PROV3241;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;Mogadishu;x
+PROV3242;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;Baraawe;x
+PROV3243;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;Kismaayo;x
+PROV3244;Pate;Pate;Pate;Pate;Pate;Pate;Pate;Pate;Pate;Pate;Pate;Pate;Pate;x
+PROV3245;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;Malindi;x
+PROV3246;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;Mombasa;x
+PROV3247;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;Pemba;x
+PROV3248;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;Unguja;x
+PROV3249;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;Pangani;x
+PROV3250;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;Mafia;x
+PROV3251;Manda;Manda;Manda;Manda;Manda;Manda;Manda;Manda;Manda;Manda;Manda;Manda;Manda;x
+PROV3252;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;Kilwa;x
+PROV3253;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;Gedi;x
+PROV3254;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;x
+PROV3255;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;Ngazija;x
+PROV3256;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;Mwali;x
+PROV3257;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;Nzwani;x
+PROV3258;Maore;Maore;Maore;Maore;Maore;Maore;Maore;Maore;Maore;Maore;Maore;Maore;Maore;x
+PROV3259;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;Angoche;x
+PROV3260;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;Quelimane;x
+PROV3261;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;Sofala;x
+PROV3262;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;Tete;x
+PROV3263;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;Inhambane;x
+PROV3264;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;x
+PROV3265;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;Dinka;x
+PROV3266;Chollo;Chollo;Chollo;Chollo;Chollo;Chollo;Chollo;Chollo;Chollo;Chollo;Chollo;Chollo;Chollo;x
+PROV3267;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;Belanda;x
+PROV3268;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;Anuak;x
+PROV3269;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;Wipaco;x
+PROV3270;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;Tegidi;x
+PROV3271;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;Manyikeni;x
+PROV3272;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;x
+PROV3273;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;Toranjuu;x
+PROV3274;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;Mapungubwe;x
+PROV3275;Baar;Baar;Baar;Baar;Baar;Baar;Baar;Baar;Baar;Baar;Baar;Baar;Baar;x
+PROV3276;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;Jok a-Jok;x
+PROV3277;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;Zvongombe;x
+PROV3278;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;Chedzugwe;x
+PROV3279;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;Pakwak;x
+PROV3280;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;Pokot;x
+PROV3281;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;Bugagainzi;x
+PROV3282;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;Pawir;x
+PROV3283;Onon;Onon;Onon;Onon;Onon;Onon;Onon;Onon;Onon;Onon;Onon;Onon;Onon;x
+PROV3284;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;Kerlen;x
+PROV3285;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;Mwenge;x
+PROV3286;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;Buganda;x
+PROV3287;Syan;Syan;Syan;Syan;Syan;Syan;Syan;Syan;Syan;Syan;Syan;Syan;Syan;x
+PROV3288;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;Nkore;x
+PROV3289;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;Buhweju;x
+PROV3290;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;Karagwe;x
+PROV3291;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;Kiziba;x
+PROV3292;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;Mpororo;x
+PROV3293;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;Ndorwa;x
+PROV3294;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;Gisaka;x
+PROV3295;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;Burundi;x
+PROV3296;Buha;Buha;Buha;Buha;Buha;Buha;Buha;Buha;Buha;Buha;Buha;Buha;Buha;x
+PROV3297;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;Bujiji;x
+PROV3298;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;Buzinza;x
+PROV3299;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;Dornogobi;x
+PROV3300;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;Khara Narin Ula;x
+PROV3301;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;Saihan Tal;x
+PROV3302;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;Tsagaan;x
+PROV3303;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;Ukerewe;x
+PROV3304;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;Dahalo;x
+PROV3305;Garee;Garee;Garee;Garee;Garee;Garee;Garee;Garee;Garee;Garee;Garee;Garee;Garee;x
+PROV3306;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;El Molo;x
+PROV3307;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;Ongamo;x
+PROV3308;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;Kalenjin;x

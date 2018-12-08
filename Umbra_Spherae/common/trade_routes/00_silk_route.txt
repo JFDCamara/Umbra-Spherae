@@ -48,12 +48,13 @@ silk_road = {
 			province_id = 728
 			province_id = 774
 			province_id = 620
-			province_id = 622
+			province_id = 1794
 			province_id = 775
 			province_id = 633
 			province_id = 664
 			province_id = 644
-
+			province_id = 1797
+			
 			#UMBRA SPHERAE
 			province_id = 2235
 			province_id = 2174
@@ -62,28 +63,28 @@ silk_road = {
 			province_id = 2035
 
 			province_id = 2009
-			province_id = 1732
-			province_id = 1725
-			province_id = 1804
-			province_id = 1708
-			province_id = 1853
-			province_id = 1696
-			province_id = 1692
-			province_id = 1712
-			province_id = 1888
-			province_id = 1807
-			province_id = 1819
-			province_id = 1848
-			province_id = 1870
-			province_id = 1834
+			province_id = 3046
+			province_id = 3039
+			province_id = 3118
+			province_id = 3022
+			province_id = 3167
+			province_id = 3010
+			province_id = 3006
+			province_id = 3026
+			province_id = 3202
+			province_id = 3121
+			province_id = 3133
+			province_id = 3162
+			province_id = 3184
+			province_id = 3148
 
 			province_id = 2029
 			province_id = 2150
-			province_id = 1601
+			province_id = 2915
 			province_id = 2431
-			province_id = 1590
-			province_id = 1610
-			province_id = 1623
+			province_id = 2904
+			province_id = 2924
+			province_id = 2937
 
 			province_id = 1926
 			province_id = 1927
@@ -136,15 +137,11 @@ silk_road = {
 		#1509 # Anxi
 		#1510 # Kundina
 		#1512 # Water Node
-		#1513
-		#1505
-		#1403
 		2235 #Chengdu
 		2174 #Guangzhou
 		2239 #Chang'an
 		2168 #Fujian
 		2035 #Beijing
-		
 	}
 
 	# Northern Silk Route
@@ -155,8 +152,14 @@ silk_road = {
 	path = {	# Dunhuang-Khotan
 		1448 1518 1447 1520 1442 1441 1522 1523 1440
 	}
-	path = {	# Dunhuang-Turpan-Kucha-Kashgar
-		1448 1450 1446 1443 1444 1528 1445 1527 1439
+	path = {	# Dunhuang-Turpan-Kucha-Karashar
+		1448 1450 1446
+	}
+	path = {	# Karashar-Kashgar
+		1446 1443 1444 1528 1445 1527 1439
+	}
+	path = {	# Karashar-Otrar
+		1446 1449 1875 1876 1426 1797 1424 1795 1431
 	}
 	path = {	# Khotan-Yarkand-Kashgar
 		1440 1438 1525 1439
@@ -182,8 +185,11 @@ silk_road = {
 	path = {	# Ahvaz-Bagdad
 		647 656 689 693
 	}
-	path = {	# Samarkand-Turkestan-Itil-Tana
-		903 1181 1186 1431 900 622 621 618 620 605 607 596
+	path = {	# Samarkand-Otrar
+		903 1181 1186 1431
+	}
+	path = {	# Otrar-Turkestan-Itil-Tana
+		1431 900 1794 622 623 1793 621 618 620 619 605 1811 607 596
 	}
 	path = {	# Bagdad-Palmyra
 		693 696 695 712 729 730
@@ -228,8 +234,7 @@ silk_road = {
 		1114 1400 1220 1399 1127
 	}
 	path = { # Offmap -> Mahoyadapuram(Muziris)
-		#1512 1403 1402 1401 1114
-		1403 1402 1401 1114
+		1512 1403 1402 1401 1114
 	}
 	path = { # Vijayawada(Masulipatam) -> Navasarika
 		1221 1207 1253 1209 1144 1257 1143 1212 1142 1145 1264 1127
@@ -246,11 +251,8 @@ silk_road = {
 	path = {	# Hormuz-Ahvaz
 		641 642 644 645 647
 	}
-	path = {	# Banbhore-Muscat-Aden-Mecca-Cairo-Alexandria part1
-		1297 1412 1391 868 1390 866 1389 1369 1388
-	}
-	path = {	# Banbhore-Muscat-Aden-Mecca-Cairo-Alexandria part2
- 		1388 871 1387 1386 858 859 1532 1385 1384 716 719 718 1536 1383 1320 794 791 795 796 797 802
+	path = {	# Banbhore-Muscat-Aden-Mecca-Cairo-Alexandria
+		1297 1412 1391 868 1390 866 1389 1369 1388 871 1387 1386 858 859 1532 1385 1384 716 719 718 1536 1383 1320 794 791 795 796 797 802
 	}
 
 	# Asia Minor Silk Route
@@ -260,39 +262,39 @@ silk_road = {
 	path = {	# Dailam-Tabriz-Karin-Trebizond
 		665 667 671 672 681 703 704 678
 	}
-
+	
 	#UMBRA SPHERAE
 
 	# China - Indochina - India/Indonesia
 	path = {	# Yi(Chengdu)-Markam
-		2235 2236 2238 1671 1505
+		2235 2236 2238 2985 1505
 	}
 	path = {	# Markam-Dali
 		1505 2015 2014 2009
 	}
 	path = {	# Guang(Guangzhou/Nanhai)-Thang Long-Vijaya-Coast of Annam
-		2174 2320 1780 1732 1726 2321
+		2174 2320 3094 3046 3040 2321
 	}
 	path = {	# Coast of Annam-Mekong Delta
-		2321 1725 1723 2330 2333
+		2321 3039 3037 2330 2333
 	}
 	path = {	# Mekong Delta-Straits of Johore
 		2333 2338 2339
 	}
 	path = {	# Straits of Johore-Palembang-Kedaram-South Lanka Sea
-		2339 1804 1802 1708 2354 1853 2359 2360 1403
+		2339 3118 3116 3022 2354 3167 2359 2360 1403
 	}
 	path = {	# Dali-Ngoenyang-Hariphunchai-Pegu-Vaisali-Samatata
-		2009 2021 1789 1755 1742 1741 1700 1699 1696 2356 2357 1691 1753 1692 1318
+		2009 2021 3103 3069 3056 3055 3014 3013 3010 2356 2357 3005 3067 3006 1318
 	}
 	path = {	# Mekong Delta-Angkor Wat-Lavodapura-Hariphunchai
-		2333 2334 1714 1712 1760 1759 1701 1738 1736 1700
+		2333 2334 3028 3026 3074 3073 3015 3052 3050 3014
 	}
 	path = {	# Coast of Annam-Maidh
-		2321 2325 2326 1884 1885 1888
+		2321 2325 2326 3198 3199 3202
 	}
 	path = {	# Straits of Johore-Banten Girang-Kahuripan-Makassar-Ternate
-		2339 2344 1829 1807 2340 1819 2341 1848 2349 2350 2347 1870 1834
+		2339 2344 3143 3121 2340 3133 2341 3162 2349 2350 2347 3184 3148
 	}
 
 	# China - Tarim Basin
@@ -302,26 +304,26 @@ silk_road = {
 
 	# China - Japan
 	path = {	# Fu(Fujian)-Ryukyu-Chikuzen-Yamashiro
-		2168 2318 2150 2317 1601 2312 2311 2431 2429 2301 1592 1590
+		2168 2318 2150 2317 2915 2312 2311 2431 2429 2301 2906 2904
 	}
 	path = {	# You(Beijing/Fanyang)-Gyeonggi-Yang-Tsushima Straits
-		2035 2315 1610 1614 2316 1623 2311
+		2035 2315 2924 2928 2316 2937 2311
 	}
 
 	# Bab el Mandeb-Zimbabwe
 	path = {	# Hobyo-Kilwa
- 		1388 2362 1926 1927 1647 2363 1928 1929 1930 1937 1931 1939 1932 2364 1933 1934 1935 1936 1938
+ 		1388 2362 3240 3241 2961 2363 3242 3243 3244 3251 3245 3253 3246 2364 3247 3248 3249 3250 3252
 	}
 	path = {	# Kilwa-Nzwani
- 		1938 2365 1943
+ 		3252 2365 3257
 	}
 	path = {	# Nzwani-Boina
- 		1943 2414
+ 		3257 2414
 	}
 	path = {	# Nzwani-Androy
- 		1943 2410 2413 2411 2417
+ 		3257 2410 2413 2411 2417
 	}
 	path = {	# Kilwa-Mapungubwe
- 		1938 1940 1945 1946 2366 1947 1948 1658 1963 1654 1958 1662 1655 1960
+ 		3252 3254 3259 3260 2366 3261 3262 2972 3277 2968 3272 2976 2969 3274
 	}
 }

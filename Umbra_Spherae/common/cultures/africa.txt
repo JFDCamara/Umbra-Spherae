@@ -330,3 +330,26 @@ afroaustronesian = {
 		modifier = default_culture_modifier
 	}
 }
+
+khoi_san_group = {
+	graphical_cultures = { africangfx westafricangfx muslimgfx }
+
+	khoi_san = { 
+		graphical_cultures = { africangfx westafricangfx muslimgfx }
+		
+		color = { 0.2 0.25 0.15 }
+
+		male_names = {
+			#San
+			Cgose Coexae Gamnqoa Kase Kgakgam Kukama Mangana Ncgabe Ncokgo Ntcoxo Nxaedom Qaetcao Qgam Qgoma Qhomatca Setshogo Sobe Taase Tcuixgao Thama Thamae Xaga Xare Xgaiga Xgaoco Xgoa
+		}
+		female_names = {
+			#San
+			Cgose Coexae Gamnqoa Kase Kgakgam Kukama Mangana Ncgabe Ncokgo Ntcoxo Nxaedom Qaetcao Qgam Qgoma Qhomatca Setshogo Sobe Taase Tcuixgao Thama Thamae Xaga Xare Xgaiga Xgaoco Xgoa
+		}
+
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+		modifier = default_culture_modifier
+	}
+}

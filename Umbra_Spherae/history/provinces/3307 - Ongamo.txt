@@ -1,0 +1,21 @@
+# 3307 - Ongamo
+
+# County Title
+title = c_ongamo
+
+# Settlements
+max_settlements = 4
+b_ongamo = tribal
+#b_thagicu
+#b_nkubu =
+#b_chogoria =
+#b_chuka =
+#b_embu =
+#b_kutus =
+#b_kerugoya =
+
+# Misc
+culture = nilotic
+religion = nilotic_pagan
+
+# History
