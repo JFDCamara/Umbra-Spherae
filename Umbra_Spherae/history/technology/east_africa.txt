@@ -7,6 +7,30 @@ technology = {
 		d_betsimisaraka
 		d_antankara
 		d_mahafaly_antemoro
+		d_kenya
+		d_kalenjin_tato
+		d_dahalo
+		d_kilimanjaro
+		d_ruvuma
+		d_kwadza_iramba
+		d_bunyoro_kitara
+		d_buganda
+		d_nkore
+		d_karagwe
+		d_rwanda
+		d_burundi
+		d_buzinza
+		d_funj
+		d_shilluk
+		d_anuak
+		d_tegidi
+		d_joka
+		d_maravi
+		d_yao_nhanja
+		d_makwa_lomwe
+		d_rukwa
+		d_tumbuka
+		d_nyamwezi_sukuma
 	}
 	
 	769 = {

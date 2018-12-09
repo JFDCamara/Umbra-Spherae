@@ -1,0 +1,21 @@
+# 1998 - Tato
+
+# County Title
+title = c_tato
+
+# Settlements
+max_settlements = 3
+b_tato = tribal
+#b_mara_tato =
+#b_musoma =
+#b_sonjo =
+#b_lemek =
+#b_kaboson =
+#b_ngorengore =
+#b_ololulunga =
+
+# Misc
+culture = nilotic
+religion = nilotic_pagan
+
+# History

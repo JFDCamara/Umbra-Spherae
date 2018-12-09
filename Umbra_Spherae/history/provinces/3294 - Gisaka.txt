@@ -1,0 +1,21 @@
+# 3294 - Gisaka
+
+# County Title
+title = c_gisaka
+
+# Settlements
+max_settlements = 5
+b_gisaka = tribal
+#b_bugesera =
+#b_buganza =
+#b_busozo =
+#b_bukunzi =
+#b_gisuma =
+#b_karaba =
+#b_gikongoro =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

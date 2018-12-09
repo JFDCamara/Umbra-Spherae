@@ -1,0 +1,21 @@
+# 2005 - Kwa'dza
+
+# County Title
+title = c_kwadza
+
+# Settlements
+max_settlements = 5
+b_kwadza = tribal
+#b_hehe =
+#b_serya =
+#b_kondoa =
+#b_haubi =
+#b_busi =
+#b_goima =
+#b_pahi =
+
+# Misc
+culture = interior_cushitic
+religion = cushitic_pagan
+
+# History

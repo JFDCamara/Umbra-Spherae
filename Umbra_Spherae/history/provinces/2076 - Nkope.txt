@@ -1,0 +1,21 @@
+# 2076 - Nkope
+
+# County Title
+title = c_nkope
+
+# Settlements
+max_settlements = 5
+b_nkope = tribal
+#b_nanyangu =
+#b_kapeni =
+#b_nankumba =
+#b_nkopola =
+#b_nankhwali =
+#b_chembe =
+#b_lizulu =
+
+# Misc
+culture = rufiji_nyasa
+religion = east_bantu_mythology
+
+# History

@@ -1,0 +1,21 @@
+# 3295 - Burundi
+
+# County Title
+title = c_burundi
+
+# Settlements
+max_settlements = 5
+b_burundi = tribal
+#b_nkoma =
+#b_mutambu =
+#b_gitaza =
+#b_minago =
+#b_buyengero =
+#b_matana =
+#b_bisoro =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

@@ -1,0 +1,21 @@
+# 2073 - Makwa
+
+# County Title
+title = c_makwa
+
+# Settlements
+max_settlements = 3
+b_makwa = tribal
+#b_montepuez =
+#b_napaha =
+#b_morrola =
+#b_culue =
+#b_balama =
+#b_nungo =
+#b_marrupa =
+
+# Misc
+culture = rufiji_nyasa
+religion = east_bantu_mythology
+
+# History

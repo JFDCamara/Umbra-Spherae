@@ -1,0 +1,21 @@
+# 2068 - Lapwa
+
+# County Title
+title = c_lapwa
+
+# Settlements
+max_settlements = 3
+b_lapwa = tribal
+#b_kalundi =
+#b_izinga =
+#b_mpasa =
+#b_muzi =
+#b_kasanga =
+#b_sumbawanga =
+#b_ntendo =
+
+# Misc
+culture = khoi_san
+religion = khoi_san_mythology
+
+# History

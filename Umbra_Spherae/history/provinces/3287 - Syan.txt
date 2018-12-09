@@ -1,0 +1,21 @@
+# 3287 - Syan
+
+# County Title
+title = c_syan
+
+# Settlements
+max_settlements = 4
+b_syan = tribal
+#b_iganga =
+#b_busembatia =
+#b_kibwiza =
+#b_bugiri =
+#b_bukanya =
+#b_jinja =
+#b_buganza_syan =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

@@ -1,0 +1,21 @@
+# 2001 - Dadog
+
+# County Title
+title = c_dadog
+
+# Settlements
+max_settlements = 4
+b_dadog = tribal
+#b_chagga =
+#b_asax =
+#b_arusha =
+#b_monduli =
+#b_machame =
+#b_kingori =
+#b_mererani =
+
+# Misc
+culture = nilotic
+religion = nilotic_pagan
+
+# History

@@ -1,0 +1,21 @@
+# 2081 - Phopo
+
+# County Title
+title = c_phopo
+
+# Settlements
+max_settlements = 4
+b_phopo = tribal
+#b_chilumba =
+#b_chiweta =
+#b_chelinda =
+#b_rhumpi =
+#b_chitango =
+#b_mzuzu =
+#b_usisya =
+
+# Misc
+culture = rufiji_nyasa
+religion = east_bantu_mythology
+
+# History

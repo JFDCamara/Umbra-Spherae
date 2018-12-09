@@ -1,0 +1,21 @@
+# 3276 - Jok a-Jok
+
+# County Title
+title = c_jok_a_jok
+
+# Settlements
+max_settlements = 4
+b_jok_a_jok = tribal
+#b_obalang =
+#b_aloi =
+#b_alebtong =
+#b_orwamuge =
+#b_arapai =
+#b_lwala =
+#b_dokolo =
+
+# Misc
+culture = nilotic
+religion = nilotic_pagan
+
+# History

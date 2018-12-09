@@ -1,0 +1,21 @@
+# 2063 - Ruvu
+
+# County Title
+title = c_ruvu
+
+# Settlements
+max_settlements = 5
+b_ruvu = tribal
+#b_mbugua =
+#b_magindu =
+#b_chalinze =
+#b_msolwa =
+#b_msoga =
+#b_kinonko =
+#b_mikese =
+
+# Misc
+culture = ruvu_kikuyu_takama
+religion = east_bantu_mythology
+
+# History

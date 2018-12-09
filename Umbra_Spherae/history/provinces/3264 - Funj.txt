@@ -1,0 +1,21 @@
+# 3264 - Funj
+
+# County Title
+title = c_funj
+
+# Settlements
+max_settlements = 5
+b_funj = tribal
+#b_damazin =
+#b_kurmuk =
+#b_er_roseires =
+#b_tadamon =
+#b_bau =
+#b_qeissan =
+#b_abania =
+
+# Misc
+culture = nilotic
+religion = nilotic_pagan
+
+# History

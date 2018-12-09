@@ -1,0 +1,21 @@
+# 2074 - Lomwe
+
+# County Title
+title = c_lomwe
+
+# Settlements
+max_settlements = 3
+b_lomwe = tribal
+#b_nampula =
+#b_mocuburi =
+#b_namina =
+#b_baciano =
+#b_ribaue =
+#b_iapala =
+#b_lalaua =
+
+# Misc
+culture = rufiji_nyasa
+religion = east_bantu_mythology
+
+# History

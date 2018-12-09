@@ -1,0 +1,21 @@
+# 2061 - Sukuma
+
+# County Title
+title = c_sukuma
+
+# Settlements
+max_settlements = 3
+b_sukuma = tribal
+#b_kahama =
+#b_isaka =
+#b_ushetu =
+#b_bukene =
+#b_itobo =
+#b_jomu =
+#b_nzega =
+
+# Misc
+culture = ruvu_kikuyu_takama
+religion = east_bantu_mythology
+
+# History

@@ -1,0 +1,21 @@
+# 2066 - Mwera
+
+# County Title
+title = c_mwera
+
+# Settlements
+max_settlements = 3
+b_mwera = tribal
+#b_kimambi =
+#b_barikiwa =
+#b_hemedi =
+#b_liwale =
+#b_muira =
+#b_njinjo =
+#b_mnero =
+
+# Misc
+culture = rufiji_nyasa
+religion = east_bantu_mythology
+
+# History

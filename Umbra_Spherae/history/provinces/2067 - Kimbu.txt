@@ -1,0 +1,21 @@
+# 2067 - Kimbu
+
+# County Title
+title = c_kimbu
+
+# Settlements
+max_settlements = 3
+b_kimbu = tribal
+#b_kapalala =
+#b_lukwati =
+#b_ilungu =
+#b_usule =
+#b_inyonga =
+#b_utende =
+#b_malote =
+
+# Misc
+culture = ruvu_kikuyu_takama
+religion = east_bantu_mythology
+
+# History

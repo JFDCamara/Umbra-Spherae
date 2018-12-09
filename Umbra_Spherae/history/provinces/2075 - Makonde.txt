@@ -1,0 +1,21 @@
+# 2075 - Makonde
+
+# County Title
+title = c_makonde
+
+# Settlements
+max_settlements = 3
+b_makonde = tribal
+#b_masasi =
+#b_mikangaula =
+#b_nangomba =
+#b_likokona =
+#b_negomane =
+#b_masuguru =
+#b_michiga =
+
+# Misc
+culture = rufiji_nyasa
+religion = east_bantu_mythology
+
+# History

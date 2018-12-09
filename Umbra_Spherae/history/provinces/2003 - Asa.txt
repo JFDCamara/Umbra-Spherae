@@ -1,0 +1,21 @@
+# 2003 - Asa
+
+# County Title
+title = c_asa
+
+# Settlements
+max_settlements = 3
+b_asa_asa = tribal
+#b_bisil =
+#b_mailua =
+#b_lipatimmro =
+#b_lianai =
+#b_mashuru =
+#b_kiu =
+#b_konza =
+
+# Misc
+culture = interior_cushitic
+religion = cushitic_pagan
+
+# History

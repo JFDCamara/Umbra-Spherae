@@ -1,0 +1,21 @@
+# 1997 - Sabaki
+
+# County Title
+title = c_sabaki
+
+# Settlements
+max_settlements = 3
+b_sabaki = tribal
+#b_bangali =
+#b_garissa =
+#b_kamudi =
+#b_bura_sabaki =
+#b_higlet =
+#b_chewele =
+#b_balguda =
+
+# Misc
+culture = ruvu_kikuyu_takama
+religion = east_bantu_mythology
+
+# History

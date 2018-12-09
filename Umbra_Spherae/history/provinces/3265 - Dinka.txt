@@ -1,0 +1,21 @@
+# 3265 - Dinka
+
+# County Title
+title = c_dinka
+
+# Settlements
+max_settlements = 4
+b_dinka = tribal
+#b_baliet =
+#b_fashoda =
+#b_longechuk =
+#b_maban =
+#b_malakai =
+#b_manyo =
+#b_maiwut =
+
+# Misc
+culture = nilotic
+religion = nilotic_pagan
+
+# History

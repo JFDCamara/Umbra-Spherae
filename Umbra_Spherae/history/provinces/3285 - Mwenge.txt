@@ -1,0 +1,21 @@
+# 3285 - Mwenge
+
+# County Title
+title = c_mwenge
+
+# Settlements
+max_settlements = 4
+b_mwenge = tribal
+#b_ntoroko =
+#b_bundibugyo =
+#b_kyenjojo =
+#b_kijura =
+#b_rugombe =
+#b_kikorba =
+#b_yenga =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

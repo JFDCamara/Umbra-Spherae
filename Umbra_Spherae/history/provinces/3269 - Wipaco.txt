@@ -1,0 +1,21 @@
+# 3269 - Wipaco
+
+# County Title
+title = c_wipaco
+
+# Settlements
+max_settlements = 4
+b_wipaco = tribal
+#b_lobira =
+#b_kapoeta =
+#b_narongyet =
+#b_tchumakori =
+#b_lumeyen =
+#b_nawayareng =
+#b_lodomei =
+
+# Misc
+culture = nilotic
+religion = nilotic_pagan
+
+# History

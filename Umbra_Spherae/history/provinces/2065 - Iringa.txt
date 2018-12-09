@@ -1,0 +1,21 @@
+# 2065 - Iringa
+
+# County Title
+title = c_iringa
+
+# Settlements
+max_settlements = 3
+b_iringa = tribal
+#b_kidatu =
+#b_ifakara =
+#b_idete =
+#b_lupiro =
+#b_mahenge =
+#b_mwaya =
+#b_ilonga =
+
+# Misc
+culture = interior_cushitic
+religion = cushitic_pagan
+
+# History

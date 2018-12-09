@@ -1,0 +1,21 @@
+# 2070 - Yao
+
+# County Title
+title = c_yao
+
+# Settlements
+max_settlements = 5
+b_yao_yao = tribal
+#b_milepa =
+#b_matchendje =
+#b_kandulu =
+#b_macalonge =
+#b_chamba_yao =
+#b_mataca =
+#b_valadim =
+
+# Misc
+culture = rufiji_nyasa
+religion = east_bantu_mythology
+
+# History

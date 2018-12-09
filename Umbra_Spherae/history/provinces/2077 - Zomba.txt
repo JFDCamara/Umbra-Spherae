@@ -1,0 +1,21 @@
+# 2077 - Zomba
+
+# County Title
+title = c_zomba
+
+# Settlements
+max_settlements = 4
+b_zomba = tribal
+#b_namichimba =
+#b_domasi =
+#b_malosa =
+#b_machinga =
+#b_phalombe =
+#b_liwonde =
+#b_nsanama =
+
+# Misc
+culture = rufiji_nyasa
+religion = east_bantu_mythology
+
+# History

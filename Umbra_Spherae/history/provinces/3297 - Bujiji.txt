@@ -1,0 +1,21 @@
+# 3297 - Bujiji
+
+# County Title
+title = c_bujiji
+
+# Settlements
+max_settlements = 6
+b_bujiji = tribal
+#b_mwandiga =
+#b_simbo =
+#b_kidahwe =
+#b_bolombola =
+#b_kazuramimba =
+#b_musosi =
+#b_mwamgongo =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

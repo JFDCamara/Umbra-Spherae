@@ -1,0 +1,21 @@
+# 3286 - Buganda
+
+# County Title
+title = c_buganda
+
+# Settlements
+max_settlements = 5
+b_buganda = tribal
+#b_kampala =
+#b_lyamutundwe =
+#b_entebbe =
+#b_seeta =
+#b_wobulenzi =
+#b_luweero =
+#b_butuntumula =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

@@ -1,0 +1,21 @@
+# 3298 - Buzinza
+
+# County Title
+title = c_buzinza
+
+# Settlements
+max_settlements = 4
+b_buzinza = tribal
+#b_rusubi =
+#b_bwina =
+#b_nzera =
+#b_katoro =
+#b_geita =
+#b_kasama =
+#b_kahunda =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

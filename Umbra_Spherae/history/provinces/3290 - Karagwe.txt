@@ -1,0 +1,21 @@
+# 3290 - Karagwe
+
+# County Title
+title = c_karagwe
+
+# Settlements
+max_settlements = 5
+b_karagwe = tribal
+#b_mubari =
+#b_bugara =
+#b_kaisho =
+#b_kyerwa =
+#b_nkwenda =
+#b_kituntu =
+#b_kayanga =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

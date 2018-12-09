@@ -1,0 +1,21 @@
+# 2064 - Ma'a
+
+# County Title
+title = c_maa
+
+# Settlements
+max_settlements = 3
+b_maa = tribal
+#b_seuta =
+#b_ndedo =
+#b_handeni =
+#b_mswaki =
+#b_kwediboma =
+#b_mgera =
+#b_kijungu =
+
+# Misc
+culture = interior_cushitic
+religion = cushitic_pagan
+
+# History

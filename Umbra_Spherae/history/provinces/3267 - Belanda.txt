@@ -1,0 +1,21 @@
+# 3267 - Belanda
+
+# County Title
+title = c_belanda
+
+# Settlements
+max_settlements = 4
+b_belanda = tribal
+#b_fangak =
+#b_waat =
+#b_ayod =
+#b_duk_padiet =
+#b_duk_payuel =
+#b_wernyol =
+#b_kongor =
+
+# Misc
+culture = nilotic
+religion = nilotic_pagan
+
+# History

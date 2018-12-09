@@ -1,0 +1,21 @@
+# 3275 - Baar
+
+# County Title
+title = c_baar
+
+# Settlements
+max_settlements = 5
+b_baar_baar = tribal
+#b_kaigo =
+#b_poko =
+#b_juba =
+#b_mongalla =
+#b_liria =
+#b_torit =
+#b_magwi =
+
+# Misc
+culture = nilotic
+religion = nilotic_pagan
+
+# History

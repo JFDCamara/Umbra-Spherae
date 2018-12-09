@@ -1,0 +1,21 @@
+# 1995 - Gumba
+
+# County Title
+title = c_gumba
+
+# Settlements
+max_settlements = 3
+b_gumba = tribal
+#b_barata =
+#b_merti =
+#b_garba_tula =
+#b_laisamis =
+#b_gudas =
+#b_benane =
+#b_mado_gashi =
+
+# Misc
+culture = interior_cushitic
+religion = cushitic_pagan
+
+# History

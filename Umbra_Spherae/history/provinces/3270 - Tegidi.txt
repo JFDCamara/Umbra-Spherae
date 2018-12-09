@@ -1,0 +1,21 @@
+# 3270 - Tegidi
+
+# County Title
+title = c_tegidi
+
+# Settlements
+max_settlements = 5
+b_tegidi = tribal
+#b_kaaling =
+#b_todonyang =
+#b_lowarengak =
+#b_nariokotome =
+#b_lokitaung =
+#b_kaeris =
+#b_kokuro =
+
+# Misc
+culture = nilotic
+religion = nilotic_pagan
+
+# History

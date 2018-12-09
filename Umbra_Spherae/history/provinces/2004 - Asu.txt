@@ -1,0 +1,21 @@
+# 2004 - Asu
+
+# County Title
+title = c_asu
+
+# Settlements
+max_settlements = 3
+b_asu = tribal
+#b_taita =
+#b_pare =
+#b_sangala =
+#b_ndome =
+#b_maktau =
+#b_manyani =
+#b_voi_asu =
+
+# Misc
+culture = ruvu_kikuyu_takama
+religion = east_bantu_mythology
+
+# History

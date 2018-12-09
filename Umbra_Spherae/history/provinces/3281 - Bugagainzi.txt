@@ -1,0 +1,21 @@
+# 3281 - Bugagainzi
+
+# County Title
+title = c_bugagainzi
+
+# Settlements
+max_settlements = 7
+b_bugagainzi = tribal
+b_hoima = tribal
+#b_kibuye =
+#b_kyangwali =
+#b_bukwiri =
+#b_kitoba =
+#b_nalweyo =
+#b_kakindu =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

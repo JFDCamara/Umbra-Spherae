@@ -1,0 +1,21 @@
+# 2062 - Nyamwezi
+
+# County Title
+title = c_nyamwezi
+
+# Settlements
+max_settlements = 3
+b_nyamwezi = tribal
+#b_tabora =
+#b_sikonge =
+#b_igalula =
+#b_kwihara =
+#b_tumbi =
+#b_mabama =
+#b_chali =
+
+# Misc
+culture = ruvu_kikuyu_takama
+religion = east_bantu_mythology
+
+# History

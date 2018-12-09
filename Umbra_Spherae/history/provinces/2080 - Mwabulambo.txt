@@ -1,0 +1,21 @@
+# 2080 - Mwabulambo
+
+# County Title
+title = c_mwabulambo
+
+# Settlements
+max_settlements = 5
+b_mwabulambo = tribal
+#b_mwamasapa =
+#b_nyakyusa =
+#b_ngonde =
+#b_nyiha =
+#b_kyela =
+#b_ipinda =
+#b_kaporo =
+
+# Misc
+culture = rufiji_nyasa
+religion = east_bantu_mythology
+
+# History

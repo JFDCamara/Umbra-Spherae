@@ -1,0 +1,21 @@
+# 2007 - Iramba
+
+# County Title
+title = c_iramba
+
+# Settlements
+max_settlements = 3
+b_iramba = tribal
+#b_nyaturu =
+#b_alagwa =
+#b_burungi =
+#b_irangi =
+#b_ilongero =
+#b_iguguno =
+#b_singida =
+
+# Misc
+culture = ruvu_kikuyu_takama
+religion = east_bantu_mythology
+
+# History

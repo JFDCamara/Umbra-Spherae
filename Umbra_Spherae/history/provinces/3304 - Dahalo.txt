@@ -1,0 +1,21 @@
+# 3304 - Dahalo
+
+# County Title
+title = c_dahalo
+
+# Settlements
+max_settlements = 3
+b_dahalo = tribal
+#b_pokomo =
+#b_liboi =
+#b_dif =
+#b_dadaab =
+#b_sabuli =
+#b_spaju =
+#b_habaswein =
+
+# Misc
+culture = interior_cushitic
+religion = cushitic_pagan
+
+# History

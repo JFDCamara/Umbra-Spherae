@@ -1,0 +1,21 @@
+# 2031 - Sandawe
+
+# County Title
+title = c_sandawe
+
+# Settlements
+max_settlements = 3
+b_sandawe = tribal
+#b_mgandu =
+#b_itigi =
+#b_sanjaranda =
+#b_manyoni =
+#b_chikola =
+#b_majiri_sandawe =
+#b_kilimatinde =
+
+# Misc
+culture = khoi_san
+religion = khoi_san_mythology
+
+# History

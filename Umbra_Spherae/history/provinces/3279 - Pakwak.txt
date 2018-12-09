@@ -1,0 +1,21 @@
+# 3279 - Pakwak
+
+# County Title
+title = c_pakwak
+
+# Settlements
+max_settlements = 4
+b_pakwak = tribal
+#b_lolim =
+#b_purongo =
+#b_anaka =
+#b_nwoya =
+#b_ongako =
+#b_gulu =
+#b_olwiyo =
+
+# Misc
+culture = nilotic
+religion = nilotic_pagan
+
+# History

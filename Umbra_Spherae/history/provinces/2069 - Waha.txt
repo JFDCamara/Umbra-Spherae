@@ -1,0 +1,21 @@
+# 2069 - Waha
+
+# County Title
+title = c_waha
+
+# Settlements
+max_settlements = 3
+b_waha = tribal
+#b_lagosa =
+#b_karema =
+#b_sitalike =
+#b_magamba =
+#b_mpanda =
+#b_ugalla =
+#b_kisi =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

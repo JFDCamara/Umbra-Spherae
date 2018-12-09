@@ -1,0 +1,21 @@
+# 3268 - Anuak
+
+# County Title
+title = c_anuak
+
+# Settlements
+max_settlements = 4
+b_anuak = tribal
+#b_akobo =
+#b_pibor =
+#b_pochalla =
+#b_tirgol =
+#b_manyeran =
+#b_wunkok =
+#b_chargoz =
+
+# Misc
+culture = nilotic
+religion = nilotic_pagan
+
+# History

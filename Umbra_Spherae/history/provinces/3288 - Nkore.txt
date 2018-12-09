@@ -1,0 +1,21 @@
+# 3288 - Nkore
+
+# County Title
+title = c_nkore
+
+# Settlements
+max_settlements = 5
+b_nkore = tribal
+#b_isingiro =
+#b_kitagwenda =
+#b_kooki =
+#b_buddu =
+#b_bwera =
+#b_bigo =
+#b_masaka_nkore =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

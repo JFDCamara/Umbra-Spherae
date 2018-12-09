@@ -1,0 +1,21 @@
+# 3289 - Buhweju
+
+# County Title
+title = c_buhweju
+
+# Settlements
+max_settlements = 4
+b_buhweju = tribal
+#b_buzimba =
+#b_kamwenge =
+#b_mpanga =
+#b_kabujogera =
+#b_ibanda =
+#b_kitongore =
+#b_kichwamba =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

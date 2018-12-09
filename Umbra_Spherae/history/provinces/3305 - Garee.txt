@@ -1,0 +1,21 @@
+# 3305 - Garee
+
+# County Title
+title = c_garee
+
+# Settlements
+max_settlements = 3
+b_garee = tribal
+#b_duse =
+#b_tarba =
+#b_wajir =
+#b_el_ben =
+#b_el_wak =
+#b_ajao =
+#b_buna =
+
+# Misc
+culture = somali
+religion = cushitic_pagan
+
+# History

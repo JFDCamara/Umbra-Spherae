@@ -1,0 +1,21 @@
+# 2071 - Kilombero
+
+# County Title
+title = c_kilombero
+
+# Settlements
+max_settlements = 3
+b_kilombero = tribal
+#b_songea =
+#b_kitanda =
+#b_mbinga =
+#b_ludewa =
+#b_liganga =
+#b_madunda =
+#b_miangali =
+
+# Misc
+culture = rufiji_nyasa
+religion = east_bantu_mythology
+
+# History

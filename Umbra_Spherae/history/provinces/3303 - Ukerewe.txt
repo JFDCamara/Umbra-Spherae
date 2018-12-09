@@ -1,0 +1,21 @@
+# 3303 - Ukerewe
+
+# County Title
+title = c_ukerewe
+
+# Settlements
+max_settlements = 5
+b_ukerewe = tribal
+#b_nansimo =
+#b_kibara =
+#b_nyahanga =
+#b_lomadai =
+#b_mkula =
+#b_kitongo =
+#b_kayenze =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

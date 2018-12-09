@@ -1,0 +1,21 @@
+# 3280 - Pokot
+
+# County Title
+title = c_pokot
+
+# Settlements
+max_settlements = 3
+b_pokot = tribal
+#b_nadoto =
+#b_kerio =
+#b_lodwar =
+#b_nadapal =
+#b_turkwel =
+#b_loperot =
+#b_lokichar =
+
+# Misc
+culture = nilotic
+religion = nilotic_pagan
+
+# History

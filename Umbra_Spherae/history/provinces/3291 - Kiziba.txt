@@ -1,0 +1,21 @@
+# 3291 - Kiziba
+
+# County Title
+title = c_kiziba
+
+# Settlements
+max_settlements = 4
+b_kiziba = tribal
+#b_bugabo =
+#b_kyamutwara =
+#b_kyanja =
+#b_inhangiro =
+#b_maruku =
+#b_bukoba =
+#b_muhutwe =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

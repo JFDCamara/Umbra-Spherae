@@ -1,0 +1,21 @@
+# 3306 - El Molo
+
+# County Title
+title = c_el_molo
+
+# Settlements
+max_settlements = 3
+b_el_molo = tribal
+#b_rendille =
+#b_loiyangalani =
+#b_kalacha =
+#b_maikona =
+#b_bubisa =
+#b_kargi =
+#b_choba =
+
+# Misc
+culture = interior_cushitic
+religion = cushitic_pagan
+
+# History

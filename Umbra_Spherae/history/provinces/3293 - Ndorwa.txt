@@ -1,0 +1,21 @@
+# 3293 - Ndorwa
+
+# County Title
+title = c_ndorwa
+
+# Settlements
+max_settlements = 4
+b_ndorwa = tribal
+#b_cyingogo =
+#b_bushiru =
+#b_buhoma =
+#b_kabale =
+#b_bubale =
+#b_kamuganguzi =
+#b_bafunda =
+
+# Misc
+culture = ganda_rwanda_rundi
+religion = east_bantu_mythology
+
+# History

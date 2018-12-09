@@ -1,0 +1,21 @@
+# 2072 - Nhanja
+
+# County Title
+title = c_nhanja
+
+# Settlements
+max_settlements = 3
+b_nhanja = tribal
+#b_lichinga =
+#b_meponda = 
+#b_mirango =
+#b_metangula =
+#b_maniamba =
+#b_demba =
+#b_ajabo =
+
+# Misc
+culture = rufiji_nyasa
+religion = east_bantu_mythology
+
+# History

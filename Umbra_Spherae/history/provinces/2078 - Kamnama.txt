@@ -1,0 +1,21 @@
+# 2078 - Kamnama
+
+# County Title
+title = c_kamnama
+
+# Settlements
+max_settlements = 3
+b_kamnama = tribal
+#b_chintheche =
+#b_chikangawa =
+#b_mzimba =
+#b_manyamula =
+#b_edingeni =
+#b_chasefu =
+#b_lundazi =
+
+# Misc
+culture = rufiji_nyasa
+religion = east_bantu_mythology
+
+# History

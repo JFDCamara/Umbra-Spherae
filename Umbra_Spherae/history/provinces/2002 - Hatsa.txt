@@ -1,0 +1,21 @@
+# 2002 - Hatsa
+
+# County Title
+title = c_hatsa
+
+# Settlements
+max_settlements = 3
+b_hatsa = tribal
+#b_sinoni =
+#b_endulen =
+#b_seronera =
+#b_kisesa =
+#b_kilimi =
+#b_somanda =
+#b_lalago =
+
+# Misc
+culture = khoi_san
+religion = khoi_san_mythology
+
+# History

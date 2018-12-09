@@ -1,0 +1,21 @@
+# 2082 - Nyamwanga
+
+# County Title
+title = c_nyamwanga
+
+# Settlements
+max_settlements = 3
+b_nyamwanga = tribal
+#b_chibesakunda =
+#b_bulaya =
+#b_matumbo =
+#b_kalulu =
+#b_chitumbwa =
+#b_msitu =
+#b_ndalama =
+
+# Misc
+culture = rufiji_nyasa
+religion = east_bantu_mythology
+
+# History

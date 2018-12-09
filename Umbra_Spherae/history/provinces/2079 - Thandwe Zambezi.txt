@@ -1,0 +1,21 @@
+# 2079 - Thandwe
+
+# County Title
+title = c_thandwe
+
+# Settlements
+max_settlements = 3
+b_thandwe_maravi = tribal
+#b_chimuka =
+#b_chasya =
+#b_kasuwa =
+#b_petauke =
+#b_chataika =
+#b_chassa =
+#b_chilembwe =
+
+# Misc
+culture = rufiji_nyasa
+religion = east_bantu_mythology
+
+# History
