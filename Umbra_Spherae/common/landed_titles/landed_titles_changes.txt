@@ -1,5 +1,8 @@
 #This is what was changed in landed_titles.txt
 
+#Norway
+#added c_svalbard (Jan Mayen) to d_orkney
+
 #Tartaria
 #added c_dornogobi and c_khara_narin_ula to d_kara_khorum
 #added c_brakmrax, c_hoksren and c_iuxsiang to d_barkul

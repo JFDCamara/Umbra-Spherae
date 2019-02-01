@@ -1,0 +1,22 @@
+# 3317 - Svalbard
+
+# County Title
+title = c_svalbard
+
+# Settlements
+max_settlements = 2
+b_svalbard = tribal
+#b_olonkinbyen = tribal
+#b_puppebu = tribal
+#b_beerenberg = tribal
+#b_rudolftoppen = tribal
+#b_trollsletta = tribal
+#b_batvika = tribal
+
+# Misc (placeholder)
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

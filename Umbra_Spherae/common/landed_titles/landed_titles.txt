@@ -13307,6 +13307,26 @@ e_scandinavia = {
 					irish = "Innis Ronan"
 				}
 			}
+			c_svalbard = { #Jan Mayen
+				color={ 106 140 235 }
+				color2={ 255 255 255 }
+
+				
+				b_svalbard = {
+				}
+				b_olonkinbyen = {
+				}
+				b_puppebu = {
+				}
+				b_beerenberg = {
+				}
+				b_rudolftoppen = {
+				}
+				b_trollsletta = {
+				}
+				b_batvika = {
+				}
+			}
 		}
 		d_agder = {
 			color = { 140 100 200 }

@@ -340,3 +340,7 @@ region_comoros = {
 	3255 3256 3257 3258
 	}
 }
+
+region_svalbard = {
+	provinces = { 3317 }
+}
