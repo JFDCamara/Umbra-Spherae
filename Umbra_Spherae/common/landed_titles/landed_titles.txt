@@ -13819,52 +13819,6 @@ e_scandinavia = {
 				}
 			}
 		}
-		d_tuniit_nunaat = {
-
-			color={ 185 244 249 }
-			color2={ 220 220 220 }
-
-			norse = "Grœnland"
-			norwegian = "Grœnland"
-			danish = "Grœnland"
-			swedish = "Grœnland"
-			
-			capital = 3232 # Sermersooq
-			
-			c_sermersooq = {
-
-				color={ 195 244 249 }
-				color2={ 220 220 220 }
-				
-				norse = "Vestribyggð"
-				norwegian = "Vestribyggð"
-				danish = "Vestribyggð"
-				swedish = "Vestribyggð"
-				
-				b_sermersooq = {
-					norse = "Vestribyggð"
-					norwegian = "Vestribyggð"
-					danish = "Vestribyggð"
-					swedish = "Vestribyggð"
-				}
-			}
-			c_kujalleq = {
-				color={ 185 254 249 }
-				color2={ 220 220 220 }
-				
-				norse = "Eystribyggð"
-				norwegian = "Eystribyggð"
-				danish = "Eystribyggð"
-				swedish = "Eystribyggð"
-				
-				b_kujalleq = {
-					norse = "Eystribyggð"
-					norwegian = "Eystribyggð"
-					danish = "Eystribyggð"
-					swedish = "Eystribyggð"
-				}
-			}
-		}
 	}
 	
 	k_finland = {

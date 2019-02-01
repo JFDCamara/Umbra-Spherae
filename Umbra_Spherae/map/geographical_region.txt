@@ -49,7 +49,7 @@ world_europe_north = {
 		#Sápmi
 		d_kola d_finnmark d_sapmi
 		#Greenland
-		d_tuniit_nunaat # Umbra Spherae
+		d_kitaa d_kujalleq d_tunu  # Umbra Spherae
 	}
 }
 world_europe_south_east = { 

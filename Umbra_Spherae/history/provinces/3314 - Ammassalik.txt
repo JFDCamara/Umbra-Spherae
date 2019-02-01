@@ -1,0 +1,22 @@
+# 3314 - Ammassalik
+
+# County Title
+title = c_ammassalik
+
+# Settlements
+max_settlements = 3
+b_ammassalik = tribal
+#b_tasiilaq = tribal
+#b_kuummiit = tribal
+#b_kulusuk = tribal
+#b_tiilerilaaq = tribal
+#b_sermiligaaq = tribal
+#b_isertoq = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

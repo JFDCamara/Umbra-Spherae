@@ -1,0 +1,22 @@
+# 3310 - Qeqqata
+
+# County Title
+title = c_qeqqata
+
+# Settlements
+max_settlements = 3
+b_sisimiut = tribal
+#b_kangaamiut = tribal
+#b_maniitsoq = tribal
+#b_kangerlussuaq = tribal
+#b_napasoq = tribal
+#b_itilleq = tribal
+#b_sarfannguit = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

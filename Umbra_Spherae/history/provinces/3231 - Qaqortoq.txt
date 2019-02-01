@@ -1,0 +1,32 @@
+# 3231 - Qaqortoq
+
+# County Title
+title = c_kujalleq
+
+# Settlements
+max_settlements = 5
+b_qassiarsuk = tribal
+#b_qaqortoq = tribal
+#b_igaliku = tribal
+#b_narsaq = tribal
+#b_narsaq_kujalleq = tribal
+#b_nunap_isua = tribal
+#b_alluitsup_paa = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+986.1.1 = {
+	b_qassiarsuk = castle
+	culture = norse
+	religion = norse_pagan
+	b_qaqortoq = city
+	b_igaliku = temple
+}
+1000.1.1 = {
+	culture = norwegian
+	religion = catholic
+}

@@ -1,11 +1,17 @@
-# 1901 - Sermersooq
+# 3232 - Sermersooq
 
 # County Title
 title = c_sermersooq
 
 # Settlements
-max_settlements = 1
+max_settlements = 4
 b_sermersooq = tribal
+#b_ameralik = tribal
+#b_nuuk = tribal
+#b_ujarassuit = tribal
+#b_kangeq = tribal
+#b_atammik = tribal
+#b_kapisillit = tribal
 
 # Misc
 culture = tuniq

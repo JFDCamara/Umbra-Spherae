@@ -2360,13 +2360,13 @@ d_perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;P
 d_perlak_adj;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;Perlak;x
 d_pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;x
 d_pasai_adj;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;Pasai;x
-d_tuniit_nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;x
-d_tuniit_nunaat_adj;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;x
+k_tuniit_nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;x
+k_tuniit_nunaat_adj;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;Tuniit Nunaat;x
 c_sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;x
 c_sermersooq_adj;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;x
 b_sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;Sermersooq;x
-c_kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;x
-c_kujalleq_adj;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;x
+c_kujalleq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;x
+c_kujalleq_adj;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;x
 b_kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;x
 k_myinsaing_pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;x
 k_myinsaing_pinya_adj;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;Myinsaing-Pinya;x
@@ -2374,3 +2374,85 @@ k_sagaing;Sagaing;Sagaing;Sagaing;Sagaing;Sagaing;Sagaing;Sagaing;Sagaing;Sagain
 k_sagaing_adj;Sagaing;Sagaing;Sagaing;Sagaing;Sagaing;Sagaing;Sagaing;Sagaing;Sagaing;Sagaing;Sagaing;Sagaing;Sagaing;x
 k_thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;x
 k_thaton_adj;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;Thaton;x
+d_kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;x
+d_kitaa_adj;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;Kitaa;x
+b_ameralik;Ameralik;Ameralik;Ameralik;Ameralik;Ameralik;Ameralik;Ameralik;Ameralik;Ameralik;Ameralik;Ameralik;Ameralik;Ameralik;x
+b_nuuk;Nuuk;Nuuk;Nuuk;Nuuk;Nuuk;Nuuk;Nuuk;Nuuk;Nuuk;Nuuk;Nuuk;Nuuk;Nuuk;x
+b_ujarassuit;Ujarassuit;Ujarassuit;Ujarassuit;Ujarassuit;Ujarassuit;Ujarassuit;Ujarassuit;Ujarassuit;Ujarassuit;Ujarassuit;Ujarassuit;Ujarassuit;Ujarassuit;x
+b_kangeq;Kangeq;Kangeq;Kangeq;Kangeq;Kangeq;Kangeq;Kangeq;Kangeq;Kangeq;Kangeq;Kangeq;Kangeq;Kangeq;x
+b_atammik;Atammik;Atammik;Atammik;Atammik;Atammik;Atammik;Atammik;Atammik;Atammik;Atammik;Atammik;Atammik;Atammik;x
+b_kapisillit;Kapisillit;Kapisillit;Kapisillit;Kapisillit;Kapisillit;Kapisillit;Kapisillit;Kapisillit;Kapisillit;Kapisillit;Kapisillit;Kapisillit;Kapisillit;x
+c_qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;x
+c_qeqqata_adj;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;Qeqqata;x
+b_sisimiut;Sisimiut;Sisimiut;Sisimiut;Sisimiut;Sisimiut;Sisimiut;Sisimiut;Sisimiut;Sisimiut;Sisimiut;Sisimiut;Sisimiut;Sisimiut;x
+b_kangaamiut;Kangaamiut;Kangaamiut;Kangaamiut;Kangaamiut;Kangaamiut;Kangaamiut;Kangaamiut;Kangaamiut;Kangaamiut;Kangaamiut;Kangaamiut;Kangaamiut;Kangaamiut;x
+b_maniitsoq;Maniitsoq;Maniitsoq;Maniitsoq;Maniitsoq;Maniitsoq;Maniitsoq;Maniitsoq;Maniitsoq;Maniitsoq;Maniitsoq;Maniitsoq;Maniitsoq;Maniitsoq;x
+b_kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;x
+b_napasoq;Napasoq;Napasoq;Napasoq;Napasoq;Napasoq;Napasoq;Napasoq;Napasoq;Napasoq;Napasoq;Napasoq;Napasoq;Napasoq;x
+b_itilleq;Itilleq;Itilleq;Itilleq;Itilleq;Itilleq;Itilleq;Itilleq;Itilleq;Itilleq;Itilleq;Itilleq;Itilleq;Itilleq;x
+b_sarfannguit;Sarfannguit;Sarfannguit;Sarfannguit;Sarfannguit;Sarfannguit;Sarfannguit;Sarfannguit;Sarfannguit;Sarfannguit;Sarfannguit;Sarfannguit;Sarfannguit;Sarfannguit;x
+c_qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;x
+c_qeqertalik_adj;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;Qeqertalik;x
+b_aasiaat;Aasiaat;Aasiaat;Aasiaat;Aasiaat;Aasiaat;Aasiaat;Aasiaat;Aasiaat;Aasiaat;Aasiaat;Aasiaat;Aasiaat;Aasiaat;x
+b_qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;x
+b_saqqaq;Saqqaq;Saqqaq;Saqqaq;Saqqaq;Saqqaq;Saqqaq;Saqqaq;Saqqaq;Saqqaq;Saqqaq;Saqqaq;Saqqaq;Saqqaq;x
+b_kitsissuarsuit;Kitsissuarsuit;Kitsissuarsuit;Kitsissuarsuit;Kitsissuarsuit;Kitsissuarsuit;Kitsissuarsuit;Kitsissuarsuit;Kitsissuarsuit;Kitsissuarsuit;Kitsissuarsuit;Kitsissuarsuit;Kitsissuarsuit;Kitsissuarsuit;x
+b_ilulissat;Ilulissat;Ilulissat;Ilulissat;Ilulissat;Ilulissat;Ilulissat;Ilulissat;Ilulissat;Ilulissat;Ilulissat;Ilulissat;Ilulissat;Ilulissat;x
+b_qasigiannguit;Qasigiannguit;Qasigiannguit;Qasigiannguit;Qasigiannguit;Qasigiannguit;Qasigiannguit;Qasigiannguit;Qasigiannguit;Qasigiannguit;Qasigiannguit;Qasigiannguit;Qasigiannguit;Qasigiannguit;x
+b_kangaatsiaq;Kangaatsiaq;Kangaatsiaq;Kangaatsiaq;Kangaatsiaq;Kangaatsiaq;Kangaatsiaq;Kangaatsiaq;Kangaatsiaq;Kangaatsiaq;Kangaatsiaq;Kangaatsiaq;Kangaatsiaq;Kangaatsiaq;x
+d_kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;x
+d_kujalleq_adj;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;Kujalleq;x
+b_qassiarsuk;Qassiarsuk;Qassiarsuk;Qassiarsuk;Qassiarsuk;Qassiarsuk;Qassiarsuk;Qassiarsuk;Qassiarsuk;Qassiarsuk;Qassiarsuk;Qassiarsuk;Qassiarsuk;Qassiarsuk;x
+b_qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;Qaqortoq;x
+b_igaliku;Igaliku;Igaliku;Igaliku;Igaliku;Igaliku;Igaliku;Igaliku;Igaliku;Igaliku;Igaliku;Igaliku;Igaliku;Igaliku;x
+b_narsaq;Narsaq;Narsaq;Narsaq;Narsaq;Narsaq;Narsaq;Narsaq;Narsaq;Narsaq;Narsaq;Narsaq;Narsaq;Narsaq;x
+b_narsaq_kujalleq;Narsaq Kujalleq;Narsaq Kujalleq;Narsaq Kujalleq;Narsaq Kujalleq;Narsaq Kujalleq;Narsaq Kujalleq;Narsaq Kujalleq;Narsaq Kujalleq;Narsaq Kujalleq;Narsaq Kujalleq;Narsaq Kujalleq;Narsaq Kujalleq;Narsaq Kujalleq;x
+b_nunap_isua;Nunap Isua;Nunap Isua;Nunap Isua;Nunap Isua;Nunap Isua;Nunap Isua;Nunap Isua;Nunap Isua;Nunap Isua;Nunap Isua;Nunap Isua;Nunap Isua;Nunap Isua;x
+b_alluitsup_paa;Alluitsup Paa;Alluitsup Paa;Alluitsup Paa;Alluitsup Paa;Alluitsup Paa;Alluitsup Paa;Alluitsup Paa;Alluitsup Paa;Alluitsup Paa;Alluitsup Paa;Alluitsup Paa;Alluitsup Paa;Alluitsup Paa;x
+c_ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;x
+c_ivittuut_adj;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;x
+b_ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;Ivittuut;x
+b_kangilinnguit;Kangilinnguit;Kangilinnguit;Kangilinnguit;Kangilinnguit;Kangilinnguit;Kangilinnguit;Kangilinnguit;Kangilinnguit;Kangilinnguit;Kangilinnguit;Kangilinnguit;Kangilinnguit;Kangilinnguit;x
+b_paamiut;Paamiut;Paamiut;Paamiut;Paamiut;Paamiut;Paamiut;Paamiut;Paamiut;Paamiut;Paamiut;Paamiut;Paamiut;Paamiut;x
+b_arsuk;Arsuk;Arsuk;Arsuk;Arsuk;Arsuk;Arsuk;Arsuk;Arsuk;Arsuk;Arsuk;Arsuk;Arsuk;Arsuk;x
+b_ikermiut;Ikermiut;Ikermiut;Ikermiut;Ikermiut;Ikermiut;Ikermiut;Ikermiut;Ikermiut;Ikermiut;Ikermiut;Ikermiut;Ikermiut;Ikermiut;x
+b_qeqertarsuatsiaat;Qeqertarsuatsiaat;Qeqertarsuatsiaat;Qeqertarsuatsiaat;Qeqertarsuatsiaat;Qeqertarsuatsiaat;Qeqertarsuatsiaat;Qeqertarsuatsiaat;Qeqertarsuatsiaat;Qeqertarsuatsiaat;Qeqertarsuatsiaat;Qeqertarsuatsiaat;Qeqertarsuatsiaat;Qeqertarsuatsiaat;x
+b_nunarssit;Nunarssit;Nunarssit;Nunarssit;Nunarssit;Nunarssit;Nunarssit;Nunarssit;Nunarssit;Nunarssit;Nunarssit;Nunarssit;Nunarssit;Nunarssit;x
+c_qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;x
+c_qulleq_adj;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;x
+b_qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;Qulleq;x
+b_qipinnguak;Qipinnguak;Qipinnguak;Qipinnguak;Qipinnguak;Qipinnguak;Qipinnguak;Qipinnguak;Qipinnguak;Qipinnguak;Qipinnguak;Qipinnguak;Qipinnguak;Qipinnguak;x
+b_takisoq;Takisoq;Takisoq;Takisoq;Takisoq;Takisoq;Takisoq;Takisoq;Takisoq;Takisoq;Takisoq;Takisoq;Takisoq;Takisoq;x
+b_qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;Qeqertarsuaq;x
+b_iluileq;Iluileq;Iluileq;Iluileq;Iluileq;Iluileq;Iluileq;Iluileq;Iluileq;Iluileq;Iluileq;Iluileq;Iluileq;Iluileq;x
+b_kissarsiitilik;Kissarsiitilik;Kissarsiitilik;Kissarsiitilik;Kissarsiitilik;Kissarsiitilik;Kissarsiitilik;Kissarsiitilik;Kissarsiitilik;Kissarsiitilik;Kissarsiitilik;Kissarsiitilik;Kissarsiitilik;Kissarsiitilik;x
+b_paatusoq;Paatusoq;Paatusoq;Paatusoq;Paatusoq;Paatusoq;Paatusoq;Paatusoq;Paatusoq;Paatusoq;Paatusoq;Paatusoq;Paatusoq;Paatusoq;x
+d_tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;x
+d_tunu_adj;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;Tunu;x
+c_ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;x
+c_ammassalik_adj;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;x
+b_ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;Ammassalik;x
+b_tasiilaq;Tasiilaq;Tasiilaq;Tasiilaq;Tasiilaq;Tasiilaq;Tasiilaq;Tasiilaq;Tasiilaq;Tasiilaq;Tasiilaq;Tasiilaq;Tasiilaq;Tasiilaq;x
+b_kuummiit;Kuummiit;Kuummiit;Kuummiit;Kuummiit;Kuummiit;Kuummiit;Kuummiit;Kuummiit;Kuummiit;Kuummiit;Kuummiit;Kuummiit;Kuummiit;x
+b_kulusuk;Kulusuk;Kulusuk;Kulusuk;Kulusuk;Kulusuk;Kulusuk;Kulusuk;Kulusuk;Kulusuk;Kulusuk;Kulusuk;Kulusuk;Kulusuk;x
+b_tiilerilaaq;Tiilerilaaq;Tiilerilaaq;Tiilerilaaq;Tiilerilaaq;Tiilerilaaq;Tiilerilaaq;Tiilerilaaq;Tiilerilaaq;Tiilerilaaq;Tiilerilaaq;Tiilerilaaq;Tiilerilaaq;Tiilerilaaq;x
+b_sermiligaaq;Sermiligaaq;Sermiligaaq;Sermiligaaq;Sermiligaaq;Sermiligaaq;Sermiligaaq;Sermiligaaq;Sermiligaaq;Sermiligaaq;Sermiligaaq;Sermiligaaq;Sermiligaaq;Sermiligaaq;x
+b_isertoq;Isertoq;Isertoq;Isertoq;Isertoq;Isertoq;Isertoq;Isertoq;Isertoq;Isertoq;Isertoq;Isertoq;Isertoq;Isertoq;x
+c_kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;x
+c_kangertittivaq_adj;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;x
+b_ittoqqortoormiit;Ittoqqortoormiit;Ittoqqortoormiit;Ittoqqortoormiit;Ittoqqortoormiit;Ittoqqortoormiit;Ittoqqortoormiit;Ittoqqortoormiit;Ittoqqortoormiit;Ittoqqortoormiit;Ittoqqortoormiit;Ittoqqortoormiit;Ittoqqortoormiit;Ittoqqortoormiit;x
+b_itterajivit;Itterajivit;Itterajivit;Itterajivit;Itterajivit;Itterajivit;Itterajivit;Itterajivit;Itterajivit;Itterajivit;Itterajivit;Itterajivit;Itterajivit;Itterajivit;x
+b_kangikajik;Kangikajik;Kangikajik;Kangikajik;Kangikajik;Kangikajik;Kangikajik;Kangikajik;Kangikajik;Kangikajik;Kangikajik;Kangikajik;Kangikajik;Kangikajik;x
+b_uunarteq;Uunarteq;Uunarteq;Uunarteq;Uunarteq;Uunarteq;Uunarteq;Uunarteq;Uunarteq;Uunarteq;Uunarteq;Uunarteq;Uunarteq;Uunarteq;x
+b_kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;Kangerlussuaq;x
+b_tuttut_nunaat;Tuttut Nunaat;Tuttut Nunaat;Tuttut Nunaat;Tuttut Nunaat;Tuttut Nunaat;Tuttut Nunaat;Tuttut Nunaat;Tuttut Nunaat;Tuttut Nunaat;Tuttut Nunaat;Tuttut Nunaat;Tuttut Nunaat;Tuttut Nunaat;x
+b_nerlerit_inaat;Nerlerit Inaat;Nerlerit Inaat;Nerlerit Inaat;Nerlerit Inaat;Nerlerit Inaat;Nerlerit Inaat;Nerlerit Inaat;Nerlerit Inaat;Nerlerit Inaat;Nerlerit Inaat;Nerlerit Inaat;Nerlerit Inaat;Nerlerit Inaat;x
+c_saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;x
+c_saqqisikuik_adj;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;x
+b_saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;Saqqisikuik;x
+b_timmiarmiit;Timmiarmiit;Timmiarmiit;Timmiarmiit;Timmiarmiit;Timmiarmiit;Timmiarmiit;Timmiarmiit;Timmiarmiit;Timmiarmiit;Timmiarmiit;Timmiarmiit;Timmiarmiit;Timmiarmiit;x
+b_uvtorsiutit;Uvtorsiutit;Uvtorsiutit;Uvtorsiutit;Uvtorsiutit;Uvtorsiutit;Uvtorsiutit;Uvtorsiutit;Uvtorsiutit;Uvtorsiutit;Uvtorsiutit;Uvtorsiutit;Uvtorsiutit;Uvtorsiutit;x
+b_maligissat;Maligissat;Maligissat;Maligissat;Maligissat;Maligissat;Maligissat;Maligissat;Maligissat;Maligissat;Maligissat;Maligissat;Maligissat;Maligissat;x
+b_sattiaatteq;Sattiaatteq;Sattiaatteq;Sattiaatteq;Sattiaatteq;Sattiaatteq;Sattiaatteq;Sattiaatteq;Sattiaatteq;Sattiaatteq;Sattiaatteq;Sattiaatteq;Sattiaatteq;Sattiaatteq;x
+b_igdluluarssuk;Igdluluarssuk;Igdluluarssuk;Igdluluarssuk;Igdluluarssuk;Igdluluarssuk;Igdluluarssuk;Igdluluarssuk;Igdluluarssuk;Igdluluarssuk;Igdluluarssuk;Igdluluarssuk;Igdluluarssuk;Igdluluarssuk;x
+b_kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;Kangertittivaq;x

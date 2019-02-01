@@ -1,0 +1,22 @@
+# 3313 - Qulleq
+
+# County Title
+title = c_qulleq
+
+# Settlements
+max_settlements = 2
+b_qulleq = tribal
+#b_qipinnguak = tribal
+#b_takisoq = tribal
+#b_qeqertarsuaq = tribal
+#b_iluileq = tribal
+#b_kissarsiitilik = tribal
+#b_paatusoq = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

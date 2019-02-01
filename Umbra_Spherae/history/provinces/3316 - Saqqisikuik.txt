@@ -1,0 +1,22 @@
+# 3316 - Saqqisikuik
+
+# County Title
+title = c_saqqisikuik
+
+# Settlements
+max_settlements = 2
+b_saqqisikuik = tribal
+#b_timmiarmiit = tribal
+#b_uvtorsiutit = tribal
+#b_maligissat = tribal
+#b_sattiaatteq = tribal
+#b_igdluluarssuk = tribal
+#b_kangertittivaq = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

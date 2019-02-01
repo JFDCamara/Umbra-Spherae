@@ -2,7 +2,10 @@
 
 technology = {
 	titles = {
-		d_tuniit_nunaat
+		k_tuniit_nunaat
+		d_kitaa
+		d_kujalleq
+		d_tunu
 	}
 	
 	769 = {

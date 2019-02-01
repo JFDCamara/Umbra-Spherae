@@ -319,7 +319,7 @@ region_morotai = {
 
 region_greenland = {
 	provinces = {
-	3231 3232
+	3231 3232 3309 3310 3311 3312 3313 3314 3315 3316 
 	}
 }
 

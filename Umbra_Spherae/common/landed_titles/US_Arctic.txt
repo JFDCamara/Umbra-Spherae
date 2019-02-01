@@ -1,0 +1,402 @@
+	k_tuniit_nunaat = {
+
+		color={ 185 244 249 }
+		color2={ 220 220 220 }
+
+		inuit = "Kalaallit Nunaat"
+		norse = "Grúnland"
+		norwegian = "Grúnland"
+		danish = "Grúnland"
+		swedish = "Grúnland"
+		english = "Greenland"
+
+		capital = 3232 # Sermersooq
+
+		d_kitaa = {
+
+			color={ 185 244 249 }
+			color2={ 220 220 220 }
+
+			norse = "Vestgrúnland"
+			norwegian = "Vestgrúnland"
+			danish = "Vestgrúnland"
+			swedish = "Vestgrúnland"
+			
+			capital = 3232 # Sermersooq
+			
+			c_sermersooq = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+				
+				norse = "Vestribyggð"
+				norwegian = "Vestribyggð"
+				danish = "Vestribyggð"
+				swedish = "Vestribyggð"
+				
+				b_sermersooq = {
+					norse = "Sandnæs"
+					norwegian = "Sandnæs"
+					danish = "Sandnæs"
+					swedish = "Sandnæs"
+				}
+				b_ameralik = {
+					norse = "Lysufjord"
+					norwegian = "Lysufjord"
+					danish = "Lysufjord"
+					swedish = "Lysufjord"
+				}
+				b_nuuk = {
+					norse = "Godthaab"
+					norwegian = "Godthaab"
+					danish = "Godthaab"
+					swedish = "Godthaab"
+				}
+				b_ujarassuit = {
+					norse = "Anavik"
+					norwegian = "Anavik"
+					danish = "Anavik"
+					swedish = "Anavik"
+				}
+				b_kangeq = {
+					norse = "Haabets Oe"
+					norwegian = "Haabets Oe"
+					danish = "Haabets Oe"
+					swedish = "Haabets Oe"
+				}
+				b_atammik = {
+				}
+				b_kapisillit = {
+				}
+			}
+			c_qeqqata = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+				
+				norse = "Miðterste"
+				norwegian = "Miðterste"
+				danish = "Miðterste"
+				swedish = "Miðterste"
+				
+				b_sisimiut = {
+					norse = "Holsteinsborg"
+					norwegian = "Holsteinsborg"
+					danish = "Holsteinsborg"
+					swedish = "Holsteinsborg"
+				}
+				b_kangaamiut = {
+					norse = "Gammel Sukkertoppen"
+					norwegian = "Gammel Sukkertoppen"
+					danish = "Gammel Sukkertoppen"
+					swedish = "Gammel Sukkertoppen"
+				}
+				b_maniitsoq = {
+					norse = "Sukkertoppen"
+					norwegian = "Sukkertoppen"
+					danish = "Sukkertoppen"
+					swedish = "Sukkertoppen"
+				}
+				b_kangerlussuaq = {
+					norse = "Sondrestrom"
+					norwegian = "Sondrestrom"
+					danish = "Sondrestrom"
+					swedish = "Sondrestrom"
+				}
+				b_napasoq = {
+				}
+				b_itilleq = {
+				}
+				b_sarfannguit = {
+				}
+			}
+			c_qeqertalik = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+				
+				norse = "Diskoland"
+				norwegian = "Diskoland"
+				danish = "Diskoland"
+				swedish = "Diskoland"
+				
+				b_aasiaat = {
+					norse = "Egedesminde"
+					norwegian = "Egedesminde"
+					danish = "Egedesminde"
+					swedish = "Egedesminde"
+				}
+				b_qeqertarsuaq = {
+					norse = "Godhavn"
+					norwegian = "Godhavn"
+					danish = "Godhavn"
+					swedish = "Godhavn"
+				}
+				b_saqqaq = {
+					norse = "Solsiden"
+					norwegian = "Solsiden"
+					danish = "Solsiden"
+					swedish = "Solsiden"
+				}
+				b_kitsissuarsuit = {
+					norse = "Hunde Ejlande"
+					norwegian = "Hunde Ejlande"
+					danish = "Hunde Ejlande"
+					swedish = "Hunde Ejlande"
+				}
+				b_ilulissat = {
+					norse = "Jakobshavn"
+					norwegian = "Jakobshavn"
+					danish = "Jakobshavn"
+					swedish = "Jakobshavn"
+				}
+				b_qasigiannguit = {
+				}
+				b_kangaatsiaq = {
+				}
+			}
+		}
+		d_kujalleq = {
+
+			color={ 185 244 249 }
+			color2={ 220 220 220 }
+
+			norse = "Grúnland"
+			norwegian = "Grúnland"
+			danish = "Grúnland"
+			swedish = "Grúnland"
+			
+			capital = 3231 # Qaqortoq (Kujalleg)
+			
+			c_kujalleg = { # Qaqortoq
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				norse = "Eystribyggð"
+				norwegian = "Eystribyggð"
+				danish = "Eystribyggð"
+				swedish = "Eystribyggð"
+				
+				b_qassiarsuk = {
+					norse = "Brattahlíð"
+					norwegian = "Brattahlíð"
+					danish = "Brattahlíð"
+					swedish = "Brattahlíð"
+				}
+				b_qaqortoq = {
+					norse = "Hvalsey"
+					norwegian = "Hvalsey"
+					danish = "Hvalsey"
+					swedish = "Hvalsey"
+				}
+				b_igaliku = {
+					norse = "Garðar"
+					norwegian = "Garðar"
+					danish = "Garðar"
+					swedish = "Garðar"
+				}
+				b_narsaq = {
+					norse = "Dyrnæs"
+					norwegian = "Dyrnæs"
+					danish = "Dyrnæs"
+					swedish = "Dyrnæs"
+				}
+				b_narsaq_kujalleq = {
+					norse = "Ikigait"
+					norwegian = "Ikigait"
+					danish = "Ikigait"
+					swedish = "Ikigait"
+				}
+				b_nunap_isua = {
+					norse = "Herjolfsnes"
+					norwegian = "Herjolfsnes"
+					danish = "Herjolfsnes"
+					swedish = "Herjolfsnes"
+				}
+				b_alluitsup_paa = {
+					norse = "Vatnahverfi"
+					norwegian = "Vatnahverfi"
+					danish = "Vatnahverfi"
+					swedish = "Vatnahverfi"
+				}
+			}
+			c_ivittuut = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+				
+				norse = "Miðribyggð"
+				norwegian = "Miðribyggð"
+				danish = "Miðribyggð"
+				swedish = "Miðribyggð"
+				
+				b_ivittuut = {
+					norse = "Miðribyggð"
+					norwegian = "Miðribyggð"
+					danish = "Miðribyggð"
+					swedish = "Miðribyggð"
+				}
+				b_kangilinnguit = {
+					norse = "Gronnedal"
+					norwegian = "Gronnedal"
+					danish = "Gronnedal"
+					swedish = "Gronnedal"
+				}
+				b_paamiut = {
+					norse = "Frederikshaab"
+					norwegian = "Frederikshaab"
+					danish = "Frederikshaab"
+					swedish = "Frederikshaab"
+				}
+				b_arsuk = {
+				}
+				b_ikermiut = {
+				}
+				b_qeqertarsuatsiaat = {
+					norse = "Fiskernæs"
+					norwegian = "Fiskernæs"
+					danish = "Fiskernæs"
+					swedish = "Fiskernæs"
+				}
+				b_nunarssit = {
+				}
+			}
+			c_qulleq = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				norse = "Gunnbjörnland"
+				norwegian = "Gunnbjörnland"
+				danish = "Gunnbjörnland"
+				swedish = "Gunnbjörnland"
+				
+				b_qulleq = {
+					norse = "Gunnbjörnland"
+					norwegian = "Gunnbjörnland"
+					danish = "Gunnbjörnland"
+					swedish = "Gunnbjörnland"
+				}
+				b_qipinnguak = {
+				}
+				b_takisoq = {
+				}
+				b_qeqertarsuaq = {
+				}
+				b_iluileq = {
+				}
+				b_kissarsiitilik = {
+				}
+				b_paatusoq = {
+					norse = "Patursok"
+					norwegian = "Patursok"
+					danish = "Patursok"
+					swedish = "Patursok"
+				}
+			}
+		}
+		d_tunu = {
+
+			color={ 185 244 249 }
+			color2={ 220 220 220 }
+
+			norse = "Eystgrúnland"
+			norwegian = "Eystgrúnland"
+			danish = "Eystgrúnland"
+			swedish = "Eystgrúnland"
+			
+			capital = 3314 # Ammassalik
+
+			c_ammassalik = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_ammassalik = {
+				}
+				b_tasiilaq = {
+				}
+				b_kuummiit = {
+				}
+				b_kulusuk = {
+					norse = "Kap Dan"
+					norwegian = "Kap Dan"
+					danish = "Kap Dan"
+					swedish = "Kap Dan"
+				}
+				b_tiilerilaaq = {
+				}
+				b_sermiligaaq = {
+				}
+				b_isertoq = {
+				}
+			}
+			c_kangertittivaq = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+
+				norse = "Rodefjord"
+				norwegian = "Rodefjord"
+				danish = "Rodefjord"
+				swedish = "Rodefjord"
+				
+				
+				b_ittoqqortoormiit = {
+					norse = "Rodefjord"
+					norwegian = "Rodefjord"
+					danish = "Rodefjord"
+					swedish = "Rodefjord"
+				}
+				b_itterajivit = {
+					norse = "Kap Haab"
+					norwegian = "Kap Haab"
+					danish = "Kap Haab"
+					swedish = "Kap Haab"
+				}
+				b_kangikajik = {
+				}
+				b_uunarteq = {
+				}
+				b_kangerlussuaq = {
+					norse = "Storfjord"
+					norwegian = "Storfjord"
+					danish = "Storfjord"
+					swedish = "Storfjord"
+				}
+				b_tuttut_nunaat = {
+					norse = "Renland"
+					norwegian = "Renland"
+					danish = "Renland"
+					swedish = "Renland"
+				}
+				b_nerlerit_inaat = {
+				}
+			}
+			c_saqqisikuik = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }	
+
+				norse = "Skjoldungen"
+				norwegian = "Skjoldungen"
+				danish = "Skjoldungen"
+				swedish = "Skjoldungen"		
+
+				b_saqqisikuik = {
+					norse = "Skjoldungen"
+					norwegian = "Skjoldungen"
+					danish = "Skjoldungen"
+					swedish = "Skjoldungen"
+				}				
+				b_timmiarmiit = {
+				}
+				b_uvtorsiutit = {
+				}
+				b_maligissat = {
+				}
+				b_sattiaatteq = {
+				}
+				b_igdluluarssuk = {
+				}
+				b_kangertittivaq = {
+				}
+			}
+		}
+	}

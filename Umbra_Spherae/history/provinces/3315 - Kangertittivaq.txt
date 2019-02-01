@@ -1,0 +1,22 @@
+# 3315 - Kangertittivaq
+
+# County Title
+title = c_kangertittivaq
+
+# Settlements
+max_settlements = 2
+b_ittoqqortoormiit = tribal
+#b_itterajivit = tribal
+#b_kangikajik = tribal
+#b_uunarteq = tribal
+#b_kangerlussuaq = tribal
+#b_tuttut_nunaat = tribal
+#b_nerlerit_inaat = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

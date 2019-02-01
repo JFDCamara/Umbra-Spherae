@@ -1,0 +1,22 @@
+# 3311 - Qeqertalik
+
+# County Title
+title = c_qeqertalik
+
+# Settlements
+max_settlements = 3
+b_aasiaat = tribal
+#b_qeqertarsuaq = tribal
+#b_saqqaq = tribal
+#b_kitsissuarsuit = tribal
+#b_ilulissat = tribal
+#b_qasigiannguit = tribal
+#b_kangaatsiaq = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+
