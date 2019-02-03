@@ -15,3 +15,5 @@
 #added mohe to altaic
 
 #added qiang to tibetan
+
+#moved mesoamerican group to america.txt file
