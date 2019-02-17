@@ -1,0 +1,22 @@
+# 3326 - Sanikiluaq
+
+# County Title
+title = c_sanikiluaq
+
+# Settlements
+max_settlements = 2
+b_sanikiluaq = tribal
+#b_kugong = tribal
+#b_tukarak = tribal
+#b_innetalling = tribal
+#b_qutjutuurusiit = tribal
+#b_mukpollo = tribal
+#b_omarolluk = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

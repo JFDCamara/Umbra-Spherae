@@ -1,0 +1,22 @@
+# 3333 - Kangiqsualujjuaq
+
+# County Title
+title = c_kangiqsualujjuaq
+
+# Settlements
+max_settlements = 2
+b_kangiqsualujjuaq = tribal
+#b_sangumaniq = tribal
+#b_kaminikatau = tribal
+#b_ukalirsitik = tribal
+#b_uummanaq = tribal
+#b_akulliaq = tribal
+#b_matshishkam = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

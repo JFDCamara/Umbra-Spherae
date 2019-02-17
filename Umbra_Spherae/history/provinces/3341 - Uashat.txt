@@ -1,0 +1,22 @@
+# 3341 - Uashat
+
+# County Title
+title = c_uashat
+
+# Settlements
+max_settlements = 3
+b_uashat = tribal
+#b_maliotenam = tribal
+#b_ekuantshit = tribal
+#b_uhatnihip = tribal
+#b_ehkuapustet = tribal
+#b_uhukanatshehu = tribal
+#b_uashatuess = tribal
+
+# Misc
+culture = innu
+religion = tengri_pagan
+
+# History
+
+

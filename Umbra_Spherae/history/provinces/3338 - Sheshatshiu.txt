@@ -1,0 +1,22 @@
+# 3338 - Sheshatshiu
+
+# County Title
+title = c_sheshatshiu
+
+# Settlements
+max_settlements = 3
+b_sheshatshiu = tribal
+#b_minipi = tribal
+#b_uapahkueh = tribal
+#b_uaunukuh = tribal
+#b_natuaiahu = tribal
+#b_kahtsheuiapuhtshuenakan = tribal
+#b_uahaihtshuakat = tribal
+
+# Misc
+culture = innu
+religion = tengri_pagan
+
+# History
+
+

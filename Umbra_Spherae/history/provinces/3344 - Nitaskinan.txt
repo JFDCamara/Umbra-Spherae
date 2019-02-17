@@ -1,0 +1,22 @@
+# 3344 - Nitaskinan
+
+# County Title
+title = c_nitaskinan
+
+# Settlements
+max_settlements = 4
+b_obedjiwan = tribal
+#b_manawan = tribal
+#b_wemotaci = tribal
+#b_ushabatshuan = tribal
+#b_coucoucache = tribal
+#b_matawin = tribal
+#b_oskelaneo = tribal
+
+# Misc
+culture = atikamekw
+religion = tengri_pagan
+
+# History
+
+

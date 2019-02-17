@@ -1,0 +1,22 @@
+# 3340 - Unamenshipit
+
+# County Title
+title = c_unamenshipit
+
+# Settlements
+max_settlements = 3
+b_unamenshipit = tribal
+#b_natashquan = tribal
+#b_kegashka = tribal
+#b_coacoachou = tribal
+#b_mistahini = tribal
+#b_nakamistshetshuant = tribal
+#b_uemahtan = tribal
+
+# Misc
+culture = innu
+religion = tengri_pagan
+
+# History
+
+

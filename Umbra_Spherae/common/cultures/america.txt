@@ -115,7 +115,7 @@ sivullirmiut = {
 
 }
 
-cree = {
+cree_algonquian = {
 	graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
 
 	innu = {
@@ -172,6 +172,34 @@ Abideshook Adobonee Ae-u-eece Ashaboo-uth Ashei Bathue Baubooshrat Bogodoret Bog
 		mother_name_chance = 0
 
 		modifier = default_culture_modifier
-		}
+	}
+
+	atikamekw = {
+		graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+		color = { 0.7 0.5 0.1 }
+
+		male_names = {
+Aissimess Akuaukusht Apinam_Abraham Ashtunishish Atamakaniss Atiku Atshen Emish Kaminaushit Kanishutakashtasht Kaniuekutat Kapapisht Kapinien_Gabriel Kashupasset Katshinukapaut Katshipunasht Kauitshi-Katshinat Kautatikumit Kuekuatsheu Kutshinapess Maikan Manitesh Maniteu Matiu Meshkana Minapakun Minutshinishkuess Mishen Mishta-Etuat Mishta-Napesh Mishtauiapeu Mitshishu Napess Napeutiku Natupaniu Nutamikuesh Pekissiu Pien Pienshak Pikutushan Pipitsheu Pitan_Peter Shakani Shanti Shapatish Shimiu Shinapiu Shinipesht Shuashem Shushep_Joseph Shushepiss Tanien Tshakashue Tshani_John Tshanitshish Tshim_Jacob Tshimushuminu Tshishennish Tshishkuetutsheunnu Tshishpush Tumassat_Thomas Uashaunnu Uatshitshish Uemishtikushiss Uitshikapeu Uitshitshimushish Ukueiau Uniam Uniam_William Unikush Upinau Ussinitshishu Utanukueu Utshimau Utshimauapeu
+			}
+		female_names = {
+Aniet Anishen Anissikutshaushkueu Anitshishkueu Apikushish Ekuanitshishkueu Ishkuess Kanakunash Kanakunau Katinen Kautatshet Manikanetishkueu Manishai Manishan Mestenapeo Nisseushkueu Penash Penenu Shanimen Shanut Shushepin Tshiueianukueu Ukaumau
+			}
+
+		dynasty_title_names = no
+
+		prefix = no
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 30
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
 
 }

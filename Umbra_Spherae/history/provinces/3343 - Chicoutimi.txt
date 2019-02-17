@@ -1,0 +1,22 @@
+# 3343 - Chicoutimi
+
+# County Title
+title = c_chicoutimi
+
+# Settlements
+max_settlements = 4
+b_chicoutimi = tribal
+#b_mashteuiatsh = tribal
+#b_essipit = tribal
+#b_ouiatchouan = tribal
+#b_tadoussac = tribal
+#b_piekuakami = tribal
+#b_peribonka = tribal
+
+# Misc
+culture = innu
+religion = tengri_pagan
+
+# History
+
+

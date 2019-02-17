@@ -1,0 +1,22 @@
+# 3342 - Pessamit
+
+# County Title
+title = c_pessamit
+
+# Settlements
+max_settlements = 3
+b_pessamit = tribal
+#b_mushalagan = tribal
+#b_kaupashkueiat = tribal
+#b_manic_cinq = tribal
+#b_kashipiautshemus = tribal
+#b_micoua = tribal
+#b_kaiashashkupat = tribal
+
+# Misc
+culture = innu
+religion = tengri_pagan
+
+# History
+
+

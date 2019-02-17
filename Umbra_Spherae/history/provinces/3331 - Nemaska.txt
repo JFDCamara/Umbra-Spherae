@@ -1,0 +1,22 @@
+# 3331 - Nemaska
+
+# County Title
+title = c_nemaska
+
+# Settlements
+max_settlements = 3
+b_nemaska = tribal
+#b_mistissini = tribal
+#b_chibougamau = tribal
+#b_waswanipi = tribal
+#b_obalski = tribal
+#b_opemisca = tribal
+#b_maaskitkuu = tribal
+
+# Misc
+culture = cree
+religion = tengri_pagan
+
+# History
+
+

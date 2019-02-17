@@ -1,0 +1,22 @@
+# 3328 - Whapmagoostui
+
+# County Title
+title = c_whapmagoostui
+
+# Settlements
+max_settlements = 3
+b_whapmagoostui = tribal
+#b_kuujjuarapik = tribal
+#b_wimin = tribal
+#b_amistustikwach = tribal
+#b_manitounuk = tribal
+#b_mistawatim = tribal
+#b_upasi = tribal
+
+# Misc
+culture = cree
+religion = tengri_pagan
+
+# History
+
+

@@ -1,0 +1,22 @@
+# 3324 - Kangirsuk
+
+# County Title
+title = c_kangirsuk
+
+# Settlements
+max_settlements = 3
+b_kangirsuk = tribal
+#b_qajartalik = tribal
+#b_kangiqsujuaq = tribal
+#b_quaqtaq = tribal
+#b_akpatok = tribal
+#b_tuvaaluk = tribal
+#b_pingualuit = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

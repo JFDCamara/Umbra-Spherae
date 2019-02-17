@@ -1,0 +1,22 @@
+# 3336 - Agvituk
+
+# County Title
+title = c_agvituk
+
+# Settlements
+max_settlements = 3
+b_agvituk = tribal
+#b_kikiaq = tribal
+#b_qipuqqaq = tribal
+#b_maquuvik = tribal
+#b_aillik = tribal
+#b_nuvutsuakulluk = tribal
+#b_onartok = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

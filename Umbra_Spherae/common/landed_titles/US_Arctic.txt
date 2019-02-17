@@ -1,3 +1,15 @@
+e_nunavut = {
+
+	color={ 185 244 249 }
+	color2={ 220 220 220 }
+
+	norse = "Helluland"
+	norwegian = "Helluland"
+	danish = "Helluland"
+	swedish = "Helluland"
+
+	capital = 3318 # Iqaluit
+
 	k_tuniit_nunaat = {
 
 		color={ 185 244 249 }
@@ -400,3 +412,655 @@
 			}
 		}
 	}
+
+	k_nunavut = {
+
+		color={ 185 244 249 }
+		color2={ 220 220 220 }
+
+		norse = "Helluland"
+		norwegian = "Helluland"
+		danish = "Helluland"
+		swedish = "Helluland"
+
+		capital = 3318 # Iqaluit
+
+		d_qikiqtaaluk = {
+
+			color={ 185 244 249 }
+			color2={ 220 220 220 }
+
+			norse = "Helluland"
+			norwegian = "Helluland"
+			danish = "Helluland"
+			swedish = "Helluland"
+			
+			capital = 3318 # Iqaluit
+			
+			c_iqaluit = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_iqaluit = {
+				}
+				b_niaqunngut = {
+				}
+				b_takuligjuaq = {
+				}
+				b_kipisa = {
+				}
+				b_shakshukuk = {
+				}
+				b_kangigutsak = {
+				}
+				b_opingivik = {
+				}
+			}
+			c_amadjuak = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_amadjuak = {
+				}
+				b_katanillik = {
+				}
+				b_kimmirut = {
+				}
+				b_kinngait = {
+				}
+				b_sikusiilaq = {
+				}
+				b_mallikjuak = {
+				}
+				b_okolli = {
+				}
+			}
+			c_pangnirtung = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_pangnirtung = {
+				}
+				b_qikiqtarjuaq = {
+				}
+				b_kivitoo = {
+				}
+				b_auyuittuq = {
+				}
+				b_nunaktak = {
+				}
+				b_kekertelung = {
+				}
+				b_kerkertal = {
+				}
+			}
+			c_kanngiqtugaapik = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_kanngiqtugaapik = {
+				}
+				b_ammaluqtuq = {
+				}
+				b_sillem = {
+				}
+				b_aulitivik = {
+				}
+				b_aulitiving = {
+				}
+				b_ukpik = {
+				}
+				b_kisimngiuqtuq = {
+				}
+			}
+			c_ikpiarjuk = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_ikpiarjuk = {
+				}
+				b_nanisivik = {
+				}
+				b_mittimatalik = {
+				}
+				b_shimik = {
+				}
+				b_sirmilik = {
+				}
+				b_kapuivik = {
+				}
+				b_angilaaq = {
+				}
+			}
+		}
+		d_nunavik = {
+
+			color={ 185 244 249 }
+			color2={ 220 220 220 }
+			
+			capital = 3323 # Kuujjuaq
+
+			c_kuujjuaq = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_kuujjuaq = {
+				}
+				b_tasiujaq = {
+				}
+				b_aupaluk = {
+				}
+				b_qikirtajuaq = {
+				}
+				b_qaamanialuk_paanga = {
+				}
+				b_kativik = {
+				}
+				b_kilgavik = {
+				}
+			}
+			c_kangirsuk = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_kangirsuk = {
+				}
+				b_qajartalik = {
+				}
+				b_kangiqsujuaq = {
+				}
+				b_quaqtaq = {
+				}
+				b_akpatok = {
+				}
+				b_tuvaaluk = {
+				}
+				b_pingualuit = {
+				}
+			}
+			c_ivujivik = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_ivujivik = {
+				}
+				b_puvirnituq = {
+				}
+				b_sugluk = {
+				}
+				b_salluit = {
+				}
+				b_akulivik = {
+				}
+				b_pujjunaq = {
+				}
+				b_papiit = {
+				}
+			}
+			c_umiujaq = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_umiujaq = {
+				}
+				b_inukjuak = {
+				}
+				b_inurjuat = {
+				}
+				b_tasiujaq = {
+				}
+				b_qasigialingat = {
+					cree = "Wiyâšâkamî"
+				}
+				b_tursujuq = {
+				}
+				b_avaqqutaq = {
+				}
+			}
+			c_sanikiluaq = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_sanikiluaq = {
+				}
+				b_kugong = {
+				}
+				b_tukarak = {
+				}
+				b_innetalling = {
+				}
+				b_qutjutuurusiit = {
+				}
+				b_mukpollo = {
+				}
+				b_omarolluk = {
+				}
+			}
+		}
+	}
+}
+
+e_cree = {
+
+	color={ 185 244 249 }
+	color2={ 220 220 220 }
+
+	norse = "Markland"
+	norwegian = "Markland"
+	danish = "Markland"
+	swedish = "Markland"
+
+	capital = 3338 # Sheshatshiu
+
+	k_nitassinan = {
+
+		color={ 185 244 249 }
+		color2={ 220 220 220 }
+
+		capital = 3338 # Sheshatshiu
+
+		norse = "Markland"
+		norwegian = "Markland"
+		danish = "Markland"
+		swedish = "Markland"
+
+		d_eeyou_istchee = {
+
+			color={ 185 244 249 }
+			color2={ 220 220 220 }
+			
+			capital = 3331 # Nemaska
+
+			c_chisasibi = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_chisasibi = {
+					cree = "Cisâsîpî"
+				}
+				b_ismein = {
+					cree = "Îsmein"
+				}
+				b_wemindji = {
+					cree = "Wîminicî"
+				}
+				b_sakami = {
+				}
+				b_metawatikwa = {
+				}
+				b_anistusikwasich = {
+				}
+				b_kachamiskusich = {
+				}
+			}
+			c_whapmagoostui = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+
+				cree = "Wâpimâkuštui"
+				inuit = "Kuujjuarapik"
+				
+				b_whapmagoostui = {
+					cree = "Wâpimâkuštui"
+				}
+				b_kuujjuarapik = {
+				}
+				b_wimin = {
+				}
+				b_amistustikwach = {
+				}
+				b_manitounuk = {
+				}
+				b_mistawatim = {
+				}
+				b_upasi = {
+				}
+			}
+			c_nichicun = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_nichicun = {
+				}
+				b_apisikamis = {
+					cree = "Apišikamîš"
+				}
+				b_petagumksun = {
+				}
+				b_amistustikwach = {
+				}
+				b_uchikwachikanan = {
+				}
+				b_kausapachuun = {
+				}
+				b_aminapustasich = {
+				}
+			}
+			c_nemaska = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+
+				cree = "Nemiskâw"
+				french = "Nemiscau"
+				
+				b_nemaska = {
+					cree = "Nemiskâw"
+					french = "Nemiscau"
+				}
+				b_mistissini = {
+					cree = "Mistisinî"
+				}
+				b_chibougamau = {
+					cree = "Ûcêpukumû"
+					french = "Oujé-Bougoumou"
+				}
+				b_waswanipi = {
+					cree = "Wâswânipî"
+				}
+				b_obalski = {
+				}
+				b_opemisca = {
+				}
+				b_maaskitkuu = {
+				}
+			}
+			c_waskaganish = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+
+				cree = "Wâskâhîkaniš"
+				
+				b_waskaganish = {
+					cree = "Wâskâhîkaniš"
+				}
+				b_matagami = {
+				}
+				b_sesitinikastikw = {
+				}
+				b_tekakwitha = {
+				}
+				b_kakupanchish = {
+				}
+				b_uschiskash = {
+				}
+				b_nitauchichikan = {
+				}
+			}
+		}
+		d_nunatsiavut = {
+
+			color={ 185 244 249 }
+			color2={ 220 220 220 }
+			
+			capital = 3335 # Nunajnguk
+
+			c_kangiqsualujjuaq = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_kangiqsualujjuaq = {
+				}
+				b_sangumaniq = {
+				}
+				b_kaminikatau = {
+				}
+				b_ukalirsitik = {
+				}
+				b_uummanaq = {
+				}
+				b_akulliaq = {
+				}
+				b_matshishkam = {
+				}
+			}
+			c_killiniq = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_killiniq = {
+				}
+				b_nuvotannak = {
+				}
+				b_korok = {
+				}
+				b_nuvukulluk = {
+				}
+				b_upernavik = {
+				}
+				b_torngat = {
+				}
+				b_kuururjuaq = {
+				}
+			}
+			c_nunajnguk = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+
+				innu = "Natuashish"
+				
+				b_nunajnguk = {
+				}
+				b_nutak = {
+				}
+				b_okak = {
+				}
+				b_iluikoyak = {
+					innu = "Natuashish"
+				}
+				b_umiakovik = {
+				}
+				b_sungilik = {
+				}
+				b_kotannak = {
+				}
+			}
+			c_agvituk = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_agvituk = {
+				}
+				b_kikiaq = {
+				}
+				b_qipuqqaq = {
+				}
+				b_maquuvik = {
+				}
+				b_aillik = {
+				}
+				b_nuvutsuakulluk = {
+				}
+				b_onartok = {
+				}
+			}
+		}
+		d_nitassinan = {
+
+			color={ 185 244 249 }
+			color2={ 220 220 220 }
+			
+			capital = 3338 # Sheshatshiu
+
+			norse = "Markland"
+			norwegian = "Markland"
+			danish = "Markland"
+			swedish = "Markland"
+
+			c_kawawachikamach = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+
+				innu = "Kawâwâchikamach"
+				
+				b_kawawachikamach = {
+					innu = "Kawâwâchikamach"
+				}
+				b_kamistiatusset = {
+				}
+				b_menihek = {
+				}
+				b_patshishetshuanau = {
+				}
+				b_matimekosh = {
+				}
+				b_ashuanipi = {
+				}
+				b_opocopa = {
+				}
+			}
+			c_sheshatshiu = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+
+				inuit = "Vâli"
+				
+				b_sheshatshiu = {
+					inuit = "Vâli"
+				}
+				b_minipi = {
+				}
+				b_uapahkueh = {
+				}
+				b_uaunukuh = {
+				}
+				b_natuaiahu = {
+				}
+				b_kahtsheuiapuhtshuenakan = {
+				}
+				b_uahaihtshuakat = {
+				}
+			}
+			c_pakuashipi = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_pakuashipi = {
+				}
+				b_shekatika = {
+				}
+				b_natsitok = {
+				}
+				b_akamiuapishkua = {
+				}
+				b_kikkertet = {
+				}
+				b_etagaulet = {
+				}
+				b_wapustagamau = {
+				}
+			}
+			c_unamenshipit = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_unamenshipit = {
+				}
+				b_natashquan = {
+				}
+				b_kegashka = {
+				}
+				b_coacoachou = {
+				}
+				b_mistahini = {
+				}
+				b_nakamistshetshuant = {
+				}
+				b_uemahtan = {
+				}
+			}
+		}
+		d_neenoilno = {
+
+			color={ 185 244 249 }
+			color2={ 220 220 220 }
+			
+			capital = 3343 # Chicoutimi
+
+			atikamekw = "Nitaskinan"
+
+			c_uashat = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_uashat = {
+				}
+				b_maliotenam = {
+					innu = "Mani-Utenam"
+				}
+				b_ekuantshit = {
+				}
+				b_uhatnihip = {
+				}
+				b_ehkuapustet = {
+				}
+				b_uhukanatshehu = {
+				}
+				b_uashatuess = {
+				}
+			}
+			c_pessamit = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_pessamit = {
+				}
+				b_mushalagan = {
+				}
+				b_kaupashkueiat = {
+				}
+				b_manic_cinq = {
+				}
+				b_kashipiautshemus = {
+				}
+				b_micoua = {
+				}
+				b_kaiashashkupat = {
+				}
+			}
+			c_chicoutimi = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_chicoutimi = {
+				}
+				b_mashteuiatsh = {
+				}
+				b_essipit = {
+				}
+				b_ouiatchouan = {
+				}
+				b_tadoussac = {
+					innu = "Totouskak"
+					mikmaq = "Gtatosag"
+				}
+				b_piekuakami = {
+				}
+				b_peribonka = {
+					innu = "Pelipaukau"
+				}
+			}
+			c_nitaskinan = {
+				color={ 185 254 249 }
+				color2={ 220 220 220 }
+				
+				b_obedjiwan = {
+					atikamekw = "Opitciwan"
+				}
+				b_manawan = {
+				}
+				b_wemotaci = {
+				}
+				b_ushabatshuan = {
+				}
+				b_coucoucache = {
+					atikamekw = "Kôkôkachi"
+				}
+				b_matawin = {
+				}
+				b_oskelaneo = {
+					atikamekw = "Oskélanéo"
+				}
+			}
+		}
+	}
+}

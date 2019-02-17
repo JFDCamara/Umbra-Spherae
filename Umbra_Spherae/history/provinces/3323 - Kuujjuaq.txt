@@ -1,0 +1,22 @@
+# 3323 - Kuujjuaq
+
+# County Title
+title = c_kuujjuaq
+
+# Settlements
+max_settlements = 3
+b_kuujjuaq = tribal
+#b_tasiujaq = tribal
+#b_aupaluk = tribal
+#b_qikirtajuaq = tribal
+#b_qaamanialuk_paanga = tribal
+#b_kativik = tribal
+#b_kilgavik = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

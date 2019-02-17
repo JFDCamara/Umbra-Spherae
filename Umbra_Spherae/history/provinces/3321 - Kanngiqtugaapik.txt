@@ -1,0 +1,22 @@
+# 3321 - Kanngiqtugaapik
+
+# County Title
+title = c_kanngiqtugaapik
+
+# Settlements
+max_settlements = 2
+b_kanngiqtugaapik = tribal
+#b_ammaluqtuq = tribal
+#b_sillem = tribal
+#b_aulitivik = tribal
+#b_aulitiving = tribal
+#b_ukpik = tribal
+#b_kisimngiuqtuq = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+1250.1.1 = { culture = inuit }

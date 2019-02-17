@@ -1,0 +1,22 @@
+# 3319 - Amadjuak
+
+# County Title
+title = c_amadjuak
+
+# Settlements
+max_settlements = 2
+b_amadjuak = tribal
+#b_katanillik = tribal
+#b_kimmirut = tribal
+#b_kinngait = tribal
+#b_sikusiilaq = tribal
+#b_mallikjuak = tribal
+#b_okolli = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

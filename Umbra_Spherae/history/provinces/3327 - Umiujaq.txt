@@ -1,0 +1,22 @@
+# 3327 - Umiujaq
+
+# County Title
+title = c_umiujaq
+
+# Settlements
+max_settlements = 3
+b_umiujaq = tribal
+#b_inukjuak = tribal
+#b_inurjuat = tribal
+#b_tasiujaq = tribal
+#b_qasigialingat = tribal
+#b_tursujuq = tribal
+#b_avaqqutaq = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

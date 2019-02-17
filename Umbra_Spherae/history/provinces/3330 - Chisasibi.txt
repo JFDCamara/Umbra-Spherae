@@ -1,0 +1,22 @@
+# 3330 - Chisasibi
+
+# County Title
+title = c_chisasibi
+
+# Settlements
+max_settlements = 4
+b_chisasibi = tribal
+#b_ismein = tribal
+#b_wemindji = tribal
+#b_sakami = tribal
+#b_metawatikwa = tribal
+#b_anistusikwasich = tribal
+#b_kachamiskusich = tribal
+
+# Misc
+culture = cree
+religion = tengri_pagan
+
+# History
+
+

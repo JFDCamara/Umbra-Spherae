@@ -1,0 +1,22 @@
+# 3339 - Pakuashipi
+
+# County Title
+title = c_pakuashipi
+
+# Settlements
+max_settlements = 3
+b_pakuashipi = tribal
+#b_shekatika = tribal
+#b_natsitok = tribal
+#b_akamiuapishkua = tribal
+#b_kikkertet = tribal
+#b_etagaulet = tribal
+#b_wapustagamau = tribal
+
+# Misc
+culture = innu
+religion = tengri_pagan
+
+# History
+
+

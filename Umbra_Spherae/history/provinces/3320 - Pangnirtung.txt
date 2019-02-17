@@ -1,0 +1,22 @@
+# 3320 - Pangnirtung
+
+# County Title
+title = c_pangnirtung
+
+# Settlements
+max_settlements = 2
+b_pangnirtung = tribal
+#b_qikiqtarjuaq = tribal
+#b_kivitoo = tribal
+#b_auyuittuq = tribal
+#b_nunaktak = tribal
+#b_kekertelung = tribal
+#b_kerkertal = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

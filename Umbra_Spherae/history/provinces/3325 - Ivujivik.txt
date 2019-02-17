@@ -1,0 +1,22 @@
+# 3325 - Ivujivik
+
+# County Title
+title = c_ivujivik
+
+# Settlements
+max_settlements = 3
+b_ivujivik = tribal
+#b_puvirnituq = tribal
+#b_sugluk = tribal
+#b_salluit = tribal
+#b_akulivik = tribal
+#b_pujjunaq = tribal
+#b_papiit = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

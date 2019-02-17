@@ -1,0 +1,22 @@
+# 3318 - Iqaluit
+
+# County Title
+title = c_iqaluit
+
+# Settlements
+max_settlements = 3
+b_iqaluit = tribal
+#b_niaqunngut = tribal
+#b_takuligjuaq = tribal
+#b_kipisa = tribal
+#b_shakshukuk = tribal
+#b_kangigutsak = tribal
+#b_opingivik = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

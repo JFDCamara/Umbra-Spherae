@@ -1,0 +1,22 @@
+# 3322 - Ikpiarjuk
+
+# County Title
+title = c_ikpiarjuk
+
+# Settlements
+max_settlements = 2
+b_ikpiarjuk = tribal
+#b_nanisivik = tribal
+#b_mittimatalik = tribal
+#b_shimik = tribal
+#b_sirmilik = tribal
+#b_kapuivik = tribal
+#b_angilaaq = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+1250.1.1 = { culture = inuit }

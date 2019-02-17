@@ -1,0 +1,22 @@
+# 3334 - Killiniq
+
+# County Title
+title = c_killiniq
+
+# Settlements
+max_settlements = 2
+b_killiniq = tribal
+#b_nuvotannak = tribal
+#b_korok = tribal
+#b_nuvukulluk = tribal
+#b_upernavik = tribal
+#b_torngat = tribal
+#b_kuururjuaq = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

@@ -1,0 +1,22 @@
+# 3332 - Waskaganish
+
+# County Title
+title = c_waskaganish
+
+# Settlements
+max_settlements = 3
+b_waskaganish = tribal
+#b_matagami = tribal
+#b_sesitinikastikw = tribal
+#b_tekakwitha = tribal
+#b_kakupanchish = tribal
+#b_uschiskash = tribal
+#b_nitauchichikan = tribal
+
+# Misc
+culture = cree
+religion = tengri_pagan
+
+# History
+
+

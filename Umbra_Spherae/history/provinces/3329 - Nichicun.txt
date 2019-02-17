@@ -1,0 +1,22 @@
+# 3329 - Nichicun
+
+# County Title
+title = c_nichicun
+
+# Settlements
+max_settlements = 2
+b_nichicun = tribal
+#b_apisikamis = tribal
+#b_petagumksun = tribal
+#b_amistustikwach = tribal
+#b_uchikwachikanan = tribal
+#b_kausapachuun = tribal
+#b_aminapustasich = tribal
+
+# Misc
+culture = cree
+religion = tengri_pagan
+
+# History
+
+

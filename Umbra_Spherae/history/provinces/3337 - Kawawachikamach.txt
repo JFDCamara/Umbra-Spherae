@@ -1,0 +1,22 @@
+# 3337 - Kawawachikamach
+
+# County Title
+title = c_kawawachikamach
+
+# Settlements
+max_settlements = 4
+b_kawawachikamach = tribal
+#b_kamistiatusset = tribal
+#b_menihek = tribal
+#b_patshishetshuanau = tribal
+#b_matimekosh = tribal
+#b_ashuanipi = tribal
+#b_opocopa = tribal
+
+# Misc
+culture = innu
+religion = tengri_pagan
+
+# History
+
+

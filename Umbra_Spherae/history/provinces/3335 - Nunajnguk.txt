@@ -1,0 +1,22 @@
+# 3335 - Nunajnguk
+
+# County Title
+title = c_nunajnguk
+
+# Settlements
+max_settlements = 3
+b_nunajnguk = tribal
+#b_nutak = tribal
+#b_okak = tribal
+#b_iluikoyak = tribal
+#b_umiakovik = tribal
+#b_sungilik = tribal
+#b_kotannak = tribal
+
+# Misc
+culture = tuniq
+religion = tengri_pagan
+
+# History
+
+

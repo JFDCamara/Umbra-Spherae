@@ -344,3 +344,7 @@ region_comoros = {
 region_svalbard = {
 	provinces = { 3317 }
 }
+
+region_baffin = {
+	provinces = { 3318 3319 3320 3321 3322 }
+}
