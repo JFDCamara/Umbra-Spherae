@@ -118,6 +118,35 @@ sivullirmiut = {
 cree_algonquian = {
 	graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
 
+
+	cree = {
+		graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+		color = { 0.4 0.8 0.8 }
+
+		male_names = {
+			Abooksigun Abukcheech Achachak Ahanu Anakausuen Aranck Askook Askuwheteau Chansomps Chogan Enkoodabaoo Etchemin Etlelooaat Hassun Huritt Keme Kitchi Machk Matchitehew Matunaagd Matwau Megedagik Mekledoodum Mingan Mukki Nixkamich Nootau Pannoowau Powaw Samoset Segenam Sucki Sunukkuhkau Tihkoosue Wematin
+		}
+		female_names = {
+			Alawa Alsoomse Hausis Hurit Kanti Keegsquaw Kimi Nadie Nijlon Numees Nuna Nuttah Oota-dabun Pules Sokanon Sokw Tahki Wapun Wawetseka Wikimak
+		}
+
+		dynasty_title_names = no
+
+		prefix = no
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
 	innu = {
 		graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
 		color = { 0.7 0.5 0.1 }
@@ -176,14 +205,14 @@ Abideshook Adobonee Ae-u-eece Ashaboo-uth Ashei Bathue Baubooshrat Bogodoret Bog
 
 	atikamekw = {
 		graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
-		color = { 0.7 0.5 0.1 }
+		color = { 0.2 0.7 0.7 }
 
 		male_names = {
-Aissimess Akuaukusht Apinam_Abraham Ashtunishish Atamakaniss Atiku Atshen Emish Kaminaushit Kanishutakashtasht Kaniuekutat Kapapisht Kapinien_Gabriel Kashupasset Katshinukapaut Katshipunasht Kauitshi-Katshinat Kautatikumit Kuekuatsheu Kutshinapess Maikan Manitesh Maniteu Matiu Meshkana Minapakun Minutshinishkuess Mishen Mishta-Etuat Mishta-Napesh Mishtauiapeu Mitshishu Napess Napeutiku Natupaniu Nutamikuesh Pekissiu Pien Pienshak Pikutushan Pipitsheu Pitan_Peter Shakani Shanti Shapatish Shimiu Shinapiu Shinipesht Shuashem Shushep_Joseph Shushepiss Tanien Tshakashue Tshani_John Tshanitshish Tshim_Jacob Tshimushuminu Tshishennish Tshishkuetutsheunnu Tshishpush Tumassat_Thomas Uashaunnu Uatshitshish Uemishtikushiss Uitshikapeu Uitshitshimushish Ukueiau Uniam Uniam_William Unikush Upinau Ussinitshishu Utanukueu Utshimau Utshimauapeu
-			}
+			Atika Etutikueu Kanikuen Kaniuekutat Katshituask Kenussemu Kueskapeu Manish Manteskueu Manuk Mistipinip Muskushish Nashitt Ninitshitau Nuke Petapanu Pineshikan Ponas Shenakuteu Shimish Shinapiu Shushepis Tshenish Tshetshepateu Tshishennish Uapannish Uitshitshimushish Ustinitshu W‚paskw 
+		}
 		female_names = {
-Aniet Anishen Anissikutshaushkueu Anitshishkueu Apikushish Ekuanitshishkueu Ishkuess Kanakunash Kanakunau Katinen Kautatshet Manikanetishkueu Manishai Manishan Mestenapeo Nisseushkueu Penash Penenu Shanimen Shanut Shushepin Tshiueianukueu Ukaumau
-			}
+			Ahapiskueu ¬pikusÓs Ashenik Kaiekuskakut Kasseukanit Kauinimishit Keuapakanaskueu Kutesh Kutshake Maniteu Matanueskueu Miniskuesh Mushuau Muskumin Nashape Nenuskueu Neskueu Niakau Pishum Pishumuskuess Shanipiash Sharika Shekau Shunne Skueu Uapan Uapukun Uashamamou Ueuetimiskueu Utshimaskues WÓskac‚n 
+		}
 
 		dynasty_title_names = no
 
