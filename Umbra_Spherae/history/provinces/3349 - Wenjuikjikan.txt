@@ -1,0 +1,21 @@
+# 3349 - Wenjuikjikan
+
+# County Title
+title = c_wenjuikjikan
+
+# Settlements
+max_settlements = 3
+b_wenjuikjikan = tribal
+#b_mikliin = tribal
+#b_senpir = tribal
+#b_lmujteg = tribal
+#b_apjijgmuj = tribal
+#b_megwasitm = tribal
+#b_asugwesugwijig = tribal
+
+# Misc
+culture = beothuk
+religion = tengri_pagan
+
+# History
+

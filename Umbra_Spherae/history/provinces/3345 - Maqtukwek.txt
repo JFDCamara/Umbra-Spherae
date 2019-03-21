@@ -1,0 +1,22 @@
+# 3345 - Maqtukwek
+
+# County Title
+title = c_maqtukwek
+
+# Settlements
+max_settlements = 4
+b_quirpon = tribal
+#b_maqtukwek = tribal
+#b_qalipu = tribal
+#b_kwesowaak = tribal
+#b_kitpu = tribal
+#b_atoqwasueget = tribal
+#b_aguwathuna = tribal
+
+# Misc
+culture = tuniit
+religion = tengri_pagan
+
+# History
+1100.1.1 = { culture = beothuk }
+

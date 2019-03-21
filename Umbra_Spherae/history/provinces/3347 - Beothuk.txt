@@ -1,0 +1,21 @@
+# 3347 - Beothuk
+
+# County Title
+title = c_beothuk
+
+# Settlements
+max_settlements = 4
+b_beothuk = tribal
+#b_qapskuk = tribal
+#b_paqtesm = tribal
+#b_sulumgw = tribal
+#b_nipgasoqomasit = tribal
+#b_masgwesgospem = tribal
+#b_usgus = tribal
+
+# Misc
+culture = beothuk
+religion = tengri_pagan
+
+# History
+

@@ -1,0 +1,21 @@
+# 3348 - Wabana
+
+# County Title
+title = c_wabana
+
+# Settlements
+max_settlements = 5
+b_wabana = tribal
+#b_miawpukek = tribal
+#b_samiaji = tribal
+#b_jeddore = tribal
+#b_jipujijkuei = tribal
+#b_wapusgospem = tribal
+#b_gegupnguntew = tribal
+
+# Misc
+culture = beothuk
+religion = tengri_pagan
+
+# History
+
