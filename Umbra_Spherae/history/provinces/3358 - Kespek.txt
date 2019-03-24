@@ -1,0 +1,21 @@
+# 3358 - Kespek
+
+# County Title
+title = c_kespek
+
+# Settlements
+max_settlements = 5
+b_kespek = tribal
+#b_wisiamkik = tribal
+#b_keskapekiaq = tribal
+#b_listikujk = tribal
+#b_kekwapskuk = tribal
+#b_wospegiak = tribal
+#b_sigsog = tribal
+
+# Misc
+culture = mikmaq
+religion = algic_pagan
+
+# History
+

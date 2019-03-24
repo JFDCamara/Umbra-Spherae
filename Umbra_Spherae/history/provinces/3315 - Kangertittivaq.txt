@@ -15,7 +15,7 @@ b_ittoqqortoormiit = tribal
 
 # Misc
 culture = tuniq
-religion = tengri_pagan
+religion = inuit_pagan
 
 # History
 

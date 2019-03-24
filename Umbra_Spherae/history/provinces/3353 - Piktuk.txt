@@ -1,0 +1,21 @@
+# 3353 - Piktuk
+
+# County Title
+title = c_piktuk
+
+# Settlements
+max_settlements = 5
+b_piktuk = tribal
+#b_wekopekwitk = tribal
+#b_paqtnkek = tribal
+#b_nemcheboogwek = tribal
+#b_puksaqteknekatik = tribal
+#b_chignecto = tribal
+#b_pagweak = tribal
+
+# Misc
+culture = mikmaq
+religion = algic_pagan
+
+# History
+

@@ -1,0 +1,21 @@
+# 3357 - Siknikt
+
+# County Title
+title = c_siknikt
+
+# Settlements
+max_settlements = 5
+b_natuaqanek = tribal
+#b_petkootkweak = tribal
+#b_eskinuopitijk = tribal
+#b_metepnakiaq = tribal
+#b_lsipuktuk = tribal
+#b_ugpiganjig = tribal
+#b_puktusk = tribal
+
+# Misc
+culture = mikmaq
+religion = algic_pagan
+
+# History
+

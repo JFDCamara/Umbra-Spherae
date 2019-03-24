@@ -1,0 +1,446 @@
+e_wabanaki = {
+
+	color={ 185 244 249 }
+	color2={ 220 220 220 }
+
+	norse = "Vinland"
+	norwegian = "Vinland"
+	danish = "Vinland"
+	swedish = "Vinland"
+	english = "Vinland"
+	saxon = "Winland"
+	old_saxon = "Winland"
+	german = "Winland"
+
+	capital = 3350 # Unama'kik
+
+	k_mikmaq = {
+
+		color={ 185 244 249 }
+		color2={ 220 220 220 }
+
+		norse = "Vinland"
+		norwegian = "Vinland"
+		danish = "Vinland"
+		swedish = "Vinland"
+		english = "Vinland"
+		saxon = "Winland"
+		old_saxon = "Winland"
+		german = "Winland"
+
+		capital = 3350 # Unama'kik
+
+		d_beothuk = {
+
+			color={ 185 244 249 }
+			color2={ 220 220 220 }
+
+			inuit = "Ikkarumiklua"
+			tuniit = "Ikkarumiklua"
+			mikmaq = "Taqamkuk"
+			innu = "Akamassiss"
+			norse = "Kjalarnes"
+			norwegian = "Kjalarnes"
+			danish = "Kjalarnes"
+			swedish = "Kjalarnes"
+			english = "Newfoundland"
+			french = "Terre-Neuve"
+			irish = "Talamh an Éisc"
+			scottish = "Eilean a' Trosg"
+			portuguese = "Terra Nova"
+			italian = "Terranova"
+			
+			capital = 3348 # Wabana
+			
+			c_maqtukwek = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+				
+				inuit = "Ikkereitsock"
+				tuniit = "Ikkereitsock"
+				norse = "Leifsbuðir"
+				norwegian = "Leifsbuðir"
+				danish = "Leifsbuðir"
+				swedish = "Leifsbuðir"
+				
+				b_quirpon = {
+					inuit = "Ikkereitsock"
+					tuniit = "Ikkereitsock"
+					norse = "Leifsbuðir"
+					norwegian = "Leifsbuðir"
+					danish = "Leifsbuðir"
+					swedish = "Leifsbuðir"
+				}
+				b_maqtukwek = {
+				}
+				b_qalipu = {
+				}
+				b_kwesowaak = {
+				}
+				b_kitpu = {
+				}
+				b_atoqwasueget = {
+				}
+				b_aguwathuna = {
+				}
+			}
+			c_siinalk = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+				
+				b_siinalk = {
+				}
+				b_megweguntew = {
+				}
+				b_nataqamtug = {
+				}
+				b_pitaw = {
+				}
+				b_lampoq = {
+				}
+				b_psitnuj = {
+				}
+				b_gameg = {
+				}
+			}
+			c_beothuk = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+				
+				b_beothuk = {
+				}
+				b_qapskuk = {
+				}
+				b_paqtesm = {
+				}
+				b_sulumgw = {
+				}
+				b_nipgasoqomasit = {
+				}
+				b_masgwesgospem = {
+				}
+				b_usgus = {
+				}
+			}
+			c_wabana = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+				
+				b_wabana = {
+				}
+				b_miawpukek = {
+				}
+				b_samiaji = {
+				}
+				b_jeddore = {
+				}
+				b_jipujijkuei = {
+				}
+				b_wapusgospem = {
+				}
+				b_gegupnguntew = {
+				}
+			}
+			c_wenjuikjikan = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+				
+				b_wenjuikjikan = {
+				}
+				b_mikliin = {
+				}
+				b_senpir = {
+				}
+				b_lmujteg = {
+				}
+				b_apjijgmuj = {
+				}
+				b_megwasitm = {
+				}
+				b_asugwesugwijig = {
+				}
+			}
+		}
+		d_akadie = {
+
+			color={ 185 244 249 }
+			color2={ 220 220 220 }
+
+			english = "Acadia"
+			french = "Acadie"
+			
+			capital = 3350 # Unama'kik
+			
+			c_unamakik = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+
+				mikmaq = "Unama'kik"
+				
+				b_mniku = {
+				}
+				b_cibou = {
+				}
+				b_potlotek = {
+				}
+				b_eskasoni = {
+					mikmaq = "Wékistoqnik"
+				}
+				b_maupeltuk = {
+				}
+				b_waycobah = {
+				}
+				b_malabokek = {
+				}
+			}
+			c_eskikewakik = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+
+				mikmaq = "Eskikewaꞌkik"
+				
+				b_pogumkek = {
+				}
+				b_ecumsecum = {
+				}
+				b_noogoomkeak = {
+				}
+				b_chedabuctou = {
+				}
+				b_musquodoboit = {
+				}
+				b_kamsok = {
+				}
+				b_stewiacke = {
+				}
+			}
+			c_sipeknikatik = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+
+				mikmaq = "Sipekniꞌkatik"
+				
+				b_sipeknekatik = {
+					mikmaq = "Sipekne'katik"
+				}
+				b_kjipuktuk = {
+					mikmaq = "K'jipuktuk"
+				}
+				b_kakagwek = {
+				}
+				b_wekistoqnik = {
+					mikmaq = "Wékistoqnik"
+				}
+				b_kampalijek = {
+				}
+				b_pesikitk = {
+				}
+				b_jijuktukwejk = {
+					mikmaq = "Jijuktu'kwejk"
+				}
+			}
+			c_kespukwitk = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+				
+				b_kespukwitk = {
+				}
+				b_malikiaq = {
+				}
+				b_lsetkuk = {
+				}
+				b_eelsetkook = {
+				}
+				b_chijekwtook = {
+				}
+				b_ponhook = {
+				}
+				b_kejimkujik = {
+				}
+			}
+		}
+		d_epekwitk = {
+
+			color={ 185 244 249 }
+			color2={ 220 220 220 }
+			
+			capital = 3351 # Epekwitk
+			
+			c_epekwitk = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+				
+				b_skaqmk = {
+				}
+				b_mimtugaak = {
+				}
+				b_kadotpichk = {
+				}
+				b_lnui_minegoo = {
+					mikmaq = "L'nui Mnikuk"
+				}
+				b_miscouche = {
+				}
+				b_mtagunich = {
+				}
+				b_cascumpec = {
+				}
+			}
+			c_menagoesengo = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+				
+				b_menagoesengo = {
+				}
+				b_sitmwaspu = {
+				}
+				b_gloqontiejik = {
+				}
+				b_maqatgwig = {
+				}
+				b_pogwin = {
+					mikmaq = "Po'gwin"
+				}
+				b_putpatuomg = {
+					mikmaq = "Put'patuomg"
+				}
+				b_gateweget = {
+					mikmaq = "Ga'tewe'get"
+				}
+			}
+			c_piktuk = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+				
+				b_piktuk = {
+				}
+				b_wekopekwitk = {
+					mikmaq = "Wékopekwitk"
+				}
+				b_paqtnkek = {
+					mikmaq = "Paqꞌtnkek"
+				}
+				b_nemcheboogwek = {
+				}
+				b_puksaqteknekatik = {
+					mikmaq = "Puksaqtéknékatik"
+				}
+				b_chignecto = {
+				}
+				b_pagweak = {
+				}
+			}
+		}
+		d_kespek = {
+
+			color={ 185 244 249 }
+			color2={ 220 220 220 }
+
+			norse = "Vinland"
+			norwegian = "Vinland"
+			danish = "Vinland"
+			swedish = "Vinland"
+			mikmaq = "Kespék"
+			
+			capital = 3358 # Kespek
+			
+			c_kespek = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+
+				norse = "Straumfjörð"
+				norwegian = "Straumfjörð"
+				danish = "Straumfjörð"
+				swedish = "Straumfjörð"
+				mikmaq = "Kespék"
+				
+				b_kespek = {
+					mikmaq = "Kespék"
+				}
+				b_wisiamkik = {
+					norse = "Straumfjörð"
+					norwegian = "Straumfjörð"
+					danish = "Straumfjörð"
+					swedish = "Straumfjörð"
+				}
+				b_keskapekiaq = {
+				}
+				b_listikujk = {
+				}
+				b_kekwapskuk = {
+					mikmaq = "Kékwapskuk"
+				}
+				b_wospegiak = {
+				}
+				b_sigsog = {
+					mikmaq = "Sigsôg"
+				}
+			}
+			c_siknikt = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+				
+				b_natuaqanek = {
+				}
+				b_petkootkweak = {
+				}
+				b_eskinuopitijk = {
+				}
+				b_metepnakiaq = {
+					mikmaq = "Metepnákiaq"
+				}
+				b_lsipuktuk = {
+				}
+				b_ugpiganjig = {
+					mikmaq = "Ugpiꞌganjig"
+				}
+				b_puktusk = {
+				}
+			}
+			c_natigosteg = {
+
+				color={ 195 244 249 }
+				color2={ 220 220 220 }
+
+				mikmaq = "Natigôsteg"
+				innu = "Notiskuan"
+				
+				b_natigosteg = {
+					mikmaq = "Natigôsteg"
+					innu = "Notiskuan"
+				}
+				b_kakawis = {
+				}
+				b_lstgug = {
+					mikmaq = "Ls'tgug"
+				}
+				b_najitiamuin = {
+					mikmaq = "Najitia'mui'n"
+				}
+				b_tiamugwet = {
+					mikmaq = "Tia'mugwet"
+				}
+				b_najigateget = {
+					mikmaq = "Najiga'te'get"
+				}
+				b_amaljugwej = {
+				}
+			}
+		}
+	}
+
+}

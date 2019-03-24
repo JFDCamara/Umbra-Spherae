@@ -15,7 +15,7 @@ b_obedjiwan = tribal
 
 # Misc
 culture = atikamekw
-religion = tengri_pagan
+religion = algic_pagan
 
 # History
 

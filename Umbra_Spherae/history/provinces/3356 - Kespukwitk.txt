@@ -1,0 +1,21 @@
+# 3356 - Kespukwitk
+
+# County Title
+title = c_kespukwitk
+
+# Settlements
+max_settlements = 4
+b_kespukwitk = tribal
+#b_malikiaq = tribal
+#b_lsetkuk = tribal
+#b_eelsetkook = tribal
+#b_chijekwtook = tribal
+#b_ponhook = tribal
+#b_kejimkujik = tribal
+
+# Misc
+culture = mikmaq
+religion = algic_pagan
+
+# History
+

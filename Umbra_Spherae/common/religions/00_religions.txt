@@ -2217,6 +2217,8 @@ pagan_group = {
 		intermarry = zoroastrian_group
 		intermarry = shingyo
 	}
+
+#Asian Groups
 	
 	jurchen_pagan = { #Jurchens
 		graphical_culture = mongolgfx	
@@ -3262,6 +3264,8 @@ pagan_group = {
 		dislike_tribal_organization = yes
 	}
 
+#African Groups
+
 	south_bantu_mythology_reformed = {
 		graphical_culture = africangfx
 		interface_skin = { zun_interface zoroastrian_interface muslim_interface }
@@ -3878,6 +3882,224 @@ pagan_group = {
 		can_demand_religious_conversion = no
 		
 	}
+
+#Native American Groups
+
+	inuit_pagan_reformed = {
+		graphical_culture = pagangfx
+		alternate_start = { always = no }
+		
+		secondary_event_pictures = finnish_pagan
+
+		icon = 26
+		heresy_icon = 27
+		
+		ai_convert_other_group = 2 # always try to convert
+		
+		color = { 0.95 0.95 0.55 }
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_UNIPKAAQS
+		priest_title = ANGAKKUQ
+		
+		high_god_name = GOD_ANIRNIALUK
+		
+		god_names = {
+			GOD_ANIRNIALUK GOD_AKNA GOD_AMAGUQ GOD_IGALUK GOD_NANOOK GOD_PINGA GOD_QAILERTETANG GOD_SILA GOD_TEKKEITSERTOK GOD_THE_ANIRNIIT
+		}
+		evil_god_names = {
+			ANGUTA SEDNA AGLOOLIK THE_TUURNGAQ
+		}
+		
+	#	unit_modifier = {		 		#Special features are added via reformation. If HF is not installed, default features are applied on reformed religion by event.
+	#		garrison_size = 0.3
+	#		levy_size = 0.1
+	#		
+	#		key = "DEF_RELIGION"
+	#	}
+	#	unit_home_modifier = {
+	#		land_morale = 0.8
+	#		light_infantry_defensive = 0.8
+	#		heavy_infantry_defensive = 0.8
+	#		pikemen_defensive = 0.8
+	#		light_cavalry_defensive = 0.8
+	#		knights_defensive = 0.8
+	#		archers_defensive = 0.8
+	#		horse_archers_defensive = 0.8
+	#		camel_cavalry_defensive = 0.8
+	#		war_elephants_defensive = 0.8
+	#		
+	#		garrison_size = 0.4
+	#		
+	#		key = "DEF_RELIGION_HOME_TERRITORY"
+	#	}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
+		allow_looting = yes
+		max_consorts = 3
+		short_reign_opinion_year_mult = 1.5
+		
+		aggression = 0.5 # AI aggression factor
+		
+		religious_clothing_head = 14
+		religious_clothing_priest = 3
+		
+		allow_in_ruler_designer = no
+	}	
+	
+	inuit_pagan = {
+		graphical_culture = pagangfx
+		alternate_start = {
+			OR = {
+				year < 1100
+				has_alternate_start_parameter = { key = religion value = full_random }
+			}
+		}
+
+		icon = 25
+		heresy_icon = 27
+		
+		color = { 0.85 0.85 0.4 }
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_UNIPKAAQS
+		priest_title = ANGAKKUQ
+		
+		high_god_name = GOD_ANIRNIALUK
+		
+		god_names = {
+			GOD_ANIRNIALUK GOD_AKNA GOD_AMAGUQ GOD_IGALUK GOD_NANOOK GOD_PINGA GOD_QAILERTETANG GOD_SILA GOD_TEKKEITSERTOK GOD_THE_ANIRNIIT
+		}
+		evil_god_names = {
+			ANGUTA SEDNA AGLOOLIK THE_TUURNGAQ
+		}
+		
+		unit_modifier = {
+			levy_size = 0.3
+			
+			key = "OFF_RELIGION"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = inuit_pagan_reformed
+		
+		short_reign_opinion_year_mult = 2
+		
+		aggression = 0.2 # AI aggression factor
+		
+		religious_clothing_head = 14
+		religious_clothing_priest = 3
+		
+		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
+	}
+
+	algic_pagan_reformed = {
+		graphical_culture = mesoamericangfx
+		alternate_start = { always = no }
+		
+		secondary_event_pictures = mesoamerican
+		
+		icon = 17
+		heresy_icon = 18
+		
+		ai_convert_other_group = 2 # always try to convert
+		
+		color = { 0.25 0.85 0.85 }
+
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_AADIZOOKAAN_SCROLLS
+		priest_title = MIDEW #Religious societies: Midewiwin, Wabunowin, Jiisakiiwin
+		
+		high_god_name = GOD_GITCHEE_MANITOU
+
+		god_names = {
+			GOD_GITCHEE_MANITOU GOD_NANABOZHO GOD_GIIZHIGOOKWE GOD_MUDJEKEEWIS 
+		}
+		evil_god_names = {
+			JIIBAYAABOOZ MISHIGINEBIG MISHIPESHU
+		}
+		
+		unit_modifier = {
+			levy_size = 0.3
+			
+			key = "OFF_RELIGION"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
+		allow_looting = yes
+		max_consorts = 3
+		short_reign_opinion_year_mult = 1.5
+		
+		aggression = 0.5 # AI aggression factor
+		
+		religious_clothing_head = 14
+		religious_clothing_priest = 3
+		
+		allow_in_ruler_designer = no
+	}	
+	algic_pagan = {
+		graphical_culture = mesoamericangfx
+		icon = 15
+		heresy_icon = 16
+		color = { 0.2 0.8 0.8 }
+		alternate_start = {
+			OR = {
+				year < 1100
+				has_alternate_start_parameter = { key = religion value = full_random }
+			}
+		}
+
+		secondary_event_pictures = mesoamerican
+
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_AADIZOOKAAN_SCROLLS
+		priest_title = MIDEW #Religious societies: Midewiwin, Wabunowin, Jiisakiiwin
+
+		high_god_name = GOD_GITCHEE_MANITOU
+
+		god_names = {
+			GOD_GITCHEE_MANITOU GOD_NANABOZHO GOD_GIIZHIGOOKWE GOD_MUDJEKEEWIS 
+		}
+		evil_god_names = {
+			JIIBAYAABOOZ MISHIGINEBIG MISHIPESHU
+		}
+
+		unit_modifier = {
+			levy_size = 0.3
+			
+			key = "OFF_RELIGION"
+		}
+
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = algic_pagan_reformed
+		
+		short_reign_opinion_year_mult = 2
+		
+		aggression = 0.2 # AI aggression factor
+		
+		religious_clothing_head = 14
+		religious_clothing_priest = 3
+		
+		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
+
+	}
+
 }
 
 zoroastrian_group = {

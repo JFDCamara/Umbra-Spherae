@@ -15,7 +15,7 @@ b_svalbard = tribal
 
 # Misc (placeholder)
 culture = tuniq
-religion = tengri_pagan
+religion = inuit_pagan
 
 # History
 

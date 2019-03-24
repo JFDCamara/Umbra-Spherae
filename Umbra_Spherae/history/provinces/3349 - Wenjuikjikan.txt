@@ -14,8 +14,8 @@ b_wenjuikjikan = tribal
 #b_asugwesugwijig = tribal
 
 # Misc
-culture = beothuk
-religion = tengri_pagan
+culture = mikmaq
+religion = algic_pagan
 
 # History
 

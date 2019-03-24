@@ -15,7 +15,7 @@ b_kangirsuk = tribal
 
 # Misc
 culture = tuniq
-religion = tengri_pagan
+religion = inuit_pagan
 
 # History
 

@@ -15,7 +15,7 @@ b_kawawachikamach = tribal
 
 # Misc
 culture = innu
-religion = tengri_pagan
+religion = algic_pagan
 
 # History
 

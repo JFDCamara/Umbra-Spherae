@@ -1,0 +1,21 @@
+# 3354 - Eskikewakik
+
+# County Title
+title = c_eskikewakik
+
+# Settlements
+max_settlements = 4
+b_pogumkek = tribal
+#b_ecumsecum = tribal
+#b_noogoomkeak = tribal
+#b_chedabuctou = tribal
+#b_musquodoboit = tribal
+#b_kamsok = tribal
+#b_stewiacke = tribal
+
+# Misc
+culture = mikmaq
+religion = algic_pagan
+
+# History
+

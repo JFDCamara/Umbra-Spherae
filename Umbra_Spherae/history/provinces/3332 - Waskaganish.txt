@@ -15,7 +15,7 @@ b_waskaganish = tribal
 
 # Misc
 culture = cree
-religion = tengri_pagan
+religion = algic_pagan
 
 # History
 

@@ -1,0 +1,21 @@
+# 3352 - Menagoesengo
+
+# County Title
+title = c_menagoesengo
+
+# Settlements
+max_settlements = 3
+b_menagoesengo = tribal
+#b_sitmwaspu = tribal
+#b_gloqontiejik = tribal
+#b_maqatgwig = tribal
+#b_pogwin = tribal
+#b_putpatuomg = tribal
+#b_gateweget = tribal
+
+# Misc
+culture = mikmaq
+religion = algic_pagan
+
+# History
+

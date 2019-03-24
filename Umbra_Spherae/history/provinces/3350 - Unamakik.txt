@@ -1,0 +1,21 @@
+# 3350 - Unamakik
+
+# County Title
+title = c_unamakik
+
+# Settlements
+max_settlements = 6
+b_mniku = tribal
+#b_cibou = tribal
+#b_potlotek = tribal
+#b_eskasoni = tribal
+#b_maupeltuk = tribal
+#b_waycobah = tribal
+#b_malabokek = tribal
+
+# Misc
+culture = mikmaq
+religion = algic_pagan
+
+# History
+

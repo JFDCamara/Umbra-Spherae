@@ -15,8 +15,8 @@ b_quirpon = tribal
 
 # Misc
 culture = tuniit
-religion = tengri_pagan
+religion = inuit_pagan
 
 # History
-1100.1.1 = { culture = beothuk }
+1100.1.1 = { culture = beothuk religion = algic_pagan }
 
