@@ -1,0 +1,68 @@
+#Mmamba Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000202807 #Kamya
+}
+780.1.1={
+	holder=1000202808 #Kato
+}
+810.1.1={
+	holder=1000202809 #Madongo
+}
+840.1.1={
+	holder=1000202810 #Isingoma
+}
+870.1.1={
+	holder=1000202811 #Musoke
+}
+900.1.1={
+	holder=1000202812 #Kirabo
+}
+930.1.1={
+	holder=1000202813 #Bikutwala
+}
+960.1.1={
+	holder=1000202814 #Birungi
+}
+990.1.1={
+	holder=1000202815 #Runihura
+}
+1020.1.1={
+	holder=1000202816 #Runihura
+}
+1050.1.1={
+	holder=1000202817 #Kibuuka
+}
+1080.1.1={
+	holder=1000202818 #Kurembera
+}
+1110.1.1={
+	holder=1000202819 #Wemusa
+}
+1140.1.1={
+	holder=1000202820 #Nyillingondo
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000202821 #Najja
+}
+1200.1.1={
+	holder=1000202822 #Nakisisa
+}
+1230.1.1={
+	holder=1000202823 #Wekesa
+}
+1260.1.1={
+	holder=1000202824 #Kato
+}
+1290.1.1={
+	holder=1000202825 #Kadokechi
+}
+1320.1.1={
+	holder=1000202826 #Nkundiushuti
+}
+1350.1.1={
+	holder=1000202827 #Kadokechi
+}

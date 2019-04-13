@@ -1,0 +1,65 @@
+#Lagat Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203374 #Lemayian
+}
+780.1.1={
+	holder=1000203375 #Lolkerra
+}
+810.1.1={
+	holder=1000203376 #Masigonde
+}
+840.1.1={
+	holder=1000203377 #Naengop
+}
+870.1.1={
+	holder=1000203378 #Kurary
+}
+900.1.1={
+	holder=1000203379 #Parneres
+}
+930.1.1={
+	holder=1000203380 #Bol
+}
+960.1.1={
+	holder=1000203381 #Lemaron
+}
+990.1.1={
+	holder=1000203382 #Sabore
+}
+1020.1.1={
+	holder=1000203383 #Parneres
+}
+1050.1.1={
+	holder=1000203384 #Koinet
+}
+1080.1.1={
+	holder=1000203385 #Maitera
+}
+1110.1.1={
+	holder=1000203386 #Meticiki
+}
+1140.1.1={
+	holder=1000203387 #Koinet
+}
+1170.1.1={
+	holder=1000203388 #Lemaron
+}
+1200.1.1={
+	holder=1000203389 #Tonkei
+}
+1230.1.1={
+	holder=1000203390 #Sankale
+}
+1260.1.1={
+	holder=1000203391 #Teng
+}
+1290.1.1={
+	holder=1000203392 #Legishon
+}
+1320.1.1={
+	holder=1000203393 #Leboo
+}
+1350.1.1={
+	holder=1000203394 #Lemayian
+}

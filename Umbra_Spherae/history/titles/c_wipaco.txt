@@ -1,0 +1,65 @@
+#Hera Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203206 #Meticiki
+}
+780.1.1={
+	holder=1000203207 #Sironka
+}
+810.1.1={
+	holder=1000203208 #Deng
+}
+840.1.1={
+	holder=1000203209 #Meticiki
+}
+870.1.1={
+	holder=1000203210 #Hol
+}
+900.1.1={
+	holder=1000203211 #Sankei
+}
+930.1.1={
+	holder=1000203212 #Lemuanik
+}
+960.1.1={
+	holder=1000203213 #Leboo
+}
+990.1.1={
+	holder=1000203214 #Tonkei
+}
+1020.1.1={
+	holder=1000203215 #Marial
+}
+1050.1.1={
+	holder=1000203216 #Marial
+}
+1080.1.1={
+	holder=1000203217 #Leboo
+}
+1110.1.1={
+	holder=1000203218 #Leboo
+}
+1140.1.1={
+	holder=1000203219 #Lemayian
+}
+1170.1.1={
+	holder=1000203220 #Marial
+}
+1200.1.1={
+	holder=1000203221 #Mbiraru
+}
+1230.1.1={
+	holder=1000203222 #Tonkei
+}
+1260.1.1={
+	holder=1000203223 #Kuol
+}
+1290.1.1={
+	holder=1000203224 #Kurary
+}
+1320.1.1={
+	holder=1000203225 #Meticiki
+}
+1350.1.1={
+	holder=1000203226 #Lemashon
+}

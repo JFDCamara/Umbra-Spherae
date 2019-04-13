@@ -1,0 +1,68 @@
+#Nalule Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000202828 #Gahuj
+}
+780.1.1={
+	holder=1000202829 #Wanyonyi
+}
+810.1.1={
+	holder=1000202830 #Sebahive
+}
+840.1.1={
+	holder=1000202831 #Adroa
+}
+870.1.1={
+	holder=1000202832 #Munanire
+}
+900.1.1={
+	holder=1000202833 #Gumisiriza
+}
+930.1.1={
+	holder=1000202834 #Kamoga
+}
+960.1.1={
+	holder=1000202835 #Sebahive
+}
+990.1.1={
+	holder=1000202836 #Hakizimana
+}
+1020.1.1={
+	holder=1000202837 #Luzige
+}
+1050.1.1={
+	holder=1000202838 #Lutalo
+}
+1080.1.1={
+	holder=1000202839 #Kasumba
+}
+1110.1.1={
+	holder=1000202840 #Kibuuka
+}
+1140.1.1={
+	holder=1000202841 #Kasozi
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000202842 #Najja
+}
+1200.1.1={
+	holder=1000202843 #Simyu
+}
+1230.1.1={
+	holder=1000202844 #Niyonzima
+}
+1260.1.1={
+	holder=1000202845 #Adroa
+}
+1290.1.1={
+	holder=1000202846 #Kigongo
+}
+1320.1.1={
+	holder=1000202847 #Kasumba
+}
+1350.1.1={
+	holder=1000202848 #Gahuj
+}

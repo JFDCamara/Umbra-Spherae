@@ -1,0 +1,65 @@
+#Bol Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203248 #Sankale
+}
+780.1.1={
+	holder=1000203249 #Leboo
+}
+810.1.1={
+	holder=1000203250 #Leboo
+}
+840.1.1={
+	holder=1000203251 #Simel
+}
+870.1.1={
+	holder=1000203252 #Lemayian
+}
+900.1.1={
+	holder=1000203253 #Deng
+}
+930.1.1={
+	holder=1000203254 #Komeyicin
+}
+960.1.1={
+	holder=1000203255 #Meticiki
+}
+990.1.1={
+	holder=1000203256 #Mbiraru
+}
+1020.1.1={
+	holder=1000203257 #Lemaron
+}
+1050.1.1={
+	holder=1000203258 #Hol
+}
+1080.1.1={
+	holder=1000203259 #Ntimama
+}
+1110.1.1={
+	holder=1000203260 #Chol
+}
+1140.1.1={
+	holder=1000203261 #Lolkerra
+}
+1170.1.1={
+	holder=1000203262 #Marial
+}
+1200.1.1={
+	holder=1000203263 #Ntimama
+}
+1230.1.1={
+	holder=1000203264 #Komeyicin
+}
+1260.1.1={
+	holder=1000203265 #Garang
+}
+1290.1.1={
+	holder=1000203266 #Mabior
+}
+1320.1.1={
+	holder=1000203267 #Santamo
+}
+1350.1.1={
+	holder=1000203268 #Sabore
+}

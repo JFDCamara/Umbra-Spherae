@@ -1,0 +1,65 @@
+#Nkhata Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205551 #Mavuto
+}
+780.1.1={
+	holder=1000205552 #Kondwani
+}
+810.1.1={
+	holder=1000205553 #Njowga
+}
+840.1.1={
+	holder=1000205554 #Tadala
+}
+870.1.1={
+	holder=1000205555 #Tionge
+}
+900.1.1={
+	holder=1000205556 #Limbani
+}
+930.1.1={
+	holder=1000205557 #Chiumbo
+}
+960.1.1={
+	holder=1000205558 #Masamba
+}
+990.1.1={
+	holder=1000205559 #Limbikani
+}
+1020.1.1={
+	holder=1000205560 #Chifuniro
+}
+1050.1.1={
+	holder=1000205561 #Nthanda
+}
+1080.1.1={
+	holder=1000205562 #Mphatso
+}
+1110.1.1={
+	holder=1000205563 #Tamandani
+}
+1140.1.1={
+	holder=1000205564 #Penjani
+}
+1170.1.1={
+	holder=1000205565 #Chifundo
+}
+1200.1.1={
+	holder=1000205566 #Madalitso
+}
+1230.1.1={
+	holder=1000205567 #Sekani
+}
+1260.1.1={
+	holder=1000205568 #Chikondi
+}
+1290.1.1={
+	holder=1000205569 #Takondwa
+}
+1320.1.1={
+	holder=1000205570 #Takondwa
+}
+1350.1.1={
+	holder=1000205571 #Mphatso
+}

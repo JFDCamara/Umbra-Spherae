@@ -1,0 +1,65 @@
+#Okoth Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203185 #Santamo
+}
+780.1.1={
+	holder=1000203186 #Surum
+}
+810.1.1={
+	holder=1000203187 #Marial
+}
+840.1.1={
+	holder=1000203188 #Lolkerra
+}
+870.1.1={
+	holder=1000203189 #Naengop
+}
+900.1.1={
+	holder=1000203190 #Sironka
+}
+930.1.1={
+	holder=1000203191 #Marial
+}
+960.1.1={
+	holder=1000203192 #Legishon
+}
+990.1.1={
+	holder=1000203193 #Koinet
+}
+1020.1.1={
+	holder=1000203194 #Legishon
+}
+1050.1.1={
+	holder=1000203195 #Lemashon
+}
+1080.1.1={
+	holder=1000203196 #Leboo
+}
+1110.1.1={
+	holder=1000203197 #Sabore
+}
+1140.1.1={
+	holder=1000203198 #Kurary
+}
+1170.1.1={
+	holder=1000203199 #Mbiraru
+}
+1200.1.1={
+	holder=1000203200 #Ntimama
+}
+1230.1.1={
+	holder=1000203201 #Ntimama
+}
+1260.1.1={
+	holder=1000203202 #Kuol
+}
+1290.1.1={
+	holder=1000203203 #Sabore
+}
+1320.1.1={
+	holder=1000203204 #Dut
+}
+1350.1.1={
+	holder=1000203205 #Lembui
+}

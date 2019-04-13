@@ -1,0 +1,65 @@
+#Dualeh Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205467 #Abu-Bakr_Abu-Bakr
+}
+780.1.1={
+	holder=1000205468 #Abu-Bakr_Abu-Bakr
+}
+810.1.1={
+	holder=1000205469 #Baraka_Barak
+}
+840.1.1={
+	holder=1000205470 #Khalaf
+}
+870.1.1={
+	holder=1000205471 #Amlale
+}
+900.1.1={
+	holder=1000205472 #Abdirahman
+}
+930.1.1={
+	holder=1000205473 #Ahmed_Ahmad
+}
+960.1.1={
+	holder=1000205474 #Khalaf
+}
+990.1.1={
+	holder=1000205475 #Sabr
+}
+1020.1.1={
+	holder=1000205476 #Talha
+}
+1050.1.1={
+	holder=1000205477 #Mahamed_Muhammad
+}
+1080.1.1={
+	holder=1000205478 #Nassir
+}
+1110.1.1={
+	holder=1000205479 #Sabir
+}
+1140.1.1={
+	holder=1000205480 #Umar
+}
+1170.1.1={
+	holder=1000205481 #Salah
+}
+1200.1.1={
+	holder=1000205482 #Hamalmal
+}
+1230.1.1={
+	holder=1000205483 #Sabraddin
+}
+1260.1.1={
+	holder=1000205484 #Ali_Ali
+}
+1290.1.1={
+	holder=1000205485 #Hamalmal
+}
+1320.1.1={
+	holder=1000205486 #Naleye
+}
+1350.1.1={
+	holder=1000205487 #Ahmed_Ahmad
+}

@@ -1,0 +1,65 @@
+#Rono Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203395 #Surum
+}
+780.1.1={
+	holder=1000203396 #Maitera
+}
+810.1.1={
+	holder=1000203397 #Simel
+}
+840.1.1={
+	holder=1000203398 #Simel
+}
+870.1.1={
+	holder=1000203399 #Meticiki
+}
+900.1.1={
+	holder=1000203400 #Meticiki
+}
+930.1.1={
+	holder=1000203401 #Ntimama
+}
+960.1.1={
+	holder=1000203402 #Koinet
+}
+990.1.1={
+	holder=1000203403 #Lemaron
+}
+1020.1.1={
+	holder=1000203404 #Chol
+}
+1050.1.1={
+	holder=1000203405 #Sankei
+}
+1080.1.1={
+	holder=1000203406 #Alou
+}
+1110.1.1={
+	holder=1000203407 #Jok
+}
+1140.1.1={
+	holder=1000203408 #Simel
+}
+1170.1.1={
+	holder=1000203409 #Leboo
+}
+1200.1.1={
+	holder=1000203410 #Jok
+}
+1230.1.1={
+	holder=1000203411 #Lembui
+}
+1260.1.1={
+	holder=1000203412 #Alou
+}
+1290.1.1={
+	holder=1000203413 #Alou
+}
+1320.1.1={
+	holder=1000203414 #Lemayian
+}
+1350.1.1={
+	holder=1000203415 #Meticiki
+}

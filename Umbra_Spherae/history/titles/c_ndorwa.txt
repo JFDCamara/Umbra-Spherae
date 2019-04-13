@@ -1,0 +1,68 @@
+#Tumukye Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000202954 #Kurembera
+}
+780.1.1={
+	holder=1000202955 #Najja
+}
+810.1.1={
+	holder=1000202956 #Mubiru
+}
+840.1.1={
+	holder=1000202957 #Kirabo
+}
+870.1.1={
+	holder=1000202958 #Kurembera
+}
+900.1.1={
+	holder=1000202959 #Nakisisa
+}
+930.1.1={
+	holder=1000202960 #Kamoga
+}
+960.1.1={
+	holder=1000202961 #Balondemu
+}
+990.1.1={
+	holder=1000202962 #Kizza
+}
+1020.1.1={
+	holder=1000202963 #Dukuzumuremyi
+}
+1050.1.1={
+	holder=1000202964 #Mubiru
+}
+1080.1.1={
+	holder=1000202965 #Wafula
+}
+1110.1.1={
+	holder=1000202966 #Isingoma
+}
+1140.1.1={
+	holder=1000202967 #Birungi
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000202968 #Isingoma
+}
+1200.1.1={
+	holder=1000202969 #Magomu
+}
+1230.1.1={
+	holder=1000202970 #Musoke
+}
+1260.1.1={
+	holder=1000202971 #Kasozi
+}
+1290.1.1={
+	holder=1000202972 #Gahuj
+}
+1320.1.1={
+	holder=1000202973 #Wamalwa
+}
+1350.1.1={
+	holder=1000202974 #Kurembera
+}

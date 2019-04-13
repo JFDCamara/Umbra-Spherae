@@ -1,0 +1,65 @@
+#Muhiya Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205677 #Nangwaya
+}
+780.1.1={
+	holder=1000205678 #Makalani
+}
+810.1.1={
+	holder=1000205679 #Ligongo
+}
+840.1.1={
+	holder=1000205680 #Zikomo
+}
+870.1.1={
+	holder=1000205681 #Mtendere
+}
+900.1.1={
+	holder=1000205682 #Chifundo
+}
+930.1.1={
+	holder=1000205683 #Tiyamike
+}
+960.1.1={
+	holder=1000205684 #Pemphero
+}
+990.1.1={
+	holder=1000205685 #Mayamiko
+}
+1020.1.1={
+	holder=1000205686 #Nangwaya
+}
+1050.1.1={
+	holder=1000205687 #Sekani
+}
+1080.1.1={
+	holder=1000205688 #Mavuto
+}
+1110.1.1={
+	holder=1000205689 #Usi
+}
+1140.1.1={
+	holder=1000205690 #Thabiti
+}
+1170.1.1={
+	holder=1000205691 #Chikondi
+}
+1200.1.1={
+	holder=1000205692 #Chilemba
+}
+1230.1.1={
+	holder=1000205693 #Chifuniro
+}
+1260.1.1={
+	holder=1000205694 #Pilirani
+}
+1290.1.1={
+	holder=1000205695 #Mayamiko
+}
+1320.1.1={
+	holder=1000205696 #Tamandani
+}
+1350.1.1={
+	holder=1000205697 #Takondwa
+}

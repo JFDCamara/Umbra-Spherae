@@ -1,0 +1,65 @@
+#Litete Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205719 #Chimwala
+}
+780.1.1={
+	holder=1000205720 #Ganizani
+}
+810.1.1={
+	holder=1000205721 #Chisomo
+}
+840.1.1={
+	holder=1000205722 #Chikumbutso
+}
+870.1.1={
+	holder=1000205723 #Nthanda
+}
+900.1.1={
+	holder=1000205724 #Nthanda
+}
+930.1.1={
+	holder=1000205725 #Chifundo
+}
+960.1.1={
+	holder=1000205726 #Kondwani
+}
+990.1.1={
+	holder=1000205727 #Ligongo
+}
+1020.1.1={
+	holder=1000205728 #Thabiti
+}
+1050.1.1={
+	holder=1000205729 #Tionge
+}
+1080.1.1={
+	holder=1000205730 #Penjani
+}
+1110.1.1={
+	holder=1000205731 #Mpenda
+}
+1140.1.1={
+	holder=1000205732 #Tiyamike
+}
+1170.1.1={
+	holder=1000205733 #Kondwani
+}
+1200.1.1={
+	holder=1000205734 #Chifundo
+}
+1230.1.1={
+	holder=1000205735 #Penjani
+}
+1260.1.1={
+	holder=1000205736 #Thokozani
+}
+1290.1.1={
+	holder=1000205737 #Pemphero
+}
+1320.1.1={
+	holder=1000205738 #Tuwile
+}
+1350.1.1={
+	holder=1000205739 #Kumbukani
+}

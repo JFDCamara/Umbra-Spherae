@@ -24,6 +24,21 @@ e_luo_kitara = {
 				color = { 139 150 255 }
 				color2 = { 250 250 250 }
 
+				holy_site=south_bantu_mythology
+				holy_site=south_bantu_mythology_reformed
+				holy_site=east_bantu_mythology
+				holy_site=east_bantu_mythology_reformed
+				holy_site=omotic_pagan
+				holy_site=omotic_pagan_reformed
+				holy_site=cushitic_pagan
+				holy_site=cushitic_pagan_reformed
+				holy_site=nilotic_pagan
+				holy_site=nilotic_pagan_reformed
+				holy_site=malagasy_religion
+				holy_site=malagasy_religion_reformed
+				holy_site=khoi_san_mythology
+				holy_site=khoi_san_mythology_reformed
+
 				b_bugagainzi = {
 				}
 				b_hoima = {

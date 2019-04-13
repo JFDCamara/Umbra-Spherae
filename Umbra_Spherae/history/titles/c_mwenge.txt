@@ -1,0 +1,80 @@
+#Batembuzi Dynasty (Placeholders for Kitara)
+
+750.1.1={
+	holder=1000202762 #Kirabo
+}
+780.1.1={
+	holder=1000202763 #Wasswa
+}
+810.1.1={
+	holder=1000202764 #Adroa
+}
+840.1.1={
+	holder=1000202765 #Kigongo
+}
+870.1.1={
+	holder=1000202766 #Kibuuka
+}
+900.1.1={
+	holder=1000202767 #Niyonzima
+}
+930.1.1={
+	holder=1000202768 #Bitalo
+}
+960.1.1={
+	holder=1000202769 #Simyu
+}
+990.1.1={
+	holder=1000202770 #Damba
+}
+1020.1.1={
+	holder=1000202771 #Niyonzima
+}
+1050.1.1={
+	holder=1000202772 #Mukuru
+}
+1080.1.1={
+	holder=1000202773 #Birungi
+}
+1110.1.1={
+	holder=1000202774 #Balondemu
+}
+1140.1.1={
+	holder=1000202775 #Wanyonyi
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000202783 #Ruhanga (first "historical" ruler)
+}
+1200.1.1={
+	holder=1000202776 #Nkya
+}
+1210.1.1={
+	holder=1000202777 #Kakama
+}
+1230.1.1={
+	holder=1000202778 #Bada
+}
+1260.1.1={
+	holder=1000202779 #Ngonzaki
+}
+1301.1.1={
+	holder=1000202780 #Isaza
+}
+
+#Bukuku Dynasty (usurper)
+
+1328.1.1={
+	holder=1000202785 #Bukuku
+}
+
+#Bachwezi Dynasty (Empire of Kitara)
+
+1344.1.1={
+	holder=1000202781 #Ndahura
+}
+1371.1.1={
+	holder=1000202782 #Mulindwa
+}

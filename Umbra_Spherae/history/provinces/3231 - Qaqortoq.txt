@@ -1,7 +1,7 @@
 # 3231 - Qaqortoq
 
 # County Title
-title = c_kujalleq
+title = c_kujalleg
 
 # Settlements
 max_settlements = 5

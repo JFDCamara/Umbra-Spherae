@@ -1,0 +1,65 @@
+#Slanu Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205236 #Dalmr
+}
+780.1.1={
+	holder=1000205237 #Samakab
+}
+810.1.1={
+	holder=1000205238 #Jwahir
+}
+840.1.1={
+	holder=1000205239 #Abdi
+}
+870.1.1={
+	holder=1000205240 #Abdul
+}
+900.1.1={
+	holder=1000205241 #Hamar
+}
+930.1.1={
+	holder=1000205242 #Abtidoon
+}
+960.1.1={
+	holder=1000205243 #Abdikarim
+}
+990.1.1={
+	holder=1000205244 #Sihab
+}
+1020.1.1={
+	holder=1000205245 #Dable
+}
+1050.1.1={
+	holder=1000205246 #Liban
+}
+1080.1.1={
+	holder=1000205247 #Nadif
+}
+1110.1.1={
+	holder=1000205248 #Ghedi
+}
+1140.1.1={
+	holder=1000205249 #Samakab
+}
+1170.1.1={
+	holder=1000205250 #Khalid
+}
+1200.1.1={
+	holder=1000205251 #Mansur
+}
+1230.1.1={
+	holder=1000205252 #Mohamed_Muhammed
+}
+1260.1.1={
+	holder=1000205253 #Ayan
+}
+1290.1.1={
+	holder=1000205254 #Waabberi
+}
+1320.1.1={
+	holder=1000205255 #Khalid
+}
+1350.1.1={
+	holder=1000205256 #Jamal
+}

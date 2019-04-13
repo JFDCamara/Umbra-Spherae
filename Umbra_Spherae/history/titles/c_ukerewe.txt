@@ -1,0 +1,68 @@
+#Odama Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203059 #Isingoma
+}
+780.1.1={
+	holder=1000203060 #Munanire
+}
+810.1.1={
+	holder=1000203061 #Gahiji
+}
+840.1.1={
+	holder=1000203062 #Mutabazi
+}
+870.1.1={
+	holder=1000203063 #Magomu
+}
+900.1.1={
+	holder=1000203064 #Mukuru
+}
+930.1.1={
+	holder=1000203065 #Wanjala
+}
+960.1.1={
+	holder=1000203066 #Wemusa
+}
+990.1.1={
+	holder=1000203067 #Kasumba
+}
+1020.1.1={
+	holder=1000203068 #Isingoma
+}
+1050.1.1={
+	holder=1000203069 #Dembe
+}
+1080.1.1={
+	holder=1000203070 #Gwandoya
+}
+1110.1.1={
+	holder=1000203071 #Simyu
+}
+1140.1.1={
+	holder=1000203072 #Adroa
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000203073 #Nyillingondo
+}
+1200.1.1={
+	holder=1000203074 #Mulogo
+}
+1230.1.1={
+	holder=1000203075 #Najja
+}
+1260.1.1={
+	holder=1000203076 #Gahuj
+}
+1290.1.1={
+	holder=1000203077 #Madongo
+}
+1320.1.1={
+	holder=1000203078 #Dembe
+}
+1350.1.1={
+	holder=1000203079 #Kasumba
+}

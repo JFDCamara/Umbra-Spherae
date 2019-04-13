@@ -1,0 +1,65 @@
+#Resa Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203269 #Lemayian
+}
+780.1.1={
+	holder=1000203270 #Lembui
+}
+810.1.1={
+	holder=1000203271 #Lembui
+}
+840.1.1={
+	holder=1000203272 #Naengop
+}
+870.1.1={
+	holder=1000203273 #Parneres
+}
+900.1.1={
+	holder=1000203274 #Koinet
+}
+930.1.1={
+	holder=1000203275 #Alou
+}
+960.1.1={
+	holder=1000203276 #Mayol
+}
+990.1.1={
+	holder=1000203277 #Sironka
+}
+1020.1.1={
+	holder=1000203278 #Legeny
+}
+1050.1.1={
+	holder=1000203279 #Komeyicin
+}
+1080.1.1={
+	holder=1000203280 #Sironka
+}
+1110.1.1={
+	holder=1000203281 #Lemayian
+}
+1140.1.1={
+	holder=1000203282 #Sironka
+}
+1170.1.1={
+	holder=1000203283 #Kuur
+}
+1200.1.1={
+	holder=1000203284 #Sankale
+}
+1230.1.1={
+	holder=1000203285 #Parneres
+}
+1260.1.1={
+	holder=1000203286 #Deng
+}
+1290.1.1={
+	holder=1000203287 #Kuol
+}
+1320.1.1={
+	holder=1000203288 #Tonkei
+}
+1350.1.1={
+	holder=1000203289 #Lemaron
+}

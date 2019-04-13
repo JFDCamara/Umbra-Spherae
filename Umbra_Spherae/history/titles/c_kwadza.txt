@@ -1,0 +1,65 @@
+#Hhampa Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203458 #Hanad
+}
+780.1.1={
+	holder=1000203459 #Labaan
+}
+810.1.1={
+	holder=1000203460 #Mohamud
+}
+840.1.1={
+	holder=1000203461 #Mohamed_Muhammed
+}
+870.1.1={
+	holder=1000203462 #Hanad
+}
+900.1.1={
+	holder=1000203463 #Raxman
+}
+930.1.1={
+	holder=1000203464 #Mohamoud
+}
+960.1.1={
+	holder=1000203465 #Abtidoon
+}
+990.1.1={
+	holder=1000203466 #Hussein
+}
+1020.1.1={
+	holder=1000203467 #Kooge
+}
+1050.1.1={
+	holder=1000203468 #Kaahin
+}
+1080.1.1={
+	holder=1000203469 #Kooge
+}
+1110.1.1={
+	holder=1000203470 #Samatar
+}
+1140.1.1={
+	holder=1000203471 #Badlay
+}
+1170.1.1={
+	holder=1000203472 #Hamar
+}
+1200.1.1={
+	holder=1000203473 #Hanad
+}
+1230.1.1={
+	holder=1000203474 #Dhidhin
+}
+1260.1.1={
+	holder=1000203475 #Bahdoon
+}
+1290.1.1={
+	holder=1000203476 #Kooge
+}
+1320.1.1={
+	holder=1000203477 #Geeddi
+}
+1350.1.1={
+	holder=1000203478 #Ibraahin
+}

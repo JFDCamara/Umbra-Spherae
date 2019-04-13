@@ -1,0 +1,35 @@
+#Batembuzi Dynasty
+
+1170.1.1={
+	holder=1000202783 #Ruhanga (first "historical" ruler)
+}
+1200.1.1={
+	holder=1000202776 #Nkya
+}
+1210.1.1={
+	holder=1000202777 #Kakama
+}
+1230.1.1={
+	holder=1000202778 #Bada
+}
+1260.1.1={
+	holder=1000202779 #Ngonzaki
+}
+1301.1.1={
+	holder=1000202780 #Isaza
+}
+
+#Bukuku Dynasty (usurper)
+
+1328.1.1={
+	holder=1000202785 #Bukuku
+}
+
+#Bachwezi Dynasty (Empire of Kitara)
+
+1344.1.1={
+	holder=1000202781 #Ndahura
+}
+1371.1.1={
+	holder=1000202782 #Mulindwa
+}

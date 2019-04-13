@@ -1,0 +1,65 @@
+#Maina Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205341 #Sokoro
+}
+780.1.1={
+	holder=1000205342 #Ngumbau
+}
+810.1.1={
+	holder=1000205343 #Wambua
+}
+840.1.1={
+	holder=1000205344 #Omariba
+}
+870.1.1={
+	holder=1000205345 #Mutua
+}
+900.1.1={
+	holder=1000205346 #Makau
+}
+930.1.1={
+	holder=1000205347 #Watene
+}
+960.1.1={
+	holder=1000205348 #Watene
+}
+990.1.1={
+	holder=1000205349 #Sokoro
+}
+1020.1.1={
+	holder=1000205350 #Nyamu
+}
+1050.1.1={
+	holder=1000205351 #Muga
+}
+1080.1.1={
+	holder=1000205352 #Gachara
+}
+1110.1.1={
+	holder=1000205353 #Gathongo
+}
+1140.1.1={
+	holder=1000205354 #Muraya
+}
+1170.1.1={
+	holder=1000205355 #Wambua
+}
+1200.1.1={
+	holder=1000205356 #Gicheha
+}
+1230.1.1={
+	holder=1000205357 #Njaramba
+}
+1260.1.1={
+	holder=1000205358 #Mburu
+}
+1290.1.1={
+	holder=1000205359 #Muga
+}
+1320.1.1={
+	holder=1000205360 #Njuki
+}
+1350.1.1={
+	holder=1000205361 #Gitau
+}

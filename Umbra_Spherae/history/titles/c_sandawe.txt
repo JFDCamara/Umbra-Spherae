@@ -1,0 +1,65 @@
+#Farkwa Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205509 #Xare
+}
+780.1.1={
+	holder=1000205510 #Mangana
+}
+810.1.1={
+	holder=1000205511 #Coexae
+}
+840.1.1={
+	holder=1000205512 #Qgam
+}
+870.1.1={
+	holder=1000205513 #Qgoma
+}
+900.1.1={
+	holder=1000205514 #Xgaoco
+}
+930.1.1={
+	holder=1000205515 #Qgoma
+}
+960.1.1={
+	holder=1000205516 #Setshogo
+}
+990.1.1={
+	holder=1000205517 #Thamae
+}
+1020.1.1={
+	holder=1000205518 #Kukama
+}
+1050.1.1={
+	holder=1000205519 #Xaga
+}
+1080.1.1={
+	holder=1000205520 #Kgakgam
+}
+1110.1.1={
+	holder=1000205521 #Ncgabe
+}
+1140.1.1={
+	holder=1000205522 #Xare
+}
+1170.1.1={
+	holder=1000205523 #Qhomatca
+}
+1200.1.1={
+	holder=1000205524 #Gamnqoa
+}
+1230.1.1={
+	holder=1000205525 #Qaetcao
+}
+1260.1.1={
+	holder=1000205526 #Setshogo
+}
+1290.1.1={
+	holder=1000205527 #Xgaiga
+}
+1320.1.1={
+	holder=1000205528 #Kukama
+}
+1350.1.1={
+	holder=1000205529 #Ncokgo
+}

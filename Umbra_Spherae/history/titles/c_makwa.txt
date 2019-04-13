@@ -1,0 +1,65 @@
+#Makhumula Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205656 #Yamikani
+}
+780.1.1={
+	holder=1000205657 #Yamikani
+}
+810.1.1={
+	holder=1000205658 #Njowga
+}
+840.1.1={
+	holder=1000205659 #Madalitso
+}
+870.1.1={
+	holder=1000205660 #Ganizani
+}
+900.1.1={
+	holder=1000205661 #Zikomo
+}
+930.1.1={
+	holder=1000205662 #Kondwani
+}
+960.1.1={
+	holder=1000205663 #Mayeso
+}
+990.1.1={
+	holder=1000205664 #Kondwani
+}
+1020.1.1={
+	holder=1000205665 #Tuwile
+}
+1050.1.1={
+	holder=1000205666 #Masamba
+}
+1080.1.1={
+	holder=1000205667 #Wanangwa
+}
+1110.1.1={
+	holder=1000205668 #Lipapwiche
+}
+1140.1.1={
+	holder=1000205669 #Sekani
+}
+1170.1.1={
+	holder=1000205670 #Sekani
+}
+1200.1.1={
+	holder=1000205671 #Mphatso
+}
+1230.1.1={
+	holder=1000205672 #Chikondi
+}
+1260.1.1={
+	holder=1000205673 #Tiyamike
+}
+1290.1.1={
+	holder=1000205674 #Wanangwa
+}
+1320.1.1={
+	holder=1000205675 #Kondwani
+}
+1350.1.1={
+	holder=1000205676 #Fatsani
+}

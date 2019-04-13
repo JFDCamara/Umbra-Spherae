@@ -1,0 +1,68 @@
+#Baguma Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000202891 #Dukuzumuremyi
+}
+780.1.1={
+	holder=1000202892 #Nyongesa
+}
+810.1.1={
+	holder=1000202893 #Kadokechi
+}
+840.1.1={
+	holder=1000202894 #Kamoga
+}
+870.1.1={
+	holder=1000202895 #Bikutwala
+}
+900.1.1={
+	holder=1000202896 #Kasozi
+}
+930.1.1={
+	holder=1000202897 #Wemusa
+}
+960.1.1={
+	holder=1000202898 #Gumisiriza
+}
+990.1.1={
+	holder=1000202899 #Gahuj
+}
+1020.1.1={
+	holder=1000202900 #Hakizimana
+}
+1050.1.1={
+	holder=1000202901 #Bitalo
+}
+1080.1.1={
+	holder=1000202902 #Kizza
+}
+1110.1.1={
+	holder=1000202903 #Dembe
+}
+1140.1.1={
+	holder=1000202904 #Simyu
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000202905 #Gahiji
+}
+1200.1.1={
+	holder=1000202906 #Najja
+}
+1230.1.1={
+	holder=1000202907 #Mulogo
+}
+1260.1.1={
+	holder=1000202908 #Kamya
+}
+1290.1.1={
+	holder=1000202909 #Wemusa
+}
+1320.1.1={
+	holder=1000202910 #Wanjala
+}
+1350.1.1={
+	holder=1000202911 #Balondemu
+}

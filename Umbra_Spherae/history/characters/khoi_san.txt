@@ -1,0 +1,885 @@
+#Hubuee Dynasty (Placeholders for Hatsa)
+
+1000205488 = {
+	name="Setshogo"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205489 = {
+	name="Thama"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205488
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205490 = {
+	name="Thama"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205489
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205491 = {
+	name="Gamnqoa"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205490
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205492 = {
+	name="Xgaiga"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205491
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205493 = {
+	name="Xgaoco"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205492
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205494 = {
+	name="Kukama"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205493
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205495 = {
+	name="Coexae"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205494
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205496 = {
+	name="Coexae"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205495
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205497 = {
+	name="Ncgabe"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205496
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205498 = {
+	name="Ncokgo"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205497
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205499 = {
+	name="Xgoa"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205498
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205500 = {
+	name="Kukama"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205499
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205501 = {
+	name="Ncgabe"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205500
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205502 = {
+	name="Kase"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205501
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205503 = {
+	name="Qgam"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205502
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205504 = {
+	name="Ntcoxo"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205503
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205505 = {
+	name="Gamnqoa"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205504
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205506 = {
+	name="Kukama"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205505
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205507 = {
+	name="Kukama"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205506
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205508 = {
+	name="Ncgabe"
+	dynasty=1000078027 #Hubuee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205507
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Farkwa Dynasty (Placeholders for Sandawe)
+
+1000205509 = {
+	name="Xare"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205510 = {
+	name="Mangana"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205509
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205511 = {
+	name="Coexae"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205510
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205512 = {
+	name="Qgam"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205511
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205513 = {
+	name="Qgoma"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205512
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205514 = {
+	name="Xgaoco"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205513
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205515 = {
+	name="Qgoma"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205514
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205516 = {
+	name="Setshogo"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205515
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205517 = {
+	name="Thamae"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205516
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205518 = {
+	name="Kukama"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205517
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205519 = {
+	name="Xaga"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205518
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205520 = {
+	name="Kgakgam"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205519
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205521 = {
+	name="Ncgabe"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205520
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205522 = {
+	name="Xare"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205521
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205523 = {
+	name="Qhomatca"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205522
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205524 = {
+	name="Gamnqoa"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205523
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205525 = {
+	name="Qaetcao"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205524
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205526 = {
+	name="Setshogo"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205525
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205527 = {
+	name="Xgaiga"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205526
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205528 = {
+	name="Kukama"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205527
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205529 = {
+	name="Ncokgo"
+	dynasty=1000078035 #Farkwa
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205528
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Henqee Dynasty (Placeholders for Lapwa)
+
+1000205530 = {
+	name="Thama"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205531 = {
+	name="Ncgabe"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205530
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205532 = {
+	name="Gamnqoa"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205531
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205533 = {
+	name="Thama"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205532
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205534 = {
+	name="Qgoma"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205533
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205535 = {
+	name="Taase"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205534
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205536 = {
+	name="Kase"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205535
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205537 = {
+	name="Kgakgam"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205536
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205538 = {
+	name="Thamae"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205537
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205539 = {
+	name="Thama"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205538
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205540 = {
+	name="Tcuixgao"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205539
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205541 = {
+	name="Xgaiga"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205540
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205542 = {
+	name="Ncgabe"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205541
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205543 = {
+	name="Kase"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205542
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205544 = {
+	name="Qgam"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205543
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205545 = {
+	name="Ncgabe"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205544
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205546 = {
+	name="Gamnqoa"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205545
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205547 = {
+	name="Ncokgo"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205546
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205548 = {
+	name="Xare"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205547
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205549 = {
+	name="Ntcoxo"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205548
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205550 = {
+	name="Nxaedom"
+	dynasty=1000078048 #Henqee
+	religion="khoi_san_mythology"
+	culture="khoi_san"
+	father=1000205549
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+

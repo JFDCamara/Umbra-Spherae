@@ -1,0 +1,68 @@
+#Rwamirama Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203038 #Wemusa
+}
+780.1.1={
+	holder=1000203039 #Lutalo
+}
+810.1.1={
+	holder=1000203040 #Businge
+}
+840.1.1={
+	holder=1000203041 #Munyiga
+}
+870.1.1={
+	holder=1000203042 #Sentwali
+}
+900.1.1={
+	holder=1000203043 #Simyu
+}
+930.1.1={
+	holder=1000203044 #Luzige
+}
+960.1.1={
+	holder=1000203045 #Wekesa
+}
+990.1.1={
+	holder=1000203046 #Damba
+}
+1020.1.1={
+	holder=1000203047 #Kizza
+}
+1050.1.1={
+	holder=1000203048 #Kasozi
+}
+1080.1.1={
+	holder=1000203049 #Gahiji
+}
+1110.1.1={
+	holder=1000203050 #Isingoma
+}
+1140.1.1={
+	holder=1000203051 #Nkundiushuti
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000203052 #Kizza
+}
+1200.1.1={
+	holder=1000203053 #Sebahive
+}
+1230.1.1={
+	holder=1000203054 #Wekesa
+}
+1260.1.1={
+	holder=1000203055 #Wanyonyi
+}
+1290.1.1={
+	holder=1000203056 #Niyonzima
+}
+1320.1.1={
+	holder=1000203057 #Ogwambi
+}
+1350.1.1={
+	holder=1000203058 #Businge
+}

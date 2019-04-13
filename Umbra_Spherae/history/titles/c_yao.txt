@@ -1,0 +1,65 @@
+#Muluzi Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205593 #Chiumbo
+}
+780.1.1={
+	holder=1000205594 #Chitundo
+}
+810.1.1={
+	holder=1000205595 #Tadala
+}
+840.1.1={
+	holder=1000205596 #Tamandani
+}
+870.1.1={
+	holder=1000205597 #Mayeso
+}
+900.1.1={
+	holder=1000205598 #Takondwa
+}
+930.1.1={
+	holder=1000205599 #Pemphero
+}
+960.1.1={
+	holder=1000205600 #Dalitso
+}
+990.1.1={
+	holder=1000205601 #Ganizani
+}
+1020.1.1={
+	holder=1000205602 #Limbani
+}
+1050.1.1={
+	holder=1000205603 #Takondwa
+}
+1080.1.1={
+	holder=1000205604 #Mtendere
+}
+1110.1.1={
+	holder=1000205605 #Zikomo
+}
+1140.1.1={
+	holder=1000205606 #Tiyamike
+}
+1170.1.1={
+	holder=1000205607 #Ligongo
+}
+1200.1.1={
+	holder=1000205608 #Yamikani
+}
+1230.1.1={
+	holder=1000205609 #Madalitso
+}
+1260.1.1={
+	holder=1000205610 #Chikondi
+}
+1290.1.1={
+	holder=1000205611 #Fatsani
+}
+1320.1.1={
+	holder=1000205612 #Sekani
+}
+1350.1.1={
+	holder=1000205613 #Chilemba
+}

@@ -1,0 +1,65 @@
+#Kariuki Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205425 #Kibaki
+}
+780.1.1={
+	holder=1000205426 #Wambua
+}
+810.1.1={
+	holder=1000205427 #Muthui
+}
+840.1.1={
+	holder=1000205428 #Gathanja
+}
+870.1.1={
+	holder=1000205429 #Musili
+}
+900.1.1={
+	holder=1000205430 #Ndungu
+}
+930.1.1={
+	holder=1000205431 #Makau
+}
+960.1.1={
+	holder=1000205432 #Waititu
+}
+990.1.1={
+	holder=1000205433 #Morani
+}
+1020.1.1={
+	holder=1000205434 #Mbiti
+}
+1050.1.1={
+	holder=1000205435 #Gitura
+}
+1080.1.1={
+	holder=1000205436 #Muraya
+}
+1110.1.1={
+	holder=1000205437 #Ngichu
+}
+1140.1.1={
+	holder=1000205438 #Njaramba
+}
+1170.1.1={
+	holder=1000205439 #Nyachae
+}
+1200.1.1={
+	holder=1000205440 #Kinyanjui
+}
+1230.1.1={
+	holder=1000205441 #Mutongoi
+}
+1260.1.1={
+	holder=1000205442 #Muthui
+}
+1290.1.1={
+	holder=1000205443 #Ciugu
+}
+1320.1.1={
+	holder=1000205444 #Muthui
+}
+1350.1.1={
+	holder=1000205445 #Musili
+}

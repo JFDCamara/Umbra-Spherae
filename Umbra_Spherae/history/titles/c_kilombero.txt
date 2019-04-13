@@ -1,0 +1,65 @@
+#Kachali Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205614 #Tiyamike
+}
+780.1.1={
+	holder=1000205615 #Chimwala
+}
+810.1.1={
+	holder=1000205616 #Ligongo
+}
+840.1.1={
+	holder=1000205617 #Limbikani
+}
+870.1.1={
+	holder=1000205618 #Pilirani
+}
+900.1.1={
+	holder=1000205619 #Chimwemwe
+}
+930.1.1={
+	holder=1000205620 #Tamandani
+}
+960.1.1={
+	holder=1000205621 #Njowga
+}
+990.1.1={
+	holder=1000205622 #Dalitso
+}
+1020.1.1={
+	holder=1000205623 #Njowga
+}
+1050.1.1={
+	holder=1000205624 #Chisomo
+}
+1080.1.1={
+	holder=1000205625 #Wanangwa
+}
+1110.1.1={
+	holder=1000205626 #Tadala
+}
+1140.1.1={
+	holder=1000205627 #Chikondi
+}
+1170.1.1={
+	holder=1000205628 #Mphatso
+}
+1200.1.1={
+	holder=1000205629 #Nthanda
+}
+1230.1.1={
+	holder=1000205630 #Tionge
+}
+1260.1.1={
+	holder=1000205631 #Kondwani
+}
+1290.1.1={
+	holder=1000205632 #Tamandani
+}
+1320.1.1={
+	holder=1000205633 #Zikomo
+}
+1350.1.1={
+	holder=1000205634 #Useni
+}

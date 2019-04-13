@@ -1,0 +1,65 @@
+#Lionga Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205635 #Useni
+}
+780.1.1={
+	holder=1000205636 #Chimwemwe
+}
+810.1.1={
+	holder=1000205637 #Pilirani
+}
+840.1.1={
+	holder=1000205638 #Ligongo
+}
+870.1.1={
+	holder=1000205639 #Mtendere
+}
+900.1.1={
+	holder=1000205640 #Mphatso
+}
+930.1.1={
+	holder=1000205641 #Chimwemwe
+}
+960.1.1={
+	holder=1000205642 #Ligongo
+}
+990.1.1={
+	holder=1000205643 #Madalitso
+}
+1020.1.1={
+	holder=1000205644 #Kumbukani
+}
+1050.1.1={
+	holder=1000205645 #Mavuto
+}
+1080.1.1={
+	holder=1000205646 #Chifuniro
+}
+1110.1.1={
+	holder=1000205647 #Chiyembekezo
+}
+1140.1.1={
+	holder=1000205648 #Chiumbo
+}
+1170.1.1={
+	holder=1000205649 #Nthanda
+}
+1200.1.1={
+	holder=1000205650 #Madalitso
+}
+1230.1.1={
+	holder=1000205651 #Nangwaya
+}
+1260.1.1={
+	holder=1000205652 #Chilemba
+}
+1290.1.1={
+	holder=1000205653 #Tiyamike
+}
+1320.1.1={
+	holder=1000205654 #Ligongo
+}
+1350.1.1={
+	holder=1000205655 #Nangwaya
+}

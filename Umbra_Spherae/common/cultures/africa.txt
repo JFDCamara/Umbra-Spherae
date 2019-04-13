@@ -69,7 +69,7 @@ east_bantu = {
 		
 		color = { 0.4 0.2 0.7 }
 
-		male_names = {´
+		male_names = {
 			#Kamba
 			Kioko Makau Mbiti Munyambu Mutongoi Mutua Mutuku Musyoka Musili Musumbi Muthui Ngumbau Nzoka Wambua
 			#Kikuyu
@@ -337,7 +337,7 @@ khoi_san_group = {
 	khoi_san = { 
 		graphical_cultures = { africangfx westafricangfx muslimgfx }
 		
-		color = { 0.2 0.25 0.15 }
+		color = { 0.4 0.45 0.35 }
 
 		male_names = {
 			#San

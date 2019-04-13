@@ -1,0 +1,65 @@
+#Ogola Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203290 #Kurary
+}
+780.1.1={
+	holder=1000203291 #Tonkei
+}
+810.1.1={
+	holder=1000203292 #Dut
+}
+840.1.1={
+	holder=1000203293 #Masigonde
+}
+870.1.1={
+	holder=1000203294 #Deng
+}
+900.1.1={
+	holder=1000203295 #Sankei
+}
+930.1.1={
+	holder=1000203296 #Garang
+}
+960.1.1={
+	holder=1000203297 #Oloishona
+}
+990.1.1={
+	holder=1000203298 #Dut
+}
+1020.1.1={
+	holder=1000203299 #Lembui
+}
+1050.1.1={
+	holder=1000203300 #Jok
+}
+1080.1.1={
+	holder=1000203301 #Masigonde
+}
+1110.1.1={
+	holder=1000203302 #Deng
+}
+1140.1.1={
+	holder=1000203303 #Kuol
+}
+1170.1.1={
+	holder=1000203304 #Sankale
+}
+1200.1.1={
+	holder=1000203305 #Ntimama
+}
+1230.1.1={
+	holder=1000203306 #Alou
+}
+1260.1.1={
+	holder=1000203307 #Oloishona
+}
+1290.1.1={
+	holder=1000203308 #Thon
+}
+1320.1.1={
+	holder=1000203309 #Hol
+}
+1350.1.1={
+	holder=1000203310 #Maitera
+}

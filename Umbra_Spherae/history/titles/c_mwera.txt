@@ -1,0 +1,65 @@
+#Theu Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205572 #Dalitso
+}
+780.1.1={
+	holder=1000205573 #Dalitso
+}
+810.1.1={
+	holder=1000205574 #Nangwaya
+}
+840.1.1={
+	holder=1000205575 #Yamikani
+}
+870.1.1={
+	holder=1000205576 #Pilirani
+}
+900.1.1={
+	holder=1000205577 #Limbikani
+}
+930.1.1={
+	holder=1000205578 #Limbani
+}
+960.1.1={
+	holder=1000205579 #Tamandani
+}
+990.1.1={
+	holder=1000205580 #Lipapwiche
+}
+1020.1.1={
+	holder=1000205581 #Useni
+}
+1050.1.1={
+	holder=1000205582 #Chimwala
+}
+1080.1.1={
+	holder=1000205583 #Nangwaya
+}
+1110.1.1={
+	holder=1000205584 #Chitundo
+}
+1140.1.1={
+	holder=1000205585 #Chifundo
+}
+1170.1.1={
+	holder=1000205586 #Penjani
+}
+1200.1.1={
+	holder=1000205587 #Mpenda
+}
+1230.1.1={
+	holder=1000205588 #Masozi
+}
+1260.1.1={
+	holder=1000205589 #Kondwani
+}
+1290.1.1={
+	holder=1000205590 #Usi
+}
+1320.1.1={
+	holder=1000205591 #Masozi
+}
+1350.1.1={
+	holder=1000205592 #Fatsani
+}

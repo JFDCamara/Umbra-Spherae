@@ -1,0 +1,68 @@
+#Ecweru Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000202849 #Wekesa
+}
+780.1.1={
+	holder=1000202850 #Munanire
+}
+810.1.1={
+	holder=1000202851 #Kigongo
+}
+840.1.1={
+	holder=1000202852 #Sentwali
+}
+870.1.1={
+	holder=1000202853 #Mukuru
+}
+900.1.1={
+	holder=1000202854 #Musoke
+}
+930.1.1={
+	holder=1000202855 #Sebahive
+}
+960.1.1={
+	holder=1000202856 #Sebahive
+}
+990.1.1={
+	holder=1000202857 #Mulogo
+}
+1020.1.1={
+	holder=1000202858 #Adroa
+}
+1050.1.1={
+	holder=1000202859 #Gahuj
+}
+1080.1.1={
+	holder=1000202860 #Kamya
+}
+1110.1.1={
+	holder=1000202861 #Lutalo
+}
+1140.1.1={
+	holder=1000202862 #Ogwambi
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000202863 #Musoke
+}
+1200.1.1={
+	holder=1000202864 #Balondemu
+}
+1230.1.1={
+	holder=1000202865 #Bitalo
+}
+1260.1.1={
+	holder=1000202866 #Birungi
+}
+1290.1.1={
+	holder=1000202867 #Kibuuka
+}
+1320.1.1={
+	holder=1000202868 #Balondemu
+}
+1350.1.1={
+	holder=1000202869 #Kasozi
+}

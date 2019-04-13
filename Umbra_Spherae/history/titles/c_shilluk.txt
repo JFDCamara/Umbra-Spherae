@@ -1,0 +1,65 @@
+#Ahenda Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203143 #Meticiki
+}
+780.1.1={
+	holder=1000203144 #Maitera
+}
+810.1.1={
+	holder=1000203145 #Meticiki
+}
+840.1.1={
+	holder=1000203146 #Santamo
+}
+870.1.1={
+	holder=1000203147 #Koinet
+}
+900.1.1={
+	holder=1000203148 #Tonkei
+}
+930.1.1={
+	holder=1000203149 #Legishon
+}
+960.1.1={
+	holder=1000203150 #Mbiraru
+}
+990.1.1={
+	holder=1000203151 #Parneres
+}
+1020.1.1={
+	holder=1000203152 #Lemashon
+}
+1050.1.1={
+	holder=1000203153 #Sabore
+}
+1080.1.1={
+	holder=1000203154 #Masigonde
+}
+1110.1.1={
+	holder=1000203155 #Lemaron
+}
+1140.1.1={
+	holder=1000203156 #Maitera
+}
+1170.1.1={
+	holder=1000203157 #Sironka
+}
+1200.1.1={
+	holder=1000203158 #Sabore
+}
+1230.1.1={
+	holder=1000203159 #Ntimama
+}
+1260.1.1={
+	holder=1000203160 #Mejooli
+}
+1290.1.1={
+	holder=1000203161 #Lemuanik
+}
+1320.1.1={
+	holder=1000203162 #Nampazo
+}
+1350.1.1={
+	holder=1000203163 #Lembui
+}

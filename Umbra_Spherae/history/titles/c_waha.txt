@@ -1,0 +1,65 @@
+#Zirimu Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203080 #Adroa
+}
+780.1.1={
+	holder=1000203081 #Batte
+}
+810.1.1={
+	holder=1000203082 #Magomu
+}
+840.1.1={
+	holder=1000203083 #Niyonzima
+}
+870.1.1={
+	holder=1000203084 #Wamalwa
+}
+900.1.1={
+	holder=1000203085 #Isingoma
+}
+930.1.1={
+	holder=1000203086 #Kasumba
+}
+960.1.1={
+	holder=1000203087 #Wanjala
+}
+990.1.1={
+	holder=1000203088 #Gahiji
+}
+1020.1.1={
+	holder=1000203089 #Munyiga
+}
+1050.1.1={
+	holder=1000203090 #Isingoma
+}
+1080.1.1={
+	holder=1000203091 #Wemusa
+}
+1110.1.1={
+	holder=1000203092 #Kamoga
+}
+1140.1.1={
+	holder=1000203093 #Runihura
+}
+1170.1.1={
+	holder=1000203094 #Dembe
+}
+1200.1.1={
+	holder=1000203095 #Gwandoya
+}
+1230.1.1={
+	holder=1000203096 #Lutalo
+}
+1260.1.1={
+	holder=1000203097 #Luzige
+}
+1290.1.1={
+	holder=1000203098 #Kurembera
+}
+1320.1.1={
+	holder=1000203099 #Sentwali
+}
+1350.1.1={
+	holder=1000203100 #Batte
+}

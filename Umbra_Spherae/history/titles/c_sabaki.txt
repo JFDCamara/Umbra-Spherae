@@ -1,0 +1,65 @@
+#Mwangi Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205299 #Muga
+}
+780.1.1={
+	holder=1000205300 #Gichohi
+}
+810.1.1={
+	holder=1000205301 #Mburu
+}
+840.1.1={
+	holder=1000205302 #Makori
+}
+870.1.1={
+	holder=1000205303 #Gichuhi
+}
+900.1.1={
+	holder=1000205304 #Wanjohi
+}
+930.1.1={
+	holder=1000205305 #Maina
+}
+960.1.1={
+	holder=1000205306 #Wanjohi
+}
+990.1.1={
+	holder=1000205307 #Ngengi
+}
+1020.1.1={
+	holder=1000205308 #Murimi
+}
+1050.1.1={
+	holder=1000205309 #Munyambu
+}
+1080.1.1={
+	holder=1000205310 #Wamahiu
+}
+1110.1.1={
+	holder=1000205311 #Sokoro
+}
+1140.1.1={
+	holder=1000205312 #Nyamu
+}
+1170.1.1={
+	holder=1000205313 #Nyamu
+}
+1200.1.1={
+	holder=1000205314 #Waititu
+}
+1230.1.1={
+	holder=1000205315 #Mutongoi
+}
+1260.1.1={
+	holder=1000205316 #Omariba
+}
+1290.1.1={
+	holder=1000205317 #Murimi
+}
+1320.1.1={
+	holder=1000205318 #Muthui
+}
+1350.1.1={
+	holder=1000205319 #Gichuki
+}

@@ -1,0 +1,68 @@
+#Tamale Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000202933 #Habimana
+}
+780.1.1={
+	holder=1000202934 #Bikutwala
+}
+810.1.1={
+	holder=1000202935 #Luzige
+}
+840.1.1={
+	holder=1000202936 #Ogwambi
+}
+870.1.1={
+	holder=1000202937 #Isingoma
+}
+900.1.1={
+	holder=1000202938 #Mutabazi
+}
+930.1.1={
+	holder=1000202939 #Habimana
+}
+960.1.1={
+	holder=1000202940 #Kurembera
+}
+990.1.1={
+	holder=1000202941 #Niyonzima
+}
+1020.1.1={
+	holder=1000202942 #Luzige
+}
+1050.1.1={
+	holder=1000202943 #Damba
+}
+1080.1.1={
+	holder=1000202944 #Wekesa
+}
+1110.1.1={
+	holder=1000202945 #Simyu
+}
+1140.1.1={
+	holder=1000202946 #Munanire
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000202947 #Habimana
+}
+1200.1.1={
+	holder=1000202948 #Kigongo
+}
+1230.1.1={
+	holder=1000202949 #Wemusa
+}
+1260.1.1={
+	holder=1000202950 #Simyu
+}
+1290.1.1={
+	holder=1000202951 #Adroa
+}
+1320.1.1={
+	holder=1000202952 #Bitalo
+}
+1350.1.1={
+	holder=1000202953 #Kigongo
+}

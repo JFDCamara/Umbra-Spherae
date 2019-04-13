@@ -1,0 +1,65 @@
+#Awu Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205257 #Abdulahi
+}
+780.1.1={
+	holder=1000205258 #Mohammed_Muhammed
+}
+810.1.1={
+	holder=1000205259 #Ali_Ali
+}
+840.1.1={
+	holder=1000205260 #Abdisalaan
+}
+870.1.1={
+	holder=1000205261 #Dhidhin
+}
+900.1.1={
+	holder=1000205262 #Liibaan
+}
+930.1.1={
+	holder=1000205263 #Taban
+}
+960.1.1={
+	holder=1000205264 #Hassan
+}
+990.1.1={
+	holder=1000205265 #Roble
+}
+1020.1.1={
+	holder=1000205266 #Yusuf_Joseph
+}
+1050.1.1={
+	holder=1000205267 #Awaale
+}
+1080.1.1={
+	holder=1000205268 #Guleed
+}
+1110.1.1={
+	holder=1000205269 #Abdikarim
+}
+1140.1.1={
+	holder=1000205270 #Mohamud
+}
+1170.1.1={
+	holder=1000205271 #Jabir
+}
+1200.1.1={
+	holder=1000205272 #Warsame
+}
+1230.1.1={
+	holder=1000205273 #Hasan
+}
+1260.1.1={
+	holder=1000205274 #Abdi
+}
+1290.1.1={
+	holder=1000205275 #Jwahir
+}
+1320.1.1={
+	holder=1000205276 #Arale
+}
+1350.1.1={
+	holder=1000205277 #Ahmed
+}

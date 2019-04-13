@@ -1,0 +1,65 @@
+#Mutharika Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205698 #Masamba
+}
+780.1.1={
+	holder=1000205699 #Dalitso
+}
+810.1.1={
+	holder=1000205700 #Mphatso
+}
+840.1.1={
+	holder=1000205701 #Tiyamike
+}
+870.1.1={
+	holder=1000205702 #Mtendere
+}
+900.1.1={
+	holder=1000205703 #Makalani
+}
+930.1.1={
+	holder=1000205704 #Chimwemwe
+}
+960.1.1={
+	holder=1000205705 #Masamba
+}
+990.1.1={
+	holder=1000205706 #Tadala
+}
+1020.1.1={
+	holder=1000205707 #Makalani
+}
+1050.1.1={
+	holder=1000205708 #Chimwala
+}
+1080.1.1={
+	holder=1000205709 #Takondwa
+}
+1110.1.1={
+	holder=1000205710 #Chifuniro
+}
+1140.1.1={
+	holder=1000205711 #Masozi
+}
+1170.1.1={
+	holder=1000205712 #Dalitso
+}
+1200.1.1={
+	holder=1000205713 #Tamandani
+}
+1230.1.1={
+	holder=1000205714 #Masozi
+}
+1260.1.1={
+	holder=1000205715 #Chifundo
+}
+1290.1.1={
+	holder=1000205716 #Chifundo
+}
+1320.1.1={
+	holder=1000205717 #Lipapwiche
+}
+1350.1.1={
+	holder=1000205718 #Madalitso
+}

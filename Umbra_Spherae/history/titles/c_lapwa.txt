@@ -1,0 +1,65 @@
+#Henqee Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205530 #Thama
+}
+780.1.1={
+	holder=1000205531 #Ncgabe
+}
+810.1.1={
+	holder=1000205532 #Gamnqoa
+}
+840.1.1={
+	holder=1000205533 #Thama
+}
+870.1.1={
+	holder=1000205534 #Qgoma
+}
+900.1.1={
+	holder=1000205535 #Taase
+}
+930.1.1={
+	holder=1000205536 #Kase
+}
+960.1.1={
+	holder=1000205537 #Kgakgam
+}
+990.1.1={
+	holder=1000205538 #Thamae
+}
+1020.1.1={
+	holder=1000205539 #Thama
+}
+1050.1.1={
+	holder=1000205540 #Tcuixgao
+}
+1080.1.1={
+	holder=1000205541 #Xgaiga
+}
+1110.1.1={
+	holder=1000205542 #Ncgabe
+}
+1140.1.1={
+	holder=1000205543 #Kase
+}
+1170.1.1={
+	holder=1000205544 #Qgam
+}
+1200.1.1={
+	holder=1000205545 #Ncgabe
+}
+1230.1.1={
+	holder=1000205546 #Gamnqoa
+}
+1260.1.1={
+	holder=1000205547 #Ncokgo
+}
+1290.1.1={
+	holder=1000205548 #Xare
+}
+1320.1.1={
+	holder=1000205549 #Ntcoxo
+}
+1350.1.1={
+	holder=1000205550 #Nxaedom
+}

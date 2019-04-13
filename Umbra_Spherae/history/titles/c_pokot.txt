@@ -1,0 +1,65 @@
+#Obama Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203311 #Komeyicin
+}
+780.1.1={
+	holder=1000203312 #Leboo
+}
+810.1.1={
+	holder=1000203313 #Lembui
+}
+840.1.1={
+	holder=1000203314 #Deng
+}
+870.1.1={
+	holder=1000203315 #Parneres
+}
+900.1.1={
+	holder=1000203316 #Meticiki
+}
+930.1.1={
+	holder=1000203317 #Meticiki
+}
+960.1.1={
+	holder=1000203318 #Oloishona
+}
+990.1.1={
+	holder=1000203319 #Surum
+}
+1020.1.1={
+	holder=1000203320 #Bol
+}
+1050.1.1={
+	holder=1000203321 #Dut
+}
+1080.1.1={
+	holder=1000203322 #Nampazo
+}
+1110.1.1={
+	holder=1000203323 #Mbiraru
+}
+1140.1.1={
+	holder=1000203324 #Santamo
+}
+1170.1.1={
+	holder=1000203325 #Tonkei
+}
+1200.1.1={
+	holder=1000203326 #Sankei
+}
+1230.1.1={
+	holder=1000203327 #Lemaron
+}
+1260.1.1={
+	holder=1000203328 #Sabore
+}
+1290.1.1={
+	holder=1000203329 #Hol
+}
+1320.1.1={
+	holder=1000203330 #Thon
+}
+1350.1.1={
+	holder=1000203331 #Lolkerra
+}

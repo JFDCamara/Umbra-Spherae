@@ -1,0 +1,4130 @@
+#Nkhata Dynasty (Placeholders for Thandwe (Maravi))
+
+1000205551 = {
+	name="Mavuto"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205552 = {
+	name="Kondwani"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205551
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205553 = {
+	name="Njowga"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205552
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205554 = {
+	name="Tadala"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205553
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205555 = {
+	name="Tionge"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205554
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205556 = {
+	name="Limbani"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205555
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205557 = {
+	name="Chiumbo"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205556
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205558 = {
+	name="Masamba"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205557
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205559 = {
+	name="Limbikani"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205558
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205560 = {
+	name="Chifuniro"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205559
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205561 = {
+	name="Nthanda"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205560
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205562 = {
+	name="Mphatso"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205561
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205563 = {
+	name="Tamandani"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205562
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205564 = {
+	name="Penjani"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205563
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205565 = {
+	name="Chifundo"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205564
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205566 = {
+	name="Madalitso"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205565
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205567 = {
+	name="Sekani"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205566
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205568 = {
+	name="Chikondi"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205567
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205569 = {
+	name="Takondwa"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205568
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205570 = {
+	name="Takondwa"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205569
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205571 = {
+	name="Mphatso"
+	dynasty=1000078039 #Nkhata
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205570
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Theu Dynasty (Placeholders for Mwera)
+
+1000205572 = {
+	name="Dalitso"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205573 = {
+	name="Dalitso"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205572
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205574 = {
+	name="Nangwaya"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205573
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205575 = {
+	name="Yamikani"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205574
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205576 = {
+	name="Pilirani"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205575
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205577 = {
+	name="Limbikani"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205576
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205578 = {
+	name="Limbani"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205577
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205579 = {
+	name="Tamandani"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205578
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205580 = {
+	name="Lipapwiche"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205579
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205581 = {
+	name="Useni"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205580
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205582 = {
+	name="Chimwala"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205581
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205583 = {
+	name="Nangwaya"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205582
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205584 = {
+	name="Chitundo"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205583
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205585 = {
+	name="Chifundo"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205584
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205586 = {
+	name="Penjani"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205585
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205587 = {
+	name="Mpenda"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205586
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205588 = {
+	name="Masozi"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205587
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205589 = {
+	name="Kondwani"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205588
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205590 = {
+	name="Usi"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205589
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205591 = {
+	name="Masozi"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205590
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205592 = {
+	name="Fatsani"
+	dynasty=1000078033 #Theu
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205591
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Muluzi Dynasty (Placeholders for Yao)
+
+1000205593 = {
+	name="Chiumbo"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205594 = {
+	name="Chitundo"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205593
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205595 = {
+	name="Tadala"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205594
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205596 = {
+	name="Tamandani"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205595
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205597 = {
+	name="Mayeso"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205596
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205598 = {
+	name="Takondwa"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205597
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205599 = {
+	name="Pemphero"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205598
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205600 = {
+	name="Dalitso"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205599
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205601 = {
+	name="Ganizani"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205600
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205602 = {
+	name="Limbani"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205601
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205603 = {
+	name="Takondwa"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205602
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205604 = {
+	name="Mtendere"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205603
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205605 = {
+	name="Zikomo"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205604
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205606 = {
+	name="Tiyamike"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205605
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205607 = {
+	name="Ligongo"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205606
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205608 = {
+	name="Yamikani"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205607
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205609 = {
+	name="Madalitso"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205608
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205610 = {
+	name="Chikondi"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205609
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205611 = {
+	name="Fatsani"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205610
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205612 = {
+	name="Sekani"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205611
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205613 = {
+	name="Chilemba"
+	dynasty=1000078041 #Muluzi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205612
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Kachali Dynasty (Placeholders for Kilombero)
+
+1000205614 = {
+	name="Tiyamike"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205615 = {
+	name="Chimwala"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205614
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205616 = {
+	name="Ligongo"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205615
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205617 = {
+	name="Limbikani"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205616
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205618 = {
+	name="Pilirani"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205617
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205619 = {
+	name="Chimwemwe"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205618
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205620 = {
+	name="Tamandani"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205619
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205621 = {
+	name="Njowga"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205620
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205622 = {
+	name="Dalitso"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205621
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205623 = {
+	name="Njowga"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205622
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205624 = {
+	name="Chisomo"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205623
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205625 = {
+	name="Wanangwa"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205624
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205626 = {
+	name="Tadala"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205625
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205627 = {
+	name="Chikondi"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205626
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205628 = {
+	name="Mphatso"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205627
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205629 = {
+	name="Nthanda"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205628
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205630 = {
+	name="Tionge"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205629
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205631 = {
+	name="Kondwani"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205630
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205632 = {
+	name="Tamandani"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205631
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205633 = {
+	name="Zikomo"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205632
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205634 = {
+	name="Useni"
+	dynasty=1000078043 #Kachali
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205633
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Lionga Dynasty (Placeholders for Nhanja)
+
+1000205635 = {
+	name="Useni"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205636 = {
+	name="Chimwemwe"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205635
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205637 = {
+	name="Pilirani"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205636
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205638 = {
+	name="Ligongo"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205637
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205639 = {
+	name="Mtendere"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205638
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205640 = {
+	name="Mphatso"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205639
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205641 = {
+	name="Chimwemwe"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205640
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205642 = {
+	name="Ligongo"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205641
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205643 = {
+	name="Madalitso"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205642
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205644 = {
+	name="Kumbukani"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205643
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205645 = {
+	name="Mavuto"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205644
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205646 = {
+	name="Chifuniro"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205645
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205647 = {
+	name="Chiyembekezo"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205646
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205648 = {
+	name="Chiumbo"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205647
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205649 = {
+	name="Nthanda"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205648
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205650 = {
+	name="Madalitso"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205649
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205651 = {
+	name="Nangwaya"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205650
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205652 = {
+	name="Chilemba"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205651
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205653 = {
+	name="Tiyamike"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205652
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205654 = {
+	name="Ligongo"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205653
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205655 = {
+	name="Nangwaya"
+	dynasty=1000078042 #Lionga
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205654
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Makhumula Dynasty (Placeholders for Makwa)
+
+1000205656 = {
+	name="Yamikani"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205657 = {
+	name="Yamikani"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205656
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205658 = {
+	name="Njowga"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205657
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205659 = {
+	name="Madalitso"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205658
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205660 = {
+	name="Ganizani"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205659
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205661 = {
+	name="Zikomo"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205660
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205662 = {
+	name="Kondwani"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205661
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205663 = {
+	name="Mayeso"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205662
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205664 = {
+	name="Kondwani"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205663
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205665 = {
+	name="Tuwile"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205664
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205666 = {
+	name="Masamba"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205665
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205667 = {
+	name="Wanangwa"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205666
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205668 = {
+	name="Lipapwiche"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205667
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205669 = {
+	name="Sekani"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205668
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205670 = {
+	name="Sekani"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205669
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205671 = {
+	name="Mphatso"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205670
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205672 = {
+	name="Chikondi"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205671
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205673 = {
+	name="Tiyamike"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205672
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205674 = {
+	name="Wanangwa"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205673
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205675 = {
+	name="Kondwani"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205674
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205676 = {
+	name="Fatsani"
+	dynasty=1000078044 #Makhumula
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205675
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Muhiya Dynasty (Placeholders for Lomwe)
+
+1000205677 = {
+	name="Nangwaya"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205678 = {
+	name="Makalani"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205677
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205679 = {
+	name="Ligongo"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205678
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205680 = {
+	name="Zikomo"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205679
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205681 = {
+	name="Mtendere"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205680
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205682 = {
+	name="Chifundo"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205681
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205683 = {
+	name="Tiyamike"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205682
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205684 = {
+	name="Pemphero"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205683
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205685 = {
+	name="Mayamiko"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205684
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205686 = {
+	name="Nangwaya"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205685
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205687 = {
+	name="Sekani"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205686
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205688 = {
+	name="Mavuto"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205687
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205689 = {
+	name="Usi"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205688
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205690 = {
+	name="Thabiti"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205689
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205691 = {
+	name="Chikondi"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205690
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205692 = {
+	name="Chilemba"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205691
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205693 = {
+	name="Chifuniro"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205692
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205694 = {
+	name="Pilirani"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205693
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205695 = {
+	name="Mayamiko"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205694
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205696 = {
+	name="Tamandani"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205695
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205697 = {
+	name="Takondwa"
+	dynasty=1000078045 #Muhiya
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205696
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Mutharika Dynasty (Placeholders for Makonde)
+
+1000205698 = {
+	name="Masamba"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205699 = {
+	name="Dalitso"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205698
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205700 = {
+	name="Mphatso"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205699
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205701 = {
+	name="Tiyamike"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205700
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205702 = {
+	name="Mtendere"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205701
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205703 = {
+	name="Makalani"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205702
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205704 = {
+	name="Chimwemwe"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205703
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205705 = {
+	name="Masamba"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205704
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205706 = {
+	name="Tadala"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205705
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205707 = {
+	name="Makalani"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205706
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205708 = {
+	name="Chimwala"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205707
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205709 = {
+	name="Takondwa"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205708
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205710 = {
+	name="Chifuniro"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205709
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205711 = {
+	name="Masozi"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205710
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205712 = {
+	name="Dalitso"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205711
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205713 = {
+	name="Tamandani"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205712
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205714 = {
+	name="Masozi"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205713
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205715 = {
+	name="Chifundo"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205714
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205716 = {
+	name="Chifundo"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205715
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205717 = {
+	name="Lipapwiche"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205716
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205718 = {
+	name="Madalitso"
+	dynasty=1000078046 #Mutharika
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205717
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Litete Dynasty (Placeholders for Nkope)
+
+1000205719 = {
+	name="Chimwala"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205720 = {
+	name="Ganizani"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205719
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205721 = {
+	name="Chisomo"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205720
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205722 = {
+	name="Chikumbutso"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205721
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205723 = {
+	name="Nthanda"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205722
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205724 = {
+	name="Nthanda"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205723
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205725 = {
+	name="Chifundo"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205724
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205726 = {
+	name="Kondwani"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205725
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205727 = {
+	name="Ligongo"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205726
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205728 = {
+	name="Thabiti"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205727
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205729 = {
+	name="Tionge"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205728
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205730 = {
+	name="Penjani"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205729
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205731 = {
+	name="Mpenda"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205730
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205732 = {
+	name="Tiyamike"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205731
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205733 = {
+	name="Kondwani"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205732
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205734 = {
+	name="Chifundo"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205733
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205735 = {
+	name="Penjani"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205734
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205736 = {
+	name="Thokozani"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205735
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205737 = {
+	name="Pemphero"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205736
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205738 = {
+	name="Tuwile"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205737
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205739 = {
+	name="Kumbukani"
+	dynasty=1000078037 #Litete
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205738
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Chilima Dynasty (Placeholders for Zomba)
+
+1000205740 = {
+	name="Ligongo"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205741 = {
+	name="Tamandani"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205740
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205742 = {
+	name="Chisomo"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205741
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205743 = {
+	name="Tionge"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205742
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205744 = {
+	name="Tamandani"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205743
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205745 = {
+	name="Takondwa"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205744
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205746 = {
+	name="Njowga"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205745
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205747 = {
+	name="Pemphero"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205746
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205748 = {
+	name="Tamandani"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205747
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205749 = {
+	name="Kondwani"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205748
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205750 = {
+	name="Penjani"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205749
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205751 = {
+	name="Chiyembekezo"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205750
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205752 = {
+	name="Tadala"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205751
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205753 = {
+	name="Chikondi"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205752
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205754 = {
+	name="Mayeso"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205753
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205755 = {
+	name="Chisomo"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205754
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205756 = {
+	name="Masamba"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205755
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205757 = {
+	name="Usi"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205756
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205758 = {
+	name="Pilirani"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205757
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205759 = {
+	name="Madalitso"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205758
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205760 = {
+	name="Chimwala"
+	dynasty=1000078038 #Chilima
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205759
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Tembo Dynasty (Placeholders for Kamnama)
+
+1000205761 = {
+	name="Takondwa"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205762 = {
+	name="Ganizani"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205761
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205763 = {
+	name="Chiyembekezo"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205762
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205764 = {
+	name="Fatsani"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205763
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205765 = {
+	name="Mpenda"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205764
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205766 = {
+	name="Chikumbutso"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205765
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205767 = {
+	name="Fatsani"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205766
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205768 = {
+	name="Fatsani"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205767
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205769 = {
+	name="Dalitso"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205768
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205770 = {
+	name="Makalani"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205769
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205771 = {
+	name="Chifuniro"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205770
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205772 = {
+	name="Chiyembekezo"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205771
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205773 = {
+	name="Thabiti"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205772
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205774 = {
+	name="Nthanda"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205773
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205775 = {
+	name="Pilirani"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205774
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205776 = {
+	name="Nangwaya"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205775
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205777 = {
+	name="Thokozani"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205776
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205778 = {
+	name="Yamikani"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205777
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205779 = {
+	name="Lipapwiche"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205778
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205780 = {
+	name="Chimwala"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205779
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205781 = {
+	name="Dalitso"
+	dynasty=1000078040 #Tembo
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205780
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Kaluwa Dynasty (Placeholders for Mwabulambo)
+
+1000205782 = {
+	name="Mphatso"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205783 = {
+	name="Mtendere"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205782
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205784 = {
+	name="Kondwani"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205783
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205785 = {
+	name="Chiumbo"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205784
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205786 = {
+	name="Masozi"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205785
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205787 = {
+	name="Njowga"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205786
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205788 = {
+	name="Chiyembekezo"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205787
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205789 = {
+	name="Ligongo"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205788
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205790 = {
+	name="Lipapwiche"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205789
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205791 = {
+	name="Takondwa"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205790
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205792 = {
+	name="Penjani"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205791
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205793 = {
+	name="Tuwile"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205792
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205794 = {
+	name="Mayamiko"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205793
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205795 = {
+	name="Chimwemwe"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205794
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205796 = {
+	name="Mayamiko"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205795
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205797 = {
+	name="Chimwemwe"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205796
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205798 = {
+	name="Mayamiko"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205797
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205799 = {
+	name="Tiyamike"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205798
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205800 = {
+	name="Chimwemwe"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205799
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205801 = {
+	name="Useni"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205800
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205802 = {
+	name="Nthanda"
+	dynasty=1000078050 #Kaluwa
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205801
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Gumbi Dynasty (Placeholders for Phopo)
+
+1000205803 = {
+	name="Masamba"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205804 = {
+	name="Nthanda"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205803
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205805 = {
+	name="Chitundo"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205804
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205806 = {
+	name="Thokozani"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205805
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205807 = {
+	name="Mayamiko"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205806
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205808 = {
+	name="Sekani"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205807
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205809 = {
+	name="Takondwa"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205808
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205810 = {
+	name="Pilirani"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205809
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205811 = {
+	name="Mpenda"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205810
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205812 = {
+	name="Mpenda"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205811
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205813 = {
+	name="Ganizani"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205812
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205814 = {
+	name="Chilemba"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205813
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205815 = {
+	name="Ganizani"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205814
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205816 = {
+	name="Wanangwa"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205815
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205817 = {
+	name="Chifundo"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205816
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205818 = {
+	name="Chimwemwe"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205817
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205819 = {
+	name="Pilirani"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205818
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205820 = {
+	name="Mtendere"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205819
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205821 = {
+	name="Yamikani"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205820
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205822 = {
+	name="Sekani"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205821
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205823 = {
+	name="Chilemba"
+	dynasty=1000078051 #Gumbi
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205822
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Mhango Dynasty (Placeholders for Nyamwanga)
+
+1000205824 = {
+	name="Useni"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205825 = {
+	name="Chimwemwe"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205824
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205826 = {
+	name="Takondwa"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205825
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205827 = {
+	name="Mavuto"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205826
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205828 = {
+	name="Sekani"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205827
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205829 = {
+	name="Thokozani"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205828
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205830 = {
+	name="Dalitso"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205829
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205831 = {
+	name="Chiumbo"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205830
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205832 = {
+	name="Kumbukani"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205831
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205833 = {
+	name="Fatsani"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205832
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205834 = {
+	name="Madalitso"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205833
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205835 = {
+	name="Wanangwa"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205834
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205836 = {
+	name="Chiyembekezo"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205835
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205837 = {
+	name="Chilemba"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205836
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205838 = {
+	name="Fatsani"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205837
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205839 = {
+	name="Chifuniro"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205838
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205840 = {
+	name="Chilemba"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205839
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205841 = {
+	name="Tionge"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205840
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205842 = {
+	name="Zikomo"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205841
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205843 = {
+	name="Mtendere"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205842
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205844 = {
+	name="Chisomo"
+	dynasty=1000078052 #Mhango
+	religion="east_bantu_mythology"
+	culture="rufiji_nyasa"
+	father=1000205843
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+

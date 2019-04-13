@@ -1,0 +1,65 @@
+#Muunu Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205383 #Makau
+}
+780.1.1={
+	holder=1000205384 #Musyoka
+}
+810.1.1={
+	holder=1000205385 #Gathanja
+}
+840.1.1={
+	holder=1000205386 #Kibachia
+}
+870.1.1={
+	holder=1000205387 #Makori
+}
+900.1.1={
+	holder=1000205388 #Gachara
+}
+930.1.1={
+	holder=1000205389 #Muchoki
+}
+960.1.1={
+	holder=1000205390 #Waititu
+}
+990.1.1={
+	holder=1000205391 #Ngengi
+}
+1020.1.1={
+	holder=1000205392 #Mbiti
+}
+1050.1.1={
+	holder=1000205393 #Makena
+}
+1080.1.1={
+	holder=1000205394 #Gitura
+}
+1110.1.1={
+	holder=1000205395 #Gicheha
+}
+1140.1.1={
+	holder=1000205396 #Kimunya
+}
+1170.1.1={
+	holder=1000205397 #Gicheha
+}
+1200.1.1={
+	holder=1000205398 #Murigi
+}
+1230.1.1={
+	holder=1000205399 #Wambua
+}
+1260.1.1={
+	holder=1000205400 #Mbiti
+}
+1290.1.1={
+	holder=1000205401 #Morani
+}
+1320.1.1={
+	holder=1000205402 #Sokoro
+}
+1350.1.1={
+	holder=1000205403 #Gachara
+}

@@ -1,0 +1,65 @@
+#Nti Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205446 #Nderitu
+}
+780.1.1={
+	holder=1000205447 #Makori
+}
+810.1.1={
+	holder=1000205448 #Njaramba
+}
+840.1.1={
+	holder=1000205449 #Gachara
+}
+870.1.1={
+	holder=1000205450 #Gichuki
+}
+900.1.1={
+	holder=1000205451 #Gitau
+}
+930.1.1={
+	holder=1000205452 #Maina
+}
+960.1.1={
+	holder=1000205453 #Waititu
+}
+990.1.1={
+	holder=1000205454 #Gachara
+}
+1020.1.1={
+	holder=1000205455 #Omariba
+}
+1050.1.1={
+	holder=1000205456 #Makori
+}
+1080.1.1={
+	holder=1000205457 #Omariba
+}
+1110.1.1={
+	holder=1000205458 #Ngengi
+}
+1140.1.1={
+	holder=1000205459 #Watene
+}
+1170.1.1={
+	holder=1000205460 #Makena
+}
+1200.1.1={
+	holder=1000205461 #Ngichu
+}
+1230.1.1={
+	holder=1000205462 #Mutuku
+}
+1260.1.1={
+	holder=1000205463 #Muchoki
+}
+1290.1.1={
+	holder=1000205464 #Morani
+}
+1320.1.1={
+	holder=1000205465 #Nderitu
+}
+1350.1.1={
+	holder=1000205466 #Ndungu
+}

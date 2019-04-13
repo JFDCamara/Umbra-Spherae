@@ -45,7 +45,7 @@ e_wabanaki = {
 			swedish = "Kjalarnes"
 			english = "Newfoundland"
 			french = "Terre-Neuve"
-			irish = "Talamh an Ã‰isc"
+			irish = "Talamh an Éisc"
 			scottish = "Eilean a' Trosg"
 			portuguese = "Terra Nova"
 			italian = "Terranova"
@@ -59,18 +59,18 @@ e_wabanaki = {
 				
 				inuit = "Ikkereitsock"
 				tuniit = "Ikkereitsock"
-				norse = "LeifsbuÃ°ir"
-				norwegian = "LeifsbuÃ°ir"
-				danish = "LeifsbuÃ°ir"
-				swedish = "LeifsbuÃ°ir"
+				norse = "Leifsbuğir"
+				norwegian = "Leifsbuğir"
+				danish = "Leifsbuğir"
+				swedish = "Leifsbuğir"
 				
 				b_quirpon = {
 					inuit = "Ikkereitsock"
 					tuniit = "Ikkereitsock"
-					norse = "LeifsbuÃ°ir"
-					norwegian = "LeifsbuÃ°ir"
-					danish = "LeifsbuÃ°ir"
-					swedish = "LeifsbuÃ°ir"
+					norse = "Leifsbuğir"
+					norwegian = "Leifsbuğir"
+					danish = "Leifsbuğir"
+					swedish = "Leifsbuğir"
 				}
 				b_maqtukwek = {
 				}
@@ -190,7 +190,7 @@ e_wabanaki = {
 				b_potlotek = {
 				}
 				b_eskasoni = {
-					mikmaq = "WÃ©kistoqnik"
+					mikmaq = "Wékistoqnik"
 				}
 				b_maupeltuk = {
 				}
@@ -204,7 +204,7 @@ e_wabanaki = {
 				color={ 195 244 249 }
 				color2={ 220 220 220 }
 
-				mikmaq = "EskikewaêŒkik"
+				mikmaq = "Eskikewa?kik"
 				
 				b_pogumkek = {
 				}
@@ -226,7 +226,7 @@ e_wabanaki = {
 				color={ 195 244 249 }
 				color2={ 220 220 220 }
 
-				mikmaq = "SipekniêŒkatik"
+				mikmaq = "Sipekni?katik"
 				
 				b_sipeknekatik = {
 					mikmaq = "Sipekne'katik"
@@ -237,7 +237,7 @@ e_wabanaki = {
 				b_kakagwek = {
 				}
 				b_wekistoqnik = {
-					mikmaq = "WÃ©kistoqnik"
+					mikmaq = "Wékistoqnik"
 				}
 				b_kampalijek = {
 				}
@@ -327,15 +327,15 @@ e_wabanaki = {
 				b_piktuk = {
 				}
 				b_wekopekwitk = {
-					mikmaq = "WÃ©kopekwitk"
+					mikmaq = "Wékopekwitk"
 				}
 				b_paqtnkek = {
-					mikmaq = "PaqêŒtnkek"
+					mikmaq = "Paq?tnkek"
 				}
 				b_nemcheboogwek = {
 				}
 				b_puksaqteknekatik = {
-					mikmaq = "PuksaqtÃ©knÃ©katik"
+					mikmaq = "Puksaqtéknékatik"
 				}
 				b_chignecto = {
 				}
@@ -352,7 +352,7 @@ e_wabanaki = {
 			norwegian = "Vinland"
 			danish = "Vinland"
 			swedish = "Vinland"
-			mikmaq = "KespÃ©k"
+			mikmaq = "Kespék"
 			
 			capital = 3358 # Kespek
 			
@@ -361,32 +361,32 @@ e_wabanaki = {
 				color={ 195 244 249 }
 				color2={ 220 220 220 }
 
-				norse = "StraumfjÃ¶rÃ°"
-				norwegian = "StraumfjÃ¶rÃ°"
-				danish = "StraumfjÃ¶rÃ°"
-				swedish = "StraumfjÃ¶rÃ°"
-				mikmaq = "KespÃ©k"
+				norse = "Straumfjörğ"
+				norwegian = "Straumfjörğ"
+				danish = "Straumfjörğ"
+				swedish = "Straumfjörğ"
+				mikmaq = "Kespék"
 				
 				b_kespek = {
-					mikmaq = "KespÃ©k"
+					mikmaq = "Kespék"
 				}
 				b_wisiamkik = {
-					norse = "StraumfjÃ¶rÃ°"
-					norwegian = "StraumfjÃ¶rÃ°"
-					danish = "StraumfjÃ¶rÃ°"
-					swedish = "StraumfjÃ¶rÃ°"
+					norse = "Straumfjörğ"
+					norwegian = "Straumfjörğ"
+					danish = "Straumfjörğ"
+					swedish = "Straumfjörğ"
 				}
 				b_keskapekiaq = {
 				}
 				b_listikujk = {
 				}
 				b_kekwapskuk = {
-					mikmaq = "KÃ©kwapskuk"
+					mikmaq = "Kékwapskuk"
 				}
 				b_wospegiak = {
 				}
 				b_sigsog = {
-					mikmaq = "SigsÃ´g"
+					mikmaq = "Sigsôg"
 				}
 			}
 			c_siknikt = {
@@ -401,12 +401,12 @@ e_wabanaki = {
 				b_eskinuopitijk = {
 				}
 				b_metepnakiaq = {
-					mikmaq = "MetepnÃ¡kiaq"
+					mikmaq = "Metepnákiaq"
 				}
 				b_lsipuktuk = {
 				}
 				b_ugpiganjig = {
-					mikmaq = "UgpiêŒganjig"
+					mikmaq = "Ugpi?ganjig"
 				}
 				b_puktusk = {
 				}
@@ -416,11 +416,11 @@ e_wabanaki = {
 				color={ 195 244 249 }
 				color2={ 220 220 220 }
 
-				mikmaq = "NatigÃ´steg"
+				mikmaq = "Natigôsteg"
 				innu = "Notiskuan"
 				
 				b_natigosteg = {
-					mikmaq = "NatigÃ´steg"
+					mikmaq = "Natigôsteg"
 					innu = "Notiskuan"
 				}
 				b_kakawis = {

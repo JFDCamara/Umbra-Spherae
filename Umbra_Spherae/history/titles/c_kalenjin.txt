@@ -1,0 +1,65 @@
+#Kiptoo Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203353 #Kuur
+}
+780.1.1={
+	holder=1000203354 #Sironka
+}
+810.1.1={
+	holder=1000203355 #Maitera
+}
+840.1.1={
+	holder=1000203356 #Lembui
+}
+870.1.1={
+	holder=1000203357 #Santamo
+}
+900.1.1={
+	holder=1000203358 #Alou
+}
+930.1.1={
+	holder=1000203359 #Lemashon
+}
+960.1.1={
+	holder=1000203360 #Kuur
+}
+990.1.1={
+	holder=1000203361 #Lemashon
+}
+1020.1.1={
+	holder=1000203362 #Legeny
+}
+1050.1.1={
+	holder=1000205845 #Mbiraru
+}
+1080.1.1={
+	holder=1000205846 #Kurary
+}
+1110.1.1={
+	holder=1000205847 #Mayol
+}
+1140.1.1={
+	holder=1000205848 #Mabior
+}
+1170.1.1={
+	holder=1000203367 #Jok
+}
+1200.1.1={
+	holder=1000203368 #Legishon
+}
+1230.1.1={
+	holder=1000203369 #Nampazo
+}
+1260.1.1={
+	holder=1000203370 #Teng
+}
+1290.1.1={
+	holder=1000203371 #Koinet
+}
+1320.1.1={
+	holder=1000203372 #Mejooli
+}
+1350.1.1={
+	holder=1000203373 #Lembui
+}

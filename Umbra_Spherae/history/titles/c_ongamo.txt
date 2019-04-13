@@ -1,0 +1,65 @@
+#Chebet Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203332 #Dut
+}
+780.1.1={
+	holder=1000203333 #Legishon
+}
+810.1.1={
+	holder=1000203334 #Kuur
+}
+840.1.1={
+	holder=1000203335 #Lembui
+}
+870.1.1={
+	holder=1000203336 #Thon
+}
+900.1.1={
+	holder=1000203337 #Parneres
+}
+930.1.1={
+	holder=1000203338 #Jok
+}
+960.1.1={
+	holder=1000203339 #Naengop
+}
+990.1.1={
+	holder=1000203340 #Lemuanik
+}
+1020.1.1={
+	holder=1000203341 #Lolkerra
+}
+1050.1.1={
+	holder=1000203342 #Marial
+}
+1080.1.1={
+	holder=1000203343 #Sabore
+}
+1110.1.1={
+	holder=1000203344 #Mejooli
+}
+1140.1.1={
+	holder=1000203345 #Surum
+}
+1170.1.1={
+	holder=1000203346 #Mayol
+}
+1200.1.1={
+	holder=1000203347 #Kuur
+}
+1230.1.1={
+	holder=1000203348 #Mbiraru
+}
+1260.1.1={
+	holder=1000203349 #Mbiraru
+}
+1290.1.1={
+	holder=1000203350 #Lembui
+}
+1320.1.1={
+	holder=1000203351 #Parneres
+}
+1350.1.1={
+	holder=1000203352 #Komeyicin
+}

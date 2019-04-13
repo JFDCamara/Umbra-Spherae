@@ -1,0 +1,65 @@
+#Gumbi Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205803 #Masamba
+}
+780.1.1={
+	holder=1000205804 #Nthanda
+}
+810.1.1={
+	holder=1000205805 #Chitundo
+}
+840.1.1={
+	holder=1000205806 #Thokozani
+}
+870.1.1={
+	holder=1000205807 #Mayamiko
+}
+900.1.1={
+	holder=1000205808 #Sekani
+}
+930.1.1={
+	holder=1000205809 #Takondwa
+}
+960.1.1={
+	holder=1000205810 #Pilirani
+}
+990.1.1={
+	holder=1000205811 #Mpenda
+}
+1020.1.1={
+	holder=1000205812 #Mpenda
+}
+1050.1.1={
+	holder=1000205813 #Ganizani
+}
+1080.1.1={
+	holder=1000205814 #Chilemba
+}
+1110.1.1={
+	holder=1000205815 #Ganizani
+}
+1140.1.1={
+	holder=1000205816 #Wanangwa
+}
+1170.1.1={
+	holder=1000205817 #Chifundo
+}
+1200.1.1={
+	holder=1000205818 #Chimwemwe
+}
+1230.1.1={
+	holder=1000205819 #Pilirani
+}
+1260.1.1={
+	holder=1000205820 #Mtendere
+}
+1290.1.1={
+	holder=1000205821 #Yamikani
+}
+1320.1.1={
+	holder=1000205822 #Sekani
+}
+1350.1.1={
+	holder=1000205823 #Chilemba
+}

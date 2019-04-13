@@ -1,0 +1,65 @@
+#Hubuee Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205488 #Setshogo
+}
+780.1.1={
+	holder=1000205489 #Thama
+}
+810.1.1={
+	holder=1000205490 #Thama
+}
+840.1.1={
+	holder=1000205491 #Gamnqoa
+}
+870.1.1={
+	holder=1000205492 #Xgaiga
+}
+900.1.1={
+	holder=1000205493 #Xgaoco
+}
+930.1.1={
+	holder=1000205494 #Kukama
+}
+960.1.1={
+	holder=1000205495 #Coexae
+}
+990.1.1={
+	holder=1000205496 #Coexae
+}
+1020.1.1={
+	holder=1000205497 #Ncgabe
+}
+1050.1.1={
+	holder=1000205498 #Ncokgo
+}
+1080.1.1={
+	holder=1000205499 #Xgoa
+}
+1110.1.1={
+	holder=1000205500 #Kukama
+}
+1140.1.1={
+	holder=1000205501 #Ncgabe
+}
+1170.1.1={
+	holder=1000205502 #Kase
+}
+1200.1.1={
+	holder=1000205503 #Qgam
+}
+1230.1.1={
+	holder=1000205504 #Ntcoxo
+}
+1260.1.1={
+	holder=1000205505 #Gamnqoa
+}
+1290.1.1={
+	holder=1000205506 #Kukama
+}
+1320.1.1={
+	holder=1000205507 #Kukama
+}
+1350.1.1={
+	holder=1000205508 #Ncgabe
+}

@@ -1,0 +1,4765 @@
+#Batembuzi Dynasty (Placeholders for Kitara)
+
+1000202762 = {
+	name="Kirabo"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202763 = {
+	name="Wasswa"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202762
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202764 = {
+	name="Adroa"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202763
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202765 = {
+	name="Kigongo"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202764
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202766 = {
+	name="Kibuuka"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202765
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202767 = {
+	name="Niyonzima"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202766
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202768 = {
+	name="Bitalo"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202767
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202769 = {
+	name="Simyu"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202768
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202770 = {
+	name="Damba"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202769
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202771 = {
+	name="Niyonzima"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202770
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000202772 = {
+	name="Mukuru"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202771
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202773 = {
+	name="Birungi"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202772
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202774 = {
+	name="Balondemu"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202773
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202775 = {
+	name="Wanyonyi"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202774
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202783 = {
+	name="Ruhanga"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202775
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202776 = {
+	name="Nkya"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202775
+	1141.1.1={
+		birth="1141.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+1000202777 = {
+	name="Kakama"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202776
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202778 = {
+	name="Bada"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202777
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202779 = {
+	name="Ngonzaki"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202778
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1301.1.1={
+		death="1301.1.1"
+	}
+}
+
+1000202780 = {
+	name="Isaza"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202779
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1328.1.1={
+		death="1328.1.1"
+	}
+}
+
+1000202784 = {
+	name="Isimbwa"
+	dynasty=1000027638 #Batembuzi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202780
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1328.1.1={
+		death="1328.1.1"
+	}
+}
+
+#Bukuku Dynasty (usurper)
+
+1000202785 = {
+	name="Bukuku"
+	dynasty=1000078055 #Bukuku
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1344.1.1={
+		death="1344.1.1"
+	}
+}
+
+#Bachwezi Dynasty (Empire of Kitara)
+
+1000202781 = {
+	name="Ndahura"
+	dynasty=1000027639 #Bachwezi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202784
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1371.1.1={
+		death="1371.1.1"
+	}
+}
+
+1000202782 = {
+	name="Mulindwa"
+	dynasty=1000027639 #Bachwezi
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202784
+	1327.1.1={
+		birth="1327.1.1"
+	}
+	1398.1.1={
+		death="1398.1.1"
+	}
+}
+
+#Lugave Dynasty (Placeholders for Buganda)
+
+1000202786 = {
+	name="Habimana"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202787 = {
+	name="Ogwambi"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202786
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202788 = {
+	name="Kasumba"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202787
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202789 = {
+	name="Wekesa"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202788
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202790 = {
+	name="Munanire"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202789
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202791 = {
+	name="Adroa"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202790
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202792 = {
+	name="Gumisiriza"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202791
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202793 = {
+	name="Kasumba"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202792
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202794 = {
+	name="Mubiru"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202793
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202795 = {
+	name="Nyongesa"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202794
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000202796 = {
+	name="Sentwali"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202795
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202797 = {
+	name="Mutabazi"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202796
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202798 = {
+	name="Mutabazi"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202797
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202799 = {
+	name="Munyiga"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202798
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202800 = {
+	name="Simyu"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202799
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202801 = {
+	name="Simyu"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202800
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202802 = {
+	name="Lutalo"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202801
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202803 = {
+	name="Gahiji"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202802
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000202804 = {
+	name="Isingoma"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202803
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202805 = {
+	name="Runihura"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202804
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000202806 = {
+	name="Habimana"
+	dynasty=1000027640 #Lugave
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202805
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Mmamba Dynasty (Placeholders for Syan)
+
+1000202807 = {
+	name="Kamya"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202808 = {
+	name="Kato"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202807
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202809 = {
+	name="Madongo"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202808
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202810 = {
+	name="Isingoma"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202809
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202811 = {
+	name="Musoke"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202810
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202812 = {
+	name="Kirabo"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202811
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202813 = {
+	name="Bikutwala"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202812
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202814 = {
+	name="Birungi"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202813
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202815 = {
+	name="Runihura"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202814
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202816 = {
+	name="Runihura"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202815
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000202817 = {
+	name="Kibuuka"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202816
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202818 = {
+	name="Kurembera"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202817
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202819 = {
+	name="Wemusa"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202818
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202820 = {
+	name="Nyillingondo"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202819
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202821 = {
+	name="Najja"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202820
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202822 = {
+	name="Nakisisa"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202821
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202823 = {
+	name="Wekesa"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202822
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202824 = {
+	name="Kato"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202823
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000202825 = {
+	name="Kadokechi"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202824
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202826 = {
+	name="Nkundiushuti"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202825
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000202827 = {
+	name="Kadokechi"
+	dynasty=1000027641 #Mmamba
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202826
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Nalule Dynasty (Placeholders for Nkore)
+
+1000202828 = {
+	name="Gahuj"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202829 = {
+	name="Wanyonyi"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202828
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202830 = {
+	name="Sebahive"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202829
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202831 = {
+	name="Adroa"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202830
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202832 = {
+	name="Munanire"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202831
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202833 = {
+	name="Gumisiriza"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202832
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202834 = {
+	name="Kamoga"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202833
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202835 = {
+	name="Sebahive"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202834
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202836 = {
+	name="Hakizimana"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202835
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202837 = {
+	name="Luzige"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202836
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000202838 = {
+	name="Lutalo"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202837
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202839 = {
+	name="Kasumba"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202838
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202840 = {
+	name="Kibuuka"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202839
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202841 = {
+	name="Kasozi"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202840
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202842 = {
+	name="Najja"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202841
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202843 = {
+	name="Simyu"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202842
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202844 = {
+	name="Niyonzima"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202843
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202845 = {
+	name="Adroa"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202844
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000202846 = {
+	name="Kigongo"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202845
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202847 = {
+	name="Kasumba"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202846
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000202848 = {
+	name="Gahuj"
+	dynasty=1000028384 #Nalule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202847
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Ecweru Dynasty (Placeholders of Buhweju)
+
+1000202849 = {
+	name="Wekesa"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202850 = {
+	name="Munanire"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202849
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202851 = {
+	name="Kigongo"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202850
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202852 = {
+	name="Sentwali"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202851
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202853 = {
+	name="Mukuru"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202852
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202854 = {
+	name="Musoke"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202853
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202855 = {
+	name="Sebahive"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202854
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202856 = {
+	name="Sebahive"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202855
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202857 = {
+	name="Mulogo"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202856
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202858 = {
+	name="Adroa"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202857
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000202859 = {
+	name="Gahuj"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202858
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202860 = {
+	name="Kamya"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202859
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202861 = {
+	name="Lutalo"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202860
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202862 = {
+	name="Ogwambi"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202861
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202863 = {
+	name="Musoke"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202862
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202864 = {
+	name="Balondemu"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202863
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202865 = {
+	name="Bitalo"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202864
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202866 = {
+	name="Birungi"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202865
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000202867 = {
+	name="Kibuuka"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202866
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202868 = {
+	name="Balondemu"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202867
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000202869 = {
+	name="Kasozi"
+	dynasty=1000028385 #Ecweru
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202868
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Udoma Dynasty (Placeholders for Karagwe)
+
+1000202870 = {
+	name="Ogwambi"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202871 = {
+	name="Luzige"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202870
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202872 = {
+	name="Nkundiushuti"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202871
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202873 = {
+	name="Ogwambi"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202872
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202874 = {
+	name="Magomu"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202873
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202875 = {
+	name="Isingoma"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202874
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202876 = {
+	name="Bitalo"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202875
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202877 = {
+	name="Nkundiushuti"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202876
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202878 = {
+	name="Lutalo"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202877
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202879 = {
+	name="Lutalo"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202878
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000202880 = {
+	name="Businge"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202879
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202881 = {
+	name="Kamya"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202880
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202882 = {
+	name="Madongo"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202881
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202883 = {
+	name="Wekesa"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202882
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202884 = {
+	name="Niyonzima"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202883
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202885 = {
+	name="Najja"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202884
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202886 = {
+	name="Munyiga"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202885
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202887 = {
+	name="Habimana"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202886
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000202888 = {
+	name="Musoke"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202887
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202889 = {
+	name="Kadokechi"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202888
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000202890 = {
+	name="Nyongesa"
+	dynasty=1000028386 #Udoma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202889
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Baguma Dynasty (Placeholders for Kiziba)
+
+1000202891 = {
+	name="Dukuzumuremyi"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202892 = {
+	name="Nyongesa"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202891
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202893 = {
+	name="Kadokechi"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202892
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202894 = {
+	name="Kamoga"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202893
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202895 = {
+	name="Bikutwala"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202894
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202896 = {
+	name="Kasozi"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202895
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202897 = {
+	name="Wemusa"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202896
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202898 = {
+	name="Gumisiriza"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202897
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202899 = {
+	name="Gahuj"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202898
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202900 = {
+	name="Hakizimana"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202899
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000202901 = {
+	name="Bitalo"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202900
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202902 = {
+	name="Kizza"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202901
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202903 = {
+	name="Dembe"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202902
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202904 = {
+	name="Simyu"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202903
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202905 = {
+	name="Gahiji"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202904
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202906 = {
+	name="Najja"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202905
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202907 = {
+	name="Mulogo"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202906
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202908 = {
+	name="Kamya"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202907
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000202909 = {
+	name="Wemusa"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202908
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202910 = {
+	name="Wanjala"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202909
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000202911 = {
+	name="Balondemu"
+	dynasty=1000028387 #Baguma
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202910
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Bajope Dynasty (Placeholders for Gisaka)
+
+1000202912 = {
+	name="Ojore"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202913 = {
+	name="Batte"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202912
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202914 = {
+	name="Sebahive"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202913
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202915 = {
+	name="Kamya"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202914
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202916 = {
+	name="Bikutwala"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202915
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202917 = {
+	name="Ogwambi"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202916
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202918 = {
+	name="Gahuj"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202917
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202919 = {
+	name="Gwandoya"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202918
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202920 = {
+	name="Mubiru"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202919
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202921 = {
+	name="Kasozi"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202920
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000202922 = {
+	name="Kasozi"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202921
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202923 = {
+	name="Dukuzumuremyi"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202922
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202924 = {
+	name="Birungi"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202923
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202925 = {
+	name="Gumisiriza"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202924
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202926 = {
+	name="Gahuj"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202925
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202927 = {
+	name="Runihura"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202926
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202928 = {
+	name="Magomu"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202927
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202929 = {
+	name="Kasumba"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202928
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000202930 = {
+	name="Batte"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202929
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202931 = {
+	name="Habimana"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202930
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000202932 = {
+	name="Balondemu"
+	dynasty=1000028388 #Bajope
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202931
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Tamale Dynasty (Placeholders for Mpororo)
+
+1000202933 = {
+	name="Habimana"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202934 = {
+	name="Bikutwala"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202933
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202935 = {
+	name="Luzige"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202934
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202936 = {
+	name="Ogwambi"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202935
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202937 = {
+	name="Isingoma"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202936
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202938 = {
+	name="Mutabazi"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202937
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202939 = {
+	name="Habimana"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202938
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202940 = {
+	name="Kurembera"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202939
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202941 = {
+	name="Niyonzima"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202940
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202942 = {
+	name="Luzige"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202941
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000202943 = {
+	name="Damba"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202942
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202944 = {
+	name="Wekesa"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202943
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202945 = {
+	name="Simyu"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202944
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202946 = {
+	name="Munanire"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202945
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202947 = {
+	name="Habimana"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202946
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202948 = {
+	name="Kigongo"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202947
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202949 = {
+	name="Wemusa"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202948
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202950 = {
+	name="Simyu"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202949
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000202951 = {
+	name="Adroa"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202950
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202952 = {
+	name="Bitalo"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202951
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000202953 = {
+	name="Kigongo"
+	dynasty=1000028389 #Tamale
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202952
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Tumukye Dynasty (Placeholders for Ndorwa)
+
+1000202954 = {
+	name="Kurembera"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202955 = {
+	name="Najja"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202954
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202956 = {
+	name="Mubiru"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202955
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202957 = {
+	name="Kirabo"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202956
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202958 = {
+	name="Kurembera"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202957
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202959 = {
+	name="Nakisisa"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202958
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202960 = {
+	name="Kamoga"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202959
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202961 = {
+	name="Balondemu"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202960
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202962 = {
+	name="Kizza"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202961
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202963 = {
+	name="Dukuzumuremyi"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202962
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000202964 = {
+	name="Mubiru"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202963
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202965 = {
+	name="Wafula"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202964
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202966 = {
+	name="Isingoma"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202965
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202967 = {
+	name="Birungi"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202966
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202968 = {
+	name="Isingoma"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202967
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202969 = {
+	name="Magomu"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202968
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202970 = {
+	name="Musoke"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202969
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202971 = {
+	name="Kasozi"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202970
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000202972 = {
+	name="Gahuj"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202971
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202973 = {
+	name="Wamalwa"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202972
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000202974 = {
+	name="Kurembera"
+	dynasty=1000028390 #Tumukye
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202973
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Masiko Dynasty (Placeholders for Burundi)
+
+1000202975 = {
+	name="Gwandoya"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202976 = {
+	name="Kigongo"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202975
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202977 = {
+	name="Niyonzima"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202976
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202978 = {
+	name="Kibuuka"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202977
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000202979 = {
+	name="Najja"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202978
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202980 = {
+	name="Lutalo"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202979
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202981 = {
+	name="Simyu"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202980
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000202982 = {
+	name="Gwandoya"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202981
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000202983 = {
+	name="Kizza"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202982
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202984 = {
+	name="Gumisiriza"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202983
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000202985 = {
+	name="Birungi"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202984
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202986 = {
+	name="Najja"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202985
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000202987 = {
+	name="Mukuru"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202986
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000202988 = {
+	name="Kurembera"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202987
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000202989 = {
+	name="Luzige"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202988
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000202990 = {
+	name="Kamoga"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202989
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000202991 = {
+	name="Gahiji"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202990
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202992 = {
+	name="Wasswa"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202991
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000202993 = {
+	name="Lutalo"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202992
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202994 = {
+	name="Kurembera"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202993
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000202995 = {
+	name="Habimana"
+	dynasty=1000028391 #Masiko
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202994
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Hasule Dynasty (Placeholders for Buha)
+
+1000202996 = {
+	name="Wekesa"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202997 = {
+	name="Runihura"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202996
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000202998 = {
+	name="Kibuuka"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202997
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000202999 = {
+	name="Kasozi"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202998
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203000 = {
+	name="Nkundiushuti"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000202999
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203001 = {
+	name="Mulogo"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203000
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203002 = {
+	name="Wekesa"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203001
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203003 = {
+	name="Kurembera"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203002
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203004 = {
+	name="Gahuj"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203003
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203005 = {
+	name="Munyiga"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203004
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203006 = {
+	name="Kirabo"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203005
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203007 = {
+	name="Kizza"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203006
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203008 = {
+	name="Mulogo"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203007
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203009 = {
+	name="Wasswa"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203008
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203010 = {
+	name="Kasumba"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203009
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203011 = {
+	name="Kadokechi"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203010
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203012 = {
+	name="Mukuru"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203011
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203013 = {
+	name="Sentwali"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203012
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203014 = {
+	name="Kato"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203013
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203015 = {
+	name="Gahuj"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203014
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203016 = {
+	name="Kizza"
+	dynasty=1000028392 #Hasule
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203015
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Rugunda Dynasty (Placeholders for Bujiji)
+
+1000203017 = {
+	name="Gahuj"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203018 = {
+	name="Kibuuka"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203017
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203019 = {
+	name="Balondemu"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203018
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203020 = {
+	name="Niyonzima"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203019
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203021 = {
+	name="Hakizimana"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203020
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203022 = {
+	name="Nyongesa"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203021
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203023 = {
+	name="Kamya"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203022
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203024 = {
+	name="Bbale"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203023
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203025 = {
+	name="Kamya"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203024
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203026 = {
+	name="Kamoga"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203025
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203027 = {
+	name="Simyu"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203026
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203028 = {
+	name="Bbale"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203027
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203029 = {
+	name="Musoke"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203028
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203030 = {
+	name="Bitalo"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203029
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203031 = {
+	name="Wanyonyi"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203030
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203032 = {
+	name="Kigongo"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203031
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203033 = {
+	name="Magomu"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203032
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203034 = {
+	name="Nyillingondo"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203033
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203035 = {
+	name="Habimana"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203034
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203036 = {
+	name="Wasswa"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203035
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203037 = {
+	name="Luzige"
+	dynasty=1000027642 #Rugunda
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203036
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Rwamirama Dynasty (Placeholders for Buzinza)
+
+1000203038 = {
+	name="Wemusa"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203039 = {
+	name="Lutalo"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203038
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203040 = {
+	name="Businge"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203039
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203041 = {
+	name="Munyiga"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203040
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203042 = {
+	name="Sentwali"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203041
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203043 = {
+	name="Simyu"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203042
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203044 = {
+	name="Luzige"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203043
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203045 = {
+	name="Wekesa"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203044
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203046 = {
+	name="Damba"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203045
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203047 = {
+	name="Kizza"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203046
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203048 = {
+	name="Kasozi"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203047
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203049 = {
+	name="Gahiji"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203048
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203050 = {
+	name="Isingoma"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203049
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203051 = {
+	name="Nkundiushuti"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203050
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203052 = {
+	name="Kizza"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203051
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203053 = {
+	name="Sebahive"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203052
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203054 = {
+	name="Wekesa"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203053
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203055 = {
+	name="Wanyonyi"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203054
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203056 = {
+	name="Niyonzima"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203055
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203057 = {
+	name="Ogwambi"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203056
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203058 = {
+	name="Businge"
+	dynasty=1000078005 #Rwamirama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203057
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Odama Dynasty (Placeholders for Ukerewe)
+
+1000203059 = {
+	name="Isingoma"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203060 = {
+	name="Munanire"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203059
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203061 = {
+	name="Gahiji"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203060
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203062 = {
+	name="Mutabazi"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203061
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203063 = {
+	name="Magomu"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203062
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203064 = {
+	name="Mukuru"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203063
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203065 = {
+	name="Wanjala"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203064
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203066 = {
+	name="Wemusa"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203065
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203067 = {
+	name="Kasumba"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203066
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203068 = {
+	name="Isingoma"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203067
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203069 = {
+	name="Dembe"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203068
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203070 = {
+	name="Gwandoya"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203069
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203071 = {
+	name="Simyu"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203070
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203072 = {
+	name="Adroa"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203071
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203073 = {
+	name="Nyillingondo"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203072
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203074 = {
+	name="Mulogo"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203073
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203075 = {
+	name="Najja"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203074
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203076 = {
+	name="Gahuj"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203075
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203077 = {
+	name="Madongo"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203076
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203078 = {
+	name="Dembe"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203077
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203079 = {
+	name="Kasumba"
+	dynasty=1000078006 #Odama
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203078
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Zirimu Dynasty (Placeholders for Waha)
+
+1000203080 = {
+	name="Adroa"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203081 = {
+	name="Batte"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203080
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203082 = {
+	name="Magomu"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203081
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203083 = {
+	name="Niyonzima"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203082
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203084 = {
+	name="Wamalwa"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203083
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203085 = {
+	name="Isingoma"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203084
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203086 = {
+	name="Kasumba"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203085
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203087 = {
+	name="Wanjala"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203086
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203088 = {
+	name="Gahiji"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203087
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203089 = {
+	name="Munyiga"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203088
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203090 = {
+	name="Isingoma"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203089
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203091 = {
+	name="Wemusa"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203090
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203092 = {
+	name="Kamoga"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203091
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203093 = {
+	name="Runihura"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203092
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203094 = {
+	name="Dembe"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203093
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203095 = {
+	name="Gwandoya"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203094
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203096 = {
+	name="Lutalo"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203095
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203097 = {
+	name="Luzige"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203096
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203098 = {
+	name="Kurembera"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203097
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203099 = {
+	name="Sentwali"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203098
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203100 = {
+	name="Batte"
+	dynasty=1000078047 #Zirimu
+	religion="east_bantu_mythology"
+	culture="ganda_rwanda_rundi"
+	father=1000203099
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+

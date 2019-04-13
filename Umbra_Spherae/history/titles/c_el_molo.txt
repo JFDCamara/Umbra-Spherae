@@ -1,0 +1,65 @@
+#Rakas Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205299 #Naleye
+}
+780.1.1={
+	holder=1000205300 #Kalif
+}
+810.1.1={
+	holder=1000205301 #Siad
+}
+840.1.1={
+	holder=1000205302 #Samatar
+}
+870.1.1={
+	holder=1000205303 #Kaahin
+}
+900.1.1={
+	holder=1000205304 #Sa'ad
+}
+930.1.1={
+	holder=1000205305 #Haqq
+}
+960.1.1={
+	holder=1000205306 #Abdulaahi
+}
+990.1.1={
+	holder=1000205307 #Harti
+}
+1020.1.1={
+	holder=1000205308 #Omar_Omar
+}
+1050.1.1={
+	holder=1000205309 #Ahmad
+}
+1080.1.1={
+	holder=1000205310 #Azhar
+}
+1110.1.1={
+	holder=1000205311 #Ibraahin
+}
+1140.1.1={
+	holder=1000205312 #Ali_Ali
+}
+1170.1.1={
+	holder=1000205313 #Mohammed_Muhammed
+}
+1200.1.1={
+	holder=1000205314 #Bahdoon
+}
+1230.1.1={
+	holder=1000205315 #Korfa
+}
+1260.1.1={
+	holder=1000205316 #Cali
+}
+1290.1.1={
+	holder=1000205317 #Nahwi
+}
+1320.1.1={
+	holder=1000205318 #Kaahin
+}
+1350.1.1={
+	holder=1000205319 #Ibrahim_Abraham
+}

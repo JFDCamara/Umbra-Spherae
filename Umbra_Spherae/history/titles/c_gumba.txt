@@ -1,0 +1,65 @@
+#Dah Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203416 #Badlay
+}
+780.1.1={
+	holder=1000203417 #Samakab
+}
+810.1.1={
+	holder=1000203418 #Othman
+}
+840.1.1={
+	holder=1000203419 #Shams
+}
+870.1.1={
+	holder=1000203420 #Kaahin
+}
+900.1.1={
+	holder=1000203421 #Adam_Adam
+}
+930.1.1={
+	holder=1000203422 #Omar_Omar
+}
+960.1.1={
+	holder=1000203423 #Labaan
+}
+990.1.1={
+	holder=1000203424 #Nur
+}
+1020.1.1={
+	holder=1000203425 #Caraale
+}
+1050.1.1={
+	holder=1000203426 #Abtidoon
+}
+1080.1.1={
+	holder=1000203427 #Mohamud
+}
+1110.1.1={
+	holder=1000203428 #Sherif
+}
+1140.1.1={
+	holder=1000203429 #Mahdi
+}
+1170.1.1={
+	holder=1000203430 #Mohamed_Muhammed
+}
+1200.1.1={
+	holder=1000203431 #Barakat
+}
+1230.1.1={
+	holder=1000203432 #Barakat
+}
+1260.1.1={
+	holder=1000203433 #Raage
+}
+1290.1.1={
+	holder=1000203434 #Abdelahi
+}
+1320.1.1={
+	holder=1000203435 #Raxman
+}
+1350.1.1={
+	holder=1000203436 #Nahwi
+}

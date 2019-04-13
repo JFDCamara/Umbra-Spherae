@@ -1,0 +1,65 @@
+#Ga Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203437 #Khayre
+}
+780.1.1={
+	holder=1000203438 #Jamal
+}
+810.1.1={
+	holder=1000203439 #Jamal
+}
+840.1.1={
+	holder=1000203440 #Abukar
+}
+870.1.1={
+	holder=1000203441 #Aberashid
+}
+900.1.1={
+	holder=1000203442 #Ghedi
+}
+930.1.1={
+	holder=1000203443 #Dable
+}
+960.1.1={
+	holder=1000203444 #Hakim
+}
+990.1.1={
+	holder=1000203445 #Dalmr
+}
+1020.1.1={
+	holder=1000203446 #Jabir
+}
+1050.1.1={
+	holder=1000203447 #Badlay
+}
+1080.1.1={
+	holder=1000203448 #Cali
+}
+1110.1.1={
+	holder=1000203449 #Arale
+}
+1140.1.1={
+	holder=1000203450 #Sabr
+}
+1170.1.1={
+	holder=1000203451 #Geeddi
+}
+1200.1.1={
+	holder=1000203452 #Kalif
+}
+1230.1.1={
+	holder=1000203453 #Taban
+}
+1260.1.1={
+	holder=1000203454 #Liban
+}
+1290.1.1={
+	holder=1000203455 #Kooge
+}
+1320.1.1={
+	holder=1000203456 #Abdisalaan
+}
+1350.1.1={
+	holder=1000203457 #Hakim
+}

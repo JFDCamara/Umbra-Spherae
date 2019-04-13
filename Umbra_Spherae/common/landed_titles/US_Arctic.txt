@@ -16,10 +16,10 @@ e_nunavut = {
 		color2={ 220 220 220 }
 
 		inuit = "Kalaallit Nunaat"
-		norse = "GrÃºnland"
-		norwegian = "GrÃºnland"
-		danish = "GrÃºnland"
-		swedish = "GrÃºnland"
+		norse = "Grúnland"
+		norwegian = "Grúnland"
+		danish = "Grúnland"
+		swedish = "Grúnland"
 		english = "Greenland"
 
 		capital = 3232 # Sermersooq
@@ -29,10 +29,10 @@ e_nunavut = {
 			color={ 185 244 249 }
 			color2={ 220 220 220 }
 
-			norse = "VestgrÃºnland"
-			norwegian = "VestgrÃºnland"
-			danish = "VestgrÃºnland"
-			swedish = "VestgrÃºnland"
+			norse = "Vestgrúnland"
+			norwegian = "Vestgrúnland"
+			danish = "Vestgrúnland"
+			swedish = "Vestgrúnland"
 			
 			capital = 3232 # Sermersooq
 			
@@ -41,16 +41,16 @@ e_nunavut = {
 				color={ 195 244 249 }
 				color2={ 220 220 220 }
 				
-				norse = "VestribyggÃ°"
-				norwegian = "VestribyggÃ°"
-				danish = "VestribyggÃ°"
-				swedish = "VestribyggÃ°"
+				norse = "Vestribyggğ"
+				norwegian = "Vestribyggğ"
+				danish = "Vestribyggğ"
+				swedish = "Vestribyggğ"
 				
 				b_sermersooq = {
-					norse = "SandnÃ¦s"
-					norwegian = "SandnÃ¦s"
-					danish = "SandnÃ¦s"
-					swedish = "SandnÃ¦s"
+					norse = "Sandnæs"
+					norwegian = "Sandnæs"
+					danish = "Sandnæs"
+					swedish = "Sandnæs"
 				}
 				b_ameralik = {
 					norse = "Lysufjord"
@@ -86,10 +86,10 @@ e_nunavut = {
 				color={ 195 244 249 }
 				color2={ 220 220 220 }
 				
-				norse = "MiÃ°terste"
-				norwegian = "MiÃ°terste"
-				danish = "MiÃ°terste"
-				swedish = "MiÃ°terste"
+				norse = "Miğterste"
+				norwegian = "Miğterste"
+				danish = "Miğterste"
+				swedish = "Miğterste"
 				
 				b_sisimiut = {
 					norse = "Holsteinsborg"
@@ -173,10 +173,10 @@ e_nunavut = {
 			color={ 185 244 249 }
 			color2={ 220 220 220 }
 
-			norse = "GrÃºnland"
-			norwegian = "GrÃºnland"
-			danish = "GrÃºnland"
-			swedish = "GrÃºnland"
+			norse = "Grúnland"
+			norwegian = "Grúnland"
+			danish = "Grúnland"
+			swedish = "Grúnland"
 			
 			capital = 3231 # Qaqortoq (Kujalleg)
 			
@@ -184,16 +184,16 @@ e_nunavut = {
 				color={ 185 254 249 }
 				color2={ 220 220 220 }
 				
-				norse = "EystribyggÃ°"
-				norwegian = "EystribyggÃ°"
-				danish = "EystribyggÃ°"
-				swedish = "EystribyggÃ°"
+				norse = "Eystribyggğ"
+				norwegian = "Eystribyggğ"
+				danish = "Eystribyggğ"
+				swedish = "Eystribyggğ"
 				
 				b_qassiarsuk = {
-					norse = "BrattahlÃ­Ã°"
-					norwegian = "BrattahlÃ­Ã°"
-					danish = "BrattahlÃ­Ã°"
-					swedish = "BrattahlÃ­Ã°"
+					norse = "Brattahlíğ"
+					norwegian = "Brattahlíğ"
+					danish = "Brattahlíğ"
+					swedish = "Brattahlíğ"
 				}
 				b_qaqortoq = {
 					norse = "Hvalsey"
@@ -202,16 +202,16 @@ e_nunavut = {
 					swedish = "Hvalsey"
 				}
 				b_igaliku = {
-					norse = "GarÃ°ar"
-					norwegian = "GarÃ°ar"
-					danish = "GarÃ°ar"
-					swedish = "GarÃ°ar"
+					norse = "Garğar"
+					norwegian = "Garğar"
+					danish = "Garğar"
+					swedish = "Garğar"
 				}
 				b_narsaq = {
-					norse = "DyrnÃ¦s"
-					norwegian = "DyrnÃ¦s"
-					danish = "DyrnÃ¦s"
-					swedish = "DyrnÃ¦s"
+					norse = "Dyrnæs"
+					norwegian = "Dyrnæs"
+					danish = "Dyrnæs"
+					swedish = "Dyrnæs"
 				}
 				b_narsaq_kujalleq = {
 					norse = "Ikigait"
@@ -237,16 +237,16 @@ e_nunavut = {
 				color={ 195 244 249 }
 				color2={ 220 220 220 }
 				
-				norse = "MiÃ°ribyggÃ°"
-				norwegian = "MiÃ°ribyggÃ°"
-				danish = "MiÃ°ribyggÃ°"
-				swedish = "MiÃ°ribyggÃ°"
+				norse = "Miğribyggğ"
+				norwegian = "Miğribyggğ"
+				danish = "Miğribyggğ"
+				swedish = "Miğribyggğ"
 				
 				b_ivittuut = {
-					norse = "MiÃ°ribyggÃ°"
-					norwegian = "MiÃ°ribyggÃ°"
-					danish = "MiÃ°ribyggÃ°"
-					swedish = "MiÃ°ribyggÃ°"
+					norse = "Miğribyggğ"
+					norwegian = "Miğribyggğ"
+					danish = "Miğribyggğ"
+					swedish = "Miğribyggğ"
 				}
 				b_kangilinnguit = {
 					norse = "Gronnedal"
@@ -265,10 +265,10 @@ e_nunavut = {
 				b_ikermiut = {
 				}
 				b_qeqertarsuatsiaat = {
-					norse = "FiskernÃ¦s"
-					norwegian = "FiskernÃ¦s"
-					danish = "FiskernÃ¦s"
-					swedish = "FiskernÃ¦s"
+					norse = "Fiskernæs"
+					norwegian = "Fiskernæs"
+					danish = "Fiskernæs"
+					swedish = "Fiskernæs"
 				}
 				b_nunarssit = {
 				}
@@ -277,16 +277,16 @@ e_nunavut = {
 				color={ 185 254 249 }
 				color2={ 220 220 220 }
 				
-				norse = "GunnbjÃ¶rnland"
-				norwegian = "GunnbjÃ¶rnland"
-				danish = "GunnbjÃ¶rnland"
-				swedish = "GunnbjÃ¶rnland"
+				norse = "Gunnbjörnland"
+				norwegian = "Gunnbjörnland"
+				danish = "Gunnbjörnland"
+				swedish = "Gunnbjörnland"
 				
 				b_qulleq = {
-					norse = "GunnbjÃ¶rnland"
-					norwegian = "GunnbjÃ¶rnland"
-					danish = "GunnbjÃ¶rnland"
-					swedish = "GunnbjÃ¶rnland"
+					norse = "Gunnbjörnland"
+					norwegian = "Gunnbjörnland"
+					danish = "Gunnbjörnland"
+					swedish = "Gunnbjörnland"
 				}
 				b_qipinnguak = {
 				}
@@ -311,10 +311,10 @@ e_nunavut = {
 			color={ 185 244 249 }
 			color2={ 220 220 220 }
 
-			norse = "EystgrÃºnland"
-			norwegian = "EystgrÃºnland"
-			danish = "EystgrÃºnland"
-			swedish = "EystgrÃºnland"
+			norse = "Eystgrúnland"
+			norwegian = "Eystgrúnland"
+			danish = "Eystgrúnland"
+			swedish = "Eystgrúnland"
 			
 			capital = 3314 # Ammassalik
 
@@ -610,7 +610,7 @@ e_nunavut = {
 				b_tasiujaq = {
 				}
 				b_qasigialingat = {
-					cree = "WiyÃ¢Å¡Ã¢kamÃ®"
+					cree = "Wiyâšâkamî"
 				}
 				b_tursujuq = {
 				}
@@ -676,13 +676,13 @@ e_cree = {
 				color2={ 220 220 220 }
 				
 				b_chisasibi = {
-					cree = "CisÃ¢sÃ®pÃ®"
+					cree = "Cisâsîpî"
 				}
 				b_ismein = {
-					cree = "Ãsmein"
+					cree = "Îsmein"
 				}
 				b_wemindji = {
-					cree = "WÃ®minicÃ®"
+					cree = "Wîminicî"
 				}
 				b_sakami = {
 				}
@@ -697,11 +697,11 @@ e_cree = {
 				color={ 185 254 249 }
 				color2={ 220 220 220 }
 
-				cree = "WÃ¢pimÃ¢kuÅ¡tui"
+				cree = "Wâpimâkuštui"
 				inuit = "Kuujjuarapik"
 				
 				b_whapmagoostui = {
-					cree = "WÃ¢pimÃ¢kuÅ¡tui"
+					cree = "Wâpimâkuštui"
 				}
 				b_kuujjuarapik = {
 				}
@@ -723,7 +723,7 @@ e_cree = {
 				b_nichicun = {
 				}
 				b_apisikamis = {
-					cree = "ApiÅ¡ikamÃ®Å¡"
+					cree = "Apišikamîš"
 				}
 				b_petagumksun = {
 				}
@@ -740,22 +740,22 @@ e_cree = {
 				color={ 185 254 249 }
 				color2={ 220 220 220 }
 
-				cree = "NemiskÃ¢w"
+				cree = "Nemiskâw"
 				french = "Nemiscau"
 				
 				b_nemaska = {
-					cree = "NemiskÃ¢w"
+					cree = "Nemiskâw"
 					french = "Nemiscau"
 				}
 				b_mistissini = {
-					cree = "MistisinÃ®"
+					cree = "Mistisinî"
 				}
 				b_chibougamau = {
-					cree = "Ã›cÃªpukumÃ»"
-					french = "OujÃ©-Bougoumou"
+					cree = "Ûcêpukumû"
+					french = "Oujé-Bougoumou"
 				}
 				b_waswanipi = {
-					cree = "WÃ¢swÃ¢nipÃ®"
+					cree = "Wâswânipî"
 				}
 				b_obalski = {
 				}
@@ -768,10 +768,10 @@ e_cree = {
 				color={ 185 254 249 }
 				color2={ 220 220 220 }
 
-				cree = "WÃ¢skÃ¢hÃ®kaniÅ¡"
+				cree = "Wâskâhîkaniš"
 				
 				b_waskaganish = {
-					cree = "WÃ¢skÃ¢hÃ®kaniÅ¡"
+					cree = "Wâskâhîkaniš"
 				}
 				b_matagami = {
 				}
@@ -890,10 +890,10 @@ e_cree = {
 				color={ 185 254 249 }
 				color2={ 220 220 220 }
 
-				innu = "KawÃ¢wÃ¢chikamach"
+				innu = "Kawâwâchikamach"
 				
 				b_kawawachikamach = {
-					innu = "KawÃ¢wÃ¢chikamach"
+					innu = "Kawâwâchikamach"
 				}
 				b_kamistiatusset = {
 				}
@@ -912,10 +912,10 @@ e_cree = {
 				color={ 185 254 249 }
 				color2={ 220 220 220 }
 
-				inuit = "VÃ¢li"
+				inuit = "Vâli"
 				
 				b_sheshatshiu = {
-					inuit = "VÃ¢li"
+					inuit = "Vâli"
 				}
 				b_minipi = {
 				}
@@ -1053,12 +1053,12 @@ e_cree = {
 				b_ushabatshuan = {
 				}
 				b_coucoucache = {
-					atikamekw = "KÃ´kÃ´kachi"
+					atikamekw = "Kôkôkachi"
 				}
 				b_matawin = {
 				}
 				b_oskelaneo = {
-					atikamekw = "OskÃ©lanÃ©o"
+					atikamekw = "Oskélanéo"
 				}
 			}
 		}

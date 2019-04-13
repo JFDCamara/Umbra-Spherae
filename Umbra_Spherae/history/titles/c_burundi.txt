@@ -1,0 +1,68 @@
+#Masiko Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000202975 #Gwandoya
+}
+780.1.1={
+	holder=1000202976 #Kigongo
+}
+810.1.1={
+	holder=1000202977 #Niyonzima
+}
+840.1.1={
+	holder=1000202978 #Kibuuka
+}
+870.1.1={
+	holder=1000202979 #Najja
+}
+900.1.1={
+	holder=1000202980 #Lutalo
+}
+930.1.1={
+	holder=1000202981 #Simyu
+}
+960.1.1={
+	holder=1000202982 #Gwandoya
+}
+990.1.1={
+	holder=1000202983 #Kizza
+}
+1020.1.1={
+	holder=1000202984 #Gumisiriza
+}
+1050.1.1={
+	holder=1000202985 #Birungi
+}
+1080.1.1={
+	holder=1000202986 #Najja
+}
+1110.1.1={
+	holder=1000202987 #Mukuru
+}
+1140.1.1={
+	holder=1000202988 #Kurembera
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000202989 #Luzige
+}
+1200.1.1={
+	holder=1000202990 #Kamoga
+}
+1230.1.1={
+	holder=1000202991 #Gahiji
+}
+1260.1.1={
+	holder=1000202992 #Wasswa
+}
+1290.1.1={
+	holder=1000202993 #Lutalo
+}
+1320.1.1={
+	holder=1000202994 #Kurembera
+}
+1350.1.1={
+	holder=1000202995 #Habimana
+}

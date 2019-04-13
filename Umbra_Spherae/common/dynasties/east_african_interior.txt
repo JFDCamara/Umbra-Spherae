@@ -1,0 +1,266 @@
+1000027638 = {
+    name="Batembuzi"
+    culture=ganda_rwanda_rundi
+}
+1000027639 = {
+    name="Bachwezi"
+    culture=ganda_rwanda_rundi
+}
+1000027640 = {
+    name="Lugave"
+    culture=ganda_rwanda_rundi
+}
+1000027641 = {
+    name="Mmamba"
+    culture=ganda_rwanda_rundi
+}
+1000028384 = {
+    name="Nalule"
+    culture=ganda_rwanda_rundi
+}
+1000028385 = {
+    name="Ecweru"
+    culture=ganda_rwanda_rundi
+}
+1000028386 = {
+    name="Udoma"
+    culture=ganda_rwanda_rundi
+}
+1000028387 = {
+    name="Baguma"
+    culture=ganda_rwanda_rundi
+}
+1000028388 = {
+    name="Bajope"
+    culture=ganda_rwanda_rundi
+}
+1000028389 = {
+    name="Tamale"
+    culture=ganda_rwanda_rundi
+}
+1000028390 = {
+    name="Tumukye"
+    culture=ganda_rwanda_rundi
+}
+1000028391 = {
+    name="Masiko"
+    culture=ganda_rwanda_rundi
+}
+1000028392 = {
+    name="Hasule"
+    culture=ganda_rwanda_rundi
+}
+1000027642 = {
+    name="Rugunda"
+    culture=ganda_rwanda_rundi
+}
+1000078005 = {
+    name="Rwamirama"
+    culture=ganda_rwanda_rundi
+}
+1000078006 = {
+    name="Odama"
+    culture=ganda_rwanda_rundi
+}
+1000078047 = {
+    name="Zirimu"
+    culture=ganda_rwanda_rundi
+}
+1000078055 = {
+    name="Bukuku"
+    culture=ganda_rwanda_rundi
+}
+
+1000078007 = {
+    name="Adida"
+    culture=nilotic
+}
+1000078008 = {
+    name="Odondi"
+    culture=nilotic
+}
+1000078009 = {
+    name="Ahenda"
+    culture=nilotic
+}
+1000078010 = {
+    name="Odek"
+    culture=nilotic
+}
+1000078011 = {
+    name="Okoth"
+    culture=nilotic
+}
+1000078012 = {
+    name="Hera"
+    culture=nilotic
+}
+1000078013 = {
+    name="Ojwang"
+    culture=nilotic
+}
+1000078014 = {
+    name="Bol"
+    culture=nilotic
+}
+1000078015 = {
+    name="Resa"
+    culture=nilotic
+}
+1000078016 = {
+    name="Ogola"
+    culture=nilotic
+}
+1000078017 = {
+    name="Obama"
+    culture=nilotic
+}
+1000078018 = {
+    name="Chebet"
+    culture=nilotic
+}
+1000078021 = {
+    name="Kiptoo"
+    culture=nilotic
+}
+1000078022 = {
+    name="Lagat"
+    culture=nilotic
+}
+1000078026 = {
+    name="Rono"
+    culture=nilotic
+}
+
+1000078019 = {
+    name="Dah"
+    culture=interior_cushitic
+}
+1000078023 = {
+    name="Yatara"
+    culture=interior_cushitic
+}
+1000078025 = {
+    name="Rakas"
+    culture=interior_cushitic
+}
+1000078028 = {
+    name="Ga"
+    culture=interior_cushitic
+}
+1000078031 = {
+    name="Slanu"
+    culture=interior_cushitic
+}
+1000078032 = {
+    name="Awu"
+    culture=interior_cushitic
+}
+1000078034 = {
+    name="Hhampa"
+    culture=interior_cushitic
+}
+
+1000078024 = {
+    name="Dualeh"
+    culture=somali
+}
+
+1000078020 = {
+    name="Mwangi"
+    culture=ruvu_kikuyu_takama
+}
+1000078029 = {
+    name="Maina"
+    culture=ruvu_kikuyu_takama
+}
+1000078030 = {
+    name="Kariuki"
+    culture=ruvu_kikuyu_takama
+}
+1000078036 = {
+    name="Kamau"
+    culture=ruvu_kikuyu_takama
+}
+1000078049 = {
+    name="Nti"
+    culture=ruvu_kikuyu_takama
+}
+1000078053 = {
+    name="Liiso"
+    culture=ruvu_kikuyu_takama
+}
+1000078054 = {
+    name="Muunu"
+    culture=ruvu_kikuyu_takama
+}
+
+1000078033 = {
+    name="Theu"
+    culture=rufiji_nyasa
+}
+1000078037 = {
+    name="Litete"
+    culture=rufiji_nyasa
+}
+1000078038 = {
+    name="Chilima"
+    culture=rufiji_nyasa
+}
+1000078039 = {
+    name="Nkhata"
+    culture=rufiji_nyasa
+}
+1000078040 = {
+    name="Tembo"
+    culture=rufiji_nyasa
+}
+1000078041 = {
+    name="Muluzi"
+    culture=rufiji_nyasa
+}
+1000078042 = {
+    name="Lionga"
+    culture=rufiji_nyasa
+}
+1000078043 = {
+    name="Kachali"
+    culture=rufiji_nyasa
+}
+1000078044 = {
+    name="Makhumula"
+    culture=rufiji_nyasa
+}
+1000078045 = {
+    name="Muhiya"
+    culture=rufiji_nyasa
+}
+1000078046 = {
+    name="Mutharika"
+    culture=rufiji_nyasa
+}
+1000078050 = {
+    name="Kaluwa"
+    culture=rufiji_nyasa
+}
+1000078051 = {
+    name="Gumbi"
+    culture=rufiji_nyasa
+}
+1000078052 = {
+    name="Mhango"
+    culture=rufiji_nyasa
+}
+
+1000078027 = {
+    name="Hubuee"
+    culture=khoi_san
+}
+1000078035 = {
+    name="Farkwa"
+    culture=khoi_san
+}
+1000078048 = {
+    name="Henqee"
+    culture=khoi_san
+}

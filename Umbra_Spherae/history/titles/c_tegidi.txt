@@ -1,0 +1,65 @@
+#Ojwang Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203227 #Hol
+}
+780.1.1={
+	holder=1000203228 #Maitera
+}
+810.1.1={
+	holder=1000203229 #Koinet
+}
+840.1.1={
+	holder=1000203230 #Lembui
+}
+870.1.1={
+	holder=1000203231 #Leboo
+}
+900.1.1={
+	holder=1000203232 #Nampazo
+}
+930.1.1={
+	holder=1000203233 #Mbiraru
+}
+960.1.1={
+	holder=1000203234 #Teng
+}
+990.1.1={
+	holder=1000203235 #Masigonde
+}
+1020.1.1={
+	holder=1000203236 #Lemaron
+}
+1050.1.1={
+	holder=1000203237 #Naengop
+}
+1080.1.1={
+	holder=1000203238 #Sabore
+}
+1110.1.1={
+	holder=1000203239 #Lembui
+}
+1140.1.1={
+	holder=1000203240 #Deng
+}
+1170.1.1={
+	holder=1000203241 #Kuur
+}
+1200.1.1={
+	holder=1000203242 #Legishon
+}
+1230.1.1={
+	holder=1000203243 #Masigonde
+}
+1260.1.1={
+	holder=1000203244 #Sankale
+}
+1290.1.1={
+	holder=1000203245 #Simel
+}
+1320.1.1={
+	holder=1000203246 #Parneres
+}
+1350.1.1={
+	holder=1000203247 #Meticiki
+}

@@ -1,0 +1,68 @@
+#Rugunda Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203017 #Gahuj
+}
+780.1.1={
+	holder=1000203018 #Kibuuka
+}
+810.1.1={
+	holder=1000203019 #Balondemu
+}
+840.1.1={
+	holder=1000203020 #Niyonzima
+}
+870.1.1={
+	holder=1000203021 #Hakizimana
+}
+900.1.1={
+	holder=1000203022 #Nyongesa
+}
+930.1.1={
+	holder=1000203023 #Kamya
+}
+960.1.1={
+	holder=1000203024 #Bbale
+}
+990.1.1={
+	holder=1000203025 #Kamya
+}
+1020.1.1={
+	holder=1000203026 #Kamoga
+}
+1050.1.1={
+	holder=1000203027 #Simyu
+}
+1080.1.1={
+	holder=1000203028 #Bbale
+}
+1110.1.1={
+	holder=1000203029 #Musoke
+}
+1140.1.1={
+	holder=1000203030 #Bitalo
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000203031 #Wanyonyi
+}
+1200.1.1={
+	holder=1000203032 #Kigongo
+}
+1230.1.1={
+	holder=1000203033 #Magomu
+}
+1260.1.1={
+	holder=1000203034 #Nyillingondo
+}
+1290.1.1={
+	holder=1000203035 #Habimana
+}
+1320.1.1={
+	holder=1000203036 #Wasswa
+}
+1350.1.1={
+	holder=1000203037 #Luzige
+}

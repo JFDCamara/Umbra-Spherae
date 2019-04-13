@@ -1,0 +1,2065 @@
+#Mwangi Dynasty (Placeholders for Sabaki)
+
+1000205299 = {
+	name="Muga"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205300 = {
+	name="Gichohi"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205299
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205301 = {
+	name="Mburu"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205300
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205302 = {
+	name="Makori"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205301
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205303 = {
+	name="Gichuhi"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205302
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205304 = {
+	name="Wanjohi"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205303
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205305 = {
+	name="Maina"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205304
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205306 = {
+	name="Wanjohi"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205305
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205307 = {
+	name="Ngengi"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205306
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205308 = {
+	name="Murimi"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205307
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205309 = {
+	name="Munyambu"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205308
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205310 = {
+	name="Wamahiu"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205309
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205311 = {
+	name="Sokoro"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205310
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205312 = {
+	name="Nyamu"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205311
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205313 = {
+	name="Nyamu"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205312
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205314 = {
+	name="Waititu"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205313
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205315 = {
+	name="Mutongoi"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205314
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205316 = {
+	name="Omariba"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205315
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205317 = {
+	name="Murimi"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205316
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205318 = {
+	name="Muthui"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205317
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205319 = {
+	name="Gichuki"
+	dynasty=1000078020 #Mwangi
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205318
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Maina Dynasty (Placeholders for Asu)
+
+1000205341 = {
+	name="Sokoro"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205342 = {
+	name="Ngumbau"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205341
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205343 = {
+	name="Wambua"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205342
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205344 = {
+	name="Omariba"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205343
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205345 = {
+	name="Mutua"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205344
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205346 = {
+	name="Makau"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205345
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205347 = {
+	name="Watene"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205346
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205348 = {
+	name="Watene"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205347
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205349 = {
+	name="Sokoro"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205348
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205350 = {
+	name="Nyamu"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205349
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205351 = {
+	name="Muga"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205350
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205352 = {
+	name="Gachara"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205351
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205353 = {
+	name="Gathongo"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205352
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205354 = {
+	name="Muraya"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205353
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205355 = {
+	name="Wambua"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205354
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205356 = {
+	name="Gicheha"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205355
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205357 = {
+	name="Njaramba"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205356
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205358 = {
+	name="Mburu"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205357
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205359 = {
+	name="Muga"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205358
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205360 = {
+	name="Njuki"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205359
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205361 = {
+	name="Gitau"
+	dynasty=1000078029 #Maina
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205360
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Kamau Dynasty (Placeholders for Iramba)
+
+1000205362 = {
+	name="Muchoki"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205363 = {
+	name="Gicheha"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205362
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205364 = {
+	name="Murigi"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205363
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205365 = {
+	name="Omariba"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205364
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205366 = {
+	name="Gathongo"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205365
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205367 = {
+	name="Muthui"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205366
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205368 = {
+	name="Gathanja"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205367
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205369 = {
+	name="Makena"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205368
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205370 = {
+	name="Nyamu"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205369
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205371 = {
+	name="Munyambu"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205370
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205372 = {
+	name="Ciugu"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205371
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205373 = {
+	name="Wambua"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205372
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205374 = {
+	name="Onkwani"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205373
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205375 = {
+	name="Gathanja"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205374
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205376 = {
+	name="Kibaki"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205375
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205377 = {
+	name="Mbiti"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205376
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205378 = {
+	name="Gachara"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205377
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205379 = {
+	name="Watene"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205378
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205380 = {
+	name="Gitura"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205379
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205381 = {
+	name="Waititu"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205380
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205382 = {
+	name="Muthui"
+	dynasty=1000078036 #Kamau
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205381
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Muunu Dynasty (Placeholders for Sukuma)
+
+1000205383 = {
+	name="Makau"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205384 = {
+	name="Musyoka"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205383
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205385 = {
+	name="Gathanja"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205384
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205386 = {
+	name="Kibachia"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205385
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205387 = {
+	name="Makori"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205386
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205388 = {
+	name="Gachara"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205387
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205389 = {
+	name="Muchoki"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205388
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205390 = {
+	name="Waititu"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205389
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205391 = {
+	name="Ngengi"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205390
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205392 = {
+	name="Mbiti"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205391
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205393 = {
+	name="Makena"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205392
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205394 = {
+	name="Gitura"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205393
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205395 = {
+	name="Gicheha"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205394
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205396 = {
+	name="Kimunya"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205395
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205397 = {
+	name="Gicheha"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205396
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205398 = {
+	name="Murigi"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205397
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205399 = {
+	name="Wambua"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205398
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205400 = {
+	name="Mbiti"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205399
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205401 = {
+	name="Morani"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205400
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205402 = {
+	name="Sokoro"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205401
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205403 = {
+	name="Gachara"
+	dynasty=1000078054 #Muunu
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205402
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Liiso Dynasty (Placeholders for Nyamwezi)
+
+1000205404 = {
+	name="Wamahiu"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205405 = {
+	name="Gichohi"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205404
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205406 = {
+	name="Kibachia"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205405
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205407 = {
+	name="Karanja"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205406
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205408 = {
+	name="Musyoka"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205407
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205409 = {
+	name="Makau"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205408
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205410 = {
+	name="Wanjohi"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205409
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205411 = {
+	name="Ngengi"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205410
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205412 = {
+	name="Gachara"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205411
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205413 = {
+	name="Onkwani"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205412
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205414 = {
+	name="Muchoki"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205413
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205415 = {
+	name="Morani"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205414
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205416 = {
+	name="Nzoka"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205415
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205417 = {
+	name="Munyambu"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205416
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205418 = {
+	name="Kinyanjui"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205417
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205419 = {
+	name="Omariba"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205418
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205420 = {
+	name="Kamau"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205419
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205421 = {
+	name="Omwancha"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205420
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205422 = {
+	name="Ngichu"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205421
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205423 = {
+	name="Waititu"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205422
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205424 = {
+	name="Ciugu"
+	dynasty=1000078053 #Liiso
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205423
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Kariuki Dynasty (Placeholders for Ruvu)
+
+1000205425 = {
+	name="Kibaki"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205426 = {
+	name="Wambua"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205425
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205427 = {
+	name="Muthui"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205426
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205428 = {
+	name="Gathanja"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205427
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205429 = {
+	name="Musili"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205428
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205430 = {
+	name="Ndungu"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205429
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205431 = {
+	name="Makau"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205430
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205432 = {
+	name="Waititu"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205431
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205433 = {
+	name="Morani"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205432
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205434 = {
+	name="Mbiti"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205433
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205435 = {
+	name="Gitura"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205434
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205436 = {
+	name="Muraya"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205435
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205437 = {
+	name="Ngichu"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205436
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205438 = {
+	name="Njaramba"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205437
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205439 = {
+	name="Nyachae"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205438
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205440 = {
+	name="Kinyanjui"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205439
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205441 = {
+	name="Mutongoi"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205440
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205442 = {
+	name="Muthui"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205441
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205443 = {
+	name="Ciugu"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205442
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205444 = {
+	name="Muthui"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205443
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205445 = {
+	name="Musili"
+	dynasty=1000078030 #Kariuki
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205444
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Nti Dynasty (Placeholders for Kimbu)
+
+1000205446 = {
+	name="Nderitu"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205447 = {
+	name="Makori"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205446
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205448 = {
+	name="Njaramba"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205447
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205449 = {
+	name="Gachara"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205448
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205450 = {
+	name="Gichuki"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205449
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205451 = {
+	name="Gitau"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205450
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205452 = {
+	name="Maina"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205451
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205453 = {
+	name="Waititu"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205452
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205454 = {
+	name="Gachara"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205453
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205455 = {
+	name="Omariba"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205454
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205456 = {
+	name="Makori"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205455
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205457 = {
+	name="Omariba"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205456
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205458 = {
+	name="Ngengi"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205457
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205459 = {
+	name="Watene"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205458
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205460 = {
+	name="Makena"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205459
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205461 = {
+	name="Ngichu"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205460
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205462 = {
+	name="Mutuku"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205461
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205463 = {
+	name="Muchoki"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205462
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205464 = {
+	name="Morani"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205463
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205465 = {
+	name="Nderitu"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205464
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205466 = {
+	name="Ndungu"
+	dynasty=1000078049 #Nti
+	religion="east_bantu_mythology"
+	culture="ruvu_kikuyu_takama"
+	father=1000205465
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+

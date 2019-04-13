@@ -1,0 +1,65 @@
+#Adida Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203101 #Mabior
+}
+780.1.1={
+	holder=1000203102 #Ntimama
+}
+810.1.1={
+	holder=1000203103 #Tonkei
+}
+840.1.1={
+	holder=1000203104 #Deng
+}
+870.1.1={
+	holder=1000203105 #Deng
+}
+900.1.1={
+	holder=1000203106 #Mabior
+}
+930.1.1={
+	holder=1000203107 #Mayol
+}
+960.1.1={
+	holder=1000203108 #Mbiraru
+}
+990.1.1={
+	holder=1000203109 #Lemashon
+}
+1020.1.1={
+	holder=1000203110 #Maitera
+}
+1050.1.1={
+	holder=1000203111 #Surum
+}
+1080.1.1={
+	holder=1000203112 #Sironka
+}
+1110.1.1={
+	holder=1000203113 #Sironka
+}
+1140.1.1={
+	holder=1000203114 #Mejooli
+}
+1170.1.1={
+	holder=1000203115 #Lolkerra
+}
+1200.1.1={
+	holder=1000203116 #Lembui
+}
+1230.1.1={
+	holder=1000203117 #Lembui
+}
+1260.1.1={
+	holder=1000203118 #Masigonde
+}
+1290.1.1={
+	holder=1000203119 #Kuur
+}
+1320.1.1={
+	holder=1000203120 #Jok
+}
+1350.1.1={
+	holder=1000203121 #Lolkerra
+}

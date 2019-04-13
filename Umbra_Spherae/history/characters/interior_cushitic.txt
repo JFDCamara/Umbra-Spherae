@@ -996,3 +996,2068 @@
 	}
 }
 
+#Dah Dynasty (Placeholders for Gumba)
+
+1000203416 = {
+	name="Badlay"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203417 = {
+	name="Samakab"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203416
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203418 = {
+	name="Othman"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203417
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203419 = {
+	name="Shams"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203418
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203420 = {
+	name="Kaahin"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203419
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203421 = {
+	name="Adam_Adam"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203420
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203422 = {
+	name="Omar_Omar"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203421
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203423 = {
+	name="Labaan"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203422
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203424 = {
+	name="Nur"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203423
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203425 = {
+	name="Caraale"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203424
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203426 = {
+	name="Abtidoon"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203425
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203427 = {
+	name="Mohamud"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203426
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203428 = {
+	name="Sherif"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203427
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203429 = {
+	name="Mahdi"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203428
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203430 = {
+	name="Mohamed_Muhammed"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203429
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203431 = {
+	name="Barakat"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203430
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203432 = {
+	name="Barakat"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203431
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203433 = {
+	name="Raage"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203432
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203434 = {
+	name="Abdelahi"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203433
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203435 = {
+	name="Raxman"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203434
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203436 = {
+	name="Nahwi"
+	dynasty=1000078019 #Dah
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203435
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Ga Dynasty (Placeholders for Asa)
+
+1000203437 = {
+	name="Khayre"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203438 = {
+	name="Jamal"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203437
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203439 = {
+	name="Jamal"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203438
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203440 = {
+	name="Abukar"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203439
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203441 = {
+	name="Aberashid"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203440
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203442 = {
+	name="Ghedi"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203441
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203443 = {
+	name="Dable"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203442
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203444 = {
+	name="Hakim"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203443
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203445 = {
+	name="Dalmr"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203444
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203446 = {
+	name="Jabir"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203445
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203447 = {
+	name="Badlay"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203446
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203448 = {
+	name="Cali"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203447
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203449 = {
+	name="Arale"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203448
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203450 = {
+	name="Sabr"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203449
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203451 = {
+	name="Geeddi"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203450
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203452 = {
+	name="Kalif"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203451
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203453 = {
+	name="Taban"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203452
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203454 = {
+	name="Liban"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203453
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203455 = {
+	name="Kooge"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203454
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203456 = {
+	name="Abdisalaan"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203455
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203457 = {
+	name="Hakim"
+	dynasty=1000078028 #Ga
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203456
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Hhampa Dynasty (Placeholders for Kwa'dza)
+
+1000203458 = {
+	name="Hanad"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203459 = {
+	name="Labaan"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203458
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203460 = {
+	name="Mohamud"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203459
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203461 = {
+	name="Mohamed_Muhammed"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203460
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203462 = {
+	name="Hanad"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203461
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203463 = {
+	name="Raxman"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203462
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203464 = {
+	name="Mohamoud"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203463
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203465 = {
+	name="Abtidoon"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203464
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203466 = {
+	name="Hussein"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203465
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203467 = {
+	name="Kooge"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203466
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203468 = {
+	name="Kaahin"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203467
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203469 = {
+	name="Kooge"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203468
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203470 = {
+	name="Samatar"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203469
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203471 = {
+	name="Badlay"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203470
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203472 = {
+	name="Hamar"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203471
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203473 = {
+	name="Hanad"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203472
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203474 = {
+	name="Dhidhin"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203473
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203475 = {
+	name="Bahdoon"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203474
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203476 = {
+	name="Kooge"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203475
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203477 = {
+	name="Geeddi"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203476
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203478 = {
+	name="Ibraahin"
+	dynasty=1000078034 #Hhampa
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000203477
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Slanu Dynasty (Placeholders for Ma'a)
+
+1000205236 = {
+	name="Dalmr"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205237 = {
+	name="Samakab"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205236
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205238 = {
+	name="Jwahir"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205237
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205239 = {
+	name="Abdi"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205238
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205240 = {
+	name="Abdul"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205239
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205241 = {
+	name="Hamar"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205240
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205242 = {
+	name="Abtidoon"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205241
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205243 = {
+	name="Abdikarim"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205242
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205244 = {
+	name="Sihab"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205243
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205245 = {
+	name="Dable"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205244
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205246 = {
+	name="Liban"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205245
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205247 = {
+	name="Nadif"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205246
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205248 = {
+	name="Ghedi"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205247
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205249 = {
+	name="Samakab"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205248
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205250 = {
+	name="Khalid"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205249
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205251 = {
+	name="Mansur"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205250
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205252 = {
+	name="Mohamed_Muhammed"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205251
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205253 = {
+	name="Ayan"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205252
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205254 = {
+	name="Waabberi"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205253
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205255 = {
+	name="Khalid"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205254
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205256 = {
+	name="Jamal"
+	dynasty=1000078031 #Slanu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205255
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Awu Dynasty (Placeholders for Iringa)
+
+1000205257 = {
+	name="Abdulahi"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205258 = {
+	name="Mohammed_Muhammed"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205257
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205259 = {
+	name="Ali_Ali"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205258
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205260 = {
+	name="Abdisalaan"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205259
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205261 = {
+	name="Dhidhin"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205260
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205262 = {
+	name="Liibaan"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205261
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205263 = {
+	name="Taban"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205262
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205264 = {
+	name="Hassan"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205263
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205265 = {
+	name="Roble"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205264
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205266 = {
+	name="Yusuf_Joseph"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205265
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205267 = {
+	name="Awaale"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205266
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205268 = {
+	name="Guleed"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205267
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205269 = {
+	name="Abdikarim"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205268
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205270 = {
+	name="Mohamud"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205269
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205271 = {
+	name="Jabir"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205270
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205272 = {
+	name="Warsame"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205271
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205273 = {
+	name="Hasan"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205272
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205274 = {
+	name="Abdi"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205273
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205275 = {
+	name="Jwahir"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205274
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205276 = {
+	name="Arale"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205275
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205277 = {
+	name="Ahmed"
+	dynasty=1000078032 #Awu
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205276
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Yatara Dynasty (Placeholders for Dahalo)
+
+1000205278 = {
+	name="Siciid"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205279 = {
+	name="Waabberi"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205278
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205280 = {
+	name="Mohamoud"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205279
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205281 = {
+	name="Cali"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205280
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205282 = {
+	name="Guleed"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205281
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205283 = {
+	name="Mansur"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205282
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205284 = {
+	name="Ali_Ali"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205283
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205285 = {
+	name="Nuruddin"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205284
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205286 = {
+	name="Mohamud"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205285
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205287 = {
+	name="Badlay"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205286
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205288 = {
+	name="Maxamuud"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205287
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205289 = {
+	name="Geeddi"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205288
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205290 = {
+	name="Ibrahiim_Abraham"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205289
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205291 = {
+	name="Khalid"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205290
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205292 = {
+	name="Samakab"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205291
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205293 = {
+	name="Abdullah"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205292
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205294 = {
+	name="Nahwi"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205293
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205295 = {
+	name="Sherif"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205294
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205296 = {
+	name="Mohamud"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205295
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205297 = {
+	name="Ibraahin"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205296
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205298 = {
+	name="Khayre"
+	dynasty=1000078023 #Yatara
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205297
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Rakas Dynasty (Placeholders for El Molo)
+
+1000205299 = {
+	name="Naleye"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000205300 = {
+	name="Kalif"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205299
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000205301 = {
+	name="Siad"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205300
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000205302 = {
+	name="Samatar"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205301
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000205303 = {
+	name="Kaahin"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205302
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000205304 = {
+	name="Sa'ad"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205303
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000205305 = {
+	name="Haqq"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205304
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000205306 = {
+	name="Abdulaahi"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205305
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000205307 = {
+	name="Harti"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205306
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000205308 = {
+	name="Omar_Omar"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205307
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205309 = {
+	name="Ahmad"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205308
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205310 = {
+	name="Azhar"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205309
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205311 = {
+	name="Ibraahin"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205310
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205312 = {
+	name="Ali_Ali"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205311
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000205313 = {
+	name="Mohammed_Muhammed"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205312
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000205314 = {
+	name="Bahdoon"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205313
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000205315 = {
+	name="Korfa"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205314
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000205316 = {
+	name="Cali"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205315
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000205317 = {
+	name="Nahwi"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205316
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000205318 = {
+	name="Kaahin"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205317
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000205319 = {
+	name="Ibrahim_Abraham"
+	dynasty=1000078025 #Rakas
+	religion="cushitic_pagan"
+	culture="interior_cushitic"
+	father=1000205318
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+

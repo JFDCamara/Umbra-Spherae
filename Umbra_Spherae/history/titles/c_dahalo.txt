@@ -1,0 +1,65 @@
+#Yatara Dynasty (Placeholders for Dahalo)
+
+750.1.1={
+	holder=1000205278 #Siciid
+}
+780.1.1={
+	holder=1000205279 #Waabberi
+}
+810.1.1={
+	holder=1000205280 #Mohamoud
+}
+840.1.1={
+	holder=1000205281 #Cali
+}
+870.1.1={
+	holder=1000205282 #Guleed
+}
+900.1.1={
+	holder=1000205283 #Mansur
+}
+930.1.1={
+	holder=1000205284 #Ali_Ali
+}
+960.1.1={
+	holder=1000205285 #Nuruddin
+}
+990.1.1={
+	holder=1000205286 #Mohamud
+}
+1020.1.1={
+	holder=1000205287 #Badlay
+}
+1050.1.1={
+	holder=1000205288 #Maxamuud
+}
+1080.1.1={
+	holder=1000205289 #Geeddi
+}
+1110.1.1={
+	holder=1000205290 #Ibrahiim_Abraham
+}
+1140.1.1={
+	holder=1000205291 #Khalid
+}
+1170.1.1={
+	holder=1000205292 #Samakab
+}
+1200.1.1={
+	holder=1000205293 #Abdullah
+}
+1230.1.1={
+	holder=1000205294 #Nahwi
+}
+1260.1.1={
+	holder=1000205295 #Sherif
+}
+1290.1.1={
+	holder=1000205296 #Mohamud
+}
+1320.1.1={
+	holder=1000205297 #Ibraahin
+}
+1350.1.1={
+	holder=1000205298 #Khayre
+}

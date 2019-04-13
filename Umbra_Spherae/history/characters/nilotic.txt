@@ -1,0 +1,4425 @@
+#Adida Dynasty (Placeholders for Funj)
+
+1000203101 = {
+	name="Mabior"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203102 = {
+	name="Ntimama"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203101
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203103 = {
+	name="Tonkei"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203102
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203104 = {
+	name="Deng"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203103
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203105 = {
+	name="Deng"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203104
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203106 = {
+	name="Mabior"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203105
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203107 = {
+	name="Mayol"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203106
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203108 = {
+	name="Mbiraru"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203107
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203109 = {
+	name="Lemashon"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203108
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203110 = {
+	name="Maitera"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203109
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203111 = {
+	name="Surum"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203110
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203112 = {
+	name="Sironka"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203111
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203113 = {
+	name="Sironka"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203112
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203114 = {
+	name="Mejooli"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203113
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203115 = {
+	name="Lolkerra"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203114
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203116 = {
+	name="Lembui"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203115
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203117 = {
+	name="Lembui"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203116
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203118 = {
+	name="Masigonde"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203117
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203119 = {
+	name="Kuur"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203118
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203120 = {
+	name="Jok"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203119
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203121 = {
+	name="Lolkerra"
+	dynasty=1000078007 #Adida
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203120
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Odondi Dynasty (Placeholders for Dinka)
+
+1000203122 = {
+	name="Garang"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203123 = {
+	name="Nampazo"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203122
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203124 = {
+	name="Murunga"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203123
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203125 = {
+	name="Naengop"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203124
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203126 = {
+	name="Teng"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203125
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203127 = {
+	name="Lemaron"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203126
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203128 = {
+	name="Bol"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203127
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203129 = {
+	name="Naengop"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203128
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203130 = {
+	name="Sankei"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203129
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203131 = {
+	name="Legeny"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203130
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203132 = {
+	name="Lemayian"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203131
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203133 = {
+	name="Kurary"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203132
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203134 = {
+	name="Lemuanik"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203133
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203135 = {
+	name="Teng"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203134
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203136 = {
+	name="Mbiraru"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203135
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203137 = {
+	name="Mayol"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203136
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203138 = {
+	name="Koinet"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203137
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203139 = {
+	name="Simel"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203138
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203140 = {
+	name="Nampazo"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203139
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203141 = {
+	name="Garang"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203140
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203142 = {
+	name="Kurary"
+	dynasty=1000078008 #Odondi
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203141
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Ahenda Dynasty (Placeholders for Shilluk)
+
+1000203143 = {
+	name="Meticiki"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203144 = {
+	name="Maitera"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203143
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203145 = {
+	name="Meticiki"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203144
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203146 = {
+	name="Santamo"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203145
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203147 = {
+	name="Koinet"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203146
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203148 = {
+	name="Tonkei"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203147
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203149 = {
+	name="Legishon"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203148
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203150 = {
+	name="Mbiraru"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203149
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203151 = {
+	name="Parneres"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203150
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203152 = {
+	name="Lemashon"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203151
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203153 = {
+	name="Sabore"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203152
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203154 = {
+	name="Masigonde"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203153
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203155 = {
+	name="Lemaron"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203154
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203156 = {
+	name="Maitera"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203155
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203157 = {
+	name="Sironka"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203156
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203158 = {
+	name="Sabore"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203157
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203159 = {
+	name="Ntimama"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203158
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203160 = {
+	name="Mejooli"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203159
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203161 = {
+	name="Lemuanik"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203160
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203162 = {
+	name="Nampazo"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203161
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203163 = {
+	name="Lembui"
+	dynasty=1000078009 #Ahenda
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203162
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Odek Dynasty (Placeholders for Belanda)
+
+1000203164 = {
+	name="Masigonde"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203165 = {
+	name="Thon"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203164
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203166 = {
+	name="Murunga"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203165
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203167 = {
+	name="Legeny"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203166
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203168 = {
+	name="Lemashon"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203167
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203169 = {
+	name="Mayol"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203168
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203170 = {
+	name="Nampazo"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203169
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203171 = {
+	name="Kuur"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203170
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203172 = {
+	name="Mayol"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203171
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203173 = {
+	name="Lemayian"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203172
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203174 = {
+	name="Mabior"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203173
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203175 = {
+	name="Makuach"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203174
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203176 = {
+	name="Lolkerra"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203175
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203177 = {
+	name="Sankale"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203176
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203178 = {
+	name="Mayol"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203177
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203179 = {
+	name="Mayol"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203178
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203180 = {
+	name="Mejooli"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203179
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203181 = {
+	name="Mayol"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203180
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203182 = {
+	name="Sankei"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203181
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203183 = {
+	name="Alou"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203182
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203184 = {
+	name="Jok"
+	dynasty=1000078010 #Odek
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203183
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Okoth Dynasty (Placeholders for Anuak)
+
+1000203185 = {
+	name="Santamo"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203186 = {
+	name="Surum"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203185
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203187 = {
+	name="Marial"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203186
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203188 = {
+	name="Lolkerra"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203187
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203189 = {
+	name="Naengop"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203188
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203190 = {
+	name="Sironka"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203189
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203191 = {
+	name="Marial"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203190
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203192 = {
+	name="Legishon"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203191
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203193 = {
+	name="Koinet"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203192
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203194 = {
+	name="Legishon"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203193
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203195 = {
+	name="Lemashon"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203194
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203196 = {
+	name="Leboo"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203195
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203197 = {
+	name="Sabore"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203196
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203198 = {
+	name="Kurary"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203197
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203199 = {
+	name="Mbiraru"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203198
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203200 = {
+	name="Ntimama"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203199
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203201 = {
+	name="Ntimama"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203200
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203202 = {
+	name="Kuol"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203201
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203203 = {
+	name="Sabore"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203202
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203204 = {
+	name="Dut"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203203
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203205 = {
+	name="Lembui"
+	dynasty=1000078011 #Okoth
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203204
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Hera Dynasty (Placeholders for Wipaco)
+
+1000203206 = {
+	name="Meticiki"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203207 = {
+	name="Sironka"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203206
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203208 = {
+	name="Deng"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203207
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203209 = {
+	name="Meticiki"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203208
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203210 = {
+	name="Hol"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203209
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203211 = {
+	name="Sankei"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203210
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203212 = {
+	name="Lemuanik"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203211
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203213 = {
+	name="Leboo"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203212
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203214 = {
+	name="Tonkei"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203213
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203215 = {
+	name="Marial"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203214
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203216 = {
+	name="Marial"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203215
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203217 = {
+	name="Leboo"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203216
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203218 = {
+	name="Leboo"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203217
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203219 = {
+	name="Lemayian"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203218
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203220 = {
+	name="Marial"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203219
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203221 = {
+	name="Mbiraru"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203220
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203222 = {
+	name="Tonkei"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203221
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203223 = {
+	name="Kuol"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203222
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203224 = {
+	name="Kurary"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203223
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203225 = {
+	name="Meticiki"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203224
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203226 = {
+	name="Lemashon"
+	dynasty=1000078012 #Hera
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203225
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Ojwang Dynasty (Placeholders for Tegidi)
+
+1000203227 = {
+	name="Hol"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203228 = {
+	name="Maitera"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203227
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203229 = {
+	name="Koinet"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203228
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203230 = {
+	name="Lembui"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203229
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203231 = {
+	name="Leboo"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203230
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203232 = {
+	name="Nampazo"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203231
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203233 = {
+	name="Mbiraru"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203232
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203234 = {
+	name="Teng"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203233
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203235 = {
+	name="Masigonde"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203234
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203236 = {
+	name="Lemaron"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203235
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203237 = {
+	name="Naengop"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203236
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203238 = {
+	name="Sabore"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203237
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203239 = {
+	name="Lembui"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203238
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203240 = {
+	name="Deng"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203239
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203241 = {
+	name="Kuur"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203240
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203242 = {
+	name="Legishon"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203241
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203243 = {
+	name="Masigonde"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203242
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203244 = {
+	name="Sankale"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203243
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203245 = {
+	name="Simel"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203244
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203246 = {
+	name="Parneres"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203245
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203247 = {
+	name="Meticiki"
+	dynasty=1000078013 #Ojwang
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203246
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Bol Dynasty (Placeholders for Baar)
+
+1000203248 = {
+	name="Sankale"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203249 = {
+	name="Leboo"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203248
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203250 = {
+	name="Leboo"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203249
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203251 = {
+	name="Simel"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203250
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203252 = {
+	name="Lemayian"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203251
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203253 = {
+	name="Deng"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203252
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203254 = {
+	name="Komeyicin"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203253
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203255 = {
+	name="Meticiki"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203254
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203256 = {
+	name="Mbiraru"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203255
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203257 = {
+	name="Lemaron"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203256
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203258 = {
+	name="Hol"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203257
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203259 = {
+	name="Ntimama"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203258
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203260 = {
+	name="Chol"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203259
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203261 = {
+	name="Lolkerra"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203260
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203262 = {
+	name="Marial"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203261
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203263 = {
+	name="Ntimama"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203262
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203264 = {
+	name="Komeyicin"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203263
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203265 = {
+	name="Garang"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203264
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203266 = {
+	name="Mabior"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203265
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203267 = {
+	name="Santamo"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203266
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203268 = {
+	name="Sabore"
+	dynasty=1000078014 #Bol
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203267
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Resa Dynasty (Placeholders for Jok-a-Jok)
+
+1000203269 = {
+	name="Lemayian"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203270 = {
+	name="Lembui"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203269
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203271 = {
+	name="Lembui"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203270
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203272 = {
+	name="Naengop"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203271
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203273 = {
+	name="Parneres"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203272
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203274 = {
+	name="Koinet"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203273
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203275 = {
+	name="Alou"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203274
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203276 = {
+	name="Mayol"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203275
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203277 = {
+	name="Sironka"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203276
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203278 = {
+	name="Legeny"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203277
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203279 = {
+	name="Komeyicin"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203278
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203280 = {
+	name="Sironka"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203279
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203281 = {
+	name="Lemayian"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203280
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203282 = {
+	name="Sironka"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203281
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203283 = {
+	name="Kuur"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203282
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203284 = {
+	name="Sankale"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203283
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203285 = {
+	name="Parneres"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203284
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203286 = {
+	name="Deng"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203285
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203287 = {
+	name="Kuol"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203286
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203288 = {
+	name="Tonkei"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203287
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203289 = {
+	name="Lemaron"
+	dynasty=1000078015 #Resa
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203288
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Ogola Dynasty (Placeholders for Pakwak)
+
+1000203290 = {
+	name="Kurary"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203291 = {
+	name="Tonkei"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203290
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203292 = {
+	name="Dut"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203291
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203293 = {
+	name="Masigonde"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203292
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203294 = {
+	name="Deng"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203293
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203295 = {
+	name="Sankei"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203294
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203296 = {
+	name="Garang"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203295
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203297 = {
+	name="Oloishona"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203296
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203298 = {
+	name="Dut"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203297
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203299 = {
+	name="Lembui"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203298
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203300 = {
+	name="Jok"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203299
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203301 = {
+	name="Masigonde"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203300
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203302 = {
+	name="Deng"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203301
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203303 = {
+	name="Kuol"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203302
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203304 = {
+	name="Sankale"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203303
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203305 = {
+	name="Ntimama"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203304
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203306 = {
+	name="Alou"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203305
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203307 = {
+	name="Oloishona"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203306
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203308 = {
+	name="Thon"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203307
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203309 = {
+	name="Hol"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203308
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203310 = {
+	name="Maitera"
+	dynasty=1000078016 #Ogola
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203309
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Obama Dynasty (Placeholders for Pokot)
+
+1000203311 = {
+	name="Komeyicin"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203312 = {
+	name="Leboo"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203311
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203313 = {
+	name="Lembui"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203312
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203314 = {
+	name="Deng"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203313
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203315 = {
+	name="Parneres"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203314
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203316 = {
+	name="Meticiki"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203315
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203317 = {
+	name="Meticiki"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203316
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203318 = {
+	name="Oloishona"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203317
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203319 = {
+	name="Surum"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203318
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203320 = {
+	name="Bol"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203319
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203321 = {
+	name="Dut"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203320
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203322 = {
+	name="Nampazo"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203321
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203323 = {
+	name="Mbiraru"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203322
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203324 = {
+	name="Santamo"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203323
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203325 = {
+	name="Tonkei"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203324
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203326 = {
+	name="Sankei"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203325
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203327 = {
+	name="Lemaron"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203326
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203328 = {
+	name="Sabore"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203327
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203329 = {
+	name="Hol"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203328
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203330 = {
+	name="Thon"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203329
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203331 = {
+	name="Lolkerra"
+	dynasty=1000078017 #Obama
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203330
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Chebet Dynasty (Placeholders for Ongamo)
+
+1000203332 = {
+	name="Dut"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203333 = {
+	name="Legishon"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203332
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203334 = {
+	name="Kuur"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203333
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203335 = {
+	name="Lembui"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203334
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203336 = {
+	name="Thon"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203335
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203337 = {
+	name="Parneres"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203336
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203338 = {
+	name="Jok"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203337
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203339 = {
+	name="Naengop"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203338
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203340 = {
+	name="Lemuanik"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203339
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203341 = {
+	name="Lolkerra"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203340
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203342 = {
+	name="Marial"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203341
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203343 = {
+	name="Sabore"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203342
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203344 = {
+	name="Mejooli"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203343
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203345 = {
+	name="Surum"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203344
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203346 = {
+	name="Mayol"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203345
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203347 = {
+	name="Kuur"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203346
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203348 = {
+	name="Mbiraru"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203347
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203349 = {
+	name="Mbiraru"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203348
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203350 = {
+	name="Lembui"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203349
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203351 = {
+	name="Parneres"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203350
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203352 = {
+	name="Komeyicin"
+	dynasty=1000078018 #Chebet
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203351
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Kiptoo Dynasty (Placeholders for Kalenjin)
+
+1000203353 = {
+	name="Kuur"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203354 = {
+	name="Sironka"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203353
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203355 = {
+	name="Maitera"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203354
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203356 = {
+	name="Lembui"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203355
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203357 = {
+	name="Santamo"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203356
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203358 = {
+	name="Alou"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203357
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203359 = {
+	name="Lemashon"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203358
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203360 = {
+	name="Kuur"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203359
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203361 = {
+	name="Lemashon"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203360
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203362 = {
+	name="Legeny"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203361
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000205845 = {
+	name="Mbiraru"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203362
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000205846 = {
+	name="Kurary"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000205845
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000205847 = {
+	name="Mayol"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000205846
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000205848 = {
+	name="Mabior"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000205847
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203367 = {
+	name="Jok"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000205848
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203368 = {
+	name="Legishon"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203367
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203369 = {
+	name="Nampazo"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203368
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203370 = {
+	name="Teng"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203369
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203371 = {
+	name="Koinet"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203370
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203372 = {
+	name="Mejooli"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203371
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203373 = {
+	name="Lembui"
+	dynasty=1000078021 #Kiptoo
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203372
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Lagat Dynasty (Placeholders for Tato)
+
+1000203374 = {
+	name="Lemayian"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203375 = {
+	name="Lolkerra"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203374
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203376 = {
+	name="Masigonde"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203375
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203377 = {
+	name="Naengop"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203376
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203378 = {
+	name="Kurary"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203377
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203379 = {
+	name="Parneres"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203378
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203380 = {
+	name="Bol"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203379
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203381 = {
+	name="Lemaron"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203380
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203382 = {
+	name="Sabore"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203381
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203383 = {
+	name="Parneres"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203382
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203384 = {
+	name="Koinet"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203383
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203385 = {
+	name="Maitera"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203384
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203386 = {
+	name="Meticiki"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203385
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203387 = {
+	name="Koinet"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203386
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203388 = {
+	name="Lemaron"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203387
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203389 = {
+	name="Tonkei"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203388
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203390 = {
+	name="Sankale"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203389
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203391 = {
+	name="Teng"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203390
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203392 = {
+	name="Legishon"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203391
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203393 = {
+	name="Leboo"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203392
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203394 = {
+	name="Lemayian"
+	dynasty=1000078022 #Lagat
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203393
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Rono Dynasty (Placeholders for Dadog)
+
+1000203395 = {
+	name="Surum"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000203396 = {
+	name="Maitera"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203395
+	750.1.1={
+		birth="750.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000203397 = {
+	name="Simel"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203396
+	780.1.1={
+		birth="780.1.1"
+	}
+	840.1.1={
+		death="840.1.1"
+	}
+}
+
+1000203398 = {
+	name="Simel"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203397
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203399 = {
+	name="Meticiki"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203398
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203400 = {
+	name="Meticiki"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203399
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203401 = {
+	name="Ntimama"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203400
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203402 = {
+	name="Koinet"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203401
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203403 = {
+	name="Lemaron"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203402
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203404 = {
+	name="Chol"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203403
+	990.1.1={
+		birth="990.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000203405 = {
+	name="Sankei"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203404
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203406 = {
+	name="Alou"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203405
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203407 = {
+	name="Jok"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203406
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203408 = {
+	name="Simel"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203407
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203409 = {
+	name="Leboo"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203408
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203410 = {
+	name="Jok"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203409
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203411 = {
+	name="Lembui"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203410
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203412 = {
+	name="Alou"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203411
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203413 = {
+	name="Alou"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203412
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203414 = {
+	name="Lemayian"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203413
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203415 = {
+	name="Meticiki"
+	dynasty=1000078026 #Rono
+	religion="nilotic_pagan"
+	culture="nilotic"
+	father=1000203414
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+

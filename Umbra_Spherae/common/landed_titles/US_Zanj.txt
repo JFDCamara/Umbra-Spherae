@@ -37,6 +37,8 @@ e_zanj = {
 				holy_site=nilotic_pagan_reformed
 				holy_site=malagasy_religion
 				holy_site=malagasy_religion_reformed
+				holy_site=khoi_san_mythology
+				holy_site=khoi_san_mythology_reformed
 
 				b_kilwa_kisiwani = {
 				}
@@ -503,6 +505,8 @@ e_zanj = {
 				holy_site=nilotic_pagan_reformed
 				holy_site=malagasy_religion
 				holy_site=malagasy_religion_reformed
+				holy_site=khoi_san_mythology
+				holy_site=khoi_san_mythology_reformed
 
 				b_ampasambazimba = {
 				}

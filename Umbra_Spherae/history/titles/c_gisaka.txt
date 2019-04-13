@@ -1,0 +1,68 @@
+#Bajope Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000202912 #Ojore
+}
+780.1.1={
+	holder=1000202913 #Batte
+}
+810.1.1={
+	holder=1000202914 #Sebahive
+}
+840.1.1={
+	holder=1000202915 #Kamya
+}
+870.1.1={
+	holder=1000202916 #Bikutwala
+}
+900.1.1={
+	holder=1000202917 #Ogwambi
+}
+930.1.1={
+	holder=1000202918 #Gahuj
+}
+960.1.1={
+	holder=1000202919 #Gwandoya
+}
+990.1.1={
+	holder=1000202920 #Mubiru
+}
+1020.1.1={
+	holder=1000202921 #Kasozi
+}
+1050.1.1={
+	holder=1000202922 #Kasozi
+}
+1080.1.1={
+	holder=1000202923 #Dukuzumuremyi
+}
+1110.1.1={
+	holder=1000202924 #Birungi
+}
+1140.1.1={
+	holder=1000202925 #Gumisiriza
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000202926 #Gahuj
+}
+1200.1.1={
+	holder=1000202927 #Runihura
+}
+1230.1.1={
+	holder=1000202928 #Magomu
+}
+1260.1.1={
+	holder=1000202929 #Kasumba
+}
+1290.1.1={
+	holder=1000202930 #Batte
+}
+1320.1.1={
+	holder=1000202931 #Habimana
+}
+1350.1.1={
+	holder=1000202932 #Balondemu
+}

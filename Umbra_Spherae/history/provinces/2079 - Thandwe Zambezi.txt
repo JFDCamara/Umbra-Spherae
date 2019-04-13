@@ -1,7 +1,7 @@
 # 2079 - Thandwe
 
 # County Title
-title = c_thandwe
+title = c_thandwe_maravi
 
 # Settlements
 max_settlements = 3

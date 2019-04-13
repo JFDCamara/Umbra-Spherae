@@ -1,0 +1,65 @@
+#Odek Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203164 #Masigonde
+}
+780.1.1={
+	holder=1000203165 #Thon
+}
+810.1.1={
+	holder=1000203166 #Murunga
+}
+840.1.1={
+	holder=1000203167 #Legeny
+}
+870.1.1={
+	holder=1000203168 #Lemashon
+}
+900.1.1={
+	holder=1000203169 #Mayol
+}
+930.1.1={
+	holder=1000203170 #Nampazo
+}
+960.1.1={
+	holder=1000203171 #Kuur
+}
+990.1.1={
+	holder=1000203172 #Mayol
+}
+1020.1.1={
+	holder=1000203173 #Lemayian
+}
+1050.1.1={
+	holder=1000203174 #Mabior
+}
+1080.1.1={
+	holder=1000203175 #Makuach
+}
+1110.1.1={
+	holder=1000203176 #Lolkerra
+}
+1140.1.1={
+	holder=1000203177 #Sankale
+}
+1170.1.1={
+	holder=1000203178 #Mayol
+}
+1200.1.1={
+	holder=1000203179 #Mayol
+}
+1230.1.1={
+	holder=1000203180 #Mejooli
+}
+1260.1.1={
+	holder=1000203181 #Mayol
+}
+1290.1.1={
+	holder=1000203182 #Sankei
+}
+1320.1.1={
+	holder=1000203183 #Alou
+}
+1350.1.1={
+	holder=1000203184 #Jok
+}

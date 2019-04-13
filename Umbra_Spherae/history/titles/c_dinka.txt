@@ -1,0 +1,65 @@
+#Odondi Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000203122 #Garang
+}
+780.1.1={
+	holder=1000203123 #Nampazo
+}
+810.1.1={
+	holder=1000203124 #Murunga
+}
+840.1.1={
+	holder=1000203125 #Naengop
+}
+870.1.1={
+	holder=1000203126 #Teng
+}
+900.1.1={
+	holder=1000203127 #Lemaron
+}
+930.1.1={
+	holder=1000203128 #Bol
+}
+960.1.1={
+	holder=1000203129 #Naengop
+}
+990.1.1={
+	holder=1000203130 #Sankei
+}
+1020.1.1={
+	holder=1000203131 #Legeny
+}
+1050.1.1={
+	holder=1000203132 #Lemayian
+}
+1080.1.1={
+	holder=1000203133 #Kurary
+}
+1110.1.1={
+	holder=1000203134 #Lemuanik
+}
+1140.1.1={
+	holder=1000203135 #Teng
+}
+1170.1.1={
+	holder=1000203136 #Mbiraru
+}
+1200.1.1={
+	holder=1000203137 #Mayol
+}
+1230.1.1={
+	holder=1000203138 #Koinet
+}
+1260.1.1={
+	holder=1000203139 #Simel
+}
+1290.1.1={
+	holder=1000203140 #Nampazo
+}
+1320.1.1={
+	holder=1000203141 #Garang
+}
+1350.1.1={
+	holder=1000203142 #Kurary
+}

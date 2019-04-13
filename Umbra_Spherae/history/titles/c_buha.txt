@@ -1,0 +1,68 @@
+#Hasule Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000202996 #Wekesa
+}
+780.1.1={
+	holder=1000202997 #Runihura
+}
+810.1.1={
+	holder=1000202998 #Kibuuka
+}
+840.1.1={
+	holder=1000202999 #Kasozi
+}
+870.1.1={
+	holder=1000203000 #Nkundiushuti
+}
+900.1.1={
+	holder=1000203001 #Mulogo
+}
+930.1.1={
+	holder=1000203002 #Wekesa
+}
+960.1.1={
+	holder=1000203003 #Kurembera
+}
+990.1.1={
+	holder=1000203004 #Gahuj
+}
+1020.1.1={
+	holder=1000203005 #Munyiga
+}
+1050.1.1={
+	holder=1000203006 #Kirabo
+}
+1080.1.1={
+	holder=1000203007 #Kizza
+}
+1110.1.1={
+	holder=1000203008 #Mulogo
+}
+1140.1.1={
+	holder=1000203009 #Wasswa
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000203010 #Kasumba
+}
+1200.1.1={
+	holder=1000203011 #Kadokechi
+}
+1230.1.1={
+	holder=1000203012 #Mukuru
+}
+1260.1.1={
+	holder=1000203013 #Sentwali
+}
+1290.1.1={
+	holder=1000203014 #Kato
+}
+1320.1.1={
+	holder=1000203015 #Gahuj
+}
+1350.1.1={
+	holder=1000203016 #Kizza
+}

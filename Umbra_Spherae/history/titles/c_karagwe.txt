@@ -1,0 +1,68 @@
+#Udoma Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000202870 #Ogwambi
+}
+780.1.1={
+	holder=1000202871 #Luzige
+}
+810.1.1={
+	holder=1000202872 #Nkundiushuti
+}
+840.1.1={
+	holder=1000202873 #Ogwambi
+}
+870.1.1={
+	holder=1000202874 #Magomu
+}
+900.1.1={
+	holder=1000202875 #Isingoma
+}
+930.1.1={
+	holder=1000202876 #Bitalo
+}
+960.1.1={
+	holder=1000202877 #Nkundiushuti
+}
+990.1.1={
+	holder=1000202878 #Lutalo
+}
+1020.1.1={
+	holder=1000202879 #Lutalo
+}
+1050.1.1={
+	holder=1000202880 #Businge
+}
+1080.1.1={
+	holder=1000202881 #Kamya
+}
+1110.1.1={
+	holder=1000202882 #Madongo
+}
+1140.1.1={
+	holder=1000202883 #Wekesa
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000202884 #Niyonzima
+}
+1200.1.1={
+	holder=1000202885 #Najja
+}
+1230.1.1={
+	holder=1000202886 #Munyiga
+}
+1260.1.1={
+	holder=1000202887 #Habimana
+}
+1290.1.1={
+	holder=1000202888 #Musoke
+}
+1320.1.1={
+	holder=1000202889 #Kadokechi
+}
+1350.1.1={
+	holder=1000202890 #Nyongesa
+}

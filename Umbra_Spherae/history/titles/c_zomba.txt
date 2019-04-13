@@ -1,0 +1,65 @@
+#Chilima Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205740 #Ligongo
+}
+780.1.1={
+	holder=1000205741 #Tamandani
+}
+810.1.1={
+	holder=1000205742 #Chisomo
+}
+840.1.1={
+	holder=1000205743 #Tionge
+}
+870.1.1={
+	holder=1000205744 #Tamandani
+}
+900.1.1={
+	holder=1000205745 #Takondwa
+}
+930.1.1={
+	holder=1000205746 #Njowga
+}
+960.1.1={
+	holder=1000205747 #Pemphero
+}
+990.1.1={
+	holder=1000205748 #Tamandani
+}
+1020.1.1={
+	holder=1000205749 #Kondwani
+}
+1050.1.1={
+	holder=1000205750 #Penjani
+}
+1080.1.1={
+	holder=1000205751 #Chiyembekezo
+}
+1110.1.1={
+	holder=1000205752 #Tadala
+}
+1140.1.1={
+	holder=1000205753 #Chikondi
+}
+1170.1.1={
+	holder=1000205754 #Mayeso
+}
+1200.1.1={
+	holder=1000205755 #Chisomo
+}
+1230.1.1={
+	holder=1000205756 #Masamba
+}
+1260.1.1={
+	holder=1000205757 #Usi
+}
+1290.1.1={
+	holder=1000205758 #Pilirani
+}
+1320.1.1={
+	holder=1000205759 #Madalitso
+}
+1350.1.1={
+	holder=1000205760 #Chimwala
+}

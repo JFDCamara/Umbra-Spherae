@@ -1,0 +1,65 @@
+#Kaluwa Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205782 #Mphatso
+}
+780.1.1={
+	holder=1000205783 #Mtendere
+}
+810.1.1={
+	holder=1000205784 #Kondwani
+}
+840.1.1={
+	holder=1000205785 #Chiumbo
+}
+870.1.1={
+	holder=1000205786 #Masozi
+}
+900.1.1={
+	holder=1000205787 #Njowga
+}
+930.1.1={
+	holder=1000205788 #Chiyembekezo
+}
+960.1.1={
+	holder=1000205789 #Ligongo
+}
+990.1.1={
+	holder=1000205790 #Lipapwiche
+}
+1020.1.1={
+	holder=1000205791 #Takondwa
+}
+1050.1.1={
+	holder=1000205792 #Penjani
+}
+1080.1.1={
+	holder=1000205793 #Tuwile
+}
+1110.1.1={
+	holder=1000205794 #Mayamiko
+}
+1140.1.1={
+	holder=1000205795 #Chimwemwe
+}
+1170.1.1={
+	holder=1000205796 #Mayamiko
+}
+1200.1.1={
+	holder=1000205797 #Chimwemwe
+}
+1230.1.1={
+	holder=1000205798 #Mayamiko
+}
+1260.1.1={
+	holder=1000205799 #Tiyamike
+}
+1290.1.1={
+	holder=1000205800 #Chimwemwe
+}
+1320.1.1={
+	holder=1000205801 #Useni
+}
+1350.1.1={
+	holder=1000205802 #Nthanda
+}

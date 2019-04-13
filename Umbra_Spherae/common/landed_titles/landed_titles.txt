@@ -36782,19 +36782,6 @@ e_abyssinia = {
 			c_kaffa = {
 				color={ 141 135 10 }
 				color2={ 255 255 255 }
-			
-				holy_site=south_bantu_mythology
-				holy_site=south_bantu_mythology_reformed
-				holy_site=east_bantu_mythology
-				holy_site=east_bantu_mythology_reformed
-				holy_site=omotic_pagan
-				holy_site=omotic_pagan_reformed
-				holy_site=cushitic_pagan
-				holy_site=cushitic_pagan_reformed
-				holy_site=nilotic_pagan
-				holy_site=nilotic_pagan_reformed
-				holy_site=malagasy_religion
-				holy_site=malagasy_religion_reformed
 
 				b_kaffa_kaffa = {
 				}

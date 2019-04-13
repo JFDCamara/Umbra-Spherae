@@ -1,0 +1,65 @@
+#Tembo Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205761 #Takondwa
+}
+780.1.1={
+	holder=1000205762 #Ganizani
+}
+810.1.1={
+	holder=1000205763 #Chiyembekezo
+}
+840.1.1={
+	holder=1000205764 #Fatsani
+}
+870.1.1={
+	holder=1000205765 #Mpenda
+}
+900.1.1={
+	holder=1000205766 #Chikumbutso
+}
+930.1.1={
+	holder=1000205767 #Fatsani
+}
+960.1.1={
+	holder=1000205768 #Fatsani
+}
+990.1.1={
+	holder=1000205769 #Dalitso
+}
+1020.1.1={
+	holder=1000205770 #Makalani
+}
+1050.1.1={
+	holder=1000205771 #Chifuniro
+}
+1080.1.1={
+	holder=1000205772 #Chiyembekezo
+}
+1110.1.1={
+	holder=1000205773 #Thabiti
+}
+1140.1.1={
+	holder=1000205774 #Nthanda
+}
+1170.1.1={
+	holder=1000205775 #Pilirani
+}
+1200.1.1={
+	holder=1000205776 #Nangwaya
+}
+1230.1.1={
+	holder=1000205777 #Thokozani
+}
+1260.1.1={
+	holder=1000205778 #Yamikani
+}
+1290.1.1={
+	holder=1000205779 #Lipapwiche
+}
+1320.1.1={
+	holder=1000205780 #Chimwala
+}
+1350.1.1={
+	holder=1000205781 #Dalitso
+}

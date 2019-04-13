@@ -18,14 +18,14 @@ int main() {
     
 
     
-    int initial_char_number = 1000080021;
+    int initial_char_number = 1000205824;
     int initial_date = 720;
     int final_date = 1320;
-    int dynasty_number = 1000028375;
+    int dynasty_number = 1000078052;
     
-    char dynasty[] = "Tongofa";
-    char religion[] = "\"south_bantu_mythology\"";
-    char culture[] = "\"karanga\"";
+    char dynasty[] = "Mhango";
+    char religion[] = "\"east_bantu_mythology\"";
+    char culture[] = "\"rufiji_nyasa\"";
     
     //printf("%s", dynasty);
 

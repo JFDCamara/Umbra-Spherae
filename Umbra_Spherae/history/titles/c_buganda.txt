@@ -1,0 +1,68 @@
+#Lugave Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000202786 #Habimana
+}
+780.1.1={
+	holder=1000202787 #Ogwambi
+}
+810.1.1={
+	holder=1000202788 #Kasumba
+}
+840.1.1={
+	holder=1000202789 #Wekesa
+}
+870.1.1={
+	holder=1000202790 #Munanire
+}
+900.1.1={
+	holder=1000202791 #Adroa
+}
+930.1.1={
+	holder=1000202792 #Gumisiriza
+}
+960.1.1={
+	holder=1000202793 #Kasumba
+}
+990.1.1={
+	holder=1000202794 #Mubiru
+}
+1020.1.1={
+	holder=1000202795 #Nyongesa
+}
+1050.1.1={
+	holder=1000202796 #Sentwali
+}
+1080.1.1={
+	holder=1000202797 #Mutabazi
+}
+1110.1.1={
+	holder=1000202798 #Mutabazi
+}
+1140.1.1={
+	holder=1000202799 #Munyiga
+}
+1170.1.1={
+	liege="k_kitara"
+}
+1170.1.1={
+	holder=1000202800 #Simyu
+}
+1200.1.1={
+	holder=1000202801 #Simyu
+}
+1230.1.1={
+	holder=1000202802 #Lutalo
+}
+1260.1.1={
+	holder=1000202803 #Gahiji
+}
+1290.1.1={
+	holder=1000202804 #Isingoma
+}
+1320.1.1={
+	holder=1000202805 #Runihura
+}
+1350.1.1={
+	holder=1000202806 #Habimana
+}

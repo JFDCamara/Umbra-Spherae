@@ -86,35 +86,35 @@ silk_road = {
 			province_id = 2924
 			province_id = 2937
 
-			province_id = 1926
-			province_id = 1927
-			province_id = 1928
-			province_id = 1929
-			province_id = 1930
-			province_id = 1931
-			province_id = 1932
-			province_id = 1933
-			province_id = 1934
-			province_id = 1935
-			province_id = 1936
-			province_id = 1937
-			province_id = 1938
-			province_id = 1939
-			province_id = 1940
-			province_id = 1943
-			province_id = 1945
-			province_id = 1946
-			province_id = 1947
-			province_id = 1647
+			province_id = 3240
+			province_id = 3241
+			province_id = 3242
+			province_id = 3243
+			province_id = 3244
+			province_id = 3245
+			province_id = 3246
+			province_id = 3247
+			province_id = 3248
+			province_id = 3249
+			province_id = 3250
+			province_id = 3251
+			province_id = 3252
+			province_id = 3253
+			province_id = 3254
+			province_id = 3257
+			province_id = 3259
+			province_id = 3260
+			province_id = 3261
+			province_id = 2961
 
-			province_id = 1948
-			province_id = 1958
-			province_id = 1960
-			province_id = 1963
-			province_id = 1658
-			province_id = 1662
-			province_id = 1654
-			province_id = 1655
+			province_id = 3262
+			province_id = 3272
+			province_id = 3274
+			province_id = 3277
+			province_id = 2972
+			province_id = 2976
+			province_id = 2968
+			province_id = 2969
 			
 			province_id = 2414
 			province_id = 2413
@@ -234,7 +234,7 @@ silk_road = {
 		1114 1400 1220 1399 1127
 	}
 	path = { # Offmap -> Mahoyadapuram(Muziris)
-		1512 1403 1402 1401 1114
+		1403 1402 1401 1114
 	}
 	path = { # Vijayawada(Masulipatam) -> Navasarika
 		1221 1207 1253 1209 1144 1257 1143 1212 1142 1145 1264 1127
@@ -251,8 +251,11 @@ silk_road = {
 	path = {	# Hormuz-Ahvaz
 		641 642 644 645 647
 	}
-	path = {	# Banbhore-Muscat-Aden-Mecca-Cairo-Alexandria
-		1297 1412 1391 868 1390 866 1389 1369 1388 871 1387 1386 858 859 1532 1385 1384 716 719 718 1536 1383 1320 794 791 795 796 797 802
+	path = {	# Banbhore-Muscat-Aden
+		1297 1412 1391 868 1390 866 1389 1369 1388
+	}
+	path = {	# Aden-Mecca-Cairo-Alexandria
+		1388 871 1387 1386 858 859 1532 1385 1384 716 719 718 1536 1383 1320 794 791 795 796 797 802
 	}
 
 	# Asia Minor Silk Route

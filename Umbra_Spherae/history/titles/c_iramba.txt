@@ -1,0 +1,65 @@
+#Kamau Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205362 #Muchoki
+}
+780.1.1={
+	holder=1000205363 #Gicheha
+}
+810.1.1={
+	holder=1000205364 #Murigi
+}
+840.1.1={
+	holder=1000205365 #Omariba
+}
+870.1.1={
+	holder=1000205366 #Gathongo
+}
+900.1.1={
+	holder=1000205367 #Muthui
+}
+930.1.1={
+	holder=1000205368 #Gathanja
+}
+960.1.1={
+	holder=1000205369 #Makena
+}
+990.1.1={
+	holder=1000205370 #Nyamu
+}
+1020.1.1={
+	holder=1000205371 #Munyambu
+}
+1050.1.1={
+	holder=1000205372 #Ciugu
+}
+1080.1.1={
+	holder=1000205373 #Wambua
+}
+1110.1.1={
+	holder=1000205374 #Onkwani
+}
+1140.1.1={
+	holder=1000205375 #Gathanja
+}
+1170.1.1={
+	holder=1000205376 #Kibaki
+}
+1200.1.1={
+	holder=1000205377 #Mbiti
+}
+1230.1.1={
+	holder=1000205378 #Gachara
+}
+1260.1.1={
+	holder=1000205379 #Watene
+}
+1290.1.1={
+	holder=1000205380 #Gitura
+}
+1320.1.1={
+	holder=1000205381 #Waititu
+}
+1350.1.1={
+	holder=1000205382 #Muthui
+}

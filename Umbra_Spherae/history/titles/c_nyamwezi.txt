@@ -1,0 +1,65 @@
+#Liiso Dynasty (Placeholders)
+
+750.1.1={
+	holder=1000205404 #Wamahiu
+}
+780.1.1={
+	holder=1000205405 #Gichohi
+}
+810.1.1={
+	holder=1000205406 #Kibachia
+}
+840.1.1={
+	holder=1000205407 #Karanja
+}
+870.1.1={
+	holder=1000205408 #Musyoka
+}
+900.1.1={
+	holder=1000205409 #Makau
+}
+930.1.1={
+	holder=1000205410 #Wanjohi
+}
+960.1.1={
+	holder=1000205411 #Ngengi
+}
+990.1.1={
+	holder=1000205412 #Gachara
+}
+1020.1.1={
+	holder=1000205413 #Onkwani
+}
+1050.1.1={
+	holder=1000205414 #Muchoki
+}
+1080.1.1={
+	holder=1000205415 #Morani
+}
+1110.1.1={
+	holder=1000205416 #Nzoka
+}
+1140.1.1={
+	holder=1000205417 #Munyambu
+}
+1170.1.1={
+	holder=1000205418 #Kinyanjui
+}
+1200.1.1={
+	holder=1000205419 #Omariba
+}
+1230.1.1={
+	holder=1000205420 #Kamau
+}
+1260.1.1={
+	holder=1000205421 #Omwancha
+}
+1290.1.1={
+	holder=1000205422 #Ngichu
+}
+1320.1.1={
+	holder=1000205423 #Waititu
+}
+1350.1.1={
+	holder=1000205424 #Ciugu
+}
