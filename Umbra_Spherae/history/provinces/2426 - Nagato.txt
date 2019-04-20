@@ -9,7 +9,7 @@ b_toyoura = castle
 b_saba = castle
 b_kumage = castle
 
-#b_asa = castle
+#b_asa_nagato = castle
 #b_yoshiki = castle
 #b_abu_nagato = castle
 #b_yamaguchi = castle

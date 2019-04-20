@@ -1,65 +1,65 @@
 #Mwangi Dynasty (Placeholders)
 
 750.1.1={
-	holder=1000205299 #Muga
+	holder=1000205320 #Muga
 }
 780.1.1={
-	holder=1000205300 #Gichohi
+	holder=1000205321 #Gichohi
 }
 810.1.1={
-	holder=1000205301 #Mburu
+	holder=1000205322 #Mburu
 }
 840.1.1={
-	holder=1000205302 #Makori
+	holder=1000205323 #Makori
 }
 870.1.1={
-	holder=1000205303 #Gichuhi
+	holder=1000205324 #Gichuhi
 }
 900.1.1={
-	holder=1000205304 #Wanjohi
+	holder=1000205325 #Wanjohi
 }
 930.1.1={
-	holder=1000205305 #Maina
+	holder=1000205326 #Maina
 }
 960.1.1={
-	holder=1000205306 #Wanjohi
+	holder=1000205327 #Wanjohi
 }
 990.1.1={
-	holder=1000205307 #Ngengi
+	holder=1000205328 #Ngengi
 }
 1020.1.1={
-	holder=1000205308 #Murimi
+	holder=1000205329 #Murimi
 }
 1050.1.1={
-	holder=1000205309 #Munyambu
+	holder=1000205330 #Munyambu
 }
 1080.1.1={
-	holder=1000205310 #Wamahiu
+	holder=1000205331 #Wamahiu
 }
 1110.1.1={
-	holder=1000205311 #Sokoro
+	holder=1000205332 #Sokoro
 }
 1140.1.1={
-	holder=1000205312 #Nyamu
+	holder=1000205333 #Nyamu
 }
 1170.1.1={
-	holder=1000205313 #Nyamu
+	holder=1000205334 #Nyamu
 }
 1200.1.1={
-	holder=1000205314 #Waititu
+	holder=1000205335 #Waititu
 }
 1230.1.1={
-	holder=1000205315 #Mutongoi
+	holder=1000205336 #Mutongoi
 }
 1260.1.1={
-	holder=1000205316 #Omariba
+	holder=1000205337 #Omariba
 }
 1290.1.1={
-	holder=1000205317 #Murimi
+	holder=1000205338 #Murimi
 }
 1320.1.1={
-	holder=1000205318 #Muthui
+	holder=1000205339 #Muthui
 }
 1350.1.1={
-	holder=1000205319 #Gichuki
+	holder=1000205340 #Gichuki
 }

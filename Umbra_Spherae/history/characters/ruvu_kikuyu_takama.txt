@@ -1,6 +1,6 @@
 #Mwangi Dynasty (Placeholders for Sabaki)
 
-1000205299 = {
+1000205320 = {
 	name="Muga"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
@@ -13,12 +13,12 @@
 	}
 }
 
-1000205300 = {
+1000205321 = {
 	name="Gichohi"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205299
+	father=1000205320
 	750.1.1={
 		birth="750.1.1"
 	}
@@ -27,12 +27,12 @@
 	}
 }
 
-1000205301 = {
+1000205322 = {
 	name="Mburu"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205300
+	father=1000205321
 	780.1.1={
 		birth="780.1.1"
 	}
@@ -41,12 +41,12 @@
 	}
 }
 
-1000205302 = {
+1000205323 = {
 	name="Makori"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205301
+	father=1000205322
 	810.1.1={
 		birth="810.1.1"
 	}
@@ -55,12 +55,12 @@
 	}
 }
 
-1000205303 = {
+1000205324 = {
 	name="Gichuhi"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205302
+	father=1000205323
 	840.1.1={
 		birth="840.1.1"
 	}
@@ -69,12 +69,12 @@
 	}
 }
 
-1000205304 = {
+1000205325 = {
 	name="Wanjohi"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205303
+	father=1000205324
 	870.1.1={
 		birth="870.1.1"
 	}
@@ -83,12 +83,12 @@
 	}
 }
 
-1000205305 = {
+1000205326 = {
 	name="Maina"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205304
+	father=1000205325
 	900.1.1={
 		birth="900.1.1"
 	}
@@ -97,12 +97,12 @@
 	}
 }
 
-1000205306 = {
+1000205327 = {
 	name="Wanjohi"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205305
+	father=1000205326
 	930.1.1={
 		birth="930.1.1"
 	}
@@ -111,12 +111,12 @@
 	}
 }
 
-1000205307 = {
+1000205328 = {
 	name="Ngengi"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205306
+	father=1000205327
 	960.1.1={
 		birth="960.1.1"
 	}
@@ -125,12 +125,12 @@
 	}
 }
 
-1000205308 = {
+1000205329 = {
 	name="Murimi"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205307
+	father=1000205328
 	990.1.1={
 		birth="990.1.1"
 	}
@@ -139,12 +139,12 @@
 	}
 }
 
-1000205309 = {
+1000205330 = {
 	name="Munyambu"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205308
+	father=1000205329
 	1020.1.1={
 		birth="1020.1.1"
 	}
@@ -153,12 +153,12 @@
 	}
 }
 
-1000205310 = {
+1000205331 = {
 	name="Wamahiu"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205309
+	father=1000205330
 	1050.1.1={
 		birth="1050.1.1"
 	}
@@ -167,12 +167,12 @@
 	}
 }
 
-1000205311 = {
+1000205332 = {
 	name="Sokoro"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205310
+	father=1000205331
 	1080.1.1={
 		birth="1080.1.1"
 	}
@@ -181,12 +181,12 @@
 	}
 }
 
-1000205312 = {
+1000205333 = {
 	name="Nyamu"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205311
+	father=1000205332
 	1110.1.1={
 		birth="1110.1.1"
 	}
@@ -195,12 +195,12 @@
 	}
 }
 
-1000205313 = {
+1000205334 = {
 	name="Nyamu"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205312
+	father=1000205333
 	1140.1.1={
 		birth="1140.1.1"
 	}
@@ -209,12 +209,12 @@
 	}
 }
 
-1000205314 = {
+1000205335 = {
 	name="Waititu"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205313
+	father=1000205334
 	1170.1.1={
 		birth="1170.1.1"
 	}
@@ -223,12 +223,12 @@
 	}
 }
 
-1000205315 = {
+1000205336 = {
 	name="Mutongoi"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205314
+	father=1000205335
 	1200.1.1={
 		birth="1200.1.1"
 	}
@@ -237,12 +237,12 @@
 	}
 }
 
-1000205316 = {
+1000205337 = {
 	name="Omariba"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205315
+	father=1000205336
 	1230.1.1={
 		birth="1230.1.1"
 	}
@@ -251,12 +251,12 @@
 	}
 }
 
-1000205317 = {
+1000205338 = {
 	name="Murimi"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205316
+	father=1000205337
 	1260.1.1={
 		birth="1260.1.1"
 	}
@@ -265,12 +265,12 @@
 	}
 }
 
-1000205318 = {
+1000205339 = {
 	name="Muthui"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205317
+	father=1000205338
 	1290.1.1={
 		birth="1290.1.1"
 	}
@@ -279,12 +279,12 @@
 	}
 }
 
-1000205319 = {
+1000205340 = {
 	name="Gichuki"
 	dynasty=1000078020 #Mwangi
 	religion="east_bantu_mythology"
 	culture="ruvu_kikuyu_takama"
-	father=1000205318
+	father=1000205339
 	1320.1.1={
 		birth="1320.1.1"
 	}

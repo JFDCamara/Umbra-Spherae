@@ -617,7 +617,7 @@ e_japan = {
                 		}
                 		b_kumage = {
                 		}
-                		b_asa = {
+                		b_asa_nagato = {
                 		}
                 		b_yoshiki = {
                 		}
