@@ -1,15 +1,15 @@
 You only need to do this once
 
-1. Install this: https://git-lfs.github.com/
+1. make sure the file over 100 Mb is not placed in the Github directory yet
 
-2. Open the Git Shell (I have a shortcut in the desktop for it, if not try to install it from the github site or something)
+2. Install this: https://git-lfs.github.com/
 
-3. type "cd Umbra-Spherae" without the "
+3. Open the Git Shell (I have a shortcut in the desktop for it, if not try to install it from the github site or something)
 
-4. type "git lfs track "*.bmp""
+4. type "cd Umbra-Spherae\increased_map" without the "
 
-5. type "git add .gitattributes"
+5. type "git lfs track "*.bmp""
+
+6. place the big file in the increased_map folder
 
 Done, now you can upload big bmp files, do it normally in Github.
-In the first time it will take a long time to upload things as all the bmps will be tagged.
-I'll try to check later if we can only refer the map folder (when the new large map is fully functional).
